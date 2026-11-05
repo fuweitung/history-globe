@@ -20,6 +20,26 @@
     -1450
   ],
   "summary": "A Bronze Age palace civilisation on Crete with far-reaching sea trade, known for Knossos and its frescoes.",
+  "knownFor": [
+    {
+      "label": "Palace of Knossos",
+      "kind": "monument",
+      "year": -1700,
+      "note": "A huge palace complex."
+    },
+    {
+      "label": "Frescoes",
+      "kind": "art",
+      "year": -1600,
+      "note": "Bright wall paintings of bull-leaping and sea life."
+    },
+    {
+      "label": "Linear A",
+      "kind": "idea",
+      "year": -1800,
+      "note": "A script still undeciphered."
+    }
+  ],
   "checklist": {
     "geography": {
       "location": {

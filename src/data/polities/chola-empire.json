@@ -1,0 +1,310 @@
+{
+  "id": "chola-empire",
+  "name": "Chola Empire",
+  "era": "medieval",
+  "region": "South Asia & Indian Ocean",
+  "startYear": 848,
+  "endYear": 1279,
+  "capital": "Thanjavur; Gangaikonda Cholapuram",
+  "capitalCoords": [
+    79.13,
+    10.78
+  ],
+  "summary": "A Tamil dynasty of south India that became a sea power. Its navy raided Srivijaya in 1025 and its rulers built the great temple of Thanjavur.",
+  "borderNames": [
+    "Chola Empire",
+    "Cholas"
+  ],
+  "borderYears": [
+    848,
+    1279
+  ],
+  "color": "#c45a3a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "South India; at its height, peninsular India south of the Tungabhadra.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chola dynasty (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "The Kaveri river delta and the coast.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      },
+      "climate": {
+        "value": "Tropical monsoon.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      },
+      "resources": {
+        "value": "Rice, textiles, spices.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      },
+      "disasters": {
+        "value": "No specific disasters are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      },
+      "urbanisation": {
+        "value": "Thanjavur and Gangaikonda Cholapuram.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      },
+      "disease": {
+        "value": "No specific epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      },
+      "migration": {
+        "value": "Tamil merchant guilds (such as the Ainnurruvar) traded across Southeast Asia.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Rice farming and trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      },
+      "tradeRoutes": {
+        "value": "Indian Ocean trade to Southeast Asia and China.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      },
+      "moneyAndTax": {
+        "value": "Gold and silver coins.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chola dynasty (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "Temples and landholders controlled much wealth.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Imperial monarchy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chola dynasty (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Rajaraja I (985–1014), Rajendra I (1012–1044), Kulothunga I.",
+        "year": 985,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chola dynasty (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Hereditary.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      },
+      "institutions": {
+        "value": "Village assemblies (sabha).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      },
+      "stability": {
+        "value": "Stable at its height, with strong village self-government.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "A large navy.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      },
+      "majorWars": {
+        "value": "Naval raid on Srivijaya (1025).",
+        "year": 1025,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      },
+      "territoryChange": {
+        "value": "Conquered Sri Lanka (c. 1017) and raided as far as the Ganges and Srivijaya.",
+        "year": 1030,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: Chalukyas, Pandyas, Srivijaya.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Bronze casting.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      },
+      "scienceEducation": {
+        "value": "Temple schools and colleges taught Sanskrit and Tamil.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      },
+      "openness": {
+        "value": "Sent embassies and trade missions to Song China.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Hinduism (Shaiva).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      },
+      "languageWriting": {
+        "value": "Tamil.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chola dynasty (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "Brihadisvara Temple; Chola bronzes.",
+        "year": 1010,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      },
+      "socialStructure": {
+        "value": "Brahmins, landowners, artisans.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      },
+      "sharedIdentity": {
+        "value": "Tamil language and Shaiva Hindu culture.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Chalukyas, Pandyas, Srivijaya.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      },
+      "ideasReligions": {
+        "value": "Spread Hindu culture and Tamil trade networks overseas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Vijayalaya took Thanjavur (c. 850), founding the imperial line.",
+        "year": 850,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chola dynasty (checked 6 Nov 2026); Sastri, The Cholas (1955)"
+      },
+      "peakPeriod": {
+        "value": "Under Rajaraja I and Rajendra I, a military, economic and cultural powerhouse of South and Southeast Asia.",
+        "year": 1025,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chola dynasty (checked 6 Nov 2026)"
+      },
+      "declineSignals": {
+        "value": "Revolts and the rise of the Pandyas and Hoysalas in the 13th century.",
+        "year": 1200,
+        "certainty": "estimated",
+        "source": "Sastri, The Cholas (1955)"
+      },
+      "outcome": {
+        "value": "The main line ended in 1279; the Pandyas took over the Tamil country.",
+        "year": 1279,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chola dynasty (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Inscriptions. Checked against Wikipedia (“Chola dynasty”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chola dynasty (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Good. Thousands of temple inscriptions survive.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chola dynasty (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Brihadisvara Temple",
+      "kind": "monument",
+      "year": 1010,
+      "note": "The great temple at Thanjavur, built under Rajaraja I."
+    },
+    {
+      "label": "Chola bronzes",
+      "kind": "art",
+      "note": "Bronze statues of Hindu gods such as Shiva Nataraja, made by lost-wax casting."
+    },
+    {
+      "label": "Chola navy",
+      "kind": "troops",
+      "year": 1025,
+      "note": "A fleet that raided Srivijaya and conquered Sri Lanka."
+    }
+  ]
+}

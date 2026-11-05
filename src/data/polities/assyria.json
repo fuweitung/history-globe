@@ -1,0 +1,317 @@
+{
+  "id": "assyria",
+  "name": "Assyria",
+  "era": "ancient",
+  "region": "Mesopotamia (Middle East)",
+  "startYear": -2025,
+  "endYear": -609,
+  "datesApproximate": true,
+  "capital": "Assur; later Nimrud, Nineveh",
+  "capitalCoords": [
+    43.15,
+    36.36
+  ],
+  "summary": "A Mesopotamian kingdom from the city of Assur that became the first great military superpower. At its height it ruled from Egypt to Iran.",
+  "borderNames": [
+    "Assyria"
+  ],
+  "borderYears": [
+    -2025,
+    -609
+  ],
+  "color": "#8a3f3f",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Northern Mesopotamia, on the Tigris, ruled from Assur, later Nimrud and Nineveh.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Assyria (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Rain-fed farmland and hills along the upper Tigris.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Frahm (ed.), A Companion to Assyria (2017)"
+      },
+      "climate": {
+        "value": "Some research links late drought to the empire’s collapse.",
+        "year": -630,
+        "certainty": "estimated",
+        "source": "Frahm (ed.), A Companion to Assyria (2017)"
+      },
+      "resources": {
+        "value": "Grain from rain-fed farms; metals, horses and timber came by trade or tribute.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Frahm (ed.), A Companion to Assyria (2017)"
+      },
+      "disasters": {
+        "value": "Drought and river floods.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Frahm (ed.), A Companion to Assyria (2017)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate. Nineveh was among the largest cities of its time.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Frahm (ed.), A Companion to Assyria (2017)"
+      },
+      "urbanisation": {
+        "value": "Capitals moved from Assur to Nimrud (879 BCE), Dur-Sharrukin (706 BCE) and Nineveh (705 BCE).",
+        "year": -700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Assyria (checked 6 Nov 2026)"
+      },
+      "disease": {
+        "value": "Epidemics are mentioned in the 8th century BCE.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Frahm (ed.), A Companion to Assyria (2017)"
+      },
+      "migration": {
+        "value": "Mass deportations moved hundreds of thousands of people around the empire.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Frahm (ed.), A Companion to Assyria (2017)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Agriculture, tribute from conquered lands, and earlier long-distance trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Frahm (ed.), A Companion to Assyria (2017)"
+      },
+      "tradeRoutes": {
+        "value": "Old Assyrian merchants traded tin and textiles to Kanesh in Anatolia (the Kültepe tablets).",
+        "year": -1900,
+        "certainty": "estimated",
+        "source": "Frahm (ed.), A Companion to Assyria (2017)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Frahm (ed.), A Companion to Assyria (2017)"
+      },
+      "moneyAndTax": {
+        "value": "Silver by weight; tribute and taxes collected from provinces.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Frahm (ed.), A Companion to Assyria (2017)"
+      },
+      "inequality": {
+        "value": "King and nobles at the top; deportees and slaves at the bottom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Frahm (ed.), A Companion to Assyria (2017)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy. The king was the representative of the god Ashur.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Assyria (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Shamshi-Adad I, Ashur-uballit I, Tiglath-Pileser III (745–727 BCE), Sargon II, Sennacherib (705–681 BCE), Ashurbanipal (669–631 BCE).",
+        "year": -745,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Assyria (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Hereditary, but often contested, sometimes through murder (Sennacherib was killed by his sons).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Frahm (ed.), A Companion to Assyria (2017)"
+      },
+      "institutions": {
+        "value": "Provinces under governors, a royal road and postal system, and the first large libraries.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Assyria (checked 6 Nov 2026)"
+      },
+      "stability": {
+        "value": "Repeated revolts in Babylon and a civil war between Ashurbanipal and his brother (652–648 BCE).",
+        "year": -650,
+        "certainty": "estimated",
+        "source": "Frahm (ed.), A Companion to Assyria (2017)"
+      },
+      "eliteConflict": {
+        "value": "Succession conflicts, including the murder of Sennacherib.",
+        "year": -681,
+        "certainty": "estimated",
+        "source": "Frahm (ed.), A Companion to Assyria (2017)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "The strongest army of its time: iron weapons, cavalry, chariots, siege engines and a professional standing army.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Assyria (checked 6 Nov 2026)"
+      },
+      "majorWars": {
+        "value": "Conquest of Israel (722 BCE), Babylon (729 BCE), and Egypt (671 BCE).",
+        "year": -671,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Assyria (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "At its height it ruled from Egypt to western Iran.",
+        "year": -671,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Assyria (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: Babylon, Elam, Urartu, Egypt and the Medes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Assyria (checked 6 Nov 2026)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Large-scale use of iron weapons, organised siege warfare, and early libraries.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Assyria (checked 6 Nov 2026)"
+      },
+      "scienceEducation": {
+        "value": "The Library of Ashurbanipal at Nineveh, with tens of thousands of clay tablets.",
+        "year": -650,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Assyria (checked 6 Nov 2026)"
+      },
+      "openness": {
+        "value": "Adopted Babylonian learning; Aramaic spread as a common language.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Frahm (ed.), A Companion to Assyria (2017)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mesopotamian religion, centred on the god Ashur.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Assyria (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Akkadian (Assyrian dialect) in cuneiform, and later Aramaic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Assyria (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "Palace relief carvings (lion hunts, sieges) and colossal winged bulls (lamassu).",
+        "year": -700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Assyria (checked 6 Nov 2026)"
+      },
+      "socialStructure": {
+        "value": "King, nobles, priests, scribes, soldiers, farmers, deportees and slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Frahm (ed.), A Companion to Assyria (2017)"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the king and the god Ashur.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Frahm (ed.), A Companion to Assyria (2017)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Babylon, Elam, Urartu, Egypt, the Medes, Israel and Judah.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Assyria (checked 6 Nov 2026)"
+      },
+      "ideasReligions": {
+        "value": "Its imperial model was copied by Babylon and Persia.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Frahm (ed.), A Companion to Assyria (2017)"
+      },
+      "colonisation": {
+        "value": "Deported conquered populations, including the Israelites of the northern kingdom.",
+        "year": -722,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Assyria (checked 6 Nov 2026)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Ashur-uballit I made Assyria a great power; Tiglath-Pileser III reorganised the army.",
+        "year": -1363,
+        "certainty": "estimated",
+        "source": "Frahm (ed.), A Companion to Assyria (2017)"
+      },
+      "peakPeriod": {
+        "value": "Under Esarhaddon and Ashurbanipal (680–631 BCE).",
+        "year": -670,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Assyria (checked 6 Nov 2026)"
+      },
+      "declineSignals": {
+        "value": "Civil war, Babylonian revolt (626 BCE), and the alliance of Babylonians, Medes and Scythians.",
+        "year": -626,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Assyria (checked 6 Nov 2026)"
+      },
+      "outcome": {
+        "value": "Nineveh fell in 612 BCE; the last king lost Harran in 609 BCE. Successors: Neo-Babylonian and Median empires.",
+        "year": -609,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Assyria (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Royal annals, palace reliefs, letters and the Library of Ashurbanipal. Checked against Wikipedia (“Assyria”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Assyria (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Good for the Neo-Assyrian period; earlier dates are approximate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Assyria (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Lamassu winged bulls",
+      "kind": "monument",
+      "year": -710,
+      "note": "Colossal human-headed winged bulls guarding palace gates."
+    },
+    {
+      "label": "Library of Ashurbanipal",
+      "kind": "idea",
+      "year": -650,
+      "note": "A royal library of clay tablets at Nineveh that preserved the Epic of Gilgamesh."
+    },
+    {
+      "label": "Iron weapons & siege engines",
+      "kind": "weapon",
+      "year": -745,
+      "note": "A professional army with iron weapons, battering rams and siege towers."
+    },
+    {
+      "label": "Palace relief carvings",
+      "kind": "art",
+      "year": -645,
+      "note": "Stone panels showing lion hunts and sieges."
+    }
+  ]
+}

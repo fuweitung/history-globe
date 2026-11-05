@@ -120,6 +120,27 @@ export interface PolitySeries {
   sources?: string[];
 }
 
+/** Kinds of signature things a civilisation is remembered for. */
+export type KnownForKind =
+  | 'textile'      // special cloth or dress (silk, kente, cotton)
+  | 'troops'       // special soldiers or units (legions, janissaries)
+  | 'weapon'       // weapons and military tools
+  | 'tool'         // inventions, tools, techniques
+  | 'monument'     // buildings and monuments
+  | 'art'          // artworks, crafts, music
+  | 'idea'         // laws, writing, religions, philosophies
+  | 'food'         // crops, foods and drinks
+  | 'person';      // famous people
+
+export interface KnownForItem {
+  label: string;
+  kind: KnownForKind;
+  /** Approximate year, if useful. */
+  year?: number;
+  /** One short neutral sentence. */
+  note?: string;
+}
+
 export interface Polity {
   id: string;
   name: string;
@@ -148,6 +169,8 @@ export interface Polity {
   /** Brand colour used for the map highlight. */
   color?: string;
   checklist: Checklist;
+  /** Signature culture: cloth, troops, tools, monuments… shown as chips. */
+  knownFor?: KnownForItem[];
   /** Later phase: time series for charts. */
   series?: PolitySeries;
 }

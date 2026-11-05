@@ -24,6 +24,36 @@
     476
   ],
   "summary": "The empire that ruled the whole Mediterranean world after Augustus became the first emperor in 27 BCE. The western half ended in 476 CE; the eastern half continued as the Byzantine Empire until 1453.",
+  "knownFor": [
+    {
+      "label": "Roman legions",
+      "kind": "troops",
+      "note": "Professional soldiers with gladius sword and scutum shield."
+    },
+    {
+      "label": "Roman concrete",
+      "kind": "tool",
+      "year": -100,
+      "note": "Allowed domes like the Pantheon."
+    },
+    {
+      "label": "Colosseum",
+      "kind": "monument",
+      "year": 80,
+      "note": "An amphitheatre seating about 50,000."
+    },
+    {
+      "label": "Roman law",
+      "kind": "idea",
+      "year": 529,
+      "note": "The basis of many modern legal systems (codified under Justinian)."
+    },
+    {
+      "label": "Aqueducts",
+      "kind": "monument",
+      "note": "Channels bringing fresh water to cities."
+    }
+  ],
   "checklist": {
     "geography": {
       "location": {

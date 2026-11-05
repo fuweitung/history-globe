@@ -19,6 +19,32 @@
     -330
   ],
   "summary": "Founded by Cyrus the Great, the largest empire the world had yet seen, known for royal roads, satrapies and tolerance of local customs.",
+  "knownFor": [
+    {
+      "label": "Royal Road",
+      "kind": "tool",
+      "year": -500,
+      "note": "A 2,500 km road with relay stations for royal messengers."
+    },
+    {
+      "label": "Persepolis",
+      "kind": "monument",
+      "year": -515,
+      "note": "Ceremonial capital with carved reliefs of tribute bearers."
+    },
+    {
+      "label": "Immortals",
+      "kind": "troops",
+      "year": -480,
+      "note": "An elite infantry unit kept at 10,000 men."
+    },
+    {
+      "label": "Cyrus Cylinder",
+      "kind": "idea",
+      "year": -539,
+      "note": "A royal declaration often linked to tolerance of local religions."
+    }
+  ],
   "checklist": {
     "geography": {
       "location": {

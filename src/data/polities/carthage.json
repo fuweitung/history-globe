@@ -1,0 +1,317 @@
+{
+  "id": "carthage",
+  "name": "Carthage",
+  "era": "ancient",
+  "region": "North Africa & Western Mediterranean",
+  "startYear": -814,
+  "endYear": -146,
+  "datesApproximate": true,
+  "capital": "Carthage",
+  "capitalCoords": [
+    10.32,
+    36.85
+  ],
+  "summary": "A Phoenician trading city in modern Tunisia that built a sea empire across the western Mediterranean and fought Rome in the three Punic Wars.",
+  "borderNames": [
+    "Carthaginian Empire",
+    "Carthage"
+  ],
+  "borderYears": [
+    -814,
+    -146
+  ],
+  "color": "#7a3f8a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Carthage, near modern Tunis, plus ports in Sicily, Sardinia, Spain and North Africa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Carthage (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "A coastal peninsula with fertile farmland inland.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Miles, Carthage Must Be Destroyed (2010)"
+      },
+      "climate": {
+        "value": "Mediterranean.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Miles, Carthage Must Be Destroyed (2010)"
+      },
+      "resources": {
+        "value": "Farmland, Spanish silver and the purple dye trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Miles, Carthage Must Be Destroyed (2010)"
+      },
+      "disasters": {
+        "value": "No specific disasters are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Miles, Carthage Must Be Destroyed (2010)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "3.7–4.3 million in the empire (222 BCE, infobox); the city itself had perhaps about 250,000.",
+        "year": -222,
+        "certainty": "disputed",
+        "source": "Wikipedia: Ancient Carthage (checked 6 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "Carthage was one of the largest cities of the Mediterranean.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Miles, Carthage Must Be Destroyed (2010)"
+      },
+      "disease": {
+        "value": "Plague hit Carthaginian armies in Sicily.",
+        "year": -396,
+        "certainty": "estimated",
+        "source": "Miles, Carthage Must Be Destroyed (2010)"
+      },
+      "migration": {
+        "value": "Founded by settlers from Tyre in Phoenicia.",
+        "year": -814,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Carthage (checked 6 Nov 2026)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Sea trade backed by a large navy, plus farming.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Carthage (checked 6 Nov 2026)"
+      },
+      "tradeRoutes": {
+        "value": "The western Mediterranean and Atlantic coast, explored by Hanno and Himilco.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Carthage (checked 6 Nov 2026)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Miles, Carthage Must Be Destroyed (2010)"
+      },
+      "moneyAndTax": {
+        "value": "Carthaginian coins.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Carthage (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "A merchant oligarchy ruled.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Miles, Carthage Must Be Destroyed (2010)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy until the 6th century BCE, then an oligarchic republic led by two suffetes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Carthage (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Mago, Hamilcar Barca, Hannibal Barca.",
+        "year": -218,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Carthage (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Elected magistrates and a council of elders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Miles, Carthage Must Be Destroyed (2010)"
+      },
+      "institutions": {
+        "value": "A senate and a Court of One Hundred and Four.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Miles, Carthage Must Be Destroyed (2010)"
+      },
+      "stability": {
+        "value": "The Mercenary War (241–238 BCE).",
+        "year": -241,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Carthage (checked 6 Nov 2026)"
+      },
+      "eliteConflict": {
+        "value": "Rivalry between the Barcid family and other factions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Miles, Carthage Must Be Destroyed (2010)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "A strong navy and mercenary armies, including war elephants.",
+        "year": -218,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Carthage (checked 6 Nov 2026)"
+      },
+      "majorWars": {
+        "value": "The Sicilian Wars and the three Punic Wars (264–146 BCE).",
+        "year": -218,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Carthage (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "Lost Sicily (241 BCE), then Spain (206 BCE).",
+        "year": -241,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Carthage (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: the Greeks of Sicily and Rome.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Carthage (checked 6 Nov 2026)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Advanced shipbuilding with prefabricated parts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Miles, Carthage Must Be Destroyed (2010)"
+      },
+      "scienceEducation": {
+        "value": "Mago’s treatise on agriculture, later translated into Latin.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Miles, Carthage Must Be Destroyed (2010)"
+      },
+      "openness": {
+        "value": "Mixed Phoenician, Berber and Greek culture.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Miles, Carthage Must Be Destroyed (2010)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Punic religion: Baal Hammon and Tanit.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Carthage (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Punic, written in the Phoenician alphabet.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Carthage (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "The circular military harbour (the Cothon).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Miles, Carthage Must Be Destroyed (2010)"
+      },
+      "socialStructure": {
+        "value": "Merchants and landowners, citizens, Libyan farmers and slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Miles, Carthage Must Be Destroyed (2010)"
+      },
+      "sharedIdentity": {
+        "value": "Phoenician (Punic) heritage, religion and language, shared with colonies across the western Mediterranean.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Miles, Carthage Must Be Destroyed (2010)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Rome, the Greek cities of Sicily, Numidia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Carthage (checked 6 Nov 2026)"
+      },
+      "ideasReligions": {
+        "value": "Spread Phoenician culture around the western Mediterranean.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Miles, Carthage Must Be Destroyed (2010)"
+      },
+      "colonisation": {
+        "value": "Founded colonies across the western Mediterranean.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Carthage (checked 6 Nov 2026)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence from Tyre in the mid-6th century BCE and a growing trade network.",
+        "year": -550,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Carthage (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "The 4th–3rd centuries BCE, when Carthage dominated western Mediterranean trade before the First Punic War.",
+        "year": -300,
+        "certainty": "estimated",
+        "source": "Miles, Carthage Must Be Destroyed (2010)"
+      },
+      "declineSignals": {
+        "value": "Defeat by Rome at Zama (202 BCE).",
+        "year": -202,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Carthage (checked 6 Nov 2026)"
+      },
+      "outcome": {
+        "value": "Destroyed by Rome in 146 BCE; its land became the Roman province of Africa.",
+        "year": -146,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Carthage (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Greek and Roman writers (Polybius, Livy) and archaeology. Checked against Wikipedia (“Ancient Carthage”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Carthage (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Medium. Mostly seen through Roman eyes; the founding date is unknown.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Ancient Carthage (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Hannibal crosses the Alps",
+      "kind": "person",
+      "year": -218,
+      "note": "Hannibal led an army with war elephants into Italy."
+    },
+    {
+      "label": "War elephants",
+      "kind": "troops",
+      "year": -218,
+      "note": "Used in the Punic Wars."
+    },
+    {
+      "label": "Cothon circular harbour",
+      "kind": "monument",
+      "year": -300,
+      "note": "A round naval harbour."
+    },
+    {
+      "label": "Tyrian purple dye",
+      "kind": "textile",
+      "note": "A rare purple dye from sea snails, a Phoenician speciality."
+    }
+  ]
+}

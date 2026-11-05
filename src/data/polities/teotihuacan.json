@@ -1,0 +1,314 @@
+{
+  "id": "teotihuacan",
+  "name": "Teotihuacan",
+  "era": "ancient",
+  "region": "Mesoamerica (central Mexico)",
+  "startYear": -100,
+  "endYear": 550,
+  "datesApproximate": true,
+  "capital": "Teotihuacan",
+  "capitalCoords": [
+    -98.84,
+    19.69
+  ],
+  "summary": "The largest city in the Americas in the first half of the first millennium CE. It is famous for the Pyramids of the Sun and Moon and the Avenue of the Dead.",
+  "borderNames": [
+    "Teotihuacan"
+  ],
+  "borderYears": [
+    -200,
+    600
+  ],
+  "color": "#c26a3f",
+  "knownFor": [
+    {
+      "label": "Pyramid of the Sun",
+      "kind": "monument",
+      "year": 200,
+      "note": "One of the largest pyramids in the Americas."
+    },
+    {
+      "label": "Avenue of the Dead",
+      "kind": "monument",
+      "note": "The main street, about 2 km long, lined with temples."
+    },
+    {
+      "label": "Obsidian blades",
+      "kind": "tool",
+      "note": "Sharp obsidian tools traded across Mesoamerica."
+    },
+    {
+      "label": "Teotihuacan murals",
+      "kind": "art",
+      "note": "Colourful wall paintings in apartment compounds."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Valley of Mexico, north-east of modern Mexico City.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Teotihuacan (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "A highland valley at about 2,300 m in the Basin of Mexico.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Cowgill, Ancient Teotihuacan (2015)"
+      },
+      "climate": {
+        "value": "Possibly linked to the extreme weather events of 535–536.",
+        "year": 536,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Teotihuacan (checked 6 Nov 2026)"
+      },
+      "resources": {
+        "value": "Obsidian from nearby sources (such as Pachuca), and farmland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Teotihuacan (checked 6 Nov 2026); Cowgill, Ancient Teotihuacan (2015)"
+      },
+      "disasters": {
+        "value": "Possibly the extreme weather events of 535–536.",
+        "year": 536,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Teotihuacan (checked 6 Nov 2026)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "At least 25,000, and likely about 100,000 at its height.",
+        "year": 450,
+        "certainty": "disputed",
+        "source": "Wikipedia: Teotihuacan (checked 6 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "The largest city in the Americas at its height.",
+        "year": 450,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Teotihuacan (checked 6 Nov 2026)"
+      },
+      "disease": {
+        "value": "No specific epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Cowgill, Ancient Teotihuacan (2015)"
+      },
+      "migration": {
+        "value": "Its ethnic makeup is debated.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Teotihuacan (checked 6 Nov 2026)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming and obsidian tools.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Teotihuacan (checked 6 Nov 2026)"
+      },
+      "tradeRoutes": {
+        "value": "Exported fine obsidian tools throughout Mesoamerica.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Teotihuacan (checked 6 Nov 2026)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Cowgill, Ancient Teotihuacan (2015)"
+      },
+      "moneyAndTax": {
+        "value": "No coinage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Cowgill, Ancient Teotihuacan (2015)"
+      },
+      "inequality": {
+        "value": "Elite palaces and apartment compounds.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Cowgill, Ancient Teotihuacan (2015)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Debated: possibly a state empire or a collective government.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Teotihuacan (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "No rulers are known by name.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Teotihuacan (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Cowgill, Ancient Teotihuacan (2015)"
+      },
+      "institutions": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Cowgill, Ancient Teotihuacan (2015)"
+      },
+      "stability": {
+        "value": "Its major monuments were sacked and burned around 550 CE.",
+        "year": 550,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Teotihuacan (checked 6 Nov 2026)"
+      },
+      "eliteConflict": {
+        "value": "The burning of elite buildings around 550 CE suggests an internal revolt.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Teotihuacan (checked 6 Nov 2026); Cowgill, Ancient Teotihuacan (2015)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Warriors with spear-throwers (atlatl).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Cowgill, Ancient Teotihuacan (2015)"
+      },
+      "majorWars": {
+        "value": "Influence over the Maya city of Tikal in 378 CE.",
+        "year": 378,
+        "certainty": "estimated",
+        "source": "Cowgill, Ancient Teotihuacan (2015)"
+      },
+      "territoryChange": {
+        "value": "Influence across Mesoamerica.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Cowgill, Ancient Teotihuacan (2015)"
+      },
+      "alliancesRivals": {
+        "value": "Influenced Maya cities such as Tikal and Copán through trade and possibly force.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Cowgill, Ancient Teotihuacan (2015)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "City planning on a grid aligned to the sky; multi-family apartment compounds.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Cowgill, Ancient Teotihuacan (2015)"
+      },
+      "scienceEducation": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Cowgill, Ancient Teotihuacan (2015)"
+      },
+      "openness": {
+        "value": "Multiethnic neighbourhoods.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Cowgill, Ancient Teotihuacan (2015)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "A religious centre from about the 1st century CE; feathered serpent.",
+        "year": -1,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Teotihuacan (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "No deciphered writing.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Teotihuacan (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "Pyramid of the Sun, Pyramid of the Moon, murals.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Teotihuacan (checked 6 Nov 2026)"
+      },
+      "socialStructure": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Cowgill, Ancient Teotihuacan (2015)"
+      },
+      "sharedIdentity": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Cowgill, Ancient Teotihuacan (2015)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Maya city-states, the Zapotec of Monte Albán.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Teotihuacan (checked 6 Nov 2026); Cowgill, Ancient Teotihuacan (2015)"
+      },
+      "ideasReligions": {
+        "value": "Later revered by the Aztecs.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Cowgill, Ancient Teotihuacan (2015)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Cowgill, Ancient Teotihuacan (2015)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "From about 100 BCE it grew into the dominant city of central Mexico, drawing in people from the valley.",
+        "year": -100,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Teotihuacan (checked 6 Nov 2026); Cowgill, Ancient Teotihuacan (2015)"
+      },
+      "peakPeriod": {
+        "value": "About 1–500 CE, when it was the largest city in the Americas.",
+        "year": 450,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Teotihuacan (checked 6 Nov 2026); Cowgill, Ancient Teotihuacan (2015)"
+      },
+      "declineSignals": {
+        "value": "Its major monuments were burned around 550 CE, possibly linked to the extreme weather of 535–536.",
+        "year": 550,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Teotihuacan (checked 6 Nov 2026); Cowgill, Ancient Teotihuacan (2015)"
+      },
+      "outcome": {
+        "value": "Gradually abandoned by about 750 CE; the Aztecs later treated its ruins as sacred.",
+        "year": 750,
+        "certainty": "disputed",
+        "source": "Wikipedia: Teotihuacan (checked 6 Nov 2026); Cowgill, Ancient Teotihuacan (2015)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Archaeology. Checked against Wikipedia (“Teotihuacan”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Teotihuacan (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Low to medium. Its rulers, language and end are uncertain.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Teotihuacan (checked 6 Nov 2026)"
+      }
+    }
+  }
+}

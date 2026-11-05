@@ -1,0 +1,314 @@
+{
+  "id": "dai-viet",
+  "name": "Đại Việt",
+  "era": "medieval",
+  "region": "Southeast Asia (Vietnam)",
+  "startYear": 968,
+  "endYear": 1804,
+  "capital": "Thăng Long (Hanoi)",
+  "capitalCoords": [
+    105.85,
+    21.03
+  ],
+  "summary": "The Vietnamese state from independence in the 10th century to 1804. It defeated Mongol invasions three times and expanded south at the expense of Champa.",
+  "borderNames": [
+    "Annam"
+  ],
+  "borderYears": [
+    968,
+    1804
+  ],
+  "color": "#c0403a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Northern and later central and southern Vietnam, ruled mainly from Thăng Long (Hanoi).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Đại Việt (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "The Red River delta, mountains, and a long coast.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Taylor, A History of the Vietnamese (2013)"
+      },
+      "climate": {
+        "value": "Tropical monsoon; typhoons and floods.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Taylor, A History of the Vietnamese (2013)"
+      },
+      "resources": {
+        "value": "Wet rice, forest products, and the sea.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Taylor, A History of the Vietnamese (2013)"
+      },
+      "disasters": {
+        "value": "Red River floods; dykes were built to control them.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Taylor, A History of the Vietnamese (2013)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 1.2 million (1200), 1.6 million (1400) and 5.6 million (1539) (Wikipedia infobox).",
+        "year": 1539,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Đại Việt (checked 6 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "Thăng Long became the capital in 1010.",
+        "year": 1010,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Đại Việt (checked 6 Nov 2026)"
+      },
+      "disease": {
+        "value": "No major epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Taylor, A History of the Vietnamese (2013)"
+      },
+      "migration": {
+        "value": "Southward expansion (Nam tiến) settled Vietnamese in former Cham and Khmer lands.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Taylor, A History of the Vietnamese (2013)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Wet-rice farming with large dyke systems.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Taylor, A History of the Vietnamese (2013)"
+      },
+      "tradeRoutes": {
+        "value": "Trade with China and Southeast Asia; Hội An was a later port.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Taylor, A History of the Vietnamese (2013)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Taylor, A History of the Vietnamese (2013)"
+      },
+      "moneyAndTax": {
+        "value": "The Vietnamese văn coin, and briefly banknotes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Đại Việt (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "Royal family, mandarins, landowners and peasants.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Taylor, A History of the Vietnamese (2013)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Absolute monarchy; from 1533 to 1788 the Lê emperors were ceremonial under military lords (Trịnh and Nguyễn).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Đại Việt (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Đinh Bộ Lĩnh (968), Lý Thái Tổ, Trần Hưng Đạo (general), Lê Lợi (1428), Lê Thánh Tông, Gia Long (last).",
+        "year": 1428,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Đại Việt (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Hereditary dynasties: Đinh, Lê, Lý, Trần, Hồ, Later Lê, Mạc, Tây Sơn.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Taylor, A History of the Vietnamese (2013)"
+      },
+      "institutions": {
+        "value": "Confucian civil service exams; the Hồng Đức law code (1483).",
+        "year": 1483,
+        "certainty": "estimated",
+        "source": "Taylor, A History of the Vietnamese (2013)"
+      },
+      "stability": {
+        "value": "Long civil wars: Lê–Mạc, Trịnh–Nguyễn (1558–1775) and the Tây Sơn rebellion.",
+        "year": 1558,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Đại Việt (checked 6 Nov 2026)"
+      },
+      "eliteConflict": {
+        "value": "The Trịnh and Nguyễn lords divided the country for two centuries.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Đại Việt (checked 6 Nov 2026)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Infantry, war elephants, and river fleets; firearms from the 15th century.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Taylor, A History of the Vietnamese (2013)"
+      },
+      "majorWars": {
+        "value": "Defeated the Mongol–Yuan invasions (1258, 1285, 1288); Ming occupation (1407–1427).",
+        "year": 1288,
+        "certainty": "estimated",
+        "source": "Taylor, A History of the Vietnamese (2013)"
+      },
+      "territoryChange": {
+        "value": "Annexed Champa’s lands (decisive war in 1471) and later the Mekong delta.",
+        "year": 1471,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Đại Việt (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: China (Song, Yuan, Ming), Champa, the Khmer, Siam.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Taylor, A History of the Vietnamese (2013)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Large-scale dyke building.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Taylor, A History of the Vietnamese (2013)"
+      },
+      "scienceEducation": {
+        "value": "The Temple of Literature (1070) and the Imperial Academy (1076).",
+        "year": 1076,
+        "certainty": "estimated",
+        "source": "Taylor, A History of the Vietnamese (2013)"
+      },
+      "openness": {
+        "value": "Adopted Chinese administration while defending independence.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Taylor, A History of the Vietnamese (2013)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mahayana Buddhism (state religion early on), Confucianism, Taoism and folk religion.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Đại Việt (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Literary Chinese for government; Vietnamese in Chữ Nôm script.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Đại Việt (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "The Temple of Literature and One Pillar Pagoda in Hanoi.",
+        "year": 1070,
+        "certainty": "estimated",
+        "source": "Taylor, A History of the Vietnamese (2013)"
+      },
+      "socialStructure": {
+        "value": "Mandarins, farmers, artisans, merchants.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Taylor, A History of the Vietnamese (2013)"
+      },
+      "sharedIdentity": {
+        "value": "Resistance to Chinese rule, celebrated in heroes such as Trần Hưng Đạo and Lê Lợi.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Taylor, A History of the Vietnamese (2013)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "China, Champa, Cambodia, Laos.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Đại Việt (checked 6 Nov 2026)"
+      },
+      "ideasReligions": {
+        "value": "Buddhism and Confucianism from China.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Taylor, A History of the Vietnamese (2013)"
+      },
+      "colonisation": {
+        "value": "Slowly annexed Champa and Cambodian lands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Đại Việt (checked 6 Nov 2026)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence from China and unification by Đinh Bộ Lĩnh.",
+        "year": 968,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Đại Việt (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "Under Lê Thánh Tông (1460–1497).",
+        "year": 1470,
+        "certainty": "estimated",
+        "source": "Taylor, A History of the Vietnamese (2013)"
+      },
+      "declineSignals": {
+        "value": "Fragmentation and civil wars after 1533.",
+        "year": 1533,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Đại Việt (checked 6 Nov 2026)"
+      },
+      "outcome": {
+        "value": "Reunited by the Nguyễn; renamed Việt Nam in 1804.",
+        "year": 1804,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Đại Việt (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Vietnamese chronicles. Checked against Wikipedia (“Đại Việt”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Đại Việt (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Good overall; founding date 966 or 968.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Đại Việt (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Victory over the Mongols",
+      "kind": "idea",
+      "year": 1288,
+      "note": "Trần Hưng Đạo used stakes in the Bạch Đằng river to wreck the Yuan fleet."
+    },
+    {
+      "label": "Temple of Literature",
+      "kind": "monument",
+      "year": 1070,
+      "note": "Vietnam’s first national university."
+    },
+    {
+      "label": "Chữ Nôm script",
+      "kind": "idea",
+      "note": "Characters adapted to write Vietnamese."
+    },
+    {
+      "label": "Áo giao lĩnh robe",
+      "kind": "textile",
+      "note": "Traditional cross-collared robes worn before the later áo dài."
+    }
+  ]
+}

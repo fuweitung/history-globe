@@ -1,0 +1,309 @@
+{
+  "id": "mississippian",
+  "name": "Mississippian culture (Cahokia)",
+  "era": "medieval",
+  "region": "North America (Eastern Woodlands)",
+  "startYear": 1000,
+  "endYear": 1600,
+  "datesApproximate": true,
+  "capital": "Cahokia (largest centre)",
+  "capitalCoords": [
+    -90.06,
+    38.66
+  ],
+  "summary": "A mound-building culture of the Mississippi valley and the American South-East. Its largest city, Cahokia, may have had more than 20,000 people around 1100.",
+  "borderNames": [],
+  "color": "#6a8a4a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Eastern Woodlands of North America, especially the Mississippi valley and the South-East.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mississippian culture (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "River floodplains, good for maize farming.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Pauketat, Cahokia (2009)"
+      },
+      "climate": {
+        "value": "Drought and climate cooling after about 1200 may have contributed to Cahokia’s decline.",
+        "year": 1200,
+        "certainty": "estimated",
+        "source": "Pauketat, Cahokia (2009)"
+      },
+      "resources": {
+        "value": "Fertile floodplain soil, maize, fish, game, and Mill Creek chert for hoes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Pauketat, Cahokia (2009)"
+      },
+      "disasters": {
+        "value": "Floods and drought.",
+        "year": 1200,
+        "certainty": "estimated",
+        "source": "Pauketat, Cahokia (2009)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Cahokia had at least 22,400 people at its peak around 1124.",
+        "year": 1124,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mississippian culture (checked 6 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "Cahokia was founded in 1050 as a planned city with towering mounds.",
+        "year": 1050,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mississippian culture (checked 6 Nov 2026)"
+      },
+      "disease": {
+        "value": "Diseases introduced by Europeans in the 16th century devastated the region.",
+        "year": 1540,
+        "certainty": "estimated",
+        "source": "Pauketat, Cahokia (2009)"
+      },
+      "migration": {
+        "value": "Cahokia was largely abandoned by about 1350; its people dispersed.",
+        "year": 1350,
+        "certainty": "estimated",
+        "source": "Pauketat, Cahokia (2009)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Maize agriculture, with beans, squash, hunting and fishing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mississippian culture (checked 6 Nov 2026); Pauketat, Cahokia (2009)"
+      },
+      "tradeRoutes": {
+        "value": "Long-distance exchange of copper, shells and chert.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Pauketat, Cahokia (2009)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Pauketat, Cahokia (2009)"
+      },
+      "moneyAndTax": {
+        "value": "No coinage. Tribute in food and goods.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Pauketat, Cahokia (2009)"
+      },
+      "inequality": {
+        "value": "A chiefly elite was buried with rich goods (Mound 72).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Pauketat, Cahokia (2009)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Theocratic chiefdoms, later larger paramount chiefdoms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mississippian culture (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Tuskaloosa and the Lady of Cofitachequi (met by Spanish explorers).",
+        "year": 1540,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mississippian culture (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Probably hereditary through clans.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Pauketat, Cahokia (2009)"
+      },
+      "institutions": {
+        "value": "The Hopewell-derived clan system.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mississippian culture (checked 6 Nov 2026)"
+      },
+      "stability": {
+        "value": "Many chiefdoms rose and fell.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Pauketat, Cahokia (2009)"
+      },
+      "eliteConflict": {
+        "value": "Rival chiefdoms competed for land and prestige.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Pauketat, Cahokia (2009)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "The Southeastern longbow; palisaded towns.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mississippian culture (checked 6 Nov 2026)"
+      },
+      "majorWars": {
+        "value": "The Cofitachequi–Ocute war; the De Soto expedition (1539–1543).",
+        "year": 1540,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mississippian culture (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "Outposts up to 500 miles north between 1050 and 1150.",
+        "year": 1100,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mississippian culture (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rival chiefdoms.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Pauketat, Cahokia (2009)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Maize agriculture at scale, and large earthworks.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Pauketat, Cahokia (2009)"
+      },
+      "scienceEducation": {
+        "value": "“Woodhenge”, a circle of posts at Cahokia, may have marked sunrise positions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Pauketat, Cahokia (2009)"
+      },
+      "openness": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Pauketat, Cahokia (2009)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "The Corn-Mother religion; the Southeastern Ceremonial Complex.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mississippian culture (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "No writing.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Pauketat, Cahokia (2009)"
+      },
+      "artsArchitecture": {
+        "value": "Monks Mound at Cahokia; the Willoughby Disc, Spiro masks and shell gorgets.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mississippian culture (checked 6 Nov 2026)"
+      },
+      "socialStructure": {
+        "value": "Chiefs, priests and commoners.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Pauketat, Cahokia (2009)"
+      },
+      "sharedIdentity": {
+        "value": "Shared religious symbols (the Southeastern Ceremonial Complex).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Pauketat, Cahokia (2009)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Other Native American peoples.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Pauketat, Cahokia (2009)"
+      },
+      "ideasReligions": {
+        "value": "The Southeastern Ceremonial Complex spread widely.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Pauketat, Cahokia (2009)"
+      },
+      "colonisation": {
+        "value": "Spanish expeditions (De Soto) arrived in the 1540s.",
+        "year": 1540,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mississippian culture (checked 6 Nov 2026)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Maize farming and the founding of Cahokia.",
+        "year": 1050,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mississippian culture (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "Cahokia at its peak around 1124.",
+        "year": 1124,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mississippian culture (checked 6 Nov 2026)"
+      },
+      "declineSignals": {
+        "value": "Climate change, conflict, and political problems.",
+        "year": 1200,
+        "certainty": "estimated",
+        "source": "Pauketat, Cahokia (2009)"
+      },
+      "outcome": {
+        "value": "Succeeded by the colonial-era “shatter zone”.",
+        "year": 1600,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mississippian culture (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Archaeology and Spanish accounts. Checked against Wikipedia (“Mississippian culture”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mississippian culture (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Medium. Based mostly on archaeology.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Mississippian culture (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Monks Mound",
+      "kind": "monument",
+      "year": 1100,
+      "note": "The largest earthen mound in the Americas."
+    },
+    {
+      "label": "Maize farming",
+      "kind": "food",
+      "year": 1000,
+      "note": "The basis of the economy."
+    },
+    {
+      "label": "Southeastern longbow",
+      "kind": "weapon",
+      "note": "A powerful bow."
+    },
+    {
+      "label": "Shell gorgets & copper plates",
+      "kind": "art",
+      "note": "Engraved shell pendants."
+    }
+  ]
+}

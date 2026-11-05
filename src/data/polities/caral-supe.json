@@ -1,0 +1,315 @@
+{
+  "id": "caral-supe",
+  "name": "Caral–Supe (Norte Chico)",
+  "era": "ancient",
+  "region": "South America (Andes coast)",
+  "startYear": -3500,
+  "endYear": -1800,
+  "datesApproximate": true,
+  "capital": "Caral (one of about 30 centres)",
+  "capitalCoords": [
+    -77.52,
+    -10.89
+  ],
+  "summary": "The oldest known civilisation in the Americas. It built platform mounds and sunken plazas on the Peruvian coast from about 3500 BCE, apparently without warfare or pottery.",
+  "borderNames": [
+    "Norte Chico"
+  ],
+  "borderYears": [
+    -4000,
+    -1800
+  ],
+  "color": "#b98c5a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Supe, Pativilca and Fortaleza valleys on the north-central coast of Peru, north of modern Lima.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caral–Supe civilization (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Short river valleys running from the Andes to the Pacific, irrigable land beside a cold, fish-rich ocean.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
+      },
+      "climate": {
+        "value": "Desert coast. A 2025 study links the abandonment of Caral to drought around 2200 BCE.",
+        "year": -2200,
+        "certainty": "estimated",
+        "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
+      },
+      "resources": {
+        "value": "Rich Pacific fisheries (anchovies, sardines), and irrigated cotton, squash, beans and fruit.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
+      },
+      "disasters": {
+        "value": "Drought, and El Niño floods and earthquakes typical of the region.",
+        "year": -2200,
+        "certainty": "estimated",
+        "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable figure. As many as thirty major population centres are known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
+      },
+      "urbanisation": {
+        "value": "Caral’s Pirámide Mayor (about 160 x 150 m, 18 m high) and many urban sites with platform mounds.",
+        "year": -2600,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caral–Supe civilization (checked 6 Nov 2026)"
+      },
+      "disease": {
+        "value": "No specific epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
+      },
+      "migration": {
+        "value": "People relocated rather than collapsed when Caral was abandoned, according to recent research.",
+        "year": -2200,
+        "certainty": "estimated",
+        "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Fishing on the coast plus irrigated farming inland, with cotton for fishing nets the key crop.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caral–Supe civilization (checked 6 Nov 2026)"
+      },
+      "tradeRoutes": {
+        "value": "Exchange between coastal fishing villages (fish) and inland valleys (cotton, food plants).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
+      },
+      "moneyAndTax": {
+        "value": "No coinage. Dried anchovies may have served as a medium of exchange (suggested, not proven).",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Caral–Supe civilization (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "Elite residences and large public works suggest a leadership class able to organise labour.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Unknown. A sophisticated, possibly religious, leadership is presumed to have run the large building projects.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
+      },
+      "keyRulers": {
+        "value": "No rulers are known by name.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
+      },
+      "succession": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
+      },
+      "institutions": {
+        "value": "Large storage areas and planned public buildings suggest central organisation.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
+      },
+      "stability": {
+        "value": "No fortifications or weapons have been found, so the society seems to have existed without widespread warfare.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caral–Supe civilization (checked 6 Nov 2026)"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "No evidence of armies, fortifications or weapons.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caral–Supe civilization (checked 6 Nov 2026)"
+      },
+      "majorWars": {
+        "value": "None known.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caral–Supe civilization (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "Influence spread across several valleys, then declined around 1800 BCE.",
+        "year": -1800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caral–Supe civilization (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Monumental architecture using “shicra” (stone-filled fibre bags), cotton textile technology, and possibly the khipu (knotted cords).",
+        "year": -2600,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caral–Supe civilization (checked 6 Nov 2026)"
+      },
+      "scienceEducation": {
+        "value": "No writing. A knotted-cord record (khipu) may have existed, but this is debated.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Caral–Supe civilization (checked 6 Nov 2026)"
+      },
+      "openness": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Possibly worship of shared deity symbols, with sunken circular plazas used for ceremonies.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
+      },
+      "languageWriting": {
+        "value": "No known writing. It also lacked ceramics.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caral–Supe civilization (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "Platform mounds, sunken circular plazas, and 32 flutes made from pelican and condor bones found at Caral.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caral–Supe civilization (checked 6 Nov 2026)"
+      },
+      "socialStructure": {
+        "value": "Leaders and labourers; craft and fishing specialists.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
+      },
+      "sharedIdentity": {
+        "value": "Shared ceremonial architecture across the valleys suggests a common culture.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Other early Andean communities. Later Andean cultures (Kotosh, Chavín) followed.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
+      },
+      "ideasReligions": {
+        "value": "Its building traditions (platform mounds, sunken plazas) carried on in later Andean cultures.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
+      },
+      "colonisation": {
+        "value": "None known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Large building projects from about 3500 BCE, cotton farming linked with coastal fishing.",
+        "year": -3500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caral–Supe civilization (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "About 2600–2000 BCE, when Caral’s main pyramids were in use.",
+        "year": -2600,
+        "certainty": "estimated",
+        "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
+      },
+      "declineSignals": {
+        "value": "Drought and climate stress around 2200 BCE; a period of decline by about 1800 BCE.",
+        "year": -2200,
+        "certainty": "estimated",
+        "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
+      },
+      "outcome": {
+        "value": "Gradual decline around 1800 BCE, followed by the Kotosh religious tradition.",
+        "year": -1800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caral–Supe civilization (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Archaeology at Caral led by Ruth Shady (radiocarbon dating). Checked against Wikipedia (“Caral–Supe civilization”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caral–Supe civilization (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Low to medium. Dates come from radiocarbon dating; the society’s organisation is largely inferred.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Caral–Supe civilization (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Pirámide Mayor of Caral",
+      "kind": "monument",
+      "year": -2600,
+      "note": "A large platform mound about 18 m high at the centre of Caral."
+    },
+    {
+      "label": "Shicra fibre bags",
+      "kind": "tool",
+      "year": -2600,
+      "note": "Stone-filled reed bags used to build mounds, which may have helped them survive earthquakes."
+    },
+    {
+      "label": "Cotton fishing nets",
+      "kind": "textile",
+      "note": "Cotton grown inland was used for nets that caught the coast’s anchovies."
+    },
+    {
+      "label": "Bone flutes",
+      "kind": "art",
+      "note": "Flutes made from pelican and condor bones found at Caral."
+    }
+  ]
+}

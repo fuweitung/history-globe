@@ -1,0 +1,316 @@
+{
+  "id": "swedish-empire",
+  "name": "Swedish Empire",
+  "era": "early_modern",
+  "region": "Northern Europe (Baltic)",
+  "startYear": 1611,
+  "endYear": 1721,
+  "capital": "Stockholm",
+  "capitalCoords": [
+    18.07,
+    59.33
+  ],
+  "summary": "Sweden’s “Great Power Era”, when it controlled much of the Baltic, until defeat in the Great Northern War.",
+  "borderNames": [
+    "Sweden"
+  ],
+  "borderYears": [
+    1611,
+    1721
+  ],
+  "color": "#3f6ab0",
+  "knownFor": [
+    {
+      "label": "Vasa warship",
+      "kind": "monument",
+      "year": 1628,
+      "note": "A royal warship that sank on its maiden voyage in Stockholm harbour; raised in 1961 and now a museum."
+    },
+    {
+      "label": "Carolean soldiers",
+      "kind": "troops",
+      "year": 1700,
+      "note": "Disciplined Swedish infantry of Charles XI and Charles XII, known for aggressive bayonet and pike charges."
+    },
+    {
+      "label": "Light field artillery",
+      "kind": "weapon",
+      "year": 1631,
+      "note": "Gustavus Adolphus’ mobile regimental guns changed European warfare."
+    },
+    {
+      "label": "Europe’s first banknotes",
+      "kind": "tool",
+      "year": 1661,
+      "note": "Issued by Stockholms Banco."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Sweden and Finland, plus Baltic provinces (Estonia, Livonia, Ingria), Swedish Pomerania, Bremen-Verden, and overseas New Sweden.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Swedish Empire (checked 6 Nov 2026); Roberts, The Swedish Imperial Experience (1979)"
+      },
+      "terrain": {
+        "value": "Long Baltic coastlines, forests, lakes and the Gulf of Bothnia, which made the Baltic Sea the empire’s highway.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Roberts, The Swedish Imperial Experience (1979)"
+      },
+      "climate": {
+        "value": "Cold northern climate; the Little Ice Age shortened growing seasons.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Roberts, The Swedish Imperial Experience (1979)"
+      },
+      "resources": {
+        "value": "Iron and copper (Falun copper mine), timber, tar and grain from the Baltic provinces.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Roberts, The Swedish Imperial Experience (1979)"
+      },
+      "disasters": {
+        "value": "The Great Famine of 1695–97 killed a large share of Finland’s population.",
+        "year": 1695,
+        "certainty": "estimated",
+        "source": "Roberts, The Swedish Imperial Experience (1979)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 2.5 million at its height (figure from the article’s later sections, not the infobox).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Roberts, The Swedish Imperial Experience (1979)"
+      },
+      "urbanisation": {
+        "value": "Stockholm grew into a capital city; Riga was the empire’s largest city.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Roberts, The Swedish Imperial Experience (1979)"
+      },
+      "disease": {
+        "value": "The plague of 1710–1713 struck Stockholm and the Baltic provinces during the Great Northern War.",
+        "year": 1710,
+        "certainty": "estimated",
+        "source": "Roberts, The Swedish Imperial Experience (1979)"
+      },
+      "migration": {
+        "value": "Settlers went to New Sweden on the Delaware River (1638–1655); Walloon ironworkers came to Sweden.",
+        "year": 1638,
+        "certainty": "estimated",
+        "source": "Roberts, The Swedish Imperial Experience (1979)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Mining and export of copper and iron, farming, and Baltic trade tolls.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Roberts, The Swedish Imperial Experience (1979)"
+      },
+      "tradeRoutes": {
+        "value": "Baltic Sea trade, with tolls on Russian and Polish exports through Swedish-held ports.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Roberts, The Swedish Imperial Experience (1979)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Roberts, The Swedish Imperial Experience (1979)"
+      },
+      "moneyAndTax": {
+        "value": "Riksdaler; first banknotes (1661).",
+        "year": 1661,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Swedish Empire (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "Nobles held much crown land until Charles XI’s “Great Reduction” took it back from the 1680s.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Roberts, The Swedish Imperial Experience (1979)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A constitutional monarchy with the Riksdag (1611–1680 and 1719–21), and an absolute monarchy from 1680.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Swedish Empire (checked 6 Nov 2026); Roberts, The Swedish Imperial Experience (1979)"
+      },
+      "keyRulers": {
+        "value": "Gustavus Adolphus, Christina, Charles XII.",
+        "year": 1611,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Swedish Empire (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Hereditary in the Vasa and then Palatinate dynasties; Christina abdicated in 1654.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Roberts, The Swedish Imperial Experience (1979)"
+      },
+      "institutions": {
+        "value": "The Instrument of Government (1634) set up a central bureaucracy; the Riksdag of the four Estates.",
+        "year": 1634,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Swedish Empire (checked 6 Nov 2026); Roberts, The Swedish Imperial Experience (1979)"
+      },
+      "stability": {
+        "value": "Stable at home, but nearly always at war abroad.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Roberts, The Swedish Imperial Experience (1979)"
+      },
+      "eliteConflict": {
+        "value": "Crown versus nobility over land: the “Reduction” of the 1680s returned estates to the crown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Roberts, The Swedish Imperial Experience (1979)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Gustavus Adolphus’ reforms: light mobile field artillery, combined arms and a conscripted national army (the allotment system).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Roberts, The Swedish Imperial Experience (1979)"
+      },
+      "majorWars": {
+        "value": "The Thirty Years’ War (Breitenfeld 1631), the Northern War of 1655–60, the Scanian War, and the Great Northern War (defeat at Poltava, 1709).",
+        "year": 1709,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Swedish Empire (checked 6 Nov 2026); Roberts, The Swedish Imperial Experience (1979)"
+      },
+      "territoryChange": {
+        "value": "Took Scania and other lands from Denmark–Norway at the Treaty of Roskilde (1658); lost the Baltic provinces at Nystad (1721).",
+        "year": 1658,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Swedish Empire (checked 6 Nov 2026); Roberts, The Swedish Imperial Experience (1979)"
+      },
+      "alliancesRivals": {
+        "value": "Allied with France; rivals: Denmark–Norway, Russia, Poland–Lithuania and Brandenburg.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Swedish Empire (checked 6 Nov 2026); Roberts, The Swedish Imperial Experience (1979)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Light regimental guns and the first banknotes in Europe (Stockholms Banco, 1661).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Roberts, The Swedish Imperial Experience (1979)"
+      },
+      "scienceEducation": {
+        "value": "Universities at Uppsala, Dorpat (Tartu, 1632) and Lund (1666).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Roberts, The Swedish Imperial Experience (1979)"
+      },
+      "openness": {
+        "value": "Recruited foreign officers and Dutch and Walloon experts in mining and finance.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Roberts, The Swedish Imperial Experience (1979)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Lutheran Christianity (the Church of Sweden).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Swedish Empire (checked 6 Nov 2026); Roberts, The Swedish Imperial Experience (1979)"
+      },
+      "languageWriting": {
+        "value": "Swedish, with Finnish, German and Baltic languages in the provinces.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Swedish Empire (checked 6 Nov 2026); Roberts, The Swedish Imperial Experience (1979)"
+      },
+      "artsArchitecture": {
+        "value": "The warship Vasa (sank on its maiden voyage in 1628) and Baroque palaces such as Drottningholm.",
+        "year": 1628,
+        "certainty": "estimated",
+        "source": "Roberts, The Swedish Imperial Experience (1979)"
+      },
+      "socialStructure": {
+        "value": "Four estates in the Riksdag: nobles, clergy, burghers and peasants (free peasants had a voice, unusual in Europe).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Roberts, The Swedish Imperial Experience (1979)"
+      },
+      "sharedIdentity": {
+        "value": "Lutheran faith and the idea of Sweden as protector of Protestantism.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Roberts, The Swedish Imperial Experience (1979)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Denmark–Norway, Russia, Poland–Lithuania, Brandenburg-Prussia and the Holy Roman Empire.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Swedish Empire (checked 6 Nov 2026); Roberts, The Swedish Imperial Experience (1979)"
+      },
+      "ideasReligions": {
+        "value": "Defended Protestantism in the Thirty Years’ War.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Roberts, The Swedish Imperial Experience (1979)"
+      },
+      "colonisation": {
+        "value": "New Sweden in North America (1638–1655) and a short-lived post on the Gold Coast.",
+        "year": 1638,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Swedish Empire (checked 6 Nov 2026); Roberts, The Swedish Imperial Experience (1979)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Gustavus Adolphus (from 1611) reformed the army and government and entered the Thirty Years’ War.",
+        "year": 1611,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Swedish Empire (checked 6 Nov 2026); Roberts, The Swedish Imperial Experience (1979)"
+      },
+      "peakPeriod": {
+        "value": "Around 1658, after the Treaty of Roskilde gave Sweden its largest extent.",
+        "year": 1658,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Swedish Empire (checked 6 Nov 2026); Roberts, The Swedish Imperial Experience (1979)"
+      },
+      "declineSignals": {
+        "value": "Overstretch against a coalition, defeat at Poltava (1709), plague and famine.",
+        "year": 1709,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Swedish Empire (checked 6 Nov 2026); Roberts, The Swedish Imperial Experience (1979)"
+      },
+      "outcome": {
+        "value": "The Treaty of Nystad (1721) ceded the Baltic provinces to Russia; Sweden lost great-power status (the “Age of Liberty” followed).",
+        "year": 1721,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Swedish Empire (checked 6 Nov 2026); Roberts, The Swedish Imperial Experience (1979)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Records. Checked against Wikipedia (“Swedish Empire”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Swedish Empire (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Good. Well documented by state archives; start and end dates are conventional (1611–1721).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Swedish Empire (checked 6 Nov 2026)"
+      }
+    }
+  }
+}

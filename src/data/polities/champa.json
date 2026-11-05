@@ -1,0 +1,316 @@
+{
+  "id": "champa",
+  "name": "Champa",
+  "era": "medieval",
+  "region": "Southeast Asia (Vietnam)",
+  "startYear": 192,
+  "endYear": 1832,
+  "datesApproximate": true,
+  "capital": "Indrapura; Vijaya; later Panduranga",
+  "capitalCoords": [
+    109.06,
+    13.9
+  ],
+  "summary": "Cham kingdoms of central and southern Vietnam, a Hindu–Buddhist trading power for more than a thousand years. It left the brick towers of Mỹ Sơn.",
+  "borderNames": [
+    "Champa",
+    "Champa City States"
+  ],
+  "borderYears": [
+    192,
+    1471
+  ],
+  "color": "#a03f6a",
+  "knownFor": [
+    {
+      "label": "Mỹ Sơn temple towers",
+      "kind": "monument",
+      "note": "Brick Hindu temple towers, a UNESCO World Heritage Site."
+    },
+    {
+      "label": "Champa rice",
+      "kind": "food",
+      "year": 1012,
+      "note": "A fast-ripening, drought-resistant rice taken to Song China, where it boosted harvests."
+    },
+    {
+      "label": "Cham sandstone sculpture",
+      "kind": "art",
+      "note": "Hindu and Buddhist sculpture, now in the Museum of Cham Sculpture in Đà Nẵng."
+    },
+    {
+      "label": "Đông Yên Châu inscription",
+      "kind": "idea",
+      "year": 350,
+      "note": "The oldest known literature in a native Southeast Asian language."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Central and southern coast of Vietnam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Champa (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Narrow coastal plains between the Truong Son mountains and the South China Sea, with good harbours.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      },
+      "climate": {
+        "value": "Tropical monsoon with typhoons.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      },
+      "resources": {
+        "value": "Aloeswood (eaglewood), spices, ivory and rice.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      },
+      "disasters": {
+        "value": "Typhoons and floods.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 2.5 million at its peak around 800 CE.",
+        "year": 800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Champa (checked 6 Nov 2026); Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      },
+      "urbanisation": {
+        "value": "Capitals moved over time: Kandapurpura, Simhapura, Indrapura, Vijaya and Panduranga.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Champa (checked 6 Nov 2026); Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      },
+      "disease": {
+        "value": "No specific epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      },
+      "migration": {
+        "value": "Cham refugees fled to Cambodia after Vietnamese conquests; many Cham live there today.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Trade networks linking the Indian Ocean and East Asia, plus rice farming.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Champa (checked 6 Nov 2026); Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      },
+      "tradeRoutes": {
+        "value": "A key stop on the maritime route between India and China until the 17th century.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Champa (checked 6 Nov 2026); Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      },
+      "moneyAndTax": {
+        "value": "Little is known; trade used gold, silver and barter.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      },
+      "inequality": {
+        "value": "Royal and priestly elites; slaves were traded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy (city-states).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Champa (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Bhadravarman I, Indravarman II, Jaya Indravarman IV (sacked Angkor in 1177), Che Bong Nga (14th century).",
+        "year": 1177,
+        "certainty": "estimated",
+        "source": "Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      },
+      "succession": {
+        "value": "Hereditary, among rival royal centres.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      },
+      "institutions": {
+        "value": "Kingship modelled on Indian ideas; temples as centres of power.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      },
+      "stability": {
+        "value": "Whether Champa was one kingdom or a federation of rival polities is debated.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Champa (checked 6 Nov 2026); Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      },
+      "eliteConflict": {
+        "value": "Rival centres competed for leadership.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "A navy and war elephants.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      },
+      "majorWars": {
+        "value": "Wars with the Khmer (sack of Angkor 1177) and Đại Việt; decisive defeat in 1471.",
+        "year": 1471,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Champa (checked 6 Nov 2026); Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      },
+      "territoryChange": {
+        "value": "Lost the north to Đại Việt step by step; after 1471 only Panduranga in the south remained.",
+        "year": 1471,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Champa (checked 6 Nov 2026); Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: the Khmer Empire and Đại Việt.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Champa rice, a fast-ripening rice taken to Song China around 1012.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      },
+      "scienceEducation": {
+        "value": "The Đông Yên Châu inscription (c. 350) is the oldest known literature in a native Southeast Asian language.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Champa (checked 6 Nov 2026); Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      },
+      "openness": {
+        "value": "Open to Indian, Chinese, Malay and later Islamic influences.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Hinduism and Buddhism from the 5th century; Islam from the 16th century.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Champa (checked 6 Nov 2026); Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      },
+      "languageWriting": {
+        "value": "Old Cham (from about 350 CE), Old Malay as lingua franca, later Middle and Modern Cham.",
+        "year": 350,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Champa (checked 6 Nov 2026); Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      },
+      "artsArchitecture": {
+        "value": "Brick temple towers at Mỹ Sơn (a UNESCO site) and sandstone sculpture.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Champa (checked 6 Nov 2026); Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      },
+      "socialStructure": {
+        "value": "Kings, priests, nobles, farmers and slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      },
+      "sharedIdentity": {
+        "value": "Cham identity, which survives among the Cham people of Vietnam and Cambodia.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Đại Việt, the Khmer Empire, China, Java.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      },
+      "ideasReligions": {
+        "value": "Indian Hinduism and Buddhism, later Islam.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      },
+      "colonisation": {
+        "value": "Annexed by the Nguyễn emperor Minh Mạng in 1832.",
+        "year": 1832,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Champa (checked 6 Nov 2026); Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Founding of Cham polities in the 2nd–3rd centuries CE and growth of sea trade.",
+        "year": 192,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Champa (checked 6 Nov 2026); Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      },
+      "peakPeriod": {
+        "value": "The 9th–10th centuries.",
+        "year": 900,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Champa (checked 6 Nov 2026); Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      },
+      "declineSignals": {
+        "value": "Defeat by Đại Việt in 1471.",
+        "year": 1471,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Champa (checked 6 Nov 2026); Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      },
+      "outcome": {
+        "value": "The last Cham territory (Panduranga) was annexed by Vietnam in 1832.",
+        "year": 1832,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Champa (checked 6 Nov 2026); Hardy et al. (eds), Champa and the Archaeology of Mỹ Sơn (2009)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Inscriptions. Checked against Wikipedia (“Champa”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Champa (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Medium. Founding date and political unity are debated.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Champa (checked 6 Nov 2026)"
+      }
+    }
+  }
+}

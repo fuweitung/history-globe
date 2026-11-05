@@ -1,0 +1,309 @@
+{
+  "id": "bruneian-empire",
+  "name": "Bruneian Empire",
+  "era": "medieval",
+  "region": "Southeast Asia (Borneo)",
+  "startYear": 1368,
+  "endYear": 1888,
+  "datesApproximate": true,
+  "capital": "Kota Batu; later Kampong Ayer",
+  "capitalCoords": [
+    114.94,
+    4.89
+  ],
+  "summary": "A Malay sultanate on Borneo whose influence, after Melaka fell in 1511, stretched along the coasts of Borneo and into the Philippines, before it became a British protectorate in 1888.",
+  "borderNames": [
+    "Brunei"
+  ],
+  "borderYears": [
+    1368,
+    1888
+  ],
+  "color": "#d0b03f",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Northern Borneo, with influence over the coasts of Borneo and the southern Philippines.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Brunei (1368–1888) (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Coastal rivers, mangroves and rainforest.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Saunders, A History of Brunei (2002)"
+      },
+      "climate": {
+        "value": "Equatorial, hot and wet all year.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Saunders, A History of Brunei (2002)"
+      },
+      "resources": {
+        "value": "Camphor, sago, forest products, pearls.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Saunders, A History of Brunei (2002)"
+      },
+      "disasters": {
+        "value": "No major disasters are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Saunders, A History of Brunei (2002)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Saunders, A History of Brunei (2002)"
+      },
+      "urbanisation": {
+        "value": "Kampong Ayer, a large town built on stilts over the water, became the capital in 1660.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Brunei (1368–1888) (checked 6 Nov 2026)"
+      },
+      "disease": {
+        "value": "Smallpox and cholera in the 19th century.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Saunders, A History of Brunei (2002)"
+      },
+      "migration": {
+        "value": "Chinese, Malay and Bornean traders and settlers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Saunders, A History of Brunei (2002)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Trade and collection of forest and sea products.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Saunders, A History of Brunei (2002)"
+      },
+      "tradeRoutes": {
+        "value": "Trade with China, Melaka, Java and the Philippines.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Saunders, A History of Brunei (2002)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Saunders, A History of Brunei (2002)"
+      },
+      "moneyAndTax": {
+        "value": "Barter, cowries, piloncitos (small gold pieces) and later Brunei pitis coins.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Brunei (1368–1888) (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "Sultan and nobles (pengiran) above commoners and slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Saunders, A History of Brunei (2002)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy (sultanate).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Brunei (1368–1888) (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Muhammad Shah (founder), Sharif Ali, Bolkiah (1485–1524), Muhammad Hassan, Hashim Jalilul Alam.",
+        "year": 1485,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Brunei (1368–1888) (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Hereditary, often disputed.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Saunders, A History of Brunei (2002)"
+      },
+      "institutions": {
+        "value": "Viziers (wazir) and Islamic law.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Saunders, A History of Brunei (2002)"
+      },
+      "stability": {
+        "value": "A civil war (1660–1673) weakened the sultanate.",
+        "year": 1660,
+        "certainty": "estimated",
+        "source": "Saunders, A History of Brunei (2002)"
+      },
+      "eliteConflict": {
+        "value": "Rival claimants to the throne.",
+        "year": 1660,
+        "certainty": "estimated",
+        "source": "Saunders, A History of Brunei (2002)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "War boats and bronze cannon (lantaka).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Saunders, A History of Brunei (2002)"
+      },
+      "majorWars": {
+        "value": "The Castilian War against Spain (1578).",
+        "year": 1578,
+        "certainty": "estimated",
+        "source": "Saunders, A History of Brunei (2002)"
+      },
+      "territoryChange": {
+        "value": "Lost Sarawak to James Brooke (from 1841) and Sabah to the British North Borneo Company.",
+        "year": 1841,
+        "certainty": "estimated",
+        "source": "Saunders, A History of Brunei (2002)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: Spain, Sulu, and later Britain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Saunders, A History of Brunei (2002)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Bronze-casting of cannon and gongs.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Saunders, A History of Brunei (2002)"
+      },
+      "scienceEducation": {
+        "value": "Islamic learning in mosques and the court.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Saunders, A History of Brunei (2002)"
+      },
+      "openness": {
+        "value": "Open to Chinese, Malay and Arab traders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Saunders, A History of Brunei (2002)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sunni Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Brunei (1368–1888) (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Brunei Malay written in Jawi script; Arabic for religion.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Brunei (1368–1888) (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "Water villages; brassware.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Saunders, A History of Brunei (2002)"
+      },
+      "socialStructure": {
+        "value": "Sultan, nobles, commoners, slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Saunders, A History of Brunei (2002)"
+      },
+      "sharedIdentity": {
+        "value": "A Malay Muslim monarchy.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Saunders, A History of Brunei (2002)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Majapahit, Melaka, Sulu, Spain, Britain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Brunei (1368–1888) (checked 6 Nov 2026)"
+      },
+      "ideasReligions": {
+        "value": "Spread Islam in Borneo and the Philippines.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Saunders, A History of Brunei (2002)"
+      },
+      "colonisation": {
+        "value": "British protectorate from 1888.",
+        "year": 1888,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Brunei (1368–1888) (checked 6 Nov 2026)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Expansion after Melaka fell to the Portuguese in 1511.",
+        "year": 1511,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Brunei (1368–1888) (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "Under Sultan Bolkiah (1485–1524), when Brunei’s influence reached Manila.",
+        "year": 1500,
+        "certainty": "estimated",
+        "source": "Saunders, A History of Brunei (2002)"
+      },
+      "declineSignals": {
+        "value": "Civil war and the loss of territory to Sarawak and North Borneo.",
+        "year": 1660,
+        "certainty": "estimated",
+        "source": "Saunders, A History of Brunei (2002)"
+      },
+      "outcome": {
+        "value": "Became a British protectorate in 1888; independent again in 1984.",
+        "year": 1888,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Brunei (1368–1888) (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Malay annals, Spanish records. Checked against Wikipedia (“Sultanate of Brunei (1368–1888)”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Brunei (1368–1888) (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Medium. Early dates are debated.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Sultanate of Brunei (1368–1888) (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Kampong Ayer water village",
+      "kind": "monument",
+      "year": 1660,
+      "note": "A town on stilts over the Brunei River."
+    },
+    {
+      "label": "Lantaka bronze cannon",
+      "kind": "weapon",
+      "note": "Small swivel cannon used on boats."
+    },
+    {
+      "label": "Brunei brassware",
+      "kind": "art",
+      "note": "Cast brass gongs and vessels."
+    }
+  ]
+}

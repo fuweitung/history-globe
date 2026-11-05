@@ -1,0 +1,310 @@
+{
+  "id": "delhi-sultanate",
+  "name": "Delhi Sultanate",
+  "era": "medieval",
+  "region": "South Asia",
+  "startYear": 1206,
+  "endYear": 1526,
+  "capital": "Delhi",
+  "capitalCoords": [
+    77.21,
+    28.61
+  ],
+  "summary": "A series of five Muslim dynasties ruling north India from Delhi. It held off Mongol raids and built the Qutb Minar, until Babur defeated it at Panipat in 1526.",
+  "borderNames": [
+    "Sultanate of Delhi"
+  ],
+  "borderYears": [
+    1206,
+    1526
+  ],
+  "color": "#3f7a4a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "North India, at times reaching far into the south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Delhi Sultanate (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "The Indo-Gangetic plain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Delhi Sultanate (1999)"
+      },
+      "climate": {
+        "value": "Monsoon climate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Delhi Sultanate (1999)"
+      },
+      "resources": {
+        "value": "Fertile farmland, cotton, textiles.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Delhi Sultanate (1999)"
+      },
+      "disasters": {
+        "value": "Famine in the 1330s under Muhammad bin Tughluq.",
+        "year": 1335,
+        "certainty": "estimated",
+        "source": "Jackson, The Delhi Sultanate (1999)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 101 million (1500 estimate, very uncertain).",
+        "year": 1500,
+        "certainty": "disputed",
+        "source": "Wikipedia: Delhi Sultanate (checked 6 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "Delhi was one of the largest cities in the world.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Delhi Sultanate (1999)"
+      },
+      "disease": {
+        "value": "No major epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Delhi Sultanate (1999)"
+      },
+      "migration": {
+        "value": "Turkic, Afghan and Persian elites; refugees fleeing the Mongols.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Delhi Sultanate (1999)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Land revenue from farming.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Delhi Sultanate (1999)"
+      },
+      "tradeRoutes": {
+        "value": "Trade with Central Asia and the Indian Ocean.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Delhi Sultanate (1999)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Delhi Sultanate (1999)"
+      },
+      "moneyAndTax": {
+        "value": "The taka; Muhammad bin Tughluq’s token coinage (1329–1332) failed.",
+        "year": 1329,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Delhi Sultanate (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "Muslim elite over a Hindu majority.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Delhi Sultanate (1999)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Absolute monarchy (sultan).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Delhi Sultanate (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Qutb ud-Din Aibak, Iltutmish, Razia Sultana (1236–1240), Alauddin Khalji, Muhammad bin Tughluq, Ibrahim Lodi.",
+        "year": 1236,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Delhi Sultanate (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Often by force; five dynasties.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Delhi Sultanate (1999)"
+      },
+      "institutions": {
+        "value": "The Corps of Forty (1211–1266).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Delhi Sultanate (checked 6 Nov 2026)"
+      },
+      "stability": {
+        "value": "Timur sacked Delhi in 1398.",
+        "year": 1398,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Delhi Sultanate (checked 6 Nov 2026)"
+      },
+      "eliteConflict": {
+        "value": "The Khalji Revolution (1290).",
+        "year": 1290,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Delhi Sultanate (checked 6 Nov 2026)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Cavalry and war elephants.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Delhi Sultanate (1999)"
+      },
+      "majorWars": {
+        "value": "Repelled Mongol raids; First Battle of Panipat (1526).",
+        "year": 1526,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Delhi Sultanate (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "About 3.2 million km² in 1312.",
+        "year": 1312,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Delhi Sultanate (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: Mongols, Rajputs, Vijayanagara.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Delhi Sultanate (1999)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "The spinning wheel and Persian wheel spread in India in this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Delhi Sultanate (1999)"
+      },
+      "scienceEducation": {
+        "value": "Madrasas; the poet Amir Khusrau.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Delhi Sultanate (1999)"
+      },
+      "openness": {
+        "value": "Mixed Persian, Turkic and Indian culture.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Delhi Sultanate (1999)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sunni Islam (state); Hindu majority.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Delhi Sultanate (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Persian and Hindustani.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Delhi Sultanate (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "The Qutb Minar and Indo-Islamic architecture.",
+        "year": 1200,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Delhi Sultanate (checked 6 Nov 2026)"
+      },
+      "socialStructure": {
+        "value": "Sultan, Turkic and Afghan nobles, Hindu chiefs, peasants and slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Delhi Sultanate (1999)"
+      },
+      "sharedIdentity": {
+        "value": "Islam and loyalty to the sultan, ruling over a mostly Hindu population.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Delhi Sultanate (1999)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Mongols, Rajputs, Bengal, Vijayanagara.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Delhi Sultanate (1999)"
+      },
+      "ideasReligions": {
+        "value": "Sufi orders (such as the Chishti) spread Islam.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Delhi Sultanate (1999)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Delhi Sultanate (1999)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Qutb ud-Din Aibak ruled independently from 1206 after Muhammad Ghori’s death.",
+        "year": 1206,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Delhi Sultanate (checked 6 Nov 2026); Jackson, The Delhi Sultanate (1999)"
+      },
+      "peakPeriod": {
+        "value": "Under the Khaljis and early Tughluqs.",
+        "year": 1312,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Delhi Sultanate (checked 6 Nov 2026)"
+      },
+      "declineSignals": {
+        "value": "Timur’s sack of Delhi (1398) and the rise of regional sultanates.",
+        "year": 1398,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Delhi Sultanate (checked 6 Nov 2026); Jackson, The Delhi Sultanate (1999)"
+      },
+      "outcome": {
+        "value": "Babur won at Panipat (1526); succeeded by the Mughal Empire.",
+        "year": 1526,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Delhi Sultanate (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Persian chronicles. Checked against Wikipedia (“Delhi Sultanate”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Delhi Sultanate (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Good.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Delhi Sultanate (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Qutb Minar",
+      "kind": "monument",
+      "year": 1200,
+      "note": "A 73-metre victory tower in Delhi."
+    },
+    {
+      "label": "Razia Sultana",
+      "kind": "person",
+      "year": 1236,
+      "note": "One of the few women to rule in medieval India."
+    },
+    {
+      "label": "Amir Khusrau",
+      "kind": "person",
+      "year": 1300,
+      "note": "A poet and musician linked to early Hindustani music."
+    }
+  ]
+}

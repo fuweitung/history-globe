@@ -1,0 +1,310 @@
+{
+  "id": "goryeo",
+  "name": "Goryeo",
+  "era": "medieval",
+  "region": "East Asia (Korea)",
+  "startYear": 918,
+  "endYear": 1392,
+  "capital": "Gaegyeong (Kaesong)",
+  "capitalCoords": [
+    126.55,
+    37.97
+  ],
+  "summary": "The Korean kingdom that gave Korea its English name. It is famous for celadon pottery, the Tripitaka Koreana woodblocks and early metal movable type.",
+  "borderNames": [
+    "Goryeo"
+  ],
+  "borderYears": [
+    918,
+    1392
+  ],
+  "color": "#3f8aa0",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Korean peninsula, ruled from Gaegyeong (Kaesong).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Goryeo (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Mountains, rivers and coasts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "climate": {
+        "value": "Temperate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "resources": {
+        "value": "Rice, ginseng, timber.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "disasters": {
+        "value": "No specific disasters are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 3–5 million.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Goryeo (checked 6 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "Gaegyeong had about 70 temples in the 11th century.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Goryeo (checked 6 Nov 2026)"
+      },
+      "disease": {
+        "value": "No specific epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "migration": {
+        "value": "Refugees from Balhae after its fall (926).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Rice farming on state and aristocratic land.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "tradeRoutes": {
+        "value": "Trade with Song China; merchants came from as far as the Middle East.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Goryeo (checked 6 Nov 2026)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "moneyAndTax": {
+        "value": "Goryeo coinage.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Goryeo (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "Aristocratic clans and Buddhist temples held much land; many people were slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy; a military regime (1170–1270).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Goryeo (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Taejo (Wang Kŏn), Gwangjong, Gongmin, Gongyang (last).",
+        "year": 918,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Goryeo (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Hereditary.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "institutions": {
+        "value": "Civil service exams (958).",
+        "year": 958,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "stability": {
+        "value": "Military rule (1170–1270).",
+        "year": 1170,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Goryeo (checked 6 Nov 2026)"
+      },
+      "eliteConflict": {
+        "value": "Civil versus military officials.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Infantry and fortress defence; the Sambyeolcho elite units resisted the Mongols.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "majorWars": {
+        "value": "Khitan wars (993–1019); Mongol invasions (1231–1259).",
+        "year": 1231,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Goryeo (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "Vassal of the Yuan (1270–1356).",
+        "year": 1270,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Goryeo (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: the Khitan Liao, Jurchen Jin and Mongols; friendly with Song China.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Metal movable type (Jikji, 1377).",
+        "year": 1377,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "scienceEducation": {
+        "value": "Civil service exams and Confucian academies; the national academy (Gukjagam, 992).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "openness": {
+        "value": "Open to trade with Song China and Arab merchants.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Buddhism (state religion), Confucianism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Goryeo (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Korean, Classical Chinese.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Goryeo (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "Celadon pottery, Buddhist painting and the Tripitaka Koreana.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "socialStructure": {
+        "value": "Aristocrats, commoners, slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "sharedIdentity": {
+        "value": "Claimed to be the successor of the ancient kingdom of Goguryeo (hence the name).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Song China, the Khitan Liao, the Jurchen Jin, the Mongols, and Japan.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "ideasReligions": {
+        "value": "Buddhism and Neo-Confucianism came from China; Neo-Confucianism shaped the later Joseon.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Taejo reunified the Later Three Kingdoms by 936.",
+        "year": 936,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Goryeo (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "The 11th century, after the victory over the Khitan, a golden age of Buddhist culture.",
+        "year": 1050,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "declineSignals": {
+        "value": "Military rule, Mongol invasions, then Red Turban and Japanese pirate raids in the 14th century.",
+        "year": 1231,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Goryeo (checked 6 Nov 2026)"
+      },
+      "outcome": {
+        "value": "General Yi Sŏng-gye took power in a coup; he founded Joseon in 1392.",
+        "year": 1392,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Goryeo (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "The Goryeosa (History of Goryeo, 15th century). Checked against Wikipedia (“Goryeo”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Goryeo (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Good for politics; some dates (Tripitaka editions) differ between sources.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Goryeo (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Goryeo celadon",
+      "kind": "art",
+      "year": 1150,
+      "note": "Jade-green glazed pottery, often with inlaid designs."
+    },
+    {
+      "label": "Tripitaka Koreana",
+      "kind": "idea",
+      "year": 1251,
+      "note": "Over 80,000 carved woodblocks of Buddhist scriptures, kept at Haeinsa."
+    },
+    {
+      "label": "Metal movable type",
+      "kind": "tool",
+      "year": 1377,
+      "note": "The Jikji (1377) is the oldest surviving book printed with metal type."
+    }
+  ]
+}

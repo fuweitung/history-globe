@@ -421,5 +421,278 @@
     "toPolityId": "inca-empire",
     "relation": "conquered",
     "year": 1533
+  },
+  {
+    "fromPolityId": "akkadian-empire",
+    "toPolityId": "sumer",
+    "relation": "conquered",
+    "year": -2334
+  },
+  {
+    "fromPolityId": "babylonia",
+    "toPolityId": "akkadian-empire",
+    "relation": "succeeded"
+  },
+  {
+    "fromPolityId": "hittite-empire",
+    "toPolityId": "babylonia",
+    "relation": "conquered",
+    "year": -1595
+  },
+  {
+    "fromPolityId": "assyria",
+    "toPolityId": "babylonia",
+    "relation": "conquered",
+    "year": -729
+  },
+  {
+    "fromPolityId": "babylonia",
+    "toPolityId": "assyria",
+    "relation": "conquered",
+    "year": -612
+  },
+  {
+    "fromPolityId": "achaemenid-persia",
+    "toPolityId": "babylonia",
+    "relation": "conquered",
+    "year": -539
+  },
+  {
+    "fromPolityId": "kingdom-of-kush",
+    "toPolityId": "ancient-egypt",
+    "relation": "conquered",
+    "year": -744
+  },
+  {
+    "fromPolityId": "aksum",
+    "toPolityId": "kingdom-of-kush",
+    "relation": "conquered",
+    "year": 350
+  },
+  {
+    "fromPolityId": "roman-republic",
+    "toPolityId": "carthage",
+    "relation": "conquered",
+    "year": -146
+  },
+  {
+    "fromPolityId": "sasanian",
+    "toPolityId": "parthian-empire",
+    "relation": "succeeded",
+    "year": 224
+  },
+  {
+    "fromPolityId": "xiongnu",
+    "toPolityId": "han-china",
+    "relation": "traded_with"
+  },
+  {
+    "fromPolityId": "kushan-empire",
+    "toPolityId": "han-china",
+    "relation": "traded_with"
+  },
+  {
+    "fromPolityId": "teotihuacan",
+    "toPolityId": "maya",
+    "relation": "traded_with",
+    "year": 378
+  },
+  {
+    "fromPolityId": "inca-empire",
+    "toPolityId": "chimu",
+    "relation": "conquered",
+    "year": 1470
+  },
+  {
+    "fromPolityId": "mali-empire",
+    "toPolityId": "ghana-empire",
+    "relation": "conquered",
+    "year": 1240
+  },
+  {
+    "fromPolityId": "carolingian-empire",
+    "toPolityId": "holy-roman-empire",
+    "relation": "succeeded",
+    "year": 962
+  },
+  {
+    "fromPolityId": "mongol-empire",
+    "toPolityId": "kievan-rus",
+    "relation": "conquered",
+    "year": 1240
+  },
+  {
+    "fromPolityId": "golden-horde",
+    "toPolityId": "mongol-empire",
+    "relation": "succeeded",
+    "year": 1259
+  },
+  {
+    "fromPolityId": "mamluk-sultanate",
+    "toPolityId": "fatimid-caliphate",
+    "relation": "succeeded",
+    "year": 1250
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "mamluk-sultanate",
+    "relation": "conquered",
+    "year": 1517
+  },
+  {
+    "fromPolityId": "seljuk-empire",
+    "toPolityId": "byzantine-empire",
+    "relation": "conquered",
+    "year": 1071
+  },
+  {
+    "fromPolityId": "seljuk-empire",
+    "toPolityId": "abbasid-caliphate",
+    "relation": "allied_with",
+    "year": 1055
+  },
+  {
+    "fromPolityId": "tibetan-empire",
+    "toPolityId": "tang",
+    "relation": "traded_with",
+    "year": 821
+  },
+  {
+    "fromPolityId": "chola-empire",
+    "toPolityId": "srivijaya",
+    "relation": "conquered",
+    "year": 1025
+  },
+  {
+    "fromPolityId": "timurid-empire",
+    "toPolityId": "delhi-sultanate",
+    "relation": "conquered",
+    "year": 1398
+  },
+  {
+    "fromPolityId": "mughal-empire",
+    "toPolityId": "delhi-sultanate",
+    "relation": "succeeded",
+    "year": 1526
+  },
+  {
+    "fromPolityId": "joseon-korea",
+    "toPolityId": "goryeo",
+    "relation": "succeeded",
+    "year": 1392
+  },
+  {
+    "fromPolityId": "yuan",
+    "toPolityId": "goryeo",
+    "relation": "conquered",
+    "year": 1270
+  },
+  {
+    "fromPolityId": "dai-viet",
+    "toPolityId": "champa",
+    "relation": "conquered",
+    "year": 1471
+  },
+  {
+    "fromPolityId": "nguyen-vietnam",
+    "toPolityId": "dai-viet",
+    "relation": "succeeded",
+    "year": 1802
+  },
+  {
+    "fromPolityId": "nguyen-vietnam",
+    "toPolityId": "champa",
+    "relation": "conquered",
+    "year": 1832
+  },
+  {
+    "fromPolityId": "mughal-empire",
+    "toPolityId": "timurid-empire",
+    "relation": "succeeded",
+    "year": 1526
+  },
+  {
+    "fromPolityId": "yuan",
+    "toPolityId": "pagan-kingdom",
+    "relation": "conquered",
+    "year": 1287
+  },
+  {
+    "fromPolityId": "ayutthaya-kingdom",
+    "toPolityId": "sukhothai",
+    "relation": "conquered",
+    "year": 1438
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "kingdom-of-benin",
+    "relation": "colonised",
+    "year": 1897
+  },
+  {
+    "fromPolityId": "bruneian-empire",
+    "toPolityId": "majapahit",
+    "relation": "succeeded",
+    "year": 1402
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "bruneian-empire",
+    "relation": "colonised",
+    "year": 1888
+  },
+  {
+    "fromPolityId": "maratha-empire",
+    "toPolityId": "mughal-empire",
+    "relation": "conquered",
+    "year": 1737
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "maratha-empire",
+    "relation": "conquered",
+    "year": 1818
+  },
+  {
+    "fromPolityId": "russian-empire",
+    "toPolityId": "polish-lithuanian-commonwealth",
+    "relation": "conquered",
+    "year": 1795
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "ashanti-empire",
+    "relation": "colonised",
+    "year": 1902
+  },
+  {
+    "fromPolityId": "russian-empire",
+    "toPolityId": "swedish-empire",
+    "relation": "conquered",
+    "year": 1721
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "sikh-empire",
+    "relation": "conquered",
+    "year": 1849
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "zulu-kingdom",
+    "relation": "colonised",
+    "year": 1887
+  },
+  {
+    "fromPolityId": "khmer-empire",
+    "toPolityId": "champa",
+    "relation": "conquered",
+    "year": 1203
+  },
+  {
+    "fromPolityId": "champa",
+    "toPolityId": "khmer-empire",
+    "relation": "conquered",
+    "year": 1177
   }
 ]

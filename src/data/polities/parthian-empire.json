@@ -1,0 +1,309 @@
+{
+  "id": "parthian-empire",
+  "name": "Parthian Empire",
+  "era": "ancient",
+  "region": "Iran & Mesopotamia",
+  "startYear": -247,
+  "endYear": 224,
+  "capital": "Ctesiphon (earlier Hecatompylos)",
+  "capitalCoords": [
+    44.58,
+    33.09
+  ],
+  "summary": "An Iranian empire (the Arsacids) that stood between Rome and Han China on the Silk Road. Its horse archers defeated Rome at Carrhae.",
+  "borderNames": [
+    "Parthia",
+    "Parthian Empire"
+  ],
+  "borderYears": [
+    -247,
+    224
+  ],
+  "color": "#5a7ab0",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Iran and Mesopotamia, from the Euphrates to Afghanistan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Parthian Empire (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "The Iranian plateau, mountains and the Tigris–Euphrates plain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Curtis & Stewart (eds), The Age of the Parthians (2007)"
+      },
+      "climate": {
+        "value": "Mostly arid.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Curtis & Stewart (eds), The Age of the Parthians (2007)"
+      },
+      "resources": {
+        "value": "Farmland, horses, and control of trade routes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Curtis & Stewart (eds), The Age of the Parthians (2007)"
+      },
+      "disasters": {
+        "value": "No specific disasters are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Curtis & Stewart (eds), The Age of the Parthians (2007)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Curtis & Stewart (eds), The Age of the Parthians (2007)"
+      },
+      "urbanisation": {
+        "value": "Ctesiphon on the Tigris became the main capital; Hecatompylos and Ecbatana were earlier or seasonal capitals.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Parthian Empire (checked 6 Nov 2026); Curtis & Stewart (eds), The Age of the Parthians (2007)"
+      },
+      "disease": {
+        "value": "The Antonine Plague may have come from Roman troops in Mesopotamia.",
+        "year": 165,
+        "certainty": "estimated",
+        "source": "Curtis & Stewart (eds), The Age of the Parthians (2007)"
+      },
+      "migration": {
+        "value": "The Parni tribe moved into Parthia.",
+        "year": -247,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Parthian Empire (checked 6 Nov 2026)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming and Silk Road trade between Rome and Han China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Parthian Empire (checked 6 Nov 2026)"
+      },
+      "tradeRoutes": {
+        "value": "The Silk Road.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Parthian Empire (checked 6 Nov 2026)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Curtis & Stewart (eds), The Age of the Parthians (2007)"
+      },
+      "moneyAndTax": {
+        "value": "The silver drachma.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Parthian Empire (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "Royal family and nobles held most land.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Curtis & Stewart (eds), The Age of the Parthians (2007)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy, with vassal kings.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Parthian Empire (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Arsaces I, Mithridates I (c. 171–132 BCE), Mithridates II (124–91 BCE), Artabanus IV (last).",
+        "year": -171,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Parthian Empire (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Hereditary within the Arsacid family, often contested.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Curtis & Stewart (eds), The Age of the Parthians (2007)"
+      },
+      "institutions": {
+        "value": "A council of nobles (the Megisthanes).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Parthian Empire (checked 6 Nov 2026)"
+      },
+      "stability": {
+        "value": "Frequent civil wars between rival Arsacids.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Curtis & Stewart (eds), The Age of the Parthians (2007)"
+      },
+      "eliteConflict": {
+        "value": "Powerful noble clans (such as the Suren and Karen) could make and unmake kings.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Curtis & Stewart (eds), The Age of the Parthians (2007)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Horse archers and armoured cavalry (cataphracts).",
+        "year": -53,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Parthian Empire (checked 6 Nov 2026)"
+      },
+      "majorWars": {
+        "value": "The Battle of Carrhae (53 BCE) against Rome; the Roman–Parthian Wars.",
+        "year": -53,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Parthian Empire (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "About 2.8 million km² in 1 CE.",
+        "year": 1,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Parthian Empire (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: the Seleucids, Rome and the Kushans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Parthian Empire (checked 6 Nov 2026)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "The “Baghdad Battery” is sometimes dated to this period, but its purpose is debated.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Parthian Empire (checked 6 Nov 2026)"
+      },
+      "scienceEducation": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Curtis & Stewart (eds), The Age of the Parthians (2007)"
+      },
+      "openness": {
+        "value": "Used Greek, Parthian and Aramaic; tolerated many religions.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Parthian Empire (checked 6 Nov 2026)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Zoroastrianism, Babylonian religion, Buddhism and others.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Parthian Empire (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Parthian (court), Greek and Aramaic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Parthian Empire (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "The iwan (a vaulted hall open at one end).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Curtis & Stewart (eds), The Age of the Parthians (2007)"
+      },
+      "socialStructure": {
+        "value": "King, nobles, vassal kings, farmers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Curtis & Stewart (eds), The Age of the Parthians (2007)"
+      },
+      "sharedIdentity": {
+        "value": "Claimed the Iranian heritage of the Achaemenids.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Parthian Empire (checked 6 Nov 2026)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Rome, the Seleucids, the Kushans and Armenia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Parthian Empire (checked 6 Nov 2026)"
+      },
+      "ideasReligions": {
+        "value": "Buddhism and other religions spread along the Silk Road.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Curtis & Stewart (eds), The Age of the Parthians (2007)"
+      },
+      "colonisation": {
+        "value": "Ruled through vassal kings in Armenia, Persis, Characene and elsewhere.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Curtis & Stewart (eds), The Age of the Parthians (2007)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Mithridates I greatly expanded the empire.",
+        "year": -171,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Parthian Empire (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "Under Mithridates II (124–91 BCE).",
+        "year": -91,
+        "certainty": "estimated",
+        "source": "Curtis & Stewart (eds), The Age of the Parthians (2007)"
+      },
+      "declineSignals": {
+        "value": "Civil wars, Roman invasions, and a revolt by the Sasanians.",
+        "year": 200,
+        "certainty": "estimated",
+        "source": "Curtis & Stewart (eds), The Age of the Parthians (2007)"
+      },
+      "outcome": {
+        "value": "Ardashir I defeated Artabanus IV in 224 CE. Successor: the Sasanian Empire.",
+        "year": 224,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Parthian Empire (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Greek and Roman writers, coins. Checked against Wikipedia (“Parthian Empire”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Parthian Empire (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Medium. Few Parthian sources survive; many dates are uncertain.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Parthian Empire (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Horse archers",
+      "kind": "troops",
+      "year": -53,
+      "note": "Mounted archers whose “Parthian shot” defeated Rome at Carrhae."
+    },
+    {
+      "label": "Cataphract cavalry",
+      "kind": "troops",
+      "note": "Heavily armoured riders and horses."
+    },
+    {
+      "label": "The iwan hall",
+      "kind": "monument",
+      "note": "A vaulted hall that became a feature of Persian and Islamic architecture."
+    }
+  ]
+}

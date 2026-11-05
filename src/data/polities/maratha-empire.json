@@ -1,0 +1,316 @@
+{
+  "id": "maratha-empire",
+  "name": "Maratha Empire",
+  "era": "early_modern",
+  "region": "South Asia",
+  "startYear": 1674,
+  "endYear": 1818,
+  "capital": "Raigad; Satara; Pune (Peshwa)",
+  "capitalCoords": [
+    73.86,
+    18.52
+  ],
+  "summary": "A Marathi state founded by Shivaji that challenged and then dominated the Mughals. It controlled much of India in the 18th century until the British defeated it in 1818.",
+  "borderNames": [
+    "Maratha",
+    "Maratha Confederacy"
+  ],
+  "borderYears": [
+    1674,
+    1818
+  ],
+  "color": "#e07a2a",
+  "knownFor": [
+    {
+      "label": "Hill and sea forts",
+      "kind": "monument",
+      "year": 1674,
+      "note": "Forts like Raigad and Sindhudurg, the backbone of Maratha defence."
+    },
+    {
+      "label": "Maratha light cavalry",
+      "kind": "troops",
+      "note": "Fast horsemen using guerrilla tactics."
+    },
+    {
+      "label": "Shivaji",
+      "kind": "person",
+      "year": 1674,
+      "note": "Founder of the Maratha state, crowned in 1674."
+    },
+    {
+      "label": "Maratha navy",
+      "kind": "troops",
+      "year": 1700,
+      "note": "A coastal fleet led by Kanhoji Angre."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Deccan and western India, expanding into much of the subcontinent.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maratha Empire (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "The Western Ghats and Deccan plateau, with hill forts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, The Marathas 1600–1818 (1993)"
+      },
+      "climate": {
+        "value": "Monsoon.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, The Marathas 1600–1818 (1993)"
+      },
+      "resources": {
+        "value": "Farmland and revenue from conquered regions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, The Marathas 1600–1818 (1993)"
+      },
+      "disasters": {
+        "value": "Famines, including in the Deccan.",
+        "year": 1770,
+        "certainty": "estimated",
+        "source": "Gordon, The Marathas 1600–1818 (1993)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, The Marathas 1600–1818 (1993)"
+      },
+      "urbanisation": {
+        "value": "Pune became the Peshwa’s seat.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maratha Empire (checked 6 Nov 2026)"
+      },
+      "disease": {
+        "value": "No major epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, The Marathas 1600–1818 (1993)"
+      },
+      "migration": {
+        "value": "Marathas settled in conquered regions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, The Marathas 1600–1818 (1993)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Land revenue and the chauth tax on neighbours.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, The Marathas 1600–1818 (1993)"
+      },
+      "tradeRoutes": {
+        "value": "Inland trade and a coastal navy under Kanhoji Angre.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, The Marathas 1600–1818 (1993)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, The Marathas 1600–1818 (1993)"
+      },
+      "moneyAndTax": {
+        "value": "Rupee, paisa and Shivrai coins; chauth (a quarter tax).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maratha Empire (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "Military chiefs and landholders above peasants.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, The Marathas 1600–1818 (1993)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Absolute monarchy (to 1761), then a confederacy led by the Peshwa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maratha Empire (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Shivaji (1674–1680), Sambhaji, Baji Rao I (Peshwa), Baji Rao II.",
+        "year": 1674,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maratha Empire (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "The Chhatrapati was hereditary, but Peshwas came to hold real power.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, The Marathas 1600–1818 (1993)"
+      },
+      "institutions": {
+        "value": "The Ashta Pradhan (council of eight ministers).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maratha Empire (checked 6 Nov 2026)"
+      },
+      "stability": {
+        "value": "Fragmented into a confederacy after 1761.",
+        "year": 1761,
+        "certainty": "estimated",
+        "source": "Gordon, The Marathas 1600–1818 (1993)"
+      },
+      "eliteConflict": {
+        "value": "Rivalry among Peshwa, Scindia, Holkar, Gaekwad and Bhonsle.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, The Marathas 1600–1818 (1993)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Light cavalry and guerrilla warfare; hill forts; a navy.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, The Marathas 1600–1818 (1993)"
+      },
+      "majorWars": {
+        "value": "Deccan Wars (1680–1707); Third Battle of Panipat (1761); Anglo-Maratha Wars.",
+        "year": 1761,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maratha Empire (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "About 2.5 million km² in 1760.",
+        "year": 1760,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maratha Empire (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: Mughals, Durrani Afghans, Mysore, British.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maratha Empire (checked 6 Nov 2026)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Hill fort and sea fort engineering.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, The Marathas 1600–1818 (1993)"
+      },
+      "scienceEducation": {
+        "value": "Marathi literature and administration.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, The Marathas 1600–1818 (1993)"
+      },
+      "openness": {
+        "value": "Practical: used Persian-style revenue methods and later European gunners.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, The Marathas 1600–1818 (1993)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Hinduism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maratha Empire (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Marathi and Sanskrit.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maratha Empire (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "Forts such as Raigad and Sindhudurg.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, The Marathas 1600–1818 (1993)"
+      },
+      "socialStructure": {
+        "value": "Brahmin administrators, Maratha warriors, peasants and artisans.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, The Marathas 1600–1818 (1993)"
+      },
+      "sharedIdentity": {
+        "value": "“Hindavi Swarajya” (self-rule).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maratha Empire (checked 6 Nov 2026)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Mughals, Durrani, Mysore, British.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maratha Empire (checked 6 Nov 2026)"
+      },
+      "ideasReligions": {
+        "value": "The Marathi Bhakti saints (Tukaram, Dnyaneshwar) shaped popular religion.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, The Marathas 1600–1818 (1993)"
+      },
+      "colonisation": {
+        "value": "Annexed by the British East India Company in 1818.",
+        "year": 1818,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maratha Empire (checked 6 Nov 2026); Gordon, The Marathas 1600–1818 (1993)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Shivaji was crowned in 1674 after decades of guerrilla war against the Mughals and Bijapur.",
+        "year": 1674,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maratha Empire (checked 6 Nov 2026); Gordon, The Marathas 1600–1818 (1993)"
+      },
+      "peakPeriod": {
+        "value": "Controlled Mughal politics 1737–1803.",
+        "year": 1760,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maratha Empire (checked 6 Nov 2026)"
+      },
+      "declineSignals": {
+        "value": "Defeat by the Durrani Afghans at the Third Battle of Panipat (1761); rivalry between chiefs.",
+        "year": 1761,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maratha Empire (checked 6 Nov 2026); Gordon, The Marathas 1600–1818 (1993)"
+      },
+      "outcome": {
+        "value": "Defeated by the British East India Company in 1818.",
+        "year": 1818,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maratha Empire (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Marathi records. Checked against Wikipedia (“Maratha Empire”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maratha Empire (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Good.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maratha Empire (checked 6 Nov 2026)"
+      }
+    }
+  }
+}

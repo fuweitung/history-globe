@@ -1,0 +1,309 @@
+{
+  "id": "sukhothai",
+  "name": "Sukhothai Kingdom",
+  "era": "medieval",
+  "region": "Southeast Asia (Thailand)",
+  "startYear": 1238,
+  "endYear": 1438,
+  "capital": "Sukhothai",
+  "capitalCoords": [
+    99.7,
+    17.02
+  ],
+  "summary": "A Thai kingdom traditionally seen as the first Thai state. King Ram Khamhaeng is credited with the Thai script and Sukhothai with sangkhalok ceramics.",
+  "borderNames": [
+    "Sukhothai"
+  ],
+  "borderYears": [
+    1238,
+    1438
+  ],
+  "color": "#d0a04a",
+  "knownFor": [
+    {
+      "label": "Sangkhalok ceramics",
+      "kind": "art",
+      "year": 1350,
+      "note": "Glazed stoneware exported across Southeast Asia."
+    },
+    {
+      "label": "Thai script",
+      "kind": "idea",
+      "year": 1283,
+      "note": "Traditionally credited to King Ram Khamhaeng, though the inscription is debated."
+    },
+    {
+      "label": "Walking Buddha statues",
+      "kind": "art",
+      "note": "A graceful new style of Buddha image unique to Sukhothai."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Northern central Thailand.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sukhothai Kingdom (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "River plains of the Yom river.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Baker & Phongpaichit, A History of Thailand (2014)"
+      },
+      "climate": {
+        "value": "Tropical monsoon.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Baker & Phongpaichit, A History of Thailand (2014)"
+      },
+      "resources": {
+        "value": "Rice and clay for ceramics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Baker & Phongpaichit, A History of Thailand (2014)"
+      },
+      "disasters": {
+        "value": "No specific disasters are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Baker & Phongpaichit, A History of Thailand (2014)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Baker & Phongpaichit, A History of Thailand (2014)"
+      },
+      "urbanisation": {
+        "value": "A walled city with temples and water reservoirs.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Baker & Phongpaichit, A History of Thailand (2014)"
+      },
+      "disease": {
+        "value": "No specific epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Baker & Phongpaichit, A History of Thailand (2014)"
+      },
+      "migration": {
+        "value": "Tai peoples moved south into former Khmer lands.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Baker & Phongpaichit, A History of Thailand (2014)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Rice farming and ceramics.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sukhothai Kingdom (checked 6 Nov 2026); Baker & Phongpaichit, A History of Thailand (2014)"
+      },
+      "tradeRoutes": {
+        "value": "Exported sangkhalok ceramics across Southeast Asia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sukhothai Kingdom (checked 6 Nov 2026); Baker & Phongpaichit, A History of Thailand (2014)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Baker & Phongpaichit, A History of Thailand (2014)"
+      },
+      "moneyAndTax": {
+        "value": "Cowries and bullet money (photduang).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sukhothai Kingdom (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "King and nobles above commoners and slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Baker & Phongpaichit, A History of Thailand (2014)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A mandala kingdom with a paternal king (“father of the people”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sukhothai Kingdom (checked 6 Nov 2026); Baker & Phongpaichit, A History of Thailand (2014)"
+      },
+      "keyRulers": {
+        "value": "Si Inthrathit, Ram Khamhaeng (1279–1298), Li Thai.",
+        "year": 1279,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sukhothai Kingdom (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Hereditary.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Baker & Phongpaichit, A History of Thailand (2014)"
+      },
+      "institutions": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Baker & Phongpaichit, A History of Thailand (2014)"
+      },
+      "stability": {
+        "value": "Invaded by Ayutthaya in 1349.",
+        "year": 1349,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sukhothai Kingdom (checked 6 Nov 2026)"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Baker & Phongpaichit, A History of Thailand (2014)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "War elephants.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Baker & Phongpaichit, A History of Thailand (2014)"
+      },
+      "majorWars": {
+        "value": "Wars with Ayutthaya, which invaded in 1349.",
+        "year": 1349,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sukhothai Kingdom (checked 6 Nov 2026); Baker & Phongpaichit, A History of Thailand (2014)"
+      },
+      "territoryChange": {
+        "value": "Greatest extent under Ram Khamhaeng.",
+        "year": 1298,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sukhothai Kingdom (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: Ayutthaya and the Khmer; allied with Lan Na.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Baker & Phongpaichit, A History of Thailand (2014)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "High-fired ceramic kilns.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Baker & Phongpaichit, A History of Thailand (2014)"
+      },
+      "scienceEducation": {
+        "value": "Buddhist monasteries.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Baker & Phongpaichit, A History of Thailand (2014)"
+      },
+      "openness": {
+        "value": "Ties with Yuan China helped develop ceramics.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sukhothai Kingdom (checked 6 Nov 2026); Baker & Phongpaichit, A History of Thailand (2014)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Theravada Buddhism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sukhothai Kingdom (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Thai script credited to Ram Khamhaeng (the inscription is debated).",
+        "year": 1283,
+        "certainty": "disputed",
+        "source": "Wikipedia: Sukhothai Kingdom (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "Sukhothai Historical Park; walking Buddha statues.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sukhothai Kingdom (checked 6 Nov 2026)"
+      },
+      "socialStructure": {
+        "value": "King, nobles, commoners and slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Baker & Phongpaichit, A History of Thailand (2014)"
+      },
+      "sharedIdentity": {
+        "value": "Thai Buddhist kingship.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Baker & Phongpaichit, A History of Thailand (2014)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "The Khmer, Lan Na and Ayutthaya.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Baker & Phongpaichit, A History of Thailand (2014)"
+      },
+      "ideasReligions": {
+        "value": "Theravada Buddhism from Sri Lanka.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Baker & Phongpaichit, A History of Thailand (2014)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Baker & Phongpaichit, A History of Thailand (2014)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Si Inthrathit founded the kingdom in 1238.",
+        "year": 1238,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sukhothai Kingdom (checked 6 Nov 2026); Baker & Phongpaichit, A History of Thailand (2014)"
+      },
+      "peakPeriod": {
+        "value": "Under Ram Khamhaeng (1279–1298).",
+        "year": 1298,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sukhothai Kingdom (checked 6 Nov 2026); Baker & Phongpaichit, A History of Thailand (2014)"
+      },
+      "declineSignals": {
+        "value": "Became a tributary of Ayutthaya from 1378.",
+        "year": 1378,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sukhothai Kingdom (checked 6 Nov 2026); Baker & Phongpaichit, A History of Thailand (2014)"
+      },
+      "outcome": {
+        "value": "Annexed by Ayutthaya in 1438.",
+        "year": 1438,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sukhothai Kingdom (checked 6 Nov 2026); Baker & Phongpaichit, A History of Thailand (2014)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Inscriptions. Checked against Wikipedia (“Sukhothai Kingdom”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sukhothai Kingdom (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Medium. Its role as “first Thai kingdom” is debated.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Sukhothai Kingdom (checked 6 Nov 2026)"
+      }
+    }
+  }
+}

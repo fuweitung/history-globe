@@ -1,0 +1,315 @@
+{
+  "id": "babylonia",
+  "name": "Babylonia",
+  "era": "ancient",
+  "region": "Mesopotamia (Middle East)",
+  "startYear": -1894,
+  "endYear": -539,
+  "capital": "Babylon",
+  "capitalCoords": [
+    44.42,
+    32.54
+  ],
+  "summary": "A Mesopotamian kingdom centred on Babylon. It is known for Hammurabi’s law code and, under Nebuchadnezzar II, for the grand city whose walls and Ishtar Gate still impress visitors.",
+  "borderNames": [
+    "Babylonia"
+  ],
+  "borderYears": [
+    -1894,
+    -539
+  ],
+  "color": "#4a6fb0",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Southern Mesopotamia (modern Iraq), centred on the city of Babylon on the Euphrates.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Babylonia (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Flat river plains between the Tigris and Euphrates, irrigated by canals.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "climate": {
+        "value": "Hot and dry; farming depended on irrigation.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "resources": {
+        "value": "Grain, dates and wool; stone, metal and timber came by trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "disasters": {
+        "value": "River floods and salt build-up in irrigated soil.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate. Babylon may have been the largest city in the world at times.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "urbanisation": {
+        "value": "Babylon under Nebuchadnezzar II was a very large walled city.",
+        "year": -575,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "disease": {
+        "value": "No specific epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "migration": {
+        "value": "Amorites founded the First Dynasty; Kassites ruled later; Chaldeans and Arameans settled.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Babylonia (checked 6 Nov 2026)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Irrigation farming, temple and palace estates and long-distance trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "tradeRoutes": {
+        "value": "River and caravan trade with Assyria, Elam, Syria and the Gulf.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "moneyAndTax": {
+        "value": "Silver by weight (the shekel) and grain served as money; interest rates were regulated by law.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "inequality": {
+        "value": "Hammurabi’s Code gave different penalties for nobles, commoners and slaves.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Babylonia (checked 6 Nov 2026)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Babylonia (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Hammurabi (c. 1792–1750 BCE), Nebuchadnezzar I, Nabopolassar, Nebuchadnezzar II (605–562 BCE), Nabonidus.",
+        "year": -1792,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Babylonia (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Hereditary dynasties, interrupted by foreign conquests (Hittites, Kassites, Assyria, Persia).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "institutions": {
+        "value": "The Code of Hammurabi (about 1754 BCE), one of the earliest written law codes.",
+        "year": -1754,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Babylonia (checked 6 Nov 2026)"
+      },
+      "stability": {
+        "value": "Sacked by the Hittites (c. 1595 BCE), conquered by Elam (1155 BCE) and Assyria; Babylon sacked by Sennacherib (689 BCE).",
+        "year": -1595,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Babylonia (checked 6 Nov 2026)"
+      },
+      "eliteConflict": {
+        "value": "Rival dynasties; Nabonidus was unpopular with the priests of Marduk.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Chariots, infantry and siege warfare.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "majorWars": {
+        "value": "Hammurabi’s conquests; Nebuchadnezzar II destroyed Jerusalem (587 BCE) and fought Egypt.",
+        "year": -587,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Babylonia (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "The Neo-Babylonian Empire took over most of Assyria’s lands after 612 BCE.",
+        "year": -605,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: Assyria, Elam, the Hittites and Egypt. Ally: the Medes (against Assyria).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Babylonia (checked 6 Nov 2026)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Advanced mathematics (base-60 numbers) and systematic astronomical records.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "scienceEducation": {
+        "value": "Astronomical diaries were kept for centuries, and Babylonian maths was used to predict planets.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "openness": {
+        "value": "Absorbed Sumerian, Amorite, Kassite and Aramean culture.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Babylonian religion, with Marduk as the chief god of Babylon.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Babylonia (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Akkadian in cuneiform; Sumerian for sacred texts; later Aramaic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Babylonia (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "The Ishtar Gate and the great ziggurat Etemenanki. The Hanging Gardens are credited to Nebuchadnezzar II.",
+        "year": -575,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Babylonia (checked 6 Nov 2026)"
+      },
+      "socialStructure": {
+        "value": "Nobles (awilum), commoners (mushkenum) and slaves (wardum).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Babylonia (checked 6 Nov 2026)"
+      },
+      "sharedIdentity": {
+        "value": "Babylon as the religious and cultural capital of Mesopotamia.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Assyria, Elam, the Hittites, Egypt, Judah and the Medes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Babylonia (checked 6 Nov 2026)"
+      },
+      "ideasReligions": {
+        "value": "Its astronomy, law and literature (the Epic of Gilgamesh in its standard form) influenced the wider world.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "colonisation": {
+        "value": "Deported peoples, including the Babylonian captivity of the Judeans.",
+        "year": -587,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Babylonia (checked 6 Nov 2026)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Hammurabi united southern Mesopotamia.",
+        "year": -1792,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Babylonia (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "Under Nebuchadnezzar II (605–562 BCE).",
+        "year": -575,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Babylonia (checked 6 Nov 2026)"
+      },
+      "declineSignals": {
+        "value": "Unpopular rule of Nabonidus and the rise of Persia.",
+        "year": -550,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "outcome": {
+        "value": "Conquered by Cyrus the Great of Persia in 539 BCE. Successor: the Achaemenid Empire.",
+        "year": -539,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Babylonia (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Cuneiform tablets, law codes, chronicles. Checked against Wikipedia (“Babylonia”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Babylonia (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Medium. Early dates differ by about 96 years between chronologies.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Babylonia (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Code of Hammurabi",
+      "kind": "idea",
+      "year": -1754,
+      "note": "One of the earliest written law codes, carved on a basalt stele."
+    },
+    {
+      "label": "Ishtar Gate",
+      "kind": "monument",
+      "year": -575,
+      "note": "A gate of blue glazed bricks with dragons and bulls, built under Nebuchadnezzar II."
+    },
+    {
+      "label": "Base-60 maths & astronomy",
+      "kind": "tool",
+      "note": "The reason we have 60 minutes in an hour and 360 degrees in a circle."
+    },
+    {
+      "label": "Hanging Gardens (legend)",
+      "kind": "monument",
+      "year": -600,
+      "note": "A Wonder of the World credited to Nebuchadnezzar II, though no trace has been found."
+    }
+  ]
+}

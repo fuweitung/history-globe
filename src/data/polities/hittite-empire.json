@@ -1,0 +1,311 @@
+{
+  "id": "hittite-empire",
+  "name": "Hittite Empire",
+  "era": "ancient",
+  "region": "Anatolia (Middle East)",
+  "startYear": -1650,
+  "endYear": -1190,
+  "datesApproximate": true,
+  "capital": "Hattusa",
+  "capitalCoords": [
+    34.62,
+    40.02
+  ],
+  "summary": "An Anatolian empire that rivalled Egypt. It fought the Battle of Kadesh and signed one of the earliest known peace treaties.",
+  "borderNames": [
+    "Hittites"
+  ],
+  "borderYears": [
+    -1700,
+    -1190
+  ],
+  "color": "#7a5a3f",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Central Anatolia (modern Turkey), ruled from Hattusa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hittites (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "A high plateau with mountains and the Kızılırmak (Halys) river.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bryce, The Kingdom of the Hittites (2005)"
+      },
+      "climate": {
+        "value": "Drought and famine are mentioned in the late 13th century BCE.",
+        "year": -1200,
+        "certainty": "estimated",
+        "source": "Bryce, The Kingdom of the Hittites (2005)"
+      },
+      "resources": {
+        "value": "Metals (copper, silver, iron), timber and grain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bryce, The Kingdom of the Hittites (2005)"
+      },
+      "disasters": {
+        "value": "Famine at the end of the Bronze Age.",
+        "year": -1200,
+        "certainty": "estimated",
+        "source": "Bryce, The Kingdom of the Hittites (2005)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Estimates range from about 140,000 to over 200,000.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Hittites (checked 6 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "Hattusa was a large walled city with temples and palaces.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bryce, The Kingdom of the Hittites (2005)"
+      },
+      "disease": {
+        "value": "A plague raged for about 20 years under Mursili II, reportedly brought by Egyptian prisoners.",
+        "year": -1320,
+        "certainty": "estimated",
+        "source": "Bryce, The Kingdom of the Hittites (2005)"
+      },
+      "migration": {
+        "value": "Sea Peoples and Phrygians moved into the region at the end of the empire.",
+        "year": -1190,
+        "certainty": "estimated",
+        "source": "Bryce, The Kingdom of the Hittites (2005)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "A barter economy based on farming, herding and metals.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hittites (checked 6 Nov 2026)"
+      },
+      "tradeRoutes": {
+        "value": "Trade with Assyria, Egypt, Mycenae and Syria.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bryce, The Kingdom of the Hittites (2005)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bryce, The Kingdom of the Hittites (2005)"
+      },
+      "moneyAndTax": {
+        "value": "Barter; gold, copper, silver and bronze measured in shekels and minas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hittites (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "King and nobles at the top; farmers and dependent labour below.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bryce, The Kingdom of the Hittites (2005)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy. The king was ruler, judge and high priest.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hittites (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Labarna I, Mursili I, Šuppiluliuma I (mid-14th century BCE), Muwatalli II, Hattusili III, Šuppiluliuma II (last).",
+        "year": -1350,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hittites (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Hereditary; the Edict of Telipinu (c. 1525 BCE) set rules of succession after years of murders.",
+        "year": -1525,
+        "certainty": "estimated",
+        "source": "Bryce, The Kingdom of the Hittites (2005)"
+      },
+      "institutions": {
+        "value": "Written laws (the Hittite law code) and treaties with vassal kings.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hittites (checked 6 Nov 2026)"
+      },
+      "stability": {
+        "value": "Frequent succession crises in the Old Kingdom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bryce, The Kingdom of the Hittites (2005)"
+      },
+      "eliteConflict": {
+        "value": "Hattusili III seized the throne from his nephew.",
+        "year": -1267,
+        "certainty": "estimated",
+        "source": "Bryce, The Kingdom of the Hittites (2005)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Successful use of chariots carrying three men.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hittites (checked 6 Nov 2026)"
+      },
+      "majorWars": {
+        "value": "Battle of Kadesh against Egypt (c. 1274 BCE); sack of Babylon (c. 1595 BCE).",
+        "year": -1274,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hittites (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "At its peak it ruled most of Anatolia and northern Syria.",
+        "year": -1350,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hittites (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: Egypt, Assyria, Mitanni. A peace treaty with Egypt (c. 1259 BCE).",
+        "year": -1259,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hittites (checked 6 Nov 2026)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Early ironworking is often attributed to the Hittites, but this is increasingly contested.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Hittites (checked 6 Nov 2026)"
+      },
+      "scienceEducation": {
+        "value": "Scribes kept archives of clay tablets in several languages.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bryce, The Kingdom of the Hittites (2005)"
+      },
+      "openness": {
+        "value": "Adopted Hurrian, Mesopotamian and Luwian culture; a “thousand gods”.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bryce, The Kingdom of the Hittites (2005)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Hittite religion, with storm gods (Tarhunt) as chief deities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hittites (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Hittite, Luwian, Hattic and Hurrian; Hittite and Luwian are the oldest attested Indo-European languages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hittites (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "The Lion Gate at Hattusa and the rock sanctuary of Yazılıkaya.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bryce, The Kingdom of the Hittites (2005)"
+      },
+      "socialStructure": {
+        "value": "King, nobles, free people, and dependent people.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bryce, The Kingdom of the Hittites (2005)"
+      },
+      "sharedIdentity": {
+        "value": "The king’s role as servant of the storm god.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bryce, The Kingdom of the Hittites (2005)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Egypt, Assyria, Mitanni, Babylon, Arzawa and Mycenaean Greeks (Ahhiyawa).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hittites (checked 6 Nov 2026)"
+      },
+      "ideasReligions": {
+        "value": "Influenced the Neo-Hittite states.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bryce, The Kingdom of the Hittites (2005)"
+      },
+      "colonisation": {
+        "value": "Ruled vassal kingdoms in Syria and Anatolia.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bryce, The Kingdom of the Hittites (2005)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Unification of Anatolian cities; capital at Hattusa.",
+        "year": -1650,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hittites (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "Under Šuppiluliuma I, mid-14th century BCE.",
+        "year": -1350,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hittites (checked 6 Nov 2026)"
+      },
+      "declineSignals": {
+        "value": "Famine, attacks by the Kaska and Sea Peoples, and pressure from Assyria.",
+        "year": -1200,
+        "certainty": "estimated",
+        "source": "Bryce, The Kingdom of the Hittites (2005)"
+      },
+      "outcome": {
+        "value": "Collapse around 1190 BCE; Hattusa was destroyed. Successors: Neo-Hittite states.",
+        "year": -1190,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hittites (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Clay tablets from Hattusa, deciphered by Hrozný (1915). Checked against Wikipedia (“Hittites”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hittites (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Medium. Bronze Age dates vary between chronologies.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Hittites (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Three-man war chariots",
+      "kind": "troops",
+      "year": -1274,
+      "note": "Heavy chariots used at the Battle of Kadesh."
+    },
+    {
+      "label": "Egyptian–Hittite peace treaty",
+      "kind": "idea",
+      "year": -1259,
+      "note": "One of the earliest surviving peace treaties."
+    },
+    {
+      "label": "Lion Gate of Hattusa",
+      "kind": "monument",
+      "year": -1300,
+      "note": "A gateway of carved stone lions in the capital’s walls."
+    }
+  ]
+}
