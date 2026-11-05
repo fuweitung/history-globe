@@ -5,281 +5,282 @@
   "region": "East Asia",
   "startYear": 1368,
   "endYear": 1644,
-  "capital": "Nanjing, then Beijing (from 1421)",
+  "capital": "Nanjing (1368–1421); Beijing (from 1421)",
   "capitalCoords": [
     116.39,
     39.91
   ],
   "color": "#b8433a",
   "borderNames": [
-    "Ming Chinese Empire"
+    "Ming Chinese Empire",
+    "Ming Empire"
   ],
   "summary": "The Han Chinese dynasty that drove out the Mongol Yuan. It built the Forbidden City and most of today’s Great Wall, and sent Zheng He’s great fleets across the Indian Ocean.",
   "checklist": {
     "geography": {
       "location": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "China proper, ruling first from Nanjing, then from Beijing (designated capital in 1420). For a time it controlled Manchuria and occupied Vietnam (1406–1427).",
+        "year": 1420,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026) (infobox)"
       },
       "terrain": {
-        "value": null,
+        "value": "The Yangtze valley (the main economic region), the North China Plain, and the Grand Canal, restored under Yongle. The Great Wall line ran along the northern frontier.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       },
       "climate": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The Little Ice Age brought cold and drought in the early 17th century, causing northern famines that fed rebellion.",
+        "year": 1630,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       },
       "resources": {
-        "value": null,
+        "value": "Rice, silk, cotton, tea and porcelain (Jingdezhen). New World crops (maize, sweet potatoes, peanuts) arrived in the 16th century.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       },
       "disasters": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The 1556 Shaanxi earthquake, the deadliest earthquake on record (about 830,000 deaths). Yellow River floods. The Great Plague of 1633–1644.",
+        "year": 1556,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       }
     },
     "population": {
       "population": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "About 65 million in 1393, 125 million in 1500 and 160 million in 1600 (Maddison 2006, via the Wikipedia infobox). Late-Ming estimates range up to 200 million because censuses missed tax evaders.",
+        "year": 1600,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026) (infobox)"
       },
       "urbanisation": {
-        "value": null,
+        "value": "Beijing and Nanjing were huge walled capitals (the Nanjing wall was about 48 km long). Commercial cities flourished in the Yangtze delta.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       },
       "disease": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The Great Plague (1633–1644) spread from Zhejiang to Henan in the dynasty’s final years.",
+        "year": 1633,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       },
       "migration": {
-        "value": null,
+        "value": "Coastal people turned to smuggling and overseas trade despite the maritime bans (haijin). Settlers moved to frontier regions such as Yunnan.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       }
     },
     "economy": {
       "economicBase": {
-        "value": null,
+        "value": "Agriculture plus booming commerce and crafts (porcelain, silk, cotton) in the 16th century.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Zheng He’s treasure fleets (1405–1433), then restrictions on private sea trade. Portuguese at Macau (from 1557) and Spanish silver via Manila supplied huge silver inflows.",
+        "year": 1557,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       },
       "wealth": {
-        "value": null,
+        "value": "GDP per person of about 19.8 taels, a decline from the Song (Broadberry 2014, via the Wikipedia infobox).",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026) (infobox)"
       },
       "moneyAndTax": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Paper money until about 1450, then it collapsed through inflation. Silver and copper coins took over. Zhang Juzheng’s Single Whip tax reforms (1570s). Silver price shocks in the 1630s–40s.",
+        "year": 1580,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       },
       "inequality": {
-        "value": null,
+        "value": "Land concentrated in tax-exempt estates of nobles, eunuchs and temples, while the tax burden fell on peasants.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       }
     },
     "politics": {
       "governmentType": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "An absolute monarchy. The Hongwu emperor abolished the chancellor post in 1380, and emperors ruled through the Grand Secretariat and the Six Ministries.",
+        "year": 1380,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026) (infobox)"
       },
       "keyRulers": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Hongwu (Zhu Yuanzhang, 1368–1398). Yongle (1402–1424, moved the capital to Beijing, sent Zheng He). Wanli (1572–1620, withdrew from government for decades). Chongzhen (1627–1644, last).",
+        "year": 1368,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026) (infobox)"
       },
       "succession": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Hereditary. Yongle seized the throne from his nephew in a civil war (the Jingnan campaign, 1399–1402).",
+        "year": 1402,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       },
       "institutions": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Civil service examinations with the “eight-legged essay” (from 1487; 24,874 jinshi degrees awarded over 276 years). The Embroidered Uniform Guard (secret police). Thirteen provinces.",
+        "year": 1487,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       },
       "stability": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Purges under Hongwu (about 100,000 executed). The Tumu Crisis (1449), when the emperor was captured by the Oirats. Revolts in the 1620s–40s.",
+        "year": 1449,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       },
       "eliteConflict": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Powerful eunuchs (e.g. Wei Zhongxian under Tianqi), and fierce factional conflict between the Donglin faction and its enemies.",
+        "year": 1625,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       }
     },
     "military": {
       "armyAndTech": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "A standing army of over one million under Hongwu, organised in hereditary military households (weisuo). Firearms and cannon. The rebuilt brick-and-stone Great Wall.",
+        "year": 1380,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       },
       "majorWars": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The Battle of Lake Poyang (1363), possibly the largest naval battle in history. The Tumu Crisis (1449). Wars against Japanese-led pirates. The Imjin War in Korea (1592–98). Wars with the Manchus from 1618.",
+        "year": 1592,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       },
       "territoryChange": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "About 6.5 million km² around 1450 (Wikipedia infobox). Withdrew from Vietnam in 1427 after Lê Lợi’s resistance. Lost Manchuria to the Later Jin (Qing).",
+        "year": 1427,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026) (infobox)"
       },
       "alliancesRivals": {
-        "value": null,
+        "value": "Rivals were the Mongols (Oirats), Japanese pirates, Japan under Hideyoshi, and the Manchus. Joseon Korea was an ally. A tributary system covered Korea, Ryukyu and much of Southeast Asia.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       }
     },
     "technology": {
       "inventions": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Shipbuilding for Zheng He’s fleets (Nanjing shipyards built about 2,000 vessels between 1403 and 1419). The rebuilt Great Wall, Forbidden City engineering, and gunpowder weapons. Private newspapers appeared in Beijing by 1582.",
+        "year": 1405,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       },
       "scienceEducation": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Encyclopaedic works (the Yongle Encyclopedia, Song Yingxing’s Tiangong Kaiwu, 1637). Jesuits such as Matteo Ricci brought European science. Literacy rates are not stated in the sources checked.",
+        "year": 1601,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       },
       "openness": {
-        "value": null,
+        "value": "Mixed. It sent the great Zheng He voyages, then restricted private sea trade (haijin), but still absorbed New World silver and crops and welcomed some Jesuit scholars.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       }
     },
     "culture": {
       "religion": {
-        "value": null,
+        "value": "Confucianism, Buddhism (Hongwu had been a monk), Taoism (favoured by Jiajing), folk religion, Islam and early Catholicism.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026) (infobox)"
       },
       "languageWriting": {
-        "value": null,
+        "value": "Mandarin as the official spoken standard. Classical and vernacular Chinese in a booming print culture.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026) (infobox)"
       },
       "artsArchitecture": {
-        "value": "Built the Forbidden City in Beijing (1406–1420) and most of today’s visible Great Wall.",
+        "value": "The Forbidden City in Beijing (1406–1420) and most of today’s visible Great Wall. Classic novels (Water Margin, Journey to the West). Painters such as Shen Zhou and Wen Zhengming. Blue-and-white porcelain.",
         "year": 1420,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ming dynasty; Wikipedia: Ming Great Wall"
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026); Wikipedia: Ming Great Wall (checked 5 Nov 2026); video research: RESEARCH.md, “5,000 Years of China”"
       },
       "socialStructure": {
-        "value": null,
+        "value": "Emperor, scholar-gentry, merchants growing in wealth, peasants, hereditary military and artisan households, and eunuchs at court.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       },
       "sharedIdentity": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Presented itself as restoring Han Chinese rule after the Mongol Yuan.",
+        "year": 1368,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "Admiral Zheng He’s treasure fleets (1405–1433) sailed to Southeast Asia, India, Arabia and the Swahili coast of East Africa.",
+        "value": "Admiral Zheng He’s treasure fleets (1405–1433) sailed to Southeast Asia (including Melaka), India, Arabia and the Swahili coast of East Africa. Neighbours included Joseon, Japan, the Mongols and Đại Việt.",
         "year": 1405,
         "certainty": "confirmed",
-        "source": "Wikipedia: Zheng He"
+        "source": "Wikipedia: Zheng He (checked 5 Nov 2026); video research: RESEARCH.md, “5,000 Years of China”"
       },
       "ideasReligions": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Jesuit missionaries (Ricci) introduced European maps and mathematics. Columbian Exchange crops arrived. Chinese porcelain was exported worldwide (about 16% of late-Ming ceramic exports went to Europe).",
+        "year": 1601,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       },
       "colonisation": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Occupied Vietnam (1406–1427) and absorbed Yunnan (1381). Relations with Tibet are debated: historians disagree whether they amounted to sovereignty or loose religious and diplomatic ties.",
+        "year": 1381,
+        "certainty": "disputed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Zhu Yuanzhang led the Red Turban rebels against the failing Yuan. Defeated rivals at Lake Poyang (1363) and took Nanjing. Strong early government under Hongwu and Yongle.",
+        "year": 1368,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       },
       "peakPeriod": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The Yongle reign (1402–1424): Zheng He’s voyages, the new capital at Beijing, and the Yongle Encyclopedia.",
+        "year": 1420,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       },
       "declineSignals": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Eunuch power and factionalism, an absent emperor (Wanli), costly wars (Korea 1592–98), a silver crisis, the Little Ice Age, famine and plague, military desertions, and the rise of the Manchus.",
+        "year": 1620,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       },
       "outcome": {
-        "value": "Fell in 1644 after rebels took Beijing. The Qing dynasty succeeded it.",
+        "value": "Fell in 1644 when Li Zicheng’s rebels took Beijing and the Chongzhen emperor died by suicide. Wu Sangui let the Manchus through the Shanhai Pass, and the Qing took over. Southern Ming regimes lasted until 1662.",
         "year": 1644,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ming dynasty"
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       }
     },
     "dataQuality": {
       "sources": {
-        "value": null,
+        "value": "The History of Ming (compiled under the Qing, possibly censored), the Veritable Records, local gazetteers, and European accounts. Checked against Wikipedia on 5 Nov 2026. See also Brook (2010) and Mote (1999).",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       },
       "overallCertainty": {
-        "value": null,
+        "value": "Good for politics. Population (160–200 million) and GDP are estimates. The Beijing capital date is given as 1403 (designation) or 1420/1421 (formal move). Some topics, like Tibet and social mobility through exams, are debated.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "disputed",
+        "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       }
     }
   }
