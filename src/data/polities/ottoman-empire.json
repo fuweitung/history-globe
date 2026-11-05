@@ -1,0 +1,77 @@
+{
+  "id": "ottoman-empire",
+  "name": "Ottoman Empire",
+  "era": "early_modern",
+  "region": "Middle East, Southeast Europe & North Africa",
+  "startYear": 1299,
+  "endYear": 1922,
+  "datesApproximate": true,
+  "capital": "Istanbul (from 1453); earlier Bursa and Edirne",
+  "capitalCoords": [28.98, 41.01],
+  "color": "#b5563f",
+  "borderNames": ["Ottoman Empire", "Ottoman Sultanate"],
+  "summary": "A multi-ethnic, multi-religious empire founded in northwest Anatolia around 1299. At its height it ruled much of southeast Europe, the Middle East and North Africa, and it lasted until 1922.",
+  "checklist": {
+    "geography": {
+      "location": { "value": "Centred on Anatolia and the Balkans, with Istanbul controlling the straits between the Black Sea and the Mediterranean. At its height it stretched from Hungary to Yemen and from Algeria to the Caspian.", "certainty": "confirmed", "source": "Finkel, Osman's Dream (2005)" },
+      "terrain": { "value": "Bridged Europe and Asia across the Bosporus and Dardanelles. Key rivers included the Danube, Tigris, Euphrates and Nile. Mountainous Anatolian plateau, fertile Balkan plains and Mediterranean coastlines.", "certainty": "confirmed", "source": "Finkel (2005)" },
+      "climate": { "value": "Mediterranean to semi-arid. A cold, dry phase of the Little Ice Age in the late 16th century brought drought and famine, which historians link to the Celali revolts.", "year": 1590, "certainty": "estimated", "source": "White, The Climate of Rebellion in the Early Modern Ottoman Empire (2011)" },
+      "resources": { "value": "Grain from Egypt and the Balkans, timber, copper, silver mines in the Balkans, wool, cotton, and control of trade tolls between Asia and Europe.", "certainty": "confirmed", "source": "İnalcık, The Ottoman Empire: The Classical Age 1300–1600 (1973)" },
+      "disasters": { "value": "Frequent earthquakes, including the 'Little Judgment Day' earthquake that struck Istanbul in 1509. Recurrent droughts and famines.", "year": 1509, "certainty": "confirmed", "source": "Ambraseys & Finkel, The Seismicity of Turkey and Adjacent Areas (1995)" }
+    },
+    "population": {
+      "population": { "value": "Roughly 20–30 million at its late-16th-century height, though estimates vary widely. About 21 million on the eve of the First World War, after large territorial losses.", "year": 1600, "certainty": "estimated", "source": "Quataert, The Ottoman Empire 1700–1922 (2005); İnalcık (1973)" },
+      "urbanisation": { "value": "Istanbul had perhaps 400,000–700,000 people in the 16th century, among the largest cities in Europe or the Middle East. Other major cities included Cairo, Aleppo, Damascus, Thessaloniki and Bursa.", "year": 1550, "certainty": "estimated", "source": "İnalcık (1973)" },
+      "disease": { "value": "Plague recurred regularly until the 19th century. Cholera epidemics arrived in the 19th century. Quarantine systems were introduced from 1838.", "year": 1838, "certainty": "confirmed", "source": "Varlık, Plague and Empire in the Early Modern Mediterranean World (2015)" },
+      "migration": { "value": "Received Sephardic Jews expelled from Spain (1492) and later Muslim refugees from the Caucasus, Crimea and the Balkans (19th century). Population exchanges and mass displacements accompanied the empire's final decades.", "certainty": "confirmed", "source": "Quataert (2005)" }
+    },
+    "economy": {
+      "economicBase": { "value": "Mostly agrarian, organised in the classical period through the timar system (cavalry officers given revenue from land in return for military service), plus crafts and long-distance trade.", "certainty": "confirmed", "source": "İnalcık (1973)" },
+      "tradeRoutes": { "value": "Controlled the western ends of the overland Silk Roads and Red Sea spice routes, and the Black Sea. Trading partners included Venice, Genoa, France, England, the Netherlands, Safavid Persia and India.", "certainty": "confirmed", "source": "İnalcık & Quataert (eds.), An Economic and Social History of the Ottoman Empire (1994)" },
+      "wealth": { "value": "Maddison-style estimates place income per person in Ottoman lands broadly in line with other eastern Mediterranean economies, below northwest Europe by the 18th century. Precise figures are very uncertain.", "certainty": "disputed", "source": "Pamuk, 'Economic Growth in Southeastern Europe and Eastern Mediterranean, 1820–1914' (2006)" },
+      "moneyAndTax": { "value": "Silver akçe coinage. A major debasement in 1585–86 and inflation from New World silver hurt soldiers on fixed pay. Tax-farming spread, including life-term tax farms (malikane) from 1695. The state defaulted on its foreign debt in 1875, and the Ottoman Public Debt Administration was created in 1881.", "year": 1875, "certainty": "confirmed", "source": "Pamuk, A Monetary History of the Ottoman Empire (2000)" },
+      "inequality": { "value": "A legal divide between the askeri (tax-exempt military-administrative class) and the reaya (tax-paying subjects). Over time, provincial notables (ayan) accumulated land and tax-farming wealth.", "certainty": "confirmed", "source": "İnalcık (1973)" }
+    },
+    "politics": {
+      "governmentType": { "value": "A dynastic sultanate. The sultan was assisted by the Grand Vizier and the Imperial Council (Divan). After the conquest of Egypt (1517), sultans also claimed the title of caliph. It became a constitutional monarchy in 1876–78 and again from 1908.", "certainty": "confirmed", "source": "Finkel (2005)" },
+      "keyRulers": { "value": "Osman I (founder). Mehmed II, who conquered Constantinople in 1453. Selim I, who conquered Syria and Egypt in 1516–17. Suleiman I (r. 1520–66). Mahmud II, a reformer (r. 1808–39). Abdulhamid II (r. 1876–1909).", "certainty": "confirmed", "source": "Finkel (2005)" },
+      "succession": { "value": "No fixed rule at first: sons competed, and royal fratricide was practised. From the early 17th century, succession moved to the eldest male of the dynasty (seniority), and princes were confined in the palace.", "year": 1617, "certainty": "confirmed", "source": "Peirce, The Imperial Harem (1993)" },
+      "institutions": { "value": "Sultanic law (kanun) alongside Islamic law (sharia). The devshirme levy recruited Christian boys for the army and administration. Under the millet system, non-Muslim religious communities ran their own internal affairs. The Tanzimat reforms (1839–76) aimed at legal equality and centralisation.", "year": 1839, "certainty": "confirmed", "source": "Finkel (2005); Quataert (2005)" },
+      "stability": { "value": "The Celali revolts in Anatolia (c. 1590s–1610). Janissary uprisings, including the killing of Osman II in 1622. Provincial autonomy in the 18th century. The Young Turk Revolution of 1908 and the coup of 1913.", "certainty": "confirmed", "source": "Finkel (2005)" },
+      "eliteConflict": { "value": "Factional politics among viziers, palace households, janissaries and royal women. The c. 1530s–1650s is sometimes called the 'Sultanate of Women', though the label is debated. The Köprülü grand viziers restored central authority from 1656.", "year": 1656, "certainty": "estimated", "source": "Peirce (1993)" }
+    },
+    "military": {
+      "armyAndTech": { "value": "An early adopter of gunpowder: large cannon were used at Constantinople in 1453, and the janissary infantry were trained with firearms. The army at the Second Siege of Vienna (1683) is often estimated at 100,000–150,000. European-style reforms came with the Nizam-ı Cedid in the 1790s, and the janissaries were abolished in 1826.", "year": 1683, "certainty": "estimated", "source": "Ágoston, Guns for the Sultan (2005)" },
+      "majorWars": { "value": "Conquest of Constantinople (1453). Mohács (1526). Sieges of Vienna (1529, 1683). Lepanto (1571). Wars with Safavid Persia. Russo-Turkish wars (18th–19th c.). Crimean War (1853–56). Balkan Wars (1912–13). First World War (1914–18).", "certainty": "confirmed", "source": "Finkel (2005)" },
+      "territoryChange": { "value": "Peak extent in the late 17th century. The Treaty of Karlowitz (1699) marked the first major permanent losses. Further losses in 1774, 1829 and 1878, then the Balkans in 1912–13, and the Arab provinces after 1918.", "year": 1699, "certainty": "confirmed", "source": "Finkel (2005)" },
+      "alliancesRivals": { "value": "Allies included France (from 1536), Britain and France in the Crimean War, and Germany in the First World War. Rivals included the Habsburgs, Venice, Safavid Persia and Russia.", "certainty": "confirmed", "source": "Finkel (2005)" }
+    },
+    "technology": {
+      "inventions": { "value": "Adopted gunpowder artillery early. The Istanbul observatory of Taqi al-Din opened in 1577 and was demolished in 1580. Printing in Ottoman Turkish was only permitted from 1727 (İbrahim Müteferrika's press). Jewish, Armenian and Greek presses had operated earlier. Telegraph and railways came in the 19th century.", "year": 1727, "certainty": "confirmed", "source": "Finkel (2005)" },
+      "scienceEducation": { "value": "Madrasa education for religious and legal scholars, and a palace school for administrators. New military and engineering schools opened from the 1770s, and a state secular school system from the 1840s. General literacy remained low before the late 19th century.", "certainty": "estimated", "source": "Quataert (2005)" },
+      "openness": { "value": "Selective. It was quick to adopt military technology and later Western administrative models (Tanzimat). Mass printing in Ottoman Turkish was adopted slowly, a delay historians explain in several ways.", "certainty": "estimated", "source": "Quataert (2005)" }
+    },
+    "culture": {
+      "religion": { "value": "Sunni Islam was the state religion. Large Orthodox Christian, Armenian, Jewish and other communities lived in the empire, organised as recognised religious communities.", "certainty": "confirmed", "source": "Quataert (2005)" },
+      "languageWriting": { "value": "Ottoman Turkish (written in Arabic script) was the language of administration, alongside Arabic and Persian for learning and literature. Greek, Armenian, Slavic languages, Ladino and many others were spoken.", "certainty": "confirmed", "source": "Finkel (2005)" },
+      "artsArchitecture": { "value": "The architect Mimar Sinan, including the Süleymaniye (1550–57) and Selimiye mosques. Iznik tiles, miniature painting, calligraphy, and poetry (divan literature).", "year": 1557, "certainty": "confirmed", "source": "Necipoğlu, The Age of Sinan (2005)" },
+      "socialStructure": { "value": "Divided into askeri (rulers) and reaya (subjects), and also by religious community. Slavery existed in military, household and agricultural forms. The devshirme recruited Christian boys who could rise to the highest offices.", "certainty": "confirmed", "source": "İnalcık (1973)" },
+      "sharedIdentity": { "value": "Loyalty to the dynasty and to Islam in the classical period. 'Ottomanism' (shared citizenship) was promoted in the 19th century. National movements and Turkish nationalism grew in the final decades.", "certainty": "estimated", "source": "Quataert (2005)" }
+    },
+    "connections": {
+      "neighbours": { "value": "Byzantium, the Mamluk Sultanate (conquered 1516–17), the Habsburg Monarchy, Venice, Poland–Lithuania, Russia, Safavid and Qajar Persia, and the North African states.", "certainty": "confirmed", "source": "Finkel (2005)" },
+      "ideasReligions": { "value": "Islam spread in parts of the Balkans. The Ottomans were a channel for coffee and other goods into Europe. From the 19th century, nationalism and constitutionalism entered from Europe.", "certainty": "estimated", "source": "Quataert (2005)" },
+      "colonisation": { "value": "As an imperial power it ruled the Balkans, Anatolia, the Arab lands and North Africa. In the 19th century it lost Algeria (1830), Tunisia (1881) and Egypt (1882) to European powers, and came under foreign financial control through the Ottoman Public Debt Administration.", "certainty": "confirmed", "source": "Quataert (2005)" }
+    },
+    "riseFall": {
+      "riseSignals": { "value": "A frontier position between a weakened Byzantium and fragmented Anatolian principalities, effective cavalry and later gunpowder infantry, flexible incorporation of conquered elites, and control of trade routes and grain lands.", "certainty": "estimated", "source": "Finkel (2005); İnalcık (1973)" },
+      "peakPeriod": { "value": "Reign of Suleiman I (1520–66), with territorial extent peaking in the late 17th century.", "year": 1566, "certainty": "estimated", "source": "Finkel (2005)" },
+      "declineSignals": { "value": "Fiscal strain and inflation (late 16th c.), military defeats from 1699, the growing power of provincial notables, the rise of European industrial and military power, nationalist movements, and foreign debt default (1875). Historians now reject a simple story of continuous 'decline' and stress repeated transformation and reform.", "certainty": "disputed", "source": "Quataert (2005); Finkel (2005)" },
+      "outcome": { "value": "Transformation and partition. After defeat in the First World War and the Turkish War of Independence, the sultanate was abolished in 1922. Successor states include the Republic of Turkey (1923) and many Balkan and Middle Eastern states.", "year": 1922, "certainty": "confirmed", "source": "Finkel (2005)" }
+    },
+    "dataQuality": {
+      "sources": { "value": "Extensive Ottoman archives (tax registers, court records), European diplomatic reports, and chronicles. Modern syntheses: Finkel (2005), İnalcık (1973), Quataert (2005), Pamuk (2000).", "certainty": "confirmed", "source": "—" },
+      "overallCertainty": { "value": "High for political and military events. Moderate for population and economic figures, which come from tax registers with gaps. Interpretations of 'decline' are actively debated.", "certainty": "estimated", "source": "—" }
+    }
+  }
+}

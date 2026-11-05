@@ -1,0 +1,286 @@
+{
+  "id": "soviet-union",
+  "name": "Soviet Union",
+  "era": "modern",
+  "region": "Europe & North Asia",
+  "startYear": 1922,
+  "endYear": 1991,
+  "capital": "Moscow",
+  "capitalCoords": [
+    37.62,
+    55.75
+  ],
+  "color": "#b73f3f",
+  "borderNames": [
+    "USSR"
+  ],
+  "summary": "",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "terrain": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "climate": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "resources": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "disasters": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      }
+    },
+    "population": {
+      "population": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "urbanisation": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "disease": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "migration": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "tradeRoutes": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "wealth": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "moneyAndTax": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "inequality": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "keyRulers": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "succession": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "institutions": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "stability": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "eliteConflict": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "majorWars": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "territoryChange": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "alliancesRivals": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "scienceEducation": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "openness": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "languageWriting": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "artsArchitecture": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "socialStructure": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "sharedIdentity": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "ideasReligions": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "colonisation": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "peakPeriod": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "declineSignals": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "outcome": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      },
+      "overallCertainty": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": ""
+      }
+    }
+  }
+}

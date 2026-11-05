@@ -1,0 +1,1115 @@
+[
+  {
+    "id": "portuguese-capture-melaka",
+    "year": 1511,
+    "lat": 2.19,
+    "lng": 102.25,
+    "type": "war",
+    "title": "Portuguese capture Melaka",
+    "description": "A Portuguese fleet under Afonso de Albuquerque captures Melaka after a siege. The sultan’s court withdraws south, eventually founding the Johor Sultanate.",
+    "relatedPolityIds": [
+      "melaka-sultanate",
+      "portuguese-empire",
+      "johor-sultanate"
+    ]
+  },
+  {
+    "id": "ottoman-conquest-egypt",
+    "year": 1517,
+    "lat": 30.04,
+    "lng": 31.24,
+    "type": "war",
+    "title": "Ottomans conquer Mamluk Egypt",
+    "description": "Selim I defeats the Mamluk Sultanate and takes Cairo, bringing Egypt, Syria and the holy cities of Mecca and Medina under Ottoman rule.",
+    "relatedPolityIds": [
+      "ottoman-empire"
+    ]
+  },
+  {
+    "id": "luther-95-theses",
+    "year": 1517,
+    "lat": 51.87,
+    "lng": 12.65,
+    "type": "culture",
+    "title": "Luther’s Ninety-five Theses",
+    "description": "Martin Luther’s criticism of the sale of indulgences in Wittenberg helps launch the Protestant Reformation, which divides Western Christianity.",
+    "relatedPolityIds": [
+      "habsburg-monarchy"
+    ]
+  },
+  {
+    "id": "fall-of-tenochtitlan",
+    "year": 1521,
+    "lat": 19.43,
+    "lng": -99.13,
+    "type": "war",
+    "title": "Fall of Tenochtitlan",
+    "description": "Spanish forces under Hernán Cortés, with many Indigenous allies, capture the Mexica (Aztec) capital after a siege worsened by a smallpox epidemic.",
+    "relatedPolityIds": [
+      "spanish-empire"
+    ]
+  },
+  {
+    "id": "battle-of-panipat-1526",
+    "year": 1526,
+    "lat": 29.39,
+    "lng": 76.97,
+    "type": "war",
+    "title": "First Battle of Panipat",
+    "description": "Babur defeats Ibrahim Lodi of the Delhi Sultanate, using field artillery, and founds the Mughal Empire.",
+    "relatedPolityIds": [
+      "mughal-empire"
+    ]
+  },
+  {
+    "id": "battle-of-mohacs",
+    "year": 1526,
+    "lat": 45.99,
+    "lng": 18.68,
+    "type": "war",
+    "title": "Battle of Mohács",
+    "description": "The Ottoman army under Suleiman I defeats the Kingdom of Hungary; King Louis II dies. Most of Hungary is later divided between the Ottomans and the Habsburgs.",
+    "relatedPolityIds": [
+      "ottoman-empire",
+      "habsburg-monarchy"
+    ]
+  },
+  {
+    "id": "first-siege-vienna",
+    "year": 1529,
+    "lat": 48.21,
+    "lng": 16.37,
+    "type": "war",
+    "title": "First Siege of Vienna",
+    "description": "Suleiman I besieges Vienna but withdraws as winter approaches. This marks the northwestern limit of Ottoman expansion for a century and a half.",
+    "relatedPolityIds": [
+      "ottoman-empire",
+      "habsburg-monarchy"
+    ]
+  },
+  {
+    "id": "potosi-silver",
+    "year": 1545,
+    "lat": -19.58,
+    "lng": -65.75,
+    "type": "trade",
+    "title": "Silver found at Potosí",
+    "description": "Huge silver deposits are found at Potosí (in today’s Bolivia). Mined largely with coerced Indigenous labour, this silver flows to Europe and China and changes world trade.",
+    "relatedPolityIds": [
+      "spanish-empire",
+      "ming-china"
+    ]
+  },
+  {
+    "id": "suleymaniye-mosque",
+    "year": 1557,
+    "lat": 41.016,
+    "lng": 28.964,
+    "type": "culture",
+    "title": "Süleymaniye Mosque completed",
+    "description": "The architect Mimar Sinan completes the Süleymaniye complex in Istanbul, a landmark of classical Ottoman architecture.",
+    "relatedPolityIds": [
+      "ottoman-empire"
+    ]
+  },
+  {
+    "id": "manila-galleon",
+    "year": 1565,
+    "endYear": 1815,
+    "lat": 14.59,
+    "lng": 120.98,
+    "type": "trade",
+    "title": "Manila galleon trade begins",
+    "description": "Spanish galleons begin crossing the Pacific between Acapulco and Manila, exchanging American silver for Chinese silk and porcelain. The route lasts until 1815.",
+    "relatedPolityIds": [
+      "spanish-empire",
+      "ming-china",
+      "qing-china"
+    ]
+  },
+  {
+    "id": "battle-of-lepanto",
+    "year": 1571,
+    "lat": 38.25,
+    "lng": 21.1,
+    "type": "war",
+    "title": "Battle of Lepanto",
+    "description": "A Holy League fleet led by Spain and Venice defeats the Ottoman navy. The Ottomans rebuild their fleet within a year and take Cyprus.",
+    "relatedPolityIds": [
+      "ottoman-empire",
+      "spanish-empire"
+    ]
+  },
+  {
+    "id": "battle-of-tondibi",
+    "year": 1591,
+    "lat": 16.28,
+    "lng": 0.13,
+    "type": "war",
+    "title": "Battle of Tondibi",
+    "description": "A Moroccan army equipped with firearms defeats the Songhai army. The Songhai Empire fragments soon afterwards.",
+    "relatedPolityIds": [
+      "songhai-empire"
+    ]
+  },
+  {
+    "id": "imjin-war",
+    "year": 1592,
+    "endYear": 1598,
+    "lat": 35.18,
+    "lng": 129.08,
+    "type": "war",
+    "title": "Imjin War",
+    "description": "Japanese forces under Toyotomi Hideyoshi invade Korea. Joseon forces, including Admiral Yi Sun-sin’s navy, and Ming Chinese armies resist until Japan withdraws in 1598.",
+    "relatedPolityIds": [
+      "joseon-korea",
+      "ming-china"
+    ]
+  },
+  {
+    "id": "voc-founded",
+    "year": 1602,
+    "lat": 52.37,
+    "lng": 4.9,
+    "type": "trade",
+    "title": "Dutch East India Company (VOC) founded",
+    "description": "The Dutch Republic charters the VOC, an early joint-stock company with powers to wage war and make treaties in Asia.",
+    "relatedPolityIds": [
+      "dutch-republic"
+    ]
+  },
+  {
+    "id": "tokugawa-shogunate-established",
+    "year": 1603,
+    "lat": 35.69,
+    "lng": 139.69,
+    "type": "person",
+    "title": "Tokugawa Ieyasu becomes shogun",
+    "description": "After victory at Sekigahara (1600), Tokugawa Ieyasu is appointed shogun, beginning over 250 years of Tokugawa rule from Edo.",
+    "relatedPolityIds": [
+      "tokugawa-japan"
+    ]
+  },
+  {
+    "id": "aceh-iskandar-muda",
+    "year": 1607,
+    "endYear": 1636,
+    "yearApproximate": true,
+    "lat": 5.55,
+    "lng": 95.32,
+    "type": "person",
+    "title": "Reign of Iskandar Muda of Aceh",
+    "description": "Sultan Iskandar Muda expands Aceh to control much of the Sumatran pepper trade and parts of the Malay Peninsula, Aceh’s high point.",
+    "relatedPolityIds": [
+      "aceh-sultanate",
+      "johor-sultanate"
+    ]
+  },
+  {
+    "id": "galileo-telescope",
+    "year": 1609,
+    "lat": 45.41,
+    "lng": 11.88,
+    "type": "invention",
+    "title": "Galileo’s telescope observations",
+    "description": "In Padua, Galileo Galilei improves the telescope and observes the moons of Jupiter, supporting the Sun-centred model of the solar system.",
+    "relatedPolityIds": []
+  },
+  {
+    "id": "sultan-agung-mataram",
+    "year": 1613,
+    "endYear": 1645,
+    "lat": -7.83,
+    "lng": 110.4,
+    "type": "person",
+    "title": "Sultan Agung of Mataram",
+    "description": "Sultan Agung expands Mataram across most of Java. His sieges of Dutch Batavia (1628–29) fail.",
+    "relatedPolityIds": [
+      "mataram-sultanate",
+      "dutch-republic"
+    ]
+  },
+  {
+    "id": "thirty-years-war",
+    "year": 1618,
+    "endYear": 1648,
+    "lat": 50.08,
+    "lng": 14.42,
+    "type": "war",
+    "title": "Thirty Years’ War",
+    "description": "A series of wars, mainly fought in the Holy Roman Empire, kills a large share of the population of central Europe. It ends with the Peace of Westphalia (1648).",
+    "relatedPolityIds": [
+      "habsburg-monarchy",
+      "kingdom-of-france",
+      "spanish-empire",
+      "dutch-republic"
+    ]
+  },
+  {
+    "id": "taj-mahal",
+    "year": 1632,
+    "endYear": 1653,
+    "yearApproximate": true,
+    "lat": 27.18,
+    "lng": 78.04,
+    "type": "culture",
+    "title": "Taj Mahal built",
+    "description": "Mughal emperor Shah Jahan commissions the Taj Mahal in Agra as a mausoleum for his wife Mumtaz Mahal.",
+    "relatedPolityIds": [
+      "mughal-empire"
+    ]
+  },
+  {
+    "id": "dutch-take-melaka",
+    "year": 1641,
+    "lat": 2.19,
+    "lng": 102.25,
+    "type": "war",
+    "title": "Dutch take Melaka from Portugal",
+    "description": "The VOC, allied with Johor, captures Portuguese Melaka after a long siege.",
+    "relatedPolityIds": [
+      "dutch-republic",
+      "portuguese-empire",
+      "johor-sultanate"
+    ]
+  },
+  {
+    "id": "qing-enter-beijing",
+    "year": 1644,
+    "lat": 39.91,
+    "lng": 116.39,
+    "type": "war",
+    "title": "Qing enter Beijing",
+    "description": "After rebels under Li Zicheng take Beijing and the last Ming emperor dies, Manchu forces enter the city, and the Qing dynasty begins its rule over China.",
+    "relatedPolityIds": [
+      "qing-china",
+      "ming-china"
+    ]
+  },
+  {
+    "id": "great-plague-london",
+    "year": 1665,
+    "endYear": 1666,
+    "lat": 51.51,
+    "lng": -0.13,
+    "type": "disaster",
+    "title": "Great Plague of London",
+    "description": "An outbreak of bubonic plague kills an estimated 75,000–100,000 people in London.",
+    "relatedPolityIds": []
+  },
+  {
+    "id": "siege-vienna-1683",
+    "year": 1683,
+    "lat": 48.21,
+    "lng": 16.37,
+    "type": "war",
+    "title": "Second Siege of Vienna",
+    "description": "A relief army led by Polish king Jan III Sobieski defeats the Ottoman army besieging Vienna. The Habsburgs go on to regain Hungary.",
+    "relatedPolityIds": [
+      "ottoman-empire",
+      "habsburg-monarchy"
+    ]
+  },
+  {
+    "id": "treaty-of-nerchinsk",
+    "year": 1689,
+    "lat": 51.98,
+    "lng": 116.58,
+    "type": "trade",
+    "title": "Treaty of Nerchinsk",
+    "description": "Qing China and Russia agree their first border treaty, negotiated with the help of Jesuit interpreters.",
+    "relatedPolityIds": [
+      "qing-china",
+      "russian-empire"
+    ]
+  },
+  {
+    "id": "treaty-of-karlowitz",
+    "year": 1699,
+    "lat": 45.2,
+    "lng": 19.93,
+    "type": "war",
+    "title": "Treaty of Karlowitz",
+    "description": "The Ottoman Empire cedes most of Hungary and other lands. It is the first major permanent Ottoman territorial loss in Europe.",
+    "relatedPolityIds": [
+      "ottoman-empire",
+      "habsburg-monarchy"
+    ]
+  },
+  {
+    "id": "acts-of-union",
+    "year": 1707,
+    "lat": 55.95,
+    "lng": -3.19,
+    "type": "person",
+    "title": "Acts of Union",
+    "description": "The kingdoms of England and Scotland unite to form the Kingdom of Great Britain.",
+    "relatedPolityIds": [
+      "great-britain"
+    ]
+  },
+  {
+    "id": "st-petersburg-capital",
+    "year": 1712,
+    "yearApproximate": true,
+    "lat": 59.94,
+    "lng": 30.31,
+    "type": "person",
+    "title": "Peter the Great moves the capital",
+    "description": "Peter I makes St Petersburg Russia’s capital as part of his westernising reforms. He takes the title of Emperor in 1721.",
+    "relatedPolityIds": [
+      "russian-empire"
+    ]
+  },
+  {
+    "id": "fall-of-safavids",
+    "year": 1722,
+    "lat": 32.65,
+    "lng": 51.67,
+    "type": "war",
+    "title": "Siege of Isfahan",
+    "description": "Afghan forces capture the Safavid capital Isfahan after a long siege. Safavid rule collapses; Nader Shah formally ends the dynasty in 1736.",
+    "relatedPolityIds": [
+      "safavid-persia"
+    ]
+  },
+  {
+    "id": "ottoman-printing-press",
+    "year": 1727,
+    "lat": 41.01,
+    "lng": 28.98,
+    "type": "invention",
+    "title": "First Ottoman Turkish printing press",
+    "description": "İbrahim Müteferrika receives permission to print books in Ottoman Turkish in Istanbul.",
+    "relatedPolityIds": [
+      "ottoman-empire"
+    ]
+  },
+  {
+    "id": "battle-of-plassey",
+    "year": 1757,
+    "lat": 23.8,
+    "lng": 88.25,
+    "type": "war",
+    "title": "Battle of Plassey",
+    "description": "The British East India Company defeats the Nawab of Bengal, starting its rise to territorial power in India.",
+    "relatedPolityIds": [
+      "british-empire",
+      "great-britain",
+      "mughal-empire"
+    ]
+  },
+  {
+    "id": "canton-system",
+    "year": 1757,
+    "endYear": 1842,
+    "lat": 23.13,
+    "lng": 113.26,
+    "type": "trade",
+    "title": "Canton System begins",
+    "description": "The Qing court limits Western maritime trade to Guangzhou (Canton), under licensed merchant houses.",
+    "relatedPolityIds": [
+      "qing-china"
+    ]
+  },
+  {
+    "id": "fall-of-ayutthaya",
+    "year": 1767,
+    "lat": 14.35,
+    "lng": 100.57,
+    "type": "war",
+    "title": "Fall of Ayutthaya",
+    "description": "Burmese forces sack Ayutthaya, ending the kingdom. Taksin reunifies Siam; the Chakri dynasty founds Bangkok in 1782.",
+    "relatedPolityIds": [
+      "ayutthaya-kingdom",
+      "rattanakosin-siam"
+    ]
+  },
+  {
+    "id": "watt-steam-engine",
+    "year": 1776,
+    "lat": 52.48,
+    "lng": -1.89,
+    "type": "invention",
+    "title": "Watt’s steam engine",
+    "description": "James Watt’s improved steam engine, built with Matthew Boulton in Birmingham, becomes a driver of the Industrial Revolution.",
+    "relatedPolityIds": [
+      "great-britain"
+    ]
+  },
+  {
+    "id": "us-declaration",
+    "year": 1776,
+    "lat": 39.95,
+    "lng": -75.15,
+    "type": "person",
+    "title": "US Declaration of Independence",
+    "description": "Thirteen British colonies in North America declare independence in Philadelphia, founding the United States.",
+    "relatedPolityIds": [
+      "united-states",
+      "great-britain"
+    ]
+  },
+  {
+    "id": "french-revolution",
+    "year": 1789,
+    "lat": 48.85,
+    "lng": 2.37,
+    "type": "person",
+    "title": "French Revolution",
+    "description": "The storming of the Bastille in Paris begins a revolution that abolishes the monarchy (1792) and spreads ideas of popular sovereignty and rights.",
+    "relatedPolityIds": [
+      "kingdom-of-france"
+    ]
+  },
+  {
+    "id": "haitian-revolution",
+    "year": 1791,
+    "endYear": 1804,
+    "lat": 18.54,
+    "lng": -72.34,
+    "type": "war",
+    "title": "Haitian Revolution",
+    "description": "Enslaved people in the French colony of Saint-Domingue rise up, leading to the independence of Haiti in 1804, the first state founded after a successful revolt by enslaved people.",
+    "relatedPolityIds": [
+      "french-colonial-empire",
+      "kingdom-of-france"
+    ]
+  },
+  {
+    "id": "macartney-embassy",
+    "year": 1793,
+    "lat": 40.99,
+    "lng": 117.94,
+    "type": "trade",
+    "title": "Macartney embassy",
+    "description": "A British embassy reaches the Qianlong emperor at Chengde and asks for wider trade rights. The requests are refused.",
+    "relatedPolityIds": [
+      "qing-china",
+      "great-britain"
+    ]
+  },
+  {
+    "id": "jenner-vaccine",
+    "year": 1796,
+    "lat": 51.69,
+    "lng": -2.46,
+    "type": "invention",
+    "title": "First smallpox vaccine",
+    "description": "Edward Jenner tests cowpox inoculation against smallpox, the basis of vaccination.",
+    "relatedPolityIds": [
+      "great-britain"
+    ]
+  },
+  {
+    "id": "nguyen-dynasty-founded",
+    "year": 1802,
+    "lat": 16.46,
+    "lng": 107.58,
+    "type": "person",
+    "title": "Nguyen dynasty founded",
+    "description": "Gia Long unifies Vietnam and founds the Nguyen dynasty with its capital at Huế.",
+    "relatedPolityIds": [
+      "nguyen-vietnam"
+    ]
+  },
+  {
+    "id": "tambora-eruption",
+    "year": 1815,
+    "lat": -8.25,
+    "lng": 118.0,
+    "type": "disaster",
+    "title": "Mount Tambora erupts",
+    "description": "The largest volcanic eruption in recorded history, on Sumbawa, kills tens of thousands locally and causes the “Year Without a Summer” (1816) worldwide.",
+    "relatedPolityIds": []
+  },
+  {
+    "id": "brazil-independence",
+    "year": 1822,
+    "lat": -22.91,
+    "lng": -43.17,
+    "type": "person",
+    "title": "Brazil declares independence",
+    "description": "Prince Pedro declares Brazil’s independence from Portugal and becomes Emperor Pedro I.",
+    "relatedPolityIds": [
+      "empire-of-brazil",
+      "portuguese-empire"
+    ]
+  },
+  {
+    "id": "anglo-dutch-treaty-1824",
+    "year": 1824,
+    "lat": 1.29,
+    "lng": 103.85,
+    "type": "trade",
+    "title": "Anglo-Dutch Treaty",
+    "description": "Britain and the Netherlands divide their spheres in the Malay world along the Strait of Melaka, splitting the Johor-Riau realm.",
+    "relatedPolityIds": [
+      "johor-sultanate",
+      "british-empire"
+    ]
+  },
+  {
+    "id": "french-algeria",
+    "year": 1830,
+    "lat": 36.75,
+    "lng": 3.06,
+    "type": "war",
+    "title": "French invasion of Algiers",
+    "description": "France captures Algiers. This begins the second French colonial empire and a long, violent conquest of Algeria.",
+    "relatedPolityIds": [
+      "french-colonial-empire",
+      "ottoman-empire"
+    ]
+  },
+  {
+    "id": "first-opium-war",
+    "year": 1839,
+    "endYear": 1842,
+    "lat": 23.13,
+    "lng": 113.26,
+    "type": "war",
+    "title": "First Opium War",
+    "description": "Britain goes to war with Qing China after China moves against the opium trade. The Treaty of Nanjing (1842) cedes Hong Kong Island and opens five treaty ports.",
+    "relatedPolityIds": [
+      "qing-china",
+      "british-empire"
+    ]
+  },
+  {
+    "id": "tanzimat",
+    "year": 1839,
+    "lat": 41.01,
+    "lng": 28.98,
+    "type": "person",
+    "title": "Tanzimat reforms begin",
+    "description": "The Edict of Gülhane launches Ottoman reforms aimed at legal equality, centralisation and modern administration.",
+    "relatedPolityIds": [
+      "ottoman-empire"
+    ]
+  },
+  {
+    "id": "irish-famine",
+    "year": 1845,
+    "endYear": 1852,
+    "lat": 53.35,
+    "lng": -6.26,
+    "type": "disaster",
+    "title": "Great Famine in Ireland",
+    "description": "Potato blight and government policy combine to cause about one million deaths and mass emigration from Ireland.",
+    "relatedPolityIds": [
+      "british-empire"
+    ]
+  },
+  {
+    "id": "taiping-rebellion",
+    "year": 1850,
+    "endYear": 1864,
+    "lat": 32.06,
+    "lng": 118.8,
+    "type": "war",
+    "title": "Taiping Rebellion",
+    "description": "A religious-political movement captures Nanjing and much of southern China. It is one of the deadliest conflicts of the 19th century, with tens of millions of deaths (estimates vary).",
+    "relatedPolityIds": [
+      "qing-china"
+    ]
+  },
+  {
+    "id": "perry-japan",
+    "year": 1853,
+    "lat": 35.28,
+    "lng": 139.67,
+    "type": "trade",
+    "title": "Perry’s ships arrive in Japan",
+    "description": "US Commodore Matthew Perry’s squadron forces Tokugawa Japan to open ports to trade (Treaty of Kanagawa, 1854).",
+    "relatedPolityIds": [
+      "tokugawa-japan",
+      "united-states"
+    ]
+  },
+  {
+    "id": "indian-rebellion-1857",
+    "year": 1857,
+    "endYear": 1858,
+    "lat": 28.65,
+    "lng": 77.23,
+    "type": "war",
+    "title": "Indian Rebellion of 1857",
+    "description": "A widespread uprising against East India Company rule. Afterwards the last Mughal emperor is exiled and the British Crown takes direct control of India.",
+    "relatedPolityIds": [
+      "mughal-empire",
+      "british-empire"
+    ]
+  },
+  {
+    "id": "darwin-origin",
+    "year": 1859,
+    "lat": 51.51,
+    "lng": -0.13,
+    "type": "invention",
+    "title": "On the Origin of Species",
+    "description": "Charles Darwin publishes his theory of evolution by natural selection.",
+    "relatedPolityIds": [
+      "british-empire"
+    ]
+  },
+  {
+    "id": "meiji-restoration",
+    "year": 1868,
+    "lat": 35.69,
+    "lng": 139.69,
+    "type": "person",
+    "title": "Meiji Restoration",
+    "description": "The Tokugawa shogunate ends and imperial rule is restored under Emperor Meiji, followed by rapid industrialisation and reform.",
+    "relatedPolityIds": [
+      "tokugawa-japan",
+      "empire-of-japan"
+    ]
+  },
+  {
+    "id": "suez-canal",
+    "year": 1869,
+    "lat": 30.58,
+    "lng": 32.27,
+    "type": "trade",
+    "title": "Suez Canal opens",
+    "description": "The canal links the Mediterranean and Red Sea, shortening the sea route between Europe and Asia.",
+    "relatedPolityIds": [
+      "ottoman-empire",
+      "british-empire",
+      "french-colonial-empire"
+    ]
+  },
+  {
+    "id": "german-unification",
+    "year": 1871,
+    "lat": 48.8,
+    "lng": 2.12,
+    "type": "person",
+    "title": "German Empire proclaimed",
+    "description": "After the Franco-Prussian War, the German Empire is proclaimed at Versailles with the Prussian king as emperor.",
+    "relatedPolityIds": [
+      "german-empire",
+      "french-colonial-empire"
+    ]
+  },
+  {
+    "id": "aceh-war",
+    "year": 1873,
+    "endYear": 1904,
+    "yearApproximate": true,
+    "lat": 5.55,
+    "lng": 95.32,
+    "type": "war",
+    "title": "Aceh War",
+    "description": "The Netherlands wages a long war to conquer the Aceh Sultanate, which resists for decades.",
+    "relatedPolityIds": [
+      "aceh-sultanate"
+    ]
+  },
+  {
+    "id": "berlin-conference",
+    "year": 1884,
+    "endYear": 1885,
+    "lat": 52.52,
+    "lng": 13.4,
+    "type": "trade",
+    "title": "Berlin Conference",
+    "description": "European powers set rules for claiming African territory, speeding up the colonial “Scramble for Africa”.",
+    "relatedPolityIds": [
+      "german-empire",
+      "british-empire",
+      "french-colonial-empire",
+      "portuguese-empire",
+      "kingdom-of-kongo"
+    ]
+  },
+  {
+    "id": "brazil-abolition",
+    "year": 1888,
+    "lat": -22.91,
+    "lng": -43.17,
+    "type": "culture",
+    "title": "Brazil abolishes slavery",
+    "description": "The Golden Law ends slavery in Brazil, the last country in the Americas to do so. The monarchy falls the next year.",
+    "relatedPolityIds": [
+      "empire-of-brazil"
+    ]
+  },
+  {
+    "id": "sino-japanese-war",
+    "year": 1894,
+    "endYear": 1895,
+    "lat": 37.5,
+    "lng": 121.4,
+    "type": "war",
+    "title": "First Sino-Japanese War",
+    "description": "Japan defeats Qing China. China recognises Korean independence and cedes Taiwan to Japan.",
+    "relatedPolityIds": [
+      "qing-china",
+      "empire-of-japan",
+      "joseon-korea"
+    ]
+  },
+  {
+    "id": "battle-of-adwa",
+    "year": 1896,
+    "lat": 14.16,
+    "lng": 38.9,
+    "type": "war",
+    "title": "Battle of Adwa",
+    "description": "Ethiopian forces under Emperor Menelik II defeat an Italian army, preserving Ethiopian independence.",
+    "relatedPolityIds": [
+      "ethiopian-empire"
+    ]
+  },
+  {
+    "id": "xinhai-revolution",
+    "year": 1911,
+    "endYear": 1912,
+    "lat": 30.59,
+    "lng": 114.3,
+    "type": "war",
+    "title": "Xinhai Revolution",
+    "description": "An uprising in Wuchang spreads across China. The last Qing emperor abdicates in 1912, and the Republic of China is founded.",
+    "relatedPolityIds": [
+      "qing-china",
+      "republic-of-china"
+    ]
+  },
+  {
+    "id": "wwi",
+    "year": 1914,
+    "endYear": 1918,
+    "lat": 50.0,
+    "lng": 4.0,
+    "type": "war",
+    "title": "First World War",
+    "description": "A global war centred in Europe. The German, Austro-Hungarian, Russian and Ottoman empires collapse during or after it.",
+    "relatedPolityIds": [
+      "german-empire",
+      "austria-hungary",
+      "ottoman-empire",
+      "russian-empire",
+      "british-empire",
+      "french-colonial-empire",
+      "united-states",
+      "empire-of-japan"
+    ]
+  },
+  {
+    "id": "russian-revolution",
+    "year": 1917,
+    "lat": 59.94,
+    "lng": 30.31,
+    "type": "war",
+    "title": "Russian Revolutions",
+    "description": "The tsar abdicates in February. The Bolsheviks take power in October, leading to civil war and the founding of the Soviet Union (1922).",
+    "relatedPolityIds": [
+      "russian-empire",
+      "soviet-union"
+    ]
+  },
+  {
+    "id": "spanish-flu",
+    "year": 1918,
+    "endYear": 1920,
+    "lat": 39.0,
+    "lng": -96.0,
+    "type": "disaster",
+    "title": "1918 influenza pandemic",
+    "description": "A global influenza pandemic kills an estimated 17–50 million people or more.",
+    "relatedPolityIds": []
+  },
+  {
+    "id": "turkish-republic",
+    "year": 1923,
+    "lat": 39.93,
+    "lng": 32.85,
+    "type": "person",
+    "title": "Republic of Turkey founded",
+    "description": "After the Turkish War of Independence, the Republic of Turkey is proclaimed in Ankara under Mustafa Kemal (Atatürk).",
+    "relatedPolityIds": [
+      "republic-of-turkey",
+      "ottoman-empire"
+    ]
+  },
+  {
+    "id": "penicillin",
+    "year": 1928,
+    "lat": 51.52,
+    "lng": -0.17,
+    "type": "invention",
+    "title": "Penicillin discovered",
+    "description": "Alexander Fleming notices the antibacterial effect of the Penicillium mould in London. Mass production follows in the 1940s.",
+    "relatedPolityIds": []
+  },
+  {
+    "id": "great-depression",
+    "year": 1929,
+    "endYear": 1939,
+    "yearApproximate": true,
+    "lat": 40.71,
+    "lng": -74.01,
+    "type": "trade",
+    "title": "Great Depression",
+    "description": "The Wall Street Crash begins a worldwide economic slump that hits trade, commodity prices and employment.",
+    "relatedPolityIds": [
+      "united-states"
+    ]
+  },
+  {
+    "id": "siam-1932",
+    "year": 1932,
+    "lat": 13.75,
+    "lng": 100.5,
+    "type": "person",
+    "title": "Siamese revolution of 1932",
+    "description": "A bloodless coup ends absolute monarchy in Siam and creates a constitutional monarchy. The country is renamed Thailand in 1939.",
+    "relatedPolityIds": [
+      "rattanakosin-siam"
+    ]
+  },
+  {
+    "id": "wwii",
+    "year": 1939,
+    "endYear": 1945,
+    "lat": 50.0,
+    "lng": 20.0,
+    "type": "war",
+    "title": "Second World War",
+    "description": "The deadliest conflict in history, fought in Europe, Asia, Africa and the Pacific, with an estimated 70–85 million deaths.",
+    "relatedPolityIds": [
+      "soviet-union",
+      "united-states",
+      "british-empire",
+      "empire-of-japan",
+      "republic-of-china"
+    ]
+  },
+  {
+    "id": "hiroshima",
+    "year": 1945,
+    "lat": 34.39,
+    "lng": 132.45,
+    "type": "war",
+    "title": "Atomic bombings of Hiroshima and Nagasaki",
+    "description": "The United States drops atomic bombs on two Japanese cities. Japan surrenders shortly afterwards.",
+    "relatedPolityIds": [
+      "empire-of-japan",
+      "united-states"
+    ]
+  },
+  {
+    "id": "indonesia-independence",
+    "year": 1945,
+    "endYear": 1949,
+    "lat": -6.21,
+    "lng": 106.85,
+    "type": "person",
+    "title": "Indonesian independence",
+    "description": "Sukarno and Hatta proclaim independence in Jakarta. The Netherlands recognises Indonesian sovereignty in 1949 after armed and diplomatic struggle.",
+    "relatedPolityIds": [
+      "indonesia"
+    ]
+  },
+  {
+    "id": "india-independence",
+    "year": 1947,
+    "lat": 28.61,
+    "lng": 77.21,
+    "type": "person",
+    "title": "Independence and Partition of India",
+    "description": "British India becomes independent as India and Pakistan. Partition causes mass migration and violence.",
+    "relatedPolityIds": [
+      "india",
+      "british-empire"
+    ]
+  },
+  {
+    "id": "prc-founded",
+    "year": 1949,
+    "lat": 39.91,
+    "lng": 116.39,
+    "type": "person",
+    "title": "People’s Republic of China proclaimed",
+    "description": "After the civil war, Mao Zedong proclaims the PRC in Beijing. The ROC government relocates to Taiwan.",
+    "relatedPolityIds": [
+      "peoples-republic-of-china",
+      "republic-of-china"
+    ]
+  },
+  {
+    "id": "malaya-independence",
+    "year": 1957,
+    "lat": 3.14,
+    "lng": 101.69,
+    "type": "person",
+    "title": "Malayan independence",
+    "description": "The Federation of Malaya becomes independent from Britain. Malaysia is formed in 1963 with Sabah, Sarawak and Singapore (which leaves in 1965).",
+    "relatedPolityIds": [
+      "malaysia",
+      "british-empire"
+    ]
+  },
+  {
+    "id": "sputnik",
+    "year": 1957,
+    "lat": 45.92,
+    "lng": 63.34,
+    "type": "invention",
+    "title": "Sputnik 1",
+    "description": "The Soviet Union launches the first artificial satellite from Baikonur, opening the Space Age.",
+    "relatedPolityIds": [
+      "soviet-union"
+    ]
+  },
+  {
+    "id": "great-chinese-famine",
+    "year": 1959,
+    "endYear": 1961,
+    "lat": 32.0,
+    "lng": 113.0,
+    "type": "disaster",
+    "title": "Great Chinese Famine",
+    "description": "Policies of the Great Leap Forward and natural factors lead to a famine with tens of millions of deaths (estimates vary widely).",
+    "relatedPolityIds": [
+      "peoples-republic-of-china"
+    ]
+  },
+  {
+    "id": "algerian-independence",
+    "year": 1962,
+    "lat": 36.75,
+    "lng": 3.06,
+    "type": "war",
+    "title": "Algerian independence",
+    "description": "After an eight-year war, Algeria becomes independent from France.",
+    "relatedPolityIds": [
+      "french-colonial-empire"
+    ]
+  },
+  {
+    "id": "apollo-11",
+    "year": 1969,
+    "lat": 28.57,
+    "lng": -80.65,
+    "type": "invention",
+    "title": "Apollo 11 Moon landing",
+    "description": "US astronauts land on the Moon, launched from Cape Canaveral.",
+    "relatedPolityIds": [
+      "united-states"
+    ]
+  },
+  {
+    "id": "china-reform",
+    "year": 1978,
+    "lat": 22.54,
+    "lng": 114.06,
+    "type": "trade",
+    "title": "China’s reform and opening-up",
+    "description": "Under Deng Xiaoping, China begins market reforms, including special economic zones such as Shenzhen.",
+    "relatedPolityIds": [
+      "peoples-republic-of-china"
+    ]
+  },
+  {
+    "id": "iranian-revolution",
+    "year": 1979,
+    "lat": 35.69,
+    "lng": 51.39,
+    "type": "person",
+    "title": "Iranian Revolution",
+    "description": "Mass protests end the Pahlavi monarchy, and an Islamic Republic is established.",
+    "relatedPolityIds": [
+      "qajar-pahlavi-iran"
+    ]
+  },
+  {
+    "id": "chernobyl",
+    "year": 1986,
+    "lat": 51.39,
+    "lng": 30.1,
+    "type": "disaster",
+    "title": "Chernobyl nuclear disaster",
+    "description": "A reactor explosion in Soviet Ukraine releases radioactive material across Europe.",
+    "relatedPolityIds": [
+      "soviet-union"
+    ]
+  },
+  {
+    "id": "www-invented",
+    "year": 1989,
+    "lat": 46.23,
+    "lng": 6.05,
+    "type": "invention",
+    "title": "World Wide Web proposed",
+    "description": "Tim Berners-Lee proposes the World Wide Web at CERN near Geneva.",
+    "relatedPolityIds": []
+  },
+  {
+    "id": "ussr-dissolved",
+    "year": 1991,
+    "lat": 55.75,
+    "lng": 37.62,
+    "type": "person",
+    "title": "Dissolution of the Soviet Union",
+    "description": "The Soviet Union dissolves into 15 independent states.",
+    "relatedPolityIds": [
+      "soviet-union"
+    ]
+  },
+  {
+    "id": "asian-financial-crisis",
+    "year": 1997,
+    "endYear": 1998,
+    "lat": 13.75,
+    "lng": 100.5,
+    "type": "trade",
+    "title": "Asian financial crisis",
+    "description": "A currency crisis starting in Thailand spreads to Indonesia, Malaysia, South Korea and beyond.",
+    "relatedPolityIds": [
+      "rattanakosin-siam",
+      "indonesia",
+      "malaysia"
+    ]
+  },
+  {
+    "id": "hong-kong-handover",
+    "year": 1997,
+    "lat": 22.28,
+    "lng": 114.16,
+    "type": "person",
+    "title": "Hong Kong handover",
+    "description": "Britain transfers Hong Kong to the People’s Republic of China, often seen as the symbolic end of the British Empire.",
+    "relatedPolityIds": [
+      "british-empire",
+      "peoples-republic-of-china"
+    ]
+  },
+  {
+    "id": "indian-ocean-tsunami",
+    "year": 2004,
+    "lat": 3.32,
+    "lng": 95.85,
+    "type": "disaster",
+    "title": "Indian Ocean tsunami",
+    "description": "A magnitude 9.1 earthquake off Sumatra triggers a tsunami that kills about 230,000 people in 14 countries, with Aceh worst hit.",
+    "relatedPolityIds": [
+      "indonesia",
+      "india",
+      "rattanakosin-siam"
+    ]
+  },
+  {
+    "id": "covid-19",
+    "year": 2020,
+    "endYear": 2023,
+    "lat": 30.59,
+    "lng": 114.3,
+    "type": "disaster",
+    "title": "COVID-19 pandemic",
+    "description": "A coronavirus pandemic, first identified in Wuhan in late 2019, spreads worldwide, causing millions of deaths and major economic disruption.",
+    "relatedPolityIds": []
+  }
+]

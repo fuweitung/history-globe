@@ -1,0 +1,76 @@
+{
+  "id": "qing-china",
+  "name": "Qing China",
+  "era": "early_modern",
+  "region": "East Asia",
+  "startYear": 1644,
+  "endYear": 1912,
+  "capital": "Beijing",
+  "capitalCoords": [116.39, 39.91],
+  "color": "#c9a23f",
+  "borderNames": ["Manchu Empire", "Qing Empire"],
+  "summary": "The last imperial dynasty of China, founded by the Manchus. It ruled from Beijing from 1644, roughly doubled the territory of its Ming predecessor, and ended with the abdication of the last emperor in 1912.",
+  "checklist": {
+    "geography": {
+      "location": { "value": "China proper plus Manchuria, Mongolia, Xinjiang, Tibet and Taiwan at its greatest extent (mid-18th century).", "certainty": "confirmed", "source": "Rowe, China's Last Empire: The Great Qing (2009)" },
+      "terrain": { "value": "The Yellow River and Yangtze basins, linked by the Grand Canal. Inner Asian steppe, deserts and the Tibetan plateau on the frontiers. A long Pacific coastline.", "certainty": "confirmed", "source": "Rowe (2009)" },
+      "climate": { "value": "Monsoonal in the south and east, arid in the north and west. The cold, dry 17th-century phase of the Little Ice Age contributed to the crisis that ended the Ming. Severe droughts hit the north in the 19th century.", "certainty": "estimated", "source": "Parker, Global Crisis (2013)" },
+      "resources": { "value": "Rice, wheat and millet. Tea, silk, cotton, and porcelain clay (kaolin). Silver came mostly from imports.", "certainty": "confirmed", "source": "Rowe (2009)" },
+      "disasters": { "value": "The Yellow River changed course in 1855. The Great North China Famine (1876–79) killed perhaps 9–13 million people (estimates vary). There were frequent floods.", "year": 1876, "certainty": "estimated", "source": "Edgerton-Tarpley, Tears from Iron (2008)" }
+    },
+    "population": {
+      "population": { "value": "Perhaps 150 million around 1700, about 300 million by 1790, and about 430 million by 1850. These are estimates based on registration data.", "year": 1850, "certainty": "estimated", "source": "Ho Ping-ti, Studies on the Population of China (1959); Rowe (2009)" },
+      "urbanisation": { "value": "Beijing likely had about 1 million people in the 18th century. Major commercial cities included Suzhou, Hankou, Guangzhou and later Shanghai. The overall share of people living in cities remained low.", "certainty": "estimated", "source": "Skinner (ed.), The City in Late Imperial China (1977)" },
+      "disease": { "value": "Smallpox was a major threat, and the court promoted variolation (an early form of inoculation). The third plague pandemic began in Yunnan in the mid-19th century and reached Hong Kong in 1894. The Manchurian plague struck in 1910–11.", "year": 1894, "certainty": "confirmed", "source": "Benedict, Bubonic Plague in Nineteenth-Century China (1996)" },
+      "migration": { "value": "Large internal migrations to the southwest, Taiwan and, despite restrictions, Manchuria. Emigration to Southeast Asia and, in the 19th century, to the Americas and Australia.", "certainty": "confirmed", "source": "Kuhn, Chinese Among Others (2008)" }
+    },
+    "economy": {
+      "economicBase": { "value": "A large, commercialised agrarian economy with strong household handicrafts (textiles) and regional market networks.", "certainty": "confirmed", "source": "Pomeranz, The Great Divergence (2000)" },
+      "tradeRoutes": { "value": "The Grand Canal and coastal shipping. Under the Canton System (1757–1842), Western trade was limited to Guangzhou. Tea, silk and porcelain were exported; silver flowed in until opium imports reversed the flow in the 1820s–30s. Treaty ports opened after 1842.", "year": 1757, "certainty": "confirmed", "source": "Van Dyke, The Canton Trade (2005)" },
+      "wealth": { "value": "Around 600 'international dollars' (1990 values) per person in 1820, according to the Maddison Project. Productivity in the Yangtze delta may have been comparable to parts of Europe in the 18th century, but this is debated.", "year": 1820, "certainty": "disputed", "source": "Maddison, Contours of the World Economy (2007); Pomeranz (2000)" },
+      "moneyAndTax": { "value": "A bimetallic system: silver measured by weight (taels) and copper cash coins. Head-tax quotas were frozen in 1712 and later merged into the land tax. A fixed, light tax base limited state revenue. Large war indemnities followed (Boxer Protocol of 1901: 450 million taels).", "year": 1901, "certainty": "confirmed", "source": "Rowe (2009)" },
+      "inequality": { "value": "Significant gaps between landlords and gentry and tenant farmers. Manchu bannermen held hereditary privileges and stipends.", "certainty": "estimated", "source": "Rowe (2009)" }
+    },
+    "politics": {
+      "governmentType": { "value": "An imperial monarchy ruled by the Manchu Aisin Gioro clan through a Confucian bureaucracy. Senior posts were often paired, one Manchu and one Han Chinese.", "certainty": "confirmed", "source": "Rawski, The Last Emperors (1998)" },
+      "keyRulers": { "value": "Shunzhi (r. 1644–61). Kangxi (r. 1661–1722). Yongzheng (r. 1722–35). Qianlong (r. 1735–96). Empress Dowager Cixi (dominant at court 1861–1908). Guangxu (r. 1875–1908). Puyi (r. 1908–12, the last emperor).", "certainty": "confirmed", "source": "Rowe (2009)" },
+      "succession": { "value": "The emperor chose his heir from among his sons. From Yongzheng onward, the choice was kept secret in a sealed box until the emperor's death.", "certainty": "confirmed", "source": "Rawski (1998)" },
+      "institutions": { "value": "Civil service examinations (abolished 1905), the Six Boards, the Grand Council (from c. 1729), the Eight Banners, and the Court of Colonial Affairs (Lifanyuan) for Inner Asia.", "year": 1905, "certainty": "confirmed", "source": "Rowe (2009)" },
+      "stability": { "value": "The Revolt of the Three Feudatories (1673–81). The White Lotus Rebellion (1796–1804). The Taiping Rebellion (1850–64), whose death toll is estimated at 20–30 million or more (disputed). The Nian and northwest Muslim revolts. The Boxer Uprising (1899–1901). The 1911 Revolution.", "year": 1850, "certainty": "estimated", "source": "Platt, Autumn in the Heavenly Kingdom (2012)" },
+      "eliteConflict": { "value": "Corruption under Qianlong's favourite Heshen, factional struggles at court, and the growing power of regional officials who raised their own armies (Zeng Guofan, Li Hongzhang) after 1850.", "certainty": "confirmed", "source": "Rowe (2009)" }
+    },
+    "military": {
+      "armyAndTech": { "value": "The Eight Banners and the Green Standard Army. Regional armies from the 1850s. Modern arsenals (Jiangnan Arsenal, 1865) and the Beiyang Fleet, which was destroyed in 1895.", "year": 1865, "certainty": "confirmed", "source": "Elleman, Modern Chinese Warfare (2001)" },
+      "majorWars": { "value": "The conquest of Ming China. Campaigns against the Dzungars (to 1759). The Opium Wars (1839–42, 1856–60). The Sino-French War (1884–85). The First Sino-Japanese War (1894–95). The Eight-Nation intervention (1900).", "certainty": "confirmed", "source": "Rowe (2009)" },
+      "territoryChange": { "value": "Gained Taiwan (1683), Mongolia, Xinjiang (1759) and authority over Tibet (from 1720). Lost land north of the Amur and east of the Ussuri to Russia (1858–60), Hong Kong Island (1842), and Taiwan (1895).", "certainty": "confirmed", "source": "Perdue, China Marches West (2005)" },
+      "alliancesRivals": { "value": "A tributary order with Joseon Korea, Vietnam, the Ryukyus and others. Treaty relations with Russia (Treaty of Nerchinsk, 1689). Rivals included the Dzungars, Britain, France, Russia and Japan.", "certainty": "confirmed", "source": "Perdue (2005)" }
+    },
+    "technology": {
+      "inventions": { "value": "Large state compilation projects, notably the Siku Quanshu (1773–82). Jesuit astronomers served at court. The Self-Strengthening Movement (1861–95) brought arsenals, shipyards, the telegraph and some railways.", "year": 1861, "certainty": "confirmed", "source": "Elman, On Their Own Terms (2005)" },
+      "scienceEducation": { "value": "Confucian education geared to the examinations, and evidential scholarship (kaozheng). Male literacy may have been 30–45% by the late 19th century, an estimate that is disputed.", "certainty": "disputed", "source": "Rawski, Education and Popular Literacy in Ch'ing China (1979)" },
+      "openness": { "value": "Mixed. The court welcomed some Western science (Jesuits) but restricted trade (Canton System) and rejected the British Macartney embassy's requests (1793). Openness grew under pressure after 1860.", "year": 1793, "certainty": "confirmed", "source": "Rowe (2009)" }
+    },
+    "culture": {
+      "religion": { "value": "Confucianism as state orthodoxy. The court patronised Tibetan Buddhism. Daoism, Chan Buddhism, popular religion and Islam were widespread. Christianity expanded after 1860.", "certainty": "confirmed", "source": "Rawski (1998)" },
+      "languageWriting": { "value": "Classical Chinese for government and scholarship, Manchu as a dynastic language, plus Mongolian, Tibetan and Uyghur in the frontier regions.", "certainty": "confirmed", "source": "Rawski (1998)" },
+      "artsArchitecture": { "value": "The novel Dream of the Red Chamber (Cao Xueqin, 18th c.). Imperial porcelain. The Yuanmingyuan, destroyed in 1860. The Chengde summer palace complex.", "certainty": "confirmed", "source": "Rowe (2009)" },
+      "socialStructure": { "value": "The emperor, Manchu and Mongol banner elites, scholar-gentry, farmers, artisans and merchants. Some groups held hereditary servile status (bondservants).", "certainty": "confirmed", "source": "Rowe (2009)" },
+      "sharedIdentity": { "value": "A multi-ethnic empire. The emperor presented himself as Confucian Son of Heaven to Han subjects, khan to the Mongols, and patron of Tibetan Buddhism. Han nationalism grew in the late 19th century.", "certainty": "estimated", "source": "Crossley, A Translucent Mirror (1999)" }
+    },
+    "connections": {
+      "neighbours": { "value": "Russia, the Dzungar Khanate, Joseon Korea, Japan, Vietnam, Burma, Nepal and the Kazakh Khanates, and later the British, French and other maritime powers.", "certainty": "confirmed", "source": "Perdue (2005)" },
+      "ideasReligions": { "value": "Jesuit science and cartography. Protestant missions in the 19th century. Western political ideas and reformist and revolutionary thought in the late Qing (Kang Youwei, Liang Qichao, Sun Yat-sen).", "certainty": "confirmed", "source": "Spence, The Search for Modern China (1990)" },
+      "colonisation": { "value": "An expanding land empire in Inner Asia in the 17th–18th centuries. From 1842 it faced treaty ports, foreign concessions and extraterritoriality, imposed by agreements that Chinese historiography calls the 'unequal treaties'.", "certainty": "confirmed", "source": "Spence (1990)" }
+    },
+    "riseFall": {
+      "riseSignals": { "value": "A disciplined Banner military organisation, alliances with the Mongols, the collapse of the Ming amid rebellion and famine (Li Zicheng took Beijing in 1644), and the defection of Ming generals such as Wu Sangui.", "year": 1644, "certainty": "confirmed", "source": "Wakeman, The Great Enterprise (1985)" },
+      "peakPeriod": { "value": "The 'High Qing' under the Kangxi, Yongzheng and Qianlong emperors. Territory peaked around 1760, after the conquest of Dzungaria.", "year": 1760, "certainty": "estimated", "source": "Rowe (2009)" },
+      "declineSignals": { "value": "Population pressure on land, a fixed tax base, and corruption in the late Qianlong era. The silver outflow from the opium trade, massive mid-century rebellions, military defeats and indemnities, and slow reform until after 1901.", "certainty": "estimated", "source": "Rowe (2009); Spence (1990)" },
+      "outcome": { "value": "Revolution. The 1911 Xinhai Revolution led to the abdication of Puyi on 12 February 1912, and the Republic of China succeeded the Qing.", "year": 1912, "certainty": "confirmed", "source": "Spence (1990)" }
+    },
+    "dataQuality": {
+      "sources": { "value": "Vast Qing archives in Chinese and Manchu, local gazetteers, and Western diplomatic and missionary records. Modern syntheses: Rowe (2009), Spence (1990), Rawski (1998), Perdue (2005).", "certainty": "confirmed", "source": "—" },
+      "overallCertainty": { "value": "High for political events. Moderate for population (registration counts were adjusted) and low to moderate for economic output and death tolls of rebellions and famines.", "certainty": "estimated", "source": "—" }
+    }
+  }
+}
