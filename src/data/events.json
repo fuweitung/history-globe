@@ -843,6 +843,20 @@
     ]
   },
   {
+    "id": "great-zimbabwe-enclosure",
+    "year": 1300,
+    "yearApproximate": true,
+    "lat": -20.27,
+    "lng": 30.93,
+    "type": "culture",
+    "title": "Great Enclosure of Great Zimbabwe",
+    "description": "The Great Enclosure, the largest ancient structure south of the Sahara, is built of dry stone in the 13th–14th centuries. The city may have had up to 10,000–20,000 people at its peak (estimates differ).",
+    "relatedPolityIds": [
+      "great-zimbabwe"
+    ],
+    "source": "Wikipedia: Great Zimbabwe (checked 6 Nov 2026)"
+  },
+  {
     "id": "mansa-musa",
     "year": 1324,
     "lat": 16.77,
@@ -1541,6 +1555,20 @@
     ]
   },
   {
+    "id": "latin-american-independence",
+    "year": 1810,
+    "endYear": 1825,
+    "lat": 10.49,
+    "lng": -66.88,
+    "type": "war",
+    "title": "Spanish American wars of independence",
+    "description": "Led by figures such as Simón Bolívar and José de San Martín, most of Spain’s American colonies win independence.",
+    "relatedPolityIds": [
+      "spanish-empire"
+    ],
+    "source": "Wikipedia: Spanish American wars of independence"
+  },
+  {
     "id": "tambora-eruption",
     "year": 1815,
     "lat": -8.25,
@@ -1549,6 +1577,35 @@
     "title": "Mount Tambora erupts",
     "description": "The largest volcanic eruption in recorded history, on Sumbawa, kills tens of thousands locally and causes the “Year Without a Summer” (1816) worldwide.",
     "relatedPolityIds": []
+  },
+  {
+    "id": "waterloo-congress-vienna",
+    "year": 1815,
+    "lat": 50.68,
+    "lng": 4.41,
+    "type": "war",
+    "title": "Waterloo and the Congress of Vienna",
+    "description": "Napoleon is finally defeated at Waterloo. The Congress of Vienna redraws the map of Europe and begins a long period of great-power balance.",
+    "relatedPolityIds": [
+      "british-empire",
+      "russian-empire",
+      "habsburg-monarchy"
+    ],
+    "source": "Wikipedia: Battle of Waterloo"
+  },
+  {
+    "id": "singapore-founded",
+    "year": 1819,
+    "lat": 1.29,
+    "lng": 103.85,
+    "type": "trade",
+    "title": "British trading post at Singapore",
+    "description": "Stamford Raffles sets up a British trading post at Singapore by an agreement with a Johor claimant and the local Temenggong.",
+    "relatedPolityIds": [
+      "british-empire",
+      "johor-sultanate"
+    ],
+    "source": "Wikipedia: Founding of modern Singapore"
   },
   {
     "id": "brazil-independence",
@@ -1577,6 +1634,45 @@
     ]
   },
   {
+    "id": "first-public-railway",
+    "year": 1825,
+    "lat": 54.52,
+    "lng": -1.55,
+    "type": "invention",
+    "title": "First public steam railway",
+    "description": "The Stockton and Darlington Railway opens in England, beginning the railway age.",
+    "relatedPolityIds": [
+      "british-empire"
+    ],
+    "source": "Wikipedia: Stockton and Darlington Railway"
+  },
+  {
+    "id": "java-war",
+    "year": 1825,
+    "endYear": 1830,
+    "lat": -7.8,
+    "lng": 110.36,
+    "type": "war",
+    "title": "Java War",
+    "description": "Prince Diponegoro leads a major uprising against Dutch colonial rule in Java. It ends with his capture.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Java War"
+  },
+  {
+    "id": "straits-settlements",
+    "year": 1826,
+    "lat": 5.41,
+    "lng": 100.33,
+    "type": "person",
+    "title": "Straits Settlements formed",
+    "description": "Penang, Melaka and Singapore are grouped as the British Straits Settlements.",
+    "relatedPolityIds": [
+      "british-empire",
+      "malaysia"
+    ],
+    "source": "Wikipedia: Straits Settlements"
+  },
+  {
     "id": "french-algeria",
     "year": 1830,
     "lat": 36.75,
@@ -1588,6 +1684,19 @@
       "french-colonial-empire",
       "ottoman-empire"
     ]
+  },
+  {
+    "id": "slavery-abolition-act",
+    "year": 1833,
+    "lat": 51.5,
+    "lng": -0.13,
+    "type": "culture",
+    "title": "Slavery Abolition Act",
+    "description": "Britain abolishes slavery across most of its empire, with compensation paid to slave owners, not to the enslaved.",
+    "relatedPolityIds": [
+      "british-empire"
+    ],
+    "source": "Wikipedia: Slavery Abolition Act 1833"
   },
   {
     "id": "first-opium-war",
@@ -1627,6 +1736,19 @@
     "relatedPolityIds": [
       "british-empire"
     ]
+  },
+  {
+    "id": "revolutions-1848",
+    "year": 1848,
+    "lat": 48.21,
+    "lng": 16.37,
+    "type": "war",
+    "title": "Revolutions of 1848",
+    "description": "A wave of liberal and national revolutions sweeps Europe. Most are suppressed, but serfdom ends in the Habsburg lands. Marx and Engels publish The Communist Manifesto.",
+    "relatedPolityIds": [
+      "habsburg-monarchy"
+    ],
+    "source": "Wikipedia: Revolutions of 1848"
   },
   {
     "id": "taiping-rebellion",
@@ -1669,6 +1791,21 @@
     ]
   },
   {
+    "id": "cochinchina-campaign",
+    "year": 1858,
+    "endYear": 1862,
+    "lat": 16.07,
+    "lng": 108.22,
+    "type": "war",
+    "title": "French conquest of Cochinchina",
+    "description": "French and Spanish forces attack Đà Nẵng and Saigon. By the Treaty of Saigon (1862) the Nguyễn court cedes southern provinces to France.",
+    "relatedPolityIds": [
+      "nguyen-vietnam",
+      "french-colonial-empire"
+    ],
+    "source": "Wikipedia: Cochinchina campaign"
+  },
+  {
     "id": "darwin-origin",
     "year": 1859,
     "lat": 51.51,
@@ -1679,6 +1816,72 @@
     "relatedPolityIds": [
       "british-empire"
     ]
+  },
+  {
+    "id": "russia-emancipation",
+    "year": 1861,
+    "lat": 59.94,
+    "lng": 30.31,
+    "type": "person",
+    "title": "Emancipation of the Russian serfs",
+    "description": "Alexander II frees about 23 million serfs, the largest reform in Russian history.",
+    "relatedPolityIds": [
+      "russian-empire"
+    ],
+    "source": "Wikipedia: Emancipation reform of 1861"
+  },
+  {
+    "id": "italian-unification",
+    "year": 1861,
+    "lat": 45.07,
+    "lng": 7.69,
+    "type": "person",
+    "title": "Kingdom of Italy proclaimed",
+    "description": "Most of the Italian peninsula is unified under the House of Savoy (Rome follows in 1870).",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Italian unification"
+  },
+  {
+    "id": "us-civil-war",
+    "year": 1861,
+    "endYear": 1865,
+    "lat": 37.54,
+    "lng": -77.43,
+    "type": "war",
+    "title": "American Civil War",
+    "description": "Eleven Southern states secede over slavery. After the Union victory slavery is abolished (Thirteenth Amendment, 1865).",
+    "relatedPolityIds": [
+      "united-states"
+    ],
+    "source": "Wikipedia: American Civil War"
+  },
+  {
+    "id": "paraguayan-war",
+    "year": 1864,
+    "endYear": 1870,
+    "lat": -25.28,
+    "lng": -57.63,
+    "type": "war",
+    "title": "Paraguayan War",
+    "description": "Paraguay fights Brazil, Argentina and Uruguay. It is among the deadliest wars in Latin American history: an estimated 150,000–500,000 dead in total, and Paraguay lost a very large share of its population (exact numbers are disputed).",
+    "relatedPolityIds": [
+      "empire-of-brazil"
+    ],
+    "source": "Wikipedia: Paraguayan War (checked 6 Nov 2026)"
+  },
+  {
+    "id": "austro-hungarian-compromise",
+    "year": 1867,
+    "lat": 47.5,
+    "lng": 19.04,
+    "type": "person",
+    "title": "Austro-Hungarian Compromise",
+    "description": "The Habsburg monarchy becomes the dual monarchy of Austria-Hungary.",
+    "relatedPolityIds": [
+      "austria-hungary",
+      "habsburg-monarchy"
+    ],
+    "source": "Wikipedia: Austro-Hungarian Compromise of 1867"
   },
   {
     "id": "meiji-restoration",
@@ -1735,6 +1938,44 @@
     ]
   },
   {
+    "id": "pangkor-treaty",
+    "year": 1874,
+    "lat": 4.21,
+    "lng": 100.58,
+    "type": "person",
+    "title": "Treaty of Pangkor",
+    "description": "The treaty places a British Resident in Perak, beginning British indirect rule over the Malay states.",
+    "relatedPolityIds": [
+      "british-empire",
+      "malaysia"
+    ],
+    "source": "Wikipedia: Pangkor Treaty of 1874"
+  },
+  {
+    "id": "telephone",
+    "year": 1876,
+    "lat": 42.36,
+    "lng": -71.06,
+    "type": "invention",
+    "title": "The telephone",
+    "description": "Alexander Graham Bell patents the telephone in the United States.",
+    "relatedPolityIds": [
+      "united-states"
+    ],
+    "source": "Wikipedia: Invention of the telephone"
+  },
+  {
+    "id": "krakatoa",
+    "year": 1883,
+    "lat": -6.1,
+    "lng": 105.42,
+    "type": "disaster",
+    "title": "Krakatoa eruption",
+    "description": "The eruption of Krakatoa and the tsunamis it caused kill at least 36,417 people in the Dutch East Indies. Ash cools the global climate.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: 1883 eruption of Krakatoa (checked 6 Nov 2026)"
+  },
+  {
     "id": "berlin-conference",
     "year": 1884,
     "endYear": 1885,
@@ -1764,6 +2005,20 @@
     ]
   },
   {
+    "id": "franco-siamese-crisis",
+    "year": 1893,
+    "lat": 13.57,
+    "lng": 100.59,
+    "type": "war",
+    "title": "Franco-Siamese crisis",
+    "description": "French gunboats force their way to Bangkok. Siam cedes territory east of the Mekong (in Laos) to France but keeps its independence.",
+    "relatedPolityIds": [
+      "rattanakosin-siam",
+      "french-colonial-empire"
+    ],
+    "source": "Wikipedia: Franco-Siamese crisis"
+  },
+  {
     "id": "sino-japanese-war",
     "year": 1894,
     "endYear": 1895,
@@ -1779,6 +2034,20 @@
     ]
   },
   {
+    "id": "federated-malay-states",
+    "year": 1895,
+    "lat": 3.14,
+    "lng": 101.69,
+    "type": "person",
+    "title": "Federated Malay States",
+    "description": "Perak, Selangor, Negeri Sembilan and Pahang are joined as the Federated Malay States, with Kuala Lumpur as capital.",
+    "relatedPolityIds": [
+      "british-empire",
+      "malaysia"
+    ],
+    "source": "Wikipedia: Federated Malay States"
+  },
+  {
     "id": "battle-of-adwa",
     "year": 1896,
     "lat": 14.16,
@@ -1789,6 +2058,119 @@
     "relatedPolityIds": [
       "ethiopian-empire"
     ]
+  },
+  {
+    "id": "spanish-american-war",
+    "year": 1898,
+    "lat": 23.13,
+    "lng": -82.38,
+    "type": "war",
+    "title": "Spanish–American War",
+    "description": "The US defeats Spain. Spain loses Cuba, Puerto Rico, Guam and the Philippines, ending its American empire.",
+    "relatedPolityIds": [
+      "spanish-empire",
+      "united-states"
+    ],
+    "source": "Wikipedia: Spanish–American War"
+  },
+  {
+    "id": "boxer-rebellion",
+    "year": 1899,
+    "endYear": 1901,
+    "lat": 39.9,
+    "lng": 116.4,
+    "type": "war",
+    "title": "Boxer Rebellion",
+    "description": "An anti-foreign and anti-Christian uprising in northern China is crushed by an eight-nation alliance. China is forced to pay huge indemnities.",
+    "relatedPolityIds": [
+      "qing-china",
+      "empire-of-japan",
+      "russian-empire",
+      "british-empire",
+      "united-states"
+    ],
+    "source": "Wikipedia: Boxer Rebellion"
+  },
+  {
+    "id": "first-flight",
+    "year": 1903,
+    "lat": 36.02,
+    "lng": -75.67,
+    "type": "invention",
+    "title": "First powered flight",
+    "description": "The Wright brothers make the first controlled, powered aeroplane flight at Kitty Hawk.",
+    "relatedPolityIds": [
+      "united-states"
+    ],
+    "source": "Wikipedia: Wright Flyer"
+  },
+  {
+    "id": "russo-japanese-war",
+    "year": 1904,
+    "endYear": 1905,
+    "lat": 38.81,
+    "lng": 121.26,
+    "type": "war",
+    "title": "Russo-Japanese War",
+    "description": "Japan defeats Russia over Manchuria and Korea, the first major victory of an Asian power over a European one in modern times.",
+    "relatedPolityIds": [
+      "empire-of-japan",
+      "russian-empire"
+    ],
+    "source": "Wikipedia: Russo-Japanese War"
+  },
+  {
+    "id": "herero-nama-genocide",
+    "year": 1904,
+    "endYear": 1908,
+    "lat": -22.56,
+    "lng": 17.08,
+    "type": "war",
+    "title": "Herero and Nama genocide",
+    "description": "German colonial forces in South West Africa (Namibia) kill tens of thousands of Herero and Nama people, often described as the first genocide of the 20th century.",
+    "relatedPolityIds": [
+      "german-empire"
+    ],
+    "source": "Wikipedia: Herero and Nama genocide"
+  },
+  {
+    "id": "relativity",
+    "year": 1905,
+    "lat": 46.95,
+    "lng": 7.45,
+    "type": "invention",
+    "title": "Theory of relativity",
+    "description": "Albert Einstein publishes special relativity and other landmark papers while working in Bern.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Annus mirabilis papers"
+  },
+  {
+    "id": "persian-constitutional-revolution",
+    "year": 1905,
+    "endYear": 1911,
+    "lat": 35.69,
+    "lng": 51.39,
+    "type": "person",
+    "title": "Persian Constitutional Revolution",
+    "description": "Protests force the Qajar shah to accept a constitution and an elected parliament (Majlis).",
+    "relatedPolityIds": [
+      "qajar-pahlavi-iran"
+    ],
+    "source": "Wikipedia: Persian Constitutional Revolution"
+  },
+  {
+    "id": "korea-annexation",
+    "year": 1910,
+    "lat": 37.57,
+    "lng": 126.98,
+    "type": "war",
+    "title": "Japan annexes Korea",
+    "description": "Japan formally annexes Korea, beginning 35 years of colonial rule.",
+    "relatedPolityIds": [
+      "empire-of-japan",
+      "joseon-korea"
+    ],
+    "source": "Wikipedia: Japan–Korea Treaty of 1910"
   },
   {
     "id": "xinhai-revolution",
@@ -1825,6 +2207,33 @@
     ]
   },
   {
+    "id": "sarajevo-assassination",
+    "year": 1914,
+    "lat": 43.86,
+    "lng": 18.43,
+    "type": "war",
+    "title": "Assassination in Sarajevo",
+    "description": "Archduke Franz Ferdinand, heir to Austria-Hungary, is assassinated, triggering the crisis that starts the First World War.",
+    "relatedPolityIds": [
+      "austria-hungary"
+    ],
+    "source": "Wikipedia: Assassination of Archduke Franz Ferdinand"
+  },
+  {
+    "id": "armenian-genocide",
+    "year": 1915,
+    "endYear": 1917,
+    "lat": 38.67,
+    "lng": 39.22,
+    "type": "war",
+    "title": "Armenian genocide",
+    "description": "The Ottoman government deports and systematically kills its Armenian population. Estimates are 600,000–1.5 million dead. Almost all historians accept it as genocide; the Turkish government disputes this description.",
+    "relatedPolityIds": [
+      "ottoman-empire"
+    ],
+    "source": "Wikipedia: Armenian genocide (checked 6 Nov 2026)"
+  },
+  {
     "id": "russian-revolution",
     "year": 1917,
     "lat": 59.94,
@@ -1849,6 +2258,35 @@
     "relatedPolityIds": []
   },
   {
+    "id": "treaty-of-versailles",
+    "year": 1919,
+    "lat": 48.8,
+    "lng": 2.12,
+    "type": "person",
+    "title": "Treaty of Versailles",
+    "description": "The peace treaty ending the First World War imposes territorial losses and reparations on Germany. The League of Nations is created.",
+    "relatedPolityIds": [
+      "german-empire",
+      "british-empire",
+      "french-colonial-empire",
+      "united-states"
+    ],
+    "source": "Wikipedia: Treaty of Versailles"
+  },
+  {
+    "id": "may-fourth-movement",
+    "year": 1919,
+    "lat": 39.9,
+    "lng": 116.4,
+    "type": "culture",
+    "title": "May Fourth Movement",
+    "description": "Student protests in Beijing against the Versailles settlement launch a movement for Chinese nationalism and cultural modernisation.",
+    "relatedPolityIds": [
+      "republic-of-china"
+    ],
+    "source": "Wikipedia: May Fourth Movement"
+  },
+  {
     "id": "turkish-republic",
     "year": 1923,
     "lat": 39.93,
@@ -1862,6 +2300,19 @@
     ]
   },
   {
+    "id": "treaty-of-lausanne",
+    "year": 1923,
+    "lat": 46.52,
+    "lng": 6.63,
+    "type": "person",
+    "title": "Treaty of Lausanne",
+    "description": "The treaty recognises the borders of the new Republic of Turkey and includes a population exchange between Greece and Turkey.",
+    "relatedPolityIds": [
+      "republic-of-turkey"
+    ],
+    "source": "Wikipedia: Treaty of Lausanne"
+  },
+  {
     "id": "penicillin",
     "year": 1928,
     "lat": 51.52,
@@ -1870,6 +2321,19 @@
     "title": "Penicillin discovered",
     "description": "Alexander Fleming notices the antibacterial effect of the Penicillium mould in London. Mass production follows in the 1940s.",
     "relatedPolityIds": []
+  },
+  {
+    "id": "turkish-alphabet-reform",
+    "year": 1928,
+    "lat": 39.93,
+    "lng": 32.85,
+    "type": "culture",
+    "title": "Turkish alphabet reform",
+    "description": "Atatürk’s government replaces the Arabic script with the Latin alphabet, one of many secularising reforms.",
+    "relatedPolityIds": [
+      "republic-of-turkey"
+    ],
+    "source": "Wikipedia: Atatürk’s reforms"
   },
   {
     "id": "great-depression",
@@ -1886,6 +2350,34 @@
     ]
   },
   {
+    "id": "salt-march",
+    "year": 1930,
+    "lat": 21.08,
+    "lng": 72.72,
+    "type": "person",
+    "title": "Gandhi’s Salt March",
+    "description": "Gandhi leads a 24-day march to Dandi to make salt in defiance of British law, a landmark of non-violent resistance.",
+    "relatedPolityIds": [
+      "british-empire",
+      "india"
+    ],
+    "source": "Wikipedia: Salt March"
+  },
+  {
+    "id": "mukden-incident",
+    "year": 1931,
+    "lat": 41.8,
+    "lng": 123.43,
+    "type": "war",
+    "title": "Mukden Incident",
+    "description": "Japanese officers stage an explosion as a pretext to invade Manchuria, where Japan sets up the puppet state of Manchukuo.",
+    "relatedPolityIds": [
+      "empire-of-japan",
+      "republic-of-china"
+    ],
+    "source": "Wikipedia: Mukden incident"
+  },
+  {
     "id": "siam-1932",
     "year": 1932,
     "lat": 13.75,
@@ -1896,6 +2388,60 @@
     "relatedPolityIds": [
       "rattanakosin-siam"
     ]
+  },
+  {
+    "id": "holodomor",
+    "year": 1932,
+    "endYear": 1933,
+    "lat": 49.0,
+    "lng": 32.0,
+    "type": "disaster",
+    "title": "Holodomor and the Soviet famine",
+    "description": "Famine in the Soviet Union, made far worse by forced collectivisation and grain requisitions, kills an estimated 3.5–5 million people in Ukraine and many others, especially in Kazakhstan. Whether it constitutes genocide is disputed; Ukraine and over 30 other states recognise it as such.",
+    "relatedPolityIds": [
+      "soviet-union"
+    ],
+    "source": "Wikipedia: Holodomor (checked 6 Nov 2026)"
+  },
+  {
+    "id": "nazi-seizure-of-power",
+    "year": 1933,
+    "lat": 52.52,
+    "lng": 13.4,
+    "type": "person",
+    "title": "Nazis take power in Germany",
+    "description": "Adolf Hitler becomes chancellor and quickly turns Germany into a one-party dictatorship.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Adolf Hitler’s rise to power"
+  },
+  {
+    "id": "long-march",
+    "year": 1934,
+    "endYear": 1935,
+    "lat": 27.7,
+    "lng": 106.93,
+    "type": "war",
+    "title": "Long March",
+    "description": "The Chinese Communists retreat about 10,000 km from Nationalist forces. Mao Zedong emerges as leader.",
+    "relatedPolityIds": [
+      "republic-of-china"
+    ],
+    "source": "Wikipedia: Long March"
+  },
+  {
+    "id": "nanjing-massacre",
+    "year": 1937,
+    "endYear": 1938,
+    "lat": 32.06,
+    "lng": 118.8,
+    "type": "war",
+    "title": "Nanjing Massacre",
+    "description": "After capturing Nanjing, Japanese troops kill large numbers of civilians and prisoners and commit mass rape. Death toll estimates vary widely.",
+    "relatedPolityIds": [
+      "empire-of-japan",
+      "republic-of-china"
+    ],
+    "source": "Wikipedia: Nanjing Massacre"
   },
   {
     "id": "wwii",
@@ -1913,6 +2459,77 @@
       "empire-of-japan",
       "republic-of-china"
     ]
+  },
+  {
+    "id": "holocaust",
+    "year": 1941,
+    "endYear": 1945,
+    "lat": 50.03,
+    "lng": 19.18,
+    "type": "war",
+    "title": "The Holocaust",
+    "description": "Nazi Germany murders around six million European Jews, as well as millions of others including Roma, Poles, Soviet prisoners of war, disabled people and gay men. Auschwitz-Birkenau was the largest killing centre.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: The Holocaust (checked 6 Nov 2026)"
+  },
+  {
+    "id": "japanese-invasion-malaya",
+    "year": 1941,
+    "endYear": 1945,
+    "lat": 6.13,
+    "lng": 102.24,
+    "type": "war",
+    "title": "Japanese invasion and occupation of Malaya",
+    "description": "Japanese troops land at Kota Bharu on 8 December 1941. Singapore surrenders on 15 February 1942, beginning over three years of occupation.",
+    "relatedPolityIds": [
+      "empire-of-japan",
+      "british-empire",
+      "malaysia"
+    ],
+    "source": "Wikipedia: Japanese occupation of Malaya (checked 6 Nov 2026)"
+  },
+  {
+    "id": "stalingrad",
+    "year": 1942,
+    "endYear": 1943,
+    "lat": 48.71,
+    "lng": 44.51,
+    "type": "war",
+    "title": "Battle of Stalingrad",
+    "description": "One of the deadliest battles in history ends with the destruction of a German army, a turning point of the war in Europe.",
+    "relatedPolityIds": [
+      "soviet-union"
+    ],
+    "source": "Wikipedia: Battle of Stalingrad"
+  },
+  {
+    "id": "bengal-famine",
+    "year": 1943,
+    "endYear": 1944,
+    "lat": 22.57,
+    "lng": 88.36,
+    "type": "disaster",
+    "title": "Bengal famine of 1943",
+    "description": "An estimated 800,000 to 3.8 million people die in Bengal under British rule during wartime. Historians debate how much was caused by wartime policies versus other factors.",
+    "relatedPolityIds": [
+      "british-empire",
+      "india"
+    ],
+    "source": "Wikipedia: Bengal famine of 1943 (checked 6 Nov 2026)"
+  },
+  {
+    "id": "d-day",
+    "year": 1944,
+    "lat": 49.37,
+    "lng": -0.88,
+    "type": "war",
+    "title": "D-Day landings",
+    "description": "Allied forces land in Normandy, opening a western front against Nazi Germany.",
+    "relatedPolityIds": [
+      "united-states",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Normandy landings"
   },
   {
     "id": "hiroshima",
@@ -1941,6 +2558,52 @@
     ]
   },
   {
+    "id": "un-founded",
+    "year": 1945,
+    "lat": 37.78,
+    "lng": -122.42,
+    "type": "person",
+    "title": "United Nations founded",
+    "description": "The UN Charter is signed in San Francisco to preserve peace after the Second World War.",
+    "relatedPolityIds": [
+      "united-states",
+      "soviet-union",
+      "republic-of-china",
+      "british-empire"
+    ],
+    "source": "Wikipedia: United Nations"
+  },
+  {
+    "id": "chinese-civil-war",
+    "year": 1945,
+    "endYear": 1949,
+    "lat": 32.06,
+    "lng": 118.8,
+    "type": "war",
+    "title": "Chinese Civil War (final phase)",
+    "description": "After Japan’s defeat, the Communists defeat the Nationalists, who retreat to Taiwan in 1949.",
+    "relatedPolityIds": [
+      "republic-of-china",
+      "peoples-republic-of-china"
+    ],
+    "source": "Wikipedia: Chinese Civil War"
+  },
+  {
+    "id": "malayan-union",
+    "year": 1946,
+    "endYear": 1948,
+    "lat": 3.14,
+    "lng": 101.69,
+    "type": "person",
+    "title": "Malayan Union",
+    "description": "Britain creates the Malayan Union (1 April 1946). Strong Malay opposition, which led to the founding of UMNO, brings its replacement by the Federation of Malaya in 1948.",
+    "relatedPolityIds": [
+      "british-empire",
+      "malaysia"
+    ],
+    "source": "Wikipedia: Malayan Union (checked 6 Nov 2026)"
+  },
+  {
     "id": "india-independence",
     "year": 1947,
     "lat": 28.61,
@@ -1954,6 +2617,57 @@
     ]
   },
   {
+    "id": "partition-violence",
+    "year": 1947,
+    "lat": 31.63,
+    "lng": 74.87,
+    "type": "disaster",
+    "title": "Partition violence and migration",
+    "description": "The partition of British India displaces 12–20 million people. Estimates of deaths range from 200,000 to 2 million.",
+    "relatedPolityIds": [
+      "india",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Partition of India (checked 6 Nov 2026)"
+  },
+  {
+    "id": "malayan-emergency",
+    "year": 1948,
+    "endYear": 1960,
+    "lat": 4.6,
+    "lng": 101.08,
+    "type": "war",
+    "title": "Malayan Emergency",
+    "description": "The Malayan Communist Party wages a guerrilla war against British and then Malayan forces. It is defeated by 1960.",
+    "relatedPolityIds": [
+      "british-empire",
+      "malaysia"
+    ],
+    "source": "Wikipedia: Malayan Emergency"
+  },
+  {
+    "id": "israel-nakba",
+    "year": 1948,
+    "lat": 31.77,
+    "lng": 35.21,
+    "type": "war",
+    "title": "Founding of Israel and the Nakba",
+    "description": "The State of Israel is declared and the first Arab–Israeli war follows. Around 750,000 Palestinians are expelled or flee their homes, known to Palestinians as the Nakba (“catastrophe”).",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Nakba (checked 6 Nov 2026)"
+  },
+  {
+    "id": "apartheid-begins",
+    "year": 1948,
+    "lat": -33.92,
+    "lng": 18.42,
+    "type": "culture",
+    "title": "Apartheid in South Africa",
+    "description": "South Africa’s government introduces apartheid, a system of legal racial segregation and white minority rule.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Apartheid"
+  },
+  {
     "id": "prc-founded",
     "year": 1949,
     "lat": 39.91,
@@ -1965,6 +2679,93 @@
       "peoples-republic-of-china",
       "republic-of-china"
     ]
+  },
+  {
+    "id": "korean-war",
+    "year": 1950,
+    "endYear": 1953,
+    "lat": 38.32,
+    "lng": 127.0,
+    "type": "war",
+    "title": "Korean War",
+    "description": "North Korea invades South Korea. UN forces led by the US and Chinese forces join in. A ceasefire is signed on 27 July 1953, leaving Korea divided. Millions of soldiers and civilians die.",
+    "relatedPolityIds": [
+      "united-states",
+      "peoples-republic-of-china",
+      "soviet-union"
+    ],
+    "source": "Wikipedia: Korean War (checked 6 Nov 2026)"
+  },
+  {
+    "id": "indian-constitution",
+    "year": 1950,
+    "lat": 28.61,
+    "lng": 77.21,
+    "type": "person",
+    "title": "India becomes a republic",
+    "description": "India’s constitution comes into force, making it the world’s largest democracy.",
+    "relatedPolityIds": [
+      "india"
+    ],
+    "source": "Wikipedia: Constitution of India"
+  },
+  {
+    "id": "iran-1953-coup",
+    "year": 1953,
+    "lat": 35.69,
+    "lng": 51.39,
+    "type": "person",
+    "title": "1953 coup in Iran",
+    "description": "A coup backed by the US and UK overthrows Prime Minister Mosaddegh after he nationalised the oil industry, strengthening the Shah.",
+    "relatedPolityIds": [
+      "qajar-pahlavi-iran",
+      "united-states",
+      "british-empire"
+    ],
+    "source": "Wikipedia: 1953 Iranian coup d’état"
+  },
+  {
+    "id": "bandung-conference",
+    "year": 1955,
+    "lat": -6.92,
+    "lng": 107.61,
+    "type": "person",
+    "title": "Bandung Conference",
+    "description": "Leaders of 29 Asian and African countries meet in Indonesia, a founding moment for the Non-Aligned Movement.",
+    "relatedPolityIds": [
+      "indonesia",
+      "india",
+      "peoples-republic-of-china"
+    ],
+    "source": "Wikipedia: Bandung Conference"
+  },
+  {
+    "id": "vietnam-war",
+    "year": 1955,
+    "endYear": 1975,
+    "lat": 10.82,
+    "lng": 106.63,
+    "type": "war",
+    "title": "Vietnam War",
+    "description": "North Vietnam and the Viet Cong fight South Vietnam and the United States. It ends with the fall of Saigon on 30 April 1975. Vietnamese deaths are estimated at about 1–3 million.",
+    "relatedPolityIds": [
+      "united-states"
+    ],
+    "source": "Wikipedia: Vietnam War (checked 6 Nov 2026)"
+  },
+  {
+    "id": "suez-crisis",
+    "year": 1956,
+    "lat": 30.58,
+    "lng": 32.27,
+    "type": "war",
+    "title": "Suez Crisis",
+    "description": "Britain, France and Israel invade Egypt after it nationalises the Suez Canal. US and Soviet pressure forces them to withdraw.",
+    "relatedPolityIds": [
+      "british-empire",
+      "french-colonial-empire"
+    ],
+    "source": "Wikipedia: Suez Crisis"
   },
   {
     "id": "malaya-independence",
@@ -1992,6 +2793,19 @@
     ]
   },
   {
+    "id": "ghana-independence",
+    "year": 1957,
+    "lat": 5.56,
+    "lng": -0.2,
+    "type": "person",
+    "title": "Ghana’s independence",
+    "description": "Ghana becomes one of the first sub-Saharan African colonies to win independence, under Kwame Nkrumah.",
+    "relatedPolityIds": [
+      "british-empire"
+    ],
+    "source": "Wikipedia: Ghana"
+  },
+  {
     "id": "great-chinese-famine",
     "year": 1959,
     "endYear": 1961,
@@ -2003,6 +2817,46 @@
     "relatedPolityIds": [
       "peoples-republic-of-china"
     ]
+  },
+  {
+    "id": "year-of-africa",
+    "year": 1960,
+    "lat": 4.36,
+    "lng": 18.56,
+    "type": "person",
+    "title": "The Year of Africa",
+    "description": "17 African colonies become independent in a single year: 14 from France, 2 from Britain and 1 from Belgium.",
+    "relatedPolityIds": [
+      "french-colonial-empire",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Year of Africa (checked 6 Nov 2026)"
+  },
+  {
+    "id": "gagarin",
+    "year": 1961,
+    "lat": 45.92,
+    "lng": 63.34,
+    "type": "invention",
+    "title": "First human in space",
+    "description": "Soviet cosmonaut Yuri Gagarin orbits the Earth.",
+    "relatedPolityIds": [
+      "soviet-union"
+    ],
+    "source": "Wikipedia: Vostok 1"
+  },
+  {
+    "id": "berlin-wall-built",
+    "year": 1961,
+    "lat": 52.52,
+    "lng": 13.4,
+    "type": "war",
+    "title": "Berlin Wall built",
+    "description": "East Germany builds a wall around West Berlin, a symbol of the Cold War division of Europe.",
+    "relatedPolityIds": [
+      "soviet-union"
+    ],
+    "source": "Wikipedia: Berlin Wall"
   },
   {
     "id": "algerian-independence",
@@ -2017,6 +2871,106 @@
     ]
   },
   {
+    "id": "cuban-missile-crisis",
+    "year": 1962,
+    "lat": 23.13,
+    "lng": -82.38,
+    "type": "war",
+    "title": "Cuban Missile Crisis",
+    "description": "A 13-day standoff over Soviet missiles in Cuba brings the world close to nuclear war.",
+    "relatedPolityIds": [
+      "united-states",
+      "soviet-union"
+    ],
+    "source": "Wikipedia: Cuban Missile Crisis"
+  },
+  {
+    "id": "malaysia-formed",
+    "year": 1963,
+    "lat": 3.14,
+    "lng": 101.69,
+    "type": "person",
+    "title": "Formation of Malaysia",
+    "description": "Malaya, Singapore, Sabah and Sarawak form Malaysia on 16 September 1963.",
+    "relatedPolityIds": [
+      "malaysia",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Malaysia Agreement"
+  },
+  {
+    "id": "konfrontasi",
+    "year": 1963,
+    "endYear": 1966,
+    "lat": 1.55,
+    "lng": 110.34,
+    "type": "war",
+    "title": "Konfrontasi",
+    "description": "Indonesia opposes the formation of Malaysia with an undeclared conflict, mostly on Borneo (20 January 1963 – 11 August 1966).",
+    "relatedPolityIds": [
+      "malaysia",
+      "indonesia",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Indonesia–Malaysia confrontation (checked 6 Nov 2026)"
+  },
+  {
+    "id": "singapore-separation",
+    "year": 1965,
+    "lat": 1.29,
+    "lng": 103.85,
+    "type": "person",
+    "title": "Singapore leaves Malaysia",
+    "description": "Singapore separates from Malaysia and becomes an independent country on 9 August 1965.",
+    "relatedPolityIds": [
+      "malaysia"
+    ],
+    "source": "Wikipedia: Singapore in Malaysia"
+  },
+  {
+    "id": "indonesia-1965",
+    "year": 1965,
+    "endYear": 1966,
+    "lat": -6.21,
+    "lng": 106.85,
+    "type": "war",
+    "title": "Indonesia’s 1965–66 killings",
+    "description": "After an attempted coup, an army-led anti-communist purge kills over half a million people, and Suharto rises to power.",
+    "relatedPolityIds": [
+      "indonesia"
+    ],
+    "source": "Wikipedia: History of Indonesia"
+  },
+  {
+    "id": "cultural-revolution",
+    "year": 1966,
+    "endYear": 1976,
+    "lat": 39.9,
+    "lng": 116.4,
+    "type": "culture",
+    "title": "Cultural Revolution",
+    "description": "Mao launches a mass political campaign. Persecution, violence and chaos cause hundreds of thousands to millions of deaths and great cultural destruction.",
+    "relatedPolityIds": [
+      "peoples-republic-of-china"
+    ],
+    "source": "Wikipedia: Cultural Revolution"
+  },
+  {
+    "id": "asean-founded",
+    "year": 1967,
+    "lat": 13.75,
+    "lng": 100.5,
+    "type": "trade",
+    "title": "ASEAN founded",
+    "description": "Indonesia, Malaysia, the Philippines, Singapore and Thailand sign the Bangkok Declaration creating ASEAN.",
+    "relatedPolityIds": [
+      "malaysia",
+      "indonesia",
+      "rattanakosin-siam"
+    ],
+    "source": "Wikipedia: ASEAN Declaration"
+  },
+  {
     "id": "apollo-11",
     "year": 1969,
     "lat": 28.57,
@@ -2027,6 +2981,69 @@
     "relatedPolityIds": [
       "united-states"
     ]
+  },
+  {
+    "id": "may-13-1969",
+    "year": 1969,
+    "lat": 3.14,
+    "lng": 101.69,
+    "type": "war",
+    "title": "13 May incident",
+    "description": "Sino-Malay riots in Kuala Lumpur after the general election. Official sources cited 196 deaths; other sources suggest about 600 to over 1,000. A state of emergency and the Rukun Negara followed.",
+    "relatedPolityIds": [
+      "malaysia"
+    ],
+    "source": "Wikipedia: 13 May incident (checked 6 Nov 2026)"
+  },
+  {
+    "id": "malaysia-nep",
+    "year": 1971,
+    "lat": 3.14,
+    "lng": 101.69,
+    "type": "trade",
+    "title": "New Economic Policy",
+    "description": "Malaysia launches the New Economic Policy to reduce poverty and restructure the economy along ethnic lines, a policy that remains debated.",
+    "relatedPolityIds": [
+      "malaysia"
+    ],
+    "source": "Wikipedia: Malaysian New Economic Policy"
+  },
+  {
+    "id": "oil-crisis-1973",
+    "year": 1973,
+    "lat": 24.71,
+    "lng": 46.68,
+    "type": "trade",
+    "title": "1973 oil crisis",
+    "description": "An Arab oil embargo quadruples oil prices, shaking the world economy.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: 1973 oil crisis"
+  },
+  {
+    "id": "cambodian-genocide",
+    "year": 1975,
+    "endYear": 1979,
+    "lat": 11.56,
+    "lng": 104.92,
+    "type": "war",
+    "title": "Cambodian genocide",
+    "description": "The Khmer Rouge regime kills an estimated 1.2–2.2 million Cambodians through executions, forced labour and starvation.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Cambodian genocide (checked 6 Nov 2026)"
+  },
+  {
+    "id": "east-timor",
+    "year": 1975,
+    "endYear": 1999,
+    "lat": -8.56,
+    "lng": 125.57,
+    "type": "war",
+    "title": "Indonesian occupation of East Timor",
+    "description": "Indonesia invades East Timor in 1975. After a UN-supervised vote in 1999 the territory becomes independent as Timor-Leste in 2002.",
+    "relatedPolityIds": [
+      "indonesia"
+    ],
+    "source": "Wikipedia: Indonesian occupation of East Timor"
   },
   {
     "id": "china-reform",
@@ -2053,6 +3070,20 @@
     ]
   },
   {
+    "id": "soviet-afghan-war",
+    "year": 1979,
+    "endYear": 1989,
+    "lat": 34.53,
+    "lng": 69.17,
+    "type": "war",
+    "title": "Soviet–Afghan War",
+    "description": "Soviet troops intervene in Afghanistan and fight a long war against mujahideen fighters.",
+    "relatedPolityIds": [
+      "soviet-union"
+    ],
+    "source": "Wikipedia: Soviet–Afghan War"
+  },
+  {
     "id": "chernobyl",
     "year": 1986,
     "lat": 51.39,
@@ -2075,6 +3106,32 @@
     "relatedPolityIds": []
   },
   {
+    "id": "tiananmen-1989",
+    "year": 1989,
+    "lat": 39.905,
+    "lng": 116.391,
+    "type": "person",
+    "title": "Tiananmen Square protests",
+    "description": "Mass pro-democracy protests in Beijing end on 3–4 June 1989 when troops open fire. Death toll estimates range from several hundred to the low thousands.",
+    "relatedPolityIds": [
+      "peoples-republic-of-china"
+    ],
+    "source": "Wikipedia: 1989 Tiananmen Square protests and massacre (checked 6 Nov 2026)"
+  },
+  {
+    "id": "fall-of-berlin-wall",
+    "year": 1989,
+    "lat": 52.52,
+    "lng": 13.4,
+    "type": "person",
+    "title": "Fall of the Berlin Wall",
+    "description": "East Germany opens the Berlin Wall, and communist regimes across Eastern Europe fall.",
+    "relatedPolityIds": [
+      "soviet-union"
+    ],
+    "source": "Wikipedia: Fall of the Berlin Wall"
+  },
+  {
     "id": "ussr-dissolved",
     "year": 1991,
     "lat": 55.75,
@@ -2085,6 +3142,39 @@
     "relatedPolityIds": [
       "soviet-union"
     ]
+  },
+  {
+    "id": "european-union",
+    "year": 1993,
+    "lat": 50.85,
+    "lng": 4.35,
+    "type": "trade",
+    "title": "European Union created",
+    "description": "The Maastricht Treaty creates the European Union. The euro follows in 1999.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Maastricht Treaty"
+  },
+  {
+    "id": "end-of-apartheid",
+    "year": 1994,
+    "lat": -25.75,
+    "lng": 28.19,
+    "type": "person",
+    "title": "End of apartheid",
+    "description": "Nelson Mandela becomes South Africa’s first democratically elected president after the first all-race elections.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: 1994 South African general election"
+  },
+  {
+    "id": "rwandan-genocide",
+    "year": 1994,
+    "lat": -1.94,
+    "lng": 30.06,
+    "type": "war",
+    "title": "Rwandan genocide",
+    "description": "Between April and July 1994, Hutu extremists kill an estimated 500,000–662,000 Tutsi, as well as Twa and moderate Hutu.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Rwandan genocide (checked 6 Nov 2026)"
   },
   {
     "id": "asian-financial-crisis",
@@ -2115,6 +3205,32 @@
     ]
   },
   {
+    "id": "reformasi",
+    "year": 1998,
+    "lat": -6.21,
+    "lng": 106.85,
+    "type": "person",
+    "title": "Reformasi in Indonesia",
+    "description": "The Asian financial crisis and mass protests force Suharto to resign on 21 May 1998, opening Indonesia’s transition to democracy.",
+    "relatedPolityIds": [
+      "indonesia"
+    ],
+    "source": "Wikipedia: Fall of Suharto"
+  },
+  {
+    "id": "september-11",
+    "year": 2001,
+    "lat": 40.71,
+    "lng": -74.01,
+    "type": "war",
+    "title": "September 11 attacks",
+    "description": "Al-Qaeda attacks in New York and Washington kill nearly 3,000 people, leading to the US-led wars in Afghanistan and Iraq.",
+    "relatedPolityIds": [
+      "united-states"
+    ],
+    "source": "Wikipedia: September 11 attacks"
+  },
+  {
     "id": "indian-ocean-tsunami",
     "year": 2004,
     "lat": 3.32,
@@ -2129,6 +3245,69 @@
     ]
   },
   {
+    "id": "smartphone-era",
+    "year": 2007,
+    "yearApproximate": true,
+    "lat": 37.33,
+    "lng": -122.03,
+    "type": "invention",
+    "title": "The smartphone era",
+    "description": "The launch of the iPhone (2007) and Android phones puts the internet in billions of pockets.",
+    "relatedPolityIds": [
+      "united-states"
+    ],
+    "source": "Wikipedia: Smartphone"
+  },
+  {
+    "id": "global-financial-crisis",
+    "year": 2008,
+    "lat": 40.71,
+    "lng": -74.01,
+    "type": "trade",
+    "title": "Global financial crisis",
+    "description": "The collapse of the US housing bubble and of Lehman Brothers triggers the worst global recession since the 1930s.",
+    "relatedPolityIds": [
+      "united-states"
+    ],
+    "source": "Wikipedia: 2008 financial crisis"
+  },
+  {
+    "id": "arab-spring",
+    "year": 2010,
+    "endYear": 2012,
+    "lat": 36.81,
+    "lng": 10.18,
+    "type": "person",
+    "title": "Arab Spring",
+    "description": "Protests beginning in Tunisia spread across the Arab world, toppling several governments and leading to civil wars in Syria, Libya and Yemen.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Arab Spring"
+  },
+  {
+    "id": "paris-agreement",
+    "year": 2015,
+    "lat": 48.86,
+    "lng": 2.35,
+    "type": "culture",
+    "title": "Paris climate agreement",
+    "description": "Almost every country agrees to limit global warming to well below 2°C.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Paris Agreement"
+  },
+  {
+    "id": "malaysia-2018-election",
+    "year": 2018,
+    "lat": 3.14,
+    "lng": 101.69,
+    "type": "person",
+    "title": "Malaysia’s 2018 election",
+    "description": "For the first time since independence, the ruling coalition loses a general election, after the 1MDB scandal.",
+    "relatedPolityIds": [
+      "malaysia"
+    ],
+    "source": "Wikipedia: Malaysia"
+  },
+  {
     "id": "covid-19",
     "year": 2020,
     "endYear": 2023,
@@ -2138,5 +3317,29 @@
     "title": "COVID-19 pandemic",
     "description": "A coronavirus pandemic, first identified in Wuhan in late 2019, spreads worldwide, causing millions of deaths and major economic disruption.",
     "relatedPolityIds": []
+  },
+  {
+    "id": "russia-ukraine-war",
+    "year": 2022,
+    "lat": 50.45,
+    "lng": 30.52,
+    "type": "war",
+    "title": "Russian invasion of Ukraine",
+    "description": "Russia launches a full-scale invasion of Ukraine, the largest war in Europe since 1945.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Russian invasion of Ukraine"
+  },
+  {
+    "id": "turkey-syria-earthquakes",
+    "year": 2023,
+    "lat": 37.17,
+    "lng": 37.03,
+    "type": "disaster",
+    "title": "Turkey–Syria earthquakes",
+    "description": "Major earthquakes strike southern Turkey and northern Syria, killing about 59,000–62,000 people.",
+    "relatedPolityIds": [
+      "republic-of-turkey"
+    ],
+    "source": "Wikipedia: 2023 Turkey–Syria earthquakes (checked 6 Nov 2026)"
   }
 ]

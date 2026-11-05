@@ -42,6 +42,7 @@ export function EventDetail({
       <p className="mt-3 text-[11px] text-parchment-400 tabular-nums">
         Location: {event.lat.toFixed(2)}°, {event.lng.toFixed(2)}°
       </p>
+      {event.source && <p className="mt-1 text-[11px] leading-snug text-parchment-400">Source: {event.source}</p>}
 
       {event.relatedPolityIds.length > 0 && (
         <div className="mt-5">
