@@ -6,7 +6,7 @@
   "startYear": -800,
   "endYear": -146,
   "datesApproximate": true,
-  "capital": "Many city-states (Athens, Sparta, Corinth…)",
+  "capital": "No single capital (Athens, Sparta, Corinth, Thebes…)",
   "capitalCoords": [
     23.73,
     37.98
@@ -25,268 +25,268 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": null,
+        "value": "Centred on the northeastern Mediterranean (Greece, the Aegean islands, western Anatolia), with colonies from the Black Sea to Spain.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "terrain": {
-        "value": null,
+        "value": "Mountainous terrain split the land into many small regions and valleys, each with its own dialect and identity, which encouraged independent city-states. The sea connected them.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "climate": {
-        "value": null,
+        "value": "Mediterranean: dry summers and wet winters, suited to olives, vines and grain.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Ober, The Rise and Fall of Classical Greece (2015)"
       },
       "resources": {
-        "value": null,
+        "value": "Olive oil, wine, silver (Athens’ Laurion mines, worked by slaves), marble and timber. Grain often had to be imported.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "disasters": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The plague of Athens (430–426 BCE), which killed Pericles. Earthquakes, such as the one that struck Sparta around 464 BCE.",
+        "year": -430,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       }
     },
     "population": {
       "population": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Rose about tenfold between 800 and 400 BCE, from roughly 800,000 to 7.5–10 million (one estimate).",
+        "year": -400,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "urbanisation": {
-        "value": null,
+        "value": "Hundreds of poleis (city-states). Athens was the largest classical city. Later, Hellenistic cities like Alexandria became huge.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "disease": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The plague of Athens during the Peloponnesian War (from 430 BCE) killed perhaps a quarter of the city.",
+        "year": -430,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "migration": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Colonisation (c. 750–500 BCE) founded cities such as Syracuse, Naples, Marseille and Byzantium (Istanbul).",
+        "year": -700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       }
     },
     "economy": {
       "economicBase": {
-        "value": null,
+        "value": "Farming (olives, vines, grain), crafts, silver mining and sea trade. Living standards in classical Athens were high for the ancient world.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": null,
+        "value": "Mediterranean and Black Sea trade linking city-states and colonies. Grain imports from the Black Sea and Egypt.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "wealth": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Urban wages in 5th–4th century Athens were high (7–12 kg of wheat a day for unskilled workers), suggesting strong economic growth.",
+        "year": -400,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026); Ober, The Rise and Fall of Classical Greece (2015)"
       },
       "moneyAndTax": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Coinage was adopted in the Archaic period (silver Athenian “owls”). Athens taxed its empire’s allies (Delian League tribute) and wealthy citizens (liturgies).",
+        "year": -500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "inequality": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Free citizens, resident foreigners (metics), and large numbers of slaves. Between 40% and 80% of classical Athens’ population may have been enslaved, depending on the estimate.",
+        "year": -430,
+        "certainty": "disputed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       }
     },
     "politics": {
       "governmentType": {
-        "value": null,
+        "value": "Hundreds of independent city-states with varied systems: democracy (Athens), mixed oligarchy with two kings (Sparta), tyrannies and monarchies. Unified only once, 338–323 BCE, under Macedon.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "keyRulers": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Solon (reforms, 594 BCE). Cleisthenes (democracy, c. 508 BCE). Pericles (Athens’ golden age, d. 429 BCE). Philip II of Macedon. Alexander the Great (336–323 BCE).",
+        "year": -508,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "succession": {
-        "value": null,
+        "value": "Varied by city: elected and lot-chosen officials in Athens, hereditary dual kingship in Sparta, dynasties in Macedon and the Hellenistic kingdoms.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "institutions": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Athenian democracy (the assembly, the council, courts with citizen juries) was the world’s first democracy, open only to adult male citizens. Draco’s law code (621 BCE). The Olympic Games.",
+        "year": -508,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "stability": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Frequent wars between cities, civil strife (stasis) and short-lived regimes such as the Thirty Tyrants in Athens (404–403 BCE).",
+        "year": -404,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "eliteConflict": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Rivalry between rich and poor and between democratic and oligarchic factions, especially during the Peloponnesian War.",
+        "year": -431,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       }
     },
     "military": {
       "armyAndTech": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Heavy infantry citizen-soldiers (hoplites) in phalanxes, and trireme warships (Athens had over 200). Macedon added the long-spear phalanx and cavalry.",
+        "year": -480,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "majorWars": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The Greco-Persian Wars (Marathon 490, Salamis 480, Plataea 479 BCE). The Peloponnesian War (431–404 BCE) between Athens and Sparta. Philip II’s victory at Chaeronea (338 BCE). Alexander’s conquests (334–323 BCE).",
+        "year": -431,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "territoryChange": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Greek culture spread across the Mediterranean by colonisation, then across the Middle East to India with Alexander. Absorbed by Rome (Corinth destroyed 146 BCE, Ptolemaic Egypt annexed 30 BCE).",
+        "year": -146,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "alliancesRivals": {
-        "value": null,
+        "value": "The Delian League (led by Athens) against the Peloponnesian League (led by Sparta). Persia as common enemy and later paymaster. Macedon and then Rome.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       }
     },
     "technology": {
       "inventions": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The Greek alphabet (adapted from Phoenician), theatre, geometry and scientific astronomy (Aristarchus’ Sun-centred model, Eratosthenes measuring the Earth), and Hellenistic engineering.",
+        "year": -250,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "scienceEducation": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Philosophy (Socrates, Plato’s Academy, Aristotle’s Lyceum), medicine (Hippocrates), history (Herodotus, Thucydides). Schooling was mostly private, for boys from age seven.",
+        "year": -387,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "openness": {
-        "value": null,
+        "value": "Borrowed from Egypt and the Near East (the alphabet, mathematics, art styles) and spread its own culture widely through colonies and conquest.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       }
     },
     "culture": {
       "religion": {
-        "value": null,
+        "value": "Polytheistic, with the Twelve Olympian gods, animal sacrifice, oracles (Delphi) and festivals.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "languageWriting": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Ancient Greek in several dialects, written in the Greek alphabet. Homer’s epics were first passed down orally.",
+        "year": -750,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "artsArchitecture": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The Parthenon (447–432 BCE), classical sculpture, tragedy and comedy (Sophocles, Aristophanes), lyric poetry, and Homer’s Iliad and Odyssey.",
+        "year": -447,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "socialStructure": {
-        "value": null,
+        "value": "Citizens (male), women (excluded from politics), metics, and slaves. Sparta relied on an enslaved population, the helots, who were freed in Messenia in 370/369 BCE.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "sharedIdentity": {
-        "value": null,
+        "value": "Despite political division, Greeks (Hellenes) shared a language, religion, the Olympic Games and the idea of being distinct from “barbarians”.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       }
     },
     "connections": {
       "neighbours": {
-        "value": null,
+        "value": "Persia, Phoenicians and Carthage, Egypt, Thracians, Scythians, Etruscans and Rome.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "ideasReligions": {
-        "value": null,
+        "value": "Often called the “cradle of Western civilisation”. Its philosophy, science, art and political ideas shaped Rome, Byzantium, the Islamic world and Europe.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "colonisation": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "As colonisers, Greeks founded independent colonies around the Mediterranean and Black Sea (c. 750–500 BCE). Later Greece was itself conquered by Macedon and Rome.",
+        "year": -700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "After the Dark Ages (c. 1100–750 BCE), city-states formed in the 8th century BCE. Population grew, colonies spread, trade revived, and the alphabet was adopted.",
+        "year": -750,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "peakPeriod": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The Classical period (c. 500–323 BCE), especially the Golden Age of Athens in the mid-5th century BCE.",
+        "year": -450,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "declineSignals": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The ruinous Peloponnesian War, constant inter-city wars, and the rise of Macedon.",
+        "year": -404,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "outcome": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Conquest and transformation. Macedon dominated from 338 BCE, Rome conquered Greece (146 BCE) and the last Hellenistic kingdom (30 BCE). Greek culture lived on in Rome and the Byzantine Empire.",
+        "year": -146,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       }
     },
     "dataQuality": {
       "sources": {
-        "value": null,
+        "value": "Greek historians (Herodotus, Thucydides, Xenophon), inscriptions, archaeology and literature. Most sources are Athenian, so Athens is best documented. Checked against Wikipedia on 5 Nov 2026. See also Ober (2015).",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       },
       "overallCertainty": {
-        "value": null,
+        "value": "Good for major events. Period boundaries vary by source (e.g. the Dark Ages c. 1100–750 BCE; the Hellenistic end in 31 or 30 BCE). Population and slavery shares are estimates.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "disputed",
+        "source": "Wikipedia: Ancient Greece (checked 5 Nov 2026)"
       }
     }
   }
