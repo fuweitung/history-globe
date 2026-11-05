@@ -1,0 +1,309 @@
+{
+  "id": "kingdom-of-benin",
+  "name": "Kingdom of Benin",
+  "era": "medieval",
+  "region": "West Africa",
+  "startYear": 1180,
+  "endYear": 1897,
+  "datesApproximate": true,
+  "capital": "Edo (Benin City)",
+  "capitalCoords": [
+    5.62,
+    6.34
+  ],
+  "summary": "A West African kingdom ruled by the Oba from Edo (Benin City). It is famed for cast bronze and carved ivory art; many “Benin Bronzes” were looted by Britain in 1897.",
+  "borderNames": [
+    "Benin"
+  ],
+  "borderYears": [
+    1180,
+    1897
+  ],
+  "color": "#9a4a3a",
+  "knownFor": [
+    {
+      "label": "Benin Bronzes",
+      "kind": "art",
+      "year": 1500,
+      "note": "Thousands of cast brass plaques and heads; many were looted by Britain in 1897."
+    },
+    {
+      "label": "Carved ivory",
+      "kind": "art",
+      "note": "Ivory tusks and masks, including the famous Queen Idia mask."
+    },
+    {
+      "label": "Walls of Benin",
+      "kind": "monument",
+      "note": "Huge earthen walls and moats around Benin City."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Southern Nigeria, centred on Edo (Benin City).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Benin (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Rainforest in southern Nigeria.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      },
+      "resources": {
+        "value": "Palm oil, ivory, pepper, cloth.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      },
+      "disasters": {
+        "value": "No specific disasters are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      },
+      "urbanisation": {
+        "value": "Benin City had huge earthen walls.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      },
+      "disease": {
+        "value": "No specific epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      },
+      "migration": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming (yams), crafts and trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      },
+      "tradeRoutes": {
+        "value": "Trade with Portugal from the late 15th century.",
+        "year": 1485,
+        "certainty": "estimated",
+        "source": "Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      },
+      "moneyAndTax": {
+        "value": "Cowrie shells.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Benin (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "Wealth was concentrated in the Oba’s palace and among chiefs.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy (Oba).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Benin (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Eweka I (first), Ewuare the Great (c. 1440), Ovonramwen (1888–1897).",
+        "year": 1440,
+        "certainty": "estimated",
+        "source": "Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      },
+      "succession": {
+        "value": "Hereditary (primogeniture).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      },
+      "institutions": {
+        "value": "Guilds of craftsmen (bronze casters, ivory carvers) served the palace.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      },
+      "stability": {
+        "value": "A long-lived monarchy for more than 700 years.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Large armies; firearms acquired from Europeans.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      },
+      "majorWars": {
+        "value": "Conquered by Britain in 1897.",
+        "year": 1897,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Benin (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "Expanded under Ewuare and his successors; annexed by Britain in 1897.",
+        "year": 1897,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Benin (checked 6 Nov 2026); Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      },
+      "alliancesRivals": {
+        "value": "Traded with Portugal; later in conflict with Britain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Lost-wax bronze casting.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      },
+      "scienceEducation": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      },
+      "openness": {
+        "value": "Traded with Europeans from the late 15th century.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Edo religion; Catholic Christianity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Benin (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Edo.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Benin (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "Cast bronze, iron, brass, carved ivory.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Benin (checked 6 Nov 2026)"
+      },
+      "socialStructure": {
+        "value": "The Oba, palace chiefs, town chiefs, guild craftsmen and farmers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      },
+      "sharedIdentity": {
+        "value": "The Oba was seen as sacred.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Yoruba states, Portugal, Britain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      },
+      "ideasReligions": {
+        "value": "Portuguese missionaries introduced Christianity.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      },
+      "colonisation": {
+        "value": "Annexed by Britain after the 1897 punitive expedition.",
+        "year": 1897,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Benin (checked 6 Nov 2026); Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "The Oba monarchy began around 1180.",
+        "year": 1180,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Benin (checked 6 Nov 2026); Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      },
+      "peakPeriod": {
+        "value": "The 15th–16th centuries.",
+        "year": 1500,
+        "certainty": "estimated",
+        "source": "Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      },
+      "declineSignals": {
+        "value": "British expansion and the 1897 expedition.",
+        "year": 1897,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Benin (checked 6 Nov 2026); Plankensteiner (ed.), Benin Kings and Rituals (2007)"
+      },
+      "outcome": {
+        "value": "Annexed by Britain; the Oba still exists as a non-sovereign monarch in Nigeria.",
+        "year": 1897,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Benin (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Oral traditions and European accounts. Checked against Wikipedia (“Kingdom of Benin”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Benin (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Medium. Early dates are uncertain.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Kingdom of Benin (checked 6 Nov 2026)"
+      }
+    }
+  }
+}

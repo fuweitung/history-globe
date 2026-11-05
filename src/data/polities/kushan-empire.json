@@ -1,0 +1,310 @@
+{
+  "id": "kushan-empire",
+  "name": "Kushan Empire",
+  "era": "ancient",
+  "region": "Central & South Asia",
+  "startYear": 30,
+  "endYear": 375,
+  "datesApproximate": true,
+  "capital": "Purushapura (Peshawar); Mathura",
+  "capitalCoords": [
+    71.58,
+    34.01
+  ],
+  "summary": "A Central Asian empire on the Silk Road that helped spread Buddhism into China. It created Gandhara art, which mixed Greek and Indian styles.",
+  "borderNames": [
+    "Kushan Empire"
+  ],
+  "borderYears": [
+    -100,
+    375
+  ],
+  "color": "#b08a3f",
+  "knownFor": [
+    {
+      "label": "Gandhara Buddha statues",
+      "kind": "art",
+      "year": 150,
+      "note": "Some of the first human images of the Buddha, mixing Greek and Indian styles."
+    },
+    {
+      "label": "Kanishka",
+      "kind": "person",
+      "year": 127,
+      "note": "A great patron of Buddhism."
+    },
+    {
+      "label": "Kushan gold coins",
+      "kind": "tool",
+      "note": "Gold coins showing Greek, Iranian, Indian and Buddhist gods."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Afghanistan, Pakistan and northern India.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kushan Empire (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Mountains, river valleys of the Indus and Ganges.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Liu, The Silk Road in World History (2010)"
+      },
+      "climate": {
+        "value": "Varied: dry mountain valleys in Bactria, monsoon plains in northern India.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Liu, The Silk Road in World History (2010)"
+      },
+      "resources": {
+        "value": "Farmland and Silk Road trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Liu, The Silk Road in World History (2010)"
+      },
+      "disasters": {
+        "value": "No specific disasters are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Liu, The Silk Road in World History (2010)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Liu, The Silk Road in World History (2010)"
+      },
+      "urbanisation": {
+        "value": "Capitals at Purushapura (Peshawar) and Mathura.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kushan Empire (checked 6 Nov 2026)"
+      },
+      "disease": {
+        "value": "No specific epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Liu, The Silk Road in World History (2010)"
+      },
+      "migration": {
+        "value": "Descended from the Yuezhi, who migrated from the Chinese frontier.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kushan Empire (checked 6 Nov 2026)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Trade between the Roman Empire and China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kushan Empire (checked 6 Nov 2026)"
+      },
+      "tradeRoutes": {
+        "value": "The Silk Road and sea routes to Rome.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kushan Empire (checked 6 Nov 2026)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Liu, The Silk Road in World History (2010)"
+      },
+      "moneyAndTax": {
+        "value": "Gold coins (the Kushan dinara).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kushan Empire (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "A ruling Kushan elite above merchants, farmers and local rulers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Liu, The Silk Road in World History (2010)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kushan Empire (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Kujula Kadphises, Kanishka I (c. 127–151), Huvishka, Vasudeva I.",
+        "year": 127,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kushan Empire (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Hereditary.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Liu, The Silk Road in World History (2010)"
+      },
+      "institutions": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Liu, The Silk Road in World History (2010)"
+      },
+      "stability": {
+        "value": "About 200 years of relative peace, sometimes called the “Pax Kushana”.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kushan Empire (checked 6 Nov 2026)"
+      },
+      "eliteConflict": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Liu, The Silk Road in World History (2010)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Cavalry, including armoured horsemen.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Liu, The Silk Road in World History (2010)"
+      },
+      "majorWars": {
+        "value": "Wars with the Han general Ban Chao (around 90 CE).",
+        "year": 90,
+        "certainty": "estimated",
+        "source": "Liu, The Silk Road in World History (2010)"
+      },
+      "territoryChange": {
+        "value": "About 2.0–2.5 million km² around 200 CE.",
+        "year": 200,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kushan Empire (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: the Sasanians, the Guptas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kushan Empire (checked 6 Nov 2026)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Liu, The Silk Road in World History (2010)"
+      },
+      "scienceEducation": {
+        "value": "Philosophy, art and science flourished.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kushan Empire (checked 6 Nov 2026)"
+      },
+      "openness": {
+        "value": "Used Greek, then Bactrian; patronised several religions.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kushan Empire (checked 6 Nov 2026)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Buddhism (Mahayana), Hinduism, Zoroastrianism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kushan Empire (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Greek until about 127, then Bactrian; also Gandhari.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kushan Empire (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "The Gandhara school of Buddhist art.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kushan Empire (checked 6 Nov 2026)"
+      },
+      "socialStructure": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Liu, The Silk Road in World History (2010)"
+      },
+      "sharedIdentity": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Liu, The Silk Road in World History (2010)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Rome (trade), Han China, Parthia, the Sasanians.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kushan Empire (checked 6 Nov 2026)"
+      },
+      "ideasReligions": {
+        "value": "Buddhism spread to Central Asia and China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kushan Empire (checked 6 Nov 2026)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Liu, The Silk Road in World History (2010)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Kujula Kadphises united the Yuezhi tribes.",
+        "year": 30,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kushan Empire (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "Under Kanishka I (c. 127–151), who ruled from Central Asia to the Ganges plain.",
+        "year": 150,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kushan Empire (checked 6 Nov 2026); Liu, The Silk Road in World History (2010)"
+      },
+      "declineSignals": {
+        "value": "Fragmented in the 3rd century and lost lands to the Sasanians.",
+        "year": 230,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kushan Empire (checked 6 Nov 2026)"
+      },
+      "outcome": {
+        "value": "Fell to the Sasanians, Guptas and Kidarites. End date 350 or 375.",
+        "year": 375,
+        "certainty": "disputed",
+        "source": "Wikipedia: Kushan Empire (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Coins, inscriptions, Chinese sources. Checked against Wikipedia (“Kushan Empire”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kushan Empire (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Low to medium. Dates of kings are disputed.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Kushan Empire (checked 6 Nov 2026)"
+      }
+    }
+  }
+}

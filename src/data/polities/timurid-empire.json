@@ -1,0 +1,311 @@
+{
+  "id": "timurid-empire",
+  "name": "Timurid Empire",
+  "era": "medieval",
+  "region": "Central Asia & Iran",
+  "startYear": 1370,
+  "endYear": 1507,
+  "capital": "Samarkand; Herat",
+  "capitalCoords": [
+    66.97,
+    39.65
+  ],
+  "summary": "Timur’s Turco-Mongol empire, built by ruthless conquest, which later sponsored the Timurid Renaissance of art and science in Samarkand and Herat.",
+  "borderNames": [
+    "Timurid Empire",
+    "Timurid Emirates"
+  ],
+  "borderYears": [
+    1370,
+    1507
+  ],
+  "color": "#3f7ab0",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Central Asia and Iran, with capitals at Samarkand and Herat.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Timurid Empire (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Steppe, deserts and river oases (Amu Darya, Syr Darya).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Manz, The Rise and Rule of Tamerlane (1989)"
+      },
+      "climate": {
+        "value": "Dry continental.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Manz, The Rise and Rule of Tamerlane (1989)"
+      },
+      "resources": {
+        "value": "Irrigated oases and trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Manz, The Rise and Rule of Tamerlane (1989)"
+      },
+      "disasters": {
+        "value": "No specific disasters are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Manz, The Rise and Rule of Tamerlane (1989)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 49 million (1405 estimate).",
+        "year": 1405,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Timurid Empire (checked 6 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "Samarkand rebuilt with craftsmen taken from conquered cities.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Manz, The Rise and Rule of Tamerlane (1989)"
+      },
+      "disease": {
+        "value": "No specific epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Manz, The Rise and Rule of Tamerlane (1989)"
+      },
+      "migration": {
+        "value": "Forced movement of artisans to Samarkand.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Manz, The Rise and Rule of Tamerlane (1989)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming in oases, trade and plunder from conquest.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Manz, The Rise and Rule of Tamerlane (1989)"
+      },
+      "tradeRoutes": {
+        "value": "The Silk Road through Samarkand and Herat.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Manz, The Rise and Rule of Tamerlane (1989)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Manz, The Rise and Rule of Tamerlane (1989)"
+      },
+      "moneyAndTax": {
+        "value": "The tanka coin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Timurid Empire (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "A Turco-Mongol military elite.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Manz, The Rise and Rule of Tamerlane (1989)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Absolute monarchy (emir).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Timurid Empire (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Timur (1370–1405), Shahrukh (1405–1447), Ulugh Beg, Husayn Bayqara.",
+        "year": 1370,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Timurid Empire (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Disputed among Timur’s sons and grandsons.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Manz, The Rise and Rule of Tamerlane (1989)"
+      },
+      "institutions": {
+        "value": "A Persian bureaucracy under Turco-Mongol rulers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Manz, The Rise and Rule of Tamerlane (1989)"
+      },
+      "stability": {
+        "value": "Civil war after Timur’s death (1405).",
+        "year": 1405,
+        "certainty": "estimated",
+        "source": "Manz, The Rise and Rule of Tamerlane (1989)"
+      },
+      "eliteConflict": {
+        "value": "Rival Timurid princes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Manz, The Rise and Rule of Tamerlane (1989)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Steppe cavalry; siege engineers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Manz, The Rise and Rule of Tamerlane (1989)"
+      },
+      "majorWars": {
+        "value": "Sack of Delhi (1398); Battle of Ankara (1402).",
+        "year": 1402,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Timurid Empire (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "About 4.4 million km² in 1405.",
+        "year": 1405,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Timurid Empire (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: Ottomans, Golden Horde, Mamluks.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Manz, The Rise and Rule of Tamerlane (1989)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Ulugh Beg’s observatory in Samarkand (1420s) measured the length of the year very accurately.",
+        "year": 1420,
+        "certainty": "estimated",
+        "source": "Manz, The Rise and Rule of Tamerlane (1989)"
+      },
+      "scienceEducation": {
+        "value": "Timurid Renaissance; Ulugh Beg.",
+        "year": 1420,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Timurid Empire (checked 6 Nov 2026)"
+      },
+      "openness": {
+        "value": "Patronised Persian culture and scholars.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Manz, The Rise and Rule of Tamerlane (1989)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sunni Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Timurid Empire (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Persian, Chagatai Turkic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Timurid Empire (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "Gur-e-Amir; Bibi-Khanym Mosque; miniature painting by Behzad.",
+        "year": 1404,
+        "certainty": "estimated",
+        "source": "Manz, The Rise and Rule of Tamerlane (1989)"
+      },
+      "socialStructure": {
+        "value": "Turkic soldiers, Persian scribes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Manz, The Rise and Rule of Tamerlane (1989)"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to Timur’s dynasty.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Manz, The Rise and Rule of Tamerlane (1989)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Ottomans, Golden Horde, Ming China.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Manz, The Rise and Rule of Tamerlane (1989)"
+      },
+      "ideasReligions": {
+        "value": "Persianate culture spread to India via the Mughals.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Manz, The Rise and Rule of Tamerlane (1989)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Manz, The Rise and Rule of Tamerlane (1989)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Timur took power in Transoxiana in 1370.",
+        "year": 1370,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Timurid Empire (checked 6 Nov 2026); Manz, The Rise and Rule of Tamerlane (1989)"
+      },
+      "peakPeriod": {
+        "value": "At Timur’s death (1405); its cultural peak followed under Shahrukh and Ulugh Beg.",
+        "year": 1405,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Timurid Empire (checked 6 Nov 2026); Manz, The Rise and Rule of Tamerlane (1989)"
+      },
+      "declineSignals": {
+        "value": "Divisions among princes and the rise of the Uzbeks.",
+        "year": 1449,
+        "certainty": "estimated",
+        "source": "Manz, The Rise and Rule of Tamerlane (1989)"
+      },
+      "outcome": {
+        "value": "Uzbeks took Herat in 1507; Babur founded the Mughal Empire.",
+        "year": 1507,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Timurid Empire (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Persian chronicles. Checked against Wikipedia (“Timurid Empire”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Timurid Empire (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Good.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Timurid Empire (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Registan & Gur-e-Amir",
+      "kind": "monument",
+      "year": 1404,
+      "note": "Turquoise-domed buildings in Samarkand."
+    },
+    {
+      "label": "Ulugh Beg Observatory",
+      "kind": "tool",
+      "year": 1420,
+      "note": "A giant sextant measured the year."
+    },
+    {
+      "label": "Persian miniatures",
+      "kind": "art",
+      "year": 1480,
+      "note": "Behzad of Herat."
+    }
+  ]
+}

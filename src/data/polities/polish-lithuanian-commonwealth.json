@@ -1,0 +1,317 @@
+{
+  "id": "polish-lithuanian-commonwealth",
+  "name": "Polish–Lithuanian Commonwealth",
+  "era": "early_modern",
+  "region": "Central & Eastern Europe",
+  "startYear": 1569,
+  "endYear": 1795,
+  "capital": "Kraków; Warsaw (from 1596)",
+  "capitalCoords": [
+    21.01,
+    52.23
+  ],
+  "summary": "One of Europe’s largest states, a union with an elected king and a powerful nobility (the “Golden Liberty”). It had famous religious tolerance and the 1791 Constitution, before being partitioned away by 1795.",
+  "borderNames": [
+    "Poland-Lithuania",
+    "Polish–Lithuanian Commonwealth",
+    "Polish-Lithuanian Commonwealth"
+  ],
+  "borderYears": [
+    1569,
+    1795
+  ],
+  "color": "#b03f4a",
+  "knownFor": [
+    {
+      "label": "Winged hussars",
+      "kind": "troops",
+      "year": 1683,
+      "note": "Heavy cavalry with feathered wings, famous at the Battle of Vienna."
+    },
+    {
+      "label": "Constitution of 3 May 1791",
+      "kind": "idea",
+      "year": 1791,
+      "note": "Often called the first modern codified constitution in Europe."
+    },
+    {
+      "label": "Warsaw Confederation",
+      "kind": "idea",
+      "year": 1573,
+      "note": "Guaranteed religious tolerance for the nobility."
+    },
+    {
+      "label": "Kontusz robe and sash",
+      "kind": "textile",
+      "note": "Nobles’ traditional long robe worn with a decorated silk sash."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Poland, Lithuania, Belarus, Ukraine and Latvia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Polish–Lithuanian Commonwealth (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "The great European plain, rivers (Vistula, Dnieper), forests.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, God’s Playground (2005)"
+      },
+      "climate": {
+        "value": "Continental.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, God’s Playground (2005)"
+      },
+      "resources": {
+        "value": "Grain exported via Gdańsk, timber.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, God’s Playground (2005)"
+      },
+      "disasters": {
+        "value": "“The Deluge” wars (1655–1660) devastated the country.",
+        "year": 1655,
+        "certainty": "estimated",
+        "source": "Davies, God’s Playground (2005)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 8 million (1582 and 1700, infobox); about 12 million in 1618 (lead).",
+        "year": 1618,
+        "certainty": "disputed",
+        "source": "Wikipedia: Polish–Lithuanian Commonwealth (checked 6 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "Gdańsk, Kraków, Warsaw, Vilnius.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, God’s Playground (2005)"
+      },
+      "disease": {
+        "value": "Plague (1708–1712) during the Great Northern War.",
+        "year": 1708,
+        "certainty": "estimated",
+        "source": "Davies, God’s Playground (2005)"
+      },
+      "migration": {
+        "value": "Large Jewish community; German settlers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, God’s Playground (2005)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Grain-exporting agriculture.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, God’s Playground (2005)"
+      },
+      "tradeRoutes": {
+        "value": "Baltic grain trade through Gdańsk.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, God’s Playground (2005)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, God’s Playground (2005)"
+      },
+      "moneyAndTax": {
+        "value": "The złoty; nobles were largely exempt from taxes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, God’s Playground (2005)"
+      },
+      "inequality": {
+        "value": "Nobles (about 10% of people) held rights; serfs did not.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Polish–Lithuanian Commonwealth (checked 6 Nov 2026)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A nobles’ democracy with an elected king.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Polish–Lithuanian Commonwealth (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Sigismund II Augustus (first), Stefan Batory, John III Sobieski, Stanisław II August (last).",
+        "year": 1683,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Polish–Lithuanian Commonwealth (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Elected kings, bound by the Henrician Articles.",
+        "year": 1573,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Polish–Lithuanian Commonwealth (checked 6 Nov 2026)"
+      },
+      "institutions": {
+        "value": "The Sejm; the Warsaw Confederation (1573) on religious tolerance.",
+        "year": 1573,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Polish–Lithuanian Commonwealth (checked 6 Nov 2026)"
+      },
+      "stability": {
+        "value": "The liberum veto let any single deputy block the Sejm.",
+        "year": 1652,
+        "certainty": "estimated",
+        "source": "Davies, God’s Playground (2005)"
+      },
+      "eliteConflict": {
+        "value": "Powerful magnate families and foreign bribery of the Sejm.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, God’s Playground (2005)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Winged hussars, a famous heavy cavalry (e.g. Kircholm 1605, Vienna 1683).",
+        "year": 1605,
+        "certainty": "estimated",
+        "source": "Davies, God’s Playground (2005)"
+      },
+      "majorWars": {
+        "value": "Deluge, Battle of Vienna (1683), Great Northern War.",
+        "year": 1683,
+        "certainty": "estimated",
+        "source": "Davies, God’s Playground (2005)"
+      },
+      "territoryChange": {
+        "value": "About 1,000,000 km² in 1618.",
+        "year": 1618,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Polish–Lithuanian Commonwealth (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: Russia, Sweden, Ottomans, Prussia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Polish–Lithuanian Commonwealth (checked 6 Nov 2026)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, God’s Playground (2005)"
+      },
+      "scienceEducation": {
+        "value": "Copernicus (Kraków-educated); Commission of National Education (1773).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, God’s Playground (2005)"
+      },
+      "openness": {
+        "value": "Religious tolerance protected by the Warsaw Confederation (1573).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Polish–Lithuanian Commonwealth (checked 6 Nov 2026); Davies, God’s Playground (2005)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Catholic, Orthodox, Protestant, Jewish, Muslim.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Polish–Lithuanian Commonwealth (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Polish and Latin; Ruthenian, Lithuanian, German.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Polish–Lithuanian Commonwealth (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "Baroque churches and palaces (Wilanów).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, God’s Playground (2005)"
+      },
+      "socialStructure": {
+        "value": "Nobles, burghers, peasants, Jews.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Polish–Lithuanian Commonwealth (checked 6 Nov 2026)"
+      },
+      "sharedIdentity": {
+        "value": "“Sarmatism”, the nobles’ belief in their ancient, free heritage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, God’s Playground (2005)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Russia, Sweden, Ottomans, Prussia, Austria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Polish–Lithuanian Commonwealth (checked 6 Nov 2026)"
+      },
+      "ideasReligions": {
+        "value": "Enlightenment reforms in the late 18th century.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, God’s Playground (2005)"
+      },
+      "colonisation": {
+        "value": "Partitioned by Austria, Prussia and Russia.",
+        "year": 1795,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Polish–Lithuanian Commonwealth (checked 6 Nov 2026)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "The Union of Lublin (1569) joined Poland and Lithuania.",
+        "year": 1569,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Polish–Lithuanian Commonwealth (checked 6 Nov 2026); Davies, God’s Playground (2005)"
+      },
+      "peakPeriod": {
+        "value": "Around 1618, its largest extent.",
+        "year": 1618,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Polish–Lithuanian Commonwealth (checked 6 Nov 2026); Davies, God’s Playground (2005)"
+      },
+      "declineSignals": {
+        "value": "The liberum veto paralysed government; costly wars (the Deluge); foreign interference.",
+        "year": 1652,
+        "certainty": "estimated",
+        "source": "Davies, God’s Playground (2005)"
+      },
+      "outcome": {
+        "value": "Partitioned by Russia, Prussia and Austria in 1772, 1793 and 1795.",
+        "year": 1795,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Polish–Lithuanian Commonwealth (checked 6 Nov 2026); Davies, God’s Playground (2005)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Records. Checked against Wikipedia (“Polish–Lithuanian Commonwealth”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Polish–Lithuanian Commonwealth (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Good.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Polish–Lithuanian Commonwealth (checked 6 Nov 2026)"
+      }
+    }
+  }
+}

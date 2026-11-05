@@ -1,6 +1,7 @@
+import { useState } from 'react';
 import { CHECKLIST_SCHEMA, isFilled, overallCompletion } from '../lib/checklistSchema';
 import { ERA_LABEL, EVENT_TYPES, POLITY_BY_ID, eventsForPolity, formatSpan, formatYear, isActive, linksForPolity } from '../lib/data';
-import type { LinkRelation, Polity } from '../types';
+import type { KnownForKind, LinkRelation, Polity } from '../types';
 import ChecklistCategory, { CertaintyBadge } from './ChecklistCategory';
 
 interface Props {
@@ -12,6 +13,64 @@ interface Props {
   onOpenEvent: (id: string) => void;
 }
 
+
+const KIND_META: Record<KnownForKind, { icon: string; label: string }> = {
+  textile: { icon: '🧵', label: 'Cloth & dress' },
+  troops: { icon: '🛡️', label: 'Troops' },
+  weapon: { icon: '⚔️', label: 'Weapons' },
+  tool: { icon: '🛠️', label: 'Tools & inventions' },
+  monument: { icon: '🏛️', label: 'Monuments' },
+  art: { icon: '🎨', label: 'Art & crafts' },
+  idea: { icon: '📜', label: 'Ideas, laws & writing' },
+  food: { icon: '🌾', label: 'Food & crops' },
+  person: { icon: '👤', label: 'People' },
+};
+
+function KnownFor({ polity, onJumpToYear }: { polity: Polity; onJumpToYear: (y: number) => void }) {
+  const [open, setOpen] = useState<number | null>(null);
+  const items = polity.knownFor ?? [];
+  const sel = open !== null ? items[open] : undefined;
+  return (
+    <section className="mx-5 mb-4" aria-labelledby="knownfor-h">
+      <h3 id="knownfor-h" className="text-[11px] font-semibold tracking-wider text-parchment-300 uppercase">
+        Known for <span className="font-normal normal-case tracking-normal text-parchment-400">· signature cloth, troops, tools &amp; more</span>
+      </h3>
+      <ul className="mt-2 flex flex-wrap gap-1.5">
+        {items.map((k, i) => {
+          const meta = KIND_META[k.kind];
+          const on = open === i;
+          return (
+            <li key={`${polity.id}-${i}`}>
+              <button
+                type="button"
+                aria-expanded={on}
+                onClick={() => setOpen(on ? null : i)}
+                className={`inline-flex items-center gap-1 rounded-full px-2.5 py-1 text-xs ring-1 transition-colors ${
+                  on ? 'bg-gold-400/20 text-parchment-50 ring-gold-400/50' : 'bg-white/[0.06] text-parchment-100 ring-white/10 hover:bg-white/10'
+                }`}
+              >
+                <span aria-hidden="true">{meta.icon}</span>
+                <span className="sr-only">{meta.label}: </span>
+                {k.label}
+              </button>
+            </li>
+          );
+        })}
+      </ul>
+      {sel && (
+        <div className="mt-2 rounded-xl bg-white/[0.04] px-3 py-2 text-xs text-parchment-200 ring-1 ring-white/10">
+          <span className="font-semibold text-parchment-50">{KIND_META[sel.kind].label}</span>
+          {sel.note && <> · {sel.note}</>}
+          {sel.year !== undefined && (
+            <button type="button" onClick={() => onJumpToYear(sel.year as number)} className="ml-1.5 font-semibold text-gold-300 underline-offset-2 hover:underline">
+              Go to {formatYear(sel.year, true)} →
+            </button>
+          )}
+        </div>
+      )}
+    </section>
+  );
+}
 
 const RELATION_TEXT: Record<LinkRelation, [string, string]> = {
   // [from → to wording, to ← from wording]
@@ -72,6 +131,9 @@ export default function PolityDetail({ polity, year, onJumpToYear, onFlyTo, onOp
           {polity.endYear !== null && <ActionButton onClick={() => onJumpToYear(polity.endYear as number)}>⏭ End · {formatYear(polity.endYear)}</ActionButton>}
         </div>
       </header>
+
+      {/* ── Known for ── */}
+      {polity.knownFor && polity.knownFor.length > 0 && <KnownFor polity={polity} onJumpToYear={onJumpToYear} />}
 
       {/* ── Rise & fall at a glance ── */}
       {(isFilled(rf.riseSignals) || isFilled(rf.declineSignals)) && (

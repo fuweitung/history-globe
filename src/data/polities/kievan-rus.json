@@ -1,0 +1,317 @@
+{
+  "id": "kievan-rus",
+  "name": "Kievan Rus'",
+  "era": "medieval",
+  "region": "Eastern Europe",
+  "startYear": 880,
+  "endYear": 1240,
+  "datesApproximate": true,
+  "capital": "Kiev (Kyiv)",
+  "capitalCoords": [
+    30.52,
+    50.45
+  ],
+  "summary": "A medieval East Slavic state ruled from Kiev by the Rurik dynasty. It adopted Orthodox Christianity around 988 and is a shared ancestor of Ukraine, Belarus and Russia.",
+  "borderNames": [
+    "Kyivan Rus",
+    "Kievan Rus"
+  ],
+  "borderYears": [
+    880,
+    1240
+  ],
+  "color": "#5a8ab0",
+  "knownFor": [
+    {
+      "label": "Russkaya Pravda",
+      "kind": "idea",
+      "year": 1054,
+      "note": "The first written law code of Rus’."
+    },
+    {
+      "label": "St Sophia’s Cathedral",
+      "kind": "monument",
+      "year": 1037,
+      "note": "A cathedral in Kiev with Byzantine-style mosaics."
+    },
+    {
+      "label": "Route from the Varangians to the Greeks",
+      "kind": "tool",
+      "note": "A river trade route linking the Baltic and Constantinople."
+    },
+    {
+      "label": "Baptism of Rus’",
+      "kind": "idea",
+      "year": 988,
+      "note": "Vladimir adopted Orthodox Christianity."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Eastern Europe, from the Baltic to the Black Sea steppe, ruled from Kiev.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Forests and steppe, linked by rivers (Dnieper, Volkhov, Volga).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
+      },
+      "climate": {
+        "value": "Continental, with cold winters.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
+      },
+      "resources": {
+        "value": "Furs, wax, honey, timber and slaves for trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
+      },
+      "disasters": {
+        "value": "Famines.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 5.4 million in 1000.",
+        "year": 1000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "Kiev and Novgorod were major towns.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
+      },
+      "disease": {
+        "value": "No major epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
+      },
+      "migration": {
+        "value": "Varangian (Scandinavian) founders mixed with Slavs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Trade along rivers plus agriculture.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
+      },
+      "tradeRoutes": {
+        "value": "The “route from the Varangians to the Greeks” (Baltic to Constantinople).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
+      },
+      "moneyAndTax": {
+        "value": "The grivna (silver bars).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "Princes, boyars, freemen, slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy (Grand Prince).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Oleg, Sviatoslav I, Vladimir the Great (980–1015), Yaroslav the Wise (1019–1054).",
+        "year": 980,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Rotation among brothers led to conflicts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
+      },
+      "institutions": {
+        "value": "The Russkaya Pravda law code.",
+        "year": 1054,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
+      },
+      "stability": {
+        "value": "Frequent wars between princes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
+      },
+      "eliteConflict": {
+        "value": "Rival princes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Princely retinues (druzhina).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
+      },
+      "majorWars": {
+        "value": "Conquest of the Khazars (965–969); Mongol invasion (1237–1241).",
+        "year": 965,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "About 1.33 million km² in 1000.",
+        "year": 1000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Byzantium, Khazars, Pechenegs, Cumans.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
+      },
+      "scienceEducation": {
+        "value": "Monasteries; the Primary Chronicle.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
+      },
+      "openness": {
+        "value": "Adopted Byzantine Christianity and culture.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Slavic paganism, then Orthodox Christianity (c. 988).",
+        "year": 988,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Old East Slavic and Old Church Slavonic (Cyrillic).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "St Sophia’s Cathedral in Kiev; icons.",
+        "year": 1037,
+        "certainty": "estimated",
+        "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
+      },
+      "socialStructure": {
+        "value": "Princes, boyars, freemen, slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
+      },
+      "sharedIdentity": {
+        "value": "“Rus’” and Orthodox Christianity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Byzantium, Khazars, Poland, Mongols.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
+      },
+      "ideasReligions": {
+        "value": "Received Christianity from Byzantium.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Oleg took Kiev (c. 882) and united the northern and southern Rus’ towns.",
+        "year": 880,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026); Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
+      },
+      "peakPeriod": {
+        "value": "Under Vladimir and Yaroslav.",
+        "year": 1019,
+        "certainty": "estimated",
+        "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
+      },
+      "declineSignals": {
+        "value": "Fragmentation after Yaroslav’s death.",
+        "year": 1054,
+        "certainty": "estimated",
+        "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
+      },
+      "outcome": {
+        "value": "Fell to the Mongols in 1240.",
+        "year": 1240,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "The Primary Chronicle. Checked against Wikipedia (“Kievan Rus’”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Good.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
+      }
+    }
+  }
+}

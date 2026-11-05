@@ -1,0 +1,310 @@
+{
+  "id": "ghana-empire",
+  "name": "Ghana Empire",
+  "era": "medieval",
+  "region": "West Africa",
+  "startYear": 300,
+  "endYear": 1240,
+  "datesApproximate": true,
+  "capital": "Koumbi Saleh (likely a later capital)",
+  "capitalCoords": [
+    -7.98,
+    15.66
+  ],
+  "summary": "A West African empire of the Soninke people that grew rich from trans-Saharan gold trade. Arab writers called it the “land of gold”. Modern Ghana took its name.",
+  "borderNames": [
+    "Empire of Ghana",
+    "Ghana"
+  ],
+  "borderYears": [
+    300,
+    1240
+  ],
+  "color": "#c79a3f",
+  "knownFor": [
+    {
+      "label": "“Land of gold”",
+      "kind": "tool",
+      "note": "Ghana controlled the trade of gold from the south for salt from the Sahara."
+    },
+    {
+      "label": "Camel caravans",
+      "kind": "tool",
+      "note": "Camels carried goods across the Sahara."
+    },
+    {
+      "label": "Koumbi Saleh",
+      "kind": "monument",
+      "year": 1068,
+      "note": "A twin-town capital described by al-Bakri."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Southern Mauritania and western Mali, between the Senegal and Niger rivers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ghana Empire (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "The Sahel, between the Sahara and the savannah.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Levtzion, Ancient Ghana and Mali (1973)"
+      },
+      "climate": {
+        "value": "Semi-arid; drying climate over time.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Levtzion, Ancient Ghana and Mali (1973)"
+      },
+      "resources": {
+        "value": "Access to the gold fields of Bambuk and Bure; salt traded from the Sahara.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Levtzion, Ancient Ghana and Mali (1973)"
+      },
+      "disasters": {
+        "value": "Drought.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Levtzion, Ancient Ghana and Mali (1973)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Levtzion, Ancient Ghana and Mali (1973)"
+      },
+      "urbanisation": {
+        "value": "Koumbi Saleh had two towns, one for the king and one for Muslim merchants (described by al-Bakri in 1068).",
+        "year": 1068,
+        "certainty": "estimated",
+        "source": "Levtzion, Ancient Ghana and Mali (1973)"
+      },
+      "disease": {
+        "value": "No specific epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Levtzion, Ancient Ghana and Mali (1973)"
+      },
+      "migration": {
+        "value": "Muslim traders from North Africa settled.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Levtzion, Ancient Ghana and Mali (1973)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Taxing the gold and salt trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Levtzion, Ancient Ghana and Mali (1973)"
+      },
+      "tradeRoutes": {
+        "value": "Trans-Saharan caravan routes using camels.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Levtzion, Ancient Ghana and Mali (1973)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period; known as the “land of gold”.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Levtzion, Ancient Ghana and Mali (1973)"
+      },
+      "moneyAndTax": {
+        "value": "Taxes on salt coming in and gold going out.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Levtzion, Ancient Ghana and Mali (1973)"
+      },
+      "inequality": {
+        "value": "The king owned all gold nuggets.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Levtzion, Ancient Ghana and Mali (1973)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A monarchy with tributary chiefs (a “feudal monarchy”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ghana Empire (checked 6 Nov 2026); Levtzion, Ancient Ghana and Mali (1973)"
+      },
+      "keyRulers": {
+        "value": "Tunka Manin (around 1063).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Levtzion, Ancient Ghana and Mali (1973)"
+      },
+      "succession": {
+        "value": "Matrilineal (through the king’s sister’s son).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Levtzion, Ancient Ghana and Mali (1973)"
+      },
+      "institutions": {
+        "value": "Muslim officials served the king.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Levtzion, Ancient Ghana and Mali (1973)"
+      },
+      "stability": {
+        "value": "Long-lived for centuries, based on trade wealth.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Levtzion, Ancient Ghana and Mali (1973)"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Levtzion, Ancient Ghana and Mali (1973)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "A large army, reportedly 200,000.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Levtzion, Ancient Ghana and Mali (1973)"
+      },
+      "majorWars": {
+        "value": "A conflict with the Almoravids (traditionally said to have conquered it in 1076, now doubted).",
+        "year": 1076,
+        "certainty": "disputed",
+        "source": "Wikipedia: Ghana Empire (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "About 650,000 km² in 1000.",
+        "year": 1000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ghana Empire (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Almoravids, Sosso.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Levtzion, Ancient Ghana and Mali (1973)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Iron tools and weapons.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Levtzion, Ancient Ghana and Mali (1973)"
+      },
+      "scienceEducation": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Levtzion, Ancient Ghana and Mali (1973)"
+      },
+      "openness": {
+        "value": "Converted to Islam in the 11th century.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ghana Empire (checked 6 Nov 2026)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "African traditional religion, later Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ghana Empire (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Soninke, Malinke, Mande. Known mainly through Arabic writers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ghana Empire (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "Stone houses at Koumbi Saleh.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Levtzion, Ancient Ghana and Mali (1973)"
+      },
+      "socialStructure": {
+        "value": "Royal clan, merchants, farmers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Levtzion, Ancient Ghana and Mali (1973)"
+      },
+      "sharedIdentity": {
+        "value": "Soninke identity and the sacred kingship of the ruler (the “ghana”).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Levtzion, Ancient Ghana and Mali (1973)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Sosso, Mali, Almoravids.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ghana Empire (checked 6 Nov 2026)"
+      },
+      "ideasReligions": {
+        "value": "Islam spread through traders.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ghana Empire (checked 6 Nov 2026)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Levtzion, Ancient Ghana and Mali (1973)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Control of the gold trade.",
+        "year": 300,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ghana Empire (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "About the 10th–11th centuries.",
+        "year": 1000,
+        "certainty": "estimated",
+        "source": "Levtzion, Ancient Ghana and Mali (1973)"
+      },
+      "declineSignals": {
+        "value": "Decline in the second millennium.",
+        "year": 1100,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ghana Empire (checked 6 Nov 2026)"
+      },
+      "outcome": {
+        "value": "Became a vassal of the Mali Empire in the 13th century.",
+        "year": 1240,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ghana Empire (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Arabic writers (al-Bakri, al-Idrisi). Checked against Wikipedia (“Ghana Empire”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ghana Empire (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Low to medium. Origins are uncertain.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Ghana Empire (checked 6 Nov 2026)"
+      }
+    }
+  }
+}

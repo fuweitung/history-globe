@@ -1,0 +1,303 @@
+{
+  "id": "chimu",
+  "name": "Chimú (Chimor)",
+  "era": "medieval",
+  "region": "South America (Peru coast)",
+  "startYear": 900,
+  "endYear": 1470,
+  "datesApproximate": true,
+  "capital": "Chan Chan",
+  "capitalCoords": [
+    -79.07,
+    -8.11
+  ],
+  "summary": "A kingdom on the north coast of Peru, the largest of its period, with the vast adobe capital Chan Chan. It was conquered by the Inca around 1470.",
+  "borderNames": [],
+  "color": "#a87a5a",
+  "knownFor": [
+    {
+      "label": "Chan Chan",
+      "kind": "monument",
+      "year": 1300,
+      "note": "A huge adobe city with walled royal compounds."
+    },
+    {
+      "label": "Gold and silver metalwork",
+      "kind": "art",
+      "note": "Fine metalwork in gold, silver, copper and tumbaga."
+    },
+    {
+      "label": "Spondylus shell trade",
+      "kind": "tool",
+      "note": "A shell from warm seas, highly valued in the Andes."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "About 1,000 km of the northern Peruvian coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chimor (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Desert coast with river valleys.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Moseley, The Incas and Their Ancestors (2001)"
+      },
+      "climate": {
+        "value": "Very dry; El Niño floods.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Moseley, The Incas and Their Ancestors (2001)"
+      },
+      "resources": {
+        "value": "Fish, irrigated crops and Spondylus shell.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chimor (checked 6 Nov 2026)"
+      },
+      "disasters": {
+        "value": "El Niño floods.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Moseley, The Incas and Their Ancestors (2001)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Moseley, The Incas and Their Ancestors (2001)"
+      },
+      "urbanisation": {
+        "value": "Chan Chan was one of the largest adobe cities in the world.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Moseley, The Incas and Their Ancestors (2001)"
+      },
+      "disease": {
+        "value": "No specific epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Moseley, The Incas and Their Ancestors (2001)"
+      },
+      "migration": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Moseley, The Incas and Their Ancestors (2001)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Agriculture and fishing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chimor (checked 6 Nov 2026)"
+      },
+      "tradeRoutes": {
+        "value": "Trade in Spondylus shell.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chimor (checked 6 Nov 2026)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Moseley, The Incas and Their Ancestors (2001)"
+      },
+      "moneyAndTax": {
+        "value": "No coinage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Moseley, The Incas and Their Ancestors (2001)"
+      },
+      "inequality": {
+        "value": "Kings lived in walled compounds.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Moseley, The Incas and Their Ancestors (2001)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chimor (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Taycanamo (legendary founder), Minchançaman (c. 1450–1470).",
+        "year": 1450,
+        "certainty": "disputed",
+        "source": "Wikipedia: Chimor (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Hereditary.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Moseley, The Incas and Their Ancestors (2001)"
+      },
+      "institutions": {
+        "value": "Large irrigation systems linking several river valleys.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Moseley, The Incas and Their Ancestors (2001)"
+      },
+      "stability": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Moseley, The Incas and Their Ancestors (2001)"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Moseley, The Incas and Their Ancestors (2001)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Moseley, The Incas and Their Ancestors (2001)"
+      },
+      "majorWars": {
+        "value": "Conquered the Sicán culture; conquered by the Inca around 1470.",
+        "year": 1470,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chimor (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "Expanded along the coast, then lost to the Inca.",
+        "year": 1470,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chimor (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rival: the Inca Empire.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chimor (checked 6 Nov 2026)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Large irrigation canals.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Moseley, The Incas and Their Ancestors (2001)"
+      },
+      "scienceEducation": {
+        "value": "No writing.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Moseley, The Incas and Their Ancestors (2001)"
+      },
+      "openness": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Moseley, The Incas and Their Ancestors (2001)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Worshipped the Moon, considered more powerful than the Sun.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chimor (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Quingnam and Mochica.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chimor (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "Monochrome pottery and fine metalwork in gold, silver and copper.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chimor (checked 6 Nov 2026)"
+      },
+      "socialStructure": {
+        "value": "Kings, nobles, craft specialists (metalworkers, weavers) and farmers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Moseley, The Incas and Their Ancestors (2001)"
+      },
+      "sharedIdentity": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Moseley, The Incas and Their Ancestors (2001)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "The Sicán culture (conquered) and the Inca Empire.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chimor (checked 6 Nov 2026); Moseley, The Incas and Their Ancestors (2001)"
+      },
+      "ideasReligions": {
+        "value": "Inca took Chimú craftsmen to Cusco.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Moseley, The Incas and Their Ancestors (2001)"
+      },
+      "colonisation": {
+        "value": "Conquered by the Inca, who moved Chimú craftsmen to Cusco.",
+        "year": 1470,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chimor (checked 6 Nov 2026); Moseley, The Incas and Their Ancestors (2001)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Arose around 900 CE, building on Moche traditions.",
+        "year": 900,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chimor (checked 6 Nov 2026); Moseley, The Incas and Their Ancestors (2001)"
+      },
+      "peakPeriod": {
+        "value": "Around the 14th–15th centuries.",
+        "year": 1400,
+        "certainty": "estimated",
+        "source": "Moseley, The Incas and Their Ancestors (2001)"
+      },
+      "declineSignals": {
+        "value": "Inca attacks from the 1460s.",
+        "year": 1470,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chimor (checked 6 Nov 2026); Moseley, The Incas and Their Ancestors (2001)"
+      },
+      "outcome": {
+        "value": "Conquered by the Inca emperor Topa Inca Yupanqui around 1470.",
+        "year": 1470,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chimor (checked 6 Nov 2026); Moseley, The Incas and Their Ancestors (2001)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Archaeology and Spanish chronicles. Checked against Wikipedia (“Chimor”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chimor (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Low to medium. Ruler dates are uncertain.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Chimor (checked 6 Nov 2026)"
+      }
+    }
+  }
+}

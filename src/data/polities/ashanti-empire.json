@@ -1,0 +1,313 @@
+{
+  "id": "ashanti-empire",
+  "name": "Asante (Ashanti) Empire",
+  "era": "early_modern",
+  "region": "West Africa",
+  "startYear": 1701,
+  "endYear": 1902,
+  "capital": "Kumasi",
+  "capitalCoords": [
+    -1.62,
+    6.69
+  ],
+  "summary": "An Akan state in present-day Ghana, united by the Golden Stool. It grew rich from gold and trade and fought five wars against Britain.",
+  "borderNames": [
+    "Asante"
+  ],
+  "borderYears": [
+    1701,
+    1902
+  ],
+  "color": "#d0a020",
+  "knownFor": [
+    {
+      "label": "Golden Stool",
+      "kind": "idea",
+      "year": 1701,
+      "note": "Sacred throne said to hold the soul of the Asante nation; never sat on."
+    },
+    {
+      "label": "Kente cloth",
+      "kind": "textile",
+      "note": "Brightly woven strips of cloth worn by royalty, now a symbol of Ghana."
+    },
+    {
+      "label": "Akan gold weights",
+      "kind": "tool",
+      "note": "Small cast-brass figures used to weigh gold dust, often showing proverbs."
+    },
+    {
+      "label": "Asante musketeers",
+      "kind": "troops",
+      "note": "Large disciplined armies armed with imported muskets."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Southern and central Ghana, ruled from Kumasi.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Asante Empire (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Tropical forest in the south, opening to savannah in the north.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wilks, Asante in the Nineteenth Century (1975)"
+      },
+      "climate": {
+        "value": "Tropical, with two rainy seasons.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wilks, Asante in the Nineteenth Century (1975)"
+      },
+      "resources": {
+        "value": "Gold, kola nuts, and farmland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Asante Empire (checked 6 Nov 2026); Wilks, Asante in the Nineteenth Century (1975)"
+      },
+      "disasters": {
+        "value": "No specific disasters are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wilks, Asante in the Nineteenth Century (1975)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 3–4 million in the 19th century.",
+        "year": 1850,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Asante Empire (checked 6 Nov 2026); Wilks, Asante in the Nineteenth Century (1975)"
+      },
+      "urbanisation": {
+        "value": "Kumasi was a large capital with wide streets and royal buildings.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wilks, Asante in the Nineteenth Century (1975)"
+      },
+      "disease": {
+        "value": "Malaria, which also killed many European soldiers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wilks, Asante in the Nineteenth Century (1975)"
+      },
+      "migration": {
+        "value": "War captives were incorporated or sold; traders came from the Muslim north.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wilks, Asante in the Nineteenth Century (1975)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Gold, agricultural exports, craft work, northern trade and slave trading.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Asante Empire (checked 6 Nov 2026); Wilks, Asante in the Nineteenth Century (1975)"
+      },
+      "tradeRoutes": {
+        "value": "North to Hausa and Sahel markets (kola nuts); south to European forts on the coast (gold, captives).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wilks, Asante in the Nineteenth Century (1975)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wilks, Asante in the Nineteenth Century (1975)"
+      },
+      "moneyAndTax": {
+        "value": "Gold dust, weighed with small cast-brass weights.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Asante Empire (checked 6 Nov 2026); Wilks, Asante in the Nineteenth Century (1975)"
+      },
+      "inequality": {
+        "value": "Royals and chiefs above commoners; slaves at the bottom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wilks, Asante in the Nineteenth Century (1975)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Constitutional elective monarchy (Asantehene).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Asante Empire (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Osei Tutu (founder, with priest Okomfo Anokye), Opoku Ware I, Osei Bonsu, Prempeh I (exiled 1896).",
+        "year": 1701,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Asante Empire (checked 6 Nov 2026); Wilks, Asante in the Nineteenth Century (1975)"
+      },
+      "succession": {
+        "value": "The queen mother nominated a candidate from the royal lineage; councils approved.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wilks, Asante in the Nineteenth Century (1975)"
+      },
+      "institutions": {
+        "value": "Asante Kotoko council; national assembly.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Asante Empire (checked 6 Nov 2026)"
+      },
+      "stability": {
+        "value": "A strong central state with a council and assembly; regional revolts at times.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wilks, Asante in the Nineteenth Century (1975)"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wilks, Asante in the Nineteenth Century (1975)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Large armies of musketeers, organised in advance guard, main body and wings.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wilks, Asante in the Nineteenth Century (1975)"
+      },
+      "majorWars": {
+        "value": "Conquest of Denkyira (1701), wars with the Fante, and five Anglo-Ashanti Wars (1823–1900).",
+        "year": 1824,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Asante Empire (checked 6 Nov 2026); Wilks, Asante in the Nineteenth Century (1975)"
+      },
+      "territoryChange": {
+        "value": "Expanded across most of modern Ghana in the 18th century; area about 259,000 km².",
+        "year": 1701,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Asante Empire (checked 6 Nov 2026); Wilks, Asante in the Nineteenth Century (1975)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: Denkyira, the Fante confederation and Britain; traded with the Dutch.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Asante Empire (checked 6 Nov 2026); Wilks, Asante in the Nineteenth Century (1975)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Akan brass gold-weights, cast in the shapes of animals and proverbs.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wilks, Asante in the Nineteenth Century (1975)"
+      },
+      "scienceEducation": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wilks, Asante in the Nineteenth Century (1975)"
+      },
+      "openness": {
+        "value": "Traded with Europeans while resisting their rule.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wilks, Asante in the Nineteenth Century (1975)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Akan religion (Nyame, ancestors).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Asante Empire (checked 6 Nov 2026); Wilks, Asante in the Nineteenth Century (1975)"
+      },
+      "languageWriting": {
+        "value": "Asante Twi; Arabic used by Muslim scribes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Asante Empire (checked 6 Nov 2026); Wilks, Asante in the Nineteenth Century (1975)"
+      },
+      "artsArchitecture": {
+        "value": "Asante traditional buildings (a UNESCO World Heritage Site), kente cloth and goldwork.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wilks, Asante in the Nineteenth Century (1975)"
+      },
+      "socialStructure": {
+        "value": "Royals, chiefs, commoners and slaves, organised in matrilineal clans.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wilks, Asante in the Nineteenth Century (1975)"
+      },
+      "sharedIdentity": {
+        "value": "The Golden Stool, said to have descended from the sky, is the soul of the nation.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Asante Empire (checked 6 Nov 2026); Wilks, Asante in the Nineteenth Century (1975)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Fante, Denkyira, Dagomba, the British and Dutch.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wilks, Asante in the Nineteenth Century (1975)"
+      },
+      "ideasReligions": {
+        "value": "Islam spread among traders in the north.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wilks, Asante in the Nineteenth Century (1975)"
+      },
+      "colonisation": {
+        "value": "Annexed by Britain; part of the Gold Coast colony from 1 January 1902.",
+        "year": 1902,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Asante Empire (checked 6 Nov 2026); Wilks, Asante in the Nineteenth Century (1975)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Osei Tutu united the Akan states and defeated Denkyira in 1701.",
+        "year": 1701,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Asante Empire (checked 6 Nov 2026); Wilks, Asante in the Nineteenth Century (1975)"
+      },
+      "peakPeriod": {
+        "value": "Early 19th century, at its largest extent.",
+        "year": 1800,
+        "certainty": "estimated",
+        "source": "Wilks, Asante in the Nineteenth Century (1975)"
+      },
+      "declineSignals": {
+        "value": "British wars; Kumasi was burnt in 1874.",
+        "year": 1874,
+        "certainty": "estimated",
+        "source": "Wilks, Asante in the Nineteenth Century (1975)"
+      },
+      "outcome": {
+        "value": "Became part of the British Gold Coast in 1902. The Asante kingdom survives today as a traditional state within Ghana.",
+        "year": 1902,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Asante Empire (checked 6 Nov 2026); Wilks, Asante in the Nineteenth Century (1975)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Oral history. Checked against Wikipedia (“Asante Empire”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Asante Empire (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Good. Asante oral history and European records broadly agree.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Asante Empire (checked 6 Nov 2026)"
+      }
+    }
+  }
+}

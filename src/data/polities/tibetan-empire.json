@@ -1,0 +1,317 @@
+{
+  "id": "tibetan-empire",
+  "name": "Tibetan Empire",
+  "era": "medieval",
+  "region": "Central & East Asia",
+  "startYear": 618,
+  "endYear": 842,
+  "capital": "Lhasa",
+  "capitalCoords": [
+    91.17,
+    29.65
+  ],
+  "summary": "An empire of the Tibetan plateau under the Yarlung kings. At its height it reached Chang’an and Central Asia, and it brought Buddhism to Tibet.",
+  "borderNames": [
+    "Tibetan Empire",
+    "Tufan Empire"
+  ],
+  "borderYears": [
+    618,
+    848
+  ],
+  "color": "#8a5a8a",
+  "knownFor": [
+    {
+      "label": "Tibetan script",
+      "kind": "idea",
+      "year": 650,
+      "note": "Traditionally created under Songtsen Gampo to translate Buddhist texts."
+    },
+    {
+      "label": "Jokhang temple",
+      "kind": "monument",
+      "year": 650,
+      "note": "Lhasa’s holiest temple, founded in the 7th century."
+    },
+    {
+      "label": "Treaty pillar (821–823)",
+      "kind": "idea",
+      "year": 822,
+      "note": "A stone pillar recording peace with Tang China."
+    },
+    {
+      "label": "Samye Monastery",
+      "kind": "monument",
+      "year": 779,
+      "note": "The first Buddhist monastery in Tibet."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Tibetan plateau, reaching into Central Asia, China, Nepal and India.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tibetan Empire (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Very high plateau and mountain ranges.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Beckwith, The Tibetan Empire in Central Asia (1987)"
+      },
+      "climate": {
+        "value": "Cold and dry.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Beckwith, The Tibetan Empire in Central Asia (1987)"
+      },
+      "resources": {
+        "value": "Herds, barley, gold, horses.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Beckwith, The Tibetan Empire in Central Asia (1987)"
+      },
+      "disasters": {
+        "value": "No specific disasters are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Beckwith, The Tibetan Empire in Central Asia (1987)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 10 million (8th century).",
+        "year": 750,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tibetan Empire (checked 6 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "Lhasa became the capital in the 7th century.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tibetan Empire (checked 6 Nov 2026)"
+      },
+      "disease": {
+        "value": "Smallpox epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Beckwith, The Tibetan Empire in Central Asia (1987)"
+      },
+      "migration": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Beckwith, The Tibetan Empire in Central Asia (1987)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Herding and barley farming; tribute.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Beckwith, The Tibetan Empire in Central Asia (1987)"
+      },
+      "tradeRoutes": {
+        "value": "Controlled parts of the Silk Road.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Beckwith, The Tibetan Empire in Central Asia (1987)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Beckwith, The Tibetan Empire in Central Asia (1987)"
+      },
+      "moneyAndTax": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Beckwith, The Tibetan Empire in Central Asia (1987)"
+      },
+      "inequality": {
+        "value": "Powerful noble clans held land and office.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Beckwith, The Tibetan Empire in Central Asia (1987)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy (Tsenpo).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tibetan Empire (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Songtsen Gampo (618–650), Trisong Detsen (753–797), Tritsuk Detsen (815–838).",
+        "year": 618,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tibetan Empire (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Hereditary, with powerful ministers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Beckwith, The Tibetan Empire in Central Asia (1987)"
+      },
+      "institutions": {
+        "value": "A military-administrative system of units.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Beckwith, The Tibetan Empire in Central Asia (1987)"
+      },
+      "stability": {
+        "value": "Assassinations in 838 and 842 ended the empire.",
+        "year": 842,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tibetan Empire (checked 6 Nov 2026)"
+      },
+      "eliteConflict": {
+        "value": "Buddhist versus Bon factions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Beckwith, The Tibetan Empire in Central Asia (1987)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Armoured cavalry.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Beckwith, The Tibetan Empire in Central Asia (1987)"
+      },
+      "majorWars": {
+        "value": "Occupied Chang’an briefly in 763.",
+        "year": 763,
+        "certainty": "estimated",
+        "source": "Beckwith, The Tibetan Empire in Central Asia (1987)"
+      },
+      "territoryChange": {
+        "value": "About 4.6 million km² around 800.",
+        "year": 800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tibetan Empire (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rival: Tang China; treaties of 783 and 821–823.",
+        "year": 821,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tibetan Empire (checked 6 Nov 2026)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Beckwith, The Tibetan Empire in Central Asia (1987)"
+      },
+      "scienceEducation": {
+        "value": "Translation of Buddhist texts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Beckwith, The Tibetan Empire in Central Asia (1987)"
+      },
+      "openness": {
+        "value": "Adopted Buddhism from India and China.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Beckwith, The Tibetan Empire in Central Asia (1987)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Buddhism and Bon.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tibetan Empire (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "The Tibetan script was created in the 7th century.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Beckwith, The Tibetan Empire in Central Asia (1987)"
+      },
+      "artsArchitecture": {
+        "value": "Samye Monastery; the Jokhang temple.",
+        "year": 775,
+        "certainty": "estimated",
+        "source": "Beckwith, The Tibetan Empire in Central Asia (1987)"
+      },
+      "socialStructure": {
+        "value": "Kings, noble clans, Buddhist monks (later), herders and farmers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Beckwith, The Tibetan Empire in Central Asia (1987)"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the divine king (tsenpo); later Buddhism.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Beckwith, The Tibetan Empire in Central Asia (1987)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Tang China, Nanzhao, Uyghurs, Abbasids.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tibetan Empire (checked 6 Nov 2026)"
+      },
+      "ideasReligions": {
+        "value": "Buddhism and Neo-Confucianism came from China; Neo-Confucianism shaped the later Joseon.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Beckwith, The Tibetan Empire in Central Asia (1987)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Beckwith, The Tibetan Empire in Central Asia (1987)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Songtsen Gampo united Tibet.",
+        "year": 618,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tibetan Empire (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "Under Trisong Detsen (753–797), when Tibet briefly took Chang’an (763) and founded Samye Monastery.",
+        "year": 790,
+        "certainty": "estimated",
+        "source": "Beckwith, The Tibetan Empire in Central Asia (1987)"
+      },
+      "declineSignals": {
+        "value": "Conflict between Buddhist and Bon factions and the killings of kings in 838 and 842.",
+        "year": 838,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tibetan Empire (checked 6 Nov 2026); Beckwith, The Tibetan Empire in Central Asia (1987)"
+      },
+      "outcome": {
+        "value": "Broke up after 842 (Era of Fragmentation).",
+        "year": 842,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tibetan Empire (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Old Tibetan Annals, Chinese sources. Checked against Wikipedia (“Tibetan Empire”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tibetan Empire (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Medium. End date 842 or 848.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Tibetan Empire (checked 6 Nov 2026)"
+      }
+    }
+  }
+}

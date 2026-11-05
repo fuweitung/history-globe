@@ -1,0 +1,310 @@
+{
+  "id": "akkadian-empire",
+  "name": "Akkadian Empire",
+  "era": "ancient",
+  "region": "Mesopotamia (Middle East)",
+  "startYear": -2334,
+  "endYear": -2154,
+  "datesApproximate": true,
+  "capital": "Akkad (location unknown)",
+  "capitalCoords": [
+    44.3,
+    33.1
+  ],
+  "summary": "Often called the first empire, founded by Sargon of Akkad. It united the Sumerian city-states under one king and made Akkadian the common language.",
+  "borderNames": [],
+  "color": "#a8743a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Mesopotamia, ruled from the city of Akkad, whose location has never been found.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akkadian Empire (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "The Tigris and Euphrates river plains, with campaigns into Syria, Anatolia and Iran.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "climate": {
+        "value": "Severe drought linked to the 4.2-kiloyear climate event contributed to the collapse.",
+        "year": -2200,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akkadian Empire (checked 6 Nov 2026)"
+      },
+      "resources": {
+        "value": "Grain from irrigated fields; metals, timber and stone had to be brought from abroad.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "disasters": {
+        "value": "Major drought (the 4.2-kiloyear event).",
+        "year": -2200,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akkadian Empire (checked 6 Nov 2026)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "urbanisation": {
+        "value": "Sumerian cities (Ur, Uruk, Lagash, Nippur) plus Akkad itself.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "disease": {
+        "value": "No specific epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "migration": {
+        "value": "Pressure from Gutians and Amorites on the empire’s edges.",
+        "year": -2190,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akkadian Empire (checked 6 Nov 2026)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Irrigation agriculture and temple and palace estates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "tradeRoutes": {
+        "value": "Trade along the Gulf with Magan (Oman) and Meluhha (the Indus Valley).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "moneyAndTax": {
+        "value": "No coinage. Grain and silver were used to measure value, with standardised measures (the gur of about 300 litres).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "inequality": {
+        "value": "Kings, governors and temple elites at the top; dependent labourers at the bottom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy with provinces run by governors (ensi).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akkadian Empire (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Sargon (c. 2334–2279 BCE), Rimush, Manishtushu, Naram-Sin (c. 2254–2218 BCE), Shar-Kali-Sharri.",
+        "year": -2334,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akkadian Empire (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Hereditary, from father to son, often with revolts at each change of ruler.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "institutions": {
+        "value": "Royal governors over the city-states and standardised weights and measures.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "stability": {
+        "value": "Repeated revolts, including the Great Revolt against Naram-Sin.",
+        "year": -2250,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akkadian Empire (checked 6 Nov 2026)"
+      },
+      "eliteConflict": {
+        "value": "Sumerian city elites resented Akkadian rule; Rimush and Manishtushu may both have been murdered.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "A standing army, said to include 5,400 men who ate daily before Sargon.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "majorWars": {
+        "value": "Conquest of the Sumerian cities and campaigns in Elam, Syria and Anatolia.",
+        "year": -2300,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akkadian Empire (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "About 800,000 km² around 2250 BCE.",
+        "year": -2250,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akkadian Empire (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: Elam, the Gutians and the Amorites.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akkadian Empire (checked 6 Nov 2026)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "A standardised system of measures and the first large-scale use of royal propaganda in art.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "scienceEducation": {
+        "value": "Scribal schools continued Sumerian learning.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "openness": {
+        "value": "Combined Sumerian and Akkadian culture.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mesopotamian religion. Naram-Sin declared himself a living god.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akkadian Empire (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Akkadian became the lingua franca, written in cuneiform; Sumerian was kept for religion.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akkadian Empire (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "The Victory Stele of Naram-Sin and the bronze “Mask of Sargon”.",
+        "year": -2250,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akkadian Empire (checked 6 Nov 2026)"
+      },
+      "socialStructure": {
+        "value": "King, governors, priests, scribes, farmers and slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "sharedIdentity": {
+        "value": "The title “King of the Four Quarters” (of the world).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akkadian Empire (checked 6 Nov 2026)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Elam, the Gutians, Amorites, Ebla, and trade partners Magan and Meluhha.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akkadian Empire (checked 6 Nov 2026)"
+      },
+      "ideasReligions": {
+        "value": "Its model of empire inspired later Mesopotamian kings for 2,000 years.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      },
+      "colonisation": {
+        "value": "Placed governors and garrisons in conquered cities.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Sargon’s conquest of the Sumerian city-states.",
+        "year": -2334,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akkadian Empire (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "Under Naram-Sin, with the empire at its largest.",
+        "year": -2250,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akkadian Empire (checked 6 Nov 2026)"
+      },
+      "declineSignals": {
+        "value": "Revolts, invasions by the Gutians, and severe drought.",
+        "year": -2200,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akkadian Empire (checked 6 Nov 2026)"
+      },
+      "outcome": {
+        "value": "Collapse around 2154 BCE, followed by the Gutian period and then the Third Dynasty of Ur.",
+        "year": -2154,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akkadian Empire (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Royal inscriptions, Sumerian King List, later legends. Checked against Wikipedia (“Akkadian Empire”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akkadian Empire (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Low to medium. Dates differ between chronologies (Sargon’s accession is placed at 2334, 2316 or 2285 BCE).",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Akkadian Empire (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Sargon of Akkad",
+      "kind": "person",
+      "year": -2334,
+      "note": "Founder of what is often called the first empire."
+    },
+    {
+      "label": "Enheduanna",
+      "kind": "person",
+      "year": -2285,
+      "note": "Sargon’s daughter, a priestess and poet often called the first known named author."
+    },
+    {
+      "label": "Victory Stele of Naram-Sin",
+      "kind": "monument",
+      "year": -2250,
+      "note": "A carved stone showing the king climbing a mountain over his enemies."
+    },
+    {
+      "label": "Akkadian as a lingua franca",
+      "kind": "idea",
+      "note": "Akkadian, written in cuneiform, became the common language of the Near East."
+    }
+  ]
+}

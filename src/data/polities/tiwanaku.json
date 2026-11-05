@@ -1,0 +1,308 @@
+{
+  "id": "tiwanaku",
+  "name": "Tiwanaku",
+  "era": "medieval",
+  "region": "South America (Andes)",
+  "startYear": 110,
+  "endYear": 1050,
+  "datesApproximate": true,
+  "capital": "Tiwanaku, near Lake Titicaca",
+  "capitalCoords": [
+    -68.67,
+    -16.55
+  ],
+  "summary": "A highland Andean civilisation beside Lake Titicaca, known for megalithic stonework such as the Gate of the Sun and for raised-field farming.",
+  "borderNames": [
+    "Tiahuanaco Empire"
+  ],
+  "borderYears": [
+    500,
+    1100
+  ],
+  "color": "#8a6a9a",
+  "knownFor": [
+    {
+      "label": "Gate of the Sun",
+      "kind": "monument",
+      "note": "A carved stone gateway with a central staff-god figure."
+    },
+    {
+      "label": "Raised-field farming",
+      "kind": "tool",
+      "note": "Raised beds with water channels that protected crops from frost."
+    },
+    {
+      "label": "Megalithic stonework",
+      "kind": "monument",
+      "note": "Huge precisely cut stone blocks."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Western Bolivia, near Lake Titicaca, about 70 km from La Paz.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tiwanaku (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "The Altiplano, a high plateau about 3,800 m above sea level.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      },
+      "climate": {
+        "value": "A long drought from about 1000 CE is often linked to its collapse.",
+        "year": 1000,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      },
+      "resources": {
+        "value": "Llama and alpaca herds, potatoes, quinoa, and lake fish.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      },
+      "disasters": {
+        "value": "A long drought from about 1000 CE.",
+        "year": 1000,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 10,000–20,000 people at the site around 800 CE (a conservative estimate).",
+        "year": 800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tiwanaku (checked 6 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "Surface remains cover about 4 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tiwanaku (checked 6 Nov 2026)"
+      },
+      "disease": {
+        "value": "No specific epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      },
+      "migration": {
+        "value": "Colonies were set up in lower valleys (such as Moquegua).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Raised-field farming (suka kollus), herding, and llama caravans.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      },
+      "tradeRoutes": {
+        "value": "Llama caravans linked the lake region with the coast and the forest.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      },
+      "moneyAndTax": {
+        "value": "No coinage. Labour obligations were probably owed instead.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      },
+      "inequality": {
+        "value": "Elite and religious leaders lived in the central city.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Probably a state led by a religious and political elite.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      },
+      "keyRulers": {
+        "value": "No rulers are known by name.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      },
+      "succession": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      },
+      "institutions": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      },
+      "stability": {
+        "value": "Long-lived, about 500–1000 CE at its height.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Little evidence of warfare.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      },
+      "majorWars": {
+        "value": "None known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      },
+      "territoryChange": {
+        "value": "Influence spread around Lake Titicaca and to the coast.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      },
+      "alliancesRivals": {
+        "value": "Rival and partner: the Wari state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Raised-field farming that protected crops from frost.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      },
+      "scienceEducation": {
+        "value": "No written language.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tiwanaku (checked 6 Nov 2026)"
+      },
+      "openness": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Worship of a staff god, possibly an early form of Viracocha.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      },
+      "languageWriting": {
+        "value": "No written language. Puquina is proposed as its language.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Tiwanaku (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "Decorated ceramics, monumental structures and megalithic blocks.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tiwanaku (checked 6 Nov 2026)"
+      },
+      "socialStructure": {
+        "value": "Elite, priests, farmers and herders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      },
+      "sharedIdentity": {
+        "value": "A shared religious centre.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "The Wari state to the north, a rival and partner.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      },
+      "ideasReligions": {
+        "value": "Its religious imagery influenced later Andean peoples, including the Inca.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      },
+      "colonisation": {
+        "value": "Set up colonies in other ecological zones.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "From about 500 CE it grew into a major ceremonial and political centre.",
+        "year": 500,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      },
+      "peakPeriod": {
+        "value": "About 800 CE, with 10,000–20,000 people at the main site.",
+        "year": 800,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      },
+      "declineSignals": {
+        "value": "Drought that ruined the raised-field farming system.",
+        "year": 1000,
+        "certainty": "estimated",
+        "source": "Janusek, Ancient Tiwanaku (2008)"
+      },
+      "outcome": {
+        "value": "Abandoned around 1000–1050 CE. Dates differ.",
+        "year": 1050,
+        "certainty": "disputed",
+        "source": "Wikipedia: Tiwanaku (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Archaeology. Checked against Wikipedia (“Tiwanaku”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tiwanaku (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Low to medium. No written records.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Tiwanaku (checked 6 Nov 2026)"
+      }
+    }
+  }
+}

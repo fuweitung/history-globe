@@ -61,9 +61,9 @@ history-globe/
 └── src/
     ├── types/index.ts      # Polity, Checklist, HistoryEvent, PolityLink (the data contract)
     ├── data/
-    │   ├── polities/*.json # one file per civilisation (74, all with complete checklists)
-    │   ├── events.json     # 255 events, each new one with a source
-    │   └── links.json      # 66 links: succeeded / conquered / colonised / traded_with / allied_with
+    │   ├── polities/*.json # one file per civilisation (113, all with complete checklists and “Known for” items)
+    │   ├── events.json     # 369 events across 5,500 years, each new one with a source
+    │   └── links.json      # 112 links: succeeded / conquered / colonised / traded_with / allied_with
     ├── lib/
     │   ├── checklistSchema.ts  # the 10 categories: labels, order, guiding questions, completion maths
     │   ├── borders.ts          # snapshot loading, name→polity matching, colours, label placement
@@ -96,7 +96,7 @@ Open `src/data/polities/<id>.json`. Every checklist item has this shape:
 - Keep the wording neutral and descriptive. Where a term is contested, say whose term it is.
 - Run `npm run validate-data` afterwards. It warns about items with a value but no source or certainty.
 
-**All 74 civilisations have complete 41-item checklists.** Key dates and figures were checked against the live Wikipedia articles (5–6 Nov 2026). Items marked “checked” were confirmed there; other items cite scholarly works. Conflicting dates are marked Disputed, and politically sensitive topics use the sources’ own neutral wording. A history teacher should still review the content before classroom use.
+**All 113 civilisations have complete 41-item checklists.** Each also has a **Known for** list of signature culture: cloth and dress, special troops, weapons, tools and inventions, monuments, art, ideas and laws, food, and people. Tap a chip to read about it and jump to its year. Key dates and figures were checked against the live Wikipedia articles (5–6 Nov 2026). Items marked “checked” were confirmed there; other items cite scholarly works. Conflicting dates are marked Disputed, and politically sensitive topics use the sources’ own neutral wording. A history teacher should still review the content before classroom use.
 
 The first examples written were:
 
@@ -131,9 +131,13 @@ Add an object to `src/data/events.json`. Allowed `type` values are `war`, `inven
 - **Map engine:** [MapLibre GL JS](https://maplibre.org/) (BSD-3). Label fonts come from MapLibre's free demo font server.
 - **Seed content:** written for this project with a cited source on every item. Figures are scholarly estimates and are labelled as such.
 
+### What the 41/41 means
+
+Each civilisation is described with the same 41 elements in 10 categories (geography, population, economy, politics, military, technology, culture, connections, rise & fall, data quality). “41/41” is how many of those elements are documented. It measures how complete the study profile is, not how “great” the civilisation was. Using the same template for every civilisation lets you compare why they rose and fell.
+
 ### Known data limitations
 
-- Some civilisations have no matching polygon in the border dataset: **Mataram** and **Majapahit**, and **Johor** before about 1650. For these, "Show on map" flies to the capital instead.
+- Some civilisations have no matching polygon in the border dataset: **Mataram**, **Majapahit**, the **Akkadian Empire**, **Chimú** and the **Mississippian culture**, plus **Johor** before about 1650. For these, "Show on map" flies to the capital instead.
 - Border snapshots are uneven: about 100–500 years apart in ancient times, denser in the 20th century.
 - The dataset has some naming quirks (e.g. "Zhoa" for the Shang/Zhou area, "Sui Empire" still used in 700). Strict `borderYears` windows keep these matched to the right civilisation, and map labels show our civilisation names for linked territories.
 

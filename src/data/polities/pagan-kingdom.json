@@ -1,0 +1,311 @@
+{
+  "id": "pagan-kingdom",
+  "name": "Pagan Kingdom",
+  "era": "medieval",
+  "region": "Southeast Asia (Myanmar)",
+  "startYear": 849,
+  "endYear": 1297,
+  "capital": "Pagan (Bagan)",
+  "capitalCoords": [
+    94.86,
+    21.17
+  ],
+  "summary": "The first kingdom to unify the Irrawaddy valley of Myanmar. Its kings built more than 10,000 Buddhist temples on the plain of Bagan.",
+  "borderNames": [
+    "Kingdom of Pagan",
+    "Pagan"
+  ],
+  "borderYears": [
+    849,
+    1297
+  ],
+  "color": "#c48a3a",
+  "knownFor": [
+    {
+      "label": "Temples of Bagan",
+      "kind": "monument",
+      "year": 1100,
+      "note": "Over 10,000 Buddhist temples were built; more than 2,000 still stand."
+    },
+    {
+      "label": "Burmese script",
+      "kind": "idea",
+      "year": 1035,
+      "note": "The Burmese alphabet developed here from the Mon script."
+    },
+    {
+      "label": "Ananda Temple",
+      "kind": "monument",
+      "year": 1105,
+      "note": "A great white temple built under King Kyansittha."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Irrawaddy valley of Myanmar.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pagan Kingdom (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "A dry central plain irrigated from rivers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lieberman, Strange Parallels vol. 1 (2003)"
+      },
+      "climate": {
+        "value": "Dry zone with monsoon rains.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lieberman, Strange Parallels vol. 1 (2003)"
+      },
+      "resources": {
+        "value": "Irrigated rice land in the Kyaukse and Minbu districts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lieberman, Strange Parallels vol. 1 (2003)"
+      },
+      "disasters": {
+        "value": "Earthquakes (modern damage in 1975 and 2016).",
+        "year": 1975,
+        "certainty": "estimated",
+        "source": "Lieberman, Strange Parallels vol. 1 (2003)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 1.5–2 million around 1210.",
+        "year": 1210,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pagan Kingdom (checked 6 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "Bagan was the capital and temple city.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lieberman, Strange Parallels vol. 1 (2003)"
+      },
+      "disease": {
+        "value": "No specific epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lieberman, Strange Parallels vol. 1 (2003)"
+      },
+      "migration": {
+        "value": "Burman settlers came from the north.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lieberman, Strange Parallels vol. 1 (2003)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Irrigated rice farming.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lieberman, Strange Parallels vol. 1 (2003)"
+      },
+      "tradeRoutes": {
+        "value": "Trade with India, Sri Lanka and China.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lieberman, Strange Parallels vol. 1 (2003)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lieberman, Strange Parallels vol. 1 (2003)"
+      },
+      "moneyAndTax": {
+        "value": "Silver by weight (kyat).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pagan Kingdom (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "Much land given to tax-free monasteries.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lieberman, Strange Parallels vol. 1 (2003)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pagan Kingdom (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Anawrahta (1044–1077), Kyansittha, Sithu I, Narathihapate.",
+        "year": 1044,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pagan Kingdom (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Hereditary.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lieberman, Strange Parallels vol. 1 (2003)"
+      },
+      "institutions": {
+        "value": "Royal and monastic land grants.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lieberman, Strange Parallels vol. 1 (2003)"
+      },
+      "stability": {
+        "value": "Stable at its peak (1174–1250).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lieberman, Strange Parallels vol. 1 (2003)"
+      },
+      "eliteConflict": {
+        "value": "Monastic land drained royal revenue.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lieberman, Strange Parallels vol. 1 (2003)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Infantry, cavalry, elephants.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lieberman, Strange Parallels vol. 1 (2003)"
+      },
+      "majorWars": {
+        "value": "Mongol invasions (1277–1287).",
+        "year": 1287,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pagan Kingdom (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "Expansion in the 1050s–60s.",
+        "year": 1060,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pagan Kingdom (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: the Khmer, the Mon and later the Mongols; ties with Sri Lanka.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lieberman, Strange Parallels vol. 1 (2003)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Irrigation works and weirs.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lieberman, Strange Parallels vol. 1 (2003)"
+      },
+      "scienceEducation": {
+        "value": "Monastic education in Pali and Burmese.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lieberman, Strange Parallels vol. 1 (2003)"
+      },
+      "openness": {
+        "value": "Close religious contact with Sri Lanka.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lieberman, Strange Parallels vol. 1 (2003)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Theravada, Mahayana, Hinduism and animism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pagan Kingdom (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Old Burmese, Mon, Pyu; Burmese script.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pagan Kingdom (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "Over 10,000 temples (over 2,000 remain).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pagan Kingdom (checked 6 Nov 2026)"
+      },
+      "socialStructure": {
+        "value": "King, monks, farmers, servants.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lieberman, Strange Parallels vol. 1 (2003)"
+      },
+      "sharedIdentity": {
+        "value": "Theravada Buddhism and Burmese language.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lieberman, Strange Parallels vol. 1 (2003)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Mon, Khmer, Sri Lanka, China.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lieberman, Strange Parallels vol. 1 (2003)"
+      },
+      "ideasReligions": {
+        "value": "Theravada Buddhism spread to the village level.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pagan Kingdom (checked 6 Nov 2026); Lieberman, Strange Parallels vol. 1 (2003)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lieberman, Strange Parallels vol. 1 (2003)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Anawrahta founded the empire.",
+        "year": 1050,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pagan Kingdom (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "1174–1250, under Sithu II and his successors.",
+        "year": 1174,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pagan Kingdom (checked 6 Nov 2026); Lieberman, Strange Parallels vol. 1 (2003)"
+      },
+      "declineSignals": {
+        "value": "Tax-free monastic land drained royal revenue; then the Mongol invasions (1277–1287).",
+        "year": 1277,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pagan Kingdom (checked 6 Nov 2026); Lieberman, Strange Parallels vol. 1 (2003)"
+      },
+      "outcome": {
+        "value": "The kingdom collapsed in 1287 (its last king was overthrown in 1297); 250 years of fragmentation followed.",
+        "year": 1297,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pagan Kingdom (checked 6 Nov 2026); Lieberman, Strange Parallels vol. 1 (2003)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Inscriptions, chronicles. Checked against Wikipedia (“Pagan Kingdom”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pagan Kingdom (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Medium. Chronicle dates are disputed.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Pagan Kingdom (checked 6 Nov 2026)"
+      }
+    }
+  }
+}

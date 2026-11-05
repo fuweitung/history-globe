@@ -1,0 +1,314 @@
+{
+  "id": "mamluk-sultanate",
+  "name": "Mamluk Sultanate",
+  "era": "medieval",
+  "region": "Egypt & the Levant",
+  "startYear": 1250,
+  "endYear": 1517,
+  "capital": "Cairo",
+  "capitalCoords": [
+    31.26,
+    30.05
+  ],
+  "summary": "A state in Egypt and Syria ruled by a military caste of freed slave soldiers (mamluks). It stopped the Mongols at Ain Jalut in 1260 and drove out the last Crusaders.",
+  "borderNames": [
+    "Mamluke Sultanate"
+  ],
+  "borderYears": [
+    1250,
+    1517
+  ],
+  "color": "#9a6a2a",
+  "knownFor": [
+    {
+      "label": "Mamluk cavalry",
+      "kind": "troops",
+      "year": 1250,
+      "note": "Slave-soldiers trained from childhood as elite horsemen."
+    },
+    {
+      "label": "Battle of Ain Jalut",
+      "kind": "idea",
+      "year": 1260,
+      "note": "The first major defeat of a Mongol army."
+    },
+    {
+      "label": "Enamelled glass lamps",
+      "kind": "art",
+      "note": "Glass mosque lamps painted with enamel and gold."
+    },
+    {
+      "label": "Mamluk Cairo",
+      "kind": "monument",
+      "note": "Mosques, madrasas and tombs that still shape historic Cairo."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Egypt, Syria and the Hejaz.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "The Nile valley, Levant coast and deserts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Irwin, The Middle East in the Middle Ages (1986)"
+      },
+      "climate": {
+        "value": "Arid.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Irwin, The Middle East in the Middle Ages (1986)"
+      },
+      "resources": {
+        "value": "Egyptian grain, and trade revenue.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Irwin, The Middle East in the Middle Ages (1986)"
+      },
+      "disasters": {
+        "value": "The Black Death (1347–1348).",
+        "year": 1347,
+        "certainty": "estimated",
+        "source": "Irwin, The Middle East in the Middle Ages (1986)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Irwin, The Middle East in the Middle Ages (1986)"
+      },
+      "urbanisation": {
+        "value": "Cairo was one of the largest cities in the world.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026)"
+      },
+      "disease": {
+        "value": "The Black Death killed a large share of Egypt’s people.",
+        "year": 1347,
+        "certainty": "estimated",
+        "source": "Irwin, The Middle East in the Middle Ages (1986)"
+      },
+      "migration": {
+        "value": "Mamluks were brought in from the steppe and the Caucasus.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Irwin, The Middle East in the Middle Ages (1986)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Mainly agrarian.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026)"
+      },
+      "tradeRoutes": {
+        "value": "The spice trade between Europe and the Indian Ocean.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Irwin, The Middle East in the Middle Ages (1986)"
+      },
+      "moneyAndTax": {
+        "value": "Gold dinars; spice monopolies under Barsbay.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Irwin, The Middle East in the Middle Ages (1986)"
+      },
+      "inequality": {
+        "value": "The iqta‘ system gave land revenues to mamluk officers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Military rule (stratocracy) under an elected sultan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Baybars (1260–1277), Qalawun, al-Nasir Muhammad, Qaitbay, Qansuh al-Ghuri.",
+        "year": 1260,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Usually by the strongest commander.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Irwin, The Middle East in the Middle Ages (1986)"
+      },
+      "institutions": {
+        "value": "A ceremonial Abbasid caliph; a postal system (barid).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Irwin, The Middle East in the Middle Ages (1986)"
+      },
+      "stability": {
+        "value": "Frequent coups: sultans were often deposed or killed by rival commanders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Irwin, The Middle East in the Middle Ages (1986)"
+      },
+      "eliteConflict": {
+        "value": "Rival mamluk households (Bahri, then Burji Circassians) fought for power.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Irwin, The Middle East in the Middle Ages (1986)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Elite cavalry trained from childhood.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Irwin, The Middle East in the Middle Ages (1986)"
+      },
+      "majorWars": {
+        "value": "Defeated the Mongols at Ain Jalut (1260); conquered the Crusader states.",
+        "year": 1260,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "Took Acre in 1291.",
+        "year": 1291,
+        "certainty": "estimated",
+        "source": "Irwin, The Middle East in the Middle Ages (1986)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: Mongols, Crusaders, Ottomans.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Irwin, The Middle East in the Middle Ages (1986)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Irwin, The Middle East in the Middle Ages (1986)"
+      },
+      "scienceEducation": {
+        "value": "Madrasas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Irwin, The Middle East in the Middle Ages (1986)"
+      },
+      "openness": {
+        "value": "Reluctant to adopt firearms.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Irwin, The Middle East in the Middle Ages (1986)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sunni Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Arabic, Kipchak Turkic, Circassian.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "Inlaid metalwork, enamelled glass, illuminated Qur’ans and Cairo’s Mamluk architecture.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026)"
+      },
+      "socialStructure": {
+        "value": "Mamluks, scholars, merchants, peasants.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Irwin, The Middle East in the Middle Ages (1986)"
+      },
+      "sharedIdentity": {
+        "value": "Seen as defenders of Islam against the Mongols and Crusaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Irwin, The Middle East in the Middle Ages (1986)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Mongols, Crusaders, Ottomans.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Irwin, The Middle East in the Middle Ages (1986)"
+      },
+      "ideasReligions": {
+        "value": "Cairo became the leading centre of Sunni scholarship after Baghdad fell in 1258.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Irwin, The Middle East in the Middle Ages (1986)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Irwin, The Middle East in the Middle Ages (1986)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Victory over the Mongols at Ain Jalut (1260).",
+        "year": 1260,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026); Irwin, The Middle East in the Middle Ages (1986)"
+      },
+      "peakPeriod": {
+        "value": "Under al-Nasir Muhammad (1310–1341).",
+        "year": 1310,
+        "certainty": "estimated",
+        "source": "Irwin, The Middle East in the Middle Ages (1986)"
+      },
+      "declineSignals": {
+        "value": "The Black Death and the loss of trade.",
+        "year": 1347,
+        "certainty": "estimated",
+        "source": "Irwin, The Middle East in the Middle Ages (1986)"
+      },
+      "outcome": {
+        "value": "Conquered by the Ottomans in 1517.",
+        "year": 1517,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Mamluk chronicles. Checked against Wikipedia (“Mamluk Sultanate”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Good.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026)"
+      }
+    }
+  }
+}

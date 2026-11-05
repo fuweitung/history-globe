@@ -1,0 +1,309 @@
+{
+  "id": "carolingian-empire",
+  "name": "Carolingian Empire",
+  "era": "medieval",
+  "region": "Western & Central Europe",
+  "startYear": 800,
+  "endYear": 888,
+  "capital": "Aachen",
+  "capitalCoords": [
+    6.08,
+    50.78
+  ],
+  "summary": "Charlemagne’s Frankish empire, which united much of western Europe. It brought a revival of learning (the Carolingian Renaissance) and later split into what became France and Germany.",
+  "borderNames": [
+    "Carolingian Empire"
+  ],
+  "borderYears": [
+    750,
+    888
+  ],
+  "color": "#4a6ab0",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "France, Germany, the Low Countries, northern Italy and beyond.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Carolingian Empire (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Plains, forests and river valleys (Rhine, Seine, Loire).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "McKitterick, Charlemagne (2008)"
+      },
+      "climate": {
+        "value": "Temperate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "McKitterick, Charlemagne (2008)"
+      },
+      "resources": {
+        "value": "Farmland, forests, and silver.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "McKitterick, Charlemagne (2008)"
+      },
+      "disasters": {
+        "value": "Famines.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "McKitterick, Charlemagne (2008)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 10–20 million (9th century).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Carolingian Empire (checked 6 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "Few large towns; most people lived on estates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "McKitterick, Charlemagne (2008)"
+      },
+      "disease": {
+        "value": "No major epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "McKitterick, Charlemagne (2008)"
+      },
+      "migration": {
+        "value": "Viking raids in the 9th century.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "McKitterick, Charlemagne (2008)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Agriculture on large manors worked by serfs.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "McKitterick, Charlemagne (2008)"
+      },
+      "tradeRoutes": {
+        "value": "Trade along rivers and the North Sea.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "McKitterick, Charlemagne (2008)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "McKitterick, Charlemagne (2008)"
+      },
+      "moneyAndTax": {
+        "value": "The silver denarius (penny).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Carolingian Empire (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "Nobles and church owned land; most people were peasants.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "McKitterick, Charlemagne (2008)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy (emperor).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Carolingian Empire (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Charlemagne (800–814), Louis the Pious, Charles the Fat (last).",
+        "year": 800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Carolingian Empire (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Divided among sons; the Treaty of Verdun (843).",
+        "year": 843,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Carolingian Empire (checked 6 Nov 2026)"
+      },
+      "institutions": {
+        "value": "Counts and royal envoys (missi dominici).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "McKitterick, Charlemagne (2008)"
+      },
+      "stability": {
+        "value": "A civil war from 840 to 843.",
+        "year": 840,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Carolingian Empire (checked 6 Nov 2026)"
+      },
+      "eliteConflict": {
+        "value": "Rivalry among Charlemagne’s grandsons.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "McKitterick, Charlemagne (2008)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Armoured cavalry.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "McKitterick, Charlemagne (2008)"
+      },
+      "majorWars": {
+        "value": "Saxon Wars (772–804), conquest of the Lombards (774), wars with the Avars.",
+        "year": 772,
+        "certainty": "estimated",
+        "source": "McKitterick, Charlemagne (2008)"
+      },
+      "territoryChange": {
+        "value": "About 1.2 million km² (9th century).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Carolingian Empire (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Ally: the Pope. Rivals: Byzantium, Umayyad Spain, Vikings.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "McKitterick, Charlemagne (2008)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Carolingian minuscule handwriting.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "McKitterick, Charlemagne (2008)"
+      },
+      "scienceEducation": {
+        "value": "Monastic schools; Alcuin of York.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "McKitterick, Charlemagne (2008)"
+      },
+      "openness": {
+        "value": "Revived Roman and Christian learning.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "McKitterick, Charlemagne (2008)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Christianity (Church of Rome).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Carolingian Empire (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Latin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Carolingian Empire (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "The Palatine Chapel at Aachen.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "McKitterick, Charlemagne (2008)"
+      },
+      "socialStructure": {
+        "value": "Nobles, clergy, freemen, serfs.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "McKitterick, Charlemagne (2008)"
+      },
+      "sharedIdentity": {
+        "value": "Christianity and loyalty to the emperor.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "McKitterick, Charlemagne (2008)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Byzantines, Saxons, Avars, Muslims of Spain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "McKitterick, Charlemagne (2008)"
+      },
+      "ideasReligions": {
+        "value": "Spread Christianity among the Saxons and others, often by force.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "McKitterick, Charlemagne (2008)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "McKitterick, Charlemagne (2008)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Charlemagne crowned emperor on 25 December 800.",
+        "year": 800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Carolingian Empire (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "Under Charlemagne (768–814).",
+        "year": 814,
+        "certainty": "estimated",
+        "source": "McKitterick, Charlemagne (2008)"
+      },
+      "declineSignals": {
+        "value": "Civil war among Charlemagne’s grandsons and division at Verdun (843); Viking raids.",
+        "year": 843,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Carolingian Empire (checked 6 Nov 2026); McKitterick, Charlemagne (2008)"
+      },
+      "outcome": {
+        "value": "Dissolved in 888. Successors: West Francia, East Francia, Middle Francia.",
+        "year": 888,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Carolingian Empire (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Einhard’s Life of Charlemagne, charters. Checked against Wikipedia (“Carolingian Empire”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Carolingian Empire (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Good.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Carolingian Empire (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Carolingian minuscule",
+      "kind": "idea",
+      "year": 800,
+      "note": "Handwriting that led to modern lowercase letters."
+    },
+    {
+      "label": "Charlemagne",
+      "kind": "person",
+      "year": 800,
+      "note": "Crowned emperor by the Pope in 800."
+    },
+    {
+      "label": "Armoured cavalry",
+      "kind": "troops",
+      "note": "Mounted warriors."
+    }
+  ]
+}

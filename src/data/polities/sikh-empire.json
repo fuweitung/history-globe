@@ -1,0 +1,315 @@
+{
+  "id": "sikh-empire",
+  "name": "Sikh Empire",
+  "era": "early_modern",
+  "region": "South Asia (Punjab)",
+  "startYear": 1799,
+  "endYear": 1849,
+  "capital": "Lahore",
+  "capitalCoords": [
+    74.31,
+    31.59
+  ],
+  "summary": "A Punjabi state founded by Maharaja Ranjit Singh. Its religiously mixed court and modernised Khalsa army made it the last major Indian power to fall to the British.",
+  "borderNames": [
+    "Sikhs"
+  ],
+  "borderYears": [
+    1799,
+    1849
+  ],
+  "color": "#e0a02a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Punjab, Kashmir and the Peshawar valley; capital Lahore (from 1802).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sikh Empire (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "The five rivers of the Punjab plain, rising to the Himalaya and the Khyber Pass.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Grewal, The Sikhs of the Punjab (1990)"
+      },
+      "climate": {
+        "value": "Hot summers, monsoon rains and cold winters.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Grewal, The Sikhs of the Punjab (1990)"
+      },
+      "resources": {
+        "value": "Fertile irrigated farmland, Kashmir shawl wool, salt mines.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Grewal, The Sikhs of the Punjab (1990)"
+      },
+      "disasters": {
+        "value": "No major disasters are recorded in the sources checked.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Grewal, The Sikhs of the Punjab (1990)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 12 million (1800s, infobox); other contemporary estimates range from 3.5 to 15 million.",
+        "year": 1830,
+        "certainty": "disputed",
+        "source": "Wikipedia: Sikh Empire (checked 6 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "Lahore and Amritsar were the main cities.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Grewal, The Sikhs of the Punjab (1990)"
+      },
+      "disease": {
+        "value": "Cholera outbreaks in the 19th century.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Grewal, The Sikhs of the Punjab (1990)"
+      },
+      "migration": {
+        "value": "Soldiers and officers came from many regions, including European officers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Grewal, The Sikhs of the Punjab (1990)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Land revenue from farming, reportedly around 70% of state income.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Sikh Empire (checked 6 Nov 2026)"
+      },
+      "tradeRoutes": {
+        "value": "Trade between India, Afghanistan and Central Asia; Kashmir shawls exported.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Grewal, The Sikhs of the Punjab (1990)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Grewal, The Sikhs of the Punjab (1990)"
+      },
+      "moneyAndTax": {
+        "value": "Nanakshahi coins (silver rupees with Persian legends).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sikh Empire (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "Landowners and military chiefs (sardars) held much wealth.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Grewal, The Sikhs of the Punjab (1990)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Federal monarchy under a maharaja; court known as the Lahore Darbar.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sikh Empire (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Ranjit Singh (1801–1839), Kharak Singh, Sher Singh, regent Jind Kaur, Duleep Singh (last).",
+        "year": 1801,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sikh Empire (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Chaotic after Ranjit Singh: several rulers were killed within six years.",
+        "year": 1839,
+        "certainty": "estimated",
+        "source": "Grewal, The Sikhs of the Punjab (1990)"
+      },
+      "institutions": {
+        "value": "A centralised army and revenue system with officials of all religions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Grewal, The Sikhs of the Punjab (1990)"
+      },
+      "stability": {
+        "value": "Court murders and factional struggle after 1839.",
+        "year": 1839,
+        "certainty": "estimated",
+        "source": "Grewal, The Sikhs of the Punjab (1990)"
+      },
+      "eliteConflict": {
+        "value": "Rival court factions (the Dogra brothers, the Sandhawalias) and an assertive army.",
+        "year": 1843,
+        "certainty": "estimated",
+        "source": "Grewal, The Sikhs of the Punjab (1990)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "The Khalsa army, trained in European style with modern artillery, was one of the strongest in Asia.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Grewal, The Sikhs of the Punjab (1990)"
+      },
+      "majorWars": {
+        "value": "Afghan–Sikh Wars; Sino-Sikh War (1841–42); First and Second Anglo-Sikh Wars (1845–46, 1848–49).",
+        "year": 1846,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sikh Empire (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "About 520,000 km² in 1839; took Multan (1818), Kashmir (1819) and Peshawar.",
+        "year": 1839,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sikh Empire (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Treaty of Amritsar with the British (1809); rivals: the Durrani Afghans, later the British.",
+        "year": 1809,
+        "certainty": "estimated",
+        "source": "Grewal, The Sikhs of the Punjab (1990)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Adopted European military drill and artillery.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Grewal, The Sikhs of the Punjab (1990)"
+      },
+      "scienceEducation": {
+        "value": "Persian-language administration; gurdwara and mosque schools.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Grewal, The Sikhs of the Punjab (1990)"
+      },
+      "openness": {
+        "value": "Hired French, Italian and other European officers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Grewal, The Sikhs of the Punjab (1990)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sikhism was the ruling faith, with a Muslim majority and a Hindu minority.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sikh Empire (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Persian (court); Punjabi, Kashmiri, Pashto and Dogri widely spoken.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sikh Empire (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "The gilding of the Harmandir Sahib (Golden Temple) under Ranjit Singh; Sikh miniature painting.",
+        "year": 1830,
+        "certainty": "estimated",
+        "source": "Grewal, The Sikhs of the Punjab (1990)"
+      },
+      "socialStructure": {
+        "value": "Maharaja, sardars, soldiers, peasants of all faiths.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Grewal, The Sikhs of the Punjab (1990)"
+      },
+      "sharedIdentity": {
+        "value": "Motto “Akal Sahai” (“With God’s Grace”); Sikh Khalsa traditions.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sikh Empire (checked 6 Nov 2026)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "The British East India Company, Afghanistan, Tibet, Nepal.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sikh Empire (checked 6 Nov 2026)"
+      },
+      "ideasReligions": {
+        "value": "Sikh institutions spread across the Punjab.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Grewal, The Sikhs of the Punjab (1990)"
+      },
+      "colonisation": {
+        "value": "Annexed by the British in 1849.",
+        "year": 1849,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sikh Empire (checked 6 Nov 2026)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Ranjit Singh captured Lahore in 1799 and was crowned in 1801.",
+        "year": 1799,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sikh Empire (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "At Ranjit Singh’s death, with the empire at its largest.",
+        "year": 1839,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sikh Empire (checked 6 Nov 2026)"
+      },
+      "declineSignals": {
+        "value": "Succession murders and a powerful, restless army.",
+        "year": 1839,
+        "certainty": "estimated",
+        "source": "Grewal, The Sikhs of the Punjab (1990)"
+      },
+      "outcome": {
+        "value": "Annexed after the Second Anglo-Sikh War; became British Punjab.",
+        "year": 1849,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sikh Empire (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Persian court records and British accounts. Checked against Wikipedia (“Sikh Empire”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sikh Empire (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Medium. Population and religious-share figures vary widely.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Sikh Empire (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Gilded Golden Temple",
+      "kind": "monument",
+      "year": 1830,
+      "note": "Ranjit Singh covered the Harmandir Sahib in gold leaf."
+    },
+    {
+      "label": "Khalsa army",
+      "kind": "troops",
+      "year": 1820,
+      "note": "A European-trained army that fought the British to a standstill in several battles."
+    },
+    {
+      "label": "Koh-i-Noor diamond",
+      "kind": "art",
+      "year": 1813,
+      "note": "Taken by Ranjit Singh from Shah Shuja; passed to Britain in 1849."
+    },
+    {
+      "label": "Kashmir shawls",
+      "kind": "textile",
+      "note": "Fine wool shawls exported to Europe."
+    }
+  ]
+}

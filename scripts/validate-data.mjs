@@ -36,6 +36,11 @@ for (const f of (await readdir(join(dataDir, 'polities'))).filter((f) => f.endsW
   if (!ERAS.has(p.era)) errors.push(`${where}: bad era "${p.era}"`);
   if (typeof p.startYear !== 'number') errors.push(`${where}: startYear must be a number`);
   if (p.endYear !== null && p.endYear < p.startYear) errors.push(`${where}: endYear before startYear`);
+  const KF = new Set(['textile', 'troops', 'weapon', 'tool', 'monument', 'art', 'idea', 'food', 'person']);
+  for (const [i, k] of (p.knownFor ?? []).entries()) {
+    if (!k.label || !KF.has(k.kind)) errors.push(`${where}: knownFor[${i}] needs a label and a valid kind`);
+    if (k.year !== undefined && typeof k.year !== 'number') errors.push(`${where}: knownFor[${i}].year must be a number`);
+  }
   let filled = 0, total = 0;
   for (const cat of schema) {
     for (const field of cat.fields) {

@@ -1,0 +1,309 @@
+{
+  "id": "fatimid-caliphate",
+  "name": "Fatimid Caliphate",
+  "era": "medieval",
+  "region": "North Africa & Middle East",
+  "startYear": 909,
+  "endYear": 1171,
+  "capital": "Cairo (from 973)",
+  "capitalCoords": [
+    31.26,
+    30.05
+  ],
+  "summary": "An Ismaili Shi‘a caliphate that founded Cairo in 969 and its famous Al-Azhar mosque. It ruled North Africa, Egypt and the Levant until Saladin ended it in 1171.",
+  "borderNames": [
+    "Fatimid Caliphate"
+  ],
+  "borderYears": [
+    909,
+    1171
+  ],
+  "color": "#3f8a6a",
+  "knownFor": [
+    {
+      "label": "Founding of Cairo",
+      "kind": "monument",
+      "year": 969,
+      "note": "The Fatimids founded Cairo as their royal city."
+    },
+    {
+      "label": "Al-Azhar",
+      "kind": "idea",
+      "year": 970,
+      "note": "A mosque founded in 970 that became one of the world’s oldest universities."
+    },
+    {
+      "label": "Fatimid rock crystal",
+      "kind": "art",
+      "note": "Ewers carved from solid rock crystal, now treasures in European museums."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "North Africa, then Egypt, the Levant and the Hejaz.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Fatimid Caliphate (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "The Nile valley, deserts and coasts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Brett, The Fatimid Empire (2017)"
+      },
+      "climate": {
+        "value": "Low Nile floods caused famine in 1065–1072.",
+        "year": 1065,
+        "certainty": "estimated",
+        "source": "Brett, The Fatimid Empire (2017)"
+      },
+      "resources": {
+        "value": "Egyptian grain and flax.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Brett, The Fatimid Empire (2017)"
+      },
+      "disasters": {
+        "value": "Famine (1065–1072).",
+        "year": 1065,
+        "certainty": "estimated",
+        "source": "Brett, The Fatimid Empire (2017)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Brett, The Fatimid Empire (2017)"
+      },
+      "urbanisation": {
+        "value": "Founded Cairo in 969; it grew into one of the great cities of the Islamic world.",
+        "year": 969,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Fatimid Caliphate (checked 6 Nov 2026); Brett, The Fatimid Empire (2017)"
+      },
+      "disease": {
+        "value": "Plague outbreaks.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Brett, The Fatimid Empire (2017)"
+      },
+      "migration": {
+        "value": "Banu Hilal tribes moved west into North Africa.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Brett, The Fatimid Empire (2017)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Egyptian agriculture and trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Brett, The Fatimid Empire (2017)"
+      },
+      "tradeRoutes": {
+        "value": "Trade with the Indian Ocean and the Mediterranean.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Brett, The Fatimid Empire (2017)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Brett, The Fatimid Empire (2017)"
+      },
+      "moneyAndTax": {
+        "value": "The gold dinar.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Brett, The Fatimid Empire (2017)"
+      },
+      "inequality": {
+        "value": "The caliphal court and officials were wealthy.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Brett, The Fatimid Empire (2017)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Hereditary caliphate (Ismaili Shi‘a).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Fatimid Caliphate (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "al-Mahdi (909–934), al-Mu‘izz, al-Hakim, al-Mustansir.",
+        "year": 909,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Fatimid Caliphate (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Hereditary within the family; disputes split the Ismailis.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Brett, The Fatimid Empire (2017)"
+      },
+      "institutions": {
+        "value": "Viziers grew powerful.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Brett, The Fatimid Empire (2017)"
+      },
+      "stability": {
+        "value": "Army civil war in the 1060s.",
+        "year": 1060,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Fatimid Caliphate (checked 6 Nov 2026)"
+      },
+      "eliteConflict": {
+        "value": "Viziers versus caliphs, and rival army factions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Brett, The Fatimid Empire (2017)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "A multi-ethnic army (Berber, Turkish, Sudanese).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Brett, The Fatimid Empire (2017)"
+      },
+      "majorWars": {
+        "value": "Lost Jerusalem to the Crusaders (1099).",
+        "year": 1099,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Fatimid Caliphate (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "About 4.1 million km² at its height.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Fatimid Caliphate (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: the Abbasids, Seljuks, Crusaders.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Fatimid Caliphate (checked 6 Nov 2026)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Brett, The Fatimid Empire (2017)"
+      },
+      "scienceEducation": {
+        "value": "Al-Azhar (970–972), the Dar al-‘Ilm library.",
+        "year": 970,
+        "certainty": "estimated",
+        "source": "Brett, The Fatimid Empire (2017)"
+      },
+      "openness": {
+        "value": "Some tolerance of Sunnis, Jews and Christians.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Fatimid Caliphate (checked 6 Nov 2026)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Ismaili Shi‘a Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Fatimid Caliphate (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Arabic, Berber, Coptic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Fatimid Caliphate (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "Al-Azhar Mosque, Cairo’s walls and gates.",
+        "year": 970,
+        "certainty": "estimated",
+        "source": "Brett, The Fatimid Empire (2017)"
+      },
+      "socialStructure": {
+        "value": "Caliph, officials, soldiers, merchants.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Brett, The Fatimid Empire (2017)"
+      },
+      "sharedIdentity": {
+        "value": "Ismaili faith and loyalty to the imam-caliph.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Brett, The Fatimid Empire (2017)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Byzantium, Abbasids, Seljuks, Crusaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Brett, The Fatimid Empire (2017)"
+      },
+      "ideasReligions": {
+        "value": "Ismaili missionaries spread the faith.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Brett, The Fatimid Empire (2017)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Brett, The Fatimid Empire (2017)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Conquest of Egypt (969) and the founding of Cairo.",
+        "year": 969,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Fatimid Caliphate (checked 6 Nov 2026); Brett, The Fatimid Empire (2017)"
+      },
+      "peakPeriod": {
+        "value": "About 975–1050.",
+        "year": 1000,
+        "certainty": "estimated",
+        "source": "Brett, The Fatimid Empire (2017)"
+      },
+      "declineSignals": {
+        "value": "Civil war, Seljuks, Crusaders.",
+        "year": 1060,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Fatimid Caliphate (checked 6 Nov 2026)"
+      },
+      "outcome": {
+        "value": "Abolished by Saladin in 1171; succeeded by the Ayyubids.",
+        "year": 1171,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Fatimid Caliphate (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Chronicles and documents of the Cairo Geniza. Checked against Wikipedia (“Fatimid Caliphate”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Fatimid Caliphate (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Good.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Fatimid Caliphate (checked 6 Nov 2026)"
+      }
+    }
+  }
+}

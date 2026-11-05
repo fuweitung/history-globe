@@ -1,5 +1,19 @@
 [
   {
+    "id": "invention-of-the-wheel",
+    "year": -3500,
+    "yearApproximate": true,
+    "lat": 31.3,
+    "lng": 45.6,
+    "type": "invention",
+    "title": "The wheel",
+    "description": "Early wheeled vehicles appear in Mesopotamia and nearby regions, about 3500 BCE.",
+    "relatedPolityIds": [
+      "sumer"
+    ],
+    "source": "Wikipedia: Wheel (year from general references; not stated in the summary checked 6 Nov 2026)"
+  },
+  {
     "id": "cuneiform-writing",
     "year": -3200,
     "yearApproximate": true,
@@ -26,6 +40,20 @@
     ]
   },
   {
+    "id": "caral-pyramids",
+    "year": -2600,
+    "yearApproximate": true,
+    "lat": -10.89,
+    "lng": -77.52,
+    "type": "culture",
+    "title": "Caral’s great pyramids",
+    "description": "Caral–Supe builders raise platform mounds and sunken plazas, the oldest monumental city in the Americas.",
+    "relatedPolityIds": [
+      "caral-supe"
+    ],
+    "source": "Wikipedia: Caral (year from general references; not stated in the summary checked 6 Nov 2026)"
+  },
+  {
     "id": "great-pyramid",
     "year": -2560,
     "yearApproximate": true,
@@ -50,6 +78,62 @@
     "relatedPolityIds": [
       "indus-valley"
     ]
+  },
+  {
+    "id": "stonehenge",
+    "year": -2500,
+    "yearApproximate": true,
+    "lat": 51.18,
+    "lng": -1.83,
+    "type": "culture",
+    "title": "Stonehenge",
+    "description": "The great sarsen stones of Stonehenge are raised in southern Britain (around 2500 BCE).",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Stonehenge (year from general references; not stated in the summary checked 6 Nov 2026)"
+  },
+  {
+    "id": "sargon-akkad",
+    "year": -2334,
+    "yearApproximate": true,
+    "lat": 33.1,
+    "lng": 44.3,
+    "type": "person",
+    "title": "Sargon founds the Akkadian Empire",
+    "description": "Sargon of Akkad unites the Sumerian city-states, creating what is often called the first empire.",
+    "relatedPolityIds": [
+      "akkadian-empire",
+      "sumer"
+    ],
+    "source": "Wikipedia: Sargon of Akkad (checked 6 Nov 2026)"
+  },
+  {
+    "id": "enheduanna",
+    "year": -2285,
+    "yearApproximate": true,
+    "lat": 30.96,
+    "lng": 46.1,
+    "type": "culture",
+    "title": "Enheduanna, first named author",
+    "description": "Sargon’s daughter, high priestess at Ur, writes hymns: the earliest known author known by name.",
+    "relatedPolityIds": [
+      "akkadian-empire"
+    ],
+    "source": "Wikipedia: Enheduanna (year from general references; not stated in the summary checked 6 Nov 2026)"
+  },
+  {
+    "id": "4-2-kiloyear-event",
+    "year": -2200,
+    "yearApproximate": true,
+    "lat": 36.0,
+    "lng": 41.0,
+    "type": "disaster",
+    "title": "The 4.2-kiloyear drought",
+    "description": "A severe, long drought affects many regions and is linked to the fall of the Akkadian Empire.",
+    "relatedPolityIds": [
+      "akkadian-empire",
+      "indus-valley"
+    ],
+    "source": "Wikipedia: 4.2-kiloyear event (checked 6 Nov 2026)"
   },
   {
     "id": "knossos-palace",
@@ -87,7 +171,9 @@
     "type": "culture",
     "title": "Code of Hammurabi",
     "description": "King Hammurabi of Babylon issues one of the earliest surviving written law codes, carved on a stone stele.",
-    "relatedPolityIds": []
+    "relatedPolityIds": [
+      "babylonia"
+    ]
   },
   {
     "id": "thera-eruption",
@@ -101,6 +187,65 @@
     "relatedPolityIds": [
       "minoan"
     ]
+  },
+  {
+    "id": "hittite-sack-babylon",
+    "year": -1595,
+    "yearApproximate": true,
+    "lat": 32.54,
+    "lng": 44.42,
+    "type": "war",
+    "title": "Hittites sack Babylon",
+    "description": "The Hittite king Mursili I raids and sacks Babylon, ending the First Babylonian dynasty.",
+    "relatedPolityIds": [
+      "hittite-empire",
+      "babylonia"
+    ],
+    "source": "Wikipedia: Mursili I (checked 6 Nov 2026)"
+  },
+  {
+    "id": "akhenaten-amarna",
+    "year": -1346,
+    "yearApproximate": true,
+    "lat": 27.65,
+    "lng": 30.9,
+    "type": "culture",
+    "title": "Akhenaten’s religious revolution",
+    "description": "Pharaoh Akhenaten promotes the worship of the sun-disk Aten and builds a new capital at Amarna.",
+    "relatedPolityIds": [
+      "ancient-egypt"
+    ],
+    "source": "Wikipedia: Akhenaten (checked 6 Nov 2026)"
+  },
+  {
+    "id": "battle-of-kadesh",
+    "year": -1274,
+    "yearApproximate": true,
+    "lat": 34.56,
+    "lng": 36.52,
+    "type": "war",
+    "title": "Battle of Kadesh",
+    "description": "Egypt under Ramesses II and the Hittites under Muwatalli II fight one of the largest chariot battles known.",
+    "relatedPolityIds": [
+      "ancient-egypt",
+      "hittite-empire"
+    ],
+    "source": "Wikipedia: Battle of Kadesh (checked 6 Nov 2026)"
+  },
+  {
+    "id": "egyptian-hittite-treaty",
+    "year": -1259,
+    "yearApproximate": true,
+    "lat": 40.02,
+    "lng": 34.62,
+    "type": "culture",
+    "title": "Egyptian–Hittite peace treaty",
+    "description": "Ramesses II and Hattusili III sign one of the earliest known peace treaties.",
+    "relatedPolityIds": [
+      "ancient-egypt",
+      "hittite-empire"
+    ],
+    "source": "Wikipedia: Egyptian–Hittite peace treaty (checked 6 Nov 2026)"
   },
   {
     "id": "oracle-bones",
@@ -143,6 +288,20 @@
     ]
   },
   {
+    "id": "phoenician-alphabet",
+    "year": -1050,
+    "yearApproximate": true,
+    "lat": 33.27,
+    "lng": 35.2,
+    "type": "invention",
+    "title": "Phoenician alphabet",
+    "description": "The Phoenician alphabet, ancestor of the Greek, Latin and Arabic scripts, is in use.",
+    "relatedPolityIds": [
+      "carthage"
+    ],
+    "source": "Wikipedia: Phoenician alphabet (checked 6 Nov 2026)"
+  },
+  {
     "id": "zhou-conquest",
     "year": -1046,
     "lat": 34.3,
@@ -154,6 +313,20 @@
       "zhou",
       "shang"
     ]
+  },
+  {
+    "id": "founding-of-carthage",
+    "year": -814,
+    "yearApproximate": true,
+    "lat": 36.85,
+    "lng": 10.32,
+    "type": "person",
+    "title": "Carthage founded",
+    "description": "Settlers from Tyre found Carthage in North Africa (traditional date 814 BCE).",
+    "relatedPolityIds": [
+      "carthage"
+    ],
+    "source": "Wikipedia: Ancient Carthage (checked 6 Nov 2026)"
   },
   {
     "id": "first-olympics",
@@ -180,6 +353,104 @@
     "relatedPolityIds": [
       "roman-republic"
     ]
+  },
+  {
+    "id": "kush-rules-egypt",
+    "year": -744,
+    "endYear": -656,
+    "yearApproximate": true,
+    "lat": 18.53,
+    "lng": 31.82,
+    "type": "war",
+    "title": "Kushite kings rule Egypt",
+    "description": "Kings of Kush from Napata conquer Egypt and rule as its Twenty-fifth Dynasty.",
+    "relatedPolityIds": [
+      "kingdom-of-kush",
+      "ancient-egypt"
+    ],
+    "source": "Wikipedia: Twenty-fifth Dynasty of Egypt (year from general references; not stated in the summary checked 6 Nov 2026)"
+  },
+  {
+    "id": "assyria-conquers-israel",
+    "year": -722,
+    "yearApproximate": true,
+    "lat": 32.28,
+    "lng": 35.19,
+    "type": "war",
+    "title": "Assyria conquers Israel",
+    "description": "The Neo-Assyrian Empire captures Samaria and deports much of the population of the Kingdom of Israel.",
+    "relatedPolityIds": [
+      "assyria"
+    ],
+    "source": "Wikipedia: Assyrian captivity of Israel (year from general references; not stated in the summary checked 6 Nov 2026)"
+  },
+  {
+    "id": "library-of-ashurbanipal",
+    "year": -650,
+    "yearApproximate": true,
+    "lat": 36.36,
+    "lng": 43.15,
+    "type": "culture",
+    "title": "Library of Ashurbanipal",
+    "description": "The Assyrian king gathers tens of thousands of clay tablets at Nineveh, including the Epic of Gilgamesh.",
+    "relatedPolityIds": [
+      "assyria"
+    ],
+    "source": "Wikipedia: Library of Ashurbanipal (checked 6 Nov 2026)"
+  },
+  {
+    "id": "lydian-coins",
+    "year": -630,
+    "yearApproximate": true,
+    "lat": 38.48,
+    "lng": 28.04,
+    "type": "invention",
+    "title": "First coins",
+    "description": "The kingdom of Lydia in Anatolia issues some of the earliest known coins, made of electrum.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Lydia (checked 6 Nov 2026)"
+  },
+  {
+    "id": "fall-of-nineveh",
+    "year": -612,
+    "lat": 36.36,
+    "lng": 43.15,
+    "type": "war",
+    "title": "Fall of Nineveh",
+    "description": "Babylonians, Medes and Scythians sack the Assyrian capital, Nineveh.",
+    "relatedPolityIds": [
+      "assyria",
+      "babylonia"
+    ],
+    "source": "Wikipedia: Battle of Nineveh (612 BC) (checked 6 Nov 2026)"
+  },
+  {
+    "id": "siege-of-jerusalem-587",
+    "year": -587,
+    "yearApproximate": true,
+    "lat": 31.78,
+    "lng": 35.23,
+    "type": "war",
+    "title": "Babylon destroys Jerusalem",
+    "description": "Nebuchadnezzar II destroys Jerusalem and its temple and deports Judeans to Babylon.",
+    "relatedPolityIds": [
+      "babylonia"
+    ],
+    "source": "Wikipedia: Siege of Jerusalem (587 BC) (checked 6 Nov 2026)"
+  },
+  {
+    "id": "ishtar-gate",
+    "year": -569,
+    "yearApproximate": true,
+    "lat": 32.54,
+    "lng": 44.42,
+    "type": "culture",
+    "title": "Ishtar Gate",
+    "description": "Nebuchadnezzar II builds the blue-glazed Ishtar Gate of Babylon (c. 569 BCE).",
+    "relatedPolityIds": [
+      "babylonia"
+    ],
+    "source": "Wikipedia: Ishtar Gate (checked 6 Nov 2026)"
   },
   {
     "id": "confucius",
@@ -247,6 +518,32 @@
     ]
   },
   {
+    "id": "the-buddha",
+    "year": -480,
+    "yearApproximate": true,
+    "lat": 27.48,
+    "lng": 83.28,
+    "type": "person",
+    "title": "The Buddha",
+    "description": "Siddhartha Gautama teaches in northern India; the dates of his life (5th century BCE) are debated.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: The Buddha (checked 6 Nov 2026)"
+  },
+  {
+    "id": "thermopylae-salamis",
+    "year": -480,
+    "lat": 38.8,
+    "lng": 22.54,
+    "type": "war",
+    "title": "Thermopylae and Salamis",
+    "description": "Greek city-states resist Xerxes I’s invasion; the Persian fleet is defeated at Salamis.",
+    "relatedPolityIds": [
+      "ancient-greece",
+      "achaemenid-persia"
+    ],
+    "source": "Wikipedia: Battle of Salamis (checked 6 Nov 2026)"
+  },
+  {
     "id": "warring-states",
     "year": -475,
     "endYear": -221,
@@ -260,6 +557,20 @@
       "zhou",
       "qin"
     ]
+  },
+  {
+    "id": "peloponnesian-war",
+    "year": -431,
+    "endYear": -404,
+    "lat": 37.97,
+    "lng": 23.73,
+    "type": "war",
+    "title": "Peloponnesian War",
+    "description": "Athens and Sparta fight a long war that ends with Athens’ defeat.",
+    "relatedPolityIds": [
+      "ancient-greece"
+    ],
+    "source": "Wikipedia: Peloponnesian War (checked 6 Nov 2026)"
   },
   {
     "id": "alexander-conquests",
@@ -276,6 +587,33 @@
     ]
   },
   {
+    "id": "euclid-elements",
+    "year": -300,
+    "yearApproximate": true,
+    "lat": 31.2,
+    "lng": 29.92,
+    "type": "invention",
+    "title": "Euclid’s Elements",
+    "description": "In Alexandria, Euclid writes the Elements, a geometry textbook used for over 2,000 years.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Euclid's Elements (checked 6 Nov 2026)"
+  },
+  {
+    "id": "first-punic-war",
+    "year": -264,
+    "endYear": -241,
+    "lat": 37.6,
+    "lng": 14.0,
+    "type": "war",
+    "title": "First Punic War",
+    "description": "Rome and Carthage fight for Sicily; Rome wins and takes its first overseas province.",
+    "relatedPolityIds": [
+      "carthage",
+      "roman-republic"
+    ],
+    "source": "Wikipedia: First Punic War (checked 6 Nov 2026)"
+  },
+  {
     "id": "ashoka-kalinga",
     "year": -261,
     "yearApproximate": true,
@@ -287,6 +625,20 @@
     "relatedPolityIds": [
       "maurya"
     ]
+  },
+  {
+    "id": "parthian-empire-founded",
+    "year": -247,
+    "yearApproximate": true,
+    "lat": 36.3,
+    "lng": 54.3,
+    "type": "person",
+    "title": "Parthian Empire founded",
+    "description": "Arsaces I leads the Parni into Parthia, founding the Arsacid (Parthian) Empire.",
+    "relatedPolityIds": [
+      "parthian-empire"
+    ],
+    "source": "Wikipedia: Parthian Empire (checked 6 Nov 2026)"
   },
   {
     "id": "qin-unification",
@@ -302,6 +654,20 @@
     ]
   },
   {
+    "id": "hannibal-crosses-alps",
+    "year": -218,
+    "lat": 45.2,
+    "lng": 6.9,
+    "type": "war",
+    "title": "Hannibal crosses the Alps",
+    "description": "Hannibal leads a Carthaginian army with war elephants over the Alps into Italy.",
+    "relatedPolityIds": [
+      "carthage",
+      "roman-republic"
+    ],
+    "source": "Wikipedia: Hannibal's crossing of the Alps (checked 6 Nov 2026)"
+  },
+  {
     "id": "terracotta-army",
     "year": -210,
     "yearApproximate": true,
@@ -315,6 +681,19 @@
     ]
   },
   {
+    "id": "modu-chanyu",
+    "year": -209,
+    "lat": 47.5,
+    "lng": 102.5,
+    "type": "person",
+    "title": "Modu Chanyu unites the Xiongnu",
+    "description": "Modu becomes chanyu and builds the Xiongnu into a steppe empire.",
+    "relatedPolityIds": [
+      "xiongnu"
+    ],
+    "source": "Wikipedia: Modu Chanyu (checked 6 Nov 2026)"
+  },
+  {
     "id": "han-founded",
     "year": -202,
     "lat": 34.34,
@@ -326,6 +705,20 @@
       "han-china",
       "qin"
     ]
+  },
+  {
+    "id": "battle-of-baideng",
+    "year": -200,
+    "lat": 40.08,
+    "lng": 113.3,
+    "type": "war",
+    "title": "Battle of Baideng",
+    "description": "The Xiongnu surround the Han founder Liu Bang; the Han agree to pay tribute in a peace deal.",
+    "relatedPolityIds": [
+      "xiongnu",
+      "han-china"
+    ],
+    "source": "Wikipedia: Battle of Baideng (checked 6 Nov 2026)"
   },
   {
     "id": "carthage-destroyed",
@@ -354,6 +747,20 @@
     ]
   },
   {
+    "id": "battle-of-carrhae",
+    "year": -53,
+    "lat": 36.87,
+    "lng": 39.03,
+    "type": "war",
+    "title": "Battle of Carrhae",
+    "description": "Parthian horse archers destroy a Roman army under Crassus.",
+    "relatedPolityIds": [
+      "parthian-empire",
+      "roman-republic"
+    ],
+    "source": "Wikipedia: Battle of Carrhae (checked 6 Nov 2026)"
+  },
+  {
     "id": "caesar-assassinated",
     "year": -44,
     "lat": 41.89,
@@ -364,6 +771,20 @@
     "relatedPolityIds": [
       "roman-republic"
     ]
+  },
+  {
+    "id": "battle-of-actium",
+    "year": -31,
+    "lat": 38.93,
+    "lng": 20.74,
+    "type": "war",
+    "title": "Battle of Actium",
+    "description": "Octavian defeats Antony and Cleopatra, ending Ptolemaic Egypt and paving the way for the Roman Empire.",
+    "relatedPolityIds": [
+      "roman-republic",
+      "ancient-egypt"
+    ],
+    "source": "Wikipedia: Battle of Actium (checked 6 Nov 2026)"
   },
   {
     "id": "augustus-emperor",
@@ -377,6 +798,33 @@
       "roman-empire",
       "roman-republic"
     ]
+  },
+  {
+    "id": "jesus-of-nazareth",
+    "year": 30,
+    "yearApproximate": true,
+    "lat": 31.78,
+    "lng": 35.23,
+    "type": "person",
+    "title": "Crucifixion of Jesus",
+    "description": "Jesus of Nazareth is crucified in Roman Judea (c. 30–33 CE); Christianity grows from his followers.",
+    "relatedPolityIds": [
+      "roman-empire"
+    ],
+    "source": "Wikipedia: Jesus (year from general references; not stated in the summary checked 6 Nov 2026)"
+  },
+  {
+    "id": "vesuvius-79",
+    "year": 79,
+    "lat": 40.75,
+    "lng": 14.49,
+    "type": "disaster",
+    "title": "Vesuvius buries Pompeii",
+    "description": "The eruption of Mount Vesuvius buries Pompeii and Herculaneum.",
+    "relatedPolityIds": [
+      "roman-empire"
+    ],
+    "source": "Wikipedia: Eruption of Mount Vesuvius in 79 AD (checked 6 Nov 2026)"
   },
   {
     "id": "paper-cai-lun",
@@ -402,6 +850,20 @@
     "relatedPolityIds": [
       "roman-empire"
     ]
+  },
+  {
+    "id": "kanishka",
+    "year": 127,
+    "yearApproximate": true,
+    "lat": 34.01,
+    "lng": 71.58,
+    "type": "person",
+    "title": "Reign of Kanishka",
+    "description": "Kanishka rules the Kushan Empire at its height and supports Buddhism.",
+    "relatedPolityIds": [
+      "kushan-empire"
+    ],
+    "source": "Wikipedia: Kanishka (year from general references; not stated in the summary checked 6 Nov 2026)"
   },
   {
     "id": "antonine-plague",
@@ -439,6 +901,20 @@
     "relatedPolityIds": [
       "han-china"
     ]
+  },
+  {
+    "id": "battle-of-hormozdgan",
+    "year": 224,
+    "lat": 31.3,
+    "lng": 49.3,
+    "type": "war",
+    "title": "Sasanians overthrow the Parthians",
+    "description": "Ardashir I defeats the last Parthian king, Artabanus IV, and founds the Sasanian Empire.",
+    "relatedPolityIds": [
+      "parthian-empire",
+      "sasanian"
+    ],
+    "source": "Wikipedia: Battle of Hormozdgan (checked 6 Nov 2026)"
   },
   {
     "id": "maya-classic",
@@ -492,6 +968,49 @@
     ]
   },
   {
+    "id": "fall-of-kush",
+    "year": 350,
+    "yearApproximate": true,
+    "lat": 16.94,
+    "lng": 33.75,
+    "type": "war",
+    "title": "Decline of Kush and Meroë",
+    "description": "The Kingdom of Kush breaks apart in the 4th century; Aksum raids Meroë.",
+    "relatedPolityIds": [
+      "kingdom-of-kush",
+      "aksum"
+    ],
+    "source": "Wikipedia: Kingdom of Kush (checked 6 Nov 2026)"
+  },
+  {
+    "id": "teotihuacan-tikal",
+    "year": 378,
+    "yearApproximate": true,
+    "lat": 17.22,
+    "lng": -89.62,
+    "type": "war",
+    "title": "Teotihuacan intervenes at Tikal",
+    "description": "Warriors linked to Teotihuacan arrive at Tikal; a new dynasty takes the throne.",
+    "relatedPolityIds": [
+      "teotihuacan",
+      "maya"
+    ],
+    "source": "Wikipedia: Siyaj K'ak' (year from general references; not stated in the summary checked 6 Nov 2026)"
+  },
+  {
+    "id": "sack-of-rome-410",
+    "year": 410,
+    "lat": 41.9,
+    "lng": 12.5,
+    "type": "war",
+    "title": "Visigoths sack Rome",
+    "description": "Alaric’s Visigoths sack Rome, a deep shock to the Roman world.",
+    "relatedPolityIds": [
+      "roman-empire"
+    ],
+    "source": "Wikipedia: Sack of Rome (410) (checked 6 Nov 2026)"
+  },
+  {
     "id": "fall-of-western-rome",
     "year": 476,
     "lat": 44.42,
@@ -515,6 +1034,20 @@
     "relatedPolityIds": [
       "gupta"
     ]
+  },
+  {
+    "id": "extreme-weather-536",
+    "year": 536,
+    "lat": 64.0,
+    "lng": -19.0,
+    "type": "disaster",
+    "title": "Extreme weather of 535–536",
+    "description": "Volcanic eruptions cause a sudden cold period across the Northern Hemisphere.",
+    "relatedPolityIds": [
+      "teotihuacan",
+      "byzantine-empire"
+    ],
+    "source": "Wikipedia: Volcanic winter of 536 (checked 6 Nov 2026)"
   },
   {
     "id": "hagia-sophia",
@@ -541,6 +1074,20 @@
       "byzantine-empire",
       "sasanian"
     ]
+  },
+  {
+    "id": "teotihuacan-burned",
+    "year": 550,
+    "yearApproximate": true,
+    "lat": 19.69,
+    "lng": -98.84,
+    "type": "disaster",
+    "title": "Teotihuacan’s centre burned",
+    "description": "The main buildings of Teotihuacan are burned, and the city declines.",
+    "relatedPolityIds": [
+      "teotihuacan"
+    ],
+    "source": "Wikipedia: Teotihuacan (checked 6 Nov 2026)"
   },
   {
     "id": "sui-reunifies",
@@ -581,6 +1128,20 @@
     ]
   },
   {
+    "id": "songtsen-gampo",
+    "year": 618,
+    "yearApproximate": true,
+    "lat": 29.65,
+    "lng": 91.17,
+    "type": "person",
+    "title": "Tibetan Empire founded",
+    "description": "Songtsen Gampo unites Tibet, moves the capital to Lhasa and builds the Tibetan Empire.",
+    "relatedPolityIds": [
+      "tibetan-empire"
+    ],
+    "source": "Wikipedia: Songtsen Gampo (checked 6 Nov 2026)"
+  },
+  {
     "id": "hijra",
     "year": 622,
     "lat": 24.47,
@@ -605,6 +1166,19 @@
     ]
   },
   {
+    "id": "umayyad-founded",
+    "year": 661,
+    "lat": 33.51,
+    "lng": 36.31,
+    "type": "person",
+    "title": "Umayyad Caliphate founded",
+    "description": "Mu‘awiya I founds the Umayyad dynasty, ruling from Damascus.",
+    "relatedPolityIds": [
+      "umayyad-caliphate"
+    ],
+    "source": "Wikipedia: Umayyad Caliphate (checked 6 Nov 2026)"
+  },
+  {
     "id": "srivijaya-inscription",
     "year": 682,
     "lat": -2.99,
@@ -615,6 +1189,47 @@
     "relatedPolityIds": [
       "srivijaya"
     ]
+  },
+  {
+    "id": "conquest-of-hispania",
+    "year": 711,
+    "lat": 36.0,
+    "lng": -5.6,
+    "type": "war",
+    "title": "Umayyad conquest of Iberia",
+    "description": "Umayyad forces cross from North Africa and conquer most of the Iberian peninsula.",
+    "relatedPolityIds": [
+      "umayyad-caliphate"
+    ],
+    "source": "Wikipedia: Umayyad conquest of Hispania (checked 6 Nov 2026)"
+  },
+  {
+    "id": "battle-of-tours",
+    "year": 732,
+    "lat": 46.9,
+    "lng": 0.6,
+    "type": "war",
+    "title": "Battle of Tours",
+    "description": "Frankish forces under Charles Martel defeat an Umayyad army in Gaul.",
+    "relatedPolityIds": [
+      "umayyad-caliphate",
+      "carolingian-empire"
+    ],
+    "source": "Wikipedia: Battle of Tours (checked 6 Nov 2026)"
+  },
+  {
+    "id": "abbasid-revolution",
+    "year": 750,
+    "lat": 36.6,
+    "lng": 43.5,
+    "type": "war",
+    "title": "Abbasid Revolution",
+    "description": "The Abbasids overthrow the Umayyads at the Battle of the Zab.",
+    "relatedPolityIds": [
+      "abbasid-caliphate",
+      "umayyad-caliphate"
+    ],
+    "source": "Wikipedia: Abbasid Revolution (checked 6 Nov 2026)"
   },
   {
     "id": "battle-of-talas",
@@ -641,6 +1256,31 @@
     "relatedPolityIds": [
       "tang"
     ]
+  },
+  {
+    "id": "tibet-takes-changan",
+    "year": 763,
+    "lat": 34.34,
+    "lng": 108.94,
+    "type": "war",
+    "title": "Tibet takes Chang’an",
+    "description": "The Tibetan army briefly occupies the Tang capital, Chang’an.",
+    "relatedPolityIds": [
+      "tibetan-empire",
+      "tang"
+    ],
+    "source": "Wikipedia: Tibetan Empire (checked 6 Nov 2026)"
+  },
+  {
+    "id": "lindisfarne",
+    "year": 793,
+    "lat": 55.67,
+    "lng": -1.8,
+    "type": "war",
+    "title": "Viking raid on Lindisfarne",
+    "description": "Vikings raid the monastery of Lindisfarne, opening the Viking Age in western Europe.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Viking raid on Lindisfarne (checked 6 Nov 2026)"
   },
   {
     "id": "charlemagne-crowned",
@@ -692,6 +1332,115 @@
     ]
   },
   {
+    "id": "treaty-of-verdun",
+    "year": 843,
+    "lat": 49.16,
+    "lng": 5.38,
+    "type": "war",
+    "title": "Treaty of Verdun",
+    "description": "Charlemagne’s grandsons divide the Carolingian Empire into three kingdoms.",
+    "relatedPolityIds": [
+      "carolingian-empire"
+    ],
+    "source": "Wikipedia: Treaty of Verdun (checked 6 Nov 2026)"
+  },
+  {
+    "id": "pagan-founded",
+    "year": 849,
+    "yearApproximate": true,
+    "lat": 21.17,
+    "lng": 94.86,
+    "type": "person",
+    "title": "Pagan Kingdom founded",
+    "description": "Pagan (Bagan) is founded on the Irrawaddy; it later unifies Myanmar.",
+    "relatedPolityIds": [
+      "pagan-kingdom"
+    ],
+    "source": "Wikipedia: Pagan Kingdom (checked 6 Nov 2026)"
+  },
+  {
+    "id": "diamond-sutra",
+    "year": 868,
+    "yearApproximate": true,
+    "lat": 40.04,
+    "lng": 94.8,
+    "type": "invention",
+    "title": "The Diamond Sutra",
+    "description": "A Buddhist scroll from Dunhuang, the oldest surviving dated printed book.",
+    "relatedPolityIds": [
+      "tang"
+    ],
+    "source": "Wikipedia: Diamond Sutra (year from general references; not stated in the summary checked 6 Nov 2026)"
+  },
+  {
+    "id": "oleg-takes-kiev",
+    "year": 882,
+    "yearApproximate": true,
+    "lat": 50.45,
+    "lng": 30.52,
+    "type": "person",
+    "title": "Oleg takes Kiev",
+    "description": "Oleg of Novgorod takes Kiev and makes it the centre of Rus’.",
+    "relatedPolityIds": [
+      "kievan-rus"
+    ],
+    "source": "Wikipedia: Oleg of Novgorod (year from general references; not stated in the summary checked 6 Nov 2026)"
+  },
+  {
+    "id": "classic-maya-collapse",
+    "year": 900,
+    "yearApproximate": true,
+    "lat": 17.22,
+    "lng": -89.62,
+    "type": "disaster",
+    "title": "Classic Maya collapse",
+    "description": "Many southern Maya cities are abandoned in the 9th century, probably due to drought, war and overpopulation.",
+    "relatedPolityIds": [
+      "maya"
+    ],
+    "source": "Wikipedia: Classic Maya collapse (checked 6 Nov 2026)"
+  },
+  {
+    "id": "fatimid-founded",
+    "year": 909,
+    "lat": 35.67,
+    "lng": 10.1,
+    "type": "person",
+    "title": "Fatimid Caliphate founded",
+    "description": "Abd Allah al-Mahdi proclaims the Ismaili Fatimid Caliphate in North Africa.",
+    "relatedPolityIds": [
+      "fatimid-caliphate",
+      "abbasid-caliphate"
+    ],
+    "source": "Wikipedia: Fatimid Caliphate (checked 6 Nov 2026)"
+  },
+  {
+    "id": "goryeo-founded",
+    "year": 918,
+    "lat": 37.97,
+    "lng": 126.55,
+    "type": "person",
+    "title": "Goryeo founded",
+    "description": "Wang Kŏn founds Goryeo, which reunifies Korea in 936.",
+    "relatedPolityIds": [
+      "goryeo"
+    ],
+    "source": "Wikipedia: Goryeo (checked 6 Nov 2026)"
+  },
+  {
+    "id": "bach-dang-938",
+    "year": 938,
+    "lat": 20.9,
+    "lng": 106.8,
+    "type": "war",
+    "title": "Battle of Bạch Đằng",
+    "description": "Ngô Quyền defeats a Southern Han fleet, ending a thousand years of Chinese rule in Vietnam.",
+    "relatedPolityIds": [
+      "dai-viet"
+    ],
+    "source": "Wikipedia: Battle of Bạch Đằng (938) (checked 6 Nov 2026)"
+  },
+  {
     "id": "otto-crowned",
     "year": 962,
     "lat": 41.9,
@@ -702,6 +1451,60 @@
     "relatedPolityIds": [
       "holy-roman-empire"
     ]
+  },
+  {
+    "id": "cairo-founded",
+    "year": 969,
+    "yearApproximate": true,
+    "lat": 30.05,
+    "lng": 31.26,
+    "type": "person",
+    "title": "Cairo founded",
+    "description": "The Fatimids conquer Egypt and found Cairo.",
+    "relatedPolityIds": [
+      "fatimid-caliphate"
+    ],
+    "source": "Wikipedia: Cairo (year from general references; not stated in the summary checked 6 Nov 2026)"
+  },
+  {
+    "id": "baptism-of-rus",
+    "year": 988,
+    "yearApproximate": true,
+    "lat": 50.45,
+    "lng": 30.52,
+    "type": "culture",
+    "title": "Christianisation of Rus’",
+    "description": "Vladimir the Great adopts Orthodox Christianity from Byzantium.",
+    "relatedPolityIds": [
+      "kievan-rus",
+      "byzantine-empire"
+    ],
+    "source": "Wikipedia: Christianization of Kievan Rus' (checked 6 Nov 2026)"
+  },
+  {
+    "id": "lanse-aux-meadows",
+    "year": 1000,
+    "yearApproximate": true,
+    "lat": 51.6,
+    "lng": -55.5,
+    "type": "trade",
+    "title": "Norse reach North America",
+    "description": "Norse voyagers build a camp at L’Anse aux Meadows in Newfoundland around 1000.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: L'Anse aux Meadows (checked 6 Nov 2026)"
+  },
+  {
+    "id": "brihadisvara-temple",
+    "year": 1010,
+    "lat": 10.78,
+    "lng": 79.13,
+    "type": "culture",
+    "title": "Brihadisvara Temple completed",
+    "description": "Rajaraja I completes the great Chola temple at Thanjavur.",
+    "relatedPolityIds": [
+      "chola-empire"
+    ],
+    "source": "Wikipedia: Brihadisvara Temple, Thanjavur (checked 6 Nov 2026)"
   },
   {
     "id": "song-paper-money",
@@ -742,6 +1545,20 @@
     ]
   },
   {
+    "id": "cahokia-founded",
+    "year": 1050,
+    "yearApproximate": true,
+    "lat": 38.66,
+    "lng": -90.06,
+    "type": "culture",
+    "title": "Cahokia rises",
+    "description": "Cahokia grows into the largest city north of Mexico, with Monks Mound at its centre.",
+    "relatedPolityIds": [
+      "mississippian"
+    ],
+    "source": "Wikipedia: Cahokia (checked 6 Nov 2026)"
+  },
+  {
     "id": "great-schism",
     "year": 1054,
     "lat": 41.01,
@@ -752,6 +1569,44 @@
     "relatedPolityIds": [
       "byzantine-empire"
     ]
+  },
+  {
+    "id": "norman-conquest",
+    "year": 1066,
+    "lat": 50.91,
+    "lng": 0.49,
+    "type": "war",
+    "title": "Norman conquest of England",
+    "description": "William of Normandy defeats Harold II at Hastings.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Norman Conquest (checked 6 Nov 2026)"
+  },
+  {
+    "id": "battle-of-manzikert",
+    "year": 1071,
+    "lat": 39.14,
+    "lng": 42.54,
+    "type": "war",
+    "title": "Battle of Manzikert",
+    "description": "The Seljuks defeat and capture the Byzantine emperor Romanos IV, opening Anatolia to Turkish settlement.",
+    "relatedPolityIds": [
+      "seljuk-empire",
+      "byzantine-empire"
+    ],
+    "source": "Wikipedia: Battle of Manzikert (checked 6 Nov 2026)"
+  },
+  {
+    "id": "university-of-bologna",
+    "year": 1088,
+    "lat": 44.49,
+    "lng": 11.34,
+    "type": "culture",
+    "title": "University of Bologna",
+    "description": "Traditionally founded in 1088, the oldest university in continuous operation.",
+    "relatedPolityIds": [
+      "holy-roman-empire"
+    ],
+    "source": "Wikipedia: University of Bologna (checked 6 Nov 2026)"
   },
   {
     "id": "first-crusade",
@@ -765,6 +1620,20 @@
     "relatedPolityIds": [
       "byzantine-empire"
     ]
+  },
+  {
+    "id": "crusaders-take-jerusalem",
+    "year": 1099,
+    "lat": 31.78,
+    "lng": 35.23,
+    "type": "war",
+    "title": "Crusaders take Jerusalem",
+    "description": "The First Crusade captures Jerusalem from the Fatimids.",
+    "relatedPolityIds": [
+      "fatimid-caliphate",
+      "byzantine-empire"
+    ],
+    "source": "Wikipedia: Siege of Jerusalem (1099) (checked 6 Nov 2026)"
   },
   {
     "id": "angkor-wat",
@@ -781,6 +1650,47 @@
     ]
   },
   {
+    "id": "saladin-ends-fatimids",
+    "year": 1171,
+    "yearApproximate": true,
+    "lat": 30.05,
+    "lng": 31.26,
+    "type": "war",
+    "title": "Saladin ends the Fatimids",
+    "description": "Saladin abolishes the Fatimid Caliphate and founds the Ayyubid dynasty.",
+    "relatedPolityIds": [
+      "fatimid-caliphate",
+      "abbasid-caliphate"
+    ],
+    "source": "Wikipedia: Saladin (year from general references; not stated in the summary checked 6 Nov 2026)"
+  },
+  {
+    "id": "cham-sack-angkor",
+    "year": 1177,
+    "yearApproximate": true,
+    "lat": 13.41,
+    "lng": 103.87,
+    "type": "war",
+    "title": "Champa sacks Angkor",
+    "description": "A Cham fleet sails up the Mekong and sacks the Khmer capital.",
+    "relatedPolityIds": [
+      "champa",
+      "khmer-empire"
+    ],
+    "source": "Wikipedia: Khmer–Cham war (1177–1181) (year from general references; not stated in the summary checked 6 Nov 2026)"
+  },
+  {
+    "id": "battle-of-hattin",
+    "year": 1187,
+    "lat": 32.8,
+    "lng": 35.45,
+    "type": "war",
+    "title": "Battle of Hattin",
+    "description": "Saladin defeats the Crusaders and retakes Jerusalem.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Battle of Hattin (checked 6 Nov 2026)"
+  },
+  {
     "id": "genghis-khan",
     "year": 1206,
     "lat": 47.92,
@@ -793,6 +1703,19 @@
     ]
   },
   {
+    "id": "delhi-sultanate-founded",
+    "year": 1206,
+    "lat": 28.61,
+    "lng": 77.21,
+    "type": "person",
+    "title": "Delhi Sultanate founded",
+    "description": "Qutb ud-Din Aibak rules independently from Delhi, beginning the Delhi Sultanate.",
+    "relatedPolityIds": [
+      "delhi-sultanate"
+    ],
+    "source": "Wikipedia: Delhi Sultanate (checked 6 Nov 2026)"
+  },
+  {
     "id": "magna-carta",
     "year": 1215,
     "lat": 51.44,
@@ -801,6 +1724,61 @@
     "title": "Magna Carta",
     "description": "English barons force King John to accept limits on royal power.",
     "relatedPolityIds": []
+  },
+  {
+    "id": "mongols-sack-kiev",
+    "year": 1240,
+    "lat": 50.45,
+    "lng": 30.52,
+    "type": "war",
+    "title": "Mongols sack Kiev",
+    "description": "Batu’s army destroys Kiev, ending Kievan Rus’.",
+    "relatedPolityIds": [
+      "kievan-rus",
+      "mongol-empire",
+      "golden-horde"
+    ],
+    "source": "Wikipedia: Siege of Kiev (1240) (checked 6 Nov 2026)"
+  },
+  {
+    "id": "battle-of-mohi",
+    "year": 1241,
+    "yearApproximate": true,
+    "lat": 47.98,
+    "lng": 20.92,
+    "type": "war",
+    "title": "Mongols invade Europe",
+    "description": "Mongol armies defeat Polish and Hungarian forces at Legnica and Mohi.",
+    "relatedPolityIds": [
+      "mongol-empire"
+    ],
+    "source": "Wikipedia: Battle of Mohi (year from general references; not stated in the summary checked 6 Nov 2026)"
+  },
+  {
+    "id": "mamluks-take-power",
+    "year": 1250,
+    "lat": 30.05,
+    "lng": 31.26,
+    "type": "person",
+    "title": "Mamluks take power in Egypt",
+    "description": "Slave-soldiers overthrow the Ayyubids and found the Mamluk Sultanate.",
+    "relatedPolityIds": [
+      "mamluk-sultanate"
+    ],
+    "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026)"
+  },
+  {
+    "id": "tripitaka-koreana",
+    "year": 1251,
+    "lat": 35.8,
+    "lng": 128.1,
+    "type": "culture",
+    "title": "Tripitaka Koreana completed",
+    "description": "Goryeo finishes carving over 80,000 woodblocks of Buddhist scriptures.",
+    "relatedPolityIds": [
+      "goryeo"
+    ],
+    "source": "Wikipedia: Tripitaka Koreana (checked 6 Nov 2026)"
   },
   {
     "id": "sack-of-baghdad",
@@ -814,6 +1792,20 @@
       "mongol-empire",
       "abbasid-caliphate"
     ]
+  },
+  {
+    "id": "battle-of-ain-jalut",
+    "year": 1260,
+    "lat": 32.55,
+    "lng": 35.36,
+    "type": "war",
+    "title": "Battle of Ain Jalut",
+    "description": "The Mamluks defeat a Mongol army in Palestine, halting Mongol expansion.",
+    "relatedPolityIds": [
+      "mamluk-sultanate",
+      "mongol-empire"
+    ],
+    "source": "Wikipedia: Battle of Ain Jalut (checked 6 Nov 2026)"
   },
   {
     "id": "kublai-yuan",
@@ -830,6 +1822,76 @@
     ]
   },
   {
+    "id": "marco-polo",
+    "year": 1271,
+    "endYear": 1295,
+    "lat": 39.91,
+    "lng": 116.39,
+    "type": "trade",
+    "title": "Travels of Marco Polo",
+    "description": "The Venetian merchant travels to Kublai Khan’s court; his book shapes European ideas of Asia.",
+    "relatedPolityIds": [
+      "yuan"
+    ],
+    "source": "Wikipedia: Marco Polo (checked 6 Nov 2026)"
+  },
+  {
+    "id": "mongol-invasions-japan",
+    "year": 1274,
+    "endYear": 1281,
+    "lat": 33.6,
+    "lng": 130.4,
+    "type": "war",
+    "title": "Mongol invasions of Japan",
+    "description": "Two Yuan fleets attack Japan and are wrecked, partly by storms (the “kamikaze”).",
+    "relatedPolityIds": [
+      "yuan"
+    ],
+    "source": "Wikipedia: Mongol invasions of Japan (checked 6 Nov 2026)"
+  },
+  {
+    "id": "mongols-and-pagan",
+    "year": 1287,
+    "lat": 21.17,
+    "lng": 94.86,
+    "type": "war",
+    "title": "Mongol invasion of Pagan",
+    "description": "Yuan armies invade Burma and the Pagan Kingdom collapses.",
+    "relatedPolityIds": [
+      "pagan-kingdom",
+      "yuan"
+    ],
+    "source": "Wikipedia: First Mongol invasion of Burma (checked 6 Nov 2026)"
+  },
+  {
+    "id": "bach-dang-1288",
+    "year": 1288,
+    "yearApproximate": true,
+    "lat": 20.9,
+    "lng": 106.8,
+    "type": "war",
+    "title": "Đại Việt defeats the Yuan",
+    "description": "Trần Hưng Đạo destroys the Yuan fleet at the Bạch Đằng river.",
+    "relatedPolityIds": [
+      "dai-viet",
+      "yuan"
+    ],
+    "source": "Wikipedia: Battle of Bạch Đằng (1288) (year from general references; not stated in the summary checked 6 Nov 2026)"
+  },
+  {
+    "id": "fall-of-acre",
+    "year": 1291,
+    "lat": 32.92,
+    "lng": 35.07,
+    "type": "war",
+    "title": "Fall of Acre",
+    "description": "The Mamluks take Acre, the last major Crusader stronghold.",
+    "relatedPolityIds": [
+      "mamluk-sultanate"
+    ],
+    "source": "Wikipedia: Siege of Acre (1291) (checked 6 Nov 2026)"
+  },
+  {
     "id": "majapahit-founded",
     "year": 1293,
     "lat": -7.56,
@@ -841,6 +1903,20 @@
       "majapahit",
       "yuan"
     ]
+  },
+  {
+    "id": "ottoman-beylik",
+    "year": 1299,
+    "yearApproximate": true,
+    "lat": 40.14,
+    "lng": 29.98,
+    "type": "person",
+    "title": "Osman founds the Ottoman state",
+    "description": "Osman I leads a small Turkish principality in north-western Anatolia that grows into the Ottoman Empire.",
+    "relatedPolityIds": [
+      "ottoman-empire"
+    ],
+    "source": "Wikipedia: Osman I (year from general references; not stated in the summary checked 6 Nov 2026)"
   },
   {
     "id": "great-zimbabwe-enclosure",
@@ -896,6 +1972,46 @@
     ]
   },
   {
+    "id": "vijayanagara-founded",
+    "year": 1336,
+    "lat": 15.33,
+    "lng": 76.47,
+    "type": "person",
+    "title": "Vijayanagara founded",
+    "description": "Harihara I and Bukka Raya I found the Vijayanagara Empire.",
+    "relatedPolityIds": [
+      "vijayanagara"
+    ],
+    "source": "Wikipedia: Vijayanagara Empire (checked 6 Nov 2026)"
+  },
+  {
+    "id": "hundred-years-war",
+    "year": 1337,
+    "endYear": 1453,
+    "lat": 49.0,
+    "lng": 2.0,
+    "type": "war",
+    "title": "Hundred Years’ War",
+    "description": "England and France fight a long series of wars for the French throne.",
+    "relatedPolityIds": [
+      "kingdom-of-france"
+    ],
+    "source": "Wikipedia: Hundred Years' War (checked 6 Nov 2026)"
+  },
+  {
+    "id": "siege-of-caffa",
+    "year": 1346,
+    "lat": 45.03,
+    "lng": 35.38,
+    "type": "disaster",
+    "title": "Siege of Caffa",
+    "description": "The Golden Horde besieges Caffa in Crimea; plague spreads from the region to Europe.",
+    "relatedPolityIds": [
+      "golden-horde"
+    ],
+    "source": "Wikipedia: Siege of Caffa (checked 6 Nov 2026)"
+  },
+  {
     "id": "black-death",
     "year": 1347,
     "endYear": 1351,
@@ -910,6 +2026,20 @@
     ]
   },
   {
+    "id": "ayutthaya-founded",
+    "year": 1351,
+    "lat": 14.35,
+    "lng": 100.57,
+    "type": "person",
+    "title": "Ayutthaya founded",
+    "description": "King Uthong founds Ayutthaya, later Siam’s great kingdom.",
+    "relatedPolityIds": [
+      "ayutthaya-kingdom",
+      "sukhothai"
+    ],
+    "source": "Wikipedia: Ayutthaya Kingdom (checked 6 Nov 2026)"
+  },
+  {
     "id": "ming-founded",
     "year": 1368,
     "lat": 32.06,
@@ -921,6 +2051,76 @@
       "ming-china",
       "yuan"
     ]
+  },
+  {
+    "id": "timur-rises",
+    "year": 1370,
+    "yearApproximate": true,
+    "lat": 39.65,
+    "lng": 66.97,
+    "type": "person",
+    "title": "Timur takes power",
+    "description": "Timur becomes ruler in Samarkand and begins decades of conquest.",
+    "relatedPolityIds": [
+      "timurid-empire"
+    ],
+    "source": "Wikipedia: Timur (year from general references; not stated in the summary checked 6 Nov 2026)"
+  },
+  {
+    "id": "jikji",
+    "year": 1377,
+    "lat": 36.64,
+    "lng": 127.49,
+    "type": "invention",
+    "title": "Jikji printed with metal type",
+    "description": "The oldest surviving book printed with movable metal type is produced in Goryeo.",
+    "relatedPolityIds": [
+      "goryeo"
+    ],
+    "source": "Wikipedia: Jikji (checked 6 Nov 2026)"
+  },
+  {
+    "id": "joseon-founded",
+    "year": 1392,
+    "lat": 37.57,
+    "lng": 126.98,
+    "type": "person",
+    "title": "Joseon founded",
+    "description": "Yi Sŏng-gye ends Goryeo and founds the Joseon dynasty.",
+    "relatedPolityIds": [
+      "joseon-korea",
+      "goryeo"
+    ],
+    "source": "Wikipedia: Joseon (checked 6 Nov 2026)"
+  },
+  {
+    "id": "timur-sacks-delhi",
+    "year": 1398,
+    "yearApproximate": true,
+    "lat": 28.61,
+    "lng": 77.21,
+    "type": "war",
+    "title": "Timur sacks Delhi",
+    "description": "Timur defeats the Tughluq sultan and sacks Delhi.",
+    "relatedPolityIds": [
+      "timurid-empire",
+      "delhi-sultanate"
+    ],
+    "source": "Wikipedia: Siege of Delhi (1398) (year from general references; not stated in the summary checked 6 Nov 2026)"
+  },
+  {
+    "id": "battle-of-ankara",
+    "year": 1402,
+    "lat": 39.93,
+    "lng": 32.86,
+    "type": "war",
+    "title": "Battle of Ankara",
+    "description": "Timur defeats and captures the Ottoman sultan Bayezid I.",
+    "relatedPolityIds": [
+      "timurid-empire",
+      "ottoman-empire"
+    ],
+    "source": "Wikipedia: Battle of Ankara (checked 6 Nov 2026)"
   },
   {
     "id": "zheng-he",
@@ -949,6 +2149,34 @@
     ]
   },
   {
+    "id": "ulugh-beg-observatory",
+    "year": 1420,
+    "yearApproximate": true,
+    "lat": 39.67,
+    "lng": 67.01,
+    "type": "invention",
+    "title": "Ulugh Beg Observatory",
+    "description": "Ulugh Beg builds an observatory in Samarkand with a giant meridian arc.",
+    "relatedPolityIds": [
+      "timurid-empire"
+    ],
+    "source": "Wikipedia: Ulugh Beg Observatory (checked 6 Nov 2026)"
+  },
+  {
+    "id": "le-loi-victory",
+    "year": 1427,
+    "lat": 21.03,
+    "lng": 105.85,
+    "type": "war",
+    "title": "Lê Lợi expels the Ming",
+    "description": "In 1427 Lê Lợi’s ten-year resistance drives the Ming out of Vietnam; he founds the Later Lê dynasty in 1428.",
+    "relatedPolityIds": [
+      "dai-viet",
+      "ming-china"
+    ],
+    "source": "Wikipedia: Lê Lợi (checked 6 Nov 2026)"
+  },
+  {
     "id": "angkor-abandoned",
     "year": 1431,
     "yearApproximate": true,
@@ -961,6 +2189,20 @@
       "khmer-empire",
       "ayutthaya-kingdom"
     ]
+  },
+  {
+    "id": "hangul",
+    "year": 1443,
+    "yearApproximate": true,
+    "lat": 37.57,
+    "lng": 126.98,
+    "type": "invention",
+    "title": "Hangul created",
+    "description": "King Sejong of Joseon creates the Korean alphabet, Hangul.",
+    "relatedPolityIds": [
+      "joseon-korea"
+    ],
+    "source": "Wikipedia: Hangul (year from general references; not stated in the summary checked 6 Nov 2026)"
   },
   {
     "id": "machu-picchu",
@@ -1002,6 +2244,49 @@
     ]
   },
   {
+    "id": "inca-conquer-chimu",
+    "year": 1470,
+    "yearApproximate": true,
+    "lat": -8.11,
+    "lng": -79.07,
+    "type": "war",
+    "title": "Inca conquer Chimor",
+    "description": "Topa Inca Yupanqui conquers the Chimú kingdom and its capital Chan Chan.",
+    "relatedPolityIds": [
+      "inca-empire",
+      "chimu"
+    ],
+    "source": "Wikipedia: Chimor (checked 6 Nov 2026)"
+  },
+  {
+    "id": "fall-of-vijaya",
+    "year": 1471,
+    "lat": 13.9,
+    "lng": 109.06,
+    "type": "war",
+    "title": "Đại Việt conquers Vijaya",
+    "description": "Lê Thánh Tông takes the Cham capital Vijaya; Champa never recovers.",
+    "relatedPolityIds": [
+      "dai-viet",
+      "champa"
+    ],
+    "source": "Wikipedia: Cham–Vietnamese War (1471) (checked 6 Nov 2026)"
+  },
+  {
+    "id": "ugra-river",
+    "year": 1480,
+    "lat": 54.6,
+    "lng": 35.6,
+    "type": "war",
+    "title": "Great Stand on the Ugra",
+    "description": "Muscovy faces down the Great Horde, traditionally the end of Mongol rule over Russia.",
+    "relatedPolityIds": [
+      "golden-horde",
+      "russian-empire"
+    ],
+    "source": "Wikipedia: Great Stand on the Ugra River (checked 6 Nov 2026)"
+  },
+  {
     "id": "columbus",
     "year": 1492,
     "lat": 24.0,
@@ -1012,6 +2297,20 @@
     "relatedPolityIds": [
       "spanish-empire"
     ]
+  },
+  {
+    "id": "da-gama-india",
+    "year": 1498,
+    "yearApproximate": true,
+    "lat": 11.25,
+    "lng": 75.78,
+    "type": "trade",
+    "title": "Vasco da Gama reaches India",
+    "description": "Da Gama sails round Africa to Calicut, opening a sea route from Europe to Asia.",
+    "relatedPolityIds": [
+      "portuguese-empire"
+    ],
+    "source": "Wikipedia: Vasco da Gama (year from general references; not stated in the summary checked 6 Nov 2026)"
   },
   {
     "id": "portuguese-capture-melaka",
@@ -1156,6 +2455,33 @@
     ]
   },
   {
+    "id": "battle-of-talikota",
+    "year": 1565,
+    "yearApproximate": true,
+    "lat": 16.47,
+    "lng": 76.31,
+    "type": "war",
+    "title": "Battle of Talikota",
+    "description": "The Deccan sultanates defeat Vijayanagara; its capital Hampi is sacked.",
+    "relatedPolityIds": [
+      "vijayanagara"
+    ],
+    "source": "Wikipedia: Battle of Talikota (year from general references; not stated in the summary checked 6 Nov 2026)"
+  },
+  {
+    "id": "union-of-lublin",
+    "year": 1569,
+    "lat": 51.25,
+    "lng": 22.57,
+    "type": "person",
+    "title": "Union of Lublin",
+    "description": "Poland and Lithuania form the Polish–Lithuanian Commonwealth.",
+    "relatedPolityIds": [
+      "polish-lithuanian-commonwealth"
+    ],
+    "source": "Wikipedia: Union of Lublin (checked 6 Nov 2026)"
+  },
+  {
     "id": "great-wall-ming",
     "year": 1570,
     "yearApproximate": true,
@@ -1180,6 +2506,19 @@
       "ottoman-empire",
       "spanish-empire"
     ]
+  },
+  {
+    "id": "warsaw-confederation",
+    "year": 1573,
+    "lat": 52.23,
+    "lng": 21.01,
+    "type": "culture",
+    "title": "Warsaw Confederation",
+    "description": "The Commonwealth’s nobles guarantee religious tolerance.",
+    "relatedPolityIds": [
+      "polish-lithuanian-commonwealth"
+    ],
+    "source": "Wikipedia: Warsaw Confederation (checked 6 Nov 2026)"
   },
   {
     "id": "battle-of-tondibi",
@@ -1287,6 +2626,33 @@
     ]
   },
   {
+    "id": "vasa-ship",
+    "year": 1628,
+    "lat": 59.33,
+    "lng": 18.07,
+    "type": "culture",
+    "title": "The Vasa sinks",
+    "description": "Sweden’s new royal warship sinks on its maiden voyage in Stockholm.",
+    "relatedPolityIds": [
+      "swedish-empire"
+    ],
+    "source": "Wikipedia: Vasa (ship) (checked 6 Nov 2026)"
+  },
+  {
+    "id": "breitenfeld",
+    "year": 1631,
+    "lat": 51.4,
+    "lng": 12.4,
+    "type": "war",
+    "title": "Battle of Breitenfeld",
+    "description": "Gustavus Adolphus’ reformed Swedish army wins a major victory in the Thirty Years’ War.",
+    "relatedPolityIds": [
+      "swedish-empire",
+      "holy-roman-empire"
+    ],
+    "source": "Wikipedia: Battle of Breitenfeld (1631) (checked 6 Nov 2026)"
+  },
+  {
     "id": "taj-mahal",
     "year": 1632,
     "endYear": 1653,
@@ -1328,6 +2694,19 @@
     ]
   },
   {
+    "id": "treaty-of-roskilde",
+    "year": 1658,
+    "lat": 55.64,
+    "lng": 12.08,
+    "type": "war",
+    "title": "Treaty of Roskilde",
+    "description": "Denmark–Norway cedes large territories to Sweden, the height of Swedish power.",
+    "relatedPolityIds": [
+      "swedish-empire"
+    ],
+    "source": "Wikipedia: Treaty of Roskilde (checked 6 Nov 2026)"
+  },
+  {
     "id": "great-plague-london",
     "year": 1665,
     "endYear": 1666,
@@ -1337,6 +2716,20 @@
     "title": "Great Plague of London",
     "description": "An outbreak of bubonic plague kills an estimated 75,000–100,000 people in London.",
     "relatedPolityIds": []
+  },
+  {
+    "id": "shivaji-crowned",
+    "year": 1674,
+    "lat": 18.23,
+    "lng": 73.44,
+    "type": "person",
+    "title": "Shivaji crowned",
+    "description": "Shivaji is crowned Chhatrapati at Raigad, founding the Maratha state.",
+    "relatedPolityIds": [
+      "maratha-empire",
+      "mughal-empire"
+    ],
+    "source": "Wikipedia: Shivaji (checked 6 Nov 2026)"
   },
   {
     "id": "siege-vienna-1683",
@@ -1378,6 +2771,20 @@
     ]
   },
   {
+    "id": "golden-stool-asante",
+    "year": 1701,
+    "yearApproximate": true,
+    "lat": 6.69,
+    "lng": -1.62,
+    "type": "person",
+    "title": "Asante Empire founded",
+    "description": "Osei Tutu unites the Akan states under the Golden Stool and defeats Denkyira.",
+    "relatedPolityIds": [
+      "ashanti-empire"
+    ],
+    "source": "Wikipedia: Asante Empire (checked 6 Nov 2026)"
+  },
+  {
     "id": "acts-of-union",
     "year": 1707,
     "lat": 55.95,
@@ -1388,6 +2795,20 @@
     "relatedPolityIds": [
       "great-britain"
     ]
+  },
+  {
+    "id": "battle-of-poltava",
+    "year": 1709,
+    "lat": 49.59,
+    "lng": 34.55,
+    "type": "war",
+    "title": "Battle of Poltava",
+    "description": "Peter the Great destroys Charles XII’s army, ending Sweden’s great-power era.",
+    "relatedPolityIds": [
+      "swedish-empire",
+      "russian-empire"
+    ],
+    "source": "Wikipedia: Battle of Poltava (checked 6 Nov 2026)"
   },
   {
     "id": "st-petersburg-capital",
@@ -1454,6 +2875,19 @@
     ]
   },
   {
+    "id": "third-panipat",
+    "year": 1761,
+    "lat": 29.39,
+    "lng": 76.97,
+    "type": "war",
+    "title": "Third Battle of Panipat",
+    "description": "The Durrani Afghans defeat the Marathas in one of the largest battles of the 18th century.",
+    "relatedPolityIds": [
+      "maratha-empire"
+    ],
+    "source": "Wikipedia: Third Battle of Panipat (checked 6 Nov 2026)"
+  },
+  {
     "id": "fall-of-ayutthaya",
     "year": 1767,
     "lat": 14.35,
@@ -1518,6 +2952,19 @@
     ]
   },
   {
+    "id": "may-constitution",
+    "year": 1791,
+    "lat": 52.25,
+    "lng": 21.01,
+    "type": "culture",
+    "title": "Constitution of 3 May 1791",
+    "description": "The Commonwealth adopts a modern written constitution.",
+    "relatedPolityIds": [
+      "polish-lithuanian-commonwealth"
+    ],
+    "source": "Wikipedia: Constitution of 3 May 1791 (checked 6 Nov 2026)"
+  },
+  {
     "id": "macartney-embassy",
     "year": 1793,
     "lat": 40.99,
@@ -1531,6 +2978,21 @@
     ]
   },
   {
+    "id": "third-partition-poland",
+    "year": 1795,
+    "lat": 52.23,
+    "lng": 21.01,
+    "type": "war",
+    "title": "Third Partition of Poland",
+    "description": "Russia, Prussia and Austria divide the remaining lands of the Commonwealth.",
+    "relatedPolityIds": [
+      "polish-lithuanian-commonwealth",
+      "russian-empire",
+      "habsburg-monarchy"
+    ],
+    "source": "Wikipedia: Third Partition of Poland (checked 6 Nov 2026)"
+  },
+  {
     "id": "jenner-vaccine",
     "year": 1796,
     "lat": 51.69,
@@ -1541,6 +3003,19 @@
     "relatedPolityIds": [
       "great-britain"
     ]
+  },
+  {
+    "id": "ranjit-singh-lahore",
+    "year": 1799,
+    "lat": 31.59,
+    "lng": 74.31,
+    "type": "person",
+    "title": "Ranjit Singh takes Lahore",
+    "description": "Ranjit Singh captures Lahore, founding the Sikh Empire.",
+    "relatedPolityIds": [
+      "sikh-empire"
+    ],
+    "source": "Wikipedia: Sikh Empire (checked 6 Nov 2026)"
   },
   {
     "id": "nguyen-dynasty-founded",
@@ -1592,6 +3067,33 @@
       "habsburg-monarchy"
     ],
     "source": "Wikipedia: Battle of Waterloo"
+  },
+  {
+    "id": "shaka-zulu",
+    "year": 1816,
+    "lat": -28.31,
+    "lng": 31.42,
+    "type": "person",
+    "title": "Shaka becomes Zulu king",
+    "description": "Shaka takes power and reforms the Zulu army.",
+    "relatedPolityIds": [
+      "zulu-kingdom"
+    ],
+    "source": "Wikipedia: Shaka (checked 6 Nov 2026)"
+  },
+  {
+    "id": "end-of-maratha",
+    "year": 1818,
+    "lat": 18.52,
+    "lng": 73.86,
+    "type": "war",
+    "title": "Fall of the Maratha Confederacy",
+    "description": "The British East India Company defeats the Peshwa in the Third Anglo-Maratha War.",
+    "relatedPolityIds": [
+      "maratha-empire",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Third Anglo-Maratha War (checked 6 Nov 2026)"
   },
   {
     "id": "singapore-founded",
@@ -1749,6 +3251,20 @@
       "habsburg-monarchy"
     ],
     "source": "Wikipedia: Revolutions of 1848"
+  },
+  {
+    "id": "annexation-of-punjab",
+    "year": 1849,
+    "lat": 31.59,
+    "lng": 74.31,
+    "type": "war",
+    "title": "Britain annexes the Punjab",
+    "description": "After the Second Anglo-Sikh War, the Sikh Empire is annexed.",
+    "relatedPolityIds": [
+      "sikh-empire",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Second Anglo-Sikh War (checked 6 Nov 2026)"
   },
   {
     "id": "taiping-rebellion",
@@ -1965,6 +3481,20 @@
     "source": "Wikipedia: Invention of the telephone"
   },
   {
+    "id": "battle-of-isandlwana",
+    "year": 1879,
+    "lat": -28.36,
+    "lng": 30.65,
+    "type": "war",
+    "title": "Battle of Isandlwana",
+    "description": "A Zulu army defeats a British force in the Anglo-Zulu War.",
+    "relatedPolityIds": [
+      "zulu-kingdom",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Battle of Isandlwana (checked 6 Nov 2026)"
+  },
+  {
     "id": "krakatoa",
     "year": 1883,
     "lat": -6.1,
@@ -2003,6 +3533,20 @@
     "relatedPolityIds": [
       "empire-of-brazil"
     ]
+  },
+  {
+    "id": "brunei-protectorate",
+    "year": 1888,
+    "lat": 4.89,
+    "lng": 114.94,
+    "type": "war",
+    "title": "Brunei becomes a British protectorate",
+    "description": "The Sultanate of Brunei, having lost Sarawak and North Borneo, becomes a British protectorate.",
+    "relatedPolityIds": [
+      "bruneian-empire",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Sultanate of Brunei (1368–1888) (checked 6 Nov 2026)"
   },
   {
     "id": "franco-siamese-crisis",
@@ -2060,6 +3604,20 @@
     ]
   },
   {
+    "id": "benin-expedition",
+    "year": 1897,
+    "lat": 6.34,
+    "lng": 5.62,
+    "type": "war",
+    "title": "British expedition to Benin",
+    "description": "British forces take Benin City and loot thousands of artworks, the Benin Bronzes.",
+    "relatedPolityIds": [
+      "kingdom-of-benin",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Benin Expedition of 1897 (checked 6 Nov 2026)"
+  },
+  {
     "id": "spanish-american-war",
     "year": 1898,
     "lat": 23.13,
@@ -2090,6 +3648,20 @@
       "united-states"
     ],
     "source": "Wikipedia: Boxer Rebellion"
+  },
+  {
+    "id": "war-of-golden-stool",
+    "year": 1900,
+    "lat": 6.69,
+    "lng": -1.62,
+    "type": "war",
+    "title": "War of the Golden Stool",
+    "description": "Asante resistance led by Yaa Asantewaa after a British demand for the Golden Stool.",
+    "relatedPolityIds": [
+      "ashanti-empire",
+      "british-empire"
+    ],
+    "source": "Wikipedia: War of the Golden Stool (checked 6 Nov 2026)"
   },
   {
     "id": "first-flight",

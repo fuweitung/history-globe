@@ -1,0 +1,315 @@
+{
+  "id": "vijayanagara",
+  "name": "Vijayanagara Empire",
+  "era": "medieval",
+  "region": "South Asia",
+  "startYear": 1336,
+  "endYear": 1646,
+  "capital": "Vijayanagara (Hampi)",
+  "capitalCoords": [
+    76.47,
+    15.33
+  ],
+  "summary": "A South Indian Hindu empire whose capital at Hampi was one of the largest cities in the world. It was broken at the Battle of Talikota in 1565.",
+  "borderNames": [
+    "Vijayanagara"
+  ],
+  "borderYears": [
+    1336,
+    1646
+  ],
+  "color": "#c46a3f",
+  "knownFor": [
+    {
+      "label": "Hampi",
+      "kind": "monument",
+      "year": 1520,
+      "note": "The ruined capital, a UNESCO site full of temples and markets."
+    },
+    {
+      "label": "Stone Chariot",
+      "kind": "monument",
+      "year": 1520,
+      "note": "A shrine shaped like a chariot at the Vittala Temple."
+    },
+    {
+      "label": "Carnatic music",
+      "kind": "art",
+      "note": "South Indian classical music took its framework in this era."
+    },
+    {
+      "label": "War elephants",
+      "kind": "troops",
+      "year": 1565,
+      "note": "Used in large numbers, including at Talikota."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "South India, ruled from Vijayanagara (Hampi).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vijayanagara Empire (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "The Deccan plateau and the Tungabhadra river.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Stein, Vijayanagara (1989)"
+      },
+      "climate": {
+        "value": "Semi-arid; dependent on monsoon.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Stein, Vijayanagara (1989)"
+      },
+      "resources": {
+        "value": "Diamonds, cotton, spices, horses imported.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Stein, Vijayanagara (1989)"
+      },
+      "disasters": {
+        "value": "Droughts, which the empire countered with reservoirs and canals.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Stein, Vijayanagara (1989)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 18 million (1500 estimate).",
+        "year": 1500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vijayanagara Empire (checked 6 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "The capital may have had several hundred thousand people.",
+        "year": 1500,
+        "certainty": "estimated",
+        "source": "Stein, Vijayanagara (1989)"
+      },
+      "disease": {
+        "value": "No specific epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Stein, Vijayanagara (1989)"
+      },
+      "migration": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Stein, Vijayanagara (1989)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Irrigated agriculture, supported by state-sponsored canals and reservoirs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vijayanagara Empire (checked 6 Nov 2026); Stein, Vijayanagara (1989)"
+      },
+      "tradeRoutes": {
+        "value": "Horse trade with Arabs and Portuguese.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Stein, Vijayanagara (1989)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Stein, Vijayanagara (1989)"
+      },
+      "moneyAndTax": {
+        "value": "The varaha (gold coin).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vijayanagara Empire (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "Great wealth in the royal court and temples; foreign visitors described rich markets.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Stein, Vijayanagara (1989)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vijayanagara Empire (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Harihara I, Bukka Raya I, Deva Raya II, Krishna Deva Raya (1509–1529).",
+        "year": 1509,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vijayanagara Empire (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Four successive dynasties: Sangama, Saluva, Tuluva and Aravidu.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Stein, Vijayanagara (1989)"
+      },
+      "institutions": {
+        "value": "Nayaka governors held land in return for military service.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Stein, Vijayanagara (1989)"
+      },
+      "stability": {
+        "value": "Collapsed after defeat at Talikota (1565), though the dynasty survived elsewhere.",
+        "year": 1565,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vijayanagara Empire (checked 6 Nov 2026); Stein, Vijayanagara (1989)"
+      },
+      "eliteConflict": {
+        "value": "Regents such as Rama Raya held real power over the emperors.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Stein, Vijayanagara (1989)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Large army with war elephants and imported horses.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Stein, Vijayanagara (1989)"
+      },
+      "majorWars": {
+        "value": "Battle of Talikota (1565).",
+        "year": 1565,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vijayanagara Empire (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "About 880,000 km² (1500).",
+        "year": 1500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vijayanagara Empire (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: Deccan sultanates.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vijayanagara Empire (checked 6 Nov 2026)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Water tanks and aqueducts that supplied the capital.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Stein, Vijayanagara (1989)"
+      },
+      "scienceEducation": {
+        "value": "Kerala school of mathematics flourished in the region.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Stein, Vijayanagara (1989)"
+      },
+      "openness": {
+        "value": "Welcomed Portuguese, Persian and Arab traders, especially in horses.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Stein, Vijayanagara (1989)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Hinduism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vijayanagara Empire (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Kannada, Telugu, Tamil, Sanskrit.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vijayanagara Empire (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "Rajagopurams; Hampi (UNESCO).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vijayanagara Empire (checked 6 Nov 2026)"
+      },
+      "socialStructure": {
+        "value": "Brahmins, warrior nobles, merchants, artisans and farmers within the caste system.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Stein, Vijayanagara (1989)"
+      },
+      "sharedIdentity": {
+        "value": "Hindu kingship, presented as defending South Indian traditions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Stein, Vijayanagara (1989)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Bahmani, Deccan sultanates, Portuguese.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Stein, Vijayanagara (1989)"
+      },
+      "ideasReligions": {
+        "value": "Carnatic music took its classical framework; Telugu and Kannada literature flourished.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Stein, Vijayanagara (1989)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Stein, Vijayanagara (1989)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Founded in 1336 by Harihara I and Bukka Raya I.",
+        "year": 1336,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vijayanagara Empire (checked 6 Nov 2026); Stein, Vijayanagara (1989)"
+      },
+      "peakPeriod": {
+        "value": "Under Krishna Deva Raya (1509–1529).",
+        "year": 1520,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vijayanagara Empire (checked 6 Nov 2026); Stein, Vijayanagara (1989)"
+      },
+      "declineSignals": {
+        "value": "Defeat by an alliance of Deccan sultanates at Talikota (1565).",
+        "year": 1565,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vijayanagara Empire (checked 6 Nov 2026); Stein, Vijayanagara (1989)"
+      },
+      "outcome": {
+        "value": "The capital was sacked in 1565; the empire moved south and ended in 1646.",
+        "year": 1646,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vijayanagara Empire (checked 6 Nov 2026); Stein, Vijayanagara (1989)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Inscriptions. Checked against Wikipedia (“Vijayanagara Empire”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vijayanagara Empire (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Good.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vijayanagara Empire (checked 6 Nov 2026)"
+      }
+    }
+  }
+}
