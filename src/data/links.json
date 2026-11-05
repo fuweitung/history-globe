@@ -1,0 +1,219 @@
+[
+  {
+    "fromPolityId": "melaka-sultanate",
+    "toPolityId": "johor-sultanate",
+    "relation": "succeeded",
+    "year": 1528,
+    "note": "The Melaka royal line re-established itself in Johor."
+  },
+  {
+    "fromPolityId": "portuguese-empire",
+    "toPolityId": "melaka-sultanate",
+    "relation": "conquered",
+    "year": 1511
+  },
+  {
+    "fromPolityId": "melaka-sultanate",
+    "toPolityId": "ming-china",
+    "relation": "traded_with",
+    "year": 1405,
+    "note": "Tributary and trade relations; visits by Zheng He’s fleets."
+  },
+  {
+    "fromPolityId": "melaka-sultanate",
+    "toPolityId": "ayutthaya-kingdom",
+    "relation": "traded_with",
+    "note": "Trade partner and rival; rice imports."
+  },
+  {
+    "fromPolityId": "dutch-republic",
+    "toPolityId": "johor-sultanate",
+    "relation": "allied_with",
+    "year": 1641,
+    "note": "Allied to take Melaka from Portugal."
+  },
+  {
+    "fromPolityId": "ming-china",
+    "toPolityId": "qing-china",
+    "relation": "succeeded",
+    "year": 1644
+  },
+  {
+    "fromPolityId": "qing-china",
+    "toPolityId": "republic-of-china",
+    "relation": "succeeded",
+    "year": 1912
+  },
+  {
+    "fromPolityId": "republic-of-china",
+    "toPolityId": "peoples-republic-of-china",
+    "relation": "succeeded",
+    "year": 1949,
+    "note": "Governs mainland China from 1949; the ROC continues in Taiwan."
+  },
+  {
+    "fromPolityId": "qing-china",
+    "toPolityId": "joseon-korea",
+    "relation": "traded_with",
+    "note": "Tributary relations."
+  },
+  {
+    "fromPolityId": "qing-china",
+    "toPolityId": "russian-empire",
+    "relation": "traded_with",
+    "year": 1689,
+    "note": "Treaty of Nerchinsk; Kyakhta trade."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "qing-china",
+    "relation": "traded_with",
+    "note": "Tea, silver and opium trade; Opium Wars."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "republic-of-turkey",
+    "relation": "succeeded",
+    "year": 1923
+  },
+  {
+    "fromPolityId": "kingdom-of-france",
+    "toPolityId": "ottoman-empire",
+    "relation": "allied_with",
+    "year": 1536,
+    "note": "Franco-Ottoman alliance."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "habsburg-monarchy",
+    "relation": "traded_with",
+    "note": "Long-running rivals with periods of trade and diplomacy."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "safavid-persia",
+    "relation": "traded_with",
+    "note": "Rivals and trading neighbours; repeated wars."
+  },
+  {
+    "fromPolityId": "german-empire",
+    "toPolityId": "ottoman-empire",
+    "relation": "allied_with",
+    "year": 1914,
+    "note": "Allies in the First World War."
+  },
+  {
+    "fromPolityId": "ayutthaya-kingdom",
+    "toPolityId": "rattanakosin-siam",
+    "relation": "succeeded",
+    "year": 1782
+  },
+  {
+    "fromPolityId": "safavid-persia",
+    "toPolityId": "qajar-pahlavi-iran",
+    "relation": "succeeded",
+    "year": 1789,
+    "note": "Via the Afsharid and Zand periods."
+  },
+  {
+    "fromPolityId": "tokugawa-japan",
+    "toPolityId": "empire-of-japan",
+    "relation": "succeeded",
+    "year": 1868
+  },
+  {
+    "fromPolityId": "habsburg-monarchy",
+    "toPolityId": "austria-hungary",
+    "relation": "succeeded",
+    "year": 1867
+  },
+  {
+    "fromPolityId": "russian-empire",
+    "toPolityId": "soviet-union",
+    "relation": "succeeded",
+    "year": 1922
+  },
+  {
+    "fromPolityId": "great-britain",
+    "toPolityId": "british-empire",
+    "relation": "succeeded",
+    "year": 1801,
+    "note": "United Kingdom of Great Britain and Ireland formed."
+  },
+  {
+    "fromPolityId": "kingdom-of-france",
+    "toPolityId": "french-colonial-empire",
+    "relation": "succeeded",
+    "year": 1830,
+    "note": "Second French colonial empire."
+  },
+  {
+    "fromPolityId": "portuguese-empire",
+    "toPolityId": "empire-of-brazil",
+    "relation": "colonised",
+    "year": 1500,
+    "note": "Brazil became independent in 1822."
+  },
+  {
+    "fromPolityId": "portuguese-empire",
+    "toPolityId": "kingdom-of-kongo",
+    "relation": "traded_with",
+    "year": 1483,
+    "note": "Diplomatic and trade ties, Christian conversion of the court, and the Atlantic slave trade."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "india",
+    "relation": "colonised",
+    "year": 1858,
+    "note": "Independence in 1947."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "malaysia",
+    "relation": "colonised",
+    "year": 1874,
+    "note": "British Malaya; independence 1957."
+  },
+  {
+    "fromPolityId": "dutch-republic",
+    "toPolityId": "mataram-sultanate",
+    "relation": "conquered",
+    "year": 1755,
+    "note": "VOC intervention led to the division of Mataram (Treaty of Giyanti)."
+  },
+  {
+    "fromPolityId": "dutch-republic",
+    "toPolityId": "indonesia",
+    "relation": "colonised",
+    "year": 1602,
+    "note": "VOC, then the Dutch state; independence proclaimed 1945."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "nguyen-vietnam",
+    "relation": "colonised",
+    "year": 1858,
+    "note": "French protectorate over Annam and Tonkin from 1883."
+  },
+  {
+    "fromPolityId": "empire-of-japan",
+    "toPolityId": "joseon-korea",
+    "relation": "colonised",
+    "year": 1910,
+    "note": "Annexation of Korea (by then the Korean Empire)."
+  },
+  {
+    "fromPolityId": "songhai-empire",
+    "toPolityId": "ottoman-empire",
+    "relation": "traded_with",
+    "note": "Trans-Saharan trade links."
+  },
+  {
+    "fromPolityId": "ethiopian-empire",
+    "toPolityId": "portuguese-empire",
+    "relation": "allied_with",
+    "year": 1541,
+    "note": "Portuguese assistance against the Adal Sultanate."
+  }
+]
