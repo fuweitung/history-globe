@@ -168,6 +168,8 @@ export interface HistoryEvent {
   title: string;
   description: string;
   relatedPolityIds: string[];
+  /** Where the facts come from (e.g. "Wikipedia: Korean War (checked 6 Nov 2026)"). */
+  source?: string;
 }
 
 export type LinkRelation = 'succeeded' | 'conquered' | 'colonised' | 'traded_with' | 'allied_with';
