@@ -22,268 +22,268 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": null,
+        "value": "Central and Western Europe: the kingdoms of Germany, Italy and (from 1032/33) Burgundy at first, and later mainly the German lands, Bohemia, Austria and the Low Countries.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026)"
       },
       "terrain": {
-        "value": null,
+        "value": "The North European Plain, the Alps and the great rivers (Rhine, Danube, Elbe), divided into hundreds of territories.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wilson, Heart of Europe: A History of the Holy Roman Empire (2016)"
       },
       "climate": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Temperate. The Little Ice Age (c. 1550–1700) brought harsh winters and poor harvests during the Thirty Years’ War era.",
+        "year": 1620,
+        "certainty": "estimated",
+        "source": "Wilson, Heart of Europe: A History of the Holy Roman Empire (2016)"
       },
       "resources": {
-        "value": null,
+        "value": "Farmland, forests, silver and copper mines (Saxony, Tyrol, Bohemia), and Rhine and Hanseatic trade.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "Wilson, Heart of Europe: A History of the Holy Roman Empire (2016)"
       },
       "disasters": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The Black Death (1347–51), and devastation and famine in the Thirty Years’ War (1618–48).",
+        "year": 1348,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026)"
       }
     },
     "population": {
       "population": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "About 23 million in 1700 and 29 million in 1800 (Wikipedia infobox, citing Wilson 2016).",
+        "year": 1800,
+        "certainty": "estimated",
+        "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026) (infobox)"
       },
       "urbanisation": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Many free imperial cities (Nuremberg, Augsburg, Cologne, Frankfurt) and Hanseatic ports (Lübeck, Hamburg).",
+        "year": 1500,
+        "certainty": "confirmed",
+        "source": "Wilson, Heart of Europe: A History of the Holy Roman Empire (2016)"
       },
       "disease": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Plague waves, especially the Black Death, and epidemics during the Thirty Years’ War, which killed a large share of the population in some regions.",
+        "year": 1630,
+        "certainty": "estimated",
+        "source": "Wilson, Heart of Europe: A History of the Holy Roman Empire (2016)"
       },
       "migration": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "German eastward settlement (Ostsiedlung) in the Middle Ages, and refugees from religious wars.",
+        "year": 1200,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026)"
       }
     },
     "economy": {
       "economicBase": {
-        "value": null,
+        "value": "Agriculture, crafts and mining, with strong urban trade networks such as the Hanseatic League.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The Hanseatic Baltic and North Sea trade, Rhine and Danube river trade, and Alpine routes to Italy.",
+        "year": 1350,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026)"
       },
       "wealth": {
-        "value": null,
+        "value": "No GDP estimate is given in the sources checked. Wealth varied widely between territories.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "disputed",
+        "source": "—"
       },
       "moneyAndTax": {
-        "value": null,
+        "value": "Many currencies (thaler, guilder, groschen, Reichsthaler). Imperial taxes were limited and needed the agreement of the Diet.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026) (infobox)"
       },
       "inequality": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Princes, nobles and church lords above townspeople and peasants. Peasant grievances led to the German Peasants’ War (1524–25).",
+        "year": 1525,
+        "certainty": "estimated",
+        "source": "Wilson, Heart of Europe: A History of the Holy Roman Empire (2016)"
       }
     },
     "politics": {
       "governmentType": {
-        "value": null,
+        "value": "A confederal elective monarchy, later a mixed monarchy after the Imperial Reform. An elected emperor shared power with princes, cities and the Imperial Diet.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026) (infobox)"
       },
       "keyRulers": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Charlemagne (crowned 800). Otto I (crowned 962). Frederick I Barbarossa. Charles IV (Golden Bull). Charles V (1519–1556). Francis II (1792–1806, last).",
+        "year": 962,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026) (infobox)"
       },
       "succession": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Elective: the emperor was chosen by prince-electors, a process fixed by the Golden Bull of 1356. From 1438 the Habsburgs were elected almost continuously.",
+        "year": 1356,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026)"
       },
       "institutions": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The Golden Bull (1356), the Imperial Diet (Reichstag), the Imperial Chamber Court (1495) and the Imperial Reform (late 15th–early 16th centuries).",
+        "year": 1495,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026)"
       },
       "stability": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The Investiture Controversy (ended by the Concordat of Worms, 1122), the Great Interregnum (1250–1273), the Reformation conflicts, and the Thirty Years’ War.",
+        "year": 1618,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026)"
       },
       "eliteConflict": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Emperors against popes (Investiture Controversy), and rivalry between dynasties and princes (e.g. Welf versus Hohenstaufen). Princes gradually gained near-independence.",
+        "year": 1122,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026)"
       }
     },
     "military": {
       "armyAndTech": {
-        "value": null,
+        "value": "No standing imperial army for most of its history. Forces were raised from the princes and the Imperial Circles.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "Wilson, Heart of Europe: A History of the Holy Roman Empire (2016)"
       },
       "majorWars": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Victory over the Magyars at Lechfeld (955). Italian campaigns. Hussite Wars. Ottoman sieges of Vienna (1529, 1683). The Thirty Years’ War (1618–48). The Napoleonic Wars.",
+        "year": 955,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026)"
       },
       "territoryChange": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "About 1.1 million km² in 1150 (Wikipedia infobox). Lost Burgundian and Italian influence over time. Switzerland and the Dutch Republic were formally recognised as outside the empire in 1648.",
+        "year": 1150,
+        "certainty": "estimated",
+        "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026) (infobox)"
       },
       "alliancesRivals": {
-        "value": null,
+        "value": "Rivals were the papacy (in the Middle Ages), France, the Ottoman Empire and Sweden. In its last century there was rivalry between Austria and Prussia.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026)"
       }
     },
     "technology": {
       "inventions": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Gutenberg’s movable-type printing press (Mainz, c. 1450). Mining and metallurgy advances (Agricola). Kepler’s astronomy.",
+        "year": 1450,
+        "certainty": "confirmed",
+        "source": "Wilson, Heart of Europe: A History of the Holy Roman Empire (2016)"
       },
       "scienceEducation": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Universities from 1348 (Prague), Heidelberg and others. The Carolingian Renaissance. Leading scientists included Kepler and Leibniz.",
+        "year": 1348,
+        "certainty": "estimated",
+        "source": "Wilson, Heart of Europe: A History of the Holy Roman Empire (2016)"
       },
       "openness": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Varied by territory. Religious pluralism was legally recognised: Lutheranism in 1555 (Peace of Augsburg) and Calvinism in 1648.",
+        "year": 1555,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026) (infobox)"
       }
     },
     "culture": {
       "religion": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Latin Christianity, then a split after the Reformation (1517) into Catholic, Lutheran (recognised 1555) and Calvinist (recognised 1648) territories.",
+        "year": 1555,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026) (infobox)"
       },
       "languageWriting": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "German, with Medieval Latin for administration and ceremony. Italian, Czech, French and Dutch were also spoken. Luther’s Bible translation shaped standard German.",
+        "year": 1534,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026) (infobox)"
       },
       "artsArchitecture": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Romanesque and Gothic cathedrals (Cologne, Aachen, Speyer), Dürer, Baroque palaces, and the music of Bach and Mozart.",
+        "year": 1500,
+        "certainty": "estimated",
+        "source": "Wilson, Heart of Europe: A History of the Holy Roman Empire (2016)"
       },
       "socialStructure": {
-        "value": null,
+        "value": "Emperor, electors and princes, nobles, clergy, free cities and townspeople, and peasants (many under serfdom or bound to manors).",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "Wilson, Heart of Europe: A History of the Holy Roman Empire (2016)"
       },
       "sharedIdentity": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Called the “Holy Roman Empire of the German Nation” from the late 15th century. Identity was shared through the emperor and imperial institutions rather than one nation.",
+        "year": 1512,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026)"
       }
     },
     "connections": {
       "neighbours": {
-        "value": null,
+        "value": "France, the Papacy and the Italian states, Poland, Hungary, Denmark, Sweden and the Ottoman Empire.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026)"
       },
       "ideasReligions": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The birthplace of the Protestant Reformation (Luther, Wittenberg, 1517), which spread across Northern Europe.",
+        "year": 1517,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026)"
       },
       "colonisation": {
-        "value": null,
+        "value": "Medieval eastward settlement. As an empire it had no colonies, though some member states traded overseas.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "—"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The Carolingian legacy, Otto I’s victories over the Magyars and coronation (962), and alliance with the Church.",
+        "year": 962,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026)"
       },
       "peakPeriod": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The mid-13th century under the House of Hohenstaufen (Wikipedia). A revival under Charles V in the 16th century.",
+        "year": 1250,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026)"
       },
       "declineSignals": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Overextension and partial collapse after the Hohenstaufen, princes growing independent, religious division, and the Thirty Years’ War.",
+        "year": 1648,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026)"
       },
       "outcome": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Dissolution. Francis II abdicated and dissolved the empire on 6 August 1806, after Napoleon created the Confederation of the Rhine. Most of it became part of the German Confederation in 1815.",
+        "year": 1806,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026)"
       }
     },
     "dataQuality": {
       "sources": {
-        "value": null,
+        "value": "Imperial charters and laws, chronicles, and modern syntheses. Checked against Wikipedia on 5 Nov 2026. See also Wilson (2016).",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026)"
       },
       "overallCertainty": {
-        "value": null,
+        "value": "Good for events and institutions. The start is dated 800 (Charlemagne) or 962 (Otto I). Population figures are estimates.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "disputed",
+        "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026)"
       }
     }
   }
