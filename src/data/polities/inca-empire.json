@@ -11,274 +11,280 @@
     -13.53
   ],
   "color": "#a87a3f",
-  "borderNames": [],
+  "borderNames": [
+    "Inca Empire"
+  ],
   "summary": "Tawantinsuyu, the largest empire in pre-Columbian America, linked by a vast road network and run without a written script using knotted-cord records (khipu).",
   "checklist": {
     "geography": {
       "location": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Along the Andes: Peru, Ecuador, Bolivia, much of Chile, northwest Argentina and southwest Colombia. Capital Cusco.",
+        "year": 1527,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       },
       "terrain": {
-        "value": null,
+        "value": "High mountains, coastal desert and valleys, linked by the 40,000 km road network (Qhapaq Ñan).",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       },
       "climate": {
-        "value": null,
+        "value": "From cold highlands to arid coast. Farming was terraced and irrigated.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "D’Altroy, The Incas (2nd ed., 2014)"
       },
       "resources": {
-        "value": null,
+        "value": "Potatoes, maize, quinoa, llamas and alpacas, cotton, gold and silver.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "D’Altroy, The Incas (2nd ed., 2014)"
       },
       "disasters": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Smallpox reached the Andes before the Spanish, in the 1520s, killing the emperor Huayna Capac and his heir.",
+        "year": 1527,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       }
     },
     "population": {
       "population": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "About 12 million in the early 16th century (Wikipedia infobox). Estimates range widely, from 4 to 37 million.",
+        "year": 1527,
+        "certainty": "disputed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026) (infobox)"
       },
       "urbanisation": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Cusco was the capital. Machu Picchu was a royal estate.",
+        "year": 1450,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       },
       "disease": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Repeated epidemics after contact (smallpox, typhus, influenza, measles).",
+        "year": 1546,
+        "certainty": "estimated",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       },
       "migration": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The mitma system forcibly resettled communities to secure conquered lands.",
+        "year": 1470,
+        "certainty": "estimated",
+        "source": "D’Altroy, The Incas (2nd ed., 2014)"
       }
     },
     "economy": {
       "economicBase": {
-        "value": null,
+        "value": "An economy that worked largely without money or markets, based on reciprocity and labour tax (mitʼa) on state and religious lands.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": null,
+        "value": "The road network and storehouses (qullqas) moved goods. There was little private trade.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       },
       "wealth": {
-        "value": null,
+        "value": "No estimate is possible.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "disputed",
+        "source": "—"
       },
       "moneyAndTax": {
-        "value": null,
+        "value": "No money. Taxes were paid in labour (mitʼa).",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       },
       "inequality": {
-        "value": null,
+        "value": "The Sapa Inca and a small noble class ruled millions of subjects.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       }
     },
     "politics": {
       "governmentType": {
-        "value": null,
+        "value": "A divine, absolute monarchy: the Sapa Inca was “son of the Sun”. Four quarters (suyus) under governors.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026) (infobox)"
       },
       "keyRulers": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Pachacuti (1438–1471, founder of the empire). Topa Inca Yupanqui (1471–1493). Huayna Capac (1493–1525). Huáscar and Atahualpa (civil war). Túpac Amaru (last Neo-Inca ruler, executed 1572).",
+        "year": 1438,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026) (infobox)"
       },
       "succession": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Hereditary, but disputed: the civil war between Huáscar and Atahualpa (1529–1532).",
+        "year": 1529,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026) (infobox)"
       },
       "institutions": {
-        "value": null,
+        "value": "The mitʼa labour system, state storehouses, road relay stations (tambos), and quipu record-keeping.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       },
       "stability": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The civil war (1529–1532) weakened the empire just before the Spanish arrived.",
+        "year": 1532,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       },
       "eliteConflict": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Rival royal lineages backing different heirs.",
+        "year": 1529,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       }
     },
     "military": {
       "armyAndTech": {
-        "value": null,
+        "value": "Large armies of conscripted soldiers with slings, clubs and spears, and fortresses (Sacsayhuamán). No iron or horses.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       },
       "majorWars": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The Chanka war (Pachacuti’s rise), the conquest of Chimor, and the Spanish conquest (Cajamarca 1532, Atahualpa executed 1533).",
+        "year": 1532,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       },
       "territoryChange": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "About 2 million km² in 1527 (Wikipedia infobox), the largest empire in pre-Columbian America.",
+        "year": 1527,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026) (infobox)"
       },
       "alliancesRivals": {
-        "value": null,
+        "value": "Rivals: the Chanka, Chimor, Amazon peoples and the Mapuche.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       }
     },
     "technology": {
       "inventions": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Mortarless fitted stonework, the Qhapaq Ñan road system, suspension bridges, terracing, and quipu knotted-string records.",
+        "year": 1450,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       },
       "scienceEducation": {
-        "value": null,
+        "value": "Quipus recorded numbers in base 10 (whether they also recorded narratives is debated). Skilled trepanation surgery.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       },
       "openness": {
-        "value": null,
+        "value": "Absorbed conquered peoples’ gods and skills.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "D’Altroy, The Incas (2nd ed., 2014)"
       }
     },
     "culture": {
       "religion": {
-        "value": null,
+        "value": "Inca religion centred on the Sun god Inti, with the emperor as his son, plus local huacas (sacred places).",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       },
       "languageWriting": {
-        "value": null,
+        "value": "Quechua (official), Aymara and others. Records were kept on quipus, not writing.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026) (infobox)"
       },
       "artsArchitecture": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Machu Picchu, Sacsayhuamán, the Coricancha temple, and fine textiles.",
+        "year": 1450,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       },
       "socialStructure": {
-        "value": null,
+        "value": "Sapa Inca, Inca nobles, local lords (kurakas) and commoners organised in ayllus (kin groups).",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       },
       "sharedIdentity": {
-        "value": null,
+        "value": "Tawantinsuyu, the “Realm of the Four Parts”, united by Quechua and the Sun cult.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       }
     },
     "connections": {
       "neighbours": {
-        "value": null,
+        "value": "Chimor, Amazonian peoples and the Mapuche, then the Spanish.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       },
       "ideasReligions": {
-        "value": null,
+        "value": "Spread Quechua across the Andes, where it is still spoken by millions.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "D’Altroy, The Incas (2nd ed., 2014)"
       },
       "colonisation": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "A conquering empire that resettled peoples. It was itself conquered by Spain from 1532 (Neo-Inca state to 1572).",
+        "year": 1532,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Pachacuti’s victory over the Chanka (1438), then rapid conquest, efficient roads and storehouses.",
+        "year": 1438,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       },
       "peakPeriod": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The reign of Huayna Capac (1493–1525).",
+        "year": 1510,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       },
       "declineSignals": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The smallpox epidemic of the 1520s, the civil war of 1529–1532, and the Spanish invasion.",
+        "year": 1529,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       },
       "outcome": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Conquest. Pizarro captured Atahualpa at Cajamarca (1532) and executed him (1533). The last Neo-Inca stronghold at Vilcabamba fell in 1572.",
+        "year": 1533,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       }
     },
     "dataQuality": {
       "sources": {
-        "value": null,
+        "value": "Spanish chroniclers (Cieza de León, Garcilaso de la Vega, Guaman Poma), quipus (not fully read) and archaeology. Checked against Wikipedia on 6 Nov 2026. See also D’Altroy (2014).",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       },
       "overallCertainty": {
-        "value": null,
+        "value": "Moderate. Population figures vary hugely and the early chronology is uncertain. The end is dated 1533 or 1572.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "disputed",
+        "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       }
     }
-  }
+  },
+  "borderYears": [
+    1438,
+    1535
+  ]
 }

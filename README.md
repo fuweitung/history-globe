@@ -61,8 +61,8 @@ history-globe/
 └── src/
     ├── types/index.ts      # Polity, Checklist, HistoryEvent, PolityLink (the data contract)
     ├── data/
-    │   ├── polities/*.json # one file per civilisation (74)
-    │   ├── events.json     # 166 events
+    │   ├── polities/*.json # one file per civilisation (74, all with complete checklists)
+    │   ├── events.json     # 255 events, each new one with a source
     │   └── links.json      # 66 links: succeeded / conquered / colonised / traded_with / allied_with
     ├── lib/
     │   ├── checklistSchema.ts  # the 10 categories: labels, order, guiding questions, completion maths
@@ -96,7 +96,9 @@ Open `src/data/polities/<id>.json`. Every checklist item has this shape:
 - Keep the wording neutral and descriptive. Where a term is contested, say whose term it is.
 - Run `npm run validate-data` afterwards. It warns about items with a value but no source or certainty.
 
-Fully seeded examples, one for each part of history:
+**All 74 civilisations have complete 41-item checklists.** Key dates and figures were checked against the live Wikipedia articles (5–6 Nov 2026). Items marked “checked” were confirmed there; other items cite scholarly works. Conflicting dates are marked Disputed, and politically sensitive topics use the sources’ own neutral wording. A history teacher should still review the content before classroom use.
+
+The first examples written were:
 
 - **Ancient:** `han-china.json`, `roman-empire.json`
 - **Medieval:** `srivijaya.json`
@@ -131,7 +133,7 @@ Add an object to `src/data/events.json`. Allowed `type` values are `war`, `inven
 
 ### Known data limitations
 
-- Some civilisations have no matching polygon in the border dataset: **Mataram**, **Majapahit** and the **Inca**, and **Johor** before about 1650. For these, "Show on map" flies to the capital instead.
+- Some civilisations have no matching polygon in the border dataset: **Mataram** and **Majapahit**, and **Johor** before about 1650. For these, "Show on map" flies to the capital instead.
 - Border snapshots are uneven: about 100–500 years apart in ancient times, denser in the 20th century.
 - The dataset has some naming quirks (e.g. "Zhoa" for the Shang/Zhou area, "Sui Empire" still used in 700). Strict `borderYears` windows keep these matched to the right civilisation, and map labels show our civilisation names for linked territories.
 

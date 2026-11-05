@@ -3,8 +3,8 @@
   "name": "Kingdom of Aksum",
   "era": "ancient",
   "region": "East Africa",
-  "startYear": 100,
-  "endYear": 940,
+  "startYear": 50,
+  "endYear": 960,
   "datesApproximate": true,
   "capital": "Aksum",
   "capitalCoords": [
@@ -17,274 +17,274 @@
   ],
   "borderYears": [
     -50,
-    940
+    960
   ],
   "summary": "A trading kingdom of the Horn of Africa that minted its own coins, built giant stelae and adopted Christianity in the 4th century.",
   "checklist": {
     "geography": {
       "location": {
-        "value": null,
+        "value": "The Horn of Africa (today’s Eritrea and northern Ethiopia), and at times South Arabia (Yemen). The capital was Axum.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026)"
       },
       "terrain": {
-        "value": null,
+        "value": "Highlands with fertile soils, linked to the Red Sea port of Adulis.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "Munro-Hay, Aksum: An African Civilisation of Late Antiquity (1991)"
       },
       "climate": {
-        "value": null,
+        "value": "Highland climate with seasonal rains.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "—"
       },
       "resources": {
-        "value": null,
+        "value": "Ivory, gold, incense, teff, barley and wheat, salt and cattle.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026)"
       },
       "disasters": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Soil erosion and environmental decline (around 650–700) are suggested factors in its decline.",
+        "year": 650,
+        "certainty": "disputed",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026)"
       }
     },
     "population": {
       "population": {
-        "value": null,
+        "value": "Not known.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "disputed",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026) (not stated)"
       },
       "urbanisation": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Axum was a major city with palaces and stelae. Later the capital moved to Kubar (after about 800).",
+        "year": 800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026) (infobox)"
       },
       "disease": {
-        "value": null,
+        "value": "Not documented in the sources checked.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "—"
       },
       "migration": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Beja peoples moved into the Eritrean plateau in the late 7th century.",
+        "year": 680,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026)"
       }
     },
     "economy": {
       "economicBase": {
-        "value": null,
+        "value": "Agriculture and long-distance trade, which made Aksum a major commercial power.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Controlled Red Sea and Indian Ocean trade between Rome and India: ivory, gold and tortoiseshell were exported, and silk and spices imported.",
+        "year": 300,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026)"
       },
       "wealth": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "No estimate exists. The prophet Mani ranked Aksum among the four great powers of the 3rd century, with Persia, Rome and China.",
+        "year": 250,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026)"
       },
       "moneyAndTax": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "One of the first African states to mint its own coins (gold, silver, bronze), from King Endybis (late 3rd century).",
+        "year": 270,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026)"
       },
       "inequality": {
-        "value": null,
+        "value": "Kings and nobles (buried in stone tombs) above commoners. Slaves were traded.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026)"
       }
     },
     "politics": {
       "governmentType": {
-        "value": null,
+        "value": "A monarchy under the negusa nagast (“king of kings”), possibly ruling a confederation of local rulers.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026) (infobox)"
       },
       "keyRulers": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Gedara (c. 200–230). Endybis (first coins). Ezana (4th century, converted to Christianity). Kaleb (c. 514–542, peak). Dil Na’od (last, 10th century).",
+        "year": 330,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026)"
       },
       "succession": {
-        "value": null,
+        "value": "Hereditary monarchy. The details are uncertain.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "disputed",
+        "source": "—"
       },
       "institutions": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Geʿez was made the official language under Ezana. Greek was used in diplomacy.",
+        "year": 330,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026)"
       },
       "stability": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Long-lived, but it lost Yemen to Persia (570s) and faced revolts in South Arabia.",
+        "year": 575,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026)"
       },
       "eliteConflict": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Abraha, an Aksumite general in Yemen, broke away (c. 525) and ruled independently.",
+        "year": 525,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026)"
       }
     },
     "military": {
       "armyAndTech": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Armies that crossed the Red Sea to Arabia, and campaigned in Nubia.",
+        "year": 525,
+        "certainty": "estimated",
+        "source": "Munro-Hay, Aksum: An African Civilisation of Late Antiquity (1991)"
       },
       "majorWars": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Ezana’s conquest of Kush (Meroë, c. 330). Kaleb’s invasion of Himyar (Yemen, 518–525). The Aksumite–Persian wars (570–578).",
+        "year": 525,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026) (infobox)"
       },
       "territoryChange": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "About 1.25 million km² (350), rising to about 2.5 million km² (525) at its height (Wikipedia infobox).",
+        "year": 525,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026) (infobox)"
       },
       "alliancesRivals": {
-        "value": null,
+        "value": "An ally of the Byzantine Empire (fellow Christians). Rivals: Himyar, Kush and Persia.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026)"
       }
     },
     "technology": {
       "inventions": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Giant carved granite stelae (the largest about 33 m tall), terraced farming and coinage.",
+        "year": 330,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026)"
       },
       "scienceEducation": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The Geʿez script developed into an abugida (with vowels). Early Christian manuscripts include the Garima Gospels.",
+        "year": 400,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026)"
       },
       "openness": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Open to Roman, Indian and Arabian trade and ideas. It received Christianity from Syrian missionaries (Frumentius).",
+        "year": 330,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026)"
       }
     },
     "culture": {
       "religion": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Traditional Aksumite religion, then Christianity, adopted under King Ezana in the 4th century (c. 325–340), one of the earliest Christian states.",
+        "year": 330,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026) (infobox)"
       },
       "languageWriting": {
-        "value": null,
+        "value": "Geʿez, Sabaic and Greek. The Geʿez script is still used today in Ethiopia and Eritrea.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026) (infobox)"
       },
       "artsArchitecture": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Monumental stelae, palaces (e.g. Dungur), coins, and early churches.",
+        "year": 330,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026)"
       },
       "socialStructure": {
-        "value": null,
+        "value": "King, nobles, farmers and traders, and slaves.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026)"
       },
       "sharedIdentity": {
-        "value": null,
+        "value": "Christianity and Geʿez culture, later claimed by Ethiopia’s Solomonic dynasty.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "Munro-Hay, Aksum: An African Civilisation of Late Antiquity (1991)"
       }
     },
     "connections": {
       "neighbours": {
-        "value": null,
+        "value": "Kush/Nubia, Himyar (Yemen), the Roman and Byzantine Empires, Persia, and Arabia.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026)"
       },
       "ideasReligions": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Gave refuge to early Muslims in the First Hijra (613–615), and spread Christianity in the Horn of Africa.",
+        "year": 615,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026) (infobox)"
       },
       "colonisation": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Ruled parts of South Arabia (Yemen) in the 3rd and 6th centuries.",
+        "year": 525,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026)"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Emerging from the earlier Dʿmt culture, control of Red Sea trade, coinage, and conquest.",
+        "year": 50,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026)"
       },
       "peakPeriod": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The 4th–6th centuries, under Ezana and Kaleb.",
+        "year": 525,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026)"
       },
       "declineSignals": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The loss of Yemen (570s), Islamic expansion cutting trade routes (7th century), Beja migration and soil erosion.",
+        "year": 650,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026)"
       },
       "outcome": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Decline and collapse around 960, in uncertain circumstances (traditionally linked to the disputed Queen Gudit). Succeeded by the Zagwe dynasty, and later the Solomonic Ethiopian Empire.",
+        "year": 960,
+        "certainty": "disputed",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026)"
       }
     },
     "dataQuality": {
       "sources": {
-        "value": null,
+        "value": "Inscriptions, coins, stelae, Greek and Roman accounts (the Periplus), and later Ethiopian tradition. Checked against Wikipedia on 6 Nov 2026. See also Munro-Hay (1991).",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026)"
       },
       "overallCertainty": {
-        "value": null,
+        "value": "Low to moderate. Dates of conversion (c. 324–340), coinage and the end are debated.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "disputed",
+        "source": "Wikipedia: Kingdom of Aksum (checked 6 Nov 2026)"
       }
     }
   }
