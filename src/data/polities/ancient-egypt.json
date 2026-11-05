@@ -3,10 +3,10 @@
   "name": "Ancient Egypt",
   "era": "ancient",
   "region": "North Africa",
-  "startYear": -3100,
+  "startYear": -3150,
   "endYear": -30,
   "datesApproximate": true,
-  "capital": "Memphis, Thebes, later Alexandria",
+  "capital": "Memphis; Thebes (New Kingdom); Alexandria (Ptolemaic)",
   "capitalCoords": [
     31.25,
     29.85
@@ -24,268 +24,268 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": null,
+        "value": "The lower Nile valley and delta in northeast Africa. In the New Kingdom it ruled much of Nubia and a considerable part of the Levant.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "terrain": {
-        "value": null,
+        "value": "A narrow, fertile river valley and delta surrounded by desert, which protected it from invasion. The Nile was the main highway.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "climate": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Hot and arid, with almost all farming relying on the Nile’s yearly flood. A drought around 2200–2150 BCE is widely linked to the collapse of the Old Kingdom.",
+        "year": -2200,
+        "certainty": "disputed",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "resources": {
-        "value": null,
+        "value": "Fertile flood silt for emmer wheat and barley, papyrus, building stone, copper, and gold from Nubia.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "disasters": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Low Nile floods meant famine. Drought is linked to the end of the Old Kingdom (c. 2181 BCE), though some historians stress other causes.",
+        "year": -2181,
+        "certainty": "disputed",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       }
     },
     "population": {
       "population": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Not stated in the Wikipedia infobox. Modern estimates range from about 1–2 million in the Old Kingdom to 3–5 million in the New Kingdom and Ptolemaic periods.",
+        "year": -1250,
+        "certainty": "disputed",
+        "source": "Shaw (ed.), The Oxford History of Ancient Egypt (2000)"
       },
       "urbanisation": {
-        "value": null,
+        "value": "Capitals included Memphis, Thebes (New Kingdom), Akhetaten (Akhenaten’s city) and Alexandria (Ptolemaic). Most people lived in farming villages along the river.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "disease": {
-        "value": null,
+        "value": "Studies of mummies and skeletons show common parasitic diseases (e.g. schistosomiasis). Medicine was well developed for its time. No major epidemics are described in the sources checked.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "Shaw (ed.), The Oxford History of Ancient Egypt (2000)"
       },
       "migration": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The Hyksos, a West Asian people, settled in and ruled the Delta (c. 1650–1550 BCE). Later, Libyan, Nubian, Persian and Greek groups became ruling elites.",
+        "year": -1650,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       }
     },
     "economy": {
       "economicBase": {
-        "value": null,
+        "value": "Irrigated Nile agriculture produced surplus crops that supported a dense population, the state and monumental building.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": null,
+        "value": "Trade with Byblos (cedar), Punt (incense), Nubia (gold), Crete and the Aegean, and lapis lazuli from Afghanistan.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "wealth": {
-        "value": null,
+        "value": "No GDP estimate is possible. Egypt was the richest grain producer of the ancient Mediterranean.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "disputed",
+        "source": "—"
       },
       "moneyAndTax": {
-        "value": null,
+        "value": "No coinage until the Late Period. Value was measured in grain and copper (the deben). Taxes were paid in crops and labour (corvée), stored in state and temple granaries.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "inequality": {
-        "value": null,
+        "value": "A pharaoh and elite of nobles, priests and scribes over a large peasant population.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       }
     },
     "politics": {
       "governmentType": {
-        "value": null,
+        "value": "A monarchy under a divine pharaoh, run by a bureaucracy of elite scribes, religious leaders and administrators, with a vizier and provincial governors (nomarchs).",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "keyRulers": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Narmer/Menes (unifier, c. 3150 BCE). Khufu (Great Pyramid). Hatshepsut (female pharaoh, c. 1479–1458 BCE). Thutmose III (largest empire). Akhenaten (religious revolution). Ramesses II (c. 1279–1213 BCE). Cleopatra VII (last, d. 30 BCE).",
+        "year": -1279,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "succession": {
-        "value": null,
+        "value": "Hereditary dynasties, conventionally numbered 1 to 31. Periods of division (the “Intermediate Periods”) occurred when central rule broke down.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "institutions": {
-        "value": null,
+        "value": "The vizier, provincial nomes and temple estates. Local councils (kenbet) and oracles handled justice from the New Kingdom.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "stability": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Long stable kingdoms broken by three Intermediate Periods of division (c. 2181–2055, 1650–1550 and 1069–664 BCE).",
+        "year": -2181,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "eliteConflict": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Provincial governors challenged the crown at the end of the Old Kingdom. Late in the New Kingdom, the high priests of Amun at Thebes rivalled the pharaohs.",
+        "year": -1080,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       }
     },
     "military": {
       "armyAndTech": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "In the New Kingdom, a professional army with chariots and composite bows, adopted from the Hyksos. Navies operated on the Nile and the Mediterranean.",
+        "year": -1550,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "majorWars": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Expulsion of the Hyksos (c. 1550 BCE). Campaigns of Thutmose III in the Levant. The Battle of Kadesh against the Hittites (c. 1274 BCE), followed by the earliest known peace treaty (c. 1258 BCE).",
+        "year": -1274,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "territoryChange": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The New Kingdom empire stretched from Nubia to Syria. It was later conquered by Kushites, Assyrians, Persians (525 BCE), Alexander (332 BCE) and Rome (30 BCE).",
+        "year": -1450,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "alliancesRivals": {
-        "value": null,
+        "value": "Rivals: the Hyksos, Nubia/Kush, the Mitanni, the Hittites, the Assyrians and the Persians.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       }
     },
     "technology": {
       "inventions": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "One of the earliest writing systems (hieroglyphs), monumental stone building and construction organisation, mathematics, medicine, planked boats, faience and glass.",
+        "year": -3200,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "scienceEducation": {
-        "value": null,
+        "value": "Scribal schools taught writing and arithmetic. Literacy was limited to a small elite of scribes.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "Shaw (ed.), The Oxford History of Ancient Egypt (2000)"
       },
       "openness": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Mostly self-sufficient and conservative, but it adopted foreign technologies such as the chariot (from the Hyksos) and welcomed Greek traders and mercenaries in the Late Period.",
+        "year": -650,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       }
     },
     "culture": {
       "religion": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "A polytheistic religion centred on gods such as Ra, Osiris, Isis and Amun, with a strong belief in the afterlife (mummification, tombs). Akhenaten briefly promoted the single god Aten (c. 1350 BCE).",
+        "year": -1350,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "languageWriting": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Egyptian, written in hieroglyphic, hieratic and demotic scripts, and later Coptic. Hieroglyphs were deciphered in the 1820s using the Rosetta Stone.",
+        "year": -3000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "artsArchitecture": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The Giza pyramids and Great Sphinx (Old Kingdom), temples at Karnak and Abu Simbel (New Kingdom), and tomb painting. Literature: Pyramid Texts, the Story of Sinuhe.",
+        "year": -2560,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "socialStructure": {
-        "value": null,
+        "value": "Pharaoh, nobles and priests, scribes, craftsmen, farmers and labourers. Women had substantial legal rights. Whether slavery existed in the modern sense is debated.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "disputed",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "sharedIdentity": {
-        "value": null,
+        "value": "Unity of “the Two Lands” (Upper and Lower Egypt) under a god-king, and the order of the universe (ma’at).",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "Shaw (ed.), The Oxford History of Ancient Egypt (2000)"
       }
     },
     "connections": {
       "neighbours": {
-        "value": null,
+        "value": "Nubia/Kush, Libya, the Levant, Mesopotamia, the Hittites, the Minoans and Mycenaeans, and Punt.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "ideasReligions": {
-        "value": null,
+        "value": "Its art, architecture and religion were widely copied (e.g. by Kush, Greece and Rome). The cult of Isis spread across the Roman world.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "estimated",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "colonisation": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "As coloniser, it ruled Nubia and the Levant in the New Kingdom. As colonised, it was ruled by Persia, the Macedonian Ptolemies and Rome.",
+        "year": -525,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Unification of Upper and Lower Egypt (c. 3150 BCE), reliable Nile surpluses, an early writing system and a strong central bureaucracy.",
+        "year": -3150,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "peakPeriod": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "The New Kingdom, the pinnacle of Egyptian power, especially under Thutmose III and Ramesses II.",
+        "year": -1450,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "declineSignals": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "After the New Kingdom, an era of slow decline: division, priestly power, foreign rule (Libyan, Nubian, Assyrian, Persian) and loss of the empire.",
+        "year": -1069,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "outcome": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Conquest and transformation. The end of ancient Egypt is variously dated to 332 BCE (Alexander’s conquest) or 30 BCE (Roman annexation after Cleopatra VII).",
+        "year": -30,
+        "certainty": "disputed",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       }
     },
     "dataQuality": {
       "sources": {
-        "value": null,
+        "value": "Hieroglyphic inscriptions, papyri, king lists, archaeology, and Greek historians (Herodotus, Manetho). Checked against Wikipedia on 5 Nov 2026. See also Shaw (2000).",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "overallCertainty": {
-        "value": null,
+        "value": "Good for monuments and rulers. Dates vary by chronology (e.g. the New Kingdom is given as 1570 or 1549 BCE to 1073 or 1069 BCE). Population is only estimated.",
         "year": null,
-        "certainty": null,
-        "source": ""
+        "certainty": "disputed",
+        "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       }
     }
   }
