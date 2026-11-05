@@ -1,5 +1,5 @@
 import { CHECKLIST_SCHEMA, isFilled, overallCompletion } from '../lib/checklistSchema';
-import { EVENT_TYPES, POLITY_BY_ID, eventsForPolity, formatSpan, formatYear, isActive, linksForPolity } from '../lib/data';
+import { ERA_LABEL, EVENT_TYPES, POLITY_BY_ID, eventsForPolity, formatSpan, formatYear, isActive, linksForPolity } from '../lib/data';
 import type { LinkRelation, Polity } from '../types';
 import ChecklistCategory, { CertaintyBadge } from './ChecklistCategory';
 
@@ -12,7 +12,6 @@ interface Props {
   onOpenEvent: (id: string) => void;
 }
 
-const ERA_LABEL = { early_modern: 'Early Modern', modern: 'Modern' } as const;
 
 const RELATION_TEXT: Record<LinkRelation, [string, string]> = {
   // [from → to wording, to ← from wording]
@@ -45,9 +44,9 @@ export default function PolityDetail({ polity, year, onJumpToYear, onFlyTo, onOp
             <span className="rounded-full bg-ink-700 px-2 py-0.5 text-parchment-200">{ERA_LABEL[polity.era]}</span>
             <span className="rounded-full bg-ink-700 px-2 py-0.5 text-parchment-200">{polity.region}</span>
             {active ? (
-              <span className="rounded-full bg-ok/15 px-2 py-0.5 text-ok">Exists in {year}</span>
+              <span className="rounded-full bg-ok/15 px-2 py-0.5 text-ok">Exists in {formatYear(year)}</span>
             ) : (
-              <span className="rounded-full bg-white/5 px-2 py-0.5 text-parchment-400">Not in {year}</span>
+              <span className="rounded-full bg-white/5 px-2 py-0.5 text-parchment-400">Not in {formatYear(year)}</span>
             )}
           </div>
           <h2 className="font-display mt-2 text-2xl leading-tight font-bold text-parchment-50 sm:text-[28px]">{polity.name}</h2>
@@ -68,9 +67,9 @@ export default function PolityDetail({ polity, year, onJumpToYear, onFlyTo, onOp
             <svg viewBox="0 0 24 24" className="size-3.5" fill="none" stroke="currentColor" strokeWidth="2.2" aria-hidden="true"><circle cx="12" cy="12" r="9" /><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18" /></svg>
             Show on map
           </ActionButton>
-          <ActionButton onClick={() => onJumpToYear(polity.startYear)}>⏮ Rise · {polity.startYear}</ActionButton>
-          {peakYear !== null && <ActionButton onClick={() => onJumpToYear(peakYear)}>★ Peak · c. {peakYear}</ActionButton>}
-          {polity.endYear !== null && <ActionButton onClick={() => onJumpToYear(polity.endYear as number)}>⏭ End · {polity.endYear}</ActionButton>}
+          <ActionButton onClick={() => onJumpToYear(polity.startYear)}>⏮ Rise · {formatYear(polity.startYear)}</ActionButton>
+          {peakYear !== null && <ActionButton onClick={() => onJumpToYear(peakYear)}>★ Peak · {formatYear(peakYear, true)}</ActionButton>}
+          {polity.endYear !== null && <ActionButton onClick={() => onJumpToYear(polity.endYear as number)}>⏭ End · {formatYear(polity.endYear)}</ActionButton>}
         </div>
       </header>
 
@@ -132,7 +131,7 @@ export default function PolityDetail({ polity, year, onJumpToYear, onFlyTo, onOp
                   ) : (
                     <span className="font-semibold text-parchment-100">{otherId}</span>
                   )}
-                  {l.year !== undefined && <span className="text-xs text-parchment-400 tabular-nums">({l.year})</span>}
+                  {l.year !== undefined && <span className="text-xs text-parchment-400 tabular-nums">({formatYear(l.year)})</span>}
                   {l.note && <span className="w-full text-xs text-parchment-400">{l.note}</span>}
                 </li>
               );

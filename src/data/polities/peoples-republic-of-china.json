@@ -18,7 +18,7 @@
     1949,
     null
   ],
-  "summary": "",
+  "summary": "Proclaimed in 1949 after the civil war. After decades of upheaval, reforms from 1978 transformed it into the world’s second-largest economy.",
   "checklist": {
     "geography": {
       "location": {
@@ -92,10 +92,10 @@
         "source": ""
       },
       "wealth": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Average growth over 9% a year since 1978. Around 800 million people lifted out of extreme poverty. The world’s second-largest economy by nominal GDP and the largest by purchasing power (PPP).",
+        "year": 1978,
+        "certainty": "confirmed",
+        "source": "World Bank: China overview; Wikipedia: Economy of China"
       },
       "moneyAndTax": {
         "value": null,
@@ -112,10 +112,10 @@
     },
     "politics": {
       "governmentType": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "A one-party socialist state led by the Chinese Communist Party, proclaimed on 1 October 1949.",
+        "year": 1949,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the PRC"
       },
       "keyRulers": {
         "value": null,
@@ -248,10 +248,10 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Market reforms and opening-up from 1978 under Deng Xiaoping.",
+        "year": 1978,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the PRC"
       },
       "peakPeriod": {
         "value": null,

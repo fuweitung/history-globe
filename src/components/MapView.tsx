@@ -203,7 +203,7 @@ export default function MapView({
       }
       const p = snapshotRef.current?.byFid.get(f.id as number) ?? (f.properties as unknown as BorderProps);
       const sub = p.SUBJECTO && p.SUBJECTO !== p.NAME ? `under ${p.SUBJECTO}` : undefined;
-      setTooltip({ x: e.point.x, y: e.point.y, text: p.NAME ?? 'Unnamed', sub });
+      setTooltip({ x: e.point.x, y: e.point.y, text: p.NAME ?? 'Unnamed', sub: p._linked ? `${sub ? sub + ' · ' : ''}click for checklist` : sub });
     });
     map.on('mouseleave', 'borders-fill', () => {
       map.getCanvas().style.cursor = '';

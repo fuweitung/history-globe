@@ -16,9 +16,12 @@ const outDir = join(root, 'public', 'data', 'borders');
 const force = process.argv.includes('--force');
 
 const REPO = 'https://raw.githubusercontent.com/aourednik/historical-basemaps/master/geojson';
-// Snapshots available upstream in our 1500–2025 range.
-// To extend to ancient history later, add years here (e.g. 'bc500', 100, 1000…).
-const YEARS = [1500, 1530, 1600, 1650, 1700, 1715, 1783, 1800, 1815, 1878, 1880, 1900, 1914, 1920, 1930, 1938, 1945, 1960, 1994, 2000, 2010];
+// Snapshots available upstream from 3000 BCE to today. Negative = BCE (−1 = 1 BCE; there is no year 0).
+// Even older maps exist upstream (bc4000 … bc123000) if the timeline is ever extended further back.
+const YEARS = [
+  -3000, -2000, -1500, -1000, -700, -500, -400, -323, -300, -200, -100, -1,
+  100, 200, 300, 400, 500, 600, 700, 800, 900, 1000, 1100, 1200, 1279, 1300, 1400, 1492,
+  1500, 1530, 1600, 1650, 1700, 1715, 1783, 1800, 1815, 1878, 1880, 1900, 1914, 1920, 1930, 1938, 1945, 1960, 1994, 2000, 2010];
 const LAND = 'https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_land.geojson';
 
 const exists = (p) => access(p).then(() => true, () => false);
@@ -35,9 +38,10 @@ async function download(url, dest) {
 
 await mkdir(outDir, { recursive: true });
 const ok = [];
+const fileFor = (y) => (y < 0 ? `world_bc${-y}.geojson` : `world_${y}.geojson`);
 for (const y of YEARS) {
   try {
-    const status = await download(`${REPO}/world_${y}.geojson`, join(outDir, `world_${y}.geojson`));
+    const status = await download(`${REPO}/${fileFor(y)}`, join(outDir, fileFor(y)));
     ok.push(y);
     console.log(`  ✓ ${y}  ${status}`);
   } catch (e) {

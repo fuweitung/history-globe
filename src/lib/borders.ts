@@ -76,21 +76,28 @@ function matchDistance(p: Polity, snapYear: number): number {
     return snapYear >= from && snapYear <= (to ?? Infinity) ? 0 : Infinity; // strict window
   }
   const d = yearsOutside(p, snapYear);
-  return d <= MATCH_TOLERANCE ? d : Infinity;
+  return d <= matchTolerance(snapYear) ? d : Infinity;
 }
-const MATCH_TOLERANCE = 10;
+/** Older snapshots are further apart, so allow a wider margin around a polity's lifetime. */
+const matchTolerance = (y: number) => (y < 500 ? 50 : y < 1500 ? 25 : 10);
 
-/** Candidate polities for one polygon, closest-in-time first. */
-function candidatesFor(props: { NAME?: string | null; SUBJECTO?: string | null }, snapYear: number): Polity[] {
+/**
+ * Candidate polities for one polygon, closest-in-time first.
+ * `viaName` is true when the polygon's own NAME matched (not its overlord's).
+ */
+function candidatesFor(
+  props: { NAME?: string | null; SUBJECTO?: string | null },
+  snapYear: number,
+): { list: Polity[]; viaName: boolean } {
   // The polygon's own name wins; fall back to its overlord (for colonies/vassals).
-  for (const key of [props.NAME, props.SUBJECTO]) {
+  for (const [key, viaName] of [[props.NAME, true], [props.SUBJECTO, false]] as const) {
     if (!key) continue;
     const list = NAME_INDEX.get(norm(key));
     if (!list) continue;
     const near = list.filter((p) => matchDistance(p, snapYear) !== Infinity);
-    if (near.length) return near.sort((a, b) => matchDistance(a, snapYear) - matchDistance(b, snapYear));
+    if (near.length) return { list: near.sort((a, b) => matchDistance(a, snapYear) - matchDistance(b, snapYear)), viaName };
   }
-  return [];
+  return { list: [], viaName: false };
 }
 
 /** Pick the best polity for a clicked polygon at the slider's year. */
@@ -108,9 +115,10 @@ const cache = new Map<number, Promise<Snapshot>>();
 export function loadSnapshot(year: number): Promise<Snapshot> {
   let p = cache.get(year);
   if (!p) {
-    p = fetch(`${BASE}data/borders/world_${year}.geojson`)
+    const file = year < 0 ? `world_bc${-year}.geojson` : `world_${year}.geojson`;
+    p = fetch(`${BASE}data/borders/${file}`)
       .then((r) => {
-        if (!r.ok) throw new Error(`world_${year}.geojson: HTTP ${r.status}`);
+        if (!r.ok) throw new Error(`${file}: HTTP ${r.status}`);
         return r.json() as Promise<FeatureCollection<Geometry, Partial<BorderProps>>>;
       })
       .then((fc) => prepare(year, fc));
@@ -151,8 +159,11 @@ function prepare(year: number, fc: FeatureCollection<Geometry, Partial<BorderPro
     if (!f.geometry || !f.properties) return;
     const NAME = f.properties.NAME ?? null;
     const SUBJECTO = f.properties.SUBJECTO ?? null;
-    const cands = candidatesFor({ NAME, SUBJECTO }, year);
+    const { list: cands, viaName } = candidatesFor({ NAME, SUBJECTO }, year);
     const linked = cands.length ? 1 : 0;
+    // Label linked territories with our civilisation's name (fixes dataset spellings
+    // like "Zhoa" and shows e.g. "Yuan Dynasty" instead of "Great Khanate").
+    const labelName = viaName && cands[0] ? cands[0].name : NAME;
     const props: BorderProps = {
       NAME,
       SUBJECTO,
@@ -166,11 +177,11 @@ function prepare(year: number, fc: FeatureCollection<Geometry, Partial<BorderPro
     features.push({ type: 'Feature', id: i, geometry: f.geometry, properties: props });
     byFid.set(i, props);
 
-    if (NAME) {
+    if (labelName) {
       const lp = largestPolygon(f.geometry);
       if (lp) {
-        const prev = labelByName.get(NAME);
-        if (!prev || lp.area > prev.area) labelByName.set(NAME, { ...lp, linked });
+        const prev = labelByName.get(labelName);
+        if (!prev || lp.area > prev.area) labelByName.set(labelName, { ...lp, linked });
       }
     }
   });

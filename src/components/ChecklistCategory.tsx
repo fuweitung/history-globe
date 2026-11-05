@@ -1,6 +1,7 @@
 import { useId, useState } from 'react';
 import { categoryCompletion, getItem, isFilled, type CategoryDef } from '../lib/checklistSchema';
 import type { Certainty, Checklist, ChecklistItem } from '../types';
+import { formatYear } from '../lib/data';
 
 const CERTAINTY: Record<Certainty, { label: string; cls: string; tip: string }> = {
   confirmed: { label: 'Confirmed', cls: 'bg-ok/15 text-ok ring-ok/30', tip: 'Well documented in reliable sources' },
@@ -116,8 +117,7 @@ function Item({
             className="rounded-full bg-ink-600/70 px-1.5 py-px text-[10px] font-semibold text-parchment-100 tabular-nums transition hover:bg-gold-400 hover:text-ink-900"
             title="Move the timeline to this year"
           >
-            {item.certainty === 'estimated' ? 'c. ' : ''}
-            {item.year}
+            {formatYear(item.year as number, item.certainty === 'estimated')}
           </button>
         )}
         {filled && <CertaintyBadge certainty={item.certainty} />}

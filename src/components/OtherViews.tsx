@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react';
 import { overallCompletion } from '../lib/checklistSchema';
-import { EVENT_TYPES, POLITIES, POLITY_BY_ID, formatSpan, formatYear, isActive } from '../lib/data';
+import { ERAS, EVENT_TYPES, POLITIES, POLITY_BY_ID, formatSpan, formatYear, isActive } from '../lib/data';
 import type { BorderProps } from '../lib/borders';
 import type { HistoryEvent } from '../types';
 import { ProgressBar } from './ChecklistCategory';
@@ -35,7 +35,7 @@ export function EventDetail({
         title="Move the timeline to this year"
       >
         {formatYear(event.year, event.yearApproximate)}
-        {event.endYear ? ` – ${event.endYear}` : ''}
+        {event.endYear ? ` – ${formatYear(event.endYear)}` : ''}
       </button>
       {event.yearApproximate && <p className="mt-1 text-[11px] text-warn">≈ Date is approximate.</p>}
       <p className="mt-4 text-[14px] leading-relaxed text-parchment-100">{event.description}</p>
@@ -108,10 +108,10 @@ export function PolityBrowser({ year, onOpenPolity }: { year: number; onOpenPoli
     );
   }, [q, onlyActive, year]);
 
-  const groups = [
-    { era: 'early_modern', label: 'Early Modern · 1500–1800' },
-    { era: 'modern', label: 'Modern · 1800–today' },
-  ] as const;
+  const groups = ERAS.map((e) => ({
+    era: e.id,
+    label: `${e.label} · ${formatYear(e.from)} – ${e.id === 'modern' ? 'today' : formatYear(e.to)}`,
+  }));
 
   return (
     <div className="pb-8">
@@ -135,7 +135,7 @@ export function PolityBrowser({ year, onOpenPolity }: { year: number; onOpenPoli
               onlyActive ? 'bg-gold-400 text-ink-900 ring-gold-400' : 'bg-ink-800 text-parchment-200 ring-white/10 hover:bg-ink-700'
             }`}
           >
-            In {year}
+            In {formatYear(year)}
           </button>
         </div>
       </div>
