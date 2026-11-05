@@ -14,7 +14,7 @@
   "borderNames": [
     "Ming Chinese Empire"
   ],
-  "summary": "",
+  "summary": "The Han Chinese dynasty that drove out the Mongol Yuan. It built the Forbidden City and most of today’s Great Wall, and sent Zheng He’s great fleets across the Indian Ocean.",
   "checklist": {
     "geography": {
       "location": {
@@ -204,10 +204,10 @@
         "source": ""
       },
       "artsArchitecture": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Built the Forbidden City in Beijing (1406–1420) and most of today’s visible Great Wall.",
+        "year": 1420,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty; Wikipedia: Ming Great Wall"
       },
       "socialStructure": {
         "value": null,
@@ -224,10 +224,10 @@
     },
     "connections": {
       "neighbours": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Admiral Zheng He’s treasure fleets (1405–1433) sailed to Southeast Asia, India, Arabia and the Swahili coast of East Africa.",
+        "year": 1405,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zheng He"
       },
       "ideasReligions": {
         "value": null,
@@ -262,10 +262,10 @@
         "source": ""
       },
       "outcome": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Fell in 1644 after rebels took Beijing. The Qing dynasty succeeded it.",
+        "year": 1644,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ming dynasty"
       }
     },
     "dataQuality": {

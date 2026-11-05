@@ -3,8 +3,8 @@
 // All data is static JSON for now; these types are the contract.
 // ─────────────────────────────────────────────────────────────
 
-/** Eras covered. Extend with "ancient" | "classical" | "medieval" later. */
-export type Era = 'early_modern' | 'modern';
+/** Eras covered (see lib/timeScale.ts for their year ranges). */
+export type Era = 'ancient' | 'medieval' | 'early_modern' | 'modern';
 
 export type Certainty = 'confirmed' | 'estimated' | 'disputed';
 

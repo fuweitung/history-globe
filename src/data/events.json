@@ -1,5 +1,1005 @@
 [
   {
+    "id": "cuneiform-writing",
+    "year": -3200,
+    "yearApproximate": true,
+    "lat": 31.32,
+    "lng": 45.64,
+    "type": "invention",
+    "title": "Cuneiform writing appears",
+    "description": "In Uruk, Sumerian scribes develop cuneiform, one of the earliest known writing systems, first used for accounts and records.",
+    "relatedPolityIds": [
+      "sumer"
+    ]
+  },
+  {
+    "id": "egypt-unification",
+    "year": -3100,
+    "yearApproximate": true,
+    "lat": 26.18,
+    "lng": 32.73,
+    "type": "person",
+    "title": "Unification of Egypt",
+    "description": "Upper and Lower Egypt are united under one king, traditionally Narmer (Menes), beginning about 3,000 years of pharaonic rule.",
+    "relatedPolityIds": [
+      "ancient-egypt"
+    ]
+  },
+  {
+    "id": "great-pyramid",
+    "year": -2560,
+    "yearApproximate": true,
+    "lat": 29.98,
+    "lng": 31.13,
+    "type": "culture",
+    "title": "Great Pyramid of Giza",
+    "description": "The pyramid of Khufu is completed, the tallest human-made structure in the world for nearly 4,000 years.",
+    "relatedPolityIds": [
+      "ancient-egypt"
+    ]
+  },
+  {
+    "id": "mohenjo-daro",
+    "year": -2500,
+    "yearApproximate": true,
+    "lat": 27.33,
+    "lng": 68.14,
+    "type": "culture",
+    "title": "Mohenjo-daro at its height",
+    "description": "The Indus city of Mohenjo-daro flourishes, with a grid plan, brick houses and advanced drainage.",
+    "relatedPolityIds": [
+      "indus-valley"
+    ]
+  },
+  {
+    "id": "knossos-palace",
+    "year": -1900,
+    "yearApproximate": true,
+    "lat": 35.3,
+    "lng": 25.16,
+    "type": "culture",
+    "title": "Palace of Knossos",
+    "description": "The Minoan palace complex at Knossos on Crete becomes a major centre of trade and art.",
+    "relatedPolityIds": [
+      "minoan"
+    ]
+  },
+  {
+    "id": "indus-decline",
+    "year": -1900,
+    "endYear": -1300,
+    "yearApproximate": true,
+    "lat": 30.63,
+    "lng": 72.86,
+    "type": "disaster",
+    "title": "Decline of the Indus cities",
+    "description": "The great Indus cities are gradually abandoned. Climate change and shifting rivers are leading explanations, but the causes are debated.",
+    "relatedPolityIds": [
+      "indus-valley"
+    ]
+  },
+  {
+    "id": "hammurabi-code",
+    "year": -1754,
+    "yearApproximate": true,
+    "lat": 32.54,
+    "lng": 44.42,
+    "type": "culture",
+    "title": "Code of Hammurabi",
+    "description": "King Hammurabi of Babylon issues one of the earliest surviving written law codes, carved on a stone stele.",
+    "relatedPolityIds": []
+  },
+  {
+    "id": "thera-eruption",
+    "year": -1600,
+    "yearApproximate": true,
+    "lat": 36.4,
+    "lng": 25.4,
+    "type": "disaster",
+    "title": "Thera (Santorini) eruption",
+    "description": "A massive volcanic eruption buries the town of Akrotiri. Its effect on the Minoans is debated.",
+    "relatedPolityIds": [
+      "minoan"
+    ]
+  },
+  {
+    "id": "oracle-bones",
+    "year": -1250,
+    "yearApproximate": true,
+    "lat": 36.13,
+    "lng": 114.31,
+    "type": "invention",
+    "title": "Oldest Chinese inscriptions",
+    "description": "Oracle-bone inscriptions from the Shang capital near Anyang are the earliest surviving Chinese writing.",
+    "relatedPolityIds": [
+      "shang"
+    ]
+  },
+  {
+    "id": "olmec-heads",
+    "year": -1200,
+    "endYear": -900,
+    "yearApproximate": true,
+    "lat": 17.75,
+    "lng": -94.76,
+    "type": "culture",
+    "title": "Olmec colossal heads",
+    "description": "The Olmec of San Lorenzo carve giant basalt heads, probably portraits of rulers.",
+    "relatedPolityIds": [
+      "olmec"
+    ]
+  },
+  {
+    "id": "bronze-age-collapse",
+    "year": -1177,
+    "yearApproximate": true,
+    "lat": 31.5,
+    "lng": 34.5,
+    "type": "disaster",
+    "title": "Late Bronze Age collapse",
+    "description": "Many eastern Mediterranean states, including the Hittites and Mycenaean Greece, collapse within a few decades amid drought, migration and war.",
+    "relatedPolityIds": [
+      "ancient-egypt"
+    ]
+  },
+  {
+    "id": "zhou-conquest",
+    "year": -1046,
+    "lat": 34.3,
+    "lng": 108.8,
+    "type": "war",
+    "title": "Zhou conquer the Shang",
+    "description": "The Zhou defeat the Shang at the Battle of Muye and justify it with the Mandate of Heaven.",
+    "relatedPolityIds": [
+      "zhou",
+      "shang"
+    ]
+  },
+  {
+    "id": "first-olympics",
+    "year": -776,
+    "yearApproximate": true,
+    "lat": 37.64,
+    "lng": 21.63,
+    "type": "culture",
+    "title": "First recorded Olympic Games",
+    "description": "The traditional date for the first Olympic Games at Olympia.",
+    "relatedPolityIds": [
+      "ancient-greece"
+    ]
+  },
+  {
+    "id": "founding-of-rome",
+    "year": -753,
+    "yearApproximate": true,
+    "lat": 41.89,
+    "lng": 12.49,
+    "type": "person",
+    "title": "Legendary founding of Rome",
+    "description": "The traditional date for Romulus founding Rome. Archaeology shows earlier settlement.",
+    "relatedPolityIds": [
+      "roman-republic"
+    ]
+  },
+  {
+    "id": "confucius",
+    "year": -551,
+    "endYear": -479,
+    "yearApproximate": true,
+    "lat": 35.6,
+    "lng": 116.99,
+    "type": "person",
+    "title": "Confucius",
+    "description": "The philosopher Confucius teaches in the state of Lu. His ideas about ethics, family and government become central to Chinese civilisation.",
+    "relatedPolityIds": [
+      "zhou"
+    ]
+  },
+  {
+    "id": "cyrus-babylon",
+    "year": -539,
+    "lat": 32.54,
+    "lng": 44.42,
+    "type": "war",
+    "title": "Cyrus the Great takes Babylon",
+    "description": "Cyrus conquers Babylon and allows exiled peoples, including the Judeans, to return home.",
+    "relatedPolityIds": [
+      "achaemenid-persia"
+    ]
+  },
+  {
+    "id": "roman-republic-founded",
+    "year": -509,
+    "yearApproximate": true,
+    "lat": 41.89,
+    "lng": 12.49,
+    "type": "person",
+    "title": "Roman Republic founded",
+    "description": "Rome expels its last king and establishes a republic governed by elected magistrates and the Senate.",
+    "relatedPolityIds": [
+      "roman-republic"
+    ]
+  },
+  {
+    "id": "athenian-democracy",
+    "year": -508,
+    "yearApproximate": true,
+    "lat": 37.97,
+    "lng": 23.72,
+    "type": "culture",
+    "title": "Athenian democracy",
+    "description": "Cleisthenes’ reforms create a democracy for Athens’ male citizens.",
+    "relatedPolityIds": [
+      "ancient-greece"
+    ]
+  },
+  {
+    "id": "battle-of-marathon",
+    "year": -490,
+    "lat": 38.15,
+    "lng": 23.96,
+    "type": "war",
+    "title": "Battle of Marathon",
+    "description": "Athens defeats a Persian invasion force, a key moment in the Greco-Persian Wars.",
+    "relatedPolityIds": [
+      "ancient-greece",
+      "achaemenid-persia"
+    ]
+  },
+  {
+    "id": "warring-states",
+    "year": -475,
+    "endYear": -221,
+    "yearApproximate": true,
+    "lat": 34.62,
+    "lng": 112.45,
+    "type": "war",
+    "title": "Warring States period",
+    "description": "Rival Chinese states fight for supremacy as Zhou royal power fades, while philosophy and military theory flourish.",
+    "relatedPolityIds": [
+      "zhou",
+      "qin"
+    ]
+  },
+  {
+    "id": "alexander-conquests",
+    "year": -334,
+    "endYear": -323,
+    "lat": 32.54,
+    "lng": 44.42,
+    "type": "war",
+    "title": "Conquests of Alexander the Great",
+    "description": "Alexander of Macedon defeats the Achaemenid Empire and reaches India. He dies in Babylon in 323 BCE.",
+    "relatedPolityIds": [
+      "macedonian-empire",
+      "achaemenid-persia"
+    ]
+  },
+  {
+    "id": "ashoka-kalinga",
+    "year": -261,
+    "yearApproximate": true,
+    "lat": 20.3,
+    "lng": 85.83,
+    "type": "war",
+    "title": "Kalinga War and Ashoka’s conversion",
+    "description": "Horrified by the bloodshed of the Kalinga war, Emperor Ashoka embraces Buddhism and spreads its ideas in edicts across India.",
+    "relatedPolityIds": [
+      "maurya"
+    ]
+  },
+  {
+    "id": "qin-unification",
+    "year": -221,
+    "lat": 34.33,
+    "lng": 108.71,
+    "type": "person",
+    "title": "Qin unifies China",
+    "description": "Qin Shi Huang becomes China’s first emperor, standardising writing, money and measures.",
+    "relatedPolityIds": [
+      "qin",
+      "zhou"
+    ]
+  },
+  {
+    "id": "terracotta-army",
+    "year": -210,
+    "yearApproximate": true,
+    "lat": 34.38,
+    "lng": 109.27,
+    "type": "culture",
+    "title": "Terracotta Army",
+    "description": "Qin Shi Huang is buried with an army of thousands of life-sized terracotta soldiers near Xi’an.",
+    "relatedPolityIds": [
+      "qin"
+    ]
+  },
+  {
+    "id": "han-founded",
+    "year": -202,
+    "lat": 34.34,
+    "lng": 108.94,
+    "type": "person",
+    "title": "Han dynasty founded",
+    "description": "Liu Bang (Emperor Gaozu) wins the civil war after the Qin collapse and founds the Han dynasty.",
+    "relatedPolityIds": [
+      "han-china",
+      "qin"
+    ]
+  },
+  {
+    "id": "carthage-destroyed",
+    "year": -146,
+    "lat": 36.85,
+    "lng": 10.32,
+    "type": "war",
+    "title": "Destruction of Carthage and Corinth",
+    "description": "Rome destroys Carthage and Corinth, becoming the dominant Mediterranean power.",
+    "relatedPolityIds": [
+      "roman-republic",
+      "ancient-greece"
+    ]
+  },
+  {
+    "id": "zhang-qian",
+    "year": -139,
+    "endYear": -125,
+    "lat": 39.5,
+    "lng": 75.98,
+    "type": "trade",
+    "title": "Zhang Qian opens the Silk Road",
+    "description": "Han envoy Zhang Qian travels to Central Asia. His missions open the trade routes later called the Silk Road.",
+    "relatedPolityIds": [
+      "han-china"
+    ]
+  },
+  {
+    "id": "caesar-assassinated",
+    "year": -44,
+    "lat": 41.89,
+    "lng": 12.48,
+    "type": "person",
+    "title": "Assassination of Julius Caesar",
+    "description": "Caesar is killed by senators. The civil wars that follow end the Republic.",
+    "relatedPolityIds": [
+      "roman-republic"
+    ]
+  },
+  {
+    "id": "augustus-emperor",
+    "year": -27,
+    "lat": 41.89,
+    "lng": 12.49,
+    "type": "person",
+    "title": "Augustus becomes first emperor",
+    "description": "Octavian takes the title Augustus, beginning the Roman Empire and two centuries of Pax Romana.",
+    "relatedPolityIds": [
+      "roman-empire",
+      "roman-republic"
+    ]
+  },
+  {
+    "id": "paper-cai-lun",
+    "year": 105,
+    "yearApproximate": true,
+    "lat": 34.62,
+    "lng": 112.45,
+    "type": "invention",
+    "title": "Papermaking refined by Cai Lun",
+    "description": "The Han court official Cai Lun presents an improved method of making paper.",
+    "relatedPolityIds": [
+      "han-china"
+    ]
+  },
+  {
+    "id": "trajan-extent",
+    "year": 117,
+    "lat": 44.43,
+    "lng": 26.1,
+    "type": "war",
+    "title": "Roman Empire at its greatest extent",
+    "description": "Under Trajan, the empire reaches its largest size, from Britain to Mesopotamia.",
+    "relatedPolityIds": [
+      "roman-empire"
+    ]
+  },
+  {
+    "id": "antonine-plague",
+    "year": 165,
+    "endYear": 180,
+    "lat": 41.89,
+    "lng": 12.49,
+    "type": "disaster",
+    "title": "Antonine Plague",
+    "description": "An epidemic, possibly smallpox, sweeps the Roman Empire, killing millions.",
+    "relatedPolityIds": [
+      "roman-empire"
+    ]
+  },
+  {
+    "id": "yellow-turbans",
+    "year": 184,
+    "lat": 35.0,
+    "lng": 115.0,
+    "type": "war",
+    "title": "Yellow Turban Rebellion",
+    "description": "A massive peasant uprising shakes the Han dynasty. Generals who suppress it become warlords.",
+    "relatedPolityIds": [
+      "han-china"
+    ]
+  },
+  {
+    "id": "end-of-han",
+    "year": 220,
+    "lat": 34.62,
+    "lng": 112.45,
+    "type": "war",
+    "title": "End of the Han",
+    "description": "The last Han emperor abdicates, and China splits into the Three Kingdoms and nearly four centuries of division.",
+    "relatedPolityIds": [
+      "han-china"
+    ]
+  },
+  {
+    "id": "maya-classic",
+    "year": 250,
+    "yearApproximate": true,
+    "lat": 17.22,
+    "lng": -89.62,
+    "type": "culture",
+    "title": "Classic Maya period begins",
+    "description": "Maya city-states such as Tikal flourish, with monumental temples, writing and astronomy.",
+    "relatedPolityIds": [
+      "maya"
+    ]
+  },
+  {
+    "id": "edict-of-milan",
+    "year": 313,
+    "lat": 45.46,
+    "lng": 9.19,
+    "type": "culture",
+    "title": "Edict of Milan",
+    "description": "Emperor Constantine legalises Christianity in the Roman Empire.",
+    "relatedPolityIds": [
+      "roman-empire"
+    ]
+  },
+  {
+    "id": "constantinople-founded",
+    "year": 330,
+    "lat": 41.01,
+    "lng": 28.98,
+    "type": "person",
+    "title": "Constantinople founded",
+    "description": "Constantine makes Byzantium his new capital, Constantinople.",
+    "relatedPolityIds": [
+      "roman-empire",
+      "byzantine-empire"
+    ]
+  },
+  {
+    "id": "aksum-christianity",
+    "year": 340,
+    "yearApproximate": true,
+    "lat": 14.12,
+    "lng": 38.72,
+    "type": "culture",
+    "title": "Aksum adopts Christianity",
+    "description": "King Ezana of Aksum converts to Christianity, one of the first rulers in the world to do so.",
+    "relatedPolityIds": [
+      "aksum"
+    ]
+  },
+  {
+    "id": "fall-of-western-rome",
+    "year": 476,
+    "lat": 44.42,
+    "lng": 12.2,
+    "type": "war",
+    "title": "Fall of the Western Roman Empire",
+    "description": "Odoacer deposes the last western emperor, Romulus Augustulus, at Ravenna.",
+    "relatedPolityIds": [
+      "roman-empire"
+    ]
+  },
+  {
+    "id": "gupta-mathematics",
+    "year": 499,
+    "yearApproximate": true,
+    "lat": 25.61,
+    "lng": 85.14,
+    "type": "invention",
+    "title": "Aryabhata’s mathematics",
+    "description": "Aryabhata writes the Aryabhatiya, a landmark work using place-value numbers.",
+    "relatedPolityIds": [
+      "gupta"
+    ]
+  },
+  {
+    "id": "hagia-sophia",
+    "year": 537,
+    "lat": 41.008,
+    "lng": 28.98,
+    "type": "culture",
+    "title": "Hagia Sophia completed",
+    "description": "Justinian’s great domed church in Constantinople is completed.",
+    "relatedPolityIds": [
+      "byzantine-empire"
+    ]
+  },
+  {
+    "id": "plague-of-justinian",
+    "year": 541,
+    "endYear": 549,
+    "lat": 41.01,
+    "lng": 28.98,
+    "type": "disaster",
+    "title": "Plague of Justinian",
+    "description": "The first recorded bubonic plague pandemic strikes the Byzantine Empire and the Mediterranean world.",
+    "relatedPolityIds": [
+      "byzantine-empire",
+      "sasanian"
+    ]
+  },
+  {
+    "id": "sui-reunifies",
+    "year": 589,
+    "lat": 34.34,
+    "lng": 108.94,
+    "type": "war",
+    "title": "Sui reunify China",
+    "description": "The Sui dynasty ends nearly four centuries of division.",
+    "relatedPolityIds": [
+      "sui"
+    ]
+  },
+  {
+    "id": "grand-canal",
+    "year": 605,
+    "endYear": 609,
+    "lat": 32.39,
+    "lng": 119.41,
+    "type": "trade",
+    "title": "Grand Canal built",
+    "description": "The Sui build the Grand Canal linking the Yellow River and the Yangtze.",
+    "relatedPolityIds": [
+      "sui"
+    ]
+  },
+  {
+    "id": "tang-founded",
+    "year": 618,
+    "lat": 34.34,
+    "lng": 108.94,
+    "type": "person",
+    "title": "Tang dynasty founded",
+    "description": "Li Yuan founds the Tang, which makes Chang’an one of the greatest cities in the world.",
+    "relatedPolityIds": [
+      "tang",
+      "sui"
+    ]
+  },
+  {
+    "id": "hijra",
+    "year": 622,
+    "lat": 24.47,
+    "lng": 39.61,
+    "type": "culture",
+    "title": "The Hijra",
+    "description": "The Prophet Muhammad migrates from Mecca to Medina, the start of the Islamic calendar.",
+    "relatedPolityIds": [
+      "umayyad-caliphate"
+    ]
+  },
+  {
+    "id": "fall-of-sasanians",
+    "year": 651,
+    "lat": 36.0,
+    "lng": 59.6,
+    "type": "war",
+    "title": "Fall of the Sasanian Empire",
+    "description": "Arab Muslim armies complete the conquest of Persia.",
+    "relatedPolityIds": [
+      "sasanian"
+    ]
+  },
+  {
+    "id": "srivijaya-inscription",
+    "year": 682,
+    "lat": -2.99,
+    "lng": 104.75,
+    "type": "culture",
+    "title": "Kedukan Bukit inscription",
+    "description": "The earliest dated inscription of Srivijaya, and one of the oldest surviving Malay texts.",
+    "relatedPolityIds": [
+      "srivijaya"
+    ]
+  },
+  {
+    "id": "battle-of-talas",
+    "year": 751,
+    "lat": 42.52,
+    "lng": 72.24,
+    "type": "war",
+    "title": "Battle of Talas",
+    "description": "Abbasid forces defeat a Tang army in Central Asia, limiting Tang expansion westward.",
+    "relatedPolityIds": [
+      "abbasid-caliphate",
+      "tang"
+    ]
+  },
+  {
+    "id": "an-lushan",
+    "year": 755,
+    "endYear": 763,
+    "lat": 34.34,
+    "lng": 108.94,
+    "type": "war",
+    "title": "An Lushan Rebellion",
+    "description": "A devastating rebellion weakens the Tang dynasty.",
+    "relatedPolityIds": [
+      "tang"
+    ]
+  },
+  {
+    "id": "charlemagne-crowned",
+    "year": 800,
+    "lat": 41.9,
+    "lng": 12.45,
+    "type": "person",
+    "title": "Charlemagne crowned emperor",
+    "description": "Pope Leo III crowns Charlemagne Emperor of the Romans in Rome.",
+    "relatedPolityIds": [
+      "holy-roman-empire"
+    ]
+  },
+  {
+    "id": "borobudur",
+    "year": 800,
+    "endYear": 825,
+    "yearApproximate": true,
+    "lat": -7.61,
+    "lng": 110.2,
+    "type": "culture",
+    "title": "Borobudur built",
+    "description": "The great Buddhist monument of Borobudur is built in central Java under the Sailendra dynasty.",
+    "relatedPolityIds": []
+  },
+  {
+    "id": "khmer-founded",
+    "year": 802,
+    "lat": 13.41,
+    "lng": 103.87,
+    "type": "person",
+    "title": "Khmer Empire founded",
+    "description": "Jayavarman II declares himself universal monarch, founding the Khmer Empire.",
+    "relatedPolityIds": [
+      "khmer-empire"
+    ]
+  },
+  {
+    "id": "house-of-wisdom",
+    "year": 830,
+    "yearApproximate": true,
+    "lat": 33.31,
+    "lng": 44.36,
+    "type": "invention",
+    "title": "House of Wisdom in Baghdad",
+    "description": "Scholars in Abbasid Baghdad translate and extend Greek, Persian and Indian science, including al-Khwarizmi’s algebra.",
+    "relatedPolityIds": [
+      "abbasid-caliphate"
+    ]
+  },
+  {
+    "id": "otto-crowned",
+    "year": 962,
+    "lat": 41.9,
+    "lng": 12.45,
+    "type": "person",
+    "title": "Holy Roman Empire founded",
+    "description": "Otto I is crowned emperor in Rome.",
+    "relatedPolityIds": [
+      "holy-roman-empire"
+    ]
+  },
+  {
+    "id": "song-paper-money",
+    "year": 1024,
+    "yearApproximate": true,
+    "lat": 30.66,
+    "lng": 104.07,
+    "type": "invention",
+    "title": "First government paper money",
+    "description": "The Song government begins issuing jiaozi paper money in Sichuan.",
+    "relatedPolityIds": [
+      "song"
+    ]
+  },
+  {
+    "id": "chola-raid",
+    "year": 1025,
+    "lat": -2.99,
+    "lng": 104.75,
+    "type": "war",
+    "title": "Chola raid on Srivijaya",
+    "description": "The Chola Empire of South India raids Srivijaya’s ports, weakening its control of the straits.",
+    "relatedPolityIds": [
+      "srivijaya"
+    ]
+  },
+  {
+    "id": "movable-type",
+    "year": 1040,
+    "yearApproximate": true,
+    "lat": 34.8,
+    "lng": 114.31,
+    "type": "invention",
+    "title": "Movable-type printing",
+    "description": "Bi Sheng invents movable type made of fired clay.",
+    "relatedPolityIds": [
+      "song"
+    ]
+  },
+  {
+    "id": "great-schism",
+    "year": 1054,
+    "lat": 41.01,
+    "lng": 28.98,
+    "type": "culture",
+    "title": "East–West Schism",
+    "description": "The Christian churches of Rome and Constantinople formally split.",
+    "relatedPolityIds": [
+      "byzantine-empire"
+    ]
+  },
+  {
+    "id": "first-crusade",
+    "year": 1096,
+    "endYear": 1099,
+    "lat": 31.78,
+    "lng": 35.23,
+    "type": "war",
+    "title": "First Crusade",
+    "description": "Western European crusaders capture Jerusalem.",
+    "relatedPolityIds": [
+      "byzantine-empire"
+    ]
+  },
+  {
+    "id": "angkor-wat",
+    "year": 1113,
+    "endYear": 1150,
+    "yearApproximate": true,
+    "lat": 13.41,
+    "lng": 103.87,
+    "type": "culture",
+    "title": "Angkor Wat built",
+    "description": "Suryavarman II builds Angkor Wat, the largest religious monument in the world.",
+    "relatedPolityIds": [
+      "khmer-empire"
+    ]
+  },
+  {
+    "id": "genghis-khan",
+    "year": 1206,
+    "lat": 47.92,
+    "lng": 106.92,
+    "type": "person",
+    "title": "Genghis Khan unites the Mongols",
+    "description": "Temujin is proclaimed Genghis Khan, founding the Mongol Empire.",
+    "relatedPolityIds": [
+      "mongol-empire"
+    ]
+  },
+  {
+    "id": "magna-carta",
+    "year": 1215,
+    "lat": 51.44,
+    "lng": -0.56,
+    "type": "culture",
+    "title": "Magna Carta",
+    "description": "English barons force King John to accept limits on royal power.",
+    "relatedPolityIds": []
+  },
+  {
+    "id": "sack-of-baghdad",
+    "year": 1258,
+    "lat": 33.31,
+    "lng": 44.36,
+    "type": "war",
+    "title": "Mongols sack Baghdad",
+    "description": "A Mongol army destroys Baghdad, ending the Abbasid Caliphate there.",
+    "relatedPolityIds": [
+      "mongol-empire",
+      "abbasid-caliphate"
+    ]
+  },
+  {
+    "id": "kublai-yuan",
+    "year": 1271,
+    "lat": 39.91,
+    "lng": 116.39,
+    "type": "person",
+    "title": "Kublai Khan founds the Yuan",
+    "description": "Kublai Khan proclaims the Yuan dynasty, which conquers the Song by 1279.",
+    "relatedPolityIds": [
+      "yuan",
+      "mongol-empire",
+      "song"
+    ]
+  },
+  {
+    "id": "majapahit-founded",
+    "year": 1293,
+    "lat": -7.56,
+    "lng": 112.38,
+    "type": "person",
+    "title": "Majapahit founded",
+    "description": "Raden Wijaya founds Majapahit in East Java after a failed Mongol invasion.",
+    "relatedPolityIds": [
+      "majapahit",
+      "yuan"
+    ]
+  },
+  {
+    "id": "mansa-musa",
+    "year": 1324,
+    "lat": 16.77,
+    "lng": -3.01,
+    "type": "trade",
+    "title": "Mansa Musa’s pilgrimage",
+    "description": "The ruler of Mali travels to Mecca with so much gold that he affects prices in Cairo.",
+    "relatedPolityIds": [
+      "mali-empire"
+    ]
+  },
+  {
+    "id": "tenochtitlan-founded",
+    "year": 1325,
+    "yearApproximate": true,
+    "lat": 19.43,
+    "lng": -99.13,
+    "type": "person",
+    "title": "Tenochtitlan founded",
+    "description": "The Mexica found their island city in Lake Texcoco.",
+    "relatedPolityIds": [
+      "aztec-empire"
+    ]
+  },
+  {
+    "id": "gajah-mada",
+    "year": 1336,
+    "endYear": 1364,
+    "yearApproximate": true,
+    "lat": -7.56,
+    "lng": 112.38,
+    "type": "person",
+    "title": "Gajah Mada’s Palapa Oath",
+    "description": "Majapahit’s chief minister vows to unite the archipelago.",
+    "relatedPolityIds": [
+      "majapahit"
+    ]
+  },
+  {
+    "id": "black-death",
+    "year": 1347,
+    "endYear": 1351,
+    "lat": 43.3,
+    "lng": 5.37,
+    "type": "disaster",
+    "title": "Black Death",
+    "description": "Plague kills perhaps a third to half of Europe’s population, and many people in the Middle East and North Africa.",
+    "relatedPolityIds": [
+      "byzantine-empire",
+      "holy-roman-empire"
+    ]
+  },
+  {
+    "id": "ming-founded",
+    "year": 1368,
+    "lat": 32.06,
+    "lng": 118.8,
+    "type": "person",
+    "title": "Ming dynasty founded",
+    "description": "Zhu Yuanzhang drives out the Mongol Yuan and founds the Ming.",
+    "relatedPolityIds": [
+      "ming-china",
+      "yuan"
+    ]
+  },
+  {
+    "id": "zheng-he",
+    "year": 1405,
+    "endYear": 1433,
+    "lat": -6.0,
+    "lng": 39.3,
+    "type": "trade",
+    "title": "Zheng He’s voyages",
+    "description": "Ming admiral Zheng He leads great treasure fleets to Southeast Asia, India, Arabia and the Swahili coast of East Africa.",
+    "relatedPolityIds": [
+      "ming-china",
+      "melaka-sultanate"
+    ]
+  },
+  {
+    "id": "forbidden-city",
+    "year": 1420,
+    "lat": 39.916,
+    "lng": 116.397,
+    "type": "culture",
+    "title": "Forbidden City completed",
+    "description": "The Ming imperial palace in Beijing is completed (built 1406–1420).",
+    "relatedPolityIds": [
+      "ming-china"
+    ]
+  },
+  {
+    "id": "angkor-abandoned",
+    "year": 1431,
+    "yearApproximate": true,
+    "lat": 13.41,
+    "lng": 103.87,
+    "type": "war",
+    "title": "Fall of Angkor",
+    "description": "Ayutthaya sacks Angkor, and the Khmer court moves south.",
+    "relatedPolityIds": [
+      "khmer-empire",
+      "ayutthaya-kingdom"
+    ]
+  },
+  {
+    "id": "machu-picchu",
+    "year": 1450,
+    "yearApproximate": true,
+    "lat": -13.16,
+    "lng": -72.55,
+    "type": "culture",
+    "title": "Machu Picchu built",
+    "description": "The Inca build the estate of Machu Picchu high in the Andes.",
+    "relatedPolityIds": [
+      "inca-empire"
+    ]
+  },
+  {
+    "id": "gutenberg",
+    "year": 1450,
+    "yearApproximate": true,
+    "lat": 49.99,
+    "lng": 8.27,
+    "type": "invention",
+    "title": "Gutenberg’s printing press",
+    "description": "Johannes Gutenberg develops movable-type printing in Mainz.",
+    "relatedPolityIds": [
+      "holy-roman-empire"
+    ]
+  },
+  {
+    "id": "fall-of-constantinople",
+    "year": 1453,
+    "lat": 41.01,
+    "lng": 28.98,
+    "type": "war",
+    "title": "Fall of Constantinople",
+    "description": "The Ottoman sultan Mehmed II captures Constantinople, ending the Byzantine Empire.",
+    "relatedPolityIds": [
+      "byzantine-empire",
+      "ottoman-empire"
+    ]
+  },
+  {
+    "id": "columbus",
+    "year": 1492,
+    "lat": 24.0,
+    "lng": -74.5,
+    "type": "trade",
+    "title": "Columbus reaches the Americas",
+    "description": "Columbus’s voyage begins sustained contact between Europe and the Americas.",
+    "relatedPolityIds": [
+      "spanish-empire"
+    ]
+  },
+  {
     "id": "portuguese-capture-melaka",
     "year": 1511,
     "lat": 2.19,
@@ -88,6 +1088,20 @@
     ]
   },
   {
+    "id": "inca-conquest",
+    "year": 1532,
+    "endYear": 1533,
+    "lat": -7.16,
+    "lng": -78.51,
+    "type": "war",
+    "title": "Spanish conquest of the Inca",
+    "description": "Francisco Pizarro captures the Inca ruler Atahualpa at Cajamarca, bringing down the empire.",
+    "relatedPolityIds": [
+      "inca-empire",
+      "spanish-empire"
+    ]
+  },
+  {
     "id": "potosi-silver",
     "year": 1545,
     "lat": -19.58,
@@ -125,6 +1139,19 @@
       "spanish-empire",
       "ming-china",
       "qing-china"
+    ]
+  },
+  {
+    "id": "great-wall-ming",
+    "year": 1570,
+    "yearApproximate": true,
+    "lat": 40.43,
+    "lng": 116.57,
+    "type": "culture",
+    "title": "Ming rebuild the Great Wall",
+    "description": "The Ming rebuild the wall in brick and stone. These sections are most of today’s visible Great Wall.",
+    "relatedPolityIds": [
+      "ming-china"
     ]
   },
   {

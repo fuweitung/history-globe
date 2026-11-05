@@ -21,7 +21,7 @@
     1912,
     1949
   ],
-  "summary": "",
+  "summary": "Founded in 1912 after the last emperor abdicated. It governed mainland China until 1949, through warlord rule, Japanese invasion and civil war. Since 1949 its government has been based in Taiwan.",
   "checklist": {
     "geography": {
       "location": {
@@ -159,10 +159,10 @@
         "source": ""
       },
       "majorWars": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Japanese invasion (Manchuria from 1931, full-scale war 1937–1945) and the Chinese Civil War.",
+        "year": 1937,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Second Sino-Japanese War"
       },
       "territoryChange": {
         "value": null,
@@ -251,10 +251,10 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": null,
-        "year": null,
-        "certainty": null,
-        "source": ""
+        "value": "Founded after the 1911 Revolution ended over 2,000 years of imperial rule (221 BCE – 1912).",
+        "year": 1912,
+        "certainty": "confirmed",
+        "source": "Wikipedia: 1911 Revolution"
       },
       "peakPeriod": {
         "value": null,

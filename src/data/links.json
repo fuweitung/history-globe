@@ -215,5 +215,210 @@
     "relation": "allied_with",
     "year": 1541,
     "note": "Portuguese assistance against the Adal Sultanate."
+  },
+  {
+    "fromPolityId": "shang",
+    "toPolityId": "zhou",
+    "relation": "succeeded",
+    "year": -1046,
+    "note": "Zhou overthrew the Shang, citing the Mandate of Heaven."
+  },
+  {
+    "fromPolityId": "zhou",
+    "toPolityId": "qin",
+    "relation": "succeeded",
+    "year": -221
+  },
+  {
+    "fromPolityId": "qin",
+    "toPolityId": "han-china",
+    "relation": "succeeded",
+    "year": -202
+  },
+  {
+    "fromPolityId": "han-china",
+    "toPolityId": "sui",
+    "relation": "succeeded",
+    "year": 589,
+    "note": "Via nearly four centuries of division (220–589)."
+  },
+  {
+    "fromPolityId": "sui",
+    "toPolityId": "tang",
+    "relation": "succeeded",
+    "year": 618
+  },
+  {
+    "fromPolityId": "tang",
+    "toPolityId": "song",
+    "relation": "succeeded",
+    "year": 960,
+    "note": "Via the Five Dynasties and Ten Kingdoms period."
+  },
+  {
+    "fromPolityId": "song",
+    "toPolityId": "yuan",
+    "relation": "succeeded",
+    "year": 1279
+  },
+  {
+    "fromPolityId": "yuan",
+    "toPolityId": "song",
+    "relation": "conquered",
+    "year": 1279
+  },
+  {
+    "fromPolityId": "yuan",
+    "toPolityId": "ming-china",
+    "relation": "succeeded",
+    "year": 1368
+  },
+  {
+    "fromPolityId": "roman-republic",
+    "toPolityId": "roman-empire",
+    "relation": "succeeded",
+    "year": -27
+  },
+  {
+    "fromPolityId": "roman-empire",
+    "toPolityId": "byzantine-empire",
+    "relation": "succeeded",
+    "year": 395,
+    "note": "The eastern half continued as the Byzantine Empire."
+  },
+  {
+    "fromPolityId": "byzantine-empire",
+    "toPolityId": "ottoman-empire",
+    "relation": "succeeded",
+    "year": 1453,
+    "note": "Ottomans conquered Constantinople and made it their capital."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "byzantine-empire",
+    "relation": "conquered",
+    "year": 1453
+  },
+  {
+    "fromPolityId": "roman-empire",
+    "toPolityId": "han-china",
+    "relation": "traded_with",
+    "note": "Indirectly, via Parthian and Kushan middlemen on the Silk Road."
+  },
+  {
+    "fromPolityId": "roman-republic",
+    "toPolityId": "ancient-greece",
+    "relation": "conquered",
+    "year": -146
+  },
+  {
+    "fromPolityId": "macedonian-empire",
+    "toPolityId": "achaemenid-persia",
+    "relation": "conquered",
+    "year": -330
+  },
+  {
+    "fromPolityId": "ancient-greece",
+    "toPolityId": "macedonian-empire",
+    "relation": "succeeded",
+    "year": -336
+  },
+  {
+    "fromPolityId": "roman-empire",
+    "toPolityId": "ancient-egypt",
+    "relation": "conquered",
+    "year": -30
+  },
+  {
+    "fromPolityId": "sasanian",
+    "toPolityId": "umayyad-caliphate",
+    "relation": "succeeded",
+    "year": 651
+  },
+  {
+    "fromPolityId": "umayyad-caliphate",
+    "toPolityId": "abbasid-caliphate",
+    "relation": "succeeded",
+    "year": 750
+  },
+  {
+    "fromPolityId": "mongol-empire",
+    "toPolityId": "abbasid-caliphate",
+    "relation": "conquered",
+    "year": 1258
+  },
+  {
+    "fromPolityId": "mongol-empire",
+    "toPolityId": "yuan",
+    "relation": "succeeded",
+    "year": 1271,
+    "note": "Yuan was the khanate of the Great Khan in China."
+  },
+  {
+    "fromPolityId": "srivijaya",
+    "toPolityId": "melaka-sultanate",
+    "relation": "succeeded",
+    "year": 1400,
+    "note": "According to Malay tradition, Melaka’s founder Parameswara came from Palembang."
+  },
+  {
+    "fromPolityId": "srivijaya",
+    "toPolityId": "tang",
+    "relation": "traded_with",
+    "note": "Tribute missions and maritime trade."
+  },
+  {
+    "fromPolityId": "srivijaya",
+    "toPolityId": "song",
+    "relation": "traded_with"
+  },
+  {
+    "fromPolityId": "majapahit",
+    "toPolityId": "srivijaya",
+    "relation": "conquered",
+    "year": 1377
+  },
+  {
+    "fromPolityId": "khmer-empire",
+    "toPolityId": "srivijaya",
+    "relation": "traded_with"
+  },
+  {
+    "fromPolityId": "ming-china",
+    "toPolityId": "melaka-sultanate",
+    "relation": "traded_with",
+    "year": 1405
+  },
+  {
+    "fromPolityId": "mali-empire",
+    "toPolityId": "songhai-empire",
+    "relation": "succeeded",
+    "year": 1464,
+    "note": "Songhai rose as Mali declined."
+  },
+  {
+    "fromPolityId": "aksum",
+    "toPolityId": "ethiopian-empire",
+    "relation": "succeeded",
+    "year": 1270,
+    "note": "Via the Zagwe dynasty."
+  },
+  {
+    "fromPolityId": "olmec",
+    "toPolityId": "maya",
+    "relation": "traded_with",
+    "note": "Olmec influence on later Mesoamerican cultures is debated."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "aztec-empire",
+    "relation": "conquered",
+    "year": 1521
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "inca-empire",
+    "relation": "conquered",
+    "year": 1533
   }
 ]

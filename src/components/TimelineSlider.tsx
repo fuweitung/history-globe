@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useRef } from 'react';
-import { ERA_BANDS, EVENTS, EVENT_TYPES, MAX_YEAR, MIN_YEAR, formatSpan } from '../lib/data';
+import { EVENTS, EVENT_TYPES, formatSpan, formatYear } from '../lib/data';
+import { ERAS, MAX_YEAR, eraOf, eventWindowFor, fracToYear, stepFor, stepYear, yearToFrac } from '../lib/timeScale';
 import type { Polity } from '../types';
 
 interface Props {
@@ -15,9 +16,21 @@ interface Props {
   onEventWindowChange: (w: number) => void;
 }
 
-const SPAN = MAX_YEAR - MIN_YEAR;
-const pct = (y: number) => `${((Math.min(MAX_YEAR, Math.max(MIN_YEAR, y)) - MIN_YEAR) / SPAN) * 100}%`;
-const TICKS = [1500, 1600, 1700, 1800, 1900, 2000];
+const RESOLUTION = 2000; // slider positions
+const pct = (y: number) => `${yearToFrac(y) * 100}%`;
+// Scale labels; `minor` ones are hidden on phones.
+const TICKS: { y: number; label: string; minor?: boolean }[] = [
+  { y: -3000, label: '3000 BC' },
+  { y: -1000, label: '1000 BC' },
+  { y: 1, label: '1 AD', minor: true },
+  { y: 500, label: '500' },
+  { y: 1000, label: '1000', minor: true },
+  { y: 1500, label: '1500' },
+  { y: 1650, label: '1650', minor: true },
+  { y: 1800, label: '1800' },
+  { y: 1900, label: '1900', minor: true },
+  { y: 2000, label: '2000' },
+];
 const WINDOWS = [10, 25, 50];
 
 export default function TimelineSlider({
@@ -33,17 +46,17 @@ export default function TimelineSlider({
   onEventWindowChange,
 }: Props) {
   const inputRef = useRef<HTMLInputElement>(null);
+  const era = eraOf(year);
+  const step = stepFor(year);
 
-  // Keyboard shortcuts: ←/→ ±1 year, Shift ±10, Space play/pause (when not typing).
+  // Keyboard: ←/→ one step, Shift ×10, Space play/pause (when not typing).
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
       const t = e.target as HTMLElement;
       if (t.closest('input, textarea, select, [contenteditable]') && t !== inputRef.current) return;
-      if (t === inputRef.current && (e.key === 'ArrowLeft' || e.key === 'ArrowRight')) return; // native handling
       if (e.key === 'ArrowLeft' || e.key === 'ArrowRight') {
         e.preventDefault();
-        const step = (e.shiftKey ? 10 : 1) * (e.key === 'ArrowLeft' ? -1 : 1);
-        onChange(Math.min(MAX_YEAR, Math.max(MIN_YEAR, year + step)));
+        onChange(stepYear(year, (e.shiftKey ? 10 : 1) * (e.key === 'ArrowLeft' ? -1 : 1)));
       } else if (e.key === ' ' && t.tagName !== 'BUTTON') {
         e.preventDefault();
         onTogglePlay();
@@ -54,13 +67,13 @@ export default function TimelineSlider({
   }, [year, onChange, onTogglePlay]);
 
   const eventTicks = useMemo(() => EVENTS.map((e) => ({ id: e.id, year: e.year, color: EVENT_TYPES[e.type].color })), []);
-
   const gap = snapshotYear !== null ? Math.abs(snapshotYear - year) : 0;
+  const unit = (n: number) => `${n} yr${n === 1 ? '' : 's'}`;
 
   return (
-    <div className="pointer-events-auto mx-auto w-full max-w-5xl rounded-2xl bg-ink-900/85 px-3 pb-2 pt-2.5 shadow-2xl ring-1 ring-white/10 backdrop-blur-md sm:px-5">
-      {/* Header row: year, snapshot info, controls */}
-      <div className="flex items-center gap-3">
+    <div className="pointer-events-auto mx-auto w-full max-w-5xl rounded-2xl bg-ink-900/85 px-3 pt-2.5 pb-2 shadow-2xl ring-1 ring-white/10 backdrop-blur-md sm:px-5">
+      {/* Header row */}
+      <div className="flex items-center gap-2 sm:gap-3">
         <button
           type="button"
           onClick={onTogglePlay}
@@ -75,35 +88,42 @@ export default function TimelineSlider({
           )}
         </button>
 
-        <div className="flex items-center gap-1">
-          <StepButton label="Back 10 years" onClick={() => onChange(Math.max(MIN_YEAR, year - 10))}>«</StepButton>
-          <StepButton label="Back 1 year" onClick={() => onChange(Math.max(MIN_YEAR, year - 1))}>‹</StepButton>
+        <div className="flex items-center">
+          <StepButton label={`Back ${unit(step * 10)}`} onClick={() => onChange(stepYear(year, -10))}>«</StepButton>
+          <StepButton label={`Back ${unit(step)}`} onClick={() => onChange(stepYear(year, -1))}>‹</StepButton>
         </div>
 
         <div className="min-w-0 flex-1 text-center">
-          <div className="font-display text-3xl leading-none font-bold tracking-tight text-parchment-50 tabular-nums sm:text-4xl">
-            {year}
+          <div className="flex items-baseline justify-center gap-1.5">
+            <span className="font-display text-3xl leading-none font-bold tracking-tight text-parchment-50 tabular-nums sm:text-4xl">
+              {Math.abs(year)}
+            </span>
+            {year < 1000 && (
+              <span className="font-display text-base font-bold text-parchment-300 sm:text-lg">{year < 0 ? 'BCE' : 'CE'}</span>
+            )}
           </div>
           <div className="mt-1 truncate text-[11px] text-parchment-300">
+            <span className="font-semibold" style={{ color: era.text }}>{era.label}</span>
+            <span className="mx-1.5 text-parchment-400">·</span>
             {loading ? (
               <span className="animate-pulse">Loading borders…</span>
             ) : snapshotYear !== null ? (
               <>
-                Borders shown: <span className="font-semibold text-parchment-100">{snapshotYear}</span>
-                {gap > 0 && <span className="text-parchment-400"> (nearest map, {gap} yr{gap === 1 ? '' : 's'} away)</span>}
+                Map: <span className="font-semibold text-parchment-100">{formatYear(snapshotYear)}</span>
+                {gap > 0 && <span className="hidden text-parchment-400 sm:inline"> (nearest, {unit(gap)} away)</span>}
               </>
             ) : (
-              'Border data not loaded'
+              'No border data'
             )}
           </div>
         </div>
 
-        <div className="flex items-center gap-1">
-          <StepButton label="Forward 1 year" onClick={() => onChange(Math.min(MAX_YEAR, year + 1))}>›</StepButton>
-          <StepButton label="Forward 10 years" onClick={() => onChange(Math.min(MAX_YEAR, year + 10))}>»</StepButton>
+        <div className="flex items-center">
+          <StepButton label={`Forward ${unit(step)}`} onClick={() => onChange(stepYear(year, 1))}>›</StepButton>
+          <StepButton label={`Forward ${unit(step * 10)}`} onClick={() => onChange(stepYear(year, 10))}>»</StepButton>
         </div>
 
-        <label className="hidden shrink-0 items-center gap-1.5 text-[11px] text-parchment-300 sm:flex">
+        <label className="hidden shrink-0 items-center gap-1.5 text-[11px] text-parchment-300 sm:flex" title="Show events this close to the selected year (wider in older eras)">
           Events ±
           <select
             value={eventWindow}
@@ -112,47 +132,64 @@ export default function TimelineSlider({
             aria-label="Show events within this many years"
           >
             {WINDOWS.map((w) => (
-              <option key={w} value={w}>{w} yrs</option>
+              <option key={w} value={w}>{unit(eventWindowFor(year, w))}</option>
             ))}
           </select>
         </label>
       </div>
 
+      {/* Era chips: jump to the start of an era */}
+      <div className="mt-2 flex gap-1" role="group" aria-label="Jump to era">
+        {ERAS.map((e) => {
+          const active = e.id === era.id;
+          return (
+            <button
+              key={e.id}
+              type="button"
+              onClick={() => onChange(e.from)}
+              aria-pressed={active}
+              className={`min-w-0 truncate rounded-md px-1.5 py-0.5 text-[10px] font-semibold tracking-wide uppercase transition ${
+                active ? 'text-ink-900' : 'text-parchment-300 hover:bg-white/5'
+              }`}
+              style={{ width: `${e.share * 100}%`, background: active ? e.text : undefined }}
+            >
+              <span className="sm:hidden" aria-label={e.label}>{e.short}</span>
+              <span className="hidden sm:inline xl:hidden">{e.label}</span>
+              <span className="hidden xl:inline">
+                {e.label} · {formatYear(e.from).replace(' BCE', ' BC')}–{e.to === MAX_YEAR ? 'today' : formatYear(e.to)}
+              </span>
+            </button>
+          );
+        })}
+      </div>
+
       {/* Track */}
-      <div className="relative mt-1 select-none">
-        {/* Era bands */}
+      <div className="relative select-none">
         <div className="pointer-events-none absolute inset-x-0 top-[17px] h-1.5 overflow-hidden rounded-full bg-ink-700">
-          {ERA_BANDS.map((b, i) => (
-            <div
-              key={b.id}
-              className={i === 0 ? 'absolute inset-y-0 bg-[#8a6a3d]/70' : 'absolute inset-y-0 bg-[#4c6a9a]/70'}
-              style={{ left: pct(b.from), width: `calc(${pct(b.to)} - ${pct(b.from)})` }}
-            />
+          {ERAS.map((e) => (
+            <div key={e.id} className="absolute inset-y-0" style={{ left: pct(e.from), width: `${e.share * 100}%`, background: e.color, opacity: 0.8 }} />
           ))}
         </div>
 
-        {/* Selected polity lifespan */}
         {highlight && (
           <div
-            className="pointer-events-none absolute top-[14px] h-3 rounded-full bg-gold-400/45 ring-1 ring-gold-400/80"
+            className="pointer-events-none absolute top-[14px] h-3 min-w-1.5 rounded-full bg-gold-400/45 ring-1 ring-gold-400/80"
             style={{ left: pct(highlight.startYear), width: `calc(${pct(highlight.endYear ?? MAX_YEAR)} - ${pct(highlight.startYear)})` }}
             title={`${highlight.name}: ${formatSpan(highlight)}`}
           />
         )}
 
-        {/* Event density ticks */}
         <div className="pointer-events-none absolute inset-x-0 top-[26px] h-2">
           {eventTicks.map((t) => (
             <span key={t.id} className="absolute h-2 w-px opacity-70" style={{ left: pct(t.year), background: t.color }} />
           ))}
         </div>
 
-        {/* Snapshot markers: where real border data exists */}
         <div className="pointer-events-none absolute inset-x-0 top-[8px] h-2">
           {snapshotYears.map((y) => (
             <span
               key={y}
-              className={`absolute size-1.5 -translate-x-1/2 rounded-full ${y === snapshotYear ? 'bg-gold-400' : 'bg-parchment-300/60'}`}
+              className={`absolute size-1.5 -translate-x-1/2 rounded-full ${y === snapshotYear ? 'bg-gold-400' : 'bg-parchment-300/50'}`}
               style={{ left: pct(y) }}
             />
           ))}
@@ -161,28 +198,32 @@ export default function TimelineSlider({
         <input
           ref={inputRef}
           type="range"
-          min={MIN_YEAR}
-          max={MAX_YEAR}
+          min={0}
+          max={RESOLUTION}
           step={1}
-          value={year}
-          onChange={(e) => onChange(Number(e.target.value))}
+          value={Math.round(yearToFrac(year) * RESOLUTION)}
+          onChange={(e) => onChange(fracToYear(Number(e.target.value) / RESOLUTION))}
+          onKeyDown={(e) => {
+            // Let the global handler do era-aware stepping instead of the native one.
+            if (['ArrowLeft', 'ArrowRight', 'ArrowUp', 'ArrowDown'].includes(e.key)) e.preventDefault();
+          }}
           className="timeline-range relative"
           aria-label="Year"
-          aria-valuetext={`Year ${year}`}
+          aria-valuetext={formatYear(year)}
         />
       </div>
 
       {/* Scale */}
       <div className="relative h-4 text-[10px] text-parchment-400">
         {TICKS.map((t) => (
-          <span key={t} className="absolute -translate-x-1/2 tabular-nums" style={{ left: pct(t) }}>
-            {t}
+          <span
+            key={t.y}
+            className={`absolute -translate-x-1/2 whitespace-nowrap tabular-nums last:-translate-x-full ${t.minor ? 'hidden lg:inline' : ''}`}
+            style={{ left: pct(t.y) }}
+          >
+            {t.label}
           </span>
         ))}
-      </div>
-      <div className="flex justify-between text-[10px] tracking-wide uppercase">
-        <span className="text-[#c9a56f]">Early Modern · 1500–1800</span>
-        <span className="text-[#8fa9d4]">Modern · 1800–today</span>
       </div>
     </div>
   );

@@ -21,13 +21,10 @@ export const EVENT_BY_ID = new Map(EVENTS.map((e) => [e.id, e]));
 
 export const LINKS: PolityLink[] = linksJson as PolityLink[];
 
-export const MIN_YEAR = 1500;
-export const MAX_YEAR = 2025;
+export { MIN_YEAR, MAX_YEAR, ERAS } from './timeScale';
+import { ERAS } from './timeScale';
 
-export const ERA_BANDS = [
-  { id: 'early_modern', label: 'Early Modern', from: 1500, to: 1800 },
-  { id: 'modern', label: 'Modern', from: 1800, to: MAX_YEAR },
-] as const;
+export const ERA_LABEL: Record<string, string> = Object.fromEntries(ERAS.map((e) => [e.id, e.label]));
 
 export function isActive(p: Polity, year: number): boolean {
   return p.startYear <= year && (p.endYear ?? Infinity) >= year;
@@ -49,9 +46,10 @@ export function linksForPolity(id: string) {
   return LINKS.filter((l) => l.fromPolityId === id || l.toPolityId === id);
 }
 
+/** 1250 BCE · 618 CE · 1644. "CE" is only added below 1000 to avoid ambiguity. */
 export function formatYear(y: number | null | undefined, approximate = false): string {
   if (y === null || y === undefined) return 'present';
-  const s = y < 0 ? `${-y} BCE` : String(y);
+  const s = y < 0 ? `${-y} BCE` : y < 1000 ? `${y} CE` : String(y);
   return approximate ? `c. ${s}` : s;
 }
 

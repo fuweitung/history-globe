@@ -123,9 +123,9 @@ export const CHECKLIST_SCHEMA: CategoryDef[] = [
     icon: '📈',
     question: 'What signals came before the rise — and before the decline?',
     fields: [
-      { key: 'riseSignals', label: 'Rise signals', hint: 'What drove the rise' },
+      { key: 'riseSignals', label: 'Rise signals', hint: 'Expanding territory, growing trade, strong institutions, new tech, population growth' },
       { key: 'peakPeriod', label: 'Peak period', hint: 'When and why it peaked' },
-      { key: 'declineSignals', label: 'Decline signals', hint: 'Early warning signs' },
+      { key: 'declineSignals', label: 'Decline signals', hint: 'Overstretched borders, fiscal crisis, elite conflict, plague, climate stress, invasion' },
       { key: 'outcome', label: 'Outcome', hint: 'Collapse, conquest, transformation, successor' },
     ],
   },

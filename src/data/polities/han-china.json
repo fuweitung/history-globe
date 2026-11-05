@@ -1,0 +1,77 @@
+{
+  "id": "han-china",
+  "name": "Han China",
+  "era": "ancient",
+  "region": "East Asia",
+  "startYear": -202,
+  "endYear": 220,
+  "capital": "Chang'an (Western Han); Luoyang (Eastern Han)",
+  "capitalCoords": [108.94, 34.34],
+  "color": "#c0503f",
+  "borderNames": ["Han Empire", "Han"],
+  "borderYears": [-206, 220],
+  "summary": "The second imperial dynasty of China. It built on the Qin's unified state, opened the Silk Road and invented paper. Its rule was interrupted by Wang Mang's Xin dynasty (9–23 CE). China's majority ethnic group is still called the Han.",
+  "checklist": {
+    "geography": {
+      "location": { "value": "Centred on the Yellow River (Wei valley and North China Plain) and the Yangtze basin. At its height it reached into Korea, Vietnam and the Tarim Basin (Xinjiang).", "certainty": "confirmed", "source": "Loewe, The Government of the Qin and Han Empires (2006); Wikipedia: Han dynasty" },
+      "terrain": { "value": "Fertile loess plains along the Yellow River, the rice-growing Yangtze valley, and mountain passes such as the Hexi Corridor, which linked China to Central Asia.", "certainty": "confirmed", "source": "Lewis, The Early Chinese Empires: Qin and Han (2007)" },
+      "climate": { "value": "Temperate and monsoonal. A cooler, drier phase in the late Han is often linked to harvest failures, but the strength of that link is debated.", "certainty": "disputed", "source": "Lewis (2007)" },
+      "resources": { "value": "Millet and wheat in the north, rice in the south, silk, salt and iron. Salt and iron became state monopolies in 117 BCE.", "year": -117, "certainty": "confirmed", "source": "Loewe (2006)" },
+      "disasters": { "value": "The Yellow River changed course around 11 CE, causing catastrophic floods, famine and mass migration that helped bring down Wang Mang's regime.", "year": 11, "certainty": "estimated", "source": "Lewis (2007)" }
+    },
+    "population": {
+      "population": { "value": "About 57.7 million people were registered in the census of 2 CE, one of the earliest surviving censuses in the world. The real total may have been higher.", "year": 2, "certainty": "confirmed", "source": "Book of Han (Hanshu) census; Lewis (2007)" },
+      "urbanisation": { "value": "Chang'an and Luoyang were among the largest cities in the world, each with perhaps a few hundred thousand people. Most people lived in farming villages.", "certainty": "estimated", "source": "Lewis (2007)" },
+      "disease": { "value": "Epidemics are recorded in the late 2nd century CE and were one of the crises behind the Yellow Turban Rebellion of 184 CE.", "year": 184, "certainty": "estimated", "source": "de Crespigny, Fire over Luoyang (2016)" },
+      "migration": { "value": "After the Yellow River floods of the early 1st century CE and northern frontier wars, large numbers of people moved south. Northern peoples were resettled within the frontier.", "certainty": "estimated", "source": "Lewis (2007)" }
+    },
+    "economy": {
+      "economicBase": { "value": "Agriculture worked by smallholder families, plus crafts, iron and salt production, and long-distance trade.", "certainty": "confirmed", "source": "Loewe (2006)" },
+      "tradeRoutes": { "value": "Zhang Qian's missions to Central Asia (139–125 BCE) opened the overland routes later called the Silk Road. Silk went west, and horses, glass and other goods came east. Sea trade reached Southeast Asia and India.", "year": -139, "certainty": "confirmed", "source": "Shiji (Records of the Grand Historian); Wikipedia: Han dynasty" },
+      "wealth": { "value": "Around 450 'international dollars' (1990 values) per person in 1 CE, according to Maddison's estimate for China. The figure is very rough.", "year": 1, "certainty": "disputed", "source": "Maddison, Contours of the World Economy (2007)" },
+      "moneyAndTax": { "value": "Bronze wuzhu coins (from 118 BCE) became the standard currency for centuries. Revenue came from land tax, poll taxes and labour service, plus the salt and iron monopolies.", "year": -118, "certainty": "confirmed", "source": "Loewe (2006)" },
+      "inequality": { "value": "Large landowning families built up estates over time while many smallholders fell into tenancy. Reformers, including Wang Mang, tried and failed to limit large estates.", "certainty": "confirmed", "source": "Lewis (2007)" }
+    },
+    "politics": {
+      "governmentType": { "value": "An imperial monarchy with a salaried bureaucracy organised into commanderies and counties. Officials were recruited partly by recommendation and examinations in Confucian learning.", "certainty": "confirmed", "source": "Loewe (2006)" },
+      "keyRulers": { "value": "Emperor Gaozu (Liu Bang, founder, r. 202–195 BCE). Emperor Wu (r. 141–87 BCE, expansion and the Silk Road). Wang Mang (Xin dynasty, 9–23 CE). Emperor Guangwu (restored Han, r. 25–57 CE). Emperor Xian (last, r. 189–220 CE).", "certainty": "confirmed", "source": "Wikipedia: Han dynasty" },
+      "succession": { "value": "Hereditary within the Liu family, usually to a son chosen as heir. Child emperors in the Eastern Han let empresses' families and court eunuchs dominate.", "certainty": "confirmed", "source": "de Crespigny (2016)" },
+      "institutions": { "value": "Confucianism became the state ideology under Emperor Wu, and an Imperial Academy (Taixue) was founded in 124 BCE. Legal codes inherited from the Qin were softened.", "year": -124, "certainty": "confirmed", "source": "Loewe (2006)" },
+      "stability": { "value": "The Rebellion of the Seven States (154 BCE). The Wang Mang interregnum (9–23 CE). The Red Eyebrows uprising. The Yellow Turban Rebellion (184 CE), followed by warlord rule.", "year": 184, "certainty": "confirmed", "source": "de Crespigny (2016)" },
+      "eliteConflict": { "value": "Bitter rivalry in the Eastern Han between court eunuchs, empresses' families and scholar-officials. The 'Disasters of Partisan Prohibitions' (166–184 CE) purged hundreds of officials.", "year": 166, "certainty": "confirmed", "source": "de Crespigny (2016)" }
+    },
+    "military": {
+      "armyAndTech": { "value": "Conscript infantry armed with crossbows and iron weapons, plus cavalry built up to fight the Xiongnu. Frontier walls and garrisons stretched into the Hexi Corridor.", "certainty": "confirmed", "source": "Lewis (2007)" },
+      "majorWars": { "value": "The Han–Xiongnu wars (from 133 BCE). The War of the Heavenly Horses against Dayuan (Ferghana, 104–101 BCE). Campaigns in Korea and Nanyue (111–108 BCE).", "certainty": "confirmed", "source": "Wikipedia: Han dynasty" },
+      "territoryChange": { "value": "Expanded greatly under Emperor Wu into the south, Korea and the Western Regions. Control of Central Asia was lost and regained several times.", "certainty": "confirmed", "source": "Lewis (2007)" },
+      "alliancesRivals": { "value": "The main rival was the Xiongnu confederation. For a time the Han paid it tribute and made marriage alliances (heqin), then went to war, and later split the Xiongnu into northern and southern groups.", "certainty": "confirmed", "source": "Di Cosmo, Ancient China and Its Enemies (2002)" }
+    },
+    "technology": {
+      "inventions": { "value": "Paper (refined by Cai Lun, c. 105 CE), the seismoscope of Zhang Heng (132 CE), blast furnaces and cast iron, the wheelbarrow, and early ship rudders.", "year": 105, "certainty": "estimated", "source": "Wikipedia: Han dynasty; Needham, Science and Civilisation in China" },
+      "scienceEducation": { "value": "The Imperial Academy trained officials in the Confucian classics. Sima Qian's Shiji (c. 94 BCE) set the model for Chinese history writing. Mathematics included The Nine Chapters on the Mathematical Art.", "year": -94, "certainty": "confirmed", "source": "Loewe (2006)" },
+      "openness": { "value": "Fairly open to imported goods (horses, grapes, glass) and, late in the dynasty, to Buddhism, which arrived via the Silk Road in the 1st century CE.", "certainty": "estimated", "source": "Lewis (2007)" }
+    },
+    "culture": {
+      "religion": { "value": "State Confucianism, ancestor worship and popular religion. Daoist religious movements grew in the late Han. Buddhism arrived in the 1st century CE.", "certainty": "confirmed", "source": "Lewis (2007)" },
+      "languageWriting": { "value": "Classical Chinese, written in clerical script (lishu), developed from the script the Qin had standardised.", "certainty": "confirmed", "source": "Wikipedia: Han dynasty" },
+      "artsArchitecture": { "value": "Lacquerware, silk painting, tomb art such as the Mawangdui finds, jade burial suits and fu poetry. Few wooden buildings survive.", "certainty": "confirmed", "source": "Lewis (2007)" },
+      "socialStructure": { "value": "The emperor and nobility, officials and scholars, then farmers, artisans and merchants, with merchants officially ranked low. Slavery existed but was a small share of the population.", "certainty": "confirmed", "source": "Loewe (2006)" },
+      "sharedIdentity": { "value": "So strong that the majority ethnic group in China is still called the Han, a name first used in this sense around 420–589 CE.", "certainty": "confirmed", "source": "Wikipedia: Han Chinese" }
+    },
+    "connections": {
+      "neighbours": { "value": "The Xiongnu, Wusun, Dayuan (Ferghana) and other Central Asian states, Korean kingdoms, Nanyue (later conquered), and the Kushan Empire. There was indirect contact with Parthia and Rome.", "certainty": "confirmed", "source": "Wikipedia: Han dynasty" },
+      "ideasReligions": { "value": "Buddhism entered China. Han silk reached the Roman world through intermediaries. An embassy from 'Da Qin' (probably Rome) is recorded in 166 CE.", "year": 166, "certainty": "estimated", "source": "Book of the Later Han; Lewis (2007)" },
+      "colonisation": { "value": "Established commanderies in northern Korea (108 BCE) and northern Vietnam (111 BCE), and military colonies (tuntian) on the frontiers.", "year": -108, "certainty": "confirmed", "source": "Lewis (2007)" }
+    },
+    "riseFall": {
+      "riseSignals": { "value": "The Qin had already unified writing, money and measures. Early Han rulers lowered taxes and softened Qin laws, the population grew, and Confucian institutions gave the state lasting legitimacy.", "certainty": "estimated", "source": "Lewis (2007)" },
+      "peakPeriod": { "value": "The reign of Emperor Wu (141–87 BCE) for expansion, and the 1st–2nd centuries CE for population and culture.", "year": -100, "certainty": "estimated", "source": "Lewis (2007)" },
+      "declineSignals": { "value": "Child emperors and factional conflict between eunuchs and officials, large estates escaping tax, Yellow River floods, epidemics, and the Yellow Turban Rebellion (184 CE). Generals and warlords then took real power. A classic case of the 'dynastic cycle'.", "certainty": "estimated", "source": "de Crespigny (2016); Wikipedia: Dynastic cycle" },
+      "outcome": { "value": "Fragmentation. Emperor Xian abdicated in 220 CE, and China split into the Three Kingdoms (Wei, Shu, Wu), beginning nearly four centuries of division until the Sui reunified it in 589.", "year": 220, "certainty": "confirmed", "source": "Wikipedia: Han dynasty; Wikipedia: Sui dynasty" }
+    },
+    "dataQuality": {
+      "sources": { "value": "The official histories (Shiji, Hanshu, Hou Hanshu), excavated texts and tombs (Mawangdui, Juyan frontier slips), and modern syntheses (Loewe, Lewis, de Crespigny). The date 202 BCE is used; 206 BCE marks Liu Bang becoming King of Han.", "certainty": "confirmed", "source": "—" },
+      "overallCertainty": { "value": "Good for politics and institutions thanks to detailed official histories. Census data survives but under-counts. Economic figures are rough estimates.", "certainty": "estimated", "source": "—" }
+    }
+  }
+}

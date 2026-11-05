@@ -7,6 +7,7 @@ import { EventDetail, PolityBrowser, RegionDetail } from './components/OtherView
 import { boundsForPolity, loadManifest, loadSnapshot, nearestSnapshot, resolvePolity, type BorderProps, type Snapshot } from './lib/borders';
 import { EVENTS, EVENT_BY_ID, EVENT_TYPES, MAX_YEAR, MIN_YEAR, POLITY_BY_ID, isActive } from './lib/data';
 import type { EventType, Polity } from './types';
+import { eventWindowFor, normaliseYear, stepYear } from './lib/timeScale';
 
 type View =
   | { kind: 'none' }
@@ -16,7 +17,7 @@ type View =
   | { kind: 'event'; id: string }
   | { kind: 'region'; props: BorderProps };
 
-const clampYear = (y: number) => Math.min(MAX_YEAR, Math.max(MIN_YEAR, Math.round(y)));
+const clampYear = (y: number) => normaliseYear(y);
 
 function readUrl(): { year: number; polity: string | null; event: string | null } {
   const sp = new URLSearchParams(window.location.search);
@@ -106,7 +107,8 @@ export default function App() {
           setPlaying(false);
           return y;
         }
-        return y + 1;
+        // Older eras move in bigger steps (10 yrs ancient, 5 medieval, 1 later).
+        return stepYear(y, 1);
       });
     }, 110);
     return () => window.clearInterval(id);
@@ -139,11 +141,12 @@ export default function App() {
   // ── Events visible around the selected year ─────────────
   const visibleEvents: VisibleEvent[] = useMemo(() => {
     const out: VisibleEvent[] = [];
+    const window = eventWindowFor(year, eventWindow);
     for (const e of EVENTS) {
       if (hiddenTypes.has(e.type)) continue;
       const end = e.endYear ?? e.year;
       const dist = year < e.year ? e.year - year : year > end ? year - end : 0;
-      if (dist <= eventWindow) out.push({ event: e, weight: 1 - dist / (eventWindow + 1) });
+      if (dist <= window) out.push({ event: e, weight: 1 - dist / (window + 1) });
     }
     return out;
   }, [year, eventWindow, hiddenTypes]);
@@ -379,11 +382,13 @@ function About() {
     <div className="space-y-4 px-5 pt-4 pb-8 text-[13px] leading-relaxed text-parchment-200 md:pt-5">
       <h2 className="font-display pr-10 text-2xl font-bold text-parchment-50">About History Globe</h2>
       <p>
-        Drag the timeline to watch borders change from 1500 to today. Click a coloured territory to open its <strong className="text-parchment-50">element checklist</strong>:
+        Drag the timeline to watch borders change from 3500 BCE to today, across four eras: Ancient, Medieval, Early Modern and Modern. Click a coloured territory to open its <strong className="text-parchment-50">element checklist</strong>:
         ten categories, from geography to rise-and-fall markers, that help explain <em>why</em> civilisations rise, peak and decline.
       </p>
       <ul className="list-disc space-y-1 pl-5">
-        <li><strong className="text-parchment-50">← / →</strong> move one year · <strong className="text-parchment-50">Shift</strong> + arrow moves ten · <strong className="text-parchment-50">Space</strong> plays</li>
+        <li><strong className="text-parchment-50">← / →</strong> step (10 years in the Ancient era, 5 in the Medieval, 1 after 1500) · <strong className="text-parchment-50">Shift</strong> + arrow steps ten times · <strong className="text-parchment-50">Space</strong> plays</li>
+        <li>Each era gets its own share of the timeline, so 5,500 years fit without squeezing recent centuries. BCE years count down towards 1 CE (there is no year 0).</li>
+        <li>Chinese dynasties follow the <em>dynastic cycle</em>: rise, peak, decline, loss of the Mandate of Heaven, and replacement. Compare their Rise &amp; fall markers.</li>
         <li>Gold dots on the timeline mark years with real border maps; between them the nearest map is shown.</li>
         <li>Colonies and vassals take their overlord's colour, so empires read as a single block.</li>
         <li>Items marked <span className="text-warn">≈ Estimated</span> or <span className="text-dispute">Disputed</span> are approximate or debated.</li>
