@@ -359,7 +359,7 @@
     "toPolityId": "melaka-sultanate",
     "relation": "succeeded",
     "year": 1400,
-    "note": "According to Malay tradition, Melaka’s founder Parameswara came from Palembang."
+    "note": "Portuguese sources say Melaka’s founder Parameswara came from Palembang; the Malay Annals trace the line to a Palembang prince."
   },
   {
     "fromPolityId": "srivijaya",
@@ -376,7 +376,8 @@
     "fromPolityId": "majapahit",
     "toPolityId": "srivijaya",
     "relation": "conquered",
-    "year": 1377
+    "year": 1377,
+    "note": "Majapahit naval attack on Palembang (1377) caused a diaspora."
   },
   {
     "fromPolityId": "khmer-empire",

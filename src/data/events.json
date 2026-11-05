@@ -611,7 +611,7 @@
     "lng": 104.75,
     "type": "culture",
     "title": "Kedukan Bukit inscription",
-    "description": "The earliest dated inscription of Srivijaya, and one of the oldest surviving Malay texts.",
+    "description": "The Kedukan Bukit inscription (dated 682/683) is the earliest dated inscription of Srivijaya and one of the oldest surviving Malay texts.",
     "relatedPolityIds": [
       "srivijaya"
     ]
@@ -916,7 +916,7 @@
     "lng": 39.3,
     "type": "trade",
     "title": "Zheng He’s voyages",
-    "description": "Ming admiral Zheng He leads great treasure fleets to Southeast Asia, India, Arabia and the Swahili coast of East Africa.",
+    "description": "Ming admiral Zheng He leads great treasure fleets to Southeast Asia, India, Arabia and the Swahili coast of East Africa. He visited Melaka six times from 1407.",
     "relatedPolityIds": [
       "ming-china",
       "melaka-sultanate"
@@ -1402,12 +1402,12 @@
   },
   {
     "id": "ottoman-printing-press",
-    "year": 1727,
+    "year": 1729,
     "lat": 41.01,
     "lng": 28.98,
     "type": "invention",
-    "title": "First Ottoman Turkish printing press",
-    "description": "İbrahim Müteferrika receives permission to print books in Ottoman Turkish in Istanbul.",
+    "title": "First Ottoman Turkish printed book",
+    "description": "İbrahim Müteferrika’s press, approved after his 1726 petition, publishes the first book printed in Ottoman Turkish.",
     "relatedPolityIds": [
       "ottoman-empire"
     ]
