@@ -3,76 +3,259 @@
   "name": "Srivijaya",
   "era": "medieval",
   "region": "Southeast Asia",
-  "startYear": 650,
-  "endYear": 1377,
+  "startYear": 671,
+  "endYear": 1025,
   "datesApproximate": true,
   "capital": "Palembang (Sumatra); later Jambi",
-  "capitalCoords": [104.75, -2.99],
+  "capitalCoords": [
+    104.75,
+    -2.99
+  ],
   "color": "#2f8f7f",
-  "borderNames": ["Srivijaya Empire"],
-  "borderYears": [650, 1377],
-  "summary": "A Buddhist maritime power based in Sumatra that controlled the Strait of Melaka and the Sunda Strait for centuries. It is remembered as an early model for later Malay port-kingdoms such as Melaka.",
+  "borderNames": [
+    "Srivijaya Empire"
+  ],
+  "borderYears": [
+    671,
+    1377
+  ],
+  "summary": "A Buddhist maritime power based in Sumatra (c. 671–1025) that controlled the Strait of Melaka and the Sunda Strait. It may have collapsed after the Chola raid of 1025, though successor centres in Jambi and Palembang continued. It is remembered as an early model for later Malay port-kingdoms such as Melaka.",
   "checklist": {
     "geography": {
-      "location": { "value": "Southeast Sumatra (Palembang on the Musi River), with influence over the Strait of Melaka, the Sunda Strait, the Malay Peninsula and western Java at its height.", "certainty": "estimated", "source": "Andaya & Andaya, A History of Malaysia (2017); Wikipedia: Srivijaya" },
-      "terrain": { "value": "River-port capital upstream on the Musi River, surrounded by swampy lowlands and rainforest. It controlled the two sea chokepoints between the Indian Ocean and the South China Sea.", "certainty": "confirmed", "source": "Hall, A History of Early Southeast Asia (2011)" },
-      "climate": { "value": "Equatorial and monsoonal. Ships waited for seasonal wind changes, which made Srivijaya's ports natural stopping places.", "certainty": "confirmed", "source": "Hall (2011)" },
-      "resources": { "value": "Forest products (camphor, benzoin, aromatic woods), gold, tin from the peninsula, and spices traded from further east.", "certainty": "estimated", "source": "Hall (2011)" },
-      "disasters": { "value": "No major disasters are clearly recorded in the surviving sources.", "certainty": "estimated", "source": "—" }
+      "location": {
+        "value": "Southeast Sumatra (Palembang on the Musi River), with influence over the Strait of Melaka, the Sunda Strait, the Malay Peninsula and western Java at its height. Some scholars argue its centre was at Muaro Jambi instead of Palembang. Wikipedia’s infobox gives an area of about 1.2 million km².",
+        "certainty": "disputed",
+        "source": "Wikipedia: Srivijaya (checked 5 Nov 2026)",
+        "year": null
+      },
+      "terrain": {
+        "value": "River-port capital upstream on the Musi River, surrounded by swampy lowlands and rainforest. It controlled the two sea chokepoints between the Indian Ocean and the South China Sea.",
+        "certainty": "confirmed",
+        "source": "Hall, A History of Early Southeast Asia (2011)"
+      },
+      "climate": {
+        "value": "Equatorial and monsoonal. Ships waited for seasonal wind changes, which made Srivijaya's ports natural stopping places.",
+        "certainty": "confirmed",
+        "source": "Hall (2011)"
+      },
+      "resources": {
+        "value": "Forest products (camphor, benzoin, aromatic woods), gold, tin from the peninsula, and spices traded from further east.",
+        "certainty": "estimated",
+        "source": "Hall (2011)"
+      },
+      "disasters": {
+        "value": "No major disasters are clearly recorded in the surviving sources.",
+        "certainty": "estimated",
+        "source": "—"
+      }
     },
     "population": {
-      "population": { "value": "Unknown. No census survives. The Chinese pilgrim Yijing reported over 1,000 Buddhist monks at the capital in the 670s–690s.", "year": 671, "certainty": "disputed", "source": "Yijing, A Record of Buddhist Practices (c. 691)" },
-      "urbanisation": { "value": "Palembang was a river city, largely built of wood and on rafts, so it left few remains. It was probably the largest town in the region at its height.", "certainty": "estimated", "source": "Manguin, 'Palembang and Sriwijaya' (1993)" },
-      "disease": { "value": "No specific epidemics are recorded. Tropical diseases were endemic.", "certainty": "estimated", "source": "—" },
-      "migration": { "value": "Merchants and monks from India, China, Persia and Arabia visited or settled. The Orang Laut (sea peoples) were central to its naval power.", "certainty": "estimated", "source": "Andaya, Leaves of the Same Tree (2008)" }
+      "population": {
+        "value": "No census survives. The Chinese pilgrim Yijing, who spent six months there in 671, reported more than 1,000 Buddhist monks studying in Palembang.",
+        "year": 671,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Srivijaya (checked 5 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "Palembang was a river city, largely built of wood and on rafts, so it left few remains. It was probably the largest town in the region at its height.",
+        "certainty": "estimated",
+        "source": "Manguin, 'Palembang and Sriwijaya' (1993)"
+      },
+      "disease": {
+        "value": "No specific epidemics are recorded. Tropical diseases were endemic.",
+        "certainty": "estimated",
+        "source": "—"
+      },
+      "migration": {
+        "value": "Merchants and monks from India, China, Persia and Arabia visited or settled. The Orang Laut (sea peoples) were central to its naval power.",
+        "certainty": "estimated",
+        "source": "Andaya, Leaves of the Same Tree (2008)"
+      }
     },
     "economy": {
-      "economicBase": { "value": "Control of maritime trade: port fees, protection of shipping, and re-export of goods between China, India and the islands.", "certainty": "confirmed", "source": "Hall (2011)" },
-      "tradeRoutes": { "value": "The 'Maritime Silk Road' between Tang and Song China, India and the Middle East. Srivijaya sent tribute missions to China to secure trading rights.", "certainty": "confirmed", "source": "Wolters, Early Indonesian Commerce (1967)" },
-      "wealth": { "value": "No GDP estimate exists. Arab and Chinese writers described its ruler as extremely rich in gold.", "certainty": "disputed", "source": "Wolters (1967)" },
-      "moneyAndTax": { "value": "Gold and silver coins and ingots were used. Revenue came largely from harbour dues and trade.", "certainty": "estimated", "source": "Hall (2011)" },
-      "inequality": { "value": "Royal and aristocratic control of trade wealth. Details of everyday life are not documented.", "certainty": "estimated", "source": "—" }
+      "economicBase": {
+        "value": "Control of maritime trade: port fees, protection of shipping, and re-export of goods between China, India and the islands.",
+        "certainty": "confirmed",
+        "source": "Hall (2011)"
+      },
+      "tradeRoutes": {
+        "value": "The 'Maritime Silk Road' between Tang and Song China, India and the Middle East. Srivijaya sent tribute missions to China to secure trading rights.",
+        "certainty": "confirmed",
+        "source": "Wolters, Early Indonesian Commerce (1967)"
+      },
+      "wealth": {
+        "value": "No GDP estimate exists. Arab and Chinese writers described its ruler as extremely rich in gold.",
+        "certainty": "disputed",
+        "source": "Wolters (1967)"
+      },
+      "moneyAndTax": {
+        "value": "Gold and silver coins and ingots were used. Revenue came largely from harbour dues and trade.",
+        "certainty": "estimated",
+        "source": "Hall (2011)"
+      },
+      "inequality": {
+        "value": "Royal and aristocratic control of trade wealth. Details of everyday life are not documented.",
+        "certainty": "estimated",
+        "source": "—"
+      }
     },
     "politics": {
-      "governmentType": { "value": "A Buddhist monarchy (kedatuan) at the centre of a network of allied and subordinate ports, held together by trade, oaths of loyalty and naval power rather than fixed borders.", "certainty": "estimated", "source": "Andaya & Andaya (2017)" },
-      "keyRulers": { "value": "Dapunta Hyang Sri Jayanasa (founder, inscriptions of 682–686). Balaputradewa (9th c.). Later rulers are known mainly from Chinese records.", "certainty": "estimated", "source": "Kedukan Bukit inscription (682); Wikipedia: Srivijaya" },
-      "succession": { "value": "Dynastic. The Sailendra family connection with Java is debated by historians.", "certainty": "disputed", "source": "Wikipedia: Srivijaya" },
-      "institutions": { "value": "Oath inscriptions (e.g. Kota Kapur, 686) threatened curses on disloyal subjects. Buddhist monasteries were centres of learning and legitimacy.", "year": 686, "certainty": "confirmed", "source": "Kota Kapur inscription (686)" },
-      "stability": { "value": "Long-lasting but loose. Rival ports could break away when Srivijaya's naval power weakened.", "certainty": "estimated", "source": "Hall (2011)" },
-      "eliteConflict": { "value": "Little documented. A rival centre at Jambi (Melayu) became dominant in later centuries.", "certainty": "disputed", "source": "Andaya & Andaya (2017)" }
+      "governmentType": {
+        "value": "A Buddhist monarchy (kedatuan) at the centre of a network of allied and subordinate ports, held together by trade, oaths of loyalty and naval power rather than fixed borders.",
+        "certainty": "estimated",
+        "source": "Andaya & Andaya (2017)"
+      },
+      "keyRulers": {
+        "value": "Dapunta Hyang Sri Jayanasa (founder, c. 683, known from inscriptions of 682–686). Balaputra (9th century). Sri Cudamani Warmadewa (c. 988). King Sangramavijayottungavarman was captured in the Chola raid of 1025.",
+        "certainty": "confirmed",
+        "source": "Wikipedia: Srivijaya (checked 5 Nov 2026) (infobox)",
+        "year": 683
+      },
+      "succession": {
+        "value": "Dynastic. The Sailendra family connection with Java is debated by historians.",
+        "certainty": "disputed",
+        "source": "Wikipedia: Srivijaya"
+      },
+      "institutions": {
+        "value": "Inscriptions recorded royal power. The Telaga Batu inscription includes a ritual curse on anyone who commits treason, and the Kota Kapur inscription (686) records military dominance over Java. Buddhist monasteries were centres of learning and legitimacy.",
+        "year": 686,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Srivijaya (checked 5 Nov 2026)"
+      },
+      "stability": {
+        "value": "Long-lasting but loose. Rival ports could break away when Srivijaya's naval power weakened.",
+        "certainty": "estimated",
+        "source": "Hall (2011)"
+      },
+      "eliteConflict": {
+        "value": "Little documented. A rival centre at Jambi (Melayu) became dominant in later centuries.",
+        "certainty": "disputed",
+        "source": "Andaya & Andaya (2017)"
+      }
     },
     "military": {
-      "armyAndTech": { "value": "Naval forces, largely drawn from the Orang Laut, used to police the straits and force ships to call at Srivijaya's ports.", "certainty": "estimated", "source": "Andaya (2008)" },
-      "majorWars": { "value": "Early expeditions recorded in the 682–686 inscriptions. Raids by the Chola Empire of South India (1025). Javanese expeditions in the 13th–14th centuries.", "year": 1025, "certainty": "confirmed", "source": "Tanjore inscription of Rajendra Chola; Wikipedia: Chola invasion of Srivijaya" },
-      "territoryChange": { "value": "Expanded from the 7th to the 11th centuries over both sides of the strait. It was weakened after the Chola raids of 1025, and Palembang came under Majapahit control in the late 14th century.", "certainty": "estimated", "source": "Hall (2011)" },
-      "alliancesRivals": { "value": "Tributary ties with China. Rivals included Javanese kingdoms (Mataram, later Singhasari and Majapahit) and the Chola Empire.", "certainty": "confirmed", "source": "Wolters (1967)" }
+      "armyAndTech": {
+        "value": "Naval forces, largely drawn from the Orang Laut, used to police the straits and force ships to call at Srivijaya's ports.",
+        "certainty": "estimated",
+        "source": "Andaya (2008)"
+      },
+      "majorWars": {
+        "value": "Early expeditions recorded in the 682–686 inscriptions. Raids by the Chola Empire of South India (1025). Javanese expeditions in the 13th–14th centuries.",
+        "year": 1025,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Srivijaya (checked 5 Nov 2026); Tanjore inscription of Rajendra Chola; Wikipedia: Chola invasion of Srivijaya"
+      },
+      "territoryChange": {
+        "value": "Expanded from the 7th to the 11th centuries over both sides of the strait. It was weakened after the Chola raids of 1025, and Palembang came under Majapahit control in the late 14th century.",
+        "certainty": "estimated",
+        "source": "Hall (2011)"
+      },
+      "alliancesRivals": {
+        "value": "Tributary ties with China. Rivals included Javanese kingdoms (Mataram, later Singhasari and Majapahit) and the Chola Empire.",
+        "certainty": "confirmed",
+        "source": "Wolters (1967)"
+      }
     },
     "technology": {
-      "inventions": { "value": "Advanced Southeast Asian ship-building (lashed-lug hull construction) and navigation using monsoon winds.", "certainty": "estimated", "source": "Manguin, 'The Southeast Asian Ship' (1980)" },
-      "scienceEducation": { "value": "A major centre of Buddhist learning. Yijing advised Chinese monks to study Sanskrit there before travelling to India.", "year": 671, "certainty": "confirmed", "source": "Yijing (c. 691)" },
-      "openness": { "value": "Very open to foreign traders and religious scholars. Its wealth depended on them.", "certainty": "estimated", "source": "Hall (2011)" }
+      "inventions": {
+        "value": "Advanced Southeast Asian ship-building (lashed-lug hull construction) and navigation using monsoon winds.",
+        "certainty": "estimated",
+        "source": "Manguin, 'The Southeast Asian Ship' (1980)"
+      },
+      "scienceEducation": {
+        "value": "A major centre of Buddhist learning (Mahayana and Vajrayana). Yijing, who visited in 671, advised Chinese monks to study there before travelling to India.",
+        "year": 671,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Srivijaya (checked 5 Nov 2026)"
+      },
+      "openness": {
+        "value": "Very open to foreign traders and religious scholars. Its wealth depended on them.",
+        "certainty": "estimated",
+        "source": "Hall (2011)"
+      }
     },
     "culture": {
-      "religion": { "value": "Mahayana and later Vajrayana Buddhism, with Hindu elements. Islam began to spread in the region near the end of Srivijaya's power.", "certainty": "confirmed", "source": "Wikipedia: Srivijaya" },
-      "languageWriting": { "value": "Old Malay, written in Pallava-derived script. Its inscriptions (682–686) are among the oldest surviving Malay texts.", "year": 682, "certainty": "confirmed", "source": "Kedukan Bukit inscription" },
-      "artsArchitecture": { "value": "Buddhist statues and brick temples (e.g. Muara Takus, Muara Jambi). The capital's wooden buildings have not survived.", "certainty": "confirmed", "source": "Miksic, Singapore and the Silk Road of the Sea (2013)" },
-      "socialStructure": { "value": "Ruler and nobles, officials, merchants, Buddhist clergy, commoners and bonded servants. The details are uncertain.", "certainty": "estimated", "source": "—" },
-      "sharedIdentity": { "value": "Loyalty to the ruler through oaths, Buddhism, and the Malay language. Later Malay courts, including Melaka, traced their prestige to Palembang.", "certainty": "estimated", "source": "Sejarah Melayu; Andaya (2008)" }
+      "religion": {
+        "value": "Mahayana and later Vajrayana Buddhism, with Hindu elements. Islam began to spread in the region near the end of Srivijaya's power.",
+        "certainty": "confirmed",
+        "source": "Wikipedia: Srivijaya (checked 5 Nov 2026); Wikipedia: Srivijaya"
+      },
+      "languageWriting": {
+        "value": "Old Malay, written in Pallava script. The Kedukan Bukit inscription (dated 682/683) is among the oldest surviving Malay texts.",
+        "year": 682,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Srivijaya (checked 5 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "Buddhist statues and brick temples (e.g. Muara Takus, Muara Jambi). The capital's wooden buildings have not survived.",
+        "certainty": "confirmed",
+        "source": "Miksic, Singapore and the Silk Road of the Sea (2013)"
+      },
+      "socialStructure": {
+        "value": "Ruler and nobles, officials, merchants, Buddhist clergy, commoners and bonded servants. The details are uncertain.",
+        "certainty": "estimated",
+        "source": "—"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler through oaths, Buddhism, and the Malay language. Later Malay courts, including Melaka, traced their prestige to Palembang.",
+        "certainty": "estimated",
+        "source": "Sejarah Melayu; Andaya (2008)"
+      }
     },
     "connections": {
-      "neighbours": { "value": "Tang and Song China, the Pala and Chola kingdoms of India, Javanese kingdoms, the Khmer Empire and Champa.", "certainty": "confirmed", "source": "Hall (2011)" },
-      "ideasReligions": { "value": "A hub for spreading Buddhism and Sanskrit learning across maritime Southeast Asia. It also funded a monastery at Nalanda in India.", "certainty": "confirmed", "source": "Nalanda copper-plate inscription of Devapala" },
-      "colonisation": { "value": "Not a coloniser in the modern sense. It was a network of dependent ports rather than settler colonies.", "certainty": "estimated", "source": "Andaya & Andaya (2017)" }
+      "neighbours": {
+        "value": "Tang and Song China, the Pala and Chola kingdoms of India, Javanese kingdoms, the Khmer Empire and Champa.",
+        "certainty": "confirmed",
+        "source": "Hall (2011)"
+      },
+      "ideasReligions": {
+        "value": "A hub for spreading Buddhism and Sanskrit learning across maritime Southeast Asia. The Nalanda inscription (860) records that Maharaja Balaputra dedicated a monastery at the Nalanda university in India.",
+        "certainty": "confirmed",
+        "source": "Wikipedia: Srivijaya (checked 5 Nov 2026)",
+        "year": 860
+      },
+      "colonisation": {
+        "value": "Not a coloniser in the modern sense. It was a network of dependent ports rather than settler colonies.",
+        "certainty": "estimated",
+        "source": "Andaya & Andaya (2017)"
+      }
     },
     "riseFall": {
-      "riseSignals": { "value": "Control of both straits during booming Tang-era sea trade, Chinese recognition through tribute, Orang Laut naval support, and Buddhist prestige.", "certainty": "estimated", "source": "Wolters (1967)" },
-      "peakPeriod": { "value": "Roughly the 8th–11th centuries, before the Chola raids.", "year": 900, "certainty": "estimated", "source": "Hall (2011)" },
-      "declineSignals": { "value": "The Chola raids (1025). Chinese merchants began sailing directly to many ports, reducing the need for a central entrepôt. Rival ports rose in Sumatra and Java.", "certainty": "estimated", "source": "Hall (2011)" },
-      "outcome": { "value": "Gradual decline and absorption. Palembang fell under Majapahit control in the late 14th century. According to Malay tradition, a Palembang prince, Parameswara, went on to found Melaka around 1400.", "year": 1377, "certainty": "disputed", "source": "Andaya & Andaya (2017); Sejarah Melayu" }
+      "riseSignals": {
+        "value": "Control of both straits during booming Tang-era sea trade, Chinese recognition through tribute, Orang Laut naval support, and Buddhist prestige.",
+        "certainty": "estimated",
+        "source": "Wolters (1967)"
+      },
+      "peakPeriod": {
+        "value": "Roughly the 8th–11th centuries, before the Chola raids.",
+        "year": 900,
+        "certainty": "estimated",
+        "source": "Wikipedia: Srivijaya (checked 5 Nov 2026)"
+      },
+      "declineSignals": {
+        "value": "The Chola raids (1025). Chinese merchants began sailing directly to many ports, reducing the need for a central entrepôt. Rival ports rose in Sumatra and Java.",
+        "certainty": "estimated",
+        "source": "Hall (2011)"
+      },
+      "outcome": {
+        "value": "Decline and fragmentation. Wikipedia notes it is very possible that Srivijaya collapsed after the Chola raid of 1025; trade then shifted to Jambi (Malayu). A Majapahit naval attack on Palembang in 1377 caused a diaspora. Portuguese sources say Melaka’s founder Parameswara came from Palembang.",
+        "year": 1025,
+        "certainty": "disputed",
+        "source": "Wikipedia: Srivijaya (checked 5 Nov 2026); Wikipedia: Malacca Sultanate (checked 5 Nov 2026)"
+      }
     },
     "dataQuality": {
-      "sources": { "value": "A handful of Old Malay inscriptions, Chinese records (Yijing, Song dynasty histories), Arab geographers, Indian inscriptions, and archaeology. Its existence as a single state was only reconstructed by George Cœdès in 1918.", "certainty": "confirmed", "source": "Cœdès, 'Le royaume de Çrīvijaya' (1918)" },
-      "overallCertainty": { "value": "Low to moderate. Dates, extent and even the location of the capital in different centuries are debated, and there are almost no numbers.", "certainty": "disputed", "source": "—" }
+      "sources": {
+        "value": "A handful of Old Malay inscriptions, Chinese records (Yijing, Song dynasty histories), Arab geographers, Indian inscriptions, and archaeology. Its existence as a single state was only reconstructed by George Cœdès in 1918. Reviewed against the live Wikipedia article (Srivijaya) on 5 Nov 2026. Errors found were corrected, and items marked “checked” were confirmed there. Items not covered by Wikipedia keep their original scholarly citation.",
+        "certainty": "confirmed",
+        "source": "Wikipedia: Srivijaya (checked 5 Nov 2026); Cœdès, 'Le royaume de Çrīvijaya' (1918)"
+      },
+      "overallCertainty": {
+        "value": "Low to moderate. Wikipedia’s infobox gives c. 671–1025; older accounts extend it to the 13th–14th centuries. The location of the capital, its relationship with the Javanese Sailendras, and almost all numbers are debated.",
+        "certainty": "disputed",
+        "source": "Wikipedia: Srivijaya (checked 5 Nov 2026)",
+        "year": null
+      }
     }
   }
 }

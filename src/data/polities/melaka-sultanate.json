@@ -6,72 +6,253 @@
   "startYear": 1400,
   "endYear": 1511,
   "datesApproximate": true,
-  "capital": "Melaka",
-  "capitalCoords": [102.25, 2.19],
+  "capital": "Melaka (1400–1511); then Bintan and Kampar in exile (to 1528)",
+  "capitalCoords": [
+    102.25,
+    2.19
+  ],
   "color": "#3f9c8f",
-  "borderNames": ["Malacca"],
+  "borderNames": [
+    "Malacca"
+  ],
   "summary": "A Malay port-kingdom on the Strait of Melaka that became one of the busiest trading hubs in Asia in the 15th century, until its capture by Portugal in 1511.",
   "checklist": {
     "geography": {
-      "location": { "value": "West coast of the Malay Peninsula, on the narrowest navigable stretch of the Strait of Melaka between the Indian Ocean and the South China Sea.", "certainty": "confirmed", "source": "Andaya & Andaya, A History of Malaysia (3rd ed., 2017)" },
-      "terrain": { "value": "A sheltered river-mouth harbour on the Melaka River, backed by hilly forest. The strait is a natural chokepoint that ships had to pass between India and China.", "certainty": "confirmed", "source": "Andaya & Andaya (2017)" },
-      "climate": { "value": "Hot and humid equatorial climate. Its rhythm was set by the monsoons: ships from India and the Middle East arrived on one monsoon, ships from China on the other, and traders had to wait in Melaka for the winds to turn.", "certainty": "confirmed", "source": "Reid, Southeast Asia in the Age of Commerce, vol. 2 (1993)" },
-      "resources": { "value": "Few resources of its own: some tin, forest products and fish. Melaka grew little rice and depended on imports, especially from Java and Siam.", "certainty": "confirmed", "source": "Tomé Pires, Suma Oriental (c. 1512–15); Reid (1993)" },
-      "disasters": { "value": "No major natural disasters are recorded in the surviving sources. Its main vulnerability was dependence on imported food.", "certainty": "estimated", "source": "Reid (1993)" }
+      "location": {
+        "value": "West coast of the Malay Peninsula, on the narrowest navigable stretch of the Strait of Melaka between the Indian Ocean and the South China Sea.",
+        "certainty": "confirmed",
+        "source": "Andaya & Andaya, A History of Malaysia (3rd ed., 2017)"
+      },
+      "terrain": {
+        "value": "A sheltered river-mouth harbour on the Melaka River, backed by hilly forest. The strait is a natural chokepoint that ships had to pass between India and China.",
+        "certainty": "confirmed",
+        "source": "Andaya & Andaya (2017)"
+      },
+      "climate": {
+        "value": "Hot and humid equatorial climate. Its rhythm was set by the monsoons: ships from India and the Middle East arrived on one monsoon, ships from China on the other, and traders had to wait in Melaka for the winds to turn.",
+        "certainty": "confirmed",
+        "source": "Reid, Southeast Asia in the Age of Commerce, vol. 2 (1993)"
+      },
+      "resources": {
+        "value": "Few resources of its own: some tin, forest products and fish. Melaka grew little rice and depended on imports, especially from Java and Siam.",
+        "certainty": "confirmed",
+        "source": "Tomé Pires, Suma Oriental (c. 1512–15); Reid (1993)"
+      },
+      "disasters": {
+        "value": "No major natural disasters are recorded in the surviving sources. Its main vulnerability was dependence on imported food.",
+        "certainty": "estimated",
+        "source": "Reid (1993)"
+      }
     },
     "population": {
-      "population": { "value": "Perhaps 100,000–200,000 people in the city and its surroundings around 1500, swollen by foreign merchants in trading season. Contemporary Portuguese figures may be exaggerated.", "year": 1500, "certainty": "disputed", "source": "Tomé Pires, Suma Oriental; Reid (1993) discusses the range" },
-      "urbanisation": { "value": "Essentially a city-state: most of the population lived in or around the port, with separate quarters for Gujarati, Tamil, Javanese, Chinese and other trading communities.", "certainty": "confirmed", "source": "Tomé Pires, Suma Oriental" },
-      "disease": { "value": "Few records survive. Malaria and other tropical diseases were endemic in the region, and a crowded port was exposed to diseases carried by ships.", "certainty": "estimated", "source": "General regional histories; Reid (1988)" },
-      "migration": { "value": "Highly cosmopolitan. Merchants and settlers came from Gujarat, the Coromandel coast, Bengal, Java, the Moluccas, China, the Ryukyus and the Middle East. Many stayed for long periods.", "certainty": "confirmed", "source": "Tomé Pires, Suma Oriental" }
+      "population": {
+        "value": "Grew from about 2,000 people in its early years (early 1400s, per Wikipedia) to perhaps 100,000–200,000 in the city and its surroundings around 1500, according to contemporary Portuguese estimates, which may be exaggerated.",
+        "year": 1500,
+        "certainty": "disputed",
+        "source": "Wikipedia: Malacca Sultanate (checked 5 Nov 2026); Tomé Pires, Suma Oriental; Reid (1993)"
+      },
+      "urbanisation": {
+        "value": "Essentially a city-state: most of the population lived in or around the port, with separate quarters for Gujarati, Tamil, Javanese, Chinese and other trading communities.",
+        "certainty": "confirmed",
+        "source": "Tomé Pires, Suma Oriental"
+      },
+      "disease": {
+        "value": "Few records survive. Malaria and other tropical diseases were endemic in the region, and a crowded port was exposed to diseases carried by ships.",
+        "certainty": "estimated",
+        "source": "General regional histories; Reid (1988)"
+      },
+      "migration": {
+        "value": "Highly cosmopolitan. Merchants and settlers came from Gujarat, the Coromandel coast, Bengal, Java, the Moluccas, China, the Ryukyus and the Middle East. Many stayed for long periods.",
+        "certainty": "confirmed",
+        "source": "Tomé Pires, Suma Oriental"
+      }
     },
     "economy": {
-      "economicBase": { "value": "An entrepôt (re-export hub): goods from many regions were exchanged, stored and re-shipped. Income came mostly from customs duties, harbour fees and royal trading.", "certainty": "confirmed", "source": "Andaya & Andaya (2017)" },
-      "tradeRoutes": { "value": "Hub linking Gujarati and Indian textiles, Chinese silk and porcelain, Moluccan cloves and nutmeg, Sumatran pepper and gold, and Javanese rice. Partners included Gujarat, the Coromandel coast, Ming China, Java, Pasai and the Ryukyu Kingdom.", "certainty": "confirmed", "source": "Tomé Pires, Suma Oriental; Reid (1993)" },
-      "wealth": { "value": "No reliable GDP-per-person estimate exists. Wealth was very concentrated in the court and great merchant houses, and Melaka was described by Portuguese visitors as exceptionally rich.", "certainty": "estimated", "source": "Tomé Pires, Suma Oriental" },
-      "moneyAndTax": { "value": "Duties of around 6% on goods from the west, with gifts to officials in place of duty for some eastern traders. Tin coins and ingots and gold were used as money.", "year": 1510, "certainty": "estimated", "source": "Tomé Pires, Suma Oriental" },
-      "inequality": { "value": "High. Trade profits flowed to the sultan, the nobility and the leading merchants, while slaves and bonded labourers did much of the work in the port.", "certainty": "estimated", "source": "Andaya & Andaya (2017)" }
+      "economicBase": {
+        "value": "An entrepôt (re-export hub): goods from many regions were exchanged, stored and re-shipped. Income came mostly from customs duties, harbour fees and royal trading.",
+        "certainty": "confirmed",
+        "source": "Andaya & Andaya (2017)"
+      },
+      "tradeRoutes": {
+        "value": "Hub linking Gujarati and Indian textiles, Chinese silk and porcelain, Moluccan cloves and nutmeg, Sumatran pepper and gold, and Javanese rice. Partners included Gujarat, the Coromandel coast, Ming China, Java, Pasai and the Ryukyu Kingdom.",
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malacca Sultanate (checked 5 Nov 2026); Tomé Pires, Suma Oriental; Reid (1993)"
+      },
+      "wealth": {
+        "value": "No reliable GDP-per-person estimate exists. Wealth was very concentrated in the court and great merchant houses, and Melaka was described by Portuguese visitors as exceptionally rich.",
+        "certainty": "estimated",
+        "source": "Tomé Pires, Suma Oriental"
+      },
+      "moneyAndTax": {
+        "value": "Duties of around 6% on goods from the west, with gifts to officials in place of duty for some eastern traders. Tin coins and ingots and gold were used as money.",
+        "year": 1510,
+        "certainty": "estimated",
+        "source": "Tomé Pires, Suma Oriental"
+      },
+      "inequality": {
+        "value": "High. Trade profits flowed to the sultan, the nobility and the leading merchants, while slaves and bonded labourers did much of the work in the port.",
+        "certainty": "estimated",
+        "source": "Andaya & Andaya (2017)"
+      }
     },
     "politics": {
-      "governmentType": { "value": "A hereditary Islamic sultanate. The sultan ruled with the Bendahara (chief minister), the Temenggung (police and justice), the Laksamana (admiral) and four Shahbandars (harbour masters), each serving different groups of foreign merchants.", "certainty": "confirmed", "source": "Sejarah Melayu (Malay Annals); Andaya & Andaya (2017)" },
-      "keyRulers": { "value": "Parameswara (founder, c. 1400). Sultan Muzaffar Shah (r. c. 1445–59). Sultan Mansur Shah (r. 1459–77, high point). Bendahara Tun Perak (chief minister, c. 1456–98). Sultan Mahmud Shah (r. 1488–1511, the last ruler in Melaka).", "certainty": "estimated", "source": "Sejarah Melayu; Andaya & Andaya (2017). Regnal dates vary between sources." },
-      "succession": { "value": "Hereditary within the royal line. In practice, powerful ministers and court factions often decided which prince took the throne.", "certainty": "confirmed", "source": "Sejarah Melayu" },
-      "institutions": { "value": "Undang-Undang Melaka (Laws of Melaka) combining Malay custom (adat) with Islamic law, and the Undang-Undang Laut Melaka (Maritime Laws) regulating ships and trade.", "certainty": "confirmed", "source": "Liaw Yock Fang, Undang-Undang Melaka (1976)" },
-      "stability": { "value": "Generally stable during the mid-15th century peak, under strong ministers. Succession disputes and palace intrigue increased in the later decades.", "certainty": "estimated", "source": "Sejarah Melayu" },
-      "eliteConflict": { "value": "Rivalry between noble factions. In 1510 Sultan Mahmud Shah executed the Bendahara Tun Mutahir and his family. Historians often link this to weakened leadership on the eve of the Portuguese attack.", "year": 1510, "certainty": "estimated", "source": "Sejarah Melayu; Andaya & Andaya (2017)" }
+      "governmentType": {
+        "value": "A hereditary Islamic sultanate. The sultan ruled with the Bendahara (chief minister), the Temenggung (police and justice), the Laksamana (admiral) and four Shahbandars (harbour masters), each serving different groups of foreign merchants.",
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malacca Sultanate (checked 5 Nov 2026); Sejarah Melayu (Malay Annals); Andaya & Andaya (2017)"
+      },
+      "keyRulers": {
+        "value": "Parameswara/Iskandar Shah (founder, c. 1400). Muhammad Shah (r. 1424–1444). Muzaffar Shah (r. 1445/46–1459). Mansur Shah (r. 1459–1477, high point). Bendahara Tun Perak (chief minister, 1456–1498). Mahmud Shah (r. 1488–1511, the last ruler in Melaka).",
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malacca Sultanate (checked 5 Nov 2026) (infobox)",
+        "year": 1459
+      },
+      "succession": {
+        "value": "Hereditary within the royal line. In practice, powerful ministers and court factions often decided which prince took the throne.",
+        "certainty": "confirmed",
+        "source": "Sejarah Melayu"
+      },
+      "institutions": {
+        "value": "The Undang-Undang Melaka (Laws of Melaka), combining Malay custom (adat) with Islamic law, and the Undang-Undang Laut Melaka (Maritime Laws), issued under Sultan Muhammad Shah. Four Shahbandars (harbour masters) served different trading communities.",
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malacca Sultanate (checked 5 Nov 2026)",
+        "year": 1430
+      },
+      "stability": {
+        "value": "Generally stable during the mid-15th century peak, under strong ministers. Succession disputes and palace intrigue increased in the later decades.",
+        "certainty": "estimated",
+        "source": "Sejarah Melayu"
+      },
+      "eliteConflict": {
+        "value": "Rivalry between noble factions. In 1510 Sultan Mahmud Shah executed the Bendahara Tun Mutahir and his family. Historians often link this to weakened leadership on the eve of the Portuguese attack.",
+        "year": 1510,
+        "certainty": "estimated",
+        "source": "Sejarah Melayu; Andaya & Andaya (2017)"
+      }
     },
     "military": {
-      "armyAndTech": { "value": "Relied on naval power and alliances with the Orang Laut (sea peoples) to police the strait. Some cannon were in use by 1511, but the army was smaller and less well armed than the Portuguese force.", "certainty": "estimated", "source": "Andaya & Andaya (2017); Portuguese accounts of 1511" },
-      "majorWars": { "value": "Conflicts with Ayutthaya (Siam) in the mid-15th century. Expansion along both shores of the strait. Portuguese conquest under Afonso de Albuquerque in 1511.", "year": 1511, "certainty": "confirmed", "source": "Andaya & Andaya (2017)" },
-      "territoryChange": { "value": "At its height it controlled much of the southern Malay Peninsula and parts of east-central Sumatra. It lost its capital in 1511, and the court moved south.", "certainty": "estimated", "source": "Andaya & Andaya (2017)" },
-      "alliancesRivals": { "value": "A tributary relationship with Ming China provided protection against Siam. Rivals included Ayutthaya, Majapahit and later Portugal; Pasai and other Sumatran ports were both partners and competitors.", "certainty": "confirmed", "source": "Wade, 'Melaka in Ming Dynasty Texts' (1997)" }
+      "armyAndTech": {
+        "value": "Relied on naval power and alliances with the Orang Laut (sea peoples) to police the strait. Some cannon were in use by 1511, but the army was smaller and less well armed than the Portuguese force.",
+        "certainty": "estimated",
+        "source": "Andaya & Andaya (2017); Portuguese accounts of 1511"
+      },
+      "majorWars": {
+        "value": "Conflicts with Ayutthaya (Siam) in the mid-15th century. Expansion along both shores of the strait. Portuguese conquest under Afonso de Albuquerque: a first attack on 25 July 1511 failed, and the city fell on 15 August 1511.",
+        "year": 1511,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malacca Sultanate (checked 5 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "At its height it controlled much of the southern Malay Peninsula and parts of east-central Sumatra. It lost its capital in 1511, and the court moved south.",
+        "certainty": "estimated",
+        "source": "Andaya & Andaya (2017)"
+      },
+      "alliancesRivals": {
+        "value": "A tributary relationship with Ming China provided protection against Siam. Rivals included Ayutthaya, Majapahit and later Portugal; Pasai and other Sumatran ports were both partners and competitors.",
+        "certainty": "confirmed",
+        "source": "Wade, 'Melaka in Ming Dynasty Texts' (1997)"
+      }
     },
     "technology": {
-      "inventions": { "value": "Mostly an adopter rather than an inventor. It drew on Indian Ocean shipbuilding and navigation, Islamic legal and commercial practice, and Chinese weights and measures.", "certainty": "estimated", "source": "Reid (1993)" },
-      "scienceEducation": { "value": "A centre of Islamic learning in the region: scholars and religious teachers attracted students from across the archipelago. There are no figures for general literacy.", "certainty": "estimated", "source": "Andaya & Andaya (2017)" },
-      "openness": { "value": "Very open. Its prosperity depended on welcoming foreign merchants, who were given their own harbour masters and quarters.", "certainty": "confirmed", "source": "Tomé Pires, Suma Oriental" }
+      "inventions": {
+        "value": "Mostly an adopter rather than an inventor. It drew on Indian Ocean shipbuilding and navigation, Islamic legal and commercial practice, and Chinese weights and measures.",
+        "certainty": "estimated",
+        "source": "Reid (1993)"
+      },
+      "scienceEducation": {
+        "value": "A centre of Islamic learning in the region: scholars and religious teachers attracted students from across the archipelago. There are no figures for general literacy.",
+        "certainty": "estimated",
+        "source": "Andaya & Andaya (2017)"
+      },
+      "openness": {
+        "value": "Very open. Its prosperity depended on welcoming foreign merchants, who were given their own harbour masters and quarters.",
+        "certainty": "confirmed",
+        "source": "Tomé Pires, Suma Oriental"
+      }
     },
     "culture": {
-      "religion": { "value": "Islam became the court religion in the early-to-mid 15th century; the exact date and circumstances are debated. Hindu-Buddhist court traditions continued alongside it.", "year": 1430, "certainty": "disputed", "source": "Andaya & Andaya (2017); Sejarah Melayu" },
-      "languageWriting": { "value": "Malay, written in the Arabic-based Jawi script. Melaka helped spread Malay as the main trading language (lingua franca) of maritime Southeast Asia.", "certainty": "confirmed", "source": "Andaya & Andaya (2017)" },
-      "artsArchitecture": { "value": "Court literature that later became the Sejarah Melayu (Malay Annals), and court ceremony. Timber palaces and mosques are described in texts, but little physical architecture survives.", "certainty": "confirmed", "source": "Sejarah Melayu" },
-      "socialStructure": { "value": "The sultan, then nobility (orang besar), merchants, commoners (rakyat), and debt-bondsmen and slaves (hamba).", "certainty": "confirmed", "source": "Andaya & Andaya (2017)" },
-      "sharedIdentity": { "value": "Loyalty (daulat) to the ruler, Islam, and Malay court culture. These became a model of 'Malayness' for later sultanates.", "certainty": "estimated", "source": "Andaya, Leaves of the Same Tree (2008)" }
+      "religion": {
+        "value": "The Malay Annals say the court and people began accepting Islam under the third ruler, Muhammad Shah (r. 1424–1444). Tomé Pires claimed the founder converted at age 72. It is generally agreed that Islam was firmly established under Muzaffar Shah (r. 1445/46–1459). Hindu-Buddhist court traditions continued alongside it.",
+        "year": 1424,
+        "certainty": "disputed",
+        "source": "Wikipedia: Malacca Sultanate (checked 5 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Classical Malay, written in the Arabic-based Jawi script. Melaka helped make Classical Malay the lingua franca of maritime Southeast Asia.",
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malacca Sultanate (checked 5 Nov 2026)",
+        "year": null
+      },
+      "artsArchitecture": {
+        "value": "Court literature that later became the Sejarah Melayu (Malay Annals), and court ceremony. Timber palaces and mosques are described in texts, but little physical architecture survives.",
+        "certainty": "confirmed",
+        "source": "Sejarah Melayu"
+      },
+      "socialStructure": {
+        "value": "The sultan, then nobility (orang besar), merchants, commoners (rakyat), and debt-bondsmen and slaves (hamba).",
+        "certainty": "confirmed",
+        "source": "Andaya & Andaya (2017)"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty (daulat) to the ruler, Islam, and Malay court culture. These became a model of 'Malayness' for later sultanates.",
+        "certainty": "estimated",
+        "source": "Andaya, Leaves of the Same Tree (2008)"
+      }
     },
     "connections": {
-      "neighbours": { "value": "Ming China (tributary relations; Admiral Zheng He's fleets called at Melaka, 1405–1433), Ayutthaya, Majapahit and other Javanese ports, Pasai and Aru in Sumatra, and merchants from Gujarat and Coromandel.", "certainty": "confirmed", "source": "Wade (1997)" },
-      "ideasReligions": { "value": "Helped spread Islam across the archipelago through trade, marriage and the prestige of its court.", "certainty": "estimated", "source": "Ricklefs, A History of Modern Indonesia (2008)" },
-      "colonisation": { "value": "Colonised: conquered by Portugal in 1511; Portuguese Melaka was taken by the Dutch East India Company (VOC) in 1641.", "year": 1511, "certainty": "confirmed", "source": "Andaya & Andaya (2017)" }
+      "neighbours": {
+        "value": "Ming China: in exchange for regular tribute, the emperor offered protection from Siam. The Ming envoy Yin Qing came in 1405, and Admiral Zheng He made the first of six visits two years later. Also Ayutthaya, Majapahit and other Javanese ports, Pasai and Aru in Sumatra, and merchants from Gujarat and Coromandel.",
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malacca Sultanate (checked 5 Nov 2026)",
+        "year": 1405
+      },
+      "ideasReligions": {
+        "value": "Helped spread Islam across the archipelago through trade, marriage and the prestige of its court.",
+        "certainty": "estimated",
+        "source": "Ricklefs, A History of Modern Indonesia (2008)"
+      },
+      "colonisation": {
+        "value": "Colonised. Melaka was conquered by Portugal in 1511, then taken by the Dutch with Johor in January 1641.",
+        "year": 1511,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malacca Sultanate (checked 5 Nov 2026)"
+      }
     },
     "riseFall": {
-      "riseSignals": { "value": "A perfect chokepoint location, Ming protection against Siam, a welcoming legal system for foreign merchants, and the prestige of Islam linking it to Muslim trading networks.", "certainty": "estimated", "source": "Andaya & Andaya (2017); Reid (1993)" },
-      "peakPeriod": { "value": "Mid-to-late 15th century, under Sultan Mansur Shah and the Bendahara Tun Perak.", "year": 1470, "certainty": "estimated", "source": "Andaya & Andaya (2017)" },
-      "declineSignals": { "value": "Dependence on imported rice, court factionalism (the execution of Bendahara Tun Mutahir in 1510), resentment among some foreign merchants, and Portuguese ships carrying more powerful guns.", "certainty": "estimated", "source": "Andaya & Andaya (2017)" },
-      "outcome": { "value": "Conquest. Portugal captured the city in 1511. The royal line continued in the successor sultanates of Johor and Perak.", "year": 1511, "certainty": "confirmed", "source": "Andaya & Andaya (2017)" }
+      "riseSignals": {
+        "value": "A perfect chokepoint location, Ming protection against Siam, a welcoming legal system for foreign merchants, and the prestige of Islam linking it to Muslim trading networks.",
+        "certainty": "estimated",
+        "source": "Andaya & Andaya (2017); Reid (1993)"
+      },
+      "peakPeriod": {
+        "value": "Mid-to-late 15th century, under Sultan Mansur Shah and the Bendahara Tun Perak.",
+        "year": 1470,
+        "certainty": "estimated",
+        "source": "Andaya & Andaya (2017)"
+      },
+      "declineSignals": {
+        "value": "Dependence on imported rice, court factionalism (the execution of Bendahara Tun Mutahir in 1510), resentment among some foreign merchants, and Portuguese ships carrying more powerful guns.",
+        "certainty": "estimated",
+        "source": "Andaya & Andaya (2017)"
+      },
+      "outcome": {
+        "value": "Conquest. Portugal captured the city in 1511. The royal line continued in exile at Bintan and Kampar, and in 1528 founded the successor sultanates of Johor and Perak.",
+        "year": 1511,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malacca Sultanate (checked 5 Nov 2026) (infobox)"
+      }
     },
     "dataQuality": {
-      "sources": { "value": "Main sources: Sejarah Melayu (Malay Annals, court chronicle compiled later); Tomé Pires, Suma Oriental (Portuguese, c. 1512–15); Ming Chinese records. Modern syntheses: Andaya & Andaya (2017), Reid (1988–93).", "certainty": "confirmed", "source": "—" },
-      "overallCertainty": { "value": "Moderate. The political narrative is fairly well known, but numbers (population, revenue) rely on a few outside observers. Exact dates of the founding and the conversion to Islam are debated.", "certainty": "estimated", "source": "—" }
+      "sources": {
+        "value": "Main sources: Sejarah Melayu (Malay Annals, court chronicle compiled later); Tomé Pires, Suma Oriental (Portuguese, c. 1512–15); Ming Chinese records. Modern syntheses: Andaya & Andaya (2017), Reid (1988–93). Reviewed against the live Wikipedia article (Malacca Sultanate) on 5 Nov 2026. Errors found were corrected, and items marked “checked” were confirmed there. Items not covered by Wikipedia keep their original scholarly citation.",
+        "certainty": "confirmed",
+        "source": "—"
+      },
+      "overallCertainty": {
+        "value": "Moderate. The political narrative is fairly well known, but numbers (population, revenue) rely on a few outside observers. Exact dates of the founding and the conversion to Islam are debated.",
+        "certainty": "estimated",
+        "source": "—"
+      }
     }
   }
 }

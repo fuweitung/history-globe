@@ -6,72 +6,265 @@
   "startYear": -27,
   "endYear": 476,
   "capital": "Rome; Constantinople also an imperial capital from 330",
-  "capitalCoords": [12.49, 41.89],
+  "capitalCoords": [
+    12.49,
+    41.89
+  ],
   "color": "#9c3f5a",
-  "borderNames": ["Roman Empire", "Western Roman Empire", "Rome (Maximian)", "Rome (Constantinus)", "Rome (Diocletianus)", "Rome (Galerius)"],
-  "borderYears": [-27, 476],
+  "borderNames": [
+    "Roman Empire",
+    "Western Roman Empire",
+    "Rome (Maximian)",
+    "Rome (Constantinus)",
+    "Rome (Diocletianus)",
+    "Rome (Galerius)"
+  ],
+  "borderYears": [
+    -27,
+    476
+  ],
   "summary": "The empire that ruled the whole Mediterranean world after Augustus became the first emperor in 27 BCE. The western half ended in 476 CE; the eastern half continued as the Byzantine Empire until 1453.",
   "checklist": {
     "geography": {
-      "location": { "value": "Around the entire Mediterranean ('Mare Nostrum'), from Britain and the Rhine–Danube frontier to Egypt, Syria and Mesopotamia at its height.", "certainty": "confirmed", "source": "Beard, SPQR (2015); Wikipedia: Roman Empire" },
-      "terrain": { "value": "The Mediterranean Sea worked as a highway connecting coastal provinces. Major rivers (Rhine, Danube, Nile, Euphrates) formed frontiers or lifelines. Around 80,000 km of paved roads linked the provinces.", "certainty": "estimated", "source": "Wikipedia: Roman roads" },
-      "climate": { "value": "The 'Roman Climate Optimum' (c. 200 BCE–150 CE) was warm and stable. Climate became more unstable from the 3rd century, and a sharp cooling after volcanic eruptions in 536 CE affected the late Roman world.", "certainty": "disputed", "source": "Harper, The Fate of Rome (2017)" },
-      "resources": { "value": "Egyptian and North African grain, Spanish silver and gold mines, olive oil, wine, timber and marble.", "certainty": "confirmed", "source": "Scheidel, Morris & Saller (eds.), Cambridge Economic History of the Greco-Roman World (2007)" },
-      "disasters": { "value": "The eruption of Vesuvius destroyed Pompeii and Herculaneum (79 CE). There were earthquakes in the eastern provinces and periodic famines.", "year": 79, "certainty": "confirmed", "source": "Pliny the Younger, Letters 6.16; Beard (2015)" }
+      "location": {
+        "value": "Around the entire Mediterranean ('Mare Nostrum'), from Britain and the Rhine–Danube frontier to Egypt, Syria and Mesopotamia at its height.",
+        "certainty": "confirmed",
+        "source": "Beard, SPQR (2015); Wikipedia: Roman Empire"
+      },
+      "terrain": {
+        "value": "The Mediterranean Sea worked as a highway connecting coastal provinces. Major rivers (Rhine, Danube, Nile, Euphrates) formed frontiers or lifelines. Paved roads, considered the most advanced until the early 19th century, linked the provinces (often estimated at around 80,000 km of main roads).",
+        "certainty": "estimated",
+        "source": "Wikipedia: Roman Empire (checked 5 Nov 2026); Wikipedia: Roman roads (not checked)",
+        "year": null
+      },
+      "climate": {
+        "value": "The 'Roman Climate Optimum' (c. 200 BCE–150 CE) was warm and stable. Climate became more unstable from the 3rd century, and a sharp cooling after volcanic eruptions in 536 CE affected the late Roman world.",
+        "certainty": "disputed",
+        "source": "Harper, The Fate of Rome (2017)"
+      },
+      "resources": {
+        "value": "Egyptian and North African grain, Spanish silver and gold mines, olive oil, wine, timber and marble.",
+        "certainty": "confirmed",
+        "source": "Scheidel, Morris & Saller (eds.), Cambridge Economic History of the Greco-Roman World (2007)"
+      },
+      "disasters": {
+        "value": "The eruption of Vesuvius destroyed Pompeii and Herculaneum (79 CE). There were earthquakes in the eastern provinces and periodic famines.",
+        "year": 79,
+        "certainty": "confirmed",
+        "source": "Pliny the Younger, Letters 6.16; Beard (2015)"
+      }
     },
     "population": {
-      "population": { "value": "Perhaps 50–75 million people in the mid-2nd century CE, roughly a quarter of the world's population. Estimates vary widely.", "year": 150, "certainty": "estimated", "source": "Scheidel, 'Demography', in Cambridge Economic History (2007)" },
-      "urbanisation": { "value": "The city of Rome may have had close to 1 million people in the 1st–2nd centuries CE. Alexandria and Antioch were also very large. Perhaps 10–15% of people lived in towns.", "certainty": "estimated", "source": "Scheidel (2007)" },
-      "disease": { "value": "The Antonine Plague (165–180 CE, possibly smallpox) and the Plague of Cyprian (249–262 CE) killed large numbers of people. Malaria was endemic in Rome.", "year": 165, "certainty": "estimated", "source": "Harper (2017)" },
-      "migration": { "value": "Slaves were brought from conquered regions, and soldiers and traders moved across the empire. From the late 4th century, Goths and other peoples entered the empire, some as allies and some as invaders.", "year": 376, "certainty": "confirmed", "source": "Heather, The Fall of the Roman Empire (2005)" }
+      "population": {
+        "value": "Traditionally estimated at 55–60 million around Trajan’s reign; 21st-century studies suggest a peak of 70 to over 100 million. That was between one-sixth and one-quarter of the world’s population. (The Wikipedia infobox gives 56.8 million for 25 BCE.)",
+        "year": 117,
+        "certainty": "disputed",
+        "source": "Wikipedia: Roman Empire (checked 5 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "The city of Rome may have had close to 1 million people in the 1st–2nd centuries CE. Alexandria and Antioch were also very large. Perhaps 10–15% of people lived in towns.",
+        "certainty": "estimated",
+        "source": "Wikipedia: Roman Empire (checked 5 Nov 2026); Scheidel (2007)"
+      },
+      "disease": {
+        "value": "The Antonine Plague (165–180 CE, possibly smallpox) and the Plague of Cyprian (249–262 CE) killed large numbers of people. Malaria was endemic in Rome.",
+        "year": 165,
+        "certainty": "estimated",
+        "source": "Harper (2017)"
+      },
+      "migration": {
+        "value": "Slaves were brought from conquered regions, and soldiers and traders moved across the empire. From the late 4th century, Goths and other peoples entered the empire, some as allies and some as invaders.",
+        "year": 376,
+        "certainty": "confirmed",
+        "source": "Heather, The Fall of the Roman Empire (2005)"
+      }
     },
     "economy": {
-      "economicBase": { "value": "Mostly agriculture (grain, olives, vines), with large estates often worked by slaves or tenants (coloni), plus Mediterranean trade and crafts.", "certainty": "confirmed", "source": "Cambridge Economic History (2007)" },
-      "tradeRoutes": { "value": "Mediterranean shipping lanes, the grain fleet from Egypt to Rome, Red Sea trade with India, and indirect contact with Han China along the Silk Road.", "certainty": "confirmed", "source": "McLaughlin, Rome and the Distant East (2010)" },
-      "wealth": { "value": "Estimates of income per person are around 600–900 'international dollars' (1990 values) for the early empire, with Italy richest. Comparisons are very uncertain.", "year": 14, "certainty": "disputed", "source": "Maddison (2007); Scheidel & Friesen, 'The Size of the Economy' (2009)" },
-      "moneyAndTax": { "value": "Silver denarius and gold aureus coins. Repeated debasement of the silver coinage led to high inflation in the 3rd century. Diocletian's Edict on Maximum Prices (301) failed to control it. Constantine introduced the gold solidus (309).", "year": 301, "certainty": "confirmed", "source": "Harl, Coinage in the Roman Economy (1996)" },
-      "inequality": { "value": "Very high. A tiny senatorial and equestrian elite held great wealth. Slaves may have made up 10–20% of the population of Italy.", "certainty": "estimated", "source": "Scheidel & Friesen (2009)" }
+      "economicBase": {
+        "value": "Mostly agriculture (grain, olives, vines), with large estates often worked by slaves or tenants (coloni), plus Mediterranean trade and crafts.",
+        "certainty": "confirmed",
+        "source": "Cambridge Economic History (2007)"
+      },
+      "tradeRoutes": {
+        "value": "Mediterranean shipping lanes, the grain fleet from Egypt to Rome, Red Sea trade with India, and indirect contact with Han China along the Silk Road.",
+        "certainty": "confirmed",
+        "source": "McLaughlin, Rome and the Distant East (2010)"
+      },
+      "wealth": {
+        "value": "Estimates of income per person are around 600–900 'international dollars' (1990 values) for the early empire, with Italy richest. Comparisons are very uncertain.",
+        "year": 14,
+        "certainty": "disputed",
+        "source": "Maddison (2007); Scheidel & Friesen, 'The Size of the Economy' (2009)"
+      },
+      "moneyAndTax": {
+        "value": "Silver denarius and gold aureus coins. Repeated debasement of the silver coinage led to high inflation in the 3rd century. Diocletian’s Edict on Maximum Prices (301) failed to control it. The stable gold solidus followed (usually credited to Constantine, c. 309; the Wikipedia article ties it to Diocletian’s reforms).",
+        "year": 301,
+        "certainty": "disputed",
+        "source": "Wikipedia: Roman Empire (checked 5 Nov 2026); Harl, Coinage in the Roman Economy (1996)"
+      },
+      "inequality": {
+        "value": "Very high. A tiny senatorial and equestrian elite held great wealth. Slaves may have made up 10–20% of the population of Italy.",
+        "certainty": "estimated",
+        "source": "Scheidel & Friesen (2009)"
+      }
     },
     "politics": {
-      "governmentType": { "value": "The Principate (27 BCE–284 CE), an emperor ruling behind republican forms with the Senate. Then the Dominate after Diocletian, an openly autocratic system with a larger bureaucracy.", "certainty": "confirmed", "source": "Beard (2015)" },
-      "keyRulers": { "value": "Augustus (27 BCE–14 CE). Trajan (98–117, greatest extent). Hadrian (117–138). Marcus Aurelius (161–180). Diocletian (284–305). Constantine I (306–337). Theodosius I (379–395, last to rule both halves). Romulus Augustulus (deposed 476).", "certainty": "confirmed", "source": "Wikipedia: Roman Empire" },
-      "succession": { "value": "No fixed law of succession. Emperors adopted or named heirs, but the army and Praetorian Guard often decided who ruled. This was a major cause of instability.", "certainty": "confirmed", "source": "Beard (2015)" },
-      "institutions": { "value": "Roman law, which survives today in civil-law systems. The Senate, provincial governors, a professional army, and citizenship extended to all free men in 212 CE (Constitutio Antoniniana).", "year": 212, "certainty": "confirmed", "source": "Wikipedia: Constitutio Antoniniana" },
-      "stability": { "value": "Two centuries of relative internal peace (Pax Romana). The Crisis of the Third Century (235–284) saw around 26 claimants to the throne in 50 years, civil wars, and breakaway Gallic and Palmyrene empires.", "year": 235, "certainty": "confirmed", "source": "Wikipedia: Crisis of the Third Century" },
-      "eliteConflict": { "value": "Assassinations of emperors, military usurpations, and rivalry between the court, the generals and the Senate. In the 5th-century West, generals of Germanic origin often held real power.", "certainty": "confirmed", "source": "Heather (2005)" }
+      "governmentType": {
+        "value": "The Principate (27 BCE–284 CE), an emperor ruling behind republican forms with the Senate. Then the Dominate after Diocletian, an openly autocratic system with a larger bureaucracy.",
+        "certainty": "confirmed",
+        "source": "Beard (2015)"
+      },
+      "keyRulers": {
+        "value": "Augustus (27 BCE–14 CE). Trajan (98–117, greatest extent). Hadrian (117–138). Marcus Aurelius (161–180). Diocletian (284–305). Constantine I (306–337). Theodosius I (379–395, last to rule both halves). Romulus Augustulus (deposed 476).",
+        "certainty": "confirmed",
+        "source": "Wikipedia: Roman Empire"
+      },
+      "succession": {
+        "value": "No fixed law of succession. Emperors adopted or named heirs, but the army and Praetorian Guard often decided who ruled. This was a major cause of instability.",
+        "certainty": "confirmed",
+        "source": "Beard (2015)"
+      },
+      "institutions": {
+        "value": "Roman law, which survives today in civil-law systems. The Senate, provincial governors, a professional army, and citizenship extended to all free men in 212 CE (Constitutio Antoniniana).",
+        "year": 212,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Roman Empire (checked 5 Nov 2026); Wikipedia: Constitutio Antoniniana"
+      },
+      "stability": {
+        "value": "Two centuries of relative internal peace (Pax Romana). The Crisis of the Third Century (235–284) saw around 26 claimants to the throne in 50 years, civil wars, and breakaway Gallic and Palmyrene empires.",
+        "year": 235,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crisis of the Third Century"
+      },
+      "eliteConflict": {
+        "value": "Assassinations of emperors, military usurpations, and rivalry between the court, the generals and the Senate. In the 5th-century West, generals of Germanic origin often held real power.",
+        "certainty": "confirmed",
+        "source": "Heather (2005)"
+      }
     },
     "military": {
-      "armyAndTech": { "value": "Professional legions plus auxiliaries, around 300,000–450,000 soldiers in the early empire. Siege engineering, roads and fortified frontiers (Hadrian's Wall, the limes).", "certainty": "estimated", "source": "Goldsworthy, The Complete Roman Army (2003)" },
-      "majorWars": { "value": "Conquest of Britain (43 CE). The Jewish–Roman wars (66–135). Trajan's Dacian and Parthian wars. Wars with Sasanian Persia. The Gothic War and the Battle of Adrianople (378). Attila's Huns in the 5th century.", "certainty": "confirmed", "source": "Wikipedia: Roman Empire" },
-      "territoryChange": { "value": "Greatest extent under Trajan in 117 CE (about 5 million km²). Dacia was abandoned c. 271, and most western provinces were lost in the 5th century.", "year": 117, "certainty": "estimated", "source": "Wikipedia: Roman Empire" },
-      "alliancesRivals": { "value": "Parthia and then Sasanian Persia were long-term rivals in the east. Germanic confederations and the Huns pressed the north. Allied 'foederati' were settled inside the empire.", "certainty": "confirmed", "source": "Heather (2005)" }
+      "armyAndTech": {
+        "value": "Professional legions plus auxiliaries: about 300,000 soldiers in the 1st century CE and just under 400,000 in the 2nd. Siege engineering, roads and fortified frontiers (Hadrian’s Wall, the limes).",
+        "certainty": "estimated",
+        "source": "Wikipedia: Roman Empire (checked 5 Nov 2026); Goldsworthy, The Complete Roman Army (2003)",
+        "year": 100
+      },
+      "majorWars": {
+        "value": "Conquest of Britain (43 CE). The Jewish–Roman wars (66–135). Trajan's Dacian and Parthian wars. Wars with Sasanian Persia. The Gothic War and the Battle of Adrianople (378). Attila's Huns in the 5th century.",
+        "certainty": "confirmed",
+        "source": "Wikipedia: Roman Empire"
+      },
+      "territoryChange": {
+        "value": "About 2.75 million km² in 25 BCE, reaching its greatest extent of about 5 million km² under Trajan (117 CE), and about 3.4 million km² by 390. Dacia was abandoned c. 271, and most western provinces were lost in the 5th century.",
+        "year": 117,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Roman Empire (checked 5 Nov 2026) (infobox)"
+      },
+      "alliancesRivals": {
+        "value": "Parthia and then Sasanian Persia were long-term rivals in the east. Germanic confederations and the Huns pressed the north. Allied 'foederati' were settled inside the empire.",
+        "certainty": "confirmed",
+        "source": "Heather (2005)"
+      }
     },
     "technology": {
-      "inventions": { "value": "Roman concrete, the arch and dome (Pantheon, c. 125 CE), aqueducts, water mills, and large-scale road and harbour engineering. Mostly applying and scaling up existing ideas.", "year": 125, "certainty": "confirmed", "source": "Wikipedia: Roman engineering" },
-      "scienceEducation": { "value": "Greek science continued within the empire, for example Ptolemy's astronomy and Galen's medicine. Elite education was in rhetoric. Literacy is estimated at perhaps 10–20% overall.", "certainty": "disputed", "source": "Harris, Ancient Literacy (1989)" },
-      "openness": { "value": "Highly absorptive. Rome adopted Greek culture, eastern religions and provincial elites, and eventually extended citizenship to all free men.", "certainty": "estimated", "source": "Beard (2015)" }
+      "inventions": {
+        "value": "Roman concrete, the arch and dome (Pantheon, c. 125 CE), aqueducts, water mills, and large-scale road and harbour engineering. Mostly applying and scaling up existing ideas.",
+        "year": 125,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Roman engineering"
+      },
+      "scienceEducation": {
+        "value": "Greek science continued within the empire, for example Ptolemy's astronomy and Galen's medicine. Elite education was in rhetoric. Literacy is estimated at perhaps 10–20% overall.",
+        "certainty": "disputed",
+        "source": "Harris, Ancient Literacy (1989)"
+      },
+      "openness": {
+        "value": "Highly absorptive. Rome adopted Greek culture, eastern religions and provincial elites, and eventually extended citizenship to all free men.",
+        "certainty": "estimated",
+        "source": "Beard (2015)"
+      }
     },
     "culture": {
-      "religion": { "value": "Traditional Roman polytheism and the imperial cult. Christianity spread, was legalised by the Edict of Milan (313), and became the state religion under Theodosius (380).", "year": 380, "certainty": "confirmed", "source": "Wikipedia: Christianity in the Roman Empire" },
-      "languageWriting": { "value": "Latin in the west and Greek in the east, both in alphabetic scripts. Many local languages (Aramaic, Coptic, Celtic) were also spoken.", "certainty": "confirmed", "source": "Wikipedia: Roman Empire" },
-      "artsArchitecture": { "value": "The Colosseum (80 CE), Pantheon and forums. Virgil's Aeneid, Ovid, Tacitus. Portrait sculpture and mosaics.", "year": 80, "certainty": "confirmed", "source": "Beard (2015)" },
-      "socialStructure": { "value": "Senators, equestrians, ordinary citizens (later split into honestiores and humiliores), freedmen and slaves. Slavery was widespread.", "certainty": "confirmed", "source": "Cambridge Economic History (2007)" },
-      "sharedIdentity": { "value": "Roman citizenship, law, the Latin and Greek cultural world, and later Christianity. Provincial elites came to see themselves as Romans.", "certainty": "estimated", "source": "Beard (2015)" }
+      "religion": {
+        "value": "Traditional Roman polytheism and the imperial cult. Christianity spread, was legalised by the Edict of Milan (313), and became the state religion under Theodosius (380).",
+        "year": 380,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Roman Empire (checked 5 Nov 2026); Wikipedia: Christianity in the Roman Empire"
+      },
+      "languageWriting": {
+        "value": "Latin in the west and Greek in the east, both in alphabetic scripts. Many local languages (Aramaic, Coptic, Celtic) were also spoken.",
+        "certainty": "confirmed",
+        "source": "Wikipedia: Roman Empire"
+      },
+      "artsArchitecture": {
+        "value": "The Colosseum (80 CE), Pantheon and forums. Virgil's Aeneid, Ovid, Tacitus. Portrait sculpture and mosaics.",
+        "year": 80,
+        "certainty": "confirmed",
+        "source": "Beard (2015)"
+      },
+      "socialStructure": {
+        "value": "Senators, equestrians, ordinary citizens (later split into honestiores and humiliores), freedmen and slaves. Slavery was widespread.",
+        "certainty": "confirmed",
+        "source": "Cambridge Economic History (2007)"
+      },
+      "sharedIdentity": {
+        "value": "Roman citizenship, law, the Latin and Greek cultural world, and later Christianity. Provincial elites came to see themselves as Romans.",
+        "certainty": "estimated",
+        "source": "Beard (2015)"
+      }
     },
     "connections": {
-      "neighbours": { "value": "Parthia and Sasanian Persia, Germanic peoples, Dacians, Nubia and Aksum, Arabian kingdoms, and indirect trade with India and Han China.", "certainty": "confirmed", "source": "Wikipedia: Roman Empire" },
-      "ideasReligions": { "value": "Spread Latin, Roman law, urban life and Christianity across Europe. Absorbed Greek philosophy and eastern cults.", "certainty": "confirmed", "source": "Beard (2015)" },
-      "colonisation": { "value": "Founded veteran colonies and cities across its provinces, many of which remain major cities today (e.g. London, Cologne, Vienna).", "certainty": "confirmed", "source": "Wikipedia: Roman Empire" }
+      "neighbours": {
+        "value": "Parthia and Sasanian Persia, Germanic peoples, Dacians, Nubia and Aksum, Arabian kingdoms, and indirect trade with India and Han China.",
+        "certainty": "confirmed",
+        "source": "Wikipedia: Roman Empire"
+      },
+      "ideasReligions": {
+        "value": "Spread Latin, Roman law, urban life and Christianity across Europe. Absorbed Greek philosophy and eastern cults.",
+        "certainty": "confirmed",
+        "source": "Beard (2015)"
+      },
+      "colonisation": {
+        "value": "Founded veteran colonies and cities across its provinces, many of which remain major cities today (e.g. London, Cologne, Vienna).",
+        "certainty": "confirmed",
+        "source": "Wikipedia: Roman Empire"
+      }
     },
     "riseFall": {
-      "riseSignals": { "value": "The Republic's military system and alliances, wealth from conquest, efficient roads and law, and incorporating conquered elites as citizens. Augustus ended the civil wars and gave stability.", "certainty": "estimated", "source": "Beard (2015)" },
-      "peakPeriod": { "value": "The Pax Romana, about 27 BCE–180 CE. The empire was largest under Trajan in 117 CE.", "year": 117, "certainty": "confirmed", "source": "Wikipedia: Roman Empire" },
-      "declineSignals": { "value": "Succession crises and usurpations, currency debasement and inflation, plagues, climate instability, the cost of defending long frontiers, and pressure from the Goths, Huns and others. Historians still debate how much weight each factor deserves.", "certainty": "disputed", "source": "Heather (2005); Harper (2017); Ward-Perkins, The Fall of Rome (2005)" },
-      "outcome": { "value": "Split and transformation. The western empire ended when Odoacer deposed Romulus Augustulus in 476. The eastern half continued as the Byzantine Empire until 1453, and Germanic successor kingdoms formed in the west.", "year": 476, "certainty": "confirmed", "source": "Wikipedia: Fall of the Western Roman Empire" }
+      "riseSignals": {
+        "value": "The Republic's military system and alliances, wealth from conquest, efficient roads and law, and incorporating conquered elites as citizens. Augustus ended the civil wars and gave stability.",
+        "certainty": "estimated",
+        "source": "Beard (2015)"
+      },
+      "peakPeriod": {
+        "value": "The Pax Romana, about 27 BCE–180 CE. The empire was largest under Trajan in 117 CE.",
+        "year": 117,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Roman Empire (checked 5 Nov 2026); Wikipedia: Roman Empire"
+      },
+      "declineSignals": {
+        "value": "Succession crises and usurpations, currency debasement and inflation, plagues, climate instability, the cost of defending long frontiers, and pressure from the Goths, Huns and others. Historians still debate how much weight each factor deserves.",
+        "certainty": "disputed",
+        "source": "Heather (2005); Harper (2017); Ward-Perkins, The Fall of Rome (2005)"
+      },
+      "outcome": {
+        "value": "Split and transformation. The western empire ended when Odoacer deposed Romulus Augustulus in 476. The eastern half continued as the Byzantine Empire until 1453, and Germanic successor kingdoms formed in the west.",
+        "year": 476,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Roman Empire (checked 5 Nov 2026); Wikipedia: Fall of the Western Roman Empire"
+      }
     },
     "dataQuality": {
-      "sources": { "value": "Ancient historians (Tacitus, Suetonius, Cassius Dio, Ammianus), inscriptions, coins, papyri from Egypt, archaeology, and ice-core and tree-ring climate data. Modern syntheses: Beard (2015), Heather (2005), Harper (2017), Scheidel (2007).", "certainty": "confirmed", "source": "—" },
-      "overallCertainty": { "value": "Very good for political and military history. Population, GDP and literacy are estimates with wide ranges. The causes of the western collapse are actively debated.", "certainty": "estimated", "source": "—" }
+      "sources": {
+        "value": "Ancient historians (Tacitus, Suetonius, Cassius Dio, Ammianus), inscriptions, coins, papyri from Egypt, archaeology, and ice-core and tree-ring climate data. Modern syntheses: Beard (2015), Heather (2005), Harper (2017), Scheidel (2007). Reviewed against the live Wikipedia article (Roman Empire) on 5 Nov 2026. Errors found were corrected, and items marked “checked” were confirmed there. Items not covered by Wikipedia keep their original scholarly citation.",
+        "certainty": "confirmed",
+        "source": "—"
+      },
+      "overallCertainty": {
+        "value": "Very good for political and military history. Population, GDP and literacy are estimates with wide ranges. The causes of the western collapse are actively debated.",
+        "certainty": "estimated",
+        "source": "—"
+      }
     }
   }
 }
