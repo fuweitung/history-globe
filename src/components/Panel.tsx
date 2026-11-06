@@ -21,13 +21,15 @@ interface Props {
   /** Changes whenever new content is shown, so the panel can scroll to top / re-open. */
   contentKey: string;
   title: string;
+  /** Wider desktop panel (used by the compare view). */
+  wide?: boolean;
   children: ReactNode;
 }
 
 /**
  * Side panel on desktop, draggable bottom sheet on mobile.
  */
-export default function Panel({ open, onClose, contentKey, title, children }: Props) {
+export default function Panel({ open, onClose, contentKey, title, wide = false, children }: Props) {
   const isDesktop = useIsDesktop();
   const scrollRef = useRef<HTMLDivElement>(null);
   const [snap, setSnap] = useState<Snap>('peek');
@@ -60,7 +62,7 @@ export default function Panel({ open, onClose, contentKey, title, children }: Pr
         ref={rootRef}
         aria-label={title}
         aria-hidden={!open}
-        className={`pointer-events-auto absolute top-3 right-3 bottom-[calc(var(--tl-h,140px)+4px)] z-20 flex w-[440px] max-w-[calc(100vw-24px)] flex-col overflow-hidden rounded-2xl bg-ink-900/92 shadow-2xl ring-1 ring-white/10 backdrop-blur-md transition-all duration-300 ${
+        className={`pointer-events-auto absolute top-3 right-3 bottom-[calc(var(--tl-h,140px)+4px)] z-20 flex ${wide ? 'w-[min(760px,calc(100vw-24px))]' : 'w-[440px]'} max-w-[calc(100vw-24px)] flex-col overflow-hidden rounded-2xl bg-ink-900/92 shadow-2xl ring-1 ring-white/10 backdrop-blur-md transition-all duration-300 ${
           open ? 'translate-x-0 opacity-100' : 'pointer-events-none translate-x-[110%] opacity-0'
         }`}
       >
