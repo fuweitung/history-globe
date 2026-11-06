@@ -1,0 +1,310 @@
+{
+  "id": "uyghur-khaganate",
+  "name": "Uyghur Khaganate",
+  "era": "medieval",
+  "region": "Central Asia (Mongolian steppe)",
+  "startYear": 744,
+  "endYear": 840,
+  "capital": "Ordu-Baliq",
+  "capitalCoords": [
+    102.66,
+    47.43
+  ],
+  "summary": "A Turkic steppe empire that overthrew the Göktürks in 744. It helped the Tang dynasty crush the An Lushan rebellion and adopted Manichaeism as its official religion.",
+  "borderNames": [
+    "Uyghurs"
+  ],
+  "borderYears": [
+    744,
+    840
+  ],
+  "color": "#5a8a5a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Mongolian Plateau, with its capital Ordu-Baliq on the Orkhon river.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uyghur Khaganate (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Steppe and the Orkhon valley.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mackerras, The Uighur Empire (1972)"
+      },
+      "climate": {
+        "value": "A harsh winter and famine (839) weakened the khaganate just before its fall.",
+        "year": 839,
+        "certainty": "estimated",
+        "source": "Mackerras, The Uighur Empire (1972)"
+      },
+      "resources": {
+        "value": "Horses, herds and control of trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mackerras, The Uighur Empire (1972)"
+      },
+      "disasters": {
+        "value": "Famine and livestock disease in 839.",
+        "year": 839,
+        "certainty": "estimated",
+        "source": "Mackerras, The Uighur Empire (1972)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mackerras, The Uighur Empire (1972)"
+      },
+      "urbanisation": {
+        "value": "Ordu-Baliq was a walled city, unusual for a steppe empire.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mackerras, The Uighur Empire (1972)"
+      },
+      "disease": {
+        "value": "Livestock epidemic before the collapse.",
+        "year": 839,
+        "certainty": "estimated",
+        "source": "Mackerras, The Uighur Empire (1972)"
+      },
+      "migration": {
+        "value": "After 840 Uyghurs moved south-west to Gansu and the Turfan basin (Qocho).",
+        "year": 840,
+        "certainty": "estimated",
+        "source": "Mackerras, The Uighur Empire (1972)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Herding and the horse-for-silk trade with Tang China.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mackerras, The Uighur Empire (1972)"
+      },
+      "tradeRoutes": {
+        "value": "Sold horses to Tang China for huge amounts of silk; Sogdian merchants traded along the Silk Road.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mackerras, The Uighur Empire (1972)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mackerras, The Uighur Empire (1972)"
+      },
+      "moneyAndTax": {
+        "value": "Silk received from the Tang served as wealth.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mackerras, The Uighur Empire (1972)"
+      },
+      "inequality": {
+        "value": "A tribal confederation under the Uyghur nobility.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uyghur Khaganate (checked 6 Nov 2026)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A monarchy over a tribal confederation (the “Nine Tribes”, Toquz Oghuz).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uyghur Khaganate (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Qutlugh Bilge Köl (744–747, founder), Bayanchur, Bögü Qaghan (adopted Manichaeism).",
+        "year": 744,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uyghur Khaganate (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Hereditary, with coups among the nobles.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mackerras, The Uighur Empire (1972)"
+      },
+      "institutions": {
+        "value": "Sogdian advisers helped run the state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mackerras, The Uighur Empire (1972)"
+      },
+      "stability": {
+        "value": "Civil strife in the 830s.",
+        "year": 840,
+        "certainty": "estimated",
+        "source": "Mackerras, The Uighur Empire (1972)"
+      },
+      "eliteConflict": {
+        "value": "A rebellion among the nobles weakened the khagan.",
+        "year": 839,
+        "certainty": "estimated",
+        "source": "Mackerras, The Uighur Empire (1972)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Cavalry that helped the Tang retake Chang’an and Luoyang (757).",
+        "year": 757,
+        "certainty": "estimated",
+        "source": "Mackerras, The Uighur Empire (1972)"
+      },
+      "majorWars": {
+        "value": "Helped suppress the An Lushan rebellion; destroyed by the Yenisei Kyrgyz in 840.",
+        "year": 840,
+        "certainty": "estimated",
+        "source": "Mackerras, The Uighur Empire (1972)"
+      },
+      "territoryChange": {
+        "value": "About 3.1 million km² around 800.",
+        "year": 800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uyghur Khaganate (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Ally of Tang China; rival of Tibet and the Kyrgyz.",
+        "year": 757,
+        "certainty": "estimated",
+        "source": "Mackerras, The Uighur Empire (1972)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mackerras, The Uighur Empire (1972)"
+      },
+      "scienceEducation": {
+        "value": "Manichaean and Buddhist texts translated into Old Uyghur.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mackerras, The Uighur Empire (1972)"
+      },
+      "openness": {
+        "value": "Open to Sogdian merchants and their religion.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mackerras, The Uighur Empire (1972)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Manichaeism became the official religion; Tengrism, Buddhism and Nestorian Christianity also present.",
+        "year": 762,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uyghur Khaganate (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Old Uyghur and Middle Chinese; Old Uyghur later used a script derived from Sogdian.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uyghur Khaganate (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "The walled city of Ordu-Baliq and the Karabalgasun inscription.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mackerras, The Uighur Empire (1972)"
+      },
+      "socialStructure": {
+        "value": "Royal clan, nobles, herders, Sogdian merchants.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mackerras, The Uighur Empire (1972)"
+      },
+      "sharedIdentity": {
+        "value": "Toquz Oghuz (“Nine Tribes”) identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uyghur Khaganate (checked 6 Nov 2026)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Tang China, Tibet, the Kyrgyz, Karluks.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mackerras, The Uighur Empire (1972)"
+      },
+      "ideasReligions": {
+        "value": "Spread Manichaeism on the steppe.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mackerras, The Uighur Empire (1972)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mackerras, The Uighur Empire (1972)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Overthrew the Second Turkic Khaganate in 744.",
+        "year": 744,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uyghur Khaganate (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "Around 800, when it controlled the Mongolian steppe and Silk Road routes.",
+        "year": 800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uyghur Khaganate (checked 6 Nov 2026); Mackerras, The Uighur Empire (1972)"
+      },
+      "declineSignals": {
+        "value": "Famine, disease and internal revolt.",
+        "year": 839,
+        "certainty": "estimated",
+        "source": "Mackerras, The Uighur Empire (1972)"
+      },
+      "outcome": {
+        "value": "Destroyed by the Yenisei Kyrgyz in 840; succeeded by the Kingdom of Qocho, the Gansu Uyghurs and the Kara-Khanids.",
+        "year": 840,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uyghur Khaganate (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Chinese records, inscriptions. Checked against Wikipedia (“Uyghur Khaganate”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uyghur Khaganate (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Medium. Known mostly from Chinese records and a few inscriptions.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uyghur Khaganate (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Ordu-Baliq",
+      "kind": "monument",
+      "year": 760,
+      "note": "A walled capital city on the steppe."
+    },
+    {
+      "label": "Horse-for-silk trade",
+      "kind": "tool",
+      "year": 760,
+      "note": "Uyghur horses were traded to Tang China for silk."
+    },
+    {
+      "label": "Manichaean state religion",
+      "kind": "idea",
+      "year": 762,
+      "note": "One of the few states ever to adopt Manichaeism."
+    }
+  ]
+}

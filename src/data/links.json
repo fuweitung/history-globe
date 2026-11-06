@@ -694,5 +694,187 @@
     "toPolityId": "khmer-empire",
     "relation": "conquered",
     "year": 1177
+  },
+  {
+    "fromPolityId": "viking-age-norse",
+    "toPolityId": "kievan-rus",
+    "relation": "succeeded",
+    "year": 880,
+    "note": "Norse Varangians founded the Rurik dynasty of Rus’."
+  },
+  {
+    "fromPolityId": "hunnic-empire",
+    "toPolityId": "roman-empire",
+    "relation": "conquered",
+    "note": "Raided and extracted tribute from Rome."
+  },
+  {
+    "fromPolityId": "turkic-khaganates",
+    "toPolityId": "uyghur-khaganate",
+    "relation": "succeeded",
+    "year": 744
+  },
+  {
+    "fromPolityId": "tang",
+    "toPolityId": "turkic-khaganates",
+    "relation": "conquered",
+    "year": 630
+  },
+  {
+    "fromPolityId": "uyghur-khaganate",
+    "toPolityId": "tang",
+    "relation": "allied_with",
+    "year": 757,
+    "note": "Helped the Tang retake Chang’an."
+  },
+  {
+    "fromPolityId": "khazar-khaganate",
+    "toPolityId": "byzantine-empire",
+    "relation": "allied_with"
+  },
+  {
+    "fromPolityId": "kievan-rus",
+    "toPolityId": "khazar-khaganate",
+    "relation": "conquered",
+    "year": 969
+  },
+  {
+    "fromPolityId": "mongol-empire",
+    "toPolityId": "ilkhanate",
+    "relation": "succeeded",
+    "year": 1256
+  },
+  {
+    "fromPolityId": "ilkhanate",
+    "toPolityId": "abbasid-caliphate",
+    "relation": "conquered",
+    "year": 1258
+  },
+  {
+    "fromPolityId": "mongol-empire",
+    "toPolityId": "chagatai-khanate",
+    "relation": "succeeded",
+    "year": 1227
+  },
+  {
+    "fromPolityId": "timurid-empire",
+    "toPolityId": "chagatai-khanate",
+    "relation": "succeeded",
+    "year": 1370
+  },
+  {
+    "fromPolityId": "seljuk-empire",
+    "toPolityId": "ghaznavid-empire",
+    "relation": "conquered",
+    "year": 1040
+  },
+  {
+    "fromPolityId": "macedonian-empire",
+    "toPolityId": "seleucid-empire",
+    "relation": "succeeded",
+    "year": -312
+  },
+  {
+    "fromPolityId": "roman-republic",
+    "toPolityId": "seleucid-empire",
+    "relation": "conquered",
+    "year": -63
+  },
+  {
+    "fromPolityId": "parthian-empire",
+    "toPolityId": "seleucid-empire",
+    "relation": "conquered",
+    "year": -141
+  },
+  {
+    "fromPolityId": "han-china",
+    "toPolityId": "three-kingdoms",
+    "relation": "succeeded",
+    "year": 220
+  },
+  {
+    "fromPolityId": "three-kingdoms",
+    "toPolityId": "jin-dynasty-266",
+    "relation": "succeeded",
+    "year": 266
+  },
+  {
+    "fromPolityId": "jin-dynasty-266",
+    "toPolityId": "northern-southern-dynasties",
+    "relation": "succeeded",
+    "year": 420
+  },
+  {
+    "fromPolityId": "northern-southern-dynasties",
+    "toPolityId": "sui",
+    "relation": "succeeded",
+    "year": 589
+  },
+  {
+    "fromPolityId": "liao-dynasty",
+    "toPolityId": "song",
+    "relation": "traded_with",
+    "year": 1005,
+    "note": "Treaty of Chanyuan"
+  },
+  {
+    "fromPolityId": "jurchen-jin",
+    "toPolityId": "liao-dynasty",
+    "relation": "conquered",
+    "year": 1125
+  },
+  {
+    "fromPolityId": "jurchen-jin",
+    "toPolityId": "song",
+    "relation": "conquered",
+    "year": 1127
+  },
+  {
+    "fromPolityId": "mongol-empire",
+    "toPolityId": "jurchen-jin",
+    "relation": "conquered",
+    "year": 1234
+  },
+  {
+    "fromPolityId": "phoenicia",
+    "toPolityId": "carthage",
+    "relation": "succeeded",
+    "year": -814,
+    "note": "Carthage was founded by settlers from Tyre."
+  },
+  {
+    "fromPolityId": "rashidun-caliphate",
+    "toPolityId": "umayyad-caliphate",
+    "relation": "succeeded",
+    "year": 661
+  },
+  {
+    "fromPolityId": "rashidun-caliphate",
+    "toPolityId": "sasanian",
+    "relation": "conquered",
+    "year": 651
+  },
+  {
+    "fromPolityId": "almohad-caliphate",
+    "toPolityId": "mali-empire",
+    "relation": "traded_with",
+    "note": "Trans-Saharan gold trade."
+  },
+  {
+    "fromPolityId": "moche",
+    "toPolityId": "wari-empire",
+    "relation": "succeeded"
+  },
+  {
+    "fromPolityId": "wari-empire",
+    "toPolityId": "tiwanaku",
+    "relation": "traded_with"
+  },
+  {
+    "fromPolityId": "united-states",
+    "toPolityId": "hawaiian-kingdom",
+    "relation": "conquered",
+    "year": 1898,
+    "note": "Annexation after the 1893 overthrow."
   }
 ]

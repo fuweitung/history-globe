@@ -1,0 +1,310 @@
+{
+  "id": "almohad-caliphate",
+  "name": "Almohad Caliphate",
+  "era": "medieval",
+  "region": "North Africa & Iberia",
+  "startYear": 1121,
+  "endYear": 1269,
+  "capital": "Marrakesh; Seville in al-Andalus",
+  "capitalCoords": [
+    -7.99,
+    31.63
+  ],
+  "summary": "A Berber reform movement that became a caliphate ruling North Africa and Muslim Spain. Its era produced the Giralda of Seville and philosophers such as Ibn Rushd (Averroes).",
+  "borderNames": [
+    "Almohad Caliphate"
+  ],
+  "borderYears": [
+    1121,
+    1269
+  ],
+  "color": "#3f7a6a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Morocco, Algeria, Tunisia, Libya and al-Andalus (southern Spain and Portugal).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almohad Caliphate (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "The Atlas mountains, Maghreb plains and southern Iberia.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bennison, The Almoravid and Almohad Empires (2016)"
+      },
+      "climate": {
+        "value": "Mediterranean and semi-arid.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bennison, The Almoravid and Almohad Empires (2016)"
+      },
+      "resources": {
+        "value": "Farmland, trans-Saharan gold trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bennison, The Almoravid and Almohad Empires (2016)"
+      },
+      "disasters": {
+        "value": "No specific disasters are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bennison, The Almoravid and Almohad Empires (2016)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bennison, The Almoravid and Almohad Empires (2016)"
+      },
+      "urbanisation": {
+        "value": "Marrakesh (capital from 1147) and Seville.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almohad Caliphate (checked 6 Nov 2026)"
+      },
+      "disease": {
+        "value": "No specific epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bennison, The Almoravid and Almohad Empires (2016)"
+      },
+      "migration": {
+        "value": "Arab tribes were moved into Morocco; Jews and Christians faced pressure to convert or leave.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bennison, The Almoravid and Almohad Empires (2016)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming and Mediterranean and Saharan trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bennison, The Almoravid and Almohad Empires (2016)"
+      },
+      "tradeRoutes": {
+        "value": "Trans-Saharan gold routes and Mediterranean trade with Italian cities.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bennison, The Almoravid and Almohad Empires (2016)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bennison, The Almoravid and Almohad Empires (2016)"
+      },
+      "moneyAndTax": {
+        "value": "The gold dinar; the Almohads introduced square silver dirhams.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almohad Caliphate (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "Almohad Berber elite at the top.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bennison, The Almoravid and Almohad Empires (2016)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A caliphate ruled by the Mu’minid dynasty.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almohad Caliphate (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Ibn Tumart (Mahdi), Abd al-Mu’min (first caliph, 1130–1163), Abu Yusuf Ya‘qub al-Mansur (1184–1199).",
+        "year": 1184,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almohad Caliphate (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Hereditary in the Mu’minid family, with disputes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bennison, The Almoravid and Almohad Empires (2016)"
+      },
+      "institutions": {
+        "value": "A strict religious hierarchy under the Mahdi’s doctrine.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bennison, The Almoravid and Almohad Empires (2016)"
+      },
+      "stability": {
+        "value": "Weakened after Las Navas de Tolosa (1212).",
+        "year": 1212,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almohad Caliphate (checked 6 Nov 2026)"
+      },
+      "eliteConflict": {
+        "value": "Family rivalry and revolts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bennison, The Almoravid and Almohad Empires (2016)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Berber infantry and cavalry and a strong navy.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bennison, The Almoravid and Almohad Empires (2016)"
+      },
+      "majorWars": {
+        "value": "Overthrew the Almoravids (1147); won at Alarcos (1195); lost at Las Navas de Tolosa (1212).",
+        "year": 1212,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almohad Caliphate (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "About 2.0–2.3 million km² (1150–1200); lost Córdoba (1236) and Seville (1248).",
+        "year": 1150,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almohad Caliphate (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: Castile, Aragon, Portugal, the Almoravids.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bennison, The Almoravid and Almohad Empires (2016)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "The Almohad arch.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bennison, The Almoravid and Almohad Empires (2016)"
+      },
+      "scienceEducation": {
+        "value": "Philosophers Ibn Tufayl, Ibn Rushd (Averroes) and Ibn Arabi.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almohad Caliphate (checked 6 Nov 2026)"
+      },
+      "openness": {
+        "value": "Encouraged philosophy and science, but enforced strict religious doctrine.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bennison, The Almoravid and Almohad Empires (2016)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sunni Islam (Almohad doctrine).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almohad Caliphate (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Arabic, Berber languages, Mozarabic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almohad Caliphate (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "The Great Mosque of Seville and its minaret, the Giralda; the Koutoubia in Marrakesh.",
+        "year": 1184,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almohad Caliphate (checked 6 Nov 2026)"
+      },
+      "socialStructure": {
+        "value": "Almohad elite, Arabs, Andalusis, Berbers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bennison, The Almoravid and Almohad Empires (2016)"
+      },
+      "sharedIdentity": {
+        "value": "The Almohad religious movement.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bennison, The Almoravid and Almohad Empires (2016)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Christian kingdoms, Hafsids, Marinids.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bennison, The Almoravid and Almohad Empires (2016)"
+      },
+      "ideasReligions": {
+        "value": "Averroes’ philosophy influenced Europe.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bennison, The Almoravid and Almohad Empires (2016)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bennison, The Almoravid and Almohad Empires (2016)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Ibn Tumart recognised as the Mahdi (c. 1121).",
+        "year": 1121,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almohad Caliphate (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "Under Abu Yusuf Ya‘qub al-Mansur (1184–1199), after the victory at Alarcos (1195).",
+        "year": 1195,
+        "certainty": "estimated",
+        "source": "Bennison, The Almoravid and Almohad Empires (2016)"
+      },
+      "declineSignals": {
+        "value": "Defeat at Las Navas de Tolosa (1212) and the loss of al-Andalus.",
+        "year": 1212,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almohad Caliphate (checked 6 Nov 2026); Bennison, The Almoravid and Almohad Empires (2016)"
+      },
+      "outcome": {
+        "value": "The Marinids took Marrakesh in 1269.",
+        "year": 1269,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almohad Caliphate (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Arabic chronicles. Checked against Wikipedia (“Almohad Caliphate”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almohad Caliphate (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Good; start is dated 1121 or 1130.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Almohad Caliphate (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Giralda of Seville",
+      "kind": "monument",
+      "year": 1184,
+      "note": "A minaret, now a cathedral bell tower."
+    },
+    {
+      "label": "Ibn Rushd (Averroes)",
+      "kind": "person",
+      "year": 1180,
+      "note": "Philosopher whose commentaries on Aristotle shaped European thought."
+    },
+    {
+      "label": "Koutoubia Mosque",
+      "kind": "monument",
+      "year": 1158,
+      "note": "Marrakesh’s great mosque."
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "id": "jin-dynasty-266",
+  "name": "Jin Dynasty (266–420)",
+  "era": "ancient",
+  "region": "East Asia",
+  "startYear": 266,
+  "endYear": 420,
+  "capital": "Luoyang; Jiankang (Nanjing) from 317",
+  "capitalCoords": [
+    118.78,
+    32.06
+  ],
+  "summary": "The Sima family dynasty that briefly reunited China in 280. Civil war and invasions drove it south in 317, where the Eastern Jin ruled from Jiankang while the north split into the Sixteen Kingdoms.",
+  "borderNames": [
+    "Jin"
+  ],
+  "borderYears": [
+    266,
+    420
+  ],
+  "color": "#7a6a4a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "All of China (Western Jin, 280–316), then south China only (Eastern Jin, 317–420).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (266–420) (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Yellow River plain, then the Yangtze valley.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "climate": {
+        "value": "Temperate to subtropical.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "resources": {
+        "value": "Farmland in the south was developed by northern refugees.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "disasters": {
+        "value": "Famine during the civil wars.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "urbanisation": {
+        "value": "Luoyang, Chang’an, then Jiankang (Nanjing).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (266–420) (checked 6 Nov 2026)"
+      },
+      "disease": {
+        "value": "Epidemics during the wars of the early 4th century.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "migration": {
+        "value": "A large migration of northern Han Chinese south of the Yangtze after the sack of Luoyang (311).",
+        "year": 311,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (266–420) (checked 6 Nov 2026)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Agriculture on great estates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "tradeRoutes": {
+        "value": "River and sea trade in the south.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "moneyAndTax": {
+        "value": "Chinese cash coins.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (266–420) (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "Aristocratic clans dominated land and office.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy; Eastern Jin emperors were limited by powerful clans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (266–420) (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Emperor Wu (Sima Yan, 266–290), Emperor Yuan (318–323), Emperor Gong (last).",
+        "year": 266,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (266–420) (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Hereditary in the Sima family.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "institutions": {
+        "value": "Nine-rank system favoured aristocrats.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "stability": {
+        "value": "War of the Eight Princes (291–306).",
+        "year": 291,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (266–420) (checked 6 Nov 2026)"
+      },
+      "eliteConflict": {
+        "value": "Princes of the Sima family fought each other.",
+        "year": 291,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (266–420) (checked 6 Nov 2026)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Heavy cavalry with stirrups appeared in this era.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "majorWars": {
+        "value": "War of the Eight Princes; Upheaval of the Five Barbarians (304); Battle of Fei River (383).",
+        "year": 383,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (266–420) (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "About 3.1 million km² (280); lost the north after 316.",
+        "year": 280,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (266–420) (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: the Sixteen Kingdoms in the north.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "The stirrup appears in this era.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (266–420) (checked 6 Nov 2026)"
+      },
+      "scienceEducation": {
+        "value": "Ge Hong’s alchemy and medicine.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "openness": {
+        "value": "Buddhism spread widely.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Buddhism, Daoism and folk religion.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (266–420) (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Chinese; the calligrapher Wang Xizhi.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "artsArchitecture": {
+        "value": "Wang Xizhi’s calligraphy (Lantingji Xu, 353); Gu Kaizhi’s paintings.",
+        "year": 353,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "socialStructure": {
+        "value": "Great clans, commoners, dependants.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "sharedIdentity": {
+        "value": "Han Chinese culture in exile in the south.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Han-Zhao, Former Qin and other northern states.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "ideasReligions": {
+        "value": "“Pure conversation” philosophy and Buddhism.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "colonisation": {
+        "value": "Southern lands developed.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Conquest of Wu reunited China.",
+        "year": 280,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (266–420) (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "280–290 under Emperor Wu.",
+        "year": 280,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (266–420) (checked 6 Nov 2026)"
+      },
+      "declineSignals": {
+        "value": "Sack of Luoyang (311) and loss of Chang’an (316).",
+        "year": 311,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (266–420) (checked 6 Nov 2026)"
+      },
+      "outcome": {
+        "value": "Liu Yu usurped the throne in 420, founding the Liu Song.",
+        "year": 420,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (266–420) (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Book of Jin. Checked against Wikipedia (“Jin dynasty (266–420)”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (266–420) (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Good.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (266–420) (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Wang Xizhi’s calligraphy",
+      "kind": "art",
+      "year": 353,
+      "note": "Called the “Sage of Calligraphy”."
+    },
+    {
+      "label": "The stirrup",
+      "kind": "tool",
+      "year": 322,
+      "note": "Early stirrups helped heavy cavalry."
+    },
+    {
+      "label": "Battle of Fei River",
+      "kind": "idea",
+      "year": 383,
+      "note": "Eastern Jin defeated a much larger Former Qin army."
+    }
+  ]
+}

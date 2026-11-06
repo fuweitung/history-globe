@@ -1,0 +1,307 @@
+{
+  "id": "chagatai-khanate",
+  "name": "Chagatai Khanate",
+  "era": "medieval",
+  "region": "Central Asia",
+  "startYear": 1227,
+  "endYear": 1462,
+  "capital": "Almaliq; Qarshi",
+  "capitalCoords": [
+    80.9,
+    44.0
+  ],
+  "summary": "The Mongol khanate of Central Asia, ruled by descendants of Genghis Khan’s second son Chagatai. Its western half was taken by Timur.",
+  "borderNames": [
+    "Chagatai Khanate"
+  ],
+  "borderYears": [
+    1227,
+    1500
+  ],
+  "color": "#7a6aa0",
+  "knownFor": [
+    {
+      "label": "Chagatai Turkic language",
+      "kind": "idea",
+      "note": "Became the great literary language of Central Asia, used later by the Timurids and Mughals."
+    },
+    {
+      "label": "Steppe cavalry",
+      "kind": "troops",
+      "note": "Mongol and Turkic horse archers."
+    },
+    {
+      "label": "Silk Road oases",
+      "kind": "tool",
+      "note": "Samarkand and Bukhara under Mongol rule."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Central Asia, from the Amu Darya to the Altai mountains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chagatai Khanate (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Steppe, mountains and oasis cities.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      },
+      "climate": {
+        "value": "Continental and dry.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      },
+      "resources": {
+        "value": "Pasture and the oasis cities of Transoxiana.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      },
+      "disasters": {
+        "value": "No specific disasters are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      },
+      "urbanisation": {
+        "value": "Almaliq and Qarshi; Samarkand and Bukhara.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chagatai Khanate (checked 6 Nov 2026)"
+      },
+      "disease": {
+        "value": "No specific epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      },
+      "migration": {
+        "value": "Mongols merged with Turkic peoples.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Herding and taxes on oasis farming and trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      },
+      "tradeRoutes": {
+        "value": "The central stretch of the Silk Road through Samarkand, Bukhara and Kashgar.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      },
+      "moneyAndTax": {
+        "value": "Dirhams, Kebek coins and pul.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chagatai Khanate (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "A Mongol and Turkic aristocracy ruled over settled oasis farmers and townspeople.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Semi-elective, later hereditary monarchy with a kurultai.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chagatai Khanate (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Chagatai Khan, Duwa, Kebek, Tughlugh Timur.",
+        "year": 1227,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chagatai Khanate (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Often fought over by Chagatai’s descendants and powerful emirs.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      },
+      "institutions": {
+        "value": "The kurultai assembly.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chagatai Khanate (checked 6 Nov 2026)"
+      },
+      "stability": {
+        "value": "Split into west and east in the 1340s.",
+        "year": 1347,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chagatai Khanate (checked 6 Nov 2026)"
+      },
+      "eliteConflict": {
+        "value": "Rival khans and emirs; by the 1340s the emirs held real power in the west.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Steppe cavalry of mounted archers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      },
+      "majorWars": {
+        "value": "War with the Ilkhanate (Herat, 1270).",
+        "year": 1270,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chagatai Khanate (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "About 3.4 million km² (1310 or 1350).",
+        "year": 1310,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chagatai Khanate (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: the Yuan dynasty, the Ilkhanate and the Golden Horde; allied at times with Qaidu of the Ögedei line.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      },
+      "scienceEducation": {
+        "value": "Islamic learning after conversion.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      },
+      "openness": {
+        "value": "Khans gradually converted to Islam and adopted Turkic language.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Buddhism and Tengrism until 1326, then Sunni Islam.",
+        "year": 1326,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chagatai Khanate (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Middle Mongol, Persian and Chagatai Turkic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chagatai Khanate (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      },
+      "socialStructure": {
+        "value": "Nomadic Mongol and Turkic clans, and city dwellers of the oases.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      },
+      "sharedIdentity": {
+        "value": "Descent from Genghis Khan through Chagatai.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Yuan, Ilkhanate, Golden Horde, Delhi Sultanate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      },
+      "ideasReligions": {
+        "value": "Islam spread among the ruling nomads from the 14th century.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chagatai Khanate (checked 6 Nov 2026); Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Chagatai received Central Asia as his share of Genghis Khan’s empire (1227).",
+        "year": 1227,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chagatai Khanate (checked 6 Nov 2026); Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      },
+      "peakPeriod": {
+        "value": "Early 14th century under Duwa and Kebek.",
+        "year": 1310,
+        "certainty": "estimated",
+        "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      },
+      "declineSignals": {
+        "value": "The khanate split into west and east in the 1340s; emirs took power.",
+        "year": 1347,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chagatai Khanate (checked 6 Nov 2026); Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      },
+      "outcome": {
+        "value": "Timur took the western half; the east became Moghulistan; later lands fell to the Dzungars (1680).",
+        "year": 1363,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chagatai Khanate (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Persian chronicles. Checked against Wikipedia (“Chagatai Khanate”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chagatai Khanate (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Medium; end dates vary between 1347, 1680 and later.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Chagatai Khanate (checked 6 Nov 2026)"
+      }
+    }
+  }
+}

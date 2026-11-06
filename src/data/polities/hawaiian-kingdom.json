@@ -1,0 +1,315 @@
+{
+  "id": "hawaiian-kingdom",
+  "name": "Hawaiian Kingdom",
+  "era": "early_modern",
+  "region": "Oceania (Hawaiʻi)",
+  "startYear": 1795,
+  "endYear": 1893,
+  "capital": "Lāhainā; Honolulu (from 1845)",
+  "capitalCoords": [
+    -157.86,
+    21.31
+  ],
+  "summary": "An island kingdom unified by Kamehameha I. It became a modern constitutional monarchy recognised by world powers until its overthrow in 1893 by a group backed by US forces.",
+  "borderNames": [
+    "Kingdom of Hawaii",
+    "Kō Hawaiʻi Paeʻāina (Hawaiian Kingdom)"
+  ],
+  "borderYears": [
+    1795,
+    1893
+  ],
+  "color": "#c04a6a",
+  "knownFor": [
+    {
+      "label": "Feather cloaks (ʻahuʻula)",
+      "kind": "textile",
+      "note": "Royal cloaks made from thousands of bird feathers."
+    },
+    {
+      "label": "ʻIolani Palace",
+      "kind": "monument",
+      "year": 1882,
+      "note": "The royal palace in Honolulu, with electric lights before the White House had them."
+    },
+    {
+      "label": "Surfing (heʻe nalu)",
+      "kind": "idea",
+      "note": "An ancient Hawaiian sport enjoyed by royals and commoners."
+    },
+    {
+      "label": "Hawaiian literacy",
+      "kind": "idea",
+      "year": 1840,
+      "note": "Schools and newspapers in the Hawaiian language."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "All the inhabited Hawaiian Islands in the central Pacific.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hawaiian Kingdom (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Volcanic islands with mountains and fertile valleys.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
+      },
+      "resources": {
+        "value": "Fertile soil, sandalwood, sugar cane, whaling ports.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
+      },
+      "disasters": {
+        "value": "Volcanic eruptions and tsunamis.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "400,000–800,000 (1780), 130,313 (1832), 89,990 (1890) — a collapse caused largely by introduced diseases.",
+        "year": 1890,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hawaiian Kingdom (checked 6 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "Honolulu became the capital in 1845.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hawaiian Kingdom (checked 6 Nov 2026)"
+      },
+      "disease": {
+        "value": "Smallpox (1853) and other introduced diseases.",
+        "year": 1853,
+        "certainty": "estimated",
+        "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
+      },
+      "migration": {
+        "value": "Workers came from China, Japan and Portugal for sugar plantations.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Sandalwood, whaling supplies, then sugar.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
+      },
+      "tradeRoutes": {
+        "value": "Trans-Pacific trade with China and the Americas; a supply stop for whaling ships.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
+      },
+      "moneyAndTax": {
+        "value": "The Hawaiian dollar (from 1847).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hawaiian Kingdom (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "The Great Māhele (1848) led to much land passing to foreigners.",
+        "year": 1848,
+        "certainty": "estimated",
+        "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Absolute monarchy (1795–1840), then constitutional monarchy (1840–1893).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hawaiian Kingdom (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Kamehameha I, Kaʻahumanu, Kamehameha III, Kalākaua, Liliʻuokalani.",
+        "year": 1810,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hawaiian Kingdom (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Hereditary; later elected by the legislature.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
+      },
+      "institutions": {
+        "value": "The 1840 constitution; a House of Nobles and a House of Representatives.",
+        "year": 1840,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hawaiian Kingdom (checked 6 Nov 2026)"
+      },
+      "stability": {
+        "value": "The “Bayonet Constitution” forced on Kalākaua in 1887.",
+        "year": 1887,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hawaiian Kingdom (checked 6 Nov 2026)"
+      },
+      "eliteConflict": {
+        "value": "Conflict between the monarchy and foreign businessmen.",
+        "year": 1887,
+        "certainty": "estimated",
+        "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Kamehameha I used Western guns.",
+        "year": 1795,
+        "certainty": "estimated",
+        "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
+      },
+      "majorWars": {
+        "value": "Kamehameha I’s wars of unification, including the Battle of Nuʻuanu (1795).",
+        "year": 1795,
+        "certainty": "estimated",
+        "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
+      },
+      "territoryChange": {
+        "value": "Kauaʻi and Niʻihau joined in 1810, completing unification.",
+        "year": 1810,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hawaiian Kingdom (checked 6 Nov 2026); Kuykendall, The Hawaiian Kingdom (1938–67)"
+      },
+      "alliancesRivals": {
+        "value": "Recognised by European powers and the US.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
+      },
+      "scienceEducation": {
+        "value": "Schools and printing in Hawaiian gave the kingdom very high literacy in the 19th century.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
+      },
+      "openness": {
+        "value": "Adopted Western law, constitutions and diplomacy while keeping the monarchy.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Hawaiian religion until 1819, then Christianity.",
+        "year": 1819,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hawaiian Kingdom (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Hawaiian and English.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hawaiian Kingdom (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "ʻIolani Palace (1882); feather cloaks.",
+        "year": 1882,
+        "certainty": "estimated",
+        "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
+      },
+      "socialStructure": {
+        "value": "Royals (aliʻi), chiefs, commoners, and later foreign settlers and plantation workers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
+      },
+      "sharedIdentity": {
+        "value": "Motto: “The life of the land is perpetuated in righteousness.”",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hawaiian Kingdom (checked 6 Nov 2026)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "The United States, Britain, France and Japan (diplomatic and trade partners).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
+      },
+      "ideasReligions": {
+        "value": "Protestant missionaries from 1820; Christianity became widespread.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
+      },
+      "colonisation": {
+        "value": "Annexed by the US in 1898.",
+        "year": 1898,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hawaiian Kingdom (checked 6 Nov 2026)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Kamehameha I founded it in 1795.",
+        "year": 1795,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hawaiian Kingdom (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "From the 1840s to the 1880s, when the kingdom was recognised by world powers.",
+        "year": 1880,
+        "certainty": "estimated",
+        "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
+      },
+      "declineSignals": {
+        "value": "The 1887 “Bayonet Constitution” cut royal power; sugar planters gained influence.",
+        "year": 1887,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hawaiian Kingdom (checked 6 Nov 2026); Kuykendall, The Hawaiian Kingdom (1938–67)"
+      },
+      "outcome": {
+        "value": "Queen Liliʻuokalani was overthrown in 1893 by a group backed by US forces; the US annexed Hawaiʻi in 1898.",
+        "year": 1893,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hawaiian Kingdom (checked 6 Nov 2026); Kuykendall, The Hawaiian Kingdom (1938–67)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Hawaiian records. Checked against Wikipedia (“Hawaiian Kingdom”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hawaiian Kingdom (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Good. Well documented in Hawaiian and English records.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hawaiian Kingdom (checked 6 Nov 2026)"
+      }
+    }
+  }
+}

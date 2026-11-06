@@ -1,0 +1,311 @@
+{
+  "id": "northern-southern-dynasties",
+  "name": "Northern and Southern Dynasties",
+  "era": "ancient",
+  "region": "East Asia",
+  "startYear": 420,
+  "endYear": 589,
+  "capital": "Pingcheng and Luoyang (north); Jiankang (south)",
+  "capitalCoords": [
+    112.45,
+    34.62
+  ],
+  "summary": "A period when China was divided between northern dynasties (led by the Xianbei Northern Wei) and southern dynasties based at Jiankang. Buddhism flourished, with the great cave temples of Yungang and Longmen.",
+  "borderNames": [
+    "Toba Wei",
+    "Jin Empire"
+  ],
+  "borderYears": [
+    420,
+    589
+  ],
+  "color": "#8a5a6a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "North China under the Northern Wei and its successors; south China under the Song, Qi, Liang and Chen.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern and Southern dynasties (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "The northern plain and the Yangtze valley, divided by the Huai river.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "climate": {
+        "value": "Temperate north, subtropical south.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "resources": {
+        "value": "Northern farmland; southern rice land opened by migrants.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "disasters": {
+        "value": "War and famine.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "urbanisation": {
+        "value": "Northern Wei moved its capital from Pingcheng to Luoyang in 493; Jiankang was the southern capital.",
+        "year": 493,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern and Southern dynasties (checked 6 Nov 2026)"
+      },
+      "disease": {
+        "value": "No major epidemics are recorded in the sources checked.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "migration": {
+        "value": "Large-scale migration of Han Chinese south of the Yangtze.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern and Southern dynasties (checked 6 Nov 2026)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "The equal-field land system in the north; trade and a money economy in the south.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "tradeRoutes": {
+        "value": "Silk Road trade in the north; maritime trade from the south.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "moneyAndTax": {
+        "value": "The Northern Wei equal-field system (485) set land and taxes.",
+        "year": 485,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "inequality": {
+        "value": "Aristocratic families dominated, especially in the south.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Rival monarchies; Xianbei-ruled states in the north.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "keyRulers": {
+        "value": "Emperor Xiaowen of Northern Wei (471–499), Emperor Wu of Liang (502–549).",
+        "year": 471,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "succession": {
+        "value": "Frequent coups; southern rulers were often generals.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "institutions": {
+        "value": "The equal-field system, later used by the Sui and Tang.",
+        "year": 485,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "stability": {
+        "value": "Civil war and political chaos.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern and Southern dynasties (checked 6 Nov 2026)"
+      },
+      "eliteConflict": {
+        "value": "The Hou Jing rebellion devastated the Liang (548–552).",
+        "year": 548,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Heavy cavalry, helped by the stirrup.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern and Southern dynasties (checked 6 Nov 2026)"
+      },
+      "majorWars": {
+        "value": "North–south wars; the Hou Jing rebellion.",
+        "year": 548,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "territoryChange": {
+        "value": "Sui reunified China in 589.",
+        "year": 589,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern and Southern dynasties (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "North versus south; the Rouran on the steppe.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Zu Chongzhi calculated π to seven decimals and made the Daming calendar (465).",
+        "year": 465,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern and Southern dynasties (checked 6 Nov 2026)"
+      },
+      "scienceEducation": {
+        "value": "Advances in medicine, astronomy, mathematics and cartography (Tao Hongjing, Zu Chongzhi).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern and Southern dynasties (checked 6 Nov 2026)"
+      },
+      "openness": {
+        "value": "Sinicisation of non-Han peoples in the north.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern and Southern dynasties (checked 6 Nov 2026)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Spread of Mahayana Buddhism and Daoism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern and Southern dynasties (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Chinese; Xiaowen’s reforms made Chinese the court language in the north.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "artsArchitecture": {
+        "value": "Yungang Grottoes (from 460) and Longmen Grottoes (from 493).",
+        "year": 460,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "socialStructure": {
+        "value": "Aristocrats, soldiers, peasants and monasteries.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "sharedIdentity": {
+        "value": "Rival claims to Chinese legitimacy.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Rouran, Goguryeo, Baekje, Tuyuhun.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "ideasReligions": {
+        "value": "Buddhism became a mass religion.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern and Southern dynasties (checked 6 Nov 2026)"
+      },
+      "colonisation": {
+        "value": "The south was developed.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Liu Song founded in 420; Northern Wei unified the north (439).",
+        "year": 420,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern and Southern dynasties (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "Northern Wei under Xiaowen; Liang under Emperor Wu.",
+        "year": 495,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "declineSignals": {
+        "value": "Northern Wei split (534); Hou Jing rebellion in the south.",
+        "year": 534,
+        "certainty": "estimated",
+        "source": "Lewis, China Between Empires (2009)"
+      },
+      "outcome": {
+        "value": "Emperor Wen of Sui reunified China in 589.",
+        "year": 589,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern and Southern dynasties (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Official histories. Checked against Wikipedia (“Northern and Southern dynasties”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern and Southern dynasties (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Medium. Dates for some dynasties vary between sources.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Northern and Southern dynasties (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Yungang & Longmen Grottoes",
+      "kind": "monument",
+      "year": 460,
+      "note": "Huge Buddhist cave temples carved into cliffs."
+    },
+    {
+      "label": "Zu Chongzhi’s π",
+      "kind": "idea",
+      "year": 480,
+      "note": "Calculated π accurately to seven decimal places."
+    },
+    {
+      "label": "Equal-field system",
+      "kind": "idea",
+      "year": 485,
+      "note": "Land given to farming households."
+    }
+  ]
+}

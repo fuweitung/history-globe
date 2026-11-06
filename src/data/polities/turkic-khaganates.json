@@ -1,0 +1,315 @@
+{
+  "id": "turkic-khaganates",
+  "name": "Turkic Khaganates (Göktürks)",
+  "era": "medieval",
+  "region": "Central Asia (steppe)",
+  "startYear": 552,
+  "endYear": 744,
+  "capital": "Ötüken (east); Suyab (west)",
+  "capitalCoords": [
+    102.5,
+    47.5
+  ],
+  "summary": "The first state to use the name “Türk” politically. Founded by Bumin in 552, its empire stretched from Manchuria to the Black Sea; it split in 603 and revived as the Second Turkic Khaganate (682–744).",
+  "borderNames": [
+    "Göktürks",
+    "Western Gokturk Khaganate"
+  ],
+  "borderYears": [
+    552,
+    744
+  ],
+  "color": "#3f8a8a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Mongolian Plateau and Central Asia, stretching from Manchuria to the Black Sea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Turkic Khaganate (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Steppe grasslands, mountains (Altai) and oases along the Silk Road.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, An Introduction to the History of the Turkic Peoples (1992)"
+      },
+      "climate": {
+        "value": "Cold, dry steppe.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, An Introduction to the History of the Turkic Peoples (1992)"
+      },
+      "resources": {
+        "value": "Horses and herds; iron (the Göktürks were said to be ironworkers for the Rouran).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, An Introduction to the History of the Turkic Peoples (1992)"
+      },
+      "disasters": {
+        "value": "Heavy snows and livestock losses weakened the Eastern khaganate before the Tang conquest.",
+        "year": 627,
+        "certainty": "estimated",
+        "source": "Golden, An Introduction to the History of the Turkic Peoples (1992)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 3 million (6th century).",
+        "year": 550,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Turkic Khaganate (checked 6 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "Mostly nomadic; Suyab in the west was a trading town.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, An Introduction to the History of the Turkic Peoples (1992)"
+      },
+      "disease": {
+        "value": "No specific epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, An Introduction to the History of the Turkic Peoples (1992)"
+      },
+      "migration": {
+        "value": "Turkic peoples later spread across Central Asia and into Anatolia.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, An Introduction to the History of the Turkic Peoples (1992)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Herding and taxing Silk Road trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, An Introduction to the History of the Turkic Peoples (1992)"
+      },
+      "tradeRoutes": {
+        "value": "Controlled the Silk Road; Sogdian merchants carried silk to Persia and Byzantium.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, An Introduction to the History of the Turkic Peoples (1992)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, An Introduction to the History of the Turkic Peoples (1992)"
+      },
+      "moneyAndTax": {
+        "value": "Coins with Sogdian legends; tribute from China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Turkic Khaganate (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "The Ashina royal clan ruled over subject tribes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, An Introduction to the History of the Turkic Peoples (1992)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A nomadic khaganate, with eastern and western wings under the khagan and the yabgu.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Turkic Khaganate (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Bumin Qaghan (552), Istämi (552–575, west), Tardu (599–603); later Bilge Khagan and Kül Tegin (8th century).",
+        "year": 552,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Turkic Khaganate (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Disputes among the Ashina clan led to civil war (581) and the split (603).",
+        "year": 581,
+        "certainty": "estimated",
+        "source": "Golden, An Introduction to the History of the Turkic Peoples (1992)"
+      },
+      "institutions": {
+        "value": "Titles such as khagan and yabgu; a nomadic court.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, An Introduction to the History of the Turkic Peoples (1992)"
+      },
+      "stability": {
+        "value": "Civil war from 581 and division in 603.",
+        "year": 603,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Turkic Khaganate (checked 6 Nov 2026)"
+      },
+      "eliteConflict": {
+        "value": "Rival princes split the khaganate.",
+        "year": 581,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Turkic Khaganate (checked 6 Nov 2026)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Mounted archers and armoured cavalry.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, An Introduction to the History of the Turkic Peoples (1992)"
+      },
+      "majorWars": {
+        "value": "Wars with Sui and Tang China; Tang conquered the Eastern khaganate (630) and the Western (657).",
+        "year": 630,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Turkic Khaganate (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "About 6 million km² in 557.",
+        "year": 557,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Turkic Khaganate (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Allied with Byzantium against Persia; rivals of Tang China and the Sasanians.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, An Introduction to the History of the Turkic Peoples (1992)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "The Old Turkic script was invented in the first half of the 6th century.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Turkic Khaganate (checked 6 Nov 2026)"
+      },
+      "scienceEducation": {
+        "value": "The Orkhon inscriptions (c. 732) are the oldest known texts in a Turkic language.",
+        "year": 732,
+        "certainty": "estimated",
+        "source": "Golden, An Introduction to the History of the Turkic Peoples (1992)"
+      },
+      "openness": {
+        "value": "Used Sogdian for official texts and coins.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Turkic Khaganate (checked 6 Nov 2026)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Tengrism (worship of the sky god Tengri), and some Buddhism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Turkic Khaganate (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Old Turkic (Orkhon script), Sogdian, Rouran.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Turkic Khaganate (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "Stone memorial stelae and “balbal” stone figures.",
+        "year": 732,
+        "certainty": "estimated",
+        "source": "Golden, An Introduction to the History of the Turkic Peoples (1992)"
+      },
+      "socialStructure": {
+        "value": "Royal clan, nobles (beg), herders, subject tribes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, An Introduction to the History of the Turkic Peoples (1992)"
+      },
+      "sharedIdentity": {
+        "value": "The first state to use the name “Türk” politically.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Turkic Khaganate (checked 6 Nov 2026)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "China (Sui, Tang), Sasanian Persia, Byzantium, Rouran.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, An Introduction to the History of the Turkic Peoples (1992)"
+      },
+      "ideasReligions": {
+        "value": "Turkic identity spread across Eurasia.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, An Introduction to the History of the Turkic Peoples (1992)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, An Introduction to the History of the Turkic Peoples (1992)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Bumin overthrew the Rouran in 552.",
+        "year": 552,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Turkic Khaganate (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "About 557, from Manchuria to the Black Sea.",
+        "year": 557,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Turkic Khaganate (checked 6 Nov 2026)"
+      },
+      "declineSignals": {
+        "value": "Civil war among the Ashina princes and military pressure from Sui and Tang China.",
+        "year": 581,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Turkic Khaganate (checked 6 Nov 2026); Golden, An Introduction to the History of the Turkic Peoples (1992)"
+      },
+      "outcome": {
+        "value": "The Second Turkic Khaganate (682–744) was overthrown by the Uyghur Khaganate.",
+        "year": 744,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Turkic Khaganate (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Chinese records, Byzantine envoys and the Orkhon inscriptions. Checked against Wikipedia (“First Turkic Khaganate”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Turkic Khaganate (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Medium. Dates for the split vary between sources (581 or 603).",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: First Turkic Khaganate (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Orkhon inscriptions",
+      "kind": "idea",
+      "year": 732,
+      "note": "Stone monuments with the oldest Turkic texts."
+    },
+    {
+      "label": "Old Turkic runic script",
+      "kind": "idea",
+      "year": 550,
+      "note": "An alphabet carved on stone."
+    },
+    {
+      "label": "Mounted archers",
+      "kind": "troops",
+      "note": "Steppe cavalry."
+    },
+    {
+      "label": "Balbal stone figures",
+      "kind": "art",
+      "note": "Standing stones marking enemies defeated."
+    }
+  ]
+}

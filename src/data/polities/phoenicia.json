@@ -1,0 +1,309 @@
+{
+  "id": "phoenicia",
+  "name": "Phoenicia",
+  "era": "ancient",
+  "region": "Eastern Mediterranean (Levant coast)",
+  "startYear": -2000,
+  "endYear": -64,
+  "datesApproximate": true,
+  "capital": "None; leading cities were Byblos, Sidon and Tyre",
+  "capitalCoords": [
+    35.2,
+    33.27
+  ],
+  "summary": "A group of sea-trading city-states on the coast of modern Lebanon. The Phoenicians spread the alphabet around the Mediterranean and founded colonies such as Carthage.",
+  "borderNames": [],
+  "color": "#7a3f6a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The coast of modern Lebanon and nearby Syria and Israel, with colonies across the Mediterranean.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Phoenicia (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "A narrow coastal strip between the sea and the cedar-covered Lebanon mountains.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Quinn, In Search of the Phoenicians (2018)"
+      },
+      "climate": {
+        "value": "Mediterranean.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Quinn, In Search of the Phoenicians (2018)"
+      },
+      "resources": {
+        "value": "Cedar timber, murex sea snails for purple dye, and glass sand.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Quinn, In Search of the Phoenicians (2018)"
+      },
+      "disasters": {
+        "value": "Earthquakes along the Levant coast.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Quinn, In Search of the Phoenicians (2018)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Quinn, In Search of the Phoenicians (2018)"
+      },
+      "urbanisation": {
+        "value": "Byblos, Sidon and Tyre were the leading cities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Phoenicia (checked 6 Nov 2026)"
+      },
+      "disease": {
+        "value": "No specific epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Quinn, In Search of the Phoenicians (2018)"
+      },
+      "migration": {
+        "value": "Settlers founded colonies such as Carthage (traditionally 814 BCE), Cádiz and Utica.",
+        "year": -814,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Phoenicia (checked 6 Nov 2026)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Trade, shipbuilding, navigation, industry and agriculture.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Phoenicia (checked 6 Nov 2026)"
+      },
+      "tradeRoutes": {
+        "value": "Sea routes across the Mediterranean and beyond the Strait of Gibraltar.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Quinn, In Search of the Phoenicians (2018)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Quinn, In Search of the Phoenicians (2018)"
+      },
+      "moneyAndTax": {
+        "value": "Silver by weight, later coins (from the 5th century BCE).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Quinn, In Search of the Phoenicians (2018)"
+      },
+      "inequality": {
+        "value": "Merchant elites and kings above sailors, craftsmen and slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Quinn, In Search of the Phoenicians (2018)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "City-states ruled by kings, with varying degrees of oligarchy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Phoenicia (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Abishemu I of Byblos (c. 1800 BCE), Hiram I of Tyre (969–936 BCE), Pygmalion of Tyre.",
+        "year": -969,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Phoenicia (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Hereditary kings, checked by councils of merchants.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Quinn, In Search of the Phoenicians (2018)"
+      },
+      "institutions": {
+        "value": "Councils of elders in the cities.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Quinn, In Search of the Phoenicians (2018)"
+      },
+      "stability": {
+        "value": "Independent cities, often under the control of larger empires.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Quinn, In Search of the Phoenicians (2018)"
+      },
+      "eliteConflict": {
+        "value": "Rivalry between cities such as Tyre and Sidon.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Quinn, In Search of the Phoenicians (2018)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Warships (biremes) that later formed the core of the Persian navy.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Quinn, In Search of the Phoenicians (2018)"
+      },
+      "majorWars": {
+        "value": "Sieges of Tyre by Nebuchadnezzar and Alexander the Great (332 BCE).",
+        "year": -332,
+        "certainty": "estimated",
+        "source": "Quinn, In Search of the Phoenicians (2018)"
+      },
+      "territoryChange": {
+        "value": "Came under Assyria, Babylon, Persia and the Hellenistic kingdoms; annexed by Rome in 64 BCE.",
+        "year": -64,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Phoenicia (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Traded with Egypt, Israel and Greece; rivals of the Greeks for western trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Quinn, In Search of the Phoenicians (2018)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "The earliest verified alphabet, which led to the Greek alphabet; innovations in shipbuilding and navigation.",
+        "year": -1050,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Phoenicia (checked 6 Nov 2026)"
+      },
+      "scienceEducation": {
+        "value": "Navigation by the stars (the Pole Star was called the “Phoenician star”).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Quinn, In Search of the Phoenicians (2018)"
+      },
+      "openness": {
+        "value": "Traders who carried ideas between cultures.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Quinn, In Search of the Phoenicians (2018)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Canaanite religion (Baal, Astarte, Melqart).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Phoenicia (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Phoenician, a Semitic language; thousands of inscriptions survive.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Phoenicia (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "Carved ivories, glassware and metal bowls.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Quinn, In Search of the Phoenicians (2018)"
+      },
+      "socialStructure": {
+        "value": "Kings, merchants, craftsmen, sailors, slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Quinn, In Search of the Phoenicians (2018)"
+      },
+      "sharedIdentity": {
+        "value": "“Phoenicia” is a Greek name; they called themselves by their city or as Canaanites.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Phoenicia (checked 6 Nov 2026)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Egypt, Israel, Assyria, Persia, Greece.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Phoenicia (checked 6 Nov 2026)"
+      },
+      "ideasReligions": {
+        "value": "Spread the alphabet throughout the Mediterranean.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Phoenicia (checked 6 Nov 2026)"
+      },
+      "colonisation": {
+        "value": "Founded colonies across the Mediterranean, including Carthage.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Phoenicia (checked 6 Nov 2026)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "After the Bronze Age collapse (c. 1200 BCE) its cities became leading traders.",
+        "year": -1200,
+        "certainty": "estimated",
+        "source": "Quinn, In Search of the Phoenicians (2018)"
+      },
+      "peakPeriod": {
+        "value": "Flourished most in the 9th century BCE.",
+        "year": -850,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Phoenicia (checked 6 Nov 2026)"
+      },
+      "declineSignals": {
+        "value": "Declined under the Neo-Assyrian and Achaemenid empires.",
+        "year": -700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Phoenicia (checked 6 Nov 2026)"
+      },
+      "outcome": {
+        "value": "Annexed by Rome in 64 BCE; Carthage carried on its culture until 146 BCE.",
+        "year": -64,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Phoenicia (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Inscriptions, Greek and Hebrew texts, archaeology. Checked against Wikipedia (“Phoenicia”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Phoenicia (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Medium. Modern scholars debate where Canaanite ends and Phoenician begins.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Phoenicia (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "The alphabet",
+      "kind": "idea",
+      "year": -1050,
+      "note": "The ancestor of the Greek, Latin, Hebrew and Arabic alphabets."
+    },
+    {
+      "label": "Tyrian purple",
+      "kind": "textile",
+      "note": "A costly dye made from murex snails, worn by royalty."
+    },
+    {
+      "label": "Bireme warships",
+      "kind": "tool",
+      "year": -700,
+      "note": "Galleys with two banks of oars."
+    },
+    {
+      "label": "Cedars of Lebanon",
+      "kind": "tool",
+      "note": "Timber exported for ships and temples."
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "id": "moche",
+  "name": "Moche",
+  "era": "ancient",
+  "region": "South America (Peru coast)",
+  "startYear": 100,
+  "endYear": 800,
+  "datesApproximate": true,
+  "capital": "Moche (Huacas del Sol y de la Luna)",
+  "capitalCoords": [
+    -78.99,
+    -8.13
+  ],
+  "summary": "A culture of Peru’s north coast famous for its realistic portrait pottery, gold work and huge adobe pyramids. The rich tomb of the Lord of Sipán was found in 1987.",
+  "borderNames": [
+    "Moche"
+  ],
+  "borderYears": [
+    100,
+    800
+  ],
+  "color": "#b0704a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "River valleys of Peru’s north coast (modern La Libertad and Lambayeque).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moche culture (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Desert coast crossed by rivers from the Andes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      },
+      "climate": {
+        "value": "Very dry, but hit by severe El Niño floods and droughts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      },
+      "resources": {
+        "value": "Irrigated farmland, fish and seabird guano as fertiliser.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      },
+      "disasters": {
+        "value": "Severe El Niño events and drought around the 6th century may have weakened the Moche.",
+        "year": 600,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      },
+      "urbanisation": {
+        "value": "The southern capital was near present-day Moche, Trujillo, with the Huacas del Sol y de la Luna.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moche culture (checked 6 Nov 2026)"
+      },
+      "disease": {
+        "value": "No specific epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      },
+      "migration": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Irrigation farming (maize, beans, squash, cotton) and fishing.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      },
+      "tradeRoutes": {
+        "value": "Exchange with highland peoples for wool and metals.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      },
+      "moneyAndTax": {
+        "value": "No coinage; labour for building pyramids was organised in teams.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      },
+      "inequality": {
+        "value": "Lords buried with rich gold, silver and shell goods; commoners in simple graves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Culturally united but politically independent polities, not one empire.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moche culture (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "No names survive; the Lord of Sipán (c. 250 CE) is known from his tomb.",
+        "year": 250,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      },
+      "succession": {
+        "value": "Unknown, probably hereditary elites.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      },
+      "institutions": {
+        "value": "Large irrigation systems and organised labour.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      },
+      "stability": {
+        "value": "Regional polities rose and fell.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      },
+      "eliteConflict": {
+        "value": "Ritual combat scenes appear on pottery.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Warriors with clubs and shields shown on pottery.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      },
+      "majorWars": {
+        "value": "No specific wars are known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      },
+      "territoryChange": {
+        "value": "Influence spread along about 250 miles of coast.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      },
+      "alliancesRivals": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Advanced metalworking, including gilding copper.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      },
+      "scienceEducation": {
+        "value": "No writing; possible symbolic marks on beans are debated.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      },
+      "openness": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Polytheist; scenes show sacrifice ceremonies.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moche culture (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Unknown, probably Mochica; no writing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moche culture (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "Rich iconography and monumental architecture: portrait vessels, murals and adobe pyramids.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moche culture (checked 6 Nov 2026)"
+      },
+      "socialStructure": {
+        "value": "Lords, priests, craftsmen, farmers and fishers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      },
+      "sharedIdentity": {
+        "value": "Shared art and religion.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Nazca, Recuay, Wari.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      },
+      "ideasReligions": {
+        "value": "Influenced later Sicán and Chimú cultures.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Emerged around 100 CE.",
+        "year": 100,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moche culture (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "About 300–600 CE.",
+        "year": 400,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      },
+      "declineSignals": {
+        "value": "Climate disasters and possibly unrest.",
+        "year": 600,
+        "certainty": "estimated",
+        "source": "Bawden, The Moche (1996)"
+      },
+      "outcome": {
+        "value": "Ended about 800; succeeded by the Wari and Sicán cultures.",
+        "year": 800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moche culture (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Archaeology. Checked against Wikipedia (“Moche culture”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moche culture (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Low to medium. With no writing, much is inferred from art.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Moche culture (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Portrait vessels",
+      "kind": "art",
+      "year": 400,
+      "note": "Realistic clay portraits of individuals."
+    },
+    {
+      "label": "Lord of Sipán tomb",
+      "kind": "monument",
+      "year": 250,
+      "note": "A richly furnished royal tomb found in 1987."
+    },
+    {
+      "label": "Huaca del Sol",
+      "kind": "monument",
+      "year": 450,
+      "note": "One of the largest adobe structures in the Americas."
+    }
+  ]
+}

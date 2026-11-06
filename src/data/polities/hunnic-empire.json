@@ -1,0 +1,310 @@
+{
+  "id": "hunnic-empire",
+  "name": "Hunnic Empire",
+  "era": "ancient",
+  "region": "Central & Eastern Europe (steppe)",
+  "startYear": 370,
+  "endYear": 469,
+  "datesApproximate": true,
+  "capital": "Attila’s court (in the Hungarian plain)",
+  "capitalCoords": [
+    20.2,
+    46.9
+  ],
+  "summary": "A nomadic confederation that arrived on the Volga around 370 and built a vast but short-lived empire. Under Attila it threatened both halves of the Roman Empire.",
+  "borderNames": [
+    "Hunnic Empire"
+  ],
+  "borderYears": [
+    370,
+    469
+  ],
+  "color": "#6a5a3a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Pontic steppe and later the Hungarian plain, ruling peoples from the Volga to the Rhine.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Huns (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Grassland steppe and river plains (the Danube and Tisza).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kim, The Huns (2016)"
+      },
+      "climate": {
+        "value": "Continental steppe climate; drought on the steppe is one suggested reason for their move west.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kim, The Huns (2016)"
+      },
+      "resources": {
+        "value": "Pasture for horses and herds; gold from Roman tribute.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kim, The Huns (2016)"
+      },
+      "disasters": {
+        "value": "No specific disasters are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kim, The Huns (2016)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kim, The Huns (2016)"
+      },
+      "urbanisation": {
+        "value": "No cities; Attila held court in a wooden palace compound.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kim, The Huns (2016)"
+      },
+      "disease": {
+        "value": "Disease in the Hunnic army is one reason given for its withdrawal from Italy in 452.",
+        "year": 452,
+        "certainty": "estimated",
+        "source": "Kim, The Huns (2016)"
+      },
+      "migration": {
+        "value": "Arrived on the Volga by 370, pushing Goths and others into the Roman Empire.",
+        "year": 370,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Huns (checked 6 Nov 2026)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Nomadic herding, increasingly tied to Rome through tribute, raiding and trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Huns (checked 6 Nov 2026)"
+      },
+      "tradeRoutes": {
+        "value": "Markets on the Roman frontier on the Danube.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kim, The Huns (2016)"
+      },
+      "wealth": {
+        "value": "No estimate is possible; Rome paid hundreds of pounds of gold in tribute.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kim, The Huns (2016)"
+      },
+      "moneyAndTax": {
+        "value": "Wealth in Roman gold coins and tribute from subject peoples.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kim, The Huns (2016)"
+      },
+      "inequality": {
+        "value": "A Hunnic aristocracy ruled over many subject peoples (Goths, Gepids, Alans).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kim, The Huns (2016)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A tribal confederation that developed a unified leadership through wars with Rome.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Huns (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Uldin, Rugila (430–435), Attila and Bleda (435–445), Attila alone (445–453), Dengizich and Ernak.",
+        "year": 445,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Huns (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Shared between brothers and sons; quarrels after Attila’s death broke the empire.",
+        "year": 453,
+        "certainty": "estimated",
+        "source": "Kim, The Huns (2016)"
+      },
+      "institutions": {
+        "value": "Little is known; Attila used Roman secretaries for diplomacy.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kim, The Huns (2016)"
+      },
+      "stability": {
+        "value": "Collapsed after defeat at the Battle of Nedao (c. 454).",
+        "year": 454,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Huns (checked 6 Nov 2026)"
+      },
+      "eliteConflict": {
+        "value": "Attila’s sons fought over the succession.",
+        "year": 453,
+        "certainty": "estimated",
+        "source": "Kim, The Huns (2016)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Mounted archery was their main method of warfare.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Huns (checked 6 Nov 2026)"
+      },
+      "majorWars": {
+        "value": "Invasion of Gaul and the Battle of the Catalaunian Plains (451); invasion of Italy (452).",
+        "year": 451,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Huns (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "About 4 million km² in 441.",
+        "year": 441,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Huns (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: the Western and Eastern Roman Empires and the Visigoths.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kim, The Huns (2016)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "The powerful composite reflex bow.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kim, The Huns (2016)"
+      },
+      "scienceEducation": {
+        "value": "No writing of their own is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kim, The Huns (2016)"
+      },
+      "openness": {
+        "value": "Used Gothic and Latin at court; welcomed Roman defectors.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kim, The Huns (2016)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Little is known; divination and likely shamans are attested.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Huns (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "The Hunnic language is known only from three words and personal names.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Huns (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "Bronze cauldrons and gold jewellery; the practice of artificial skull shaping.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Huns (checked 6 Nov 2026)"
+      },
+      "socialStructure": {
+        "value": "Hunnic nobles, warriors and subject peoples.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kim, The Huns (2016)"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruling family of Attila.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kim, The Huns (2016)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "The Roman Empire, Goths, Alans, Sasanian Persia.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kim, The Huns (2016)"
+      },
+      "ideasReligions": {
+        "value": "Their westward movement helped trigger the Migration Period in Europe.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kim, The Huns (2016)"
+      },
+      "colonisation": {
+        "value": "Ruled subject peoples rather than founding colonies.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kim, The Huns (2016)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "By 430 they had built a vast empire on the Danube.",
+        "year": 430,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Huns (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "Under Attila (445–453).",
+        "year": 445,
+        "certainty": "estimated",
+        "source": "Kim, The Huns (2016)"
+      },
+      "declineSignals": {
+        "value": "Attila’s death in 453 and quarrels among his sons.",
+        "year": 453,
+        "certainty": "estimated",
+        "source": "Kim, The Huns (2016)"
+      },
+      "outcome": {
+        "value": "Defeated at Nedao (c. 454); the last ruler Dengizich died in 469.",
+        "year": 469,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Huns (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Roman and Greek writers such as Priscus and Ammianus. Checked against Wikipedia (“Huns”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Huns (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Low to medium. Their origin and any link to the Xiongnu remain controversial.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Huns (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Mounted archers",
+      "kind": "troops",
+      "year": 451,
+      "note": "Horse archers with powerful composite bows."
+    },
+    {
+      "label": "Attila",
+      "kind": "person",
+      "year": 445,
+      "note": "The most famous Hun ruler, called the “Scourge of God” by Romans."
+    },
+    {
+      "label": "Hunnic bronze cauldrons",
+      "kind": "art",
+      "note": "Large bronze cauldrons found across the steppe."
+    }
+  ]
+}
