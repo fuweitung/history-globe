@@ -1,0 +1,320 @@
+{
+  "id": "niger",
+  "name": "Niger",
+  "era": "modern",
+  "region": "West Africa",
+  "startYear": 1960,
+  "endYear": null,
+  "capital": "Niamey",
+  "capitalCoords": [
+    2.11,
+    13.51
+  ],
+  "summary": "Independent from France in 1960; a Sahel country with one of the world’s fastest-growing populations, rich in uranium.",
+  "wikiTitle": "Niger",
+  "borderNames": [
+    "Niger"
+  ],
+  "borderYears": [
+    1960,
+    null
+  ],
+  "color": "#e07a2a",
+  "knownFor": [
+    {
+      "label": "Agadez mosque",
+      "kind": "monument",
+      "note": "Tall mud minaret."
+    },
+    {
+      "label": "Uranium",
+      "kind": "tool",
+      "note": "A major export."
+    },
+    {
+      "label": "Gerewol festival",
+      "kind": "art",
+      "note": "Wodaabe festival."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "West Africa, landlocked; about 1.27 million km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "terrain": {
+        "value": "Mostly Sahara; the Niger River in the south-west.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "climate": {
+        "value": "Very hot and dry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "resources": {
+        "value": "Uranium, oil, livestock.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "disasters": {
+        "value": "Droughts and floods.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 27 million, growing very fast.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "urbanisation": {
+        "value": "Niamey.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "disease": {
+        "value": "Malaria; malnutrition.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "migration": {
+        "value": "A route for migrants crossing the Sahara.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, herding, uranium.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "tradeRoutes": {
+        "value": "Through Benin and Nigeria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "wealth": {
+        "value": "One of the poorest countries.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "moneyAndTax": {
+        "value": "The West African CFA franc, shared with neighbours and pegged to the euro.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Niger"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A republic under military rule since 2023.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "keyRulers": {
+        "value": "Hamani Diori. Mamadou Tandja. Mohamed Bazoum.",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "succession": {
+        "value": "Coups in 1974, 1996, 1999, 2010 and 2023.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "institutions": {
+        "value": "Weak.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "stability": {
+        "value": "Jihadist violence.",
+        "year": 2015,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Niger"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Armed forces.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "majorWars": {
+        "value": "Jihadist insurgency.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "territoryChange": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "alliancesRivals": {
+        "value": "Turned from France toward Russia after 2023.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Niger"
+      },
+      "scienceEducation": {
+        "value": "Low literacy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Niger"
+      },
+      "communicationTransport": {
+        "value": "Roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Muslim.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "languageWriting": {
+        "value": "Hausa, Zarma and others.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "artsArchitecture": {
+        "value": "Tuareg silverwork.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "socialStructure": {
+        "value": "Hausa, Zarma, Tuareg, Fula.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "sharedIdentity": {
+        "value": "National identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "dailyLife": {
+        "value": "Mud houses; millet.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Algeria, Libya, Chad, Nigeria, Benin, Burkina Faso, Mali.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "ideasReligions": {
+        "value": "Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "colonisation": {
+        "value": "A French colony (part of French West Africa) until 1960.",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1960).",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Niger"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Niger"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Niger.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Niger"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Niger"
+      }
+    }
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "id": "guinea",
+  "name": "Guinea",
+  "era": "modern",
+  "region": "West Africa",
+  "startYear": 1958,
+  "endYear": null,
+  "capital": "Conakry",
+  "capitalCoords": [
+    -13.68,
+    9.64
+  ],
+  "summary": "The first French African colony to reject France’s offer of continued ties (1958); later ruled by Sékou Touré and military governments; rich in bauxite.",
+  "wikiTitle": "Guinea",
+  "borderNames": [
+    "Guinea"
+  ],
+  "borderYears": [
+    1958,
+    null
+  ],
+  "color": "#c03a3a",
+  "knownFor": [
+    {
+      "label": "Bauxite",
+      "kind": "tool",
+      "note": "Among the world’s largest reserves."
+    },
+    {
+      "label": "Ahmed Sékou Touré",
+      "kind": "person",
+      "year": 1958,
+      "note": "First president."
+    },
+    {
+      "label": "Fouta Djallon",
+      "kind": "monument",
+      "note": "Highlands where major rivers begin."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "West Africa on the Atlantic; about 246,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "terrain": {
+        "value": "Coast, highlands (Fouta Djallon), savanna, forest.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "resources": {
+        "value": "Bauxite, iron ore, gold.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "disasters": {
+        "value": "Floods.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 14 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "urbanisation": {
+        "value": "Conakry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "disease": {
+        "value": "Ebola epidemic (2014–16).",
+        "year": 2014,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "migration": {
+        "value": "Refugees from neighbouring wars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Mining and farming.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "tradeRoutes": {
+        "value": "Bauxite exports.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "wealth": {
+        "value": "A low-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "moneyAndTax": {
+        "value": "The Guinean franc.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Guinea"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A republic, often under military rule.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "keyRulers": {
+        "value": "Ahmed Sékou Touré (1958–84). Lansana Conté. Alpha Condé.",
+        "year": 1958,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "succession": {
+        "value": "Coups in 1984, 2008 and 2021.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "institutions": {
+        "value": "Weak institutions.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "stability": {
+        "value": "Repression under Touré (Camp Boiro prison).",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Guinea"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Armed forces.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "majorWars": {
+        "value": "Spillover from wars in Liberia and Sierra Leone.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "territoryChange": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "alliancesRivals": {
+        "value": "Close to the Soviet bloc in the 1960s.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Guinea"
+      },
+      "scienceEducation": {
+        "value": "Low literacy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Guinea"
+      },
+      "communicationTransport": {
+        "value": "Roads and mining railways.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Muslim.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "languageWriting": {
+        "value": "French; Fula, Mandinka, Susu.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "artsArchitecture": {
+        "value": "Music (Bembeya Jazz).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "socialStructure": {
+        "value": "Fula, Mandinka and Susu peoples.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "sharedIdentity": {
+        "value": "National identity alongside ethnic ones.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "dailyLife": {
+        "value": "Houses; rice, cassava.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Senegal, Mali, Ivory Coast, Liberia, Sierra Leone, Guinea-Bissau.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "ideasReligions": {
+        "value": "African socialism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "colonisation": {
+        "value": "A French colony (part of French West Africa) until 1958.",
+        "year": 1958,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Voted “no” to the French Community (1958).",
+        "year": 1958,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Guinea"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Guinea"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Guinea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guinea"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Guinea"
+      }
+    }
+  }
+}

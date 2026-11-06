@@ -2153,5 +2153,278 @@
     "relation": "traded_with",
     "year": 1993,
     "note": "Andorra lies between Spain and France."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "ghana",
+    "relation": "colonised",
+    "year": 1957,
+    "note": "The Gold Coast became Ghana."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "senegal",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "French colony until 1960."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "ivory-coast",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "French colony until 1960."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "guinea",
+    "relation": "colonised",
+    "year": 1958,
+    "note": "French colony until 1958."
+  },
+  {
+    "fromPolityId": "mali-empire",
+    "toPolityId": "mali-modern",
+    "relation": "succeeded",
+    "year": 1960,
+    "note": "Modern Mali took its name from the medieval empire."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "mali-modern",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "French Sudan until 1960."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "burkina-faso",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "Upper Volta until 1960."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "niger",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "French colony until 1960."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "benin",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "Dahomey until 1960."
+  },
+  {
+    "fromPolityId": "kingdom-of-benin",
+    "toPolityId": "benin",
+    "relation": "succeeded",
+    "year": 1897,
+    "note": "Modern Benin is named after the old kingdom, though the kingdom lay in today’s Nigeria."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "togo",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "French mandate until 1960."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "sierra-leone",
+    "relation": "colonised",
+    "year": 1961,
+    "note": "British colony until 1961."
+  },
+  {
+    "fromPolityId": "united-states",
+    "toPolityId": "liberia",
+    "relation": "traded_with",
+    "year": 1847,
+    "note": "Founded by the American Colonization Society."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "gambia",
+    "relation": "colonised",
+    "year": 1965,
+    "note": "British colony until 1965."
+  },
+  {
+    "fromPolityId": "portuguese-empire",
+    "toPolityId": "guinea-bissau",
+    "relation": "colonised",
+    "year": 1974,
+    "note": "Portuguese colony until 1974."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "mauritania",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "French colony until 1960."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "cameroon",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "French mandate until 1960."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "central-african-republic",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "Ubangi-Shari until 1960."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "chad",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "French colony until 1960."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "republic-of-congo",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "French Congo until 1960."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "gabon",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "French colony until 1960."
+  },
+  {
+    "fromPolityId": "spain-modern",
+    "toPolityId": "equatorial-guinea",
+    "relation": "colonised",
+    "year": 1968,
+    "note": "Spanish colony until 1968."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "kenya",
+    "relation": "colonised",
+    "year": 1963,
+    "note": "British colony until 1963."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "uganda",
+    "relation": "colonised",
+    "year": 1962,
+    "note": "British protectorate until 1962."
+  },
+  {
+    "fromPolityId": "rwanda",
+    "toPolityId": "burundi",
+    "relation": "traded_with",
+    "year": 1962,
+    "note": "Both were ruled together by Belgium as Ruanda-Urundi."
+  },
+  {
+    "fromPolityId": "ethiopian-empire",
+    "toPolityId": "ethiopia-modern",
+    "relation": "succeeded",
+    "year": 1974,
+    "note": "The monarchy was overthrown."
+  },
+  {
+    "fromPolityId": "italy",
+    "toPolityId": "somalia",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "Italian and British Somaliland united in 1960."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "djibouti",
+    "relation": "colonised",
+    "year": 1977,
+    "note": "French Somaliland until 1977."
+  },
+  {
+    "fromPolityId": "hafsid-sultanate",
+    "toPolityId": "tunisia",
+    "relation": "succeeded",
+    "year": 1574,
+    "note": "Earlier rulers of Tunis."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "zambia",
+    "relation": "colonised",
+    "year": 1964,
+    "note": "Northern Rhodesia until 1964."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "zimbabwe",
+    "relation": "colonised",
+    "year": 1965,
+    "note": "Southern Rhodesia."
+  },
+  {
+    "fromPolityId": "great-zimbabwe",
+    "toPolityId": "zimbabwe",
+    "relation": "succeeded",
+    "year": 1980,
+    "note": "Zimbabwe is named after the old stone city."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "malawi",
+    "relation": "colonised",
+    "year": 1964,
+    "note": "Nyasaland until 1964."
+  },
+  {
+    "fromPolityId": "portuguese-empire",
+    "toPolityId": "mozambique",
+    "relation": "colonised",
+    "year": 1975,
+    "note": "Portuguese colony until 1975."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "botswana",
+    "relation": "colonised",
+    "year": 1966,
+    "note": "Bechuanaland until 1966."
+  },
+  {
+    "fromPolityId": "south-africa",
+    "toPolityId": "namibia",
+    "relation": "colonised",
+    "year": 1990,
+    "note": "Ruled by South Africa until 1990."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "lesotho",
+    "relation": "colonised",
+    "year": 1966,
+    "note": "Basutoland until 1966."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "eswatini",
+    "relation": "colonised",
+    "year": 1968,
+    "note": "British protectorate until 1968."
+  },
+  {
+    "fromPolityId": "ethiopia-modern",
+    "toPolityId": "eritrea",
+    "relation": "succeeded",
+    "year": 1993,
+    "note": "Eritrea became independent from Ethiopia."
   }
 ]

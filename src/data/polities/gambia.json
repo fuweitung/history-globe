@@ -1,0 +1,321 @@
+{
+  "id": "gambia",
+  "name": "The Gambia",
+  "era": "modern",
+  "region": "West Africa",
+  "startYear": 1965,
+  "endYear": null,
+  "capital": "Banjul",
+  "capitalCoords": [
+    -16.58,
+    13.45
+  ],
+  "summary": "Mainland Africa’s smallest country, a strip along the Gambia River, independent from Britain in 1965.",
+  "wikiTitle": "The Gambia",
+  "borderNames": [
+    "Gambia, The",
+    "Gambia"
+  ],
+  "borderYears": [
+    1965,
+    null
+  ],
+  "color": "#3a8a4a",
+  "knownFor": [
+    {
+      "label": "Kunta Kinteh Island",
+      "kind": "monument",
+      "note": "Linked to the slave trade."
+    },
+    {
+      "label": "Kora",
+      "kind": "art",
+      "note": "21-string harp."
+    },
+    {
+      "label": "Groundnuts",
+      "kind": "food",
+      "note": "Main crop."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "A narrow strip along the Gambia River, surrounded by Senegal.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "terrain": {
+        "value": "Flat river valley.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "resources": {
+        "value": "Groundnuts, fish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "disasters": {
+        "value": "Droughts and floods.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 2.7 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "urbanisation": {
+        "value": "Banjul and Serekunda.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "disease": {
+        "value": "Malaria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "migration": {
+        "value": "Emigration to Europe.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Groundnuts, tourism, remittances.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "tradeRoutes": {
+        "value": "River and port.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "wealth": {
+        "value": "A low-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "moneyAndTax": {
+        "value": "The dalasi.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: The Gambia"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A presidential republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "keyRulers": {
+        "value": "Dawda Jawara. Yahya Jammeh. Adama Barrow.",
+        "year": 1965,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "succession": {
+        "value": "Coup (1994); Jammeh left power in 2017.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "institutions": {
+        "value": "National Assembly.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "stability": {
+        "value": "Jammeh’s rule (1994–2017).",
+        "year": 1994,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: The Gambia"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Small army.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "majorWars": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "territoryChange": {
+        "value": "Senegambia Confederation (1982–89).",
+        "year": 1982,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "alliancesRivals": {
+        "value": "Close to Senegal.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: The Gambia"
+      },
+      "scienceEducation": {
+        "value": "University of The Gambia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: The Gambia"
+      },
+      "communicationTransport": {
+        "value": "River ferries.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Muslim.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "languageWriting": {
+        "value": "English; Mandinka, Wolof.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "artsArchitecture": {
+        "value": "Griot music.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "socialStructure": {
+        "value": "Mandinka, Fula, Wolof.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "sharedIdentity": {
+        "value": "National identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "dailyLife": {
+        "value": "Houses; rice, groundnut stew.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Senegal.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "ideasReligions": {
+        "value": "Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "colonisation": {
+        "value": "A British colony until 1965.",
+        "year": 1821,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1965).",
+        "year": 1965,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: The Gambia"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: The Gambia"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: The Gambia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: The Gambia"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: The Gambia"
+      }
+    }
+  }
+}

@@ -5101,7 +5101,8 @@
     "title": "Ghana’s independence",
     "description": "Ghana becomes one of the first sub-Saharan African colonies to win independence, under Kwame Nkrumah.",
     "relatedPolityIds": [
-      "british-empire"
+      "british-empire",
+      "ghana"
     ],
     "source": "Wikipedia: Ghana"
   },
@@ -5128,7 +5129,22 @@
     "description": "17 African colonies become independent in a single year: 14 from France, 2 from Britain and 1 from Belgium.",
     "relatedPolityIds": [
       "french-colonial-empire",
-      "british-empire"
+      "british-empire",
+      "senegal",
+      "ivory-coast",
+      "mali-modern",
+      "burkina-faso",
+      "niger",
+      "benin",
+      "togo",
+      "mauritania",
+      "cameroon",
+      "central-african-republic",
+      "chad",
+      "republic-of-congo",
+      "gabon",
+      "nigeria",
+      "somalia"
     ],
     "source": "Wikipedia: Year of Africa (checked 6 Nov 2026)"
   },
@@ -5518,7 +5534,9 @@
     "type": "war",
     "title": "Rwandan genocide",
     "description": "Between April and July 1994, Hutu extremists kill an estimated 500,000–662,000 Tutsi, as well as Twa and moderate Hutu.",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "rwanda"
+    ],
     "source": "Wikipedia: Rwandan genocide (checked 6 Nov 2026)"
   },
   {
@@ -5650,7 +5668,9 @@
     "type": "person",
     "title": "Arab Spring",
     "description": "Protests beginning in Tunisia spread across the Arab world, toppling several governments and leading to civil wars in Syria, Libya and Yemen.",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "tunisia"
+    ],
     "source": "Wikipedia: Arab Spring"
   },
   {
@@ -8378,5 +8398,485 @@
       "malta"
     ],
     "source": "Wikipedia: Malta"
+  },
+  {
+    "id": "guinea-says-no",
+    "year": 1958,
+    "lat": 9.64,
+    "lng": -13.68,
+    "type": "culture",
+    "title": "Guinea votes “no” to France",
+    "description": "Guinea rejects the French Community and becomes independent at once.",
+    "relatedPolityIds": [
+      "guinea"
+    ],
+    "source": "Wikipedia: Guinea"
+  },
+  {
+    "id": "mali-conflict-2012",
+    "year": 2012,
+    "lat": 16.77,
+    "lng": -3,
+    "type": "war",
+    "title": "Mali crisis",
+    "description": "A Tuareg rebellion and jihadist groups seize northern Mali; French troops intervene in 2013.",
+    "relatedPolityIds": [
+      "mali-modern"
+    ],
+    "source": "Wikipedia: Mali War"
+  },
+  {
+    "id": "sankara-revolution",
+    "year": 1983,
+    "lat": 12.37,
+    "lng": -1.53,
+    "type": "culture",
+    "title": "Thomas Sankara takes power",
+    "description": "Sankara launches reforms and renames Upper Volta “Burkina Faso” (1984).",
+    "relatedPolityIds": [
+      "burkina-faso"
+    ],
+    "source": "Wikipedia: Thomas Sankara"
+  },
+  {
+    "id": "niger-coup-2023",
+    "year": 2023,
+    "lat": 13.51,
+    "lng": 2.11,
+    "type": "war",
+    "title": "Coup in Niger",
+    "description": "The army removes the elected president; Niger turns away from France.",
+    "relatedPolityIds": [
+      "niger"
+    ],
+    "source": "Wikipedia: 2023 Nigerien coup d’état"
+  },
+  {
+    "id": "benin-national-conference",
+    "year": 1990,
+    "lat": 6.5,
+    "lng": 2.63,
+    "type": "culture",
+    "title": "Benin’s National Conference",
+    "description": "A national conference peacefully ends military-Marxist rule; free elections follow in 1991.",
+    "relatedPolityIds": [
+      "benin"
+    ],
+    "source": "Wikipedia: Benin"
+  },
+  {
+    "id": "olympio-assassinated",
+    "year": 1963,
+    "lat": 6.13,
+    "lng": 1.22,
+    "type": "war",
+    "title": "Togo’s president assassinated",
+    "description": "Sylvanus Olympio is killed in Africa’s first post-independence coup.",
+    "relatedPolityIds": [
+      "togo"
+    ],
+    "source": "Wikipedia: Sylvanus Olympio"
+  },
+  {
+    "id": "sierra-leone-civil-war",
+    "year": 1991,
+    "lat": 8.48,
+    "lng": -13.23,
+    "type": "war",
+    "title": "Sierra Leone Civil War",
+    "description": "A brutal war (1991–2002) fuelled by diamonds.",
+    "relatedPolityIds": [
+      "sierra-leone"
+    ],
+    "source": "Wikipedia: Sierra Leone Civil War"
+  },
+  {
+    "id": "liberia-independence",
+    "year": 1847,
+    "lat": 6.3,
+    "lng": -10.8,
+    "type": "culture",
+    "title": "Liberia declares independence",
+    "description": "Liberia becomes Africa’s first independent republic.",
+    "relatedPolityIds": [
+      "liberia"
+    ],
+    "source": "Wikipedia: Liberia"
+  },
+  {
+    "id": "sirleaf-elected",
+    "year": 2006,
+    "lat": 6.3,
+    "lng": -10.8,
+    "type": "culture",
+    "title": "Ellen Johnson Sirleaf becomes president",
+    "description": "Africa’s first elected woman head of state.",
+    "relatedPolityIds": [
+      "liberia"
+    ],
+    "source": "Wikipedia: Ellen Johnson Sirleaf"
+  },
+  {
+    "id": "ebola-west-africa",
+    "year": 2014,
+    "lat": 8.5,
+    "lng": -11.5,
+    "type": "disaster",
+    "title": "West African Ebola epidemic",
+    "description": "Ebola kills over 11,000 people in Guinea, Liberia and Sierra Leone (2014–16).",
+    "relatedPolityIds": [
+      "guinea",
+      "liberia",
+      "sierra-leone"
+    ],
+    "source": "Wikipedia: Western African Ebola epidemic"
+  },
+  {
+    "id": "gambia-independence",
+    "year": 1965,
+    "lat": 13.45,
+    "lng": -16.58,
+    "type": "culture",
+    "title": "The Gambia becomes independent",
+    "description": "The Gambia gains independence from Britain.",
+    "relatedPolityIds": [
+      "gambia"
+    ],
+    "source": "Wikipedia: The Gambia"
+  },
+  {
+    "id": "guinea-bissau-independence",
+    "year": 1973,
+    "lat": 11.86,
+    "lng": -15.6,
+    "type": "war",
+    "title": "Guinea-Bissau declares independence",
+    "description": "PAIGC fighters declare independence; Portugal recognises it in 1974.",
+    "relatedPolityIds": [
+      "guinea-bissau",
+      "portuguese-empire"
+    ],
+    "source": "Wikipedia: Guinea-Bissau War of Independence"
+  },
+  {
+    "id": "mauritania-abolition",
+    "year": 1981,
+    "lat": 18.09,
+    "lng": -15.98,
+    "type": "culture",
+    "title": "Mauritania abolishes slavery",
+    "description": "The last country to abolish slavery by law; it became a crime in 2007.",
+    "relatedPolityIds": [
+      "mauritania"
+    ],
+    "source": "Wikipedia: Slavery in Mauritania"
+  },
+  {
+    "id": "lake-nyos",
+    "year": 1986,
+    "lat": 6.44,
+    "lng": 10.3,
+    "type": "disaster",
+    "title": "Lake Nyos disaster",
+    "description": "A cloud of carbon dioxide from the lake suffocates about 1,700 people.",
+    "relatedPolityIds": [
+      "cameroon"
+    ],
+    "source": "Wikipedia: Lake Nyos disaster"
+  },
+  {
+    "id": "bokassa-coronation",
+    "year": 1977,
+    "lat": 4.39,
+    "lng": 18.56,
+    "type": "culture",
+    "title": "Bokassa crowns himself emperor",
+    "description": "Jean-Bédel Bokassa holds a lavish coronation.",
+    "relatedPolityIds": [
+      "central-african-republic"
+    ],
+    "source": "Wikipedia: Central African Empire"
+  },
+  {
+    "id": "chad-libya-war",
+    "year": 1978,
+    "lat": 17,
+    "lng": 19,
+    "type": "war",
+    "title": "Chadian–Libyan War",
+    "description": "Chad defeats Libyan forces by 1987 in the “Toyota War”.",
+    "relatedPolityIds": [
+      "chad",
+      "libya"
+    ],
+    "source": "Wikipedia: Chadian–Libyan war"
+  },
+  {
+    "id": "equatorial-guinea-independence",
+    "year": 1968,
+    "lat": 3.75,
+    "lng": 8.78,
+    "type": "culture",
+    "title": "Equatorial Guinea becomes independent",
+    "description": "Independence from Spain; a brutal dictatorship follows.",
+    "relatedPolityIds": [
+      "equatorial-guinea"
+    ],
+    "source": "Wikipedia: Equatorial Guinea"
+  },
+  {
+    "id": "mau-mau-uprising",
+    "year": 1952,
+    "lat": -0.42,
+    "lng": 36.95,
+    "type": "war",
+    "title": "Mau Mau uprising",
+    "description": "An armed rebellion against British rule in Kenya (1952–60).",
+    "relatedPolityIds": [
+      "kenya",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Mau Mau rebellion"
+  },
+  {
+    "id": "kenya-independence",
+    "year": 1963,
+    "lat": -1.29,
+    "lng": 36.82,
+    "type": "culture",
+    "title": "Kenya becomes independent",
+    "description": "Jomo Kenyatta leads Kenya to independence.",
+    "relatedPolityIds": [
+      "kenya"
+    ],
+    "source": "Wikipedia: Kenya"
+  },
+  {
+    "id": "idi-amin-coup",
+    "year": 1971,
+    "lat": 0.35,
+    "lng": 32.58,
+    "type": "war",
+    "title": "Idi Amin seizes power",
+    "description": "Amin’s rule (1971–79) kills an estimated 100,000–500,000 people.",
+    "relatedPolityIds": [
+      "uganda"
+    ],
+    "source": "Wikipedia: Idi Amin"
+  },
+  {
+    "id": "burundi-civil-war",
+    "year": 1993,
+    "lat": -3.38,
+    "lng": 29.36,
+    "type": "war",
+    "title": "Burundian Civil War",
+    "description": "War between Hutu and Tutsi groups (1993–2005).",
+    "relatedPolityIds": [
+      "burundi"
+    ],
+    "source": "Wikipedia: Burundian Civil War"
+  },
+  {
+    "id": "ethiopian-revolution",
+    "year": 1974,
+    "lat": 9.03,
+    "lng": 38.74,
+    "type": "war",
+    "title": "Ethiopian Revolution",
+    "description": "Emperor Haile Selassie is overthrown by the Derg.",
+    "relatedPolityIds": [
+      "ethiopia-modern",
+      "ethiopian-empire"
+    ],
+    "source": "Wikipedia: Ethiopian Revolution"
+  },
+  {
+    "id": "ethiopia-famine-1984",
+    "year": 1984,
+    "lat": 13.5,
+    "lng": 39.5,
+    "type": "disaster",
+    "title": "Ethiopian famine",
+    "description": "Famine (1983–85) kills hundreds of thousands; Live Aid raises money.",
+    "relatedPolityIds": [
+      "ethiopia-modern"
+    ],
+    "source": "Wikipedia: 1983–1985 famine in Ethiopia"
+  },
+  {
+    "id": "somalia-independence",
+    "year": 1960,
+    "lat": 2.04,
+    "lng": 45.32,
+    "type": "culture",
+    "title": "Somalia is formed",
+    "description": "British and Italian Somaliland unite as Somalia.",
+    "relatedPolityIds": [
+      "somalia"
+    ],
+    "source": "Wikipedia: Somali Republic"
+  },
+  {
+    "id": "somali-civil-war",
+    "year": 1991,
+    "lat": 2.04,
+    "lng": 45.32,
+    "type": "war",
+    "title": "Somali Civil War",
+    "description": "The government collapses; war and famine follow.",
+    "relatedPolityIds": [
+      "somalia"
+    ],
+    "source": "Wikipedia: Somali Civil War"
+  },
+  {
+    "id": "djibouti-independence",
+    "year": 1977,
+    "lat": 11.59,
+    "lng": 43.15,
+    "type": "culture",
+    "title": "Djibouti becomes independent",
+    "description": "Independence from France.",
+    "relatedPolityIds": [
+      "djibouti"
+    ],
+    "source": "Wikipedia: Djibouti"
+  },
+  {
+    "id": "tunisia-independence",
+    "year": 1956,
+    "lat": 36.8,
+    "lng": 10.17,
+    "type": "culture",
+    "title": "Tunisia becomes independent",
+    "description": "Independence from France under Habib Bourguiba.",
+    "relatedPolityIds": [
+      "tunisia",
+      "french-colonial-empire"
+    ],
+    "source": "Wikipedia: Tunisia"
+  },
+  {
+    "id": "zambia-independence",
+    "year": 1964,
+    "lat": -15.42,
+    "lng": 28.28,
+    "type": "culture",
+    "title": "Zambia becomes independent",
+    "description": "Northern Rhodesia becomes Zambia under Kenneth Kaunda.",
+    "relatedPolityIds": [
+      "zambia",
+      "malawi"
+    ],
+    "source": "Wikipedia: Zambia"
+  },
+  {
+    "id": "rhodesia-udi",
+    "year": 1965,
+    "lat": -17.83,
+    "lng": 31.05,
+    "type": "war",
+    "title": "Rhodesia declares independence",
+    "description": "The white-minority government breaks from Britain; a war follows.",
+    "relatedPolityIds": [
+      "zimbabwe"
+    ],
+    "source": "Wikipedia: Rhodesia"
+  },
+  {
+    "id": "zimbabwe-independence",
+    "year": 1980,
+    "lat": -17.83,
+    "lng": 31.05,
+    "type": "culture",
+    "title": "Zimbabwe is born",
+    "description": "Majority rule and independence under Robert Mugabe.",
+    "relatedPolityIds": [
+      "zimbabwe"
+    ],
+    "source": "Wikipedia: Zimbabwe"
+  },
+  {
+    "id": "mozambique-independence",
+    "year": 1975,
+    "lat": -25.97,
+    "lng": 32.57,
+    "type": "culture",
+    "title": "Mozambique becomes independent",
+    "description": "FRELIMO leads Mozambique to independence from Portugal.",
+    "relatedPolityIds": [
+      "mozambique",
+      "portuguese-empire"
+    ],
+    "source": "Wikipedia: Mozambique"
+  },
+  {
+    "id": "botswana-diamonds",
+    "year": 1967,
+    "lat": -21.6,
+    "lng": 25.3,
+    "type": "trade",
+    "title": "Diamonds found in Botswana",
+    "description": "The Orapa find begins Botswana’s rise.",
+    "relatedPolityIds": [
+      "botswana"
+    ],
+    "source": "Wikipedia: Diamond industry in Botswana"
+  },
+  {
+    "id": "namibia-independence",
+    "year": 1990,
+    "lat": -22.56,
+    "lng": 17.08,
+    "type": "culture",
+    "title": "Namibia becomes independent",
+    "description": "Independence from South Africa.",
+    "relatedPolityIds": [
+      "namibia",
+      "south-africa"
+    ],
+    "source": "Wikipedia: Namibia"
+  },
+  {
+    "id": "lesotho-independence",
+    "year": 1966,
+    "lat": -29.31,
+    "lng": 27.48,
+    "type": "culture",
+    "title": "Lesotho becomes independent",
+    "description": "Basutoland becomes the Kingdom of Lesotho.",
+    "relatedPolityIds": [
+      "lesotho",
+      "botswana"
+    ],
+    "source": "Wikipedia: Lesotho"
+  },
+  {
+    "id": "eswatini-independence",
+    "year": 1968,
+    "lat": -26.31,
+    "lng": 31.13,
+    "type": "culture",
+    "title": "Swaziland becomes independent",
+    "description": "Independence from Britain under King Sobhuza II.",
+    "relatedPolityIds": [
+      "eswatini"
+    ],
+    "source": "Wikipedia: Eswatini"
+  },
+  {
+    "id": "eritrea-independence",
+    "year": 1993,
+    "lat": 15.32,
+    "lng": 38.93,
+    "type": "culture",
+    "title": "Eritrea becomes independent",
+    "description": "After a 30-year war, Eritrea votes for independence from Ethiopia.",
+    "relatedPolityIds": [
+      "eritrea",
+      "ethiopia-modern"
+    ],
+    "source": "Wikipedia: Eritrean War of Independence"
   }
 ]

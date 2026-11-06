@@ -1,0 +1,321 @@
+{
+  "id": "lesotho",
+  "name": "Lesotho",
+  "era": "modern",
+  "region": "Southern Africa",
+  "startYear": 1966,
+  "endYear": null,
+  "capital": "Maseru",
+  "capitalCoords": [
+    27.48,
+    -29.31
+  ],
+  "summary": "A mountain kingdom completely surrounded by South Africa, founded by Moshoeshoe I in the 1820s; independent from Britain in 1966.",
+  "wikiTitle": "Lesotho",
+  "borderNames": [
+    "Lesotho",
+    "Basutoland"
+  ],
+  "borderYears": [
+    1966,
+    null
+  ],
+  "color": "#3a8ac0",
+  "knownFor": [
+    {
+      "label": "Basotho blanket",
+      "kind": "textile",
+      "note": "Worn as a cloak."
+    },
+    {
+      "label": "Mokorotlo hat",
+      "kind": "textile",
+      "note": "Conical straw hat on the flag."
+    },
+    {
+      "label": "Moshoeshoe I",
+      "kind": "person",
+      "note": "Founder of the Basotho nation."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Southern Africa, entirely surrounded by South Africa; about 30,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "terrain": {
+        "value": "High mountains; the whole country is above 1,000 m.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "climate": {
+        "value": "Cool highland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "resources": {
+        "value": "Water, diamonds.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "disasters": {
+        "value": "Droughts and snow.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 2.3 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "urbanisation": {
+        "value": "Maseru.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "disease": {
+        "value": "Very high HIV rates.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "migration": {
+        "value": "Workers in South African mines.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Textiles, water exports, remittances.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "tradeRoutes": {
+        "value": "Lesotho Highlands Water Project sells water to South Africa.",
+        "year": 1998,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "wealth": {
+        "value": "A lower-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "moneyAndTax": {
+        "value": "The loti, tied to the rand.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Lesotho"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A constitutional monarchy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "keyRulers": {
+        "value": "Moshoeshoe II. Letsie III.",
+        "year": 1966,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "succession": {
+        "value": "Hereditary king; elected government.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "institutions": {
+        "value": "Parliament.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "stability": {
+        "value": "Political crisis and South African intervention (1998).",
+        "year": 1998,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Lesotho"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Small army.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "majorWars": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "territoryChange": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "alliancesRivals": {
+        "value": "SADC.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Lesotho"
+      },
+      "scienceEducation": {
+        "value": "High literacy for the region.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Lesotho"
+      },
+      "communicationTransport": {
+        "value": "Mountain roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Christian.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "languageWriting": {
+        "value": "Sesotho and English.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "artsArchitecture": {
+        "value": "Blankets, rock art.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "socialStructure": {
+        "value": "Basotho.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "sharedIdentity": {
+        "value": "Strong Basotho identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "dailyLife": {
+        "value": "Stone huts; papa (maize porridge).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "South Africa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "ideasReligions": {
+        "value": "Christian missions.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "colonisation": {
+        "value": "A British protectorate (Basutoland) until 1966.",
+        "year": 1868,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1966).",
+        "year": 1966,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Lesotho"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Lesotho"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Lesotho.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lesotho"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Lesotho"
+      }
+    }
+  }
+}

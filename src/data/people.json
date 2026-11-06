@@ -6020,5 +6020,260 @@
   ],
   "wikiTitle": "Makarios III",
   "source": "Wikipedia: Makarios III"
+ },
+ {
+  "id": "nkrumah",
+  "name": "Kwame Nkrumah",
+  "born": 1909,
+  "died": 1972,
+  "role": "ruler",
+  "description": "Led Ghana to independence; Pan-Africanist.",
+  "polityIds": [
+   "ghana"
+  ],
+  "place": [
+   -0.19,
+   5.6
+  ],
+  "wikiTitle": "Kwame Nkrumah",
+  "source": "Wikipedia: Kwame Nkrumah"
+ },
+ {
+  "id": "senghor",
+  "name": "Léopold Sédar Senghor",
+  "born": 1906,
+  "died": 2001,
+  "role": "writer",
+  "description": "Poet and first president of Senegal.",
+  "polityIds": [
+   "senegal"
+  ],
+  "place": [
+   -17.45,
+   14.69
+  ],
+  "wikiTitle": "Léopold Sédar Senghor",
+  "source": "Wikipedia: Léopold Sédar Senghor"
+ },
+ {
+  "id": "houphouet-boigny",
+  "name": "Félix Houphouët-Boigny",
+  "born": 1905,
+  "died": 1993,
+  "role": "ruler",
+  "description": "First president of Ivory Coast.",
+  "polityIds": [
+   "ivory-coast"
+  ],
+  "place": [
+   -5.28,
+   6.82
+  ],
+  "wikiTitle": "Félix Houphouët-Boigny",
+  "source": "Wikipedia: Félix Houphouët-Boigny"
+ },
+ {
+  "id": "sankara",
+  "name": "Thomas Sankara",
+  "born": 1949,
+  "died": 1987,
+  "role": "ruler",
+  "description": "Revolutionary leader of Burkina Faso.",
+  "polityIds": [
+   "burkina-faso"
+  ],
+  "place": [
+   -1.53,
+   12.37
+  ],
+  "wikiTitle": "Thomas Sankara",
+  "source": "Wikipedia: Thomas Sankara"
+ },
+ {
+  "id": "cabral",
+  "name": "Amílcar Cabral",
+  "born": 1924,
+  "died": 1973,
+  "role": "thinker",
+  "description": "Leader of the independence movement of Guinea-Bissau and Cape Verde.",
+  "polityIds": [
+   "guinea-bissau"
+  ],
+  "place": [
+   -15.6,
+   11.86
+  ],
+  "wikiTitle": "Amílcar Cabral",
+  "source": "Wikipedia: Amílcar Cabral"
+ },
+ {
+  "id": "kenyatta",
+  "name": "Jomo Kenyatta",
+  "born": 1897,
+  "died": 1978,
+  "role": "ruler",
+  "description": "First president of Kenya.",
+  "polityIds": [
+   "kenya"
+  ],
+  "place": [
+   36.82,
+   -1.29
+  ],
+  "wikiTitle": "Jomo Kenyatta",
+  "source": "Wikipedia: Jomo Kenyatta"
+ },
+ {
+  "id": "wangari-maathai",
+  "name": "Wangari Maathai",
+  "born": 1940,
+  "died": 2011,
+  "role": "thinker",
+  "description": "Environmentalist; Nobel Peace Prize 2004.",
+  "polityIds": [
+   "kenya"
+  ],
+  "place": [
+   36.82,
+   -1.29
+  ],
+  "wikiTitle": "Wangari Maathai",
+  "source": "Wikipedia: Wangari Maathai"
+ },
+ {
+  "id": "idi-amin",
+  "name": "Idi Amin",
+  "born": 1925,
+  "died": 2003,
+  "role": "ruler",
+  "description": "Military ruler of Uganda (1971–79).",
+  "polityIds": [
+   "uganda"
+  ],
+  "place": [
+   32.58,
+   0.35
+  ],
+  "wikiTitle": "Idi Amin",
+  "source": "Wikipedia: Idi Amin"
+ },
+ {
+  "id": "haile-selassie",
+  "name": "Haile Selassie",
+  "born": 1892,
+  "died": 1975,
+  "role": "ruler",
+  "description": "Last emperor of Ethiopia.",
+  "polityIds": [
+   "ethiopian-empire"
+  ],
+  "place": [
+   38.74,
+   9.03
+  ],
+  "wikiTitle": "Haile Selassie",
+  "source": "Wikipedia: Haile Selassie"
+ },
+ {
+  "id": "bourguiba",
+  "name": "Habib Bourguiba",
+  "born": 1903,
+  "died": 2000,
+  "role": "ruler",
+  "description": "First president of Tunisia.",
+  "polityIds": [
+   "tunisia"
+  ],
+  "place": [
+   10.17,
+   36.8
+  ],
+  "wikiTitle": "Habib Bourguiba",
+  "source": "Wikipedia: Habib Bourguiba"
+ },
+ {
+  "id": "kaunda",
+  "name": "Kenneth Kaunda",
+  "born": 1924,
+  "died": 2021,
+  "role": "ruler",
+  "description": "First president of Zambia.",
+  "polityIds": [
+   "zambia"
+  ],
+  "place": [
+   28.28,
+   -15.42
+  ],
+  "wikiTitle": "Kenneth Kaunda",
+  "source": "Wikipedia: Kenneth Kaunda"
+ },
+ {
+  "id": "mugabe",
+  "name": "Robert Mugabe",
+  "born": 1924,
+  "died": 2019,
+  "role": "ruler",
+  "description": "Ruler of Zimbabwe (1980–2017).",
+  "polityIds": [
+   "zimbabwe"
+  ],
+  "place": [
+   31.05,
+   -17.83
+  ],
+  "wikiTitle": "Robert Mugabe",
+  "source": "Wikipedia: Robert Mugabe"
+ },
+ {
+  "id": "samora-machel",
+  "name": "Samora Machel",
+  "born": 1933,
+  "died": 1986,
+  "role": "ruler",
+  "description": "First president of Mozambique.",
+  "polityIds": [
+   "mozambique"
+  ],
+  "place": [
+   32.57,
+   -25.97
+  ],
+  "wikiTitle": "Samora Machel",
+  "source": "Wikipedia: Samora Machel"
+ },
+ {
+  "id": "seretse-khama",
+  "name": "Seretse Khama",
+  "born": 1921,
+  "died": 1980,
+  "role": "ruler",
+  "description": "First president of Botswana.",
+  "polityIds": [
+   "botswana"
+  ],
+  "place": [
+   25.91,
+   -24.65
+  ],
+  "wikiTitle": "Seretse Khama",
+  "source": "Wikipedia: Seretse Khama"
+ },
+ {
+  "id": "ellen-johnson-sirleaf-x",
+  "name": "Ahmed Sékou Touré",
+  "born": 1922,
+  "died": 1984,
+  "role": "ruler",
+  "description": "First president of Guinea.",
+  "polityIds": [
+   "guinea"
+  ],
+  "place": [
+   -13.68,
+   9.64
+  ],
+  "wikiTitle": "Ahmed Sékou Touré",
+  "source": "Wikipedia: Ahmed Sékou Touré"
  }
 ]

@@ -52,19 +52,19 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | · Ancient | `██████████████████░░` 91% |  |
 | · Medieval | `█████████████████░░░` 85% |  |
 | · Early modern | `████████████████░░░░` 79% |  |
-| · Modern | `██████████████████░░` 89% |  |
-| Civilisations shown on the map | `███████████████████░` 96% | 277 of 289; the rest fly to their capital |
-| Checklist filled in | `████████████████████` 100% | 12427 of 12427 items (289 × 43) |
-| Answers with real detail | `███████████████░░░░░` 73% | 3163 answers are still under 40 characters |
-| Fact-checked against a source | `██████░░░░░░░░░░░░░░` 29% | 3559 items say “(checked …)”; the rest still need a second look |
-| Civilisations with events | `████████████████████` 100% | 289 of 289 |
-| Civilisations with famous people | `████████████████░░░░` 79% | 227 of 289; many prehistoric cultures have no known names |
-| Civilisations linked to others | `████████████████████` 100% | 289 of 289 (succeeded, conquered, traded with…) |
-| Civilisation pictures | `███████████████████░` 97% | 279 of 289 |
-| “Known for” pictures | `██████████████░░░░░░` 68% | 629 of 927 items |
+| · Modern | `██████████████████░░` 92% |  |
+| Civilisations shown on the map | `███████████████████░` 96% | 314 of 326; the rest fly to their capital |
+| Checklist filled in | `████████████████████` 100% | 14018 of 14018 items (326 × 43) |
+| Answers with real detail | `██████████████░░░░░░` 68% | 4253 answers are still under 40 characters |
+| Fact-checked against a source | `█████░░░░░░░░░░░░░░░` 25% | 3559 items say “(checked …)”; the rest still need a second look |
+| Civilisations with events | `████████████████████` 100% | 326 of 326 |
+| Civilisations with famous people | `███████████████░░░░░` 74% | 240 of 326; many prehistoric cultures have no known names |
+| Civilisations linked to others | `████████████████████` 100% | 326 of 326 (succeeded, conquered, traded with…) |
+| Civilisation pictures | `███████████████████░` 97% | 315 of 326 |
+| “Known for” pictures | `████████████░░░░░░░░` 61% | 629 of 1038 items |
 
-Certainty of all items: 6977 confirmed · 5040 estimated · 410 disputed.
-Also in the app: 622 events · 281 people · 18 routes · 11 stories.
+Certainty of all items: 8307 confirmed · 5293 estimated · 418 disputed.
+Also in the app: 658 events · 296 people · 18 routes · 11 stories.
 
 ## Map coverage by year
 
@@ -119,10 +119,10 @@ Also in the app: 622 events · 281 people · 18 routes · 11 stories.
 | 1930 | `███████████████████░` 96% |
 | 1938 | `███████████████████░` 96% |
 | 1945 | `██████████████████░░` 88% |
-| 1960 | `████████████████░░░░` 81% |
-| 1994 | `█████████████████░░░` 83% |
-| 2000 | `█████████████████░░░` 83% |
-| 2010 | `█████████████████░░░` 83% |
+| 1960 | `█████████████████░░░` 87% |
+| 1994 | `███████████████████░` 94% |
+| 2000 | `███████████████████░` 94% |
+| 2010 | `███████████████████░` 94% |
 
 ## Biggest map blanks still to fill
 
@@ -135,17 +135,12 @@ Areas on the border maps that no civilisation covers yet, largest first (area ad
 | Tibetans | 1500 BCE – 700 BCE (3 maps) | 10M |
 | Arabia | 1878 – 1900 (3 maps) | 7M |
 | Proto-Altaic pastoralists | 500 BCE – 400 BCE (2 maps) | 6M |
-| Mali | 1000 – 2010 (9 maps) | 6M |
 | Sinic | 1500 BCE – 700 BCE (3 maps) | 5M |
-| Chad | 1960 – 2010 (4 maps) | 5M |
-| Niger | 1960 – 2010 (4 maps) | 5M |
 | Mongols | 1100 – 1100 (1 maps) | 5M |
 | Vedic Aryans | 1500 BCE – 700 BCE (3 maps) | 5M |
 | Kara Khitai Khaganate | 1200 – 1200 (1 maps) | 4M |
 | Buwayhid Emirates | 1000 – 1200 (2 maps) | 4M |
 | Arabs | 1492 – 1500 (2 maps) | 4M |
-| Mauritania | 1960 – 2010 (4 maps) | 4M |
-| Namibia | 1945 – 2010 (5 maps) | 4M |
 | Oghuz Turks | 900 – 900 (1 maps) | 4M |
 | Ecuador | 1878 – 2010 (12 maps) | 4M |
 | Suren Kingdom | 1 BCE – 400 (4 maps) | 4M |
@@ -153,10 +148,15 @@ Areas on the border maps that no civilisation covers yet, largest first (area ad
 | Emirate of the White Sheep Turks | 1492 – 1500 (2 maps) | 4M |
 | Pakistan | 1960 – 2010 (4 maps) | 4M |
 | Emirate of Bin Shal'an | 1920 – 1938 (3 maps) | 3M |
-| Ethiopia | 1994 – 2010 (3 maps) | 3M |
 | Zhangzhung Kingdom | 400 BCE – 100 BCE (5 maps) | 3M |
 | Nogai Horde | 1530 – 1715 (5 maps) | 3M |
 | Uyghurs | 700 – 900 (2 maps) | 3M |
 | Proto-Tibetan cultures | 400 BCE – 400 BCE (1 maps) | 3M |
 | Magadha | 500 BCE – 200 (4 maps) | 3M |
 | Satavahanihara | 1 BCE – 400 (5 maps) | 3M |
+| Yemen | 1000 – 2010 (15 maps) | 3M |
+| Burmese | 1500 BCE – 700 BCE (3 maps) | 3M |
+| Sweden | 1000 – 1600 (8 maps) | 3M |
+| Sasanian Empire | 700 – 700 (1 maps) | 3M |
+| Himyarite Kingdom | 1 BCE – 500 (6 maps) | 3M |
+| Alwa | 600 – 1500 (12 maps) | 3M |

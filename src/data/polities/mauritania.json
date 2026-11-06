@@ -1,0 +1,320 @@
+{
+  "id": "mauritania",
+  "name": "Mauritania",
+  "era": "modern",
+  "region": "West Africa",
+  "startYear": 1960,
+  "endYear": null,
+  "capital": "Nouakchott",
+  "capitalCoords": [
+    -15.98,
+    18.09
+  ],
+  "summary": "A desert country between the Arab world and West Africa, independent from France in 1960; slavery was abolished only in 1981.",
+  "wikiTitle": "Mauritania",
+  "borderNames": [
+    "Mauritania"
+  ],
+  "borderYears": [
+    1960,
+    null
+  ],
+  "color": "#3a8a4a",
+  "knownFor": [
+    {
+      "label": "Chinguetti",
+      "kind": "monument",
+      "note": "Old desert city with libraries."
+    },
+    {
+      "label": "Iron ore train",
+      "kind": "tool",
+      "note": "One of the longest trains in the world."
+    },
+    {
+      "label": "Banc d’Arguin",
+      "kind": "monument",
+      "note": "Coastal bird sanctuary."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "North-west Africa on the Atlantic; about 1.03 million km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "terrain": {
+        "value": "Mostly Sahara.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "climate": {
+        "value": "Hot desert.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "resources": {
+        "value": "Iron ore, fish, gold.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 4.9 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "urbanisation": {
+        "value": "Nouakchott.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "disease": {
+        "value": "Malaria in the south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "migration": {
+        "value": "Nomads settled in towns.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Iron ore, fishing, herding.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "tradeRoutes": {
+        "value": "Iron railway to Nouadhibou.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "wealth": {
+        "value": "A lower-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "moneyAndTax": {
+        "value": "The ouguiya.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mauritania"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "An Islamic republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "keyRulers": {
+        "value": "Moktar Ould Daddah. Maaouya Ould Taya. Mohamed Ould Ghazouani.",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "succession": {
+        "value": "Coups in 1978, 2005, 2008; peaceful transfer in 2019.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "institutions": {
+        "value": "National Assembly.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "stability": {
+        "value": "Ethnic violence (1989).",
+        "year": 1989,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mauritania"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Army.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "majorWars": {
+        "value": "Western Sahara War (1975–79).",
+        "year": 1975,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "territoryChange": {
+        "value": "Gave up its claim in Western Sahara (1979).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "alliancesRivals": {
+        "value": "Arab League and African Union.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mauritania"
+      },
+      "scienceEducation": {
+        "value": "Koranic schools; manuscripts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mauritania"
+      },
+      "communicationTransport": {
+        "value": "Iron ore train.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sunni Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "languageWriting": {
+        "value": "Arabic; Hassaniya, Pulaar, Wolof.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "artsArchitecture": {
+        "value": "Desert towns.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "socialStructure": {
+        "value": "Moors and Black Africans; descendants of slaves still face discrimination.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "sharedIdentity": {
+        "value": "Arab and African identities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "dailyLife": {
+        "value": "Tents and houses; camel milk, tea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Morocco (Western Sahara), Algeria, Mali, Senegal.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "ideasReligions": {
+        "value": "Islamic scholarship.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "colonisation": {
+        "value": "A French colony (part of French West Africa) until 1960.",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1960).",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mauritania"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mauritania"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Mauritania.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mauritania"
+      }
+    }
+  }
+}
