@@ -1222,7 +1222,9 @@
   "datesApproximate": true,
   "role": "writer",
   "description": "Japanese novelist and poet.",
-  "polityIds": [],
+  "polityIds": [
+    "nara-heian-japan"
+  ],
   "place": [
    135.76,
    35.01
@@ -2616,7 +2618,11 @@
   "role": "military",
   "description": "Venezuelan statesman and military officer.",
   "polityIds": [
-   "spanish-empire"
+    "spanish-empire",
+    "colombia",
+    "venezuela",
+    "bolivia",
+    "peru"
   ],
   "place": [
    -66.9,
@@ -2913,7 +2919,9 @@
   "died": 1969,
   "role": "ruler",
   "description": "Leader of North Vietnam from 1945 to 1969.",
-  "polityIds": [],
+  "polityIds": [
+    "vietnam-modern"
+  ],
   "place": [
    105.85,
    21.03
@@ -3046,7 +3054,9 @@
   "died": 2013,
   "role": "ruler",
   "description": "President of South Africa from 1994 to 1999.",
-  "polityIds": [],
+  "polityIds": [
+    "south-africa"
+  ],
   "place": [
    28.05,
    -26.2
@@ -3117,5 +3127,2469 @@
    "caption": "President Lyndon B. Johnson and Rev. Dr. Martin Luther King, Jr. meet at the White House, 1966",
    "article": "Martin Luther King Jr."
   }
+ },
+ {
+  "id": "iskandar-muda",
+  "name": "Iskandar Muda",
+  "born": 1583,
+  "died": 1636,
+  "role": "ruler",
+  "description": "Sultan of Aceh whose reign was its height of power.",
+  "polityIds": [
+   "aceh-sultanate"
+  ],
+  "place": [
+   95.32,
+   5.55
+  ],
+  "wikiTitle": "Iskandar Muda",
+  "source": "Wikipedia: Iskandar Muda"
+ },
+ {
+  "id": "ahmad-shah-durrani",
+  "name": "Ahmad Shah Durrani",
+  "born": 1722,
+  "died": 1772,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Founder of the Durrani Empire, the forerunner of modern Afghanistan.",
+  "polityIds": [
+   "afghanistan"
+  ],
+  "place": [
+   65.71,
+   31.61
+  ],
+  "wikiTitle": "Ahmad Shah Durrani",
+  "source": "Wikipedia: Ahmad Shah Durrani"
+ },
+ {
+  "id": "shakushain",
+  "name": "Shakushain",
+  "born": 1606,
+  "died": 1669,
+  "datesApproximate": true,
+  "role": "military",
+  "description": "Ainu leader who led a revolt against the Matsumae clan.",
+  "polityIds": [
+   "ainu"
+  ],
+  "place": [
+   142.5,
+   42.6
+  ],
+  "wikiTitle": "Shakushain",
+  "source": "Wikipedia: Shakushain"
+ },
+ {
+  "id": "abdelkader",
+  "name": "Emir Abdelkader",
+  "born": 1808,
+  "died": 1883,
+  "role": "military",
+  "description": "Algerian leader who resisted French conquest and later protected Christians in Damascus.",
+  "polityIds": [
+   "french-colonial-empire"
+  ],
+  "place": [
+   0.14,
+   35.4
+  ],
+  "wikiTitle": "Emir Abdelkader",
+  "source": "Wikipedia: Emir Abdelkader"
+ },
+ {
+  "id": "masinissa",
+  "name": "Masinissa",
+  "born": -238,
+  "died": -148,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "First king of Numidia, an Amazigh (Berber) kingdom.",
+  "polityIds": [
+   "amazigh-saharan"
+  ],
+  "place": [
+   6.6,
+   36.36
+  ],
+  "wikiTitle": "Masinissa",
+  "source": "Wikipedia: Masinissa"
+ },
+ {
+  "id": "san-martin",
+  "name": "José de San Martín",
+  "born": 1778,
+  "died": 1850,
+  "role": "military",
+  "description": "Led the independence of Argentina, Chile and Peru.",
+  "polityIds": [
+   "argentina",
+   "chile",
+   "peru"
+  ],
+  "place": [
+   -58.38,
+   -34.6
+  ],
+  "wikiTitle": "José de San Martín",
+  "source": "Wikipedia: José de San Martín"
+ },
+ {
+  "id": "eva-peron",
+  "name": "Eva Perón",
+  "born": 1919,
+  "died": 1952,
+  "role": "thinker",
+  "description": "Argentine First Lady and political leader.",
+  "polityIds": [
+   "argentina"
+  ],
+  "place": [
+   -58.38,
+   -34.6
+  ],
+  "wikiTitle": "Eva Perón",
+  "source": "Wikipedia: Eva Perón"
+ },
+ {
+  "id": "edmund-barton",
+  "name": "Edmund Barton",
+  "born": 1849,
+  "died": 1920,
+  "role": "ruler",
+  "description": "First Prime Minister of Australia.",
+  "polityIds": [
+   "australia"
+  ],
+  "place": [
+   151.21,
+   -33.87
+  ],
+  "wikiTitle": "Edmund Barton",
+  "source": "Wikipedia: Edmund Barton"
+ },
+ {
+  "id": "franz-joseph",
+  "name": "Franz Joseph I",
+  "born": 1830,
+  "died": 1916,
+  "role": "ruler",
+  "description": "Emperor of Austria and King of Hungary for 68 years.",
+  "polityIds": [
+   "austria-hungary",
+   "habsburg-monarchy"
+  ],
+  "place": [
+   16.37,
+   48.21
+  ],
+  "wikiTitle": "Franz Joseph I",
+  "source": "Wikipedia: Franz Joseph I"
+ },
+ {
+  "id": "naresuan",
+  "name": "Naresuan",
+  "born": 1555,
+  "died": 1605,
+  "role": "ruler",
+  "description": "King of Ayutthaya who freed it from Burmese rule.",
+  "polityIds": [
+   "ayutthaya-kingdom"
+  ],
+  "place": [
+   100.57,
+   14.35
+  ],
+  "wikiTitle": "Naresuan",
+  "source": "Wikipedia: Naresuan"
+ },
+ {
+  "id": "king-geunchogo",
+  "name": "Geunchogo of Baekje",
+  "born": 324,
+  "died": 375,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "King under whom Baekje reached its height.",
+  "polityIds": [
+   "baekje"
+  ],
+  "place": [
+   127.1,
+   37.5
+  ],
+  "wikiTitle": "Geunchogo of Baekje",
+  "source": "Wikipedia: Geunchogo of Baekje"
+ },
+ {
+  "id": "antonio-jose-de-sucre",
+  "name": "Antonio José de Sucre",
+  "born": 1795,
+  "died": 1830,
+  "role": "military",
+  "description": "Independence leader and first president of Bolivia.",
+  "polityIds": [
+   "bolivia"
+  ],
+  "place": [
+   -65.26,
+   -19.05
+  ],
+  "wikiTitle": "Antonio José de Sucre",
+  "source": "Wikipedia: Antonio José de Sucre"
+ },
+ {
+  "id": "pedro-ii",
+  "name": "Pedro II of Brazil",
+  "born": 1825,
+  "died": 1891,
+  "role": "ruler",
+  "description": "Second and last Emperor of Brazil.",
+  "polityIds": [
+   "empire-of-brazil"
+  ],
+  "place": [
+   -43.2,
+   -22.9
+  ],
+  "wikiTitle": "Pedro II of Brazil",
+  "source": "Wikipedia: Pedro II of Brazil"
+ },
+ {
+  "id": "getulio-vargas",
+  "name": "Getúlio Vargas",
+  "born": 1882,
+  "died": 1954,
+  "role": "ruler",
+  "description": "President who reshaped Brazil from 1930.",
+  "polityIds": [
+   "brazil"
+  ],
+  "place": [
+   -43.2,
+   -22.9
+  ],
+  "wikiTitle": "Getúlio Vargas",
+  "source": "Wikipedia: Getúlio Vargas"
+ },
+ {
+  "id": "bolkiah",
+  "name": "Bolkiah",
+  "born": 1445,
+  "died": 1524,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Sultan under whom Brunei reached its greatest extent.",
+  "polityIds": [
+   "bruneian-empire"
+  ],
+  "place": [
+   114.94,
+   4.89
+  ],
+  "wikiTitle": "Bolkiah",
+  "source": "Wikipedia: Bolkiah"
+ },
+ {
+  "id": "john-a-macdonald",
+  "name": "John A. Macdonald",
+  "born": 1815,
+  "died": 1891,
+  "role": "ruler",
+  "description": "First Prime Minister of Canada.",
+  "polityIds": [
+   "canada"
+  ],
+  "place": [
+   -75.7,
+   45.42
+  ],
+  "wikiTitle": "John A. Macdonald",
+  "source": "Wikipedia: John A. Macdonald"
+ },
+ {
+  "id": "abdullah-khan-ii",
+  "name": "Abdullah Khan II",
+  "born": 1533,
+  "died": 1598,
+  "role": "ruler",
+  "description": "Khan of Bukhara at its height.",
+  "polityIds": [
+   "central-asian-khanates"
+  ],
+  "place": [
+   64.42,
+   39.77
+  ],
+  "wikiTitle": "Abdullah Khan II",
+  "source": "Wikipedia: Abdullah Khan II"
+ },
+ {
+  "id": "chagatai",
+  "name": "Chagatai Khan",
+  "born": 1183,
+  "died": 1242,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Son of Genghis Khan and founder of the Chagatai Khanate.",
+  "polityIds": [
+   "chagatai-khanate",
+   "mongol-empire"
+  ],
+  "place": [
+   81.3,
+   43.9
+  ],
+  "wikiTitle": "Chagatai Khan",
+  "source": "Wikipedia: Chagatai Khan"
+ },
+ {
+  "id": "che-bong-nga",
+  "name": "Chế Bồng Nga",
+  "born": 1340,
+  "died": 1390,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "King of Champa who repeatedly attacked Đại Việt.",
+  "polityIds": [
+   "champa"
+  ],
+  "place": [
+   108.2,
+   15.9
+  ],
+  "wikiTitle": "Chế Bồng Nga",
+  "source": "Wikipedia: Chế Bồng Nga"
+ },
+ {
+  "id": "minchancaman",
+  "name": "Minchançaman",
+  "born": 1430,
+  "died": 1480,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Last independent king of Chimor, defeated by the Inca.",
+  "polityIds": [
+   "chimu"
+  ],
+  "place": [
+   -79.07,
+   -8.11
+  ],
+  "wikiTitle": "Minchançaman",
+  "source": "Wikipedia: Minchançaman"
+ },
+ {
+  "id": "salvador-allende",
+  "name": "Salvador Allende",
+  "born": 1908,
+  "died": 1973,
+  "role": "ruler",
+  "description": "Socialist president of Chile, overthrown in 1973.",
+  "polityIds": [
+   "chile"
+  ],
+  "place": [
+   -70.65,
+   -33.45
+  ],
+  "wikiTitle": "Salvador Allende",
+  "source": "Wikipedia: Salvador Allende"
+ },
+ {
+  "id": "garcia-marquez",
+  "name": "Gabriel García Márquez",
+  "born": 1927,
+  "died": 2014,
+  "role": "writer",
+  "description": "Colombian novelist and Nobel Prize winner.",
+  "polityIds": [
+   "colombia"
+  ],
+  "place": [
+   -74.8,
+   10.96
+  ],
+  "wikiTitle": "Gabriel García Márquez",
+  "source": "Wikipedia: Gabriel García Márquez"
+ },
+ {
+  "id": "ali-dinar",
+  "name": "Ali Dinar",
+  "born": 1856,
+  "died": 1916,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Last Sultan of Darfur.",
+  "polityIds": [
+   "darfur-sultanate"
+  ],
+  "place": [
+   25.35,
+   13.63
+  ],
+  "wikiTitle": "Ali Dinar",
+  "source": "Wikipedia: Ali Dinar"
+ },
+ {
+  "id": "razia-sultana",
+  "name": "Razia Sultana",
+  "born": 1205,
+  "died": 1240,
+  "role": "ruler",
+  "description": "The only woman to rule the Delhi Sultanate.",
+  "polityIds": [
+   "delhi-sultanate"
+  ],
+  "place": [
+   77.21,
+   28.61
+  ],
+  "wikiTitle": "Razia Sultana",
+  "source": "Wikipedia: Razia Sultana"
+ },
+ {
+  "id": "margaret-i",
+  "name": "Margaret I of Denmark",
+  "born": 1353,
+  "died": 1412,
+  "role": "ruler",
+  "description": "Queen who created the Kalmar Union.",
+  "polityIds": [
+   "denmark-norway"
+  ],
+  "place": [
+   12.57,
+   55.68
+  ],
+  "wikiTitle": "Margaret I of Denmark",
+  "source": "Wikipedia: Margaret I of Denmark"
+ },
+ {
+  "id": "christian-iv",
+  "name": "Christian IV",
+  "born": 1577,
+  "died": 1648,
+  "role": "ruler",
+  "description": "King of Denmark–Norway who built much of Copenhagen.",
+  "polityIds": [
+   "denmark-norway"
+  ],
+  "place": [
+   12.57,
+   55.68
+  ],
+  "wikiTitle": "Christian IV",
+  "source": "Wikipedia: Christian IV"
+ },
+ {
+  "id": "lumumba",
+  "name": "Patrice Lumumba",
+  "born": 1925,
+  "died": 1961,
+  "role": "ruler",
+  "description": "First prime minister of independent Congo.",
+  "polityIds": [
+   "dr-congo"
+  ],
+  "place": [
+   15.31,
+   -4.32
+  ],
+  "wikiTitle": "Patrice Lumumba",
+  "source": "Wikipedia: Patrice Lumumba"
+ },
+ {
+  "id": "rembrandt",
+  "name": "Rembrandt",
+  "born": 1606,
+  "died": 1669,
+  "role": "artist",
+  "description": "Dutch Golden Age painter.",
+  "polityIds": [
+   "dutch-republic"
+  ],
+  "place": [
+   4.9,
+   52.37
+  ],
+  "wikiTitle": "Rembrandt",
+  "source": "Wikipedia: Rembrandt"
+ },
+ {
+  "id": "spinoza",
+  "name": "Baruch Spinoza",
+  "born": 1632,
+  "died": 1677,
+  "role": "thinker",
+  "description": "Dutch philosopher.",
+  "polityIds": [
+   "dutch-republic"
+  ],
+  "place": [
+   4.9,
+   52.37
+  ],
+  "wikiTitle": "Baruch Spinoza",
+  "source": "Wikipedia: Baruch Spinoza"
+ },
+ {
+  "id": "tecumseh",
+  "name": "Tecumseh",
+  "born": 1768,
+  "died": 1813,
+  "role": "military",
+  "description": "Shawnee leader who built a confederacy of nations.",
+  "polityIds": [
+   "eastern-woodlands-peoples"
+  ],
+  "place": [
+   -83,
+   40
+  ],
+  "wikiTitle": "Tecumseh",
+  "source": "Wikipedia: Tecumseh"
+ },
+ {
+  "id": "untash-napirisha",
+  "name": "Untash-Napirisha",
+  "born": -1300,
+  "died": -1250,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Elamite king who built Chogha Zanbil.",
+  "polityIds": [
+   "elam"
+  ],
+  "place": [
+   48.52,
+   32.01
+  ],
+  "wikiTitle": "Untash-Napirisha",
+  "source": "Wikipedia: Untash-Napirisha"
+ },
+ {
+  "id": "boris-i",
+  "name": "Boris I of Bulgaria",
+  "born": 828,
+  "died": 907,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Khan who converted Bulgaria to Christianity.",
+  "polityIds": [
+   "first-bulgarian-empire"
+  ],
+  "place": [
+   26.92,
+   43.27
+  ],
+  "wikiTitle": "Boris I of Bulgaria",
+  "source": "Wikipedia: Boris I of Bulgaria"
+ },
+ {
+  "id": "simeon-i",
+  "name": "Simeon I",
+  "born": 864,
+  "died": 927,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Tsar under whom Bulgaria reached its height.",
+  "polityIds": [
+   "first-bulgarian-empire"
+  ],
+  "place": [
+   26.92,
+   43.27
+  ],
+  "wikiTitle": "Simeon I of Bulgaria",
+  "source": "Wikipedia: Simeon I of Bulgaria"
+ },
+ {
+  "id": "de-gaulle",
+  "name": "Charles de Gaulle",
+  "born": 1890,
+  "died": 1970,
+  "role": "ruler",
+  "description": "Founder of the French Fifth Republic.",
+  "polityIds": [
+   "france-republic"
+  ],
+  "place": [
+   2.35,
+   48.86
+  ],
+  "wikiTitle": "Charles de Gaulle",
+  "source": "Wikipedia: Charles de Gaulle"
+ },
+ {
+  "id": "adenauer",
+  "name": "Konrad Adenauer",
+  "born": 1876,
+  "died": 1967,
+  "role": "ruler",
+  "description": "First Chancellor of West Germany.",
+  "polityIds": [
+   "germany-modern"
+  ],
+  "place": [
+   7.1,
+   50.73
+  ],
+  "wikiTitle": "Konrad Adenauer",
+  "source": "Wikipedia: Konrad Adenauer"
+ },
+ {
+  "id": "gwanggaeto",
+  "name": "Gwanggaeto the Great",
+  "born": 374,
+  "died": 413,
+  "role": "ruler",
+  "description": "King who expanded Goguryeo across Manchuria.",
+  "polityIds": [
+   "goguryeo"
+  ],
+  "place": [
+   126.18,
+   41.15
+  ],
+  "wikiTitle": "Gwanggaeto the Great",
+  "source": "Wikipedia: Gwanggaeto the Great"
+ },
+ {
+  "id": "ozbeg-khan",
+  "name": "Özbeg Khan",
+  "born": 1282,
+  "died": 1341,
+  "role": "ruler",
+  "description": "Khan who made Islam the religion of the Golden Horde.",
+  "polityIds": [
+   "golden-horde"
+  ],
+  "place": [
+   45.6,
+   48.5
+  ],
+  "wikiTitle": "Özbeg Khan",
+  "source": "Wikipedia: Özbeg Khan"
+ },
+ {
+  "id": "wang-geon",
+  "name": "Taejo of Goryeo",
+  "born": 877,
+  "died": 943,
+  "role": "ruler",
+  "description": "Wang Geon, founder of Goryeo.",
+  "polityIds": [
+   "goryeo"
+  ],
+  "place": [
+   126.56,
+   37.97
+  ],
+  "wikiTitle": "Taejo of Goryeo",
+  "source": "Wikipedia: Taejo of Goryeo"
+ },
+ {
+  "id": "maria-theresa",
+  "name": "Maria Theresa",
+  "born": 1717,
+  "died": 1780,
+  "role": "ruler",
+  "description": "Ruler of the Habsburg lands.",
+  "polityIds": [
+   "habsburg-monarchy"
+  ],
+  "place": [
+   16.37,
+   48.21
+  ],
+  "wikiTitle": "Maria Theresa",
+  "source": "Wikipedia: Maria Theresa"
+ },
+ {
+  "id": "mozart",
+  "name": "Wolfgang Amadeus Mozart",
+  "born": 1756,
+  "died": 1791,
+  "role": "artist",
+  "description": "Composer from Salzburg who worked in Vienna.",
+  "polityIds": [
+   "habsburg-monarchy"
+  ],
+  "place": [
+   16.37,
+   48.21
+  ],
+  "wikiTitle": "Wolfgang Amadeus Mozart",
+  "source": "Wikipedia: Wolfgang Amadeus Mozart"
+ },
+ {
+  "id": "ibn-khaldun",
+  "name": "Ibn Khaldun",
+  "born": 1332,
+  "died": 1406,
+  "role": "thinker",
+  "description": "Historian and author of the Muqaddimah.",
+  "polityIds": [
+   "hafsid-sultanate",
+   "mamluk-sultanate"
+  ],
+  "place": [
+   10.17,
+   36.8
+  ],
+  "wikiTitle": "Ibn Khaldun",
+  "source": "Wikipedia: Ibn Khaldun"
+ },
+ {
+  "id": "muhammad-rumfa",
+  "name": "Muhammad Rumfa",
+  "born": 1430,
+  "died": 1499,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Sultan of Kano who reformed government.",
+  "polityIds": [
+   "hausa-states"
+  ],
+  "place": [
+   8.52,
+   12
+  ],
+  "wikiTitle": "Muhammad Rumfa",
+  "source": "Wikipedia: Muhammad Rumfa"
+ },
+ {
+  "id": "suppiluliuma-i",
+  "name": "Suppiluliuma I",
+  "born": -1380,
+  "died": -1322,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Hittite king who built an empire.",
+  "polityIds": [
+   "hittite-empire"
+  ],
+  "place": [
+   34.62,
+   40.02
+  ],
+  "wikiTitle": "Suppiluliuma I",
+  "source": "Wikipedia: Suppiluliuma I"
+ },
+ {
+  "id": "ghazan",
+  "name": "Ghazan",
+  "born": 1271,
+  "died": 1304,
+  "role": "ruler",
+  "description": "Ilkhan who converted to Islam.",
+  "polityIds": [
+   "ilkhanate"
+  ],
+  "place": [
+   46.29,
+   38.08
+  ],
+  "wikiTitle": "Ghazan",
+  "source": "Wikipedia: Ghazan"
+ },
+ {
+  "id": "rashid-al-din",
+  "name": "Rashid al-Din Hamadani",
+  "born": 1247,
+  "died": 1318,
+  "role": "writer",
+  "description": "Historian of the Mongol world.",
+  "polityIds": [
+   "ilkhanate"
+  ],
+  "place": [
+   46.29,
+   38.08
+  ],
+  "wikiTitle": "Rashid al-Din Hamadani",
+  "source": "Wikipedia: Rashid al-Din Hamadani"
+ },
+ {
+  "id": "prithviraj-chauhan",
+  "name": "Prithviraj Chauhan",
+  "born": 1166,
+  "died": 1192,
+  "role": "ruler",
+  "description": "Rajput king remembered in legend.",
+  "polityIds": [
+   "indian-regional-kingdoms"
+  ],
+  "place": [
+   74.64,
+   26.45
+  ],
+  "wikiTitle": "Prithviraj Chauhan",
+  "source": "Wikipedia: Prithviraj Chauhan"
+ },
+ {
+  "id": "maharana-pratap",
+  "name": "Maharana Pratap",
+  "born": 1540,
+  "died": 1597,
+  "role": "military",
+  "description": "Rajput ruler of Mewar who resisted Akbar.",
+  "polityIds": [
+   "indian-regional-kingdoms"
+  ],
+  "place": [
+   73.71,
+   24.58
+  ],
+  "wikiTitle": "Maharana Pratap",
+  "source": "Wikipedia: Maharana Pratap"
+ },
+ {
+  "id": "wang-xizhi",
+  "name": "Wang Xizhi",
+  "born": 303,
+  "died": 361,
+  "role": "artist",
+  "description": "The most celebrated Chinese calligrapher.",
+  "polityIds": [
+   "jin-dynasty-266"
+  ],
+  "place": [
+   120.58,
+   30
+  ],
+  "wikiTitle": "Wang Xizhi",
+  "source": "Wikipedia: Wang Xizhi"
+ },
+ {
+  "id": "hang-tuah",
+  "name": "Hang Tuah",
+  "born": 1431,
+  "died": 1511,
+  "datesApproximate": true,
+  "role": "military",
+  "description": "Legendary warrior of Melaka.",
+  "polityIds": [
+   "melaka-sultanate"
+  ],
+  "place": [
+   102.25,
+   2.19
+  ],
+  "wikiTitle": "Hang Tuah",
+  "source": "Wikipedia: Hang Tuah"
+ },
+ {
+  "id": "aguda",
+  "name": "Wanyan Aguda",
+  "born": 1068,
+  "died": 1123,
+  "role": "ruler",
+  "description": "Founder of the Jurchen Jin dynasty.",
+  "polityIds": [
+   "jurchen-jin"
+  ],
+  "place": [
+   126.6,
+   45.5
+  ],
+  "wikiTitle": "Wanyan Aguda",
+  "source": "Wikipedia: Wanyan Aguda"
+ },
+ {
+  "id": "idris-alooma",
+  "name": "Idris Alooma",
+  "born": 1540,
+  "died": 1603,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Mai of Bornu at its height.",
+  "polityIds": [
+   "kanem-bornu"
+  ],
+  "place": [
+   13,
+   12.9
+  ],
+  "wikiTitle": "Idris Alooma",
+  "source": "Wikipedia: Idris Alooma"
+ },
+ {
+  "id": "ablai-khan",
+  "name": "Ablai Khan",
+  "born": 1711,
+  "died": 1781,
+  "role": "ruler",
+  "description": "Kazakh khan who resisted the Dzungars.",
+  "polityIds": [
+   "kazakh-khanate"
+  ],
+  "place": [
+   68.25,
+   43.3
+  ],
+  "wikiTitle": "Ablai Khan",
+  "source": "Wikipedia: Ablai Khan"
+ },
+ {
+  "id": "autshumao",
+  "name": "Autshumao",
+  "born": 1600,
+  "died": 1663,
+  "datesApproximate": true,
+  "role": "explorer",
+  "description": "Khoekhoe leader and interpreter for the Dutch at the Cape.",
+  "polityIds": [
+   "khoisan"
+  ],
+  "place": [
+   18.42,
+   -33.92
+  ],
+  "wikiTitle": "Autshumao",
+  "source": "Wikipedia: Autshumao"
+ },
+ {
+  "id": "bulan",
+  "name": "Bulan",
+  "born": 750,
+  "died": 820,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Khazar ruler linked to the conversion to Judaism.",
+  "polityIds": [
+   "khazar-khaganate"
+  ],
+  "place": [
+   47,
+   46
+  ],
+  "wikiTitle": "Bulan (Khazar)",
+  "source": "Wikipedia: Bulan (Khazar)"
+ },
+ {
+  "id": "yaroslav-the-wise",
+  "name": "Yaroslav the Wise",
+  "born": 978,
+  "died": 1054,
+  "role": "ruler",
+  "description": "Grand Prince of Kyiv.",
+  "polityIds": [
+   "kievan-rus"
+  ],
+  "place": [
+   30.52,
+   50.45
+  ],
+  "wikiTitle": "Yaroslav the Wise",
+  "source": "Wikipedia: Yaroslav the Wise"
+ },
+ {
+  "id": "olga-of-kiev",
+  "name": "Olga of Kiev",
+  "born": 890,
+  "died": 969,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Regent who adopted Christianity.",
+  "polityIds": [
+   "kievan-rus"
+  ],
+  "place": [
+   30.52,
+   50.45
+  ],
+  "wikiTitle": "Olga of Kiev",
+  "source": "Wikipedia: Olga of Kiev"
+ },
+ {
+  "id": "hans-christian-andersen",
+  "name": "Hans Christian Andersen",
+  "born": 1805,
+  "died": 1875,
+  "role": "writer",
+  "description": "Danish author of fairy tales.",
+  "polityIds": [
+   "kingdom-of-denmark"
+  ],
+  "place": [
+   12.57,
+   55.68
+  ],
+  "wikiTitle": "Hans Christian Andersen",
+  "source": "Wikipedia: Hans Christian Andersen"
+ },
+ {
+  "id": "oba-ewuare",
+  "name": "Ewuare",
+  "born": 1400,
+  "died": 1473,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Oba who made Benin an empire.",
+  "polityIds": [
+   "kingdom-of-benin"
+  ],
+  "place": [
+   5.63,
+   6.34
+  ],
+  "wikiTitle": "Ewuare",
+  "source": "Wikipedia: Ewuare"
+ },
+ {
+  "id": "afonso-i-kongo",
+  "name": "Afonso I of Kongo",
+  "born": 1456,
+  "died": 1542,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Christian king of Kongo.",
+  "polityIds": [
+   "kingdom-of-kongo"
+  ],
+  "place": [
+   14.25,
+   -6.27
+  ],
+  "wikiTitle": "Afonso I of Kongo",
+  "source": "Wikipedia: Afonso I of Kongo"
+ },
+ {
+  "id": "piye",
+  "name": "Piye",
+  "born": -780,
+  "died": -714,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Kushite king who conquered Egypt.",
+  "polityIds": [
+   "kingdom-of-kush"
+  ],
+  "place": [
+   31.83,
+   18.54
+  ],
+  "wikiTitle": "Piye",
+  "source": "Wikipedia: Piye"
+ },
+ {
+  "id": "alaungpaya",
+  "name": "Alaungpaya",
+  "born": 1714,
+  "died": 1760,
+  "role": "ruler",
+  "description": "Founder of the Konbaung dynasty.",
+  "polityIds": [
+   "konbaung-dynasty"
+  ],
+  "place": [
+   95.7,
+   22.6
+  ],
+  "wikiTitle": "Alaungpaya",
+  "source": "Wikipedia: Alaungpaya"
+ },
+ {
+  "id": "fa-ngum",
+  "name": "Fa Ngum",
+  "born": 1316,
+  "died": 1393,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Founder of Lan Xang.",
+  "polityIds": [
+   "lan-xang"
+  ],
+  "place": [
+   102.13,
+   19.89
+  ],
+  "wikiTitle": "Fa Ngum",
+  "source": "Wikipedia: Fa Ngum"
+ },
+ {
+  "id": "abaoji",
+  "name": "Abaoji",
+  "born": 872,
+  "died": 926,
+  "role": "ruler",
+  "description": "Founder of the Liao dynasty.",
+  "polityIds": [
+   "liao-dynasty"
+  ],
+  "place": [
+   119,
+   43.9
+  ],
+  "wikiTitle": "Abaoji",
+  "source": "Wikipedia: Abaoji"
+ },
+ {
+  "id": "ranavalona-i",
+  "name": "Ranavalona I",
+  "born": 1778,
+  "died": 1861,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Queen of Madagascar.",
+  "polityIds": [
+   "madagascar"
+  ],
+  "place": [
+   47.52,
+   -18.91
+  ],
+  "wikiTitle": "Ranavalona I",
+  "source": "Wikipedia: Ranavalona I"
+ },
+ {
+  "id": "baybars",
+  "name": "Baybars",
+  "born": 1223,
+  "died": 1277,
+  "role": "ruler",
+  "description": "Mamluk sultan who defeated the Mongols.",
+  "polityIds": [
+   "mamluk-sultanate"
+  ],
+  "place": [
+   31.24,
+   30.04
+  ],
+  "wikiTitle": "Baybars",
+  "source": "Wikipedia: Baybars"
+ },
+ {
+  "id": "te-rauparaha",
+  "name": "Te Rauparaha",
+  "born": 1765,
+  "died": 1849,
+  "datesApproximate": true,
+  "role": "military",
+  "description": "Ngāti Toa chief.",
+  "polityIds": [
+   "maori-aotearoa"
+  ],
+  "place": [
+   174.8,
+   -41.1
+  ],
+  "wikiTitle": "Te Rauparaha",
+  "source": "Wikipedia: Te Rauparaha"
+ },
+ {
+  "id": "sultan-agung",
+  "name": "Sultan Agung",
+  "born": 1593,
+  "died": 1645,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Sultan under whom Mataram reached its height.",
+  "polityIds": [
+   "mataram-sultanate"
+  ],
+  "place": [
+   110.4,
+   -7.8
+  ],
+  "wikiTitle": "Sultan Agung of Mataram",
+  "source": "Wikipedia: Sultan Agung of Mataram"
+ },
+ {
+  "id": "pakal",
+  "name": "Pakal the Great",
+  "born": 603,
+  "died": 683,
+  "role": "ruler",
+  "description": "King of Palenque.",
+  "polityIds": [
+   "maya"
+  ],
+  "place": [
+   -92.05,
+   17.48
+  ],
+  "wikiTitle": "K'inich Janaab' Pakal",
+  "source": "Wikipedia: K'inich Janaab' Pakal"
+ },
+ {
+  "id": "benito-juarez",
+  "name": "Benito Juárez",
+  "born": 1806,
+  "died": 1872,
+  "role": "ruler",
+  "description": "Zapotec lawyer who became president of Mexico.",
+  "polityIds": [
+   "mexico"
+  ],
+  "place": [
+   -99.13,
+   19.43
+  ],
+  "wikiTitle": "Benito Juárez",
+  "source": "Wikipedia: Benito Juárez"
+ },
+ {
+  "id": "frida-kahlo",
+  "name": "Frida Kahlo",
+  "born": 1907,
+  "died": 1954,
+  "role": "artist",
+  "description": "Mexican painter.",
+  "polityIds": [
+   "mexico"
+  ],
+  "place": [
+   -99.16,
+   19.35
+  ],
+  "wikiTitle": "Frida Kahlo",
+  "source": "Wikipedia: Frida Kahlo"
+ },
+ {
+  "id": "ben-bella",
+  "name": "Ahmed Ben Bella",
+  "born": 1916,
+  "died": 2012,
+  "role": "ruler",
+  "description": "First president of independent Algeria.",
+  "polityIds": [
+   "algeria"
+  ],
+  "place": [
+   3.06,
+   36.75
+  ],
+  "wikiTitle": "Ahmed Ben Bella",
+  "source": "Wikipedia: Ahmed Ben Bella"
+ },
+ {
+  "id": "knud-rasmussen",
+  "name": "Knud Rasmussen",
+  "born": 1879,
+  "died": 1933,
+  "role": "explorer",
+  "description": "Greenlandic-Danish explorer who recorded Inuit culture across the Arctic.",
+  "polityIds": [
+   "arctic-peoples",
+   "kingdom-of-denmark"
+  ],
+  "place": [
+   -51.7,
+   64.2
+  ],
+  "wikiTitle": "Knud Rasmussen",
+  "source": "Wikipedia: Knud Rasmussen"
+ },
+ {
+  "id": "sitting-bull",
+  "name": "Sitting Bull",
+  "born": 1831,
+  "died": 1890,
+  "datesApproximate": true,
+  "role": "religious",
+  "description": "Hunkpapa Lakota leader who resisted US policies.",
+  "polityIds": [
+   "plains-peoples"
+  ],
+  "place": [
+   -101,
+   45.5
+  ],
+  "wikiTitle": "Sitting Bull",
+  "source": "Wikipedia: Sitting Bull"
+ },
+ {
+  "id": "thanadelthur",
+  "name": "Thanadelthur",
+  "born": 1697,
+  "died": 1717,
+  "datesApproximate": true,
+  "role": "explorer",
+  "description": "Chipewyan (Dene) woman who brokered peace and trade with the Hudson’s Bay Company.",
+  "polityIds": [
+   "subarctic-peoples"
+  ],
+  "place": [
+   -94.2,
+   58.8
+  ],
+  "wikiTitle": "Thanadelthur",
+  "source": "Wikipedia: Thanadelthur"
+ },
+ {
+  "id": "anacaona",
+  "name": "Anacaona",
+  "born": 1474,
+  "died": 1504,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Taíno cacica (chief) of Hispaniola, executed by the Spanish.",
+  "polityIds": [
+   "taino-caribbean"
+  ],
+  "place": [
+   -72.3,
+   18.5
+  ],
+  "wikiTitle": "Anacaona",
+  "source": "Wikipedia: Anacaona"
+ },
+ {
+  "id": "lautaro",
+  "name": "Lautaro",
+  "born": 1534,
+  "died": 1557,
+  "datesApproximate": true,
+  "role": "military",
+  "description": "Mapuche leader who defeated the Spanish governor Valdivia.",
+  "polityIds": [
+   "southern-cone-peoples"
+  ],
+  "place": [
+   -73,
+   -37.8
+  ],
+  "wikiTitle": "Lautaro",
+  "source": "Wikipedia: Lautaro"
+ },
+ {
+  "id": "chief-joseph",
+  "name": "Chief Joseph",
+  "born": 1840,
+  "died": 1904,
+  "role": "military",
+  "description": "Nez Perce leader known for his 1877 retreat.",
+  "polityIds": [
+   "western-north-american-peoples"
+  ],
+  "place": [
+   -117.2,
+   45.4
+  ],
+  "wikiTitle": "Chief Joseph",
+  "source": "Wikipedia: Chief Joseph"
+ },
+ {
+  "id": "pope-pueblo",
+  "name": "Popé",
+  "born": 1630,
+  "died": 1688,
+  "datesApproximate": true,
+  "role": "religious",
+  "description": "Tewa leader of the Pueblo Revolt (1680) against Spanish rule.",
+  "polityIds": [
+   "ancestral-puebloans"
+  ],
+  "place": [
+   -106.1,
+   36
+  ],
+  "wikiTitle": "Popé",
+  "source": "Wikipedia: Popé"
+ },
+ {
+  "id": "bennelong",
+  "name": "Bennelong",
+  "born": 1764,
+  "died": 1813,
+  "datesApproximate": true,
+  "role": "explorer",
+  "description": "Wangal man who acted as a go-between with the early British colony at Sydney.",
+  "polityIds": [
+   "aboriginal-australians"
+  ],
+  "place": [
+   151.21,
+   -33.86
+  ],
+  "wikiTitle": "Bennelong",
+  "source": "Wikipedia: Bennelong"
+ },
+ {
+  "id": "ajuricaba",
+  "name": "Ajuricaba",
+  "born": 1690,
+  "died": 1727,
+  "datesApproximate": true,
+  "role": "military",
+  "description": "Manaus leader who resisted Portuguese slavers in the Amazon.",
+  "polityIds": [
+   "amazonian-peoples"
+  ],
+  "place": [
+   -62,
+   -0.5
+  ],
+  "wikiTitle": "Ajuricaba",
+  "source": "Wikipedia: Ajuricaba"
+ },
+ {
+  "id": "imru-al-qais",
+  "name": "Imru' al-Qais",
+  "born": 501,
+  "died": 544,
+  "datesApproximate": true,
+  "role": "writer",
+  "description": "The most famous poet of pre-Islamic Arabia.",
+  "polityIds": [
+   "pre-islamic-arabia"
+  ],
+  "place": [
+   45,
+   24
+  ],
+  "wikiTitle": "Imru' al-Qais",
+  "source": "Wikipedia: Imru' al-Qais"
+ },
+ {
+  "id": "tomyris",
+  "name": "Tomyris",
+  "born": -570,
+  "died": -520,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Massagetae queen said to have defeated Cyrus the Great.",
+  "polityIds": [
+   "scythians"
+  ],
+  "place": [
+   61,
+   42
+  ],
+  "wikiTitle": "Tomyris",
+  "source": "Wikipedia: Tomyris"
+ },
+ {
+  "id": "fan-shiman",
+  "name": "Fan Shiman",
+  "born": 170,
+  "died": 225,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "King of Funan who, Chinese sources say, built a large sea power.",
+  "polityIds": [
+   "funan"
+  ],
+  "place": [
+   105.16,
+   10.26
+  ],
+  "wikiTitle": "Fan Shiman",
+  "source": "Wikipedia: Fan Shiman"
+ },
+ {
+  "id": "tunka-manin",
+  "name": "Tunka Manin",
+  "born": 1020,
+  "died": 1078,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "King of Ghana described by al-Bakri in 1068.",
+  "polityIds": [
+   "ghana-empire"
+  ],
+  "place": [
+   -7.98,
+   15.77
+  ],
+  "wikiTitle": "Tunka Manin",
+  "source": "Wikipedia: Tunka Manin"
+ },
+ {
+  "id": "abdul-jalil-iv",
+  "name": "Abdul Jalil Shah IV",
+  "born": 1650,
+  "died": 1721,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Sultan of Johor who founded the Bendahara dynasty.",
+  "polityIds": [
+   "johor-sultanate"
+  ],
+  "place": [
+   103.76,
+   1.47
+  ],
+  "wikiTitle": "Abdul Jalil Shah IV of Johor",
+  "source": "Wikipedia: Abdul Jalil Shah IV of Johor"
+ },
+ {
+  "id": "al-hasan-ibn-sulaiman",
+  "name": "Al-Hasan ibn Sulaiman",
+  "born": 1280,
+  "died": 1333,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Sultan of Kilwa who built the Husuni Kubwa palace.",
+  "polityIds": [
+   "kilwa-sultanate"
+  ],
+  "place": [
+   39.51,
+   -8.96
+  ],
+  "wikiTitle": "Al-Hasan ibn Sulaiman",
+  "source": "Wikipedia: Al-Hasan ibn Sulaiman"
+ },
+ {
+  "id": "qalidurut",
+  "name": "Qalidurut",
+  "born": 610,
+  "died": 670,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "King of Makuria who made the Baqt treaty with Egypt.",
+  "polityIds": [
+   "makuria"
+  ],
+  "place": [
+   30.74,
+   18.22
+  ],
+  "wikiTitle": "Qalidurut",
+  "source": "Wikipedia: Qalidurut"
+ },
+ {
+  "id": "baabullah",
+  "name": "Baabullah of Ternate",
+  "born": 1528,
+  "died": 1583,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Sultan who drove the Portuguese from Ternate.",
+  "polityIds": [
+   "malay-sultanates"
+  ],
+  "place": [
+   127.38,
+   0.79
+  ],
+  "wikiTitle": "Baabullah of Ternate",
+  "source": "Wikipedia: Baabullah of Ternate"
+ },
+ {
+  "id": "tuscaloosa",
+  "name": "Tuskaloosa",
+  "born": 1490,
+  "died": 1540,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Mississippian chief who fought de Soto at Mabila.",
+  "polityIds": [
+   "mississippian"
+  ],
+  "place": [
+   -87.6,
+   32.4
+  ],
+  "wikiTitle": "Tuskaloosa",
+  "source": "Wikipedia: Tuskaloosa"
+ },
+ {
+  "id": "lord-of-sipan",
+  "name": "Lord of Sipán",
+  "born": 210,
+  "died": 250,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Moche ruler whose rich tomb was found in 1987.",
+  "polityIds": [
+   "moche"
+  ],
+  "place": [
+   -79.6,
+   -6.8
+  ],
+  "wikiTitle": "Lord of Sipán",
+  "source": "Wikipedia: Lord of Sipán"
+ },
+ {
+  "id": "muhammad-ali-pasha",
+  "name": "Muhammad Ali of Egypt",
+  "born": 1769,
+  "died": 1849,
+  "role": "ruler",
+  "description": "Founder of modern Egypt.",
+  "polityIds": [
+   "modern-egypt"
+  ],
+  "place": [
+   31.24,
+   30.04
+  ],
+  "wikiTitle": "Muhammad Ali of Egypt",
+  "source": "Wikipedia: Muhammad Ali of Egypt"
+ },
+ {
+  "id": "nasser",
+  "name": "Gamal Abdel Nasser",
+  "born": 1918,
+  "died": 1970,
+  "role": "ruler",
+  "description": "President of Egypt and leader of Arab nationalism.",
+  "polityIds": [
+   "modern-egypt"
+  ],
+  "place": [
+   31.24,
+   30.04
+  ],
+  "wikiTitle": "Gamal Abdel Nasser",
+  "source": "Wikipedia: Gamal Abdel Nasser"
+ },
+ {
+  "id": "kurosawa",
+  "name": "Akira Kurosawa",
+  "born": 1910,
+  "died": 1998,
+  "role": "artist",
+  "description": "Japanese film director.",
+  "polityIds": [
+   "modern-japan",
+   "empire-of-japan"
+  ],
+  "place": [
+   139.69,
+   35.68
+  ],
+  "wikiTitle": "Akira Kurosawa",
+  "source": "Wikipedia: Akira Kurosawa"
+ },
+ {
+  "id": "sukhbaatar",
+  "name": "Damdin Sükhbaatar",
+  "born": 1893,
+  "died": 1923,
+  "role": "military",
+  "description": "Leader of the 1921 Mongolian revolution.",
+  "polityIds": [
+   "mongolia"
+  ],
+  "place": [
+   106.92,
+   47.92
+  ],
+  "wikiTitle": "Damdin Sükhbaatar",
+  "source": "Wikipedia: Damdin Sükhbaatar"
+ },
+ {
+  "id": "moulay-ismail",
+  "name": "Moulay Ismail",
+  "born": 1645,
+  "died": 1727,
+  "role": "ruler",
+  "description": "Alaouite sultan who built Meknes.",
+  "polityIds": [
+   "morocco"
+  ],
+  "place": [
+   -5.55,
+   33.9
+  ],
+  "wikiTitle": "Ismail Ibn Sharif",
+  "source": "Wikipedia: Ismail Ibn Sharif"
+ },
+ {
+  "id": "ivan-iii",
+  "name": "Ivan III",
+  "born": 1440,
+  "died": 1505,
+  "role": "ruler",
+  "description": "Grand Prince who ended tribute to the Golden Horde.",
+  "polityIds": [
+   "muscovy"
+  ],
+  "place": [
+   37.62,
+   55.75
+  ],
+  "wikiTitle": "Ivan III of Russia",
+  "source": "Wikipedia: Ivan III of Russia"
+ },
+ {
+  "id": "ivan-the-terrible",
+  "name": "Ivan the Terrible",
+  "born": 1530,
+  "died": 1584,
+  "role": "ruler",
+  "description": "First Tsar of Russia.",
+  "polityIds": [
+   "muscovy"
+  ],
+  "place": [
+   37.62,
+   55.75
+  ],
+  "wikiTitle": "Ivan the Terrible",
+  "source": "Wikipedia: Ivan the Terrible"
+ },
+ {
+  "id": "piluoge",
+  "name": "Piluoge",
+  "born": 697,
+  "died": 748,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Founder of Nanzhao.",
+  "polityIds": [
+   "nanzhao-dali"
+  ],
+  "place": [
+   100.23,
+   25.6
+  ],
+  "wikiTitle": "Piluoge",
+  "source": "Wikipedia: Piluoge"
+ },
+ {
+  "id": "narmer",
+  "name": "Narmer",
+  "born": -3150,
+  "died": -3100,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "King traditionally credited with uniting Egypt.",
+  "polityIds": [
+   "naqada",
+   "ancient-egypt"
+  ],
+  "place": [
+   32.78,
+   25.1
+  ],
+  "wikiTitle": "Narmer",
+  "source": "Wikipedia: Narmer"
+ },
+ {
+  "id": "gia-long",
+  "name": "Gia Long",
+  "born": 1762,
+  "died": 1820,
+  "role": "ruler",
+  "description": "Founder of the Nguyễn dynasty.",
+  "polityIds": [
+   "nguyen-vietnam"
+  ],
+  "place": [
+   107.58,
+   16.46
+  ],
+  "wikiTitle": "Gia Long",
+  "source": "Wikipedia: Gia Long"
+ },
+ {
+  "id": "emperor-wu-of-liang",
+  "name": "Emperor Wu of Liang",
+  "born": 464,
+  "died": 549,
+  "role": "ruler",
+  "description": "Buddhist emperor of the Southern Liang.",
+  "polityIds": [
+   "northern-southern-dynasties"
+  ],
+  "place": [
+   118.8,
+   32.06
+  ],
+  "wikiTitle": "Emperor Wu of Liang",
+  "source": "Wikipedia: Emperor Wu of Liang"
+ },
+ {
+  "id": "bashorun-gaha",
+  "name": "Bashorun Gaha",
+  "born": 1720,
+  "died": 1774,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Powerful chief minister of Oyo.",
+  "polityIds": [
+   "oyo-empire"
+  ],
+  "place": [
+   4.1,
+   8.95
+  ],
+  "wikiTitle": "Bashorun Gaha",
+  "source": "Wikipedia: Bashorun Gaha"
+ },
+ {
+  "id": "anawrahta",
+  "name": "Anawrahta",
+  "born": 1014,
+  "died": 1077,
+  "role": "ruler",
+  "description": "Founder of the Pagan Empire.",
+  "polityIds": [
+   "pagan-kingdom"
+  ],
+  "place": [
+   94.86,
+   21.17
+  ],
+  "wikiTitle": "Anawrahta",
+  "source": "Wikipedia: Anawrahta"
+ },
+ {
+  "id": "dharmapala",
+  "name": "Dharmapala",
+  "born": 740,
+  "died": 810,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Pala emperor who founded Vikramashila.",
+  "polityIds": [
+   "pala-empire"
+  ],
+  "place": [
+   85.14,
+   25.6
+  ],
+  "wikiTitle": "Dharmapala (emperor)",
+  "source": "Wikipedia: Dharmapala (emperor)"
+ },
+ {
+  "id": "mithridates-ii",
+  "name": "Mithridates II",
+  "born": -160,
+  "died": -91,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Parthian king who extended the empire.",
+  "polityIds": [
+   "parthian-empire"
+  ],
+  "place": [
+   54.3,
+   37.8
+  ],
+  "wikiTitle": "Mithridates II of Parthia",
+  "source": "Wikipedia: Mithridates II of Parthia"
+ },
+ {
+  "id": "corazon-aquino",
+  "name": "Corazon Aquino",
+  "born": 1933,
+  "died": 2009,
+  "role": "ruler",
+  "description": "First woman president of the Philippines.",
+  "polityIds": [
+   "philippines"
+  ],
+  "place": [
+   121,
+   14.6
+  ],
+  "wikiTitle": "Corazon Aquino",
+  "source": "Wikipedia: Corazon Aquino"
+ },
+ {
+  "id": "hiram-i",
+  "name": "Hiram I",
+  "born": -1000,
+  "died": -947,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "King of Tyre.",
+  "polityIds": [
+   "phoenicia"
+  ],
+  "place": [
+   35.2,
+   33.27
+  ],
+  "wikiTitle": "Hiram I",
+  "source": "Wikipedia: Hiram I"
+ },
+ {
+  "id": "casimir-iii",
+  "name": "Casimir III the Great",
+  "born": 1310,
+  "died": 1370,
+  "role": "ruler",
+  "description": "King who rebuilt Poland.",
+  "polityIds": [
+   "poland-lithuania-medieval"
+  ],
+  "place": [
+   19.94,
+   50.06
+  ],
+  "wikiTitle": "Casimir III the Great",
+  "source": "Wikipedia: Casimir III the Great"
+ },
+ {
+  "id": "jadwiga",
+  "name": "Jadwiga of Poland",
+  "born": 1374,
+  "died": 1399,
+  "role": "ruler",
+  "description": "Queen whose marriage united Poland and Lithuania.",
+  "polityIds": [
+   "poland-lithuania-medieval"
+  ],
+  "place": [
+   19.94,
+   50.06
+  ],
+  "wikiTitle": "Jadwiga of Poland",
+  "source": "Wikipedia: Jadwiga of Poland"
+ },
+ {
+  "id": "mohammad-reza-pahlavi",
+  "name": "Mohammad Reza Pahlavi",
+  "born": 1919,
+  "died": 1980,
+  "role": "ruler",
+  "description": "Last Shah of Iran.",
+  "polityIds": [
+   "qajar-pahlavi-iran"
+  ],
+  "place": [
+   51.39,
+   35.69
+  ],
+  "wikiTitle": "Mohammad Reza Pahlavi",
+  "source": "Wikipedia: Mohammad Reza Pahlavi"
+ },
+ {
+  "id": "chulalongkorn",
+  "name": "Chulalongkorn",
+  "born": 1853,
+  "died": 1910,
+  "role": "ruler",
+  "description": "King who modernised Siam.",
+  "polityIds": [
+   "rattanakosin-siam"
+  ],
+  "place": [
+   100.5,
+   13.75
+  ],
+  "wikiTitle": "Chulalongkorn",
+  "source": "Wikipedia: Chulalongkorn"
+ },
+ {
+  "id": "enrico-dandolo",
+  "name": "Enrico Dandolo",
+  "born": 1107,
+  "died": 1205,
+  "role": "ruler",
+  "description": "Doge of Venice in the Fourth Crusade.",
+  "polityIds": [
+   "republic-of-venice"
+  ],
+  "place": [
+   12.33,
+   45.44
+  ],
+  "wikiTitle": "Enrico Dandolo",
+  "source": "Wikipedia: Enrico Dandolo"
+ },
+ {
+  "id": "yeltsin",
+  "name": "Boris Yeltsin",
+  "born": 1931,
+  "died": 2007,
+  "role": "ruler",
+  "description": "First President of Russia.",
+  "polityIds": [
+   "russian-federation"
+  ],
+  "place": [
+   37.62,
+   55.75
+  ],
+  "wikiTitle": "Boris Yeltsin",
+  "source": "Wikipedia: Boris Yeltsin"
+ },
+ {
+  "id": "shapur-i",
+  "name": "Shapur I",
+  "born": 215,
+  "died": 270,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Sasanian king who captured the Roman emperor Valerian.",
+  "polityIds": [
+   "sasanian"
+  ],
+  "place": [
+   52.89,
+   29.98
+  ],
+  "wikiTitle": "Shapur I",
+  "source": "Wikipedia: Shapur I"
+ },
+ {
+  "id": "khosrow-i",
+  "name": "Khosrow I",
+  "born": 501,
+  "died": 579,
+  "role": "ruler",
+  "description": "Sasanian king known for reforms.",
+  "polityIds": [
+   "sasanian"
+  ],
+  "place": [
+   44.58,
+   33.09
+  ],
+  "wikiTitle": "Khosrow I",
+  "source": "Wikipedia: Khosrow I"
+ },
+ {
+  "id": "ibn-saud",
+  "name": "Ibn Saud",
+  "born": 1875,
+  "died": 1953,
+  "role": "ruler",
+  "description": "Founder of Saudi Arabia.",
+  "polityIds": [
+   "saudi-arabia"
+  ],
+  "place": [
+   46.72,
+   24.69
+  ],
+  "wikiTitle": "Ibn Saud",
+  "source": "Wikipedia: Ibn Saud"
+ },
+ {
+  "id": "seleucus-i",
+  "name": "Seleucus I Nicator",
+  "born": -358,
+  "died": -281,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Founder of the Seleucid Empire.",
+  "polityIds": [
+   "seleucid-empire"
+  ],
+  "place": [
+   36.16,
+   36.2
+  ],
+  "wikiTitle": "Seleucus I Nicator",
+  "source": "Wikipedia: Seleucus I Nicator"
+ },
+ {
+  "id": "fu-hao",
+  "name": "Fu Hao",
+  "born": -1240,
+  "died": -1200,
+  "datesApproximate": true,
+  "role": "military",
+  "description": "Shang queen and general.",
+  "polityIds": [
+   "shang"
+  ],
+  "place": [
+   114.35,
+   36.1
+  ],
+  "wikiTitle": "Fu Hao",
+  "source": "Wikipedia: Fu Hao"
+ },
+ {
+  "id": "seondeok",
+  "name": "Seondeok of Silla",
+  "born": 606,
+  "died": 647,
+  "role": "ruler",
+  "description": "First reigning queen of Silla.",
+  "polityIds": [
+   "silla"
+  ],
+  "place": [
+   129.22,
+   35.84
+  ],
+  "wikiTitle": "Seondeok of Silla",
+  "source": "Wikipedia: Seondeok of Silla"
+ },
+ {
+  "id": "lee-kuan-yew",
+  "name": "Lee Kuan Yew",
+  "born": 1923,
+  "died": 2015,
+  "role": "ruler",
+  "description": "First Prime Minister of Singapore.",
+  "polityIds": [
+   "singapore"
+  ],
+  "place": [
+   103.82,
+   1.35
+  ],
+  "wikiTitle": "Lee Kuan Yew",
+  "source": "Wikipedia: Lee Kuan Yew"
+ },
+ {
+  "id": "usman-dan-fodio",
+  "name": "Usman dan Fodio",
+  "born": 1754,
+  "died": 1817,
+  "role": "religious",
+  "description": "Founder of the Sokoto Caliphate.",
+  "polityIds": [
+   "sokoto-caliphate"
+  ],
+  "place": [
+   5.24,
+   13.06
+  ],
+  "wikiTitle": "Usman dan Fodio",
+  "source": "Wikipedia: Usman dan Fodio"
+ },
+ {
+  "id": "nana-asmau",
+  "name": "Nana Asma'u",
+  "born": 1793,
+  "died": 1864,
+  "role": "writer",
+  "description": "Poet and teacher of women in Sokoto.",
+  "polityIds": [
+   "sokoto-caliphate"
+  ],
+  "place": [
+   5.24,
+   13.06
+  ],
+  "wikiTitle": "Nana Asma'u",
+  "source": "Wikipedia: Nana Asma'u"
+ },
+ {
+  "id": "askia-muhammad",
+  "name": "Askia Muhammad I",
+  "born": 1443,
+  "died": 1538,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Songhai emperor.",
+  "polityIds": [
+   "songhai-empire"
+  ],
+  "place": [
+   0.04,
+   16.27
+  ],
+  "wikiTitle": "Askia Muhammad I",
+  "source": "Wikipedia: Askia Muhammad I"
+ },
+ {
+  "id": "ismail-al-azhari",
+  "name": "Ismail al-Azhari",
+  "born": 1900,
+  "died": 1969,
+  "role": "ruler",
+  "description": "First Prime Minister of Sudan.",
+  "polityIds": [
+   "sudan"
+  ],
+  "place": [
+   32.53,
+   15.5
+  ],
+  "wikiTitle": "Ismail al-Azhari",
+  "source": "Wikipedia: Ismail al-Azhari"
+ },
+ {
+  "id": "emperor-wen-of-sui",
+  "name": "Emperor Wen of Sui",
+  "born": 541,
+  "died": 604,
+  "role": "ruler",
+  "description": "Reunified China in 589.",
+  "polityIds": [
+   "sui"
+  ],
+  "place": [
+   108.94,
+   34.26
+  ],
+  "wikiTitle": "Emperor Wen of Sui",
+  "source": "Wikipedia: Emperor Wen of Sui"
+ },
+ {
+  "id": "jamalul-kiram-ii",
+  "name": "Jamalul Kiram II",
+  "born": 1884,
+  "died": 1936,
+  "role": "ruler",
+  "description": "Last ruling Sultan of Sulu.",
+  "polityIds": [
+   "sulu-sultanate"
+  ],
+  "place": [
+   121,
+   6.05
+  ],
+  "wikiTitle": "Jamalul Kiram II",
+  "source": "Wikipedia: Jamalul Kiram II"
+ },
+ {
+  "id": "linnaeus",
+  "name": "Carl Linnaeus",
+  "born": 1707,
+  "died": 1778,
+  "role": "scientist",
+  "description": "Created the system for naming living things.",
+  "polityIds": [
+   "sweden-modern",
+   "swedish-empire"
+  ],
+  "place": [
+   17.64,
+   59.86
+  ],
+  "wikiTitle": "Carl Linnaeus",
+  "source": "Wikipedia: Carl Linnaeus"
+ },
+ {
+  "id": "alfred-nobel",
+  "name": "Alfred Nobel",
+  "born": 1833,
+  "died": 1896,
+  "role": "scientist",
+  "description": "Inventor of dynamite who founded the Nobel Prizes.",
+  "polityIds": [
+   "sweden-modern"
+  ],
+  "place": [
+   18.07,
+   59.33
+  ],
+  "wikiTitle": "Alfred Nobel",
+  "source": "Wikipedia: Alfred Nobel"
+ },
+ {
+  "id": "fifth-dalai-lama",
+  "name": "Ngawang Lobsang Gyatso",
+  "born": 1617,
+  "died": 1682,
+  "role": "religious",
+  "description": "The 5th Dalai Lama, who united Tibet.",
+  "polityIds": [
+   "tibet"
+  ],
+  "place": [
+   91.17,
+   29.65
+  ],
+  "wikiTitle": "5th Dalai Lama",
+  "source": "Wikipedia: 5th Dalai Lama"
+ },
+ {
+  "id": "tsongkhapa",
+  "name": "Tsongkhapa",
+  "born": 1357,
+  "died": 1419,
+  "role": "religious",
+  "description": "Founder of the Gelug school of Tibetan Buddhism.",
+  "polityIds": [
+   "tibet"
+  ],
+  "place": [
+   91.17,
+   29.65
+  ],
+  "wikiTitle": "Tsongkhapa",
+  "source": "Wikipedia: Tsongkhapa"
+ },
+ {
+  "id": "bayinnaung",
+  "name": "Bayinnaung",
+  "born": 1516,
+  "died": 1581,
+  "role": "ruler",
+  "description": "Toungoo king who built the largest empire in Southeast Asian history.",
+  "polityIds": [
+   "toungoo-dynasty"
+  ],
+  "place": [
+   96.48,
+   17.34
+  ],
+  "wikiTitle": "Bayinnaung",
+  "source": "Wikipedia: Bayinnaung"
+ },
+ {
+  "id": "bilge-khagan",
+  "name": "Bilge Khagan",
+  "born": 683,
+  "died": 734,
+  "role": "ruler",
+  "description": "Göktürk ruler commemorated in the Orkhon inscriptions.",
+  "polityIds": [
+   "turkic-khaganates"
+  ],
+  "place": [
+   102.8,
+   47.6
+  ],
+  "wikiTitle": "Bilge Khagan",
+  "source": "Wikipedia: Bilge Khagan"
+ },
+ {
+  "id": "abd-al-malik",
+  "name": "Abd al-Malik",
+  "born": 646,
+  "died": 705,
+  "role": "ruler",
+  "description": "Umayyad caliph who built the Dome of the Rock.",
+  "polityIds": [
+   "umayyad-caliphate"
+  ],
+  "place": [
+   36.3,
+   33.5
+  ],
+  "wikiTitle": "Abd al-Malik",
+  "source": "Wikipedia: Abd al-Malik"
+ },
+ {
+  "id": "bayanchur-khan",
+  "name": "Bayanchur Khan",
+  "born": 713,
+  "died": 759,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Uyghur khagan who helped the Tang against An Lushan.",
+  "polityIds": [
+   "uyghur-khaganate"
+  ],
+  "place": [
+   102.66,
+   47.43
+  ],
+  "wikiTitle": "Bayanchur Khan",
+  "source": "Wikipedia: Bayanchur Khan"
+ },
+ {
+  "id": "leif-erikson",
+  "name": "Leif Erikson",
+  "born": 970,
+  "died": 1020,
+  "datesApproximate": true,
+  "role": "explorer",
+  "description": "Norse explorer who reached North America.",
+  "polityIds": [
+   "viking-age-norse"
+  ],
+  "place": [
+   -55.53,
+   51.59
+  ],
+  "wikiTitle": "Leif Erikson",
+  "source": "Wikipedia: Leif Erikson"
+ },
+ {
+  "id": "harald-hardrada",
+  "name": "Harald Hardrada",
+  "born": 1015,
+  "died": 1066,
+  "role": "ruler",
+  "description": "King of Norway killed at Stamford Bridge.",
+  "polityIds": [
+   "viking-age-norse"
+  ],
+  "place": [
+   10.75,
+   59.91
+  ],
+  "wikiTitle": "Harald Hardrada",
+  "source": "Wikipedia: Harald Hardrada"
+ },
+ {
+  "id": "almis",
+  "name": "Almış",
+  "born": 870,
+  "died": 925,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Ruler of Volga Bulgaria who adopted Islam.",
+  "polityIds": [
+   "volga-bulgaria"
+  ],
+  "place": [
+   49.08,
+   54.98
+  ],
+  "wikiTitle": "Almış",
+  "source": "Wikipedia: Almış"
+ },
+ {
+  "id": "modu-chanyu",
+  "name": "Modu Chanyu",
+  "born": -234,
+  "died": -174,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Founder of the Xiongnu empire.",
+  "polityIds": [
+   "xiongnu"
+  ],
+  "place": [
+   102.8,
+   47.2
+  ],
+  "wikiTitle": "Modu Chanyu",
+  "source": "Wikipedia: Modu Chanyu"
+ },
+ {
+  "id": "li-yuanhao",
+  "name": "Li Yuanhao",
+  "born": 1003,
+  "died": 1048,
+  "role": "ruler",
+  "description": "First emperor of Western Xia.",
+  "polityIds": [
+   "western-xia"
+  ],
+  "place": [
+   106.27,
+   38.47
+  ],
+  "wikiTitle": "Emperor Jingzong of Western Xia",
+  "source": "Wikipedia: Emperor Jingzong of Western Xia"
+ },
+ {
+  "id": "arwa-al-sulayhi",
+  "name": "Arwa al-Sulayhi",
+  "born": 1048,
+  "died": 1138,
+  "role": "ruler",
+  "description": "Queen who ruled Yemen for decades.",
+  "polityIds": [
+   "yemen-states"
+  ],
+  "place": [
+   44.2,
+   13.97
+  ],
+  "wikiTitle": "Arwa al-Sulayhi",
+  "source": "Wikipedia: Arwa al-Sulayhi"
+ },
+ {
+  "id": "cocijoeza",
+  "name": "Cocijoeza",
+  "born": 1450,
+  "died": 1529,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Zapotec king who resisted the Aztecs.",
+  "polityIds": [
+   "zapotec"
+  ],
+  "place": [
+   -96.7,
+   17
+  ],
+  "wikiTitle": "Cocijoeza",
+  "source": "Wikipedia: Cocijoeza"
  }
 ]

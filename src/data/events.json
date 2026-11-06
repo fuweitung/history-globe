@@ -86,7 +86,9 @@
     "type": "invention",
     "title": "Maize domesticated in Mexico",
     "description": "Indigenous peoples in southern Mexico breed maize from the wild grass teosinte.",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "early-mesoamerican-farmers"
+    ],
     "source": "Wikipedia: Maize (date from general references; not stated in the summary checked 6 Nov 2026)"
   },
   {
@@ -189,7 +191,9 @@
     "type": "person",
     "title": "Ötzi the Iceman",
     "description": "A Copper Age man dies in the Alps; his natural mummy, found in 1991, is Europe’s oldest.",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "neolithic-bronze-europe"
+    ],
     "source": "Wikipedia: Ötzi (checked 6 Nov 2026)"
   },
   {
@@ -215,7 +219,8 @@
     "title": "Unification of Egypt",
     "description": "Upper and Lower Egypt are united under one king, traditionally Narmer (Menes), beginning about 3,000 years of pharaonic rule.",
     "relatedPolityIds": [
-      "ancient-egypt"
+      "ancient-egypt",
+      "naqada"
     ]
   },
   {
@@ -267,7 +272,9 @@
     "type": "culture",
     "title": "Stonehenge",
     "description": "The great sarsen stones of Stonehenge are raised in southern Britain (around 2500 BCE).",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "neolithic-bronze-europe"
+    ],
     "source": "Wikipedia: Stonehenge (year from general references; not stated in the summary checked 6 Nov 2026)"
   },
   {
@@ -476,7 +483,8 @@
     "title": "Phoenician alphabet",
     "description": "The Phoenician alphabet, ancestor of the Greek, Latin and Arabic scripts, is in use.",
     "relatedPolityIds": [
-      "carthage"
+      "carthage",
+      "phoenicia"
     ],
     "source": "Wikipedia: Phoenician alphabet (checked 6 Nov 2026)"
   },
@@ -2876,7 +2884,8 @@
     "title": "Columbus reaches the Americas",
     "description": "Columbus’s voyage begins sustained contact between Europe and the Americas.",
     "relatedPolityIds": [
-      "spanish-empire"
+      "spanish-empire",
+      "taino-caribbean"
     ]
   },
   {
@@ -4050,7 +4059,8 @@
     "relatedPolityIds": [
       "ottoman-empire",
       "british-empire",
-      "french-colonial-empire"
+      "french-colonial-empire",
+      "modern-egypt"
     ]
   },
   {
@@ -4930,7 +4940,9 @@
     "type": "culture",
     "title": "Apartheid in South Africa",
     "description": "South Africa’s government introduces apartheid, a system of legal racial segregation and white minority rule.",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "south-africa"
+    ],
     "source": "Wikipedia: Apartheid"
   },
   {
@@ -5026,7 +5038,8 @@
     "title": "Vietnam War",
     "description": "North Vietnam and the Viet Cong fight South Vietnam and the United States. It ends with the fall of Saigon on 30 April 1975. Vietnamese deaths are estimated at about 1–3 million.",
     "relatedPolityIds": [
-      "united-states"
+      "united-states",
+      "vietnam-modern"
     ],
     "source": "Wikipedia: Vietnam War (checked 6 Nov 2026)"
   },
@@ -5040,7 +5053,8 @@
     "description": "Britain, France and Israel invade Egypt after it nationalises the Suez Canal. US and Soviet pressure forces them to withdraw.",
     "relatedPolityIds": [
       "british-empire",
-      "french-colonial-empire"
+      "french-colonial-empire",
+      "modern-egypt"
     ],
     "source": "Wikipedia: Suez Crisis"
   },
@@ -5144,7 +5158,8 @@
     "title": "Algerian independence",
     "description": "After an eight-year war, Algeria becomes independent from France.",
     "relatedPolityIds": [
-      "french-colonial-empire"
+      "french-colonial-empire",
+      "algeria"
     ]
   },
   {
@@ -5200,7 +5215,8 @@
     "title": "Singapore leaves Malaysia",
     "description": "Singapore separates from Malaysia and becomes an independent country on 9 August 1965.",
     "relatedPolityIds": [
-      "malaysia"
+      "malaysia",
+      "singapore"
     ],
     "source": "Wikipedia: Singapore in Malaysia"
   },
@@ -5304,7 +5320,9 @@
     "type": "trade",
     "title": "1973 oil crisis",
     "description": "An Arab oil embargo quadruples oil prices, shaking the world economy.",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "saudi-arabia"
+    ],
     "source": "Wikipedia: 1973 oil crisis"
   },
   {
@@ -5367,7 +5385,8 @@
     "title": "Soviet–Afghan War",
     "description": "Soviet troops intervene in Afghanistan and fight a long war against mujahideen fighters.",
     "relatedPolityIds": [
-      "soviet-union"
+      "soviet-union",
+      "afghanistan"
     ],
     "source": "Wikipedia: Soviet–Afghan War"
   },
@@ -5439,7 +5458,8 @@
     "title": "Dissolution of the Soviet Union",
     "description": "The Soviet Union dissolves into 15 independent states.",
     "relatedPolityIds": [
-      "soviet-union"
+      "soviet-union",
+      "russian-federation"
     ]
   },
   {
@@ -5472,7 +5492,9 @@
     "type": "person",
     "title": "End of apartheid",
     "description": "Nelson Mandela becomes South Africa’s first democratically elected president after the first all-race elections.",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "south-africa"
+    ],
     "source": "Wikipedia: 1994 South African general election"
   },
   {
@@ -5694,7 +5716,9 @@
     "type": "war",
     "title": "Russian invasion of Ukraine",
     "description": "Russia launches a full-scale invasion of Ukraine, the largest war in Europe since 1945.",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "russian-federation"
+    ],
     "source": "Wikipedia: Russian invasion of Ukraine"
   },
   {
@@ -5733,5 +5757,1810 @@
     "description": "The war begins on 7 October 2023 with a Hamas-led attack on Israel, followed by an Israeli military campaign in Gaza; it causes very heavy loss of life and a humanitarian crisis.",
     "relatedPolityIds": [],
     "source": "Wikipedia: Gaza war (checked 6 Nov 2026)"
+  },
+  {
+    "id": "budj-bim-eel-traps",
+    "year": -4600,
+    "yearApproximate": true,
+    "lat": -38.1,
+    "lng": 141.9,
+    "type": "invention",
+    "title": "Budj Bim eel traps",
+    "description": "The Gunditjmara people build channels and weirs to farm eels, one of the world’s oldest aquaculture systems (now a World Heritage Site).",
+    "relatedPolityIds": [
+      "aboriginal-australians"
+    ],
+    "source": "Wikipedia: Budj Bim"
+  },
+  {
+    "id": "first-fleet-arrives",
+    "year": 1788,
+    "lat": -33.86,
+    "lng": 151.21,
+    "type": "war",
+    "title": "First Fleet arrives at Sydney Cove",
+    "description": "British ships land convicts and marines at Sydney Cove, beginning the colonisation of Aboriginal Australia.",
+    "relatedPolityIds": [
+      "aboriginal-australians",
+      "great-britain"
+    ],
+    "source": "Wikipedia: First Fleet"
+  },
+  {
+    "id": "durrani-empire-founded",
+    "year": 1747,
+    "lat": 31.61,
+    "lng": 65.71,
+    "type": "war",
+    "title": "Durrani Empire founded",
+    "description": "Ahmad Shah Durrani is chosen as leader at Kandahar, founding the state that became Afghanistan.",
+    "relatedPolityIds": [
+      "afghanistan"
+    ],
+    "source": "Wikipedia: Durrani Empire"
+  },
+  {
+    "id": "shakushain-revolt",
+    "year": 1669,
+    "lat": 42.6,
+    "lng": 142.5,
+    "type": "war",
+    "title": "Shakushain’s revolt",
+    "description": "Ainu led by Shakushain rise against the Matsumae clan’s control of trade in Hokkaido; the revolt is defeated.",
+    "relatedPolityIds": [
+      "ainu",
+      "tokugawa-japan"
+    ],
+    "source": "Wikipedia: Shakushain’s revolt"
+  },
+  {
+    "id": "green-sahara-ends",
+    "year": -3000,
+    "yearApproximate": true,
+    "lat": 24,
+    "lng": 8,
+    "type": "disaster",
+    "title": "The green Sahara dries up",
+    "description": "The last “green Sahara” period ends; lakes and grassland turn to desert and herders move to oases and river valleys.",
+    "relatedPolityIds": [
+      "amazigh-saharan"
+    ],
+    "source": "Wikipedia: African humid period"
+  },
+  {
+    "id": "marajoara-culture",
+    "year": 400,
+    "yearApproximate": true,
+    "lat": -0.9,
+    "lng": -49.5,
+    "type": "culture",
+    "title": "Marajoara culture flourishes",
+    "description": "On Marajó Island at the mouth of the Amazon, people build earth mounds and make elaborately painted pottery.",
+    "relatedPolityIds": [
+      "amazonian-peoples"
+    ],
+    "source": "Wikipedia: Marajoara culture"
+  },
+  {
+    "id": "chaco-great-houses",
+    "year": 1050,
+    "yearApproximate": true,
+    "lat": 36.06,
+    "lng": -107.96,
+    "type": "culture",
+    "title": "Chaco Canyon at its height",
+    "description": "Ancestral Puebloans build multi-storey great houses and straight roads around Chaco Canyon.",
+    "relatedPolityIds": [
+      "ancestral-puebloans"
+    ],
+    "source": "Wikipedia: Chaco Culture National Historical Park"
+  },
+  {
+    "id": "watson-brake-mounds",
+    "year": -3500,
+    "yearApproximate": true,
+    "lat": 32.37,
+    "lng": -92.13,
+    "type": "culture",
+    "title": "Watson Brake mounds built",
+    "description": "Hunter-gatherers in Louisiana build a ring of earth mounds, among the oldest in the Americas.",
+    "relatedPolityIds": [
+      "archaic-americas"
+    ],
+    "source": "Wikipedia: Watson Brake"
+  },
+  {
+    "id": "thule-migration",
+    "year": 1200,
+    "yearApproximate": true,
+    "lat": 68,
+    "lng": -110,
+    "type": "trade",
+    "title": "Thule migration across the Arctic",
+    "description": "Thule whale hunters, ancestors of the Inuit, spread rapidly from Alaska east to Greenland.",
+    "relatedPolityIds": [
+      "arctic-peoples"
+    ],
+    "source": "Wikipedia: Thule people"
+  },
+  {
+    "id": "argentine-independence",
+    "year": 1816,
+    "lat": -26.83,
+    "lng": -65.22,
+    "type": "war",
+    "title": "Argentine independence declared",
+    "description": "The Congress of Tucumán declares independence from Spain on 9 July 1816.",
+    "relatedPolityIds": [
+      "argentina",
+      "spanish-empire"
+    ],
+    "source": "Wikipedia: Argentine Declaration of Independence"
+  },
+  {
+    "id": "falklands-war",
+    "year": 1982,
+    "lat": -51.7,
+    "lng": -59,
+    "type": "war",
+    "title": "Falklands War",
+    "description": "Argentina occupies the Falkland Islands (Malvinas); Britain retakes them after a ten-week war.",
+    "relatedPolityIds": [
+      "argentina"
+    ],
+    "source": "Wikipedia: Falklands War"
+  },
+  {
+    "id": "australian-federation",
+    "year": 1901,
+    "lat": -37.81,
+    "lng": 144.96,
+    "type": "culture",
+    "title": "Australian Federation",
+    "description": "Six British colonies unite as the Commonwealth of Australia on 1 January 1901.",
+    "relatedPolityIds": [
+      "australia"
+    ],
+    "source": "Wikipedia: Federation of Australia"
+  },
+  {
+    "id": "gallipoli-landing",
+    "year": 1915,
+    "lat": 40.23,
+    "lng": 26.28,
+    "type": "war",
+    "title": "Gallipoli landing",
+    "description": "Australian and New Zealand troops land at Gallipoli in a failed campaign; 25 April is remembered as Anzac Day.",
+    "relatedPolityIds": [
+      "australia",
+      "ottoman-empire"
+    ],
+    "source": "Wikipedia: Gallipoli campaign"
+  },
+  {
+    "id": "austronesian-expansion-begins",
+    "year": -3000,
+    "yearApproximate": true,
+    "lat": 23.7,
+    "lng": 121,
+    "type": "trade",
+    "title": "Austronesian expansion begins",
+    "description": "Seafaring farmers begin spreading from Taiwan into the Philippines and later across the Pacific and Indian Oceans.",
+    "relatedPolityIds": [
+      "austronesian-peoples"
+    ],
+    "source": "Wikipedia: Austronesian peoples"
+  },
+  {
+    "id": "baekje-buddhism-to-japan",
+    "year": 552,
+    "yearApproximate": true,
+    "lat": 36.46,
+    "lng": 127.13,
+    "type": "culture",
+    "title": "Baekje sends Buddhism to Japan",
+    "description": "King Seong of Baekje sends Buddhist images and texts to the Yamato court (traditional date 552, or 538).",
+    "relatedPolityIds": [
+      "baekje"
+    ],
+    "source": "Wikipedia: Buddhism in Japan"
+  },
+  {
+    "id": "fall-of-baekje",
+    "year": 660,
+    "lat": 36.27,
+    "lng": 126.91,
+    "type": "war",
+    "title": "Fall of Baekje",
+    "description": "Silla and Tang China conquer Baekje.",
+    "relatedPolityIds": [
+      "baekje",
+      "silla",
+      "tang"
+    ],
+    "source": "Wikipedia: Baekje"
+  },
+  {
+    "id": "bantu-expansion-begins",
+    "year": -1500,
+    "yearApproximate": true,
+    "lat": 5,
+    "lng": 11,
+    "type": "trade",
+    "title": "Bantu expansion under way",
+    "description": "Farmers speaking Bantu languages spread from the Cameroon–Nigeria area across central and southern Africa.",
+    "relatedPolityIds": [
+      "bantu-peoples"
+    ],
+    "source": "Wikipedia: Bantu expansion"
+  },
+  {
+    "id": "bolivian-independence",
+    "year": 1825,
+    "lat": -19.05,
+    "lng": -65.26,
+    "type": "war",
+    "title": "Bolivia becomes independent",
+    "description": "Upper Peru declares independence and takes the name Bolivia after Simón Bolívar.",
+    "relatedPolityIds": [
+      "bolivia"
+    ],
+    "source": "Wikipedia: Bolivian War of Independence"
+  },
+  {
+    "id": "chaco-war",
+    "year": 1932,
+    "lat": -21,
+    "lng": -61,
+    "type": "war",
+    "title": "Chaco War",
+    "description": "Bolivia and Paraguay fight over the Gran Chaco (1932–35); Bolivia loses most of the disputed land.",
+    "relatedPolityIds": [
+      "bolivia"
+    ],
+    "source": "Wikipedia: Chaco War"
+  },
+  {
+    "id": "brazil-republic-proclaimed",
+    "year": 1889,
+    "lat": -22.9,
+    "lng": -43.2,
+    "type": "war",
+    "title": "Brazilian Republic proclaimed",
+    "description": "Army officers overthrow Emperor Pedro II and proclaim a republic.",
+    "relatedPolityIds": [
+      "brazil",
+      "empire-of-brazil"
+    ],
+    "source": "Wikipedia: Proclamation of the Republic (Brazil)"
+  },
+  {
+    "id": "brasilia-inaugurated",
+    "year": 1960,
+    "lat": -15.79,
+    "lng": -47.88,
+    "type": "culture",
+    "title": "Brasília becomes the capital",
+    "description": "The planned city of Brasília is inaugurated as Brazil’s new capital.",
+    "relatedPolityIds": [
+      "brazil"
+    ],
+    "source": "Wikipedia: Brasília"
+  },
+  {
+    "id": "lapa-do-santo",
+    "year": -9000,
+    "yearApproximate": true,
+    "lat": -19.5,
+    "lng": -44,
+    "type": "culture",
+    "title": "Lapa do Santo",
+    "description": "Early people in Minas Gerais leave burials and rock art, some of the oldest in the Americas.",
+    "relatedPolityIds": [
+      "brazilian-highland-peoples"
+    ],
+    "source": "Wikipedia: Lapa do Santo"
+  },
+  {
+    "id": "sintashta-chariots",
+    "year": -2000,
+    "yearApproximate": true,
+    "lat": 52.5,
+    "lng": 60,
+    "type": "invention",
+    "title": "Early chariots at Sintashta",
+    "description": "Burials of the Sintashta culture in the southern Urals contain some of the earliest spoked-wheel chariots.",
+    "relatedPolityIds": [
+      "bronze-age-steppe"
+    ],
+    "source": "Wikipedia: Sintashta culture"
+  },
+  {
+    "id": "canadian-confederation",
+    "year": 1867,
+    "lat": 45.42,
+    "lng": -75.7,
+    "type": "culture",
+    "title": "Canadian Confederation",
+    "description": "Three British colonies unite as the Dominion of Canada on 1 July 1867.",
+    "relatedPolityIds": [
+      "canada",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Canadian Confederation"
+  },
+  {
+    "id": "canadian-pacific-railway",
+    "year": 1885,
+    "lat": 50.9,
+    "lng": -118.6,
+    "type": "invention",
+    "title": "Canadian Pacific Railway completed",
+    "description": "The last spike is driven, linking eastern Canada to British Columbia.",
+    "relatedPolityIds": [
+      "canada"
+    ],
+    "source": "Wikipedia: Canadian Pacific Railway"
+  },
+  {
+    "id": "bantu-farmers-reach-forest",
+    "year": -1000,
+    "yearApproximate": true,
+    "lat": 0,
+    "lng": 18,
+    "type": "trade",
+    "title": "Farmers reach the Congo rainforest",
+    "description": "Bantu-speaking farmers move into the rainforest, beginning long exchange with forest hunter-gatherers.",
+    "relatedPolityIds": [
+      "central-african-forest-peoples",
+      "bantu-peoples"
+    ],
+    "source": "Wikipedia: African Pygmies"
+  },
+  {
+    "id": "shaybani-takes-bukhara",
+    "year": 1500,
+    "lat": 39.77,
+    "lng": 64.42,
+    "type": "war",
+    "title": "Shaybani takes Samarkand and Bukhara",
+    "description": "Muhammad Shaybani’s Uzbeks take the Timurid cities, founding the Bukhara khanate.",
+    "relatedPolityIds": [
+      "central-asian-khanates",
+      "timurid-empire"
+    ],
+    "source": "Wikipedia: Muhammad Shaybani"
+  },
+  {
+    "id": "russian-conquest-tashkent",
+    "year": 1865,
+    "lat": 41.3,
+    "lng": 69.24,
+    "type": "war",
+    "title": "Russia takes Tashkent",
+    "description": "Russian forces capture Tashkent, beginning the conquest of the Central Asian khanates.",
+    "relatedPolityIds": [
+      "central-asian-khanates",
+      "russian-empire"
+    ],
+    "source": "Wikipedia: Siege of Tashkent"
+  },
+  {
+    "id": "chagatai-khanate-formed",
+    "year": 1227,
+    "yearApproximate": true,
+    "lat": 43.9,
+    "lng": 81.3,
+    "type": "war",
+    "title": "Chagatai receives his ulus",
+    "description": "After Genghis Khan’s death, his son Chagatai rules Central Asia, forming the Chagatai Khanate.",
+    "relatedPolityIds": [
+      "chagatai-khanate",
+      "mongol-empire"
+    ],
+    "source": "Wikipedia: Chagatai Khanate"
+  },
+  {
+    "id": "chavin-new-temple",
+    "year": -500,
+    "yearApproximate": true,
+    "lat": -9.59,
+    "lng": -77.18,
+    "type": "culture",
+    "title": "Chavín de Huántar New Temple",
+    "description": "The temple complex at Chavín de Huántar is enlarged, a pilgrimage centre for much of Peru.",
+    "relatedPolityIds": [
+      "chavin"
+    ],
+    "source": "Wikipedia: Chavín de Huántar"
+  },
+  {
+    "id": "chilean-independence",
+    "year": 1818,
+    "lat": -33.45,
+    "lng": -70.65,
+    "type": "war",
+    "title": "Chilean independence",
+    "description": "Chile declares independence after the Battle of Chacabuco and confirms it at Maipú (1818).",
+    "relatedPolityIds": [
+      "chile",
+      "spanish-empire"
+    ],
+    "source": "Wikipedia: Chilean War of Independence"
+  },
+  {
+    "id": "valdivia-earthquake",
+    "year": 1960,
+    "lat": -39.8,
+    "lng": -73.2,
+    "type": "disaster",
+    "title": "Valdivia earthquake",
+    "description": "The strongest earthquake ever recorded (magnitude 9.5) strikes southern Chile.",
+    "relatedPolityIds": [
+      "chile"
+    ],
+    "source": "Wikipedia: 1960 Valdivia earthquake"
+  },
+  {
+    "id": "battle-of-boyaca",
+    "year": 1819,
+    "lat": 5.53,
+    "lng": -73.36,
+    "type": "war",
+    "title": "Battle of Boyacá",
+    "description": "Bolívar’s army defeats Spanish forces, securing the independence of New Granada (Colombia).",
+    "relatedPolityIds": [
+      "colombia",
+      "spanish-empire"
+    ],
+    "source": "Wikipedia: Battle of Boyacá"
+  },
+  {
+    "id": "colombia-peace-deal",
+    "year": 2016,
+    "lat": 4.71,
+    "lng": -74.07,
+    "type": "war",
+    "title": "Colombian peace agreement",
+    "description": "The government and FARC guerrillas sign a peace agreement after more than 50 years of conflict.",
+    "relatedPolityIds": [
+      "colombia"
+    ],
+    "source": "Wikipedia: Colombian peace process"
+  },
+  {
+    "id": "trypillia-mega-sites",
+    "year": -3900,
+    "yearApproximate": true,
+    "lat": 48.8,
+    "lng": 30.6,
+    "type": "culture",
+    "title": "Trypillia mega-sites",
+    "description": "Settlements such as Talianki in Ukraine grow to over 300 hectares, among the largest in the world at the time.",
+    "relatedPolityIds": [
+      "cucuteni-trypillia"
+    ],
+    "source": "Wikipedia: Cucuteni–Trypillia culture"
+  },
+  {
+    "id": "darfur-founded",
+    "year": 1603,
+    "yearApproximate": true,
+    "lat": 13.63,
+    "lng": 25.35,
+    "type": "war",
+    "title": "Sultanate of Darfur founded",
+    "description": "Sulayman Solongdungu founds the Keira sultanate of the Fur people.",
+    "relatedPolityIds": [
+      "darfur-sultanate"
+    ],
+    "source": "Wikipedia: Sultanate of Darfur"
+  },
+  {
+    "id": "kalmar-union",
+    "year": 1397,
+    "lat": 56.66,
+    "lng": 16.36,
+    "type": "culture",
+    "title": "Kalmar Union",
+    "description": "Queen Margaret I unites Denmark, Norway and Sweden under one king at Kalmar.",
+    "relatedPolityIds": [
+      "denmark-norway"
+    ],
+    "source": "Wikipedia: Kalmar Union"
+  },
+  {
+    "id": "congo-free-state",
+    "year": 1885,
+    "lat": -4.32,
+    "lng": 15.31,
+    "type": "war",
+    "title": "Congo Free State created",
+    "description": "Belgian King Leopold II gains the Congo as his personal colony; forced labour for rubber causes mass deaths.",
+    "relatedPolityIds": [
+      "dr-congo"
+    ],
+    "source": "Wikipedia: Congo Free State"
+  },
+  {
+    "id": "congo-independence",
+    "year": 1960,
+    "lat": -4.32,
+    "lng": 15.31,
+    "type": "war",
+    "title": "Congo becomes independent",
+    "description": "The Belgian Congo gains independence with Patrice Lumumba as prime minister.",
+    "relatedPolityIds": [
+      "dr-congo"
+    ],
+    "source": "Wikipedia: Congo Crisis"
+  },
+  {
+    "id": "ban-chiang-bronze",
+    "year": -1500,
+    "yearApproximate": true,
+    "lat": 17.4,
+    "lng": 103.24,
+    "type": "invention",
+    "title": "Bronze at Ban Chiang",
+    "description": "Rice farmers in north-east Thailand begin casting bronze.",
+    "relatedPolityIds": [
+      "early-se-asian-rice-farmers"
+    ],
+    "source": "Wikipedia: Ban Chiang"
+  },
+  {
+    "id": "hopewell-earthworks",
+    "year": 100,
+    "yearApproximate": true,
+    "lat": 39.36,
+    "lng": -83,
+    "type": "culture",
+    "title": "Hopewell earthworks",
+    "description": "Peoples of the Ohio valley build great geometric earthworks and trade goods across the continent.",
+    "relatedPolityIds": [
+      "eastern-woodlands-peoples"
+    ],
+    "source": "Wikipedia: Hopewell Ceremonial Earthworks"
+  },
+  {
+    "id": "haudenosaunee-confederacy",
+    "year": 1450,
+    "yearApproximate": true,
+    "lat": 43,
+    "lng": -76.1,
+    "type": "culture",
+    "title": "Haudenosaunee Confederacy formed",
+    "description": "Five nations unite under the Great Law of Peace (the date is debated, between about 1142 and 1600).",
+    "relatedPolityIds": [
+      "eastern-woodlands-peoples"
+    ],
+    "source": "Wikipedia: Iroquois"
+  },
+  {
+    "id": "chogha-zanbil",
+    "year": -1250,
+    "yearApproximate": true,
+    "lat": 32.01,
+    "lng": 48.52,
+    "type": "culture",
+    "title": "Chogha Zanbil ziggurat built",
+    "description": "King Untash-Napirisha builds a great ziggurat near Susa.",
+    "relatedPolityIds": [
+      "elam"
+    ],
+    "source": "Wikipedia: Chogha Zanbil"
+  },
+  {
+    "id": "sack-of-susa",
+    "year": -647,
+    "lat": 32.19,
+    "lng": 48.25,
+    "type": "war",
+    "title": "Assyria sacks Susa",
+    "description": "Ashurbanipal destroys the Elamite capital Susa.",
+    "relatedPolityIds": [
+      "elam",
+      "assyria"
+    ],
+    "source": "Wikipedia: Battle of Susa"
+  },
+  {
+    "id": "hungarian-conquest",
+    "year": 895,
+    "lat": 47.5,
+    "lng": 19,
+    "type": "trade",
+    "title": "Hungarians settle the Carpathian Basin",
+    "description": "Magyar tribes, speakers of a Finno-Ugric language, settle in present-day Hungary.",
+    "relatedPolityIds": [
+      "finno-ugric-peoples"
+    ],
+    "source": "Wikipedia: Hungarian conquest of the Carpathian Basin"
+  },
+  {
+    "id": "boris-baptism",
+    "year": 864,
+    "lat": 43.27,
+    "lng": 26.92,
+    "type": "culture",
+    "title": "Bulgaria converts to Christianity",
+    "description": "Khan Boris I is baptised; Bulgaria becomes Christian and later adopts the Cyrillic script.",
+    "relatedPolityIds": [
+      "first-bulgarian-empire"
+    ],
+    "source": "Wikipedia: Christianization of Bulgaria"
+  },
+  {
+    "id": "fifth-republic-founded",
+    "year": 1958,
+    "lat": 48.86,
+    "lng": 2.35,
+    "type": "culture",
+    "title": "Fifth Republic founded",
+    "description": "A new constitution led by Charles de Gaulle creates the French Fifth Republic.",
+    "relatedPolityIds": [
+      "france-republic"
+    ],
+    "source": "Wikipedia: French Fifth Republic"
+  },
+  {
+    "id": "may-1968",
+    "year": 1968,
+    "lat": 48.85,
+    "lng": 2.34,
+    "type": "culture",
+    "title": "May 1968 protests",
+    "description": "Student protests and general strikes shake France.",
+    "relatedPolityIds": [
+      "france-republic"
+    ],
+    "source": "Wikipedia: May 68"
+  },
+  {
+    "id": "oc-eo-port",
+    "year": 200,
+    "yearApproximate": true,
+    "lat": 10.26,
+    "lng": 105.16,
+    "type": "trade",
+    "title": "Óc Eo, port of Funan",
+    "description": "The port of Óc Eo trades goods from India, China and Rome.",
+    "relatedPolityIds": [
+      "funan"
+    ],
+    "source": "Wikipedia: Óc Eo"
+  },
+  {
+    "id": "german-reunification",
+    "year": 1990,
+    "lat": 52.52,
+    "lng": 13.4,
+    "type": "culture",
+    "title": "German reunification",
+    "description": "East and West Germany reunite on 3 October 1990.",
+    "relatedPolityIds": [
+      "germany-modern"
+    ],
+    "source": "Wikipedia: German reunification"
+  },
+  {
+    "id": "al-bakri-ghana",
+    "year": 1068,
+    "lat": 15.77,
+    "lng": -7.98,
+    "type": "trade",
+    "title": "Al-Bakri describes Ghana",
+    "description": "The Andalusian geographer al-Bakri describes the gold-rich Ghana Empire and its capital.",
+    "relatedPolityIds": [
+      "ghana-empire"
+    ],
+    "source": "Wikipedia: Ghana Empire"
+  },
+  {
+    "id": "gwanggaeto-stele",
+    "year": 414,
+    "lat": 41.15,
+    "lng": 126.18,
+    "type": "culture",
+    "title": "Gwanggaeto Stele",
+    "description": "A great stone records the conquests of King Gwanggaeto of Goguryeo.",
+    "relatedPolityIds": [
+      "goguryeo"
+    ],
+    "source": "Wikipedia: Gwanggaeto Stele"
+  },
+  {
+    "id": "fall-of-goguryeo",
+    "year": 668,
+    "lat": 39.02,
+    "lng": 125.75,
+    "type": "war",
+    "title": "Fall of Goguryeo",
+    "description": "Silla and Tang forces capture Pyongyang and end Goguryeo.",
+    "relatedPolityIds": [
+      "goguryeo",
+      "silla",
+      "tang"
+    ],
+    "source": "Wikipedia: Goguryeo–Tang War"
+  },
+  {
+    "id": "ibn-khaldun-muqaddimah",
+    "year": 1377,
+    "lat": 36.8,
+    "lng": 10.17,
+    "type": "culture",
+    "title": "Ibn Khaldun writes the Muqaddimah",
+    "description": "The Tunis-born scholar explains the rise and fall of dynasties.",
+    "relatedPolityIds": [
+      "hafsid-sultanate"
+    ],
+    "source": "Wikipedia: Muqaddimah"
+  },
+  {
+    "id": "kano-chronicle-rumfa",
+    "year": 1463,
+    "lat": 12,
+    "lng": 8.52,
+    "type": "culture",
+    "title": "Muhammad Rumfa rules Kano",
+    "description": "Kano grows into a great trading city under Muhammad Rumfa (1463–99).",
+    "relatedPolityIds": [
+      "hausa-states"
+    ],
+    "source": "Wikipedia: Muhammad Rumfa"
+  },
+  {
+    "id": "khajuraho-temples",
+    "year": 1000,
+    "yearApproximate": true,
+    "lat": 24.85,
+    "lng": 79.92,
+    "type": "culture",
+    "title": "Khajuraho temples",
+    "description": "The Chandela kings build richly carved Hindu and Jain temples.",
+    "relatedPolityIds": [
+      "indian-regional-kingdoms"
+    ],
+    "source": "Wikipedia: Khajuraho Group of Monuments"
+  },
+  {
+    "id": "kanem-converts-islam",
+    "year": 1085,
+    "yearApproximate": true,
+    "lat": 14,
+    "lng": 15,
+    "type": "culture",
+    "title": "Kanem’s ruler converts to Islam",
+    "description": "King Hummay of Kanem adopts Islam.",
+    "relatedPolityIds": [
+      "kanem-bornu"
+    ],
+    "source": "Wikipedia: Kanem–Bornu Empire"
+  },
+  {
+    "id": "kazakh-khanate-founded",
+    "year": 1465,
+    "yearApproximate": true,
+    "lat": 43.3,
+    "lng": 68.25,
+    "type": "war",
+    "title": "Kazakh Khanate founded",
+    "description": "Kerei and Janibek break from the Uzbek Khanate and found the Kazakh Khanate.",
+    "relatedPolityIds": [
+      "kazakh-khanate"
+    ],
+    "source": "Wikipedia: Kazakh Khanate"
+  },
+  {
+    "id": "aboriginal-fire-farming",
+    "year": -3000,
+    "yearApproximate": true,
+    "lat": -25,
+    "lng": 133,
+    "type": "invention",
+    "title": "Fire-stick farming",
+    "description": "Aboriginal Australians manage the land with planned burning to encourage plants and game, a practice used for thousands of years.",
+    "relatedPolityIds": [
+      "aboriginal-australians"
+    ],
+    "source": "Wikipedia: Fire-stick farming"
+  },
+  {
+    "id": "sannai-maruyama",
+    "year": -3900,
+    "yearApproximate": true,
+    "lat": 40.81,
+    "lng": 140.7,
+    "type": "culture",
+    "title": "Sannai-Maruyama village",
+    "description": "A large Jōmon settlement in northern Japan with big wooden buildings, lasting about 1,500 years.",
+    "relatedPolityIds": [
+      "jomon"
+    ],
+    "source": "Wikipedia: Sannai-Maruyama site"
+  },
+  {
+    "id": "khoisan-cape-contact",
+    "year": 1652,
+    "lat": -33.92,
+    "lng": 18.42,
+    "type": "trade",
+    "title": "Dutch settle at the Cape",
+    "description": "The Dutch East India Company sets up a station at the Cape; Khoekhoe herders soon lose grazing land and suffer epidemics.",
+    "relatedPolityIds": [
+      "khoisan",
+      "dutch-republic"
+    ],
+    "source": "Wikipedia: Dutch Cape Colony"
+  },
+  {
+    "id": "kilwa-great-mosque",
+    "year": 1300,
+    "yearApproximate": true,
+    "lat": -8.96,
+    "lng": 39.51,
+    "type": "culture",
+    "title": "Kilwa at its height",
+    "description": "Kilwa controls the gold trade from Sofala; its Great Mosque and Husuni Kubwa palace are built of coral stone.",
+    "relatedPolityIds": [
+      "kilwa-sultanate"
+    ],
+    "source": "Wikipedia: Kilwa Kisiwani"
+  },
+  {
+    "id": "denmark-constitution-1849",
+    "year": 1849,
+    "lat": 55.68,
+    "lng": 12.57,
+    "type": "culture",
+    "title": "Danish constitution",
+    "description": "Denmark becomes a constitutional monarchy with an elected parliament.",
+    "relatedPolityIds": [
+      "kingdom-of-denmark"
+    ],
+    "source": "Wikipedia: Constitution of Denmark"
+  },
+  {
+    "id": "second-schleswig-war",
+    "year": 1864,
+    "lat": 54.9,
+    "lng": 9.8,
+    "type": "war",
+    "title": "Second Schleswig War",
+    "description": "Prussia and Austria defeat Denmark, which loses Schleswig and Holstein.",
+    "relatedPolityIds": [
+      "kingdom-of-denmark",
+      "habsburg-monarchy"
+    ],
+    "source": "Wikipedia: Second Schleswig War"
+  },
+  {
+    "id": "alaungpaya-reunites-burma",
+    "year": 1752,
+    "lat": 22.6,
+    "lng": 95.7,
+    "type": "war",
+    "title": "Alaungpaya reunites Burma",
+    "description": "Alaungpaya founds the Konbaung dynasty and reunites Burma.",
+    "relatedPolityIds": [
+      "konbaung-dynasty"
+    ],
+    "source": "Wikipedia: Alaungpaya"
+  },
+  {
+    "id": "first-anglo-burmese-war",
+    "year": 1824,
+    "lat": 16.8,
+    "lng": 96.15,
+    "type": "war",
+    "title": "First Anglo-Burmese War",
+    "description": "Britain defeats Burma (1824–26), which loses Assam, Arakan and Tenasserim.",
+    "relatedPolityIds": [
+      "konbaung-dynasty",
+      "british-empire"
+    ],
+    "source": "Wikipedia: First Anglo-Burmese War"
+  },
+  {
+    "id": "lan-xang-founded",
+    "year": 1353,
+    "lat": 19.89,
+    "lng": 102.13,
+    "type": "war",
+    "title": "Lan Xang founded",
+    "description": "Fa Ngum founds the kingdom of Lan Xang, “a million elephants”.",
+    "relatedPolityIds": [
+      "lan-xang"
+    ],
+    "source": "Wikipedia: Lan Xang"
+  },
+  {
+    "id": "lunda-expansion",
+    "year": 1700,
+    "yearApproximate": true,
+    "lat": -8,
+    "lng": 22.5,
+    "type": "war",
+    "title": "Lunda Empire expands",
+    "description": "The Lunda kingdom spreads its system of rule across the southern savanna.",
+    "relatedPolityIds": [
+      "luba-lunda"
+    ],
+    "source": "Wikipedia: Kingdom of Lunda"
+  },
+  {
+    "id": "madagascar-settlement",
+    "year": 500,
+    "yearApproximate": true,
+    "lat": -18.9,
+    "lng": 47.5,
+    "type": "trade",
+    "title": "Settlers reach Madagascar",
+    "description": "Austronesian sailors from Borneo, later joined by Africans, settle Madagascar.",
+    "relatedPolityIds": [
+      "madagascar",
+      "austronesian-peoples"
+    ],
+    "source": "Wikipedia: History of Madagascar"
+  },
+  {
+    "id": "merina-unification",
+    "year": 1810,
+    "yearApproximate": true,
+    "lat": -18.91,
+    "lng": 47.52,
+    "type": "war",
+    "title": "Andrianampoinimerina unites Merina",
+    "description": "The king unites the Merina highlands; his son Radama I expands across the island.",
+    "relatedPolityIds": [
+      "madagascar"
+    ],
+    "source": "Wikipedia: Merina Kingdom"
+  },
+  {
+    "id": "baqt-treaty",
+    "year": 652,
+    "lat": 18.22,
+    "lng": 30.74,
+    "type": "war",
+    "title": "Baqt treaty",
+    "description": "After the Second Battle of Dongola, Makuria and Muslim Egypt agree a treaty that lasts about 600 years.",
+    "relatedPolityIds": [
+      "makuria",
+      "rashidun-caliphate"
+    ],
+    "source": "Wikipedia: Baqt"
+  },
+  {
+    "id": "ternate-expels-portuguese",
+    "year": 1575,
+    "lat": 0.79,
+    "lng": 127.38,
+    "type": "war",
+    "title": "Ternate expels the Portuguese",
+    "description": "Sultan Baabullah drives the Portuguese from Ternate in the Maluku spice islands.",
+    "relatedPolityIds": [
+      "malay-sultanates",
+      "portuguese-empire"
+    ],
+    "source": "Wikipedia: Baabullah of Ternate"
+  },
+  {
+    "id": "treaty-of-waitangi",
+    "year": 1840,
+    "lat": -35.27,
+    "lng": 174.08,
+    "type": "culture",
+    "title": "Treaty of Waitangi",
+    "description": "Māori chiefs and the British Crown sign a treaty whose meaning is still debated.",
+    "relatedPolityIds": [
+      "maori-aotearoa",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Treaty of Waitangi"
+  },
+  {
+    "id": "mexican-independence",
+    "year": 1821,
+    "lat": 19.43,
+    "lng": -99.13,
+    "type": "war",
+    "title": "Mexican independence",
+    "description": "After a war begun in 1810, Mexico wins independence from Spain.",
+    "relatedPolityIds": [
+      "mexico",
+      "spanish-empire"
+    ],
+    "source": "Wikipedia: Mexican War of Independence"
+  },
+  {
+    "id": "mexican-revolution",
+    "year": 1910,
+    "lat": 19.43,
+    "lng": -99.13,
+    "type": "war",
+    "title": "Mexican Revolution",
+    "description": "A revolution against Porfirio Díaz leads to a decade of war and the 1917 constitution.",
+    "relatedPolityIds": [
+      "mexico"
+    ],
+    "source": "Wikipedia: Mexican Revolution"
+  },
+  {
+    "id": "muhammad-ali-egypt",
+    "year": 1805,
+    "lat": 30.04,
+    "lng": 31.24,
+    "type": "war",
+    "title": "Muhammad Ali rules Egypt",
+    "description": "Muhammad Ali takes power and begins modernising Egypt’s army and economy.",
+    "relatedPolityIds": [
+      "modern-egypt",
+      "ottoman-empire"
+    ],
+    "source": "Wikipedia: Muhammad Ali of Egypt"
+  },
+  {
+    "id": "tokyo-olympics-1964",
+    "year": 1964,
+    "lat": 35.68,
+    "lng": 139.69,
+    "type": "culture",
+    "title": "Tokyo Olympics and bullet train",
+    "description": "Japan hosts the Olympics and opens the Shinkansen, symbols of its post-war recovery.",
+    "relatedPolityIds": [
+      "modern-japan"
+    ],
+    "source": "Wikipedia: 1964 Summer Olympics"
+  },
+  {
+    "id": "fukushima-disaster",
+    "year": 2011,
+    "lat": 37.42,
+    "lng": 141.03,
+    "type": "disaster",
+    "title": "Tōhoku earthquake and tsunami",
+    "description": "A magnitude 9.0 earthquake and tsunami kill about 18,000 people and cause the Fukushima nuclear disaster.",
+    "relatedPolityIds": [
+      "modern-japan"
+    ],
+    "source": "Wikipedia: 2011 Tōhoku earthquake and tsunami"
+  },
+  {
+    "id": "mongolian-independence-1911",
+    "year": 1911,
+    "lat": 47.92,
+    "lng": 106.92,
+    "type": "war",
+    "title": "Mongolia declares independence",
+    "description": "Outer Mongolia declares independence from the Qing under the Bogd Khan.",
+    "relatedPolityIds": [
+      "mongolia",
+      "qing-china"
+    ],
+    "source": "Wikipedia: Bogd Khanate of Mongolia"
+  },
+  {
+    "id": "mongolia-democratic-revolution",
+    "year": 1990,
+    "lat": 47.92,
+    "lng": 106.92,
+    "type": "culture",
+    "title": "Mongolian democratic revolution",
+    "description": "Peaceful protests end one-party rule.",
+    "relatedPolityIds": [
+      "mongolia"
+    ],
+    "source": "Wikipedia: 1990 Mongolian Revolution"
+  },
+  {
+    "id": "moulay-ismail-meknes",
+    "year": 1672,
+    "lat": 33.9,
+    "lng": -5.55,
+    "type": "culture",
+    "title": "Moulay Ismail builds Meknes",
+    "description": "Sultan Moulay Ismail makes Meknes his imperial capital.",
+    "relatedPolityIds": [
+      "morocco"
+    ],
+    "source": "Wikipedia: Ismail Ibn Sharif"
+  },
+  {
+    "id": "moroccan-independence",
+    "year": 1956,
+    "lat": 34.02,
+    "lng": -6.84,
+    "type": "war",
+    "title": "Moroccan independence",
+    "description": "Morocco regains independence from France and Spain.",
+    "relatedPolityIds": [
+      "morocco",
+      "french-colonial-empire"
+    ],
+    "source": "Wikipedia: Morocco"
+  },
+  {
+    "id": "battle-of-kulikovo",
+    "year": 1380,
+    "lat": 53.67,
+    "lng": 38.67,
+    "type": "war",
+    "title": "Battle of Kulikovo",
+    "description": "Dmitry Donskoy of Moscow defeats a Golden Horde army.",
+    "relatedPolityIds": [
+      "muscovy",
+      "golden-horde"
+    ],
+    "source": "Wikipedia: Battle of Kulikovo"
+  },
+  {
+    "id": "ivan-iv-crowned-tsar",
+    "year": 1547,
+    "lat": 55.75,
+    "lng": 37.62,
+    "type": "culture",
+    "title": "Ivan IV crowned tsar",
+    "description": "Ivan the Terrible becomes the first crowned Tsar of Russia.",
+    "relatedPolityIds": [
+      "muscovy"
+    ],
+    "source": "Wikipedia: Ivan the Terrible"
+  },
+  {
+    "id": "nanzhao-unified",
+    "year": 738,
+    "lat": 25.6,
+    "lng": 100.23,
+    "type": "war",
+    "title": "Nanzhao unified",
+    "description": "Piluoge unites six kingdoms around Erhai Lake into Nanzhao.",
+    "relatedPolityIds": [
+      "nanzhao-dali"
+    ],
+    "source": "Wikipedia: Nanzhao"
+  },
+  {
+    "id": "heian-kyo-founded",
+    "year": 794,
+    "lat": 35.01,
+    "lng": 135.77,
+    "type": "culture",
+    "title": "Heian-kyō becomes the capital",
+    "description": "Emperor Kanmu moves the capital to Heian-kyō (Kyoto).",
+    "relatedPolityIds": [
+      "nara-heian-japan"
+    ],
+    "source": "Wikipedia: Heian-kyō"
+  },
+  {
+    "id": "tale-of-genji",
+    "year": 1008,
+    "yearApproximate": true,
+    "lat": 35.01,
+    "lng": 135.77,
+    "type": "culture",
+    "title": "The Tale of Genji",
+    "description": "Murasaki Shikibu writes The Tale of Genji, often called the first novel.",
+    "relatedPolityIds": [
+      "nara-heian-japan"
+    ],
+    "source": "Wikipedia: The Tale of Genji"
+  },
+  {
+    "id": "nazca-lines-made",
+    "year": 200,
+    "yearApproximate": true,
+    "lat": -14.74,
+    "lng": -75.13,
+    "type": "culture",
+    "title": "Nazca Lines drawn",
+    "description": "The Nazca draw huge lines and animal figures on the desert.",
+    "relatedPolityIds": [
+      "nazca"
+    ],
+    "source": "Wikipedia: Nazca Lines"
+  },
+  {
+    "id": "farming-reaches-europe",
+    "year": -6500,
+    "yearApproximate": true,
+    "lat": 40.5,
+    "lng": 22.5,
+    "type": "invention",
+    "title": "Farming reaches Europe",
+    "description": "Farmers from Anatolia bring wheat, barley and livestock to Greece and the Balkans.",
+    "relatedPolityIds": [
+      "neolithic-bronze-europe"
+    ],
+    "source": "Wikipedia: Neolithic Europe"
+  },
+  {
+    "id": "gadaa-recorded",
+    "year": 1593,
+    "lat": 7.5,
+    "lng": 39,
+    "type": "culture",
+    "title": "Bahrey describes the Oromo",
+    "description": "The monk Bahrey writes the first known account of the Oromo and their Gadaa system.",
+    "relatedPolityIds": [
+      "oromo"
+    ],
+    "source": "Wikipedia: Gadaa"
+  },
+  {
+    "id": "fall-of-oyo-ile",
+    "year": 1836,
+    "yearApproximate": true,
+    "lat": 8.95,
+    "lng": 4.1,
+    "type": "war",
+    "title": "Fall of Oyo-Ile",
+    "description": "The Oyo capital is abandoned after revolts and Fulani attacks.",
+    "relatedPolityIds": [
+      "oyo-empire"
+    ],
+    "source": "Wikipedia: Oyo Empire"
+  },
+  {
+    "id": "vikramashila-founded",
+    "year": 800,
+    "yearApproximate": true,
+    "lat": 25.33,
+    "lng": 87.29,
+    "type": "culture",
+    "title": "Vikramashila founded",
+    "description": "Pala king Dharmapala founds the Buddhist university of Vikramashila.",
+    "relatedPolityIds": [
+      "pala-empire"
+    ],
+    "source": "Wikipedia: Vikramashila"
+  },
+  {
+    "id": "kuk-swamp-farming",
+    "year": -7000,
+    "yearApproximate": true,
+    "lat": -5.78,
+    "lng": 144.33,
+    "type": "invention",
+    "title": "Farming begins at Kuk Swamp",
+    "description": "People in the New Guinea highlands start draining land to grow plants, an independent invention of farming.",
+    "relatedPolityIds": [
+      "papuan-peoples"
+    ],
+    "source": "Wikipedia: Kuk Swamp"
+  },
+  {
+    "id": "peruvian-independence",
+    "year": 1821,
+    "lat": -12.05,
+    "lng": -77.04,
+    "type": "war",
+    "title": "Peru declares independence",
+    "description": "José de San Martín declares Peru independent in Lima.",
+    "relatedPolityIds": [
+      "peru",
+      "spanish-empire"
+    ],
+    "source": "Wikipedia: Peruvian War of Independence"
+  },
+  {
+    "id": "war-of-the-pacific",
+    "year": 1879,
+    "lat": -21,
+    "lng": -70,
+    "type": "war",
+    "title": "War of the Pacific",
+    "description": "Chile defeats Peru and Bolivia (1879–84) and takes the nitrate-rich desert.",
+    "relatedPolityIds": [
+      "peru",
+      "chile",
+      "bolivia"
+    ],
+    "source": "Wikipedia: War of the Pacific"
+  },
+  {
+    "id": "people-power-revolution",
+    "year": 1986,
+    "lat": 14.6,
+    "lng": 121.05,
+    "type": "culture",
+    "title": "People Power Revolution",
+    "description": "Mass protests in Manila end Ferdinand Marcos’s rule.",
+    "relatedPolityIds": [
+      "philippines"
+    ],
+    "source": "Wikipedia: People Power Revolution"
+  },
+  {
+    "id": "horses-reach-plains",
+    "year": 1700,
+    "yearApproximate": true,
+    "lat": 40,
+    "lng": -100,
+    "type": "trade",
+    "title": "Horses reach the Plains",
+    "description": "Horses from Spanish New Mexico spread north, transforming Plains life.",
+    "relatedPolityIds": [
+      "plains-peoples"
+    ],
+    "source": "Wikipedia: Plains Indians"
+  },
+  {
+    "id": "little-bighorn",
+    "year": 1876,
+    "lat": 45.57,
+    "lng": -107.43,
+    "type": "war",
+    "title": "Battle of the Little Bighorn",
+    "description": "Lakota and Cheyenne warriors defeat Custer’s US cavalry.",
+    "relatedPolityIds": [
+      "plains-peoples",
+      "united-states"
+    ],
+    "source": "Wikipedia: Battle of the Little Bighorn"
+  },
+  {
+    "id": "union-of-krewo",
+    "year": 1385,
+    "lat": 54.69,
+    "lng": 25.28,
+    "type": "culture",
+    "title": "Union of Krewo",
+    "description": "Grand Duke Jogaila agrees to marry Queen Jadwiga of Poland and convert Lithuania to Christianity.",
+    "relatedPolityIds": [
+      "poland-lithuania-medieval"
+    ],
+    "source": "Wikipedia: Union of Krewo"
+  },
+  {
+    "id": "battle-of-grunwald",
+    "year": 1410,
+    "lat": 53.48,
+    "lng": 20.1,
+    "type": "war",
+    "title": "Battle of Grunwald",
+    "description": "Poland and Lithuania defeat the Teutonic Knights.",
+    "relatedPolityIds": [
+      "poland-lithuania-medieval"
+    ],
+    "source": "Wikipedia: Battle of Grunwald"
+  },
+  {
+    "id": "marib-dam",
+    "year": -700,
+    "yearApproximate": true,
+    "lat": 15.4,
+    "lng": 45.25,
+    "type": "invention",
+    "title": "Great Dam of Ma’rib",
+    "description": "The kingdom of Saba builds a great dam to irrigate the desert.",
+    "relatedPolityIds": [
+      "pre-islamic-arabia"
+    ],
+    "source": "Wikipedia: Marib Dam"
+  },
+  {
+    "id": "petra-nabataean",
+    "year": -100,
+    "yearApproximate": true,
+    "lat": 30.33,
+    "lng": 35.44,
+    "type": "culture",
+    "title": "Petra flourishes",
+    "description": "The Nabataeans carve their capital Petra into the rock.",
+    "relatedPolityIds": [
+      "pre-islamic-arabia"
+    ],
+    "source": "Wikipedia: Petra"
+  },
+  {
+    "id": "venice-fourth-crusade",
+    "year": 1204,
+    "lat": 41.01,
+    "lng": 28.98,
+    "type": "war",
+    "title": "Fourth Crusade sacks Constantinople",
+    "description": "A Venetian-led crusade sacks Constantinople; Venice gains ports across the eastern Mediterranean.",
+    "relatedPolityIds": [
+      "republic-of-venice",
+      "byzantine-empire"
+    ],
+    "source": "Wikipedia: Fourth Crusade"
+  },
+  {
+    "id": "fall-of-venice",
+    "year": 1797,
+    "lat": 45.44,
+    "lng": 12.33,
+    "type": "war",
+    "title": "Fall of the Republic of Venice",
+    "description": "Napoleon ends the 1,100-year-old Venetian Republic.",
+    "relatedPolityIds": [
+      "republic-of-venice"
+    ],
+    "source": "Wikipedia: Fall of the Republic of Venice"
+  },
+  {
+    "id": "diriyah-pact",
+    "year": 1744,
+    "lat": 24.73,
+    "lng": 46.57,
+    "type": "culture",
+    "title": "Pact of Diriyah",
+    "description": "Muhammad bin Saud allies with the preacher Muhammad ibn Abd al-Wahhab.",
+    "relatedPolityIds": [
+      "saudi-arabia"
+    ],
+    "source": "Wikipedia: Emirate of Diriyah"
+  },
+  {
+    "id": "saudi-arabia-founded",
+    "year": 1932,
+    "lat": 24.69,
+    "lng": 46.72,
+    "type": "war",
+    "title": "Kingdom of Saudi Arabia founded",
+    "description": "Ibn Saud unites his lands as the Kingdom of Saudi Arabia.",
+    "relatedPolityIds": [
+      "saudi-arabia"
+    ],
+    "source": "Wikipedia: Unification of Saudi Arabia"
+  },
+  {
+    "id": "scythians-vs-darius",
+    "year": -513,
+    "yearApproximate": true,
+    "lat": 46.5,
+    "lng": 33,
+    "type": "war",
+    "title": "Darius invades Scythia",
+    "description": "Persian king Darius I campaigns against the Scythians, who retreat and avoid battle.",
+    "relatedPolityIds": [
+      "scythians",
+      "achaemenid-persia"
+    ],
+    "source": "Wikipedia: Darius the Great’s European Scythian campaign"
+  },
+  {
+    "id": "yermak-siberia",
+    "year": 1582,
+    "lat": 58.2,
+    "lng": 68.25,
+    "type": "war",
+    "title": "Yermak’s expedition to Siberia",
+    "description": "Cossacks under Yermak defeat the Khanate of Sibir, opening Siberia to Russian conquest.",
+    "relatedPolityIds": [
+      "siberian-peoples",
+      "muscovy"
+    ],
+    "source": "Wikipedia: Yermak Timofeyevich"
+  },
+  {
+    "id": "sokoto-founded",
+    "year": 1804,
+    "lat": 13.06,
+    "lng": 5.24,
+    "type": "war",
+    "title": "Usman dan Fodio’s jihad",
+    "description": "Usman dan Fodio launches a jihad that creates the Sokoto Caliphate.",
+    "relatedPolityIds": [
+      "sokoto-caliphate",
+      "hausa-states"
+    ],
+    "source": "Wikipedia: Fulani War"
+  },
+  {
+    "id": "mandela-elected",
+    "year": 1994,
+    "lat": -25.75,
+    "lng": 28.19,
+    "type": "culture",
+    "title": "Nelson Mandela elected president",
+    "description": "South Africa’s first elections open to all make Mandela president.",
+    "relatedPolityIds": [
+      "south-africa"
+    ],
+    "source": "Wikipedia: Nelson Mandela"
+  },
+  {
+    "id": "cueva-de-las-manos",
+    "year": -7300,
+    "yearApproximate": true,
+    "lat": -47.15,
+    "lng": -70.67,
+    "type": "culture",
+    "title": "Cueva de las Manos",
+    "description": "Hunters in Patagonia paint hundreds of hand stencils on a cave wall.",
+    "relatedPolityIds": [
+      "southern-cone-peoples"
+    ],
+    "source": "Wikipedia: Cueva de las Manos"
+  },
+  {
+    "id": "arauco-war",
+    "year": 1553,
+    "lat": -37.8,
+    "lng": -73,
+    "type": "war",
+    "title": "Arauco War: Lautaro defeats Valdivia",
+    "description": "Mapuche leader Lautaro defeats and kills Spanish governor Pedro de Valdivia at Tucapel.",
+    "relatedPolityIds": [
+      "southern-cone-peoples",
+      "spanish-empire"
+    ],
+    "source": "Wikipedia: Arauco War"
+  },
+  {
+    "id": "hudsons-bay-company",
+    "year": 1670,
+    "lat": 57,
+    "lng": -92.3,
+    "type": "trade",
+    "title": "Hudson’s Bay Company founded",
+    "description": "The fur-trading company is founded; Cree and other nations become its trading partners.",
+    "relatedPolityIds": [
+      "subarctic-peoples"
+    ],
+    "source": "Wikipedia: Hudson’s Bay Company"
+  },
+  {
+    "id": "sudan-independence",
+    "year": 1956,
+    "lat": 15.5,
+    "lng": 32.53,
+    "type": "war",
+    "title": "Sudan becomes independent",
+    "description": "Sudan gains independence from British–Egyptian rule.",
+    "relatedPolityIds": [
+      "sudan",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Sudan"
+  },
+  {
+    "id": "south-sudan-independence",
+    "year": 2011,
+    "lat": 4.85,
+    "lng": 31.6,
+    "type": "war",
+    "title": "South Sudan secedes",
+    "description": "After decades of war, South Sudan becomes independent.",
+    "relatedPolityIds": [
+      "sudan"
+    ],
+    "source": "Wikipedia: South Sudan"
+  },
+  {
+    "id": "jolo-taken",
+    "year": 1876,
+    "lat": 6.05,
+    "lng": 121,
+    "type": "war",
+    "title": "Spain takes Jolo",
+    "description": "Spanish forces capture Jolo, capital of the Sulu Sultanate.",
+    "relatedPolityIds": [
+      "sulu-sultanate",
+      "spanish-empire"
+    ],
+    "source": "Wikipedia: Sultanate of Sulu"
+  },
+  {
+    "id": "nobel-prize-first",
+    "year": 1901,
+    "lat": 59.33,
+    "lng": 18.07,
+    "type": "culture",
+    "title": "First Nobel Prizes",
+    "description": "The first Nobel Prizes are awarded in Stockholm.",
+    "relatedPolityIds": [
+      "sweden-modern"
+    ],
+    "source": "Wikipedia: Nobel Prize"
+  },
+  {
+    "id": "norway-sweden-split",
+    "year": 1905,
+    "lat": 59.91,
+    "lng": 10.75,
+    "type": "culture",
+    "title": "Norway leaves the union with Sweden",
+    "description": "Norway peacefully ends its union with Sweden.",
+    "relatedPolityIds": [
+      "sweden-modern"
+    ],
+    "source": "Wikipedia: Dissolution of the union between Norway and Sweden"
+  },
+  {
+    "id": "fifth-dalai-lama",
+    "year": 1642,
+    "lat": 29.65,
+    "lng": 91.17,
+    "type": "culture",
+    "title": "Fifth Dalai Lama rules Tibet",
+    "description": "With Mongol support, the Fifth Dalai Lama becomes ruler of Tibet; work on the Potala Palace begins in 1645.",
+    "relatedPolityIds": [
+      "tibet"
+    ],
+    "source": "Wikipedia: 5th Dalai Lama"
+  },
+  {
+    "id": "tiwanaku-gateway-sun",
+    "year": 500,
+    "yearApproximate": true,
+    "lat": -16.55,
+    "lng": -68.67,
+    "type": "culture",
+    "title": "Gateway of the Sun",
+    "description": "Tiwanaku builders carve the Gateway of the Sun near Lake Titicaca.",
+    "relatedPolityIds": [
+      "tiwanaku"
+    ],
+    "source": "Wikipedia: Gate of the Sun"
+  },
+  {
+    "id": "tula-founded",
+    "year": 950,
+    "yearApproximate": true,
+    "lat": 20.06,
+    "lng": -99.34,
+    "type": "culture",
+    "title": "Tula rises",
+    "description": "Tula becomes the Toltec capital in central Mexico.",
+    "relatedPolityIds": [
+      "toltec"
+    ],
+    "source": "Wikipedia: Tula (Mesoamerican site)"
+  },
+  {
+    "id": "bayinnaung-conquests",
+    "year": 1564,
+    "lat": 17.34,
+    "lng": 96.48,
+    "type": "war",
+    "title": "Bayinnaung takes Ayutthaya",
+    "description": "King Bayinnaung of Toungoo conquers Ayutthaya, part of the largest empire in Southeast Asian history.",
+    "relatedPolityIds": [
+      "toungoo-dynasty",
+      "ayutthaya-kingdom"
+    ],
+    "source": "Wikipedia: Bayinnaung"
+  },
+  {
+    "id": "valdivia-pottery",
+    "year": -3500,
+    "yearApproximate": true,
+    "lat": -2.2,
+    "lng": -80.9,
+    "type": "invention",
+    "title": "Valdivia pottery",
+    "description": "Villagers on the coast of Ecuador make some of the oldest pottery in the Americas.",
+    "relatedPolityIds": [
+      "valdivia"
+    ],
+    "source": "Wikipedia: Valdivia culture"
+  },
+  {
+    "id": "venezuela-leaves-gran-colombia",
+    "year": 1830,
+    "lat": 10.48,
+    "lng": -66.9,
+    "type": "war",
+    "title": "Venezuela leaves Gran Colombia",
+    "description": "Venezuela becomes a separate republic under José Antonio Páez.",
+    "relatedPolityIds": [
+      "venezuela"
+    ],
+    "source": "Wikipedia: Gran Colombia"
+  },
+  {
+    "id": "doi-moi",
+    "year": 1986,
+    "lat": 21.03,
+    "lng": 105.85,
+    "type": "culture",
+    "title": "Đổi Mới reforms",
+    "description": "Vietnam opens its economy to markets and foreign investment.",
+    "relatedPolityIds": [
+      "vietnam-modern"
+    ],
+    "source": "Wikipedia: Đổi Mới"
+  },
+  {
+    "id": "ibn-fadlan-volga",
+    "year": 922,
+    "lat": 54.98,
+    "lng": 49.08,
+    "type": "culture",
+    "title": "Volga Bulgaria adopts Islam",
+    "description": "The Abbasid envoy Ibn Fadlan visits as the Volga Bulgars adopt Islam.",
+    "relatedPolityIds": [
+      "volga-bulgaria",
+      "abbasid-caliphate"
+    ],
+    "source": "Wikipedia: Ahmad ibn Fadlan"
+  },
+  {
+    "id": "nok-culture",
+    "year": -900,
+    "yearApproximate": true,
+    "lat": 9.5,
+    "lng": 8,
+    "type": "culture",
+    "title": "Nok culture",
+    "description": "The Nok culture of central Nigeria makes terracotta sculptures and smelts iron.",
+    "relatedPolityIds": [
+      "west-african-farmers"
+    ],
+    "source": "Wikipedia: Nok culture"
+  },
+  {
+    "id": "cascadia-earthquake",
+    "year": 1700,
+    "lat": 46,
+    "lng": -124.5,
+    "type": "disaster",
+    "title": "Cascadia earthquake",
+    "description": "A huge earthquake and tsunami strike the Pacific Northwest coast, remembered in First Nations stories.",
+    "relatedPolityIds": [
+      "western-north-american-peoples"
+    ],
+    "source": "Wikipedia: 1700 Cascadia earthquake"
+  },
+  {
+    "id": "western-xia-founded",
+    "year": 1038,
+    "lat": 38.47,
+    "lng": 106.27,
+    "type": "war",
+    "title": "Western Xia founded",
+    "description": "Li Yuanhao declares himself emperor of the Tangut state.",
+    "relatedPolityIds": [
+      "western-xia"
+    ],
+    "source": "Wikipedia: Western Xia"
+  },
+  {
+    "id": "banpo-village",
+    "year": -4500,
+    "yearApproximate": true,
+    "lat": 34.27,
+    "lng": 109.05,
+    "type": "culture",
+    "title": "Banpo village",
+    "description": "A Yangshao farming village with round houses and painted pottery near Xi’an.",
+    "relatedPolityIds": [
+      "yangshao"
+    ],
+    "source": "Wikipedia: Banpo"
+  },
+  {
+    "id": "zaydi-imamate-founded",
+    "year": 897,
+    "lat": 16.94,
+    "lng": 43.76,
+    "type": "culture",
+    "title": "Zaydi imamate founded",
+    "description": "Al-Hadi ila’l-Haqq founds the Zaydi imamate at Saada; it lasts until 1962.",
+    "relatedPolityIds": [
+      "yemen-states"
+    ],
+    "source": "Wikipedia: Zaydi imams of Yemen"
+  },
+  {
+    "id": "monte-alban-founded",
+    "year": -500,
+    "yearApproximate": true,
+    "lat": 17.04,
+    "lng": -96.77,
+    "type": "culture",
+    "title": "Monte Albán founded",
+    "description": "The Zapotecs build their mountaintop capital in Oaxaca.",
+    "relatedPolityIds": [
+      "zapotec"
+    ],
+    "source": "Wikipedia: Monte Albán"
   }
 ]

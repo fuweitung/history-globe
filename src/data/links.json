@@ -1306,5 +1306,474 @@
     "relation": "succeeded",
     "year": 1808,
     "note": "The Fulani jihad brought the Hausa cities into the Sokoto Caliphate."
+  },
+  {
+    "fromPolityId": "aboriginal-australians",
+    "toPolityId": "great-britain",
+    "relation": "colonised",
+    "year": 1788,
+    "note": "British colonisation of Australia began at Sydney Cove."
+  },
+  {
+    "fromPolityId": "dutch-republic",
+    "toPolityId": "aceh-sultanate",
+    "relation": "traded_with",
+    "year": 1600,
+    "note": "Dutch and English merchants bought pepper in Aceh."
+  },
+  {
+    "fromPolityId": "portuguese-empire",
+    "toPolityId": "aceh-sultanate",
+    "relation": "traded_with",
+    "year": 1550,
+    "note": "Aceh fought the Portuguese at Melaka for control of the spice trade."
+  },
+  {
+    "fromPolityId": "safavid-persia",
+    "toPolityId": "afghanistan",
+    "relation": "succeeded",
+    "year": 1747,
+    "note": "Ahmad Shah Durrani founded Afghanistan after the death of Nader Shah of Persia."
+  },
+  {
+    "fromPolityId": "jomon",
+    "toPolityId": "ainu",
+    "relation": "succeeded",
+    "year": -300,
+    "note": "Ainu culture grew from the Epi-Jōmon and Satsumon cultures of the north."
+  },
+  {
+    "fromPolityId": "tokugawa-japan",
+    "toPolityId": "ainu",
+    "relation": "traded_with",
+    "year": 1650,
+    "note": "The Matsumae clan controlled trade with the Ainu."
+  },
+  {
+    "fromPolityId": "carthage",
+    "toPolityId": "amazigh-saharan",
+    "relation": "traded_with",
+    "year": -300,
+    "note": "Numidian Berber kingdoms were allies and rivals of Carthage."
+  },
+  {
+    "fromPolityId": "portuguese-empire",
+    "toPolityId": "amazonian-peoples",
+    "relation": "colonised",
+    "year": 1600,
+    "note": "Portuguese settlers and slavers pushed into the Amazon."
+  },
+  {
+    "fromPolityId": "ancestral-puebloans",
+    "toPolityId": "spanish-empire",
+    "relation": "traded_with",
+    "year": 1600,
+    "note": "Spain colonised New Mexico from 1598; the Pueblo Revolt followed in 1680."
+  },
+  {
+    "fromPolityId": "archaic-americas",
+    "toPolityId": "eastern-woodlands-peoples",
+    "relation": "succeeded",
+    "year": -1000,
+    "note": "Archaic hunter-gatherers developed into the Woodland cultures."
+  },
+  {
+    "fromPolityId": "arctic-peoples",
+    "toPolityId": "viking-age-norse",
+    "relation": "traded_with",
+    "year": 1000,
+    "note": "Norse Greenlanders met the Dorset and Thule peoples."
+  },
+  {
+    "fromPolityId": "austronesian-peoples",
+    "toPolityId": "srivijaya",
+    "relation": "succeeded",
+    "year": 671,
+    "note": "Srivijaya was built by Austronesian Malay seafarers."
+  },
+  {
+    "fromPolityId": "austronesian-peoples",
+    "toPolityId": "tui-tonga-empire",
+    "relation": "succeeded",
+    "year": 950,
+    "note": "Polynesians, including the Tongans, descend from Austronesian voyagers."
+  },
+  {
+    "fromPolityId": "bantu-peoples",
+    "toPolityId": "kingdom-of-kongo",
+    "relation": "succeeded",
+    "year": 1390,
+    "note": "Kongo was founded by Bantu-speaking peoples."
+  },
+  {
+    "fromPolityId": "bantu-peoples",
+    "toPolityId": "great-zimbabwe",
+    "relation": "succeeded",
+    "year": 1220,
+    "note": "Great Zimbabwe was built by Shona-speaking (Bantu) people."
+  },
+  {
+    "fromPolityId": "portuguese-empire",
+    "toPolityId": "brazilian-highland-peoples",
+    "relation": "colonised",
+    "year": 1700,
+    "note": "Bandeirantes raided the interior for slaves and gold."
+  },
+  {
+    "fromPolityId": "bronze-age-steppe",
+    "toPolityId": "scythians",
+    "relation": "succeeded",
+    "year": -800,
+    "note": "Iron Age nomads such as the Scythians followed the Bronze Age steppe cultures."
+  },
+  {
+    "fromPolityId": "caral-supe",
+    "toPolityId": "chavin",
+    "relation": "succeeded",
+    "year": -900,
+    "note": "Later Andean cultures built on traditions begun at Caral."
+  },
+  {
+    "fromPolityId": "central-african-forest-peoples",
+    "toPolityId": "bantu-peoples",
+    "relation": "traded_with",
+    "year": -500,
+    "note": "Forest hunter-gatherers exchanged goods with Bantu-speaking farmers."
+  },
+  {
+    "fromPolityId": "cucuteni-trypillia",
+    "toPolityId": "bronze-age-steppe",
+    "relation": "traded_with",
+    "year": -3200,
+    "note": "Trypillia villages had contact with steppe herders to the east."
+  },
+  {
+    "fromPolityId": "darfur-sultanate",
+    "toPolityId": "modern-egypt",
+    "relation": "conquered",
+    "year": 1874,
+    "note": "Egyptian forces conquered Darfur in 1874."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "darfur-sultanate",
+    "relation": "conquered",
+    "year": 1916,
+    "note": "Britain annexed Darfur to Sudan in 1916."
+  },
+  {
+    "fromPolityId": "dr-congo",
+    "toPolityId": "luba-lunda",
+    "relation": "conquered",
+    "year": 1889,
+    "note": "The Congo Free State absorbed the Luba and Lunda lands."
+  },
+  {
+    "fromPolityId": "early-mesoamerican-farmers",
+    "toPolityId": "olmec",
+    "relation": "succeeded",
+    "year": -1200,
+    "note": "Maize farming villages grew into the Olmec civilisation."
+  },
+  {
+    "fromPolityId": "early-se-asian-rice-farmers",
+    "toPolityId": "funan",
+    "relation": "succeeded",
+    "year": 50,
+    "note": "Funan grew from the rice-farming cultures of the Mekong."
+  },
+  {
+    "fromPolityId": "eastern-woodlands-peoples",
+    "toPolityId": "mississippian",
+    "relation": "succeeded",
+    "year": 1000,
+    "note": "Mississippian chiefdoms grew out of the Woodland cultures."
+  },
+  {
+    "fromPolityId": "finno-ugric-peoples",
+    "toPolityId": "kievan-rus",
+    "relation": "traded_with",
+    "year": 950,
+    "note": "Kyivan Rus’ and Novgorod took fur tribute from Finno-Ugric peoples."
+  },
+  {
+    "fromPolityId": "maurya",
+    "toPolityId": "gupta",
+    "relation": "succeeded",
+    "year": 320,
+    "note": "The Guptas reunited northern India centuries after the Mauryas."
+  },
+  {
+    "fromPolityId": "almohad-caliphate",
+    "toPolityId": "hafsid-sultanate",
+    "relation": "succeeded",
+    "year": 1229,
+    "note": "The Hafsid governors of Tunis broke away from the Almohads."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "hafsid-sultanate",
+    "relation": "conquered",
+    "year": 1574,
+    "note": "The Ottomans took Tunis in 1574."
+  },
+  {
+    "fromPolityId": "delhi-sultanate",
+    "toPolityId": "indian-regional-kingdoms",
+    "relation": "conquered",
+    "year": 1200,
+    "note": "The sultanate conquered many Rajput and Hindu kingdoms."
+  },
+  {
+    "fromPolityId": "indus-valley",
+    "toPolityId": "indian-regional-kingdoms",
+    "relation": "succeeded",
+    "year": -500,
+    "note": "Later Indian states arose in the lands of the Indus Valley Civilisation."
+  },
+  {
+    "fromPolityId": "khoisan",
+    "toPolityId": "dutch-republic",
+    "relation": "colonised",
+    "year": 1652,
+    "note": "The Dutch Cape Colony took Khoekhoe grazing land."
+  },
+  {
+    "fromPolityId": "portuguese-empire",
+    "toPolityId": "malay-sultanates",
+    "relation": "traded_with",
+    "year": 1575,
+    "note": "Ternate drove out the Portuguese; the spice trade linked them."
+  },
+  {
+    "fromPolityId": "dutch-republic",
+    "toPolityId": "malay-sultanates",
+    "relation": "conquered",
+    "year": 1650,
+    "note": "The Dutch East India Company took control of the spice islands."
+  },
+  {
+    "fromPolityId": "maori-aotearoa",
+    "toPolityId": "british-empire",
+    "relation": "colonised",
+    "year": 1840,
+    "note": "The Treaty of Waitangi; British colonisation of New Zealand."
+  },
+  {
+    "fromPolityId": "minoan",
+    "toPolityId": "ancient-greece",
+    "relation": "succeeded",
+    "year": -1450,
+    "note": "Mycenaean Greeks took over Crete after the Minoan palaces fell."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "mississippian",
+    "relation": "conquered",
+    "year": 1540,
+    "note": "De Soto’s expedition fought Mississippian chiefdoms such as Tuskaloosa’s."
+  },
+  {
+    "fromPolityId": "tang",
+    "toPolityId": "nanzhao-dali",
+    "relation": "traded_with",
+    "year": 750,
+    "note": "Nanzhao defeated Tang armies in the 750s and later sent tribute."
+  },
+  {
+    "fromPolityId": "mongol-empire",
+    "toPolityId": "nanzhao-dali",
+    "relation": "conquered",
+    "year": 1253,
+    "note": "Kublai Khan conquered the Kingdom of Dali."
+  },
+  {
+    "fromPolityId": "neolithic-levant",
+    "toPolityId": "neolithic-bronze-europe",
+    "relation": "succeeded",
+    "year": -6500,
+    "note": "Farming spread from the Near East to Europe."
+  },
+  {
+    "fromPolityId": "ethiopian-empire",
+    "toPolityId": "oromo",
+    "relation": "conquered",
+    "year": 1886,
+    "note": "Menelik II conquered Oromo lands."
+  },
+  {
+    "fromPolityId": "gupta",
+    "toPolityId": "pala-empire",
+    "relation": "succeeded",
+    "year": 750,
+    "note": "The Palas rose in Bengal after the Gupta age."
+  },
+  {
+    "fromPolityId": "papuan-peoples",
+    "toPolityId": "austronesian-peoples",
+    "relation": "traded_with",
+    "year": -1000,
+    "note": "Austronesian voyagers settled the coasts of New Guinea."
+  },
+  {
+    "fromPolityId": "plains-peoples",
+    "toPolityId": "united-states",
+    "relation": "conquered",
+    "year": 1876,
+    "note": "The US forced Plains nations onto reservations."
+  },
+  {
+    "fromPolityId": "poland-lithuania-medieval",
+    "toPolityId": "polish-lithuanian-commonwealth",
+    "relation": "succeeded",
+    "year": 1569,
+    "note": "The Union of Lublin created the Commonwealth."
+  },
+  {
+    "fromPolityId": "poland-lithuania-medieval",
+    "toPolityId": "muscovy",
+    "relation": "traded_with",
+    "year": 1500,
+    "note": "Long wars over the lands of former Kyivan Rus’."
+  },
+  {
+    "fromPolityId": "pre-islamic-arabia",
+    "toPolityId": "rashidun-caliphate",
+    "relation": "succeeded",
+    "year": 632,
+    "note": "Arabia was united under Islam."
+  },
+  {
+    "fromPolityId": "pre-islamic-arabia",
+    "toPolityId": "aksum",
+    "relation": "traded_with",
+    "year": 525,
+    "note": "Aksum invaded Himyar in southern Arabia (525)."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "saudi-arabia",
+    "relation": "conquered",
+    "year": 1818,
+    "note": "Ottoman-Egyptian forces destroyed the first Saudi state."
+  },
+  {
+    "fromPolityId": "achaemenid-persia",
+    "toPolityId": "scythians",
+    "relation": "conquered",
+    "year": -513,
+    "note": "Darius I campaigned against the Scythians."
+  },
+  {
+    "fromPolityId": "muscovy",
+    "toPolityId": "siberian-peoples",
+    "relation": "conquered",
+    "year": 1582,
+    "note": "Russian conquest of Siberia began with Yermak."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "southern-cone-peoples",
+    "relation": "traded_with",
+    "year": 1641,
+    "note": "The Arauco War and the Parliament of Quillín treaty with the Mapuche."
+  },
+  {
+    "fromPolityId": "subarctic-peoples",
+    "toPolityId": "great-britain",
+    "relation": "traded_with",
+    "year": 1750,
+    "note": "Cree and Dene traded furs with the Hudson’s Bay Company."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "taino-caribbean",
+    "relation": "conquered",
+    "year": 1492,
+    "note": "Spanish conquest of the Caribbean."
+  },
+  {
+    "fromPolityId": "teotihuacan",
+    "toPolityId": "toltec",
+    "relation": "succeeded",
+    "year": 950,
+    "note": "Tula rose as the main power of central Mexico after Teotihuacan."
+  },
+  {
+    "fromPolityId": "toltec",
+    "toPolityId": "aztec-empire",
+    "relation": "succeeded",
+    "year": 1428,
+    "note": "The Aztecs claimed Toltec descent."
+  },
+  {
+    "fromPolityId": "valdivia",
+    "toPolityId": "chavin",
+    "relation": "succeeded",
+    "year": -900,
+    "note": "Early coastal pottery traditions preceded later Andean cultures."
+  },
+  {
+    "fromPolityId": "vijayanagara",
+    "toPolityId": "delhi-sultanate",
+    "relation": "traded_with",
+    "year": 1350,
+    "note": "Vijayanagara was founded as Delhi’s power in the south collapsed."
+  },
+  {
+    "fromPolityId": "khazar-khaganate",
+    "toPolityId": "volga-bulgaria",
+    "relation": "conquered",
+    "year": 900,
+    "note": "The Volga Bulgars paid tribute to the Khazars until the 10th century."
+  },
+  {
+    "fromPolityId": "mongol-empire",
+    "toPolityId": "volga-bulgaria",
+    "relation": "conquered",
+    "year": 1236,
+    "note": "The Mongols conquered Volga Bulgaria."
+  },
+  {
+    "fromPolityId": "west-african-farmers",
+    "toPolityId": "ghana-empire",
+    "relation": "succeeded",
+    "year": 300,
+    "note": "Ghana grew among Soninke farming peoples."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "western-north-american-peoples",
+    "relation": "traded_with",
+    "year": 1770,
+    "note": "Spanish missions in California; Russian and British fur traders on the coast."
+  },
+  {
+    "fromPolityId": "mongol-empire",
+    "toPolityId": "western-xia",
+    "relation": "conquered",
+    "year": 1227,
+    "note": "Genghis Khan destroyed Western Xia."
+  },
+  {
+    "fromPolityId": "song",
+    "toPolityId": "western-xia",
+    "relation": "traded_with",
+    "year": 1050,
+    "note": "Western Xia fought and traded with the Song."
+  },
+  {
+    "fromPolityId": "yangshao",
+    "toPolityId": "shang",
+    "relation": "succeeded",
+    "year": -1600,
+    "note": "Yangshao and Longshan farming cultures preceded the Shang."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "yemen-states",
+    "relation": "conquered",
+    "year": 1538,
+    "note": "The Ottomans ruled parts of Yemen in the 16th–17th centuries."
   }
 ]

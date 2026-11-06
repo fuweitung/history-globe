@@ -102,6 +102,13 @@ const knownPics = Object.values(images.known ?? {}).filter(Boolean).length;
 const polPics = polities.filter((p) => images.polities?.[p.id]).length;
 const territory = read('src/data/territory.json');
 const onMap = polities.filter((p) => territory[p.id]).length;
+const covered = (list, key) => {
+  const ids = new Set(list.flatMap((x) => (Array.isArray(key) ? key.map((k) => x[k]) : x[key])));
+  return polities.filter((p) => ids.has(p.id)).length;
+};
+const withEvents = covered(read('src/data/events.json'), 'relatedPolityIds');
+const withPeople = covered(read('src/data/people.json'), 'polityIds');
+const withLinks = covered(read('src/data/links.json'), ['fromPolityId', 'toPolityId']);
 
 // ── Output ──
 const old = fs.existsSync(path.join(root, 'PROGRESS.md')) ? fs.readFileSync(path.join(root, 'PROGRESS.md'), 'utf8') : '';
@@ -135,6 +142,9 @@ ${row('Civilisations shown on the map', onMap / polities.length, `${onMap} of ${
 ${row('Checklist filled in', filled / items, `${filled} of ${items} items (${polities.length} × ${items / polities.length})`)}
 ${row('Answers with real detail', 1 - shortAns / (items - 2 * polities.length), `${shortAns} answers are still under 40 characters`)}
 ${row('Fact-checked against a source', checked / items, `${checked} items say “(checked …)”; the rest still need a second look`)}
+${row('Civilisations with events', withEvents / polities.length, `${withEvents} of ${polities.length}`)}
+${row('Civilisations with famous people', withPeople / polities.length, `${withPeople} of ${polities.length}; many prehistoric cultures have no known names`)}
+${row('Civilisations linked to others', withLinks / polities.length, `${withLinks} of ${polities.length} (succeeded, conquered, traded with…)`)}
 ${row('Civilisation pictures', polPics / polities.length, `${polPics} of ${polities.length}`)}
 ${row('“Known for” pictures', knownTotal ? knownPics / knownTotal : 0, `${knownPics} of ${knownTotal} items`)}
 
