@@ -18,7 +18,7 @@ type View =
   | { kind: 'search' }
   | { kind: 'compare'; a: string | null; b: string | null }
   | { kind: 'about' }
-  | { kind: 'polity'; id: string }
+  | { kind: 'polity'; id: string; focus?: string }
   | { kind: 'event'; id: string }
   | { kind: 'route'; id: string }
   | { kind: 'person'; id: string }
@@ -356,6 +356,7 @@ export default function App() {
         onOpenEvent={openEvent}
         onCompare={() => openCompare(pid)}
         onOpenPerson={openPerson}
+        focusCategory={view.focus}
       />
     );
   } else if (view.kind === 'event') {
@@ -412,6 +413,10 @@ export default function App() {
     panelBody = (
       <SearchView
         onOpenPolity={openPolity}
+        onOpenFact={(id, category) => {
+          openPolity(id);
+          setView({ kind: 'polity', id, focus: category });
+        }}
         onOpenEvent={openEventAt}
         onOpenKnown={openKnown}
         onOpenPerson={(id) => {

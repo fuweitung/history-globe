@@ -3,7 +3,7 @@
 Thank you for reviewing History Globe. This guide shows **where to look first** and **how to fix things**.
 
 ## What the app contains
-- 190 civilisations and peoples, each with 43 checklist items in 10 categories, a “Known for” list and (where available) territory and population charts.
+- 203 civilisations and peoples, each with 43 checklist items in 10 categories, a “Known for” list and (where available) territory and population charts.
 - Events, routes, people and stories in `src/data/`.
 - Every checklist item has a **certainty** (confirmed / estimated / disputed) and a **source**.
   Totals: 2853 confirmed, 2693 estimated, 317 disputed.
@@ -18,6 +18,7 @@ Thank you for reviewing History Globe. This guide shows **where to look first** 
 These were written from general knowledge (sources named, but no page was re-read), so every fact needs a second look:
 - **21 new entries:** Russian Federation, Canada, Brazil (Republic), Australia, Argentina, Mexico, Modern Egypt, Grand Duchy of Moscow & Tsardom of Russia, Kazakh Khanate, Khanates of Bukhara, Khiva and Kokand, Tibet (842–1951), Saudi States & Saudi Arabia, Makuria, Scythians and Saka, Kalmar Union & Denmark–Norway, Khoisan peoples, Bantu-speaking peoples, Inuit and Arctic peoples, Indigenous peoples of Siberia, Peoples of the Great Plains, Indigenous peoples of Amazonia.
 - **About 1,250 short checklist answers were expanded** across 135 older entries (mostly the newer ones such as Valdivia, Nazca, Funan, Goguryeo, Toltec, the Philippines and Singapore). The year, certainty and source of each item were kept.
+- **13 more entries (round 2 of map blanks):** West African farming peoples, First Nations of the Subarctic, Amazigh (Berber) and Saharan peoples, Sámi and Finno-Ugric peoples, Peoples of the Eastern Woodlands, Peoples of the North American West, Peoples of the Brazilian Highlands, Peoples of the Pampas, Patagonia and the southern Andes, Peru, Colombia, Mongolia, Sudan, Algeria.
 - **Two new checklist items for all 190 entries** (380 answers): *Communication & transport* (Technology) and *Housing & daily life* (Culture), sourced to each entry’s Wikipedia article but not re-read.
 - Sensitive: Tibet’s status, Russia’s annexations, the Falklands/Malvinas, and the treatment of Indigenous peoples in Canada, Australia, Brazil and the Plains.
 

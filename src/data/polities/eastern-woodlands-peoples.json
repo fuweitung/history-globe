@@ -1,0 +1,324 @@
+{
+  "id": "eastern-woodlands-peoples",
+  "name": "Peoples of the Eastern Woodlands",
+  "era": "prehistory",
+  "region": "North America (Eastern Woodlands)",
+  "startYear": -8000,
+  "endYear": null,
+  "datesApproximate": true,
+  "capital": "None (many nations)",
+  "capitalCoords": [
+    -82,
+    40
+  ],
+  "summary": "The peoples of eastern North America, from the mound builders of the Adena and Hopewell cultures to nations such as the Haudenosaunee (Iroquois), Lenape and Cherokee, who farmed maize, beans and squash.",
+  "wikiTitle": "Eastern Woodlands",
+  "borderNames": [
+    "Eastern North American hunter-gatherers",
+    "Hopewell Culture"
+  ],
+  "borderYears": [
+    -8000,
+    1500
+  ],
+  "color": "#6f9a4f",
+  "knownFor": [
+    {
+      "label": "Three Sisters farming",
+      "kind": "food",
+      "note": "Maize, beans and squash grown together."
+    },
+    {
+      "label": "Great Law of Peace",
+      "kind": "idea",
+      "year": 1450,
+      "note": "The constitution of the Haudenosaunee Confederacy (date debated)."
+    },
+    {
+      "label": "Hopewell earthworks",
+      "kind": "monument",
+      "year": 100,
+      "note": "Large geometric earthworks in Ohio, a World Heritage Site."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Eastern North America, from the Great Lakes to the Gulf of Mexico and the Atlantic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "terrain": {
+        "value": "Forests, rivers (Ohio, Mississippi, St Lawrence), lakes and coasts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "climate": {
+        "value": "Temperate, with cold winters in the north and warm summers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "resources": {
+        "value": "Deer, fish, nuts, farmland for maize, copper from Lake Superior.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "disasters": {
+        "value": "Droughts and harsh winters.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown; perhaps a few million by 1500.",
+        "year": 1500,
+        "certainty": "disputed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "urbanisation": {
+        "value": "Villages; large ceremonial centres in the Hopewell period.",
+        "year": 100,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "disease": {
+        "value": "European diseases devastated many nations after 1500.",
+        "year": 1600,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "migration": {
+        "value": "Groups moved over time; later many were forced west.",
+        "year": 1830,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Hunting, gathering, fishing; farming maize, beans and squash after about 1000.",
+        "year": 1000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "tradeRoutes": {
+        "value": "The Hopewell exchange network carried copper, shells and obsidian over long distances.",
+        "year": 100,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "wealth": {
+        "value": "No estimate is possible.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "moneyAndTax": {
+        "value": "Wampum shell beads used in exchange and diplomacy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "inequality": {
+        "value": "Varied, from equal bands to ranked chiefdoms.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Bands, chiefdoms and confederacies such as the Haudenosaunee.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "keyRulers": {
+        "value": "Later leaders include Hiawatha, Pontiac and Tecumseh.",
+        "year": 1800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "succession": {
+        "value": "Among the Haudenosaunee, clan mothers chose the chiefs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "institutions": {
+        "value": "Councils; the Great Law of Peace.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "stability": {
+        "value": "Wars and alliances between nations.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "eliteConflict": {
+        "value": "Rivalry between nations.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Bows, clubs, later guns.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "majorWars": {
+        "value": "The Beaver Wars (17th century); wars with colonists.",
+        "year": 1650,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "territoryChange": {
+        "value": "Lost most land to European colonists and the United States.",
+        "year": 1830,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "alliancesRivals": {
+        "value": "Confederacies and alliances with the French or British.",
+        "year": 1700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Birchbark and dugout canoes, the Three Sisters farming system.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "scienceEducation": {
+        "value": "Oral histories; wampum belts recorded agreements.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "openness": {
+        "value": "Traded with Europeans for metal tools and guns.",
+        "year": 1650,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "communicationTransport": {
+        "value": "Canoes on rivers and lakes; trails through the forests.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Spiritual beliefs in a creator and nature spirits.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "languageWriting": {
+        "value": "Algonquian, Iroquoian, Siouan and Muskogean languages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "artsArchitecture": {
+        "value": "Earthworks, carved pipes, beadwork.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "socialStructure": {
+        "value": "Clans, often through the mother’s line.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "sharedIdentity": {
+        "value": "Separate nations and confederacies.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "dailyLife": {
+        "value": "Longhouses (Haudenosaunee) and wigwams; maize, beans, squash, deer and fish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Mississippian chiefdoms, later French, British and Americans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "ideasReligions": {
+        "value": "Christian missions.",
+        "year": 1650,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "colonisation": {
+        "value": "Forced removal west, such as the Trail of Tears (1830s).",
+        "year": 1838,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Farming and long-distance exchange.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "peakPeriod": {
+        "value": "The Hopewell period (about 100 BCE–500 CE).",
+        "year": 100,
+        "certainty": "estimated",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "declineSignals": {
+        "value": "Disease and colonisation after 1500.",
+        "year": 1600,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "outcome": {
+        "value": "Many nations continue today in the US and Canada.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      },
+      "overallCertainty": {
+        "value": "Known from archaeology, oral history and colonial records.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Eastern Woodlands; Wikipedia: Hopewell tradition"
+      }
+    }
+  }
+}

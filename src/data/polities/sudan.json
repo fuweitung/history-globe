@@ -1,0 +1,320 @@
+{
+  "id": "sudan",
+  "name": "Sudan",
+  "era": "modern",
+  "region": "Northeast Africa (Nile)",
+  "startYear": 1956,
+  "endYear": null,
+  "capital": "Khartoum",
+  "capitalCoords": [
+    32.53,
+    15.5
+  ],
+  "summary": "A country on the middle Nile, independent from Anglo-Egyptian rule since 1956. Long civil wars led to the independence of South Sudan in 2011, and a new war began in 2023.",
+  "wikiTitle": "Sudan",
+  "borderNames": [
+    "Sudan"
+  ],
+  "borderYears": [
+    1956,
+    null
+  ],
+  "color": "#b0703a",
+  "knownFor": [
+    {
+      "label": "Meroë pyramids",
+      "kind": "monument",
+      "note": "Ancient Kushite pyramids, more numerous than Egypt’s."
+    },
+    {
+      "label": "Gum arabic",
+      "kind": "food",
+      "note": "Sudan is the largest producer of this tree resin used in food."
+    },
+    {
+      "label": "Confluence of the Niles",
+      "kind": "monument",
+      "note": "The Blue and White Nile meet at Khartoum."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "North-east Africa, on the Nile; about 1.9 million km² (2.5 million before 2011).",
+        "year": 2011,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      },
+      "terrain": {
+        "value": "Desert in the north, savanna in the south, the Nile valley through the middle.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      },
+      "climate": {
+        "value": "Hot desert to tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      },
+      "resources": {
+        "value": "Nile water, farmland (Gezira Scheme), gold, oil (mostly lost in 2011).",
+        "year": 2011,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      },
+      "disasters": {
+        "value": "Droughts and famines (1980s), floods.",
+        "year": 1984,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 50 million.",
+        "year": 2024,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sudan"
+      },
+      "urbanisation": {
+        "value": "Khartoum and Omdurman are the largest cities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      },
+      "disease": {
+        "value": "Malaria, cholera; disease spread during the wars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      },
+      "migration": {
+        "value": "Millions displaced by war, especially since 2023.",
+        "year": 2023,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, herding, gold and oil.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      },
+      "tradeRoutes": {
+        "value": "Trade via Port Sudan on the Red Sea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      },
+      "wealth": {
+        "value": "A low-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      },
+      "moneyAndTax": {
+        "value": "The Sudanese pound.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      },
+      "inequality": {
+        "value": "Large gaps between the centre and the regions.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Mostly military-led governments since 1958; transitional governments after 2019.",
+        "year": 2019,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      },
+      "keyRulers": {
+        "value": "Ismail al-Azhari. Jaafar Nimeiry. Omar al-Bashir (1989–2019).",
+        "year": 1989,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      },
+      "succession": {
+        "value": "Coups in 1958, 1969, 1989, 2019 and 2021.",
+        "year": 1989,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      },
+      "institutions": {
+        "value": "Weak institutions; the army and paramilitary forces hold power.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sudan"
+      },
+      "stability": {
+        "value": "Very unstable: two north–south civil wars and the war in Darfur (from 2003).",
+        "year": 2003,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      },
+      "eliteConflict": {
+        "value": "Conflict between the army and the Rapid Support Forces since 2023.",
+        "year": 2023,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "The army and paramilitary forces.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      },
+      "majorWars": {
+        "value": "Civil wars (1955–72, 1983–2005), Darfur (2003–), war since 2023.",
+        "year": 1983,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      },
+      "territoryChange": {
+        "value": "South Sudan became independent in 2011.",
+        "year": 2011,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      },
+      "alliancesRivals": {
+        "value": "Shifting ties with Egypt, the Gulf states and Russia.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sudan"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sudan"
+      },
+      "scienceEducation": {
+        "value": "Universities in Khartoum; education disrupted by war.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sudan"
+      },
+      "openness": {
+        "value": "Variable.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sudan"
+      },
+      "communicationTransport": {
+        "value": "Railways from colonial times; Nile boats; roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Sunni Islam; Christianity and traditional religions in the south (before 2011).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      },
+      "languageWriting": {
+        "value": "Arabic and English; many other languages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      },
+      "artsArchitecture": {
+        "value": "Poetry, music and Sufi ceremonies.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sudan"
+      },
+      "socialStructure": {
+        "value": "Arab and non-Arab identities have been a source of conflict.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      },
+      "sharedIdentity": {
+        "value": "Divided by region, ethnicity and religion.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sudan"
+      },
+      "dailyLife": {
+        "value": "Mud-brick houses and round huts; sorghum porridge, beans (ful).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Egypt, Libya, Chad, the Central African Republic, South Sudan, Ethiopia and Eritrea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      },
+      "ideasReligions": {
+        "value": "Islamism under Bashir.",
+        "year": 1989,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      },
+      "colonisation": {
+        "value": "Ruled by Britain and Egypt (1899–1956).",
+        "year": 1899,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence on 1 January 1956.",
+        "year": 1956,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      },
+      "peakPeriod": {
+        "value": "Oil revenue in the 2000s.",
+        "year": 2005,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sudan"
+      },
+      "declineSignals": {
+        "value": "Civil wars, coups and the loss of the south.",
+        "year": 2011,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      },
+      "outcome": {
+        "value": "Still in existence, at war since 2023.",
+        "year": 2023,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Sudan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sudan"
+      },
+      "overallCertainty": {
+        "value": "Basic facts documented; casualty and population figures disputed.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Sudan"
+      }
+    }
+  }
+}

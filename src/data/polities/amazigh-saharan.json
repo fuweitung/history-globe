@@ -1,0 +1,324 @@
+{
+  "id": "amazigh-saharan",
+  "name": "Amazigh (Berber) and Saharan peoples",
+  "era": "ancient",
+  "region": "North Africa (Sahara)",
+  "startYear": -3000,
+  "endYear": null,
+  "datesApproximate": true,
+  "capital": "None (many groups)",
+  "capitalCoords": [
+    5,
+    24
+  ],
+  "summary": "The Amazigh (Berber) peoples of North Africa and the Sahara, including the Tuareg, who herded animals and led caravans across the desert. Rock art shows a “green Sahara” before about 3000 BCE.",
+  "wikiTitle": "Berbers",
+  "borderNames": [
+    "Saharan pastoral nomads",
+    "Berbers",
+    "Tuareg Nomadic Tribes",
+    "Saharan Nomadic Tribes"
+  ],
+  "borderYears": [
+    -3000,
+    1500
+  ],
+  "color": "#c9a25c",
+  "knownFor": [
+    {
+      "label": "Tifinagh script",
+      "kind": "idea",
+      "note": "An ancient script still used by the Tuareg."
+    },
+    {
+      "label": "Tassili rock art",
+      "kind": "art",
+      "note": "Paintings of cattle, people and wild animals from the “green Sahara”, made thousands of years before the desert formed."
+    },
+    {
+      "label": "Tagelmust (Tuareg veil)",
+      "kind": "textile",
+      "note": "A long indigo cloth worn by Tuareg men."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "North Africa and the Sahara, from Morocco to Libya and south to Niger and Mali.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "terrain": {
+        "value": "Desert, mountains (Atlas, Hoggar, Aïr) and oases.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "climate": {
+        "value": "The Sahara dried out after about 3000 BCE; hot days and cold nights.",
+        "year": -3000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "resources": {
+        "value": "Oases with dates, salt, camels, goats and trade routes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "disasters": {
+        "value": "Droughts and sandstorms.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "urbanisation": {
+        "value": "Mostly nomadic; oasis towns such as Ghadames.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "disease": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "migration": {
+        "value": "Herders moved south and to oases as the Sahara dried.",
+        "year": -2500,
+        "certainty": "estimated",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Herding cattle, goats and later camels; oasis farming; caravan trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "tradeRoutes": {
+        "value": "Trans-Saharan caravans carried salt, gold and goods.",
+        "year": 800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "wealth": {
+        "value": "Wealth in herds and trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "moneyAndTax": {
+        "value": "Exchange of goods; later coins from Mediterranean states.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "inequality": {
+        "value": "Tuareg society had nobles, vassals and enslaved people.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Clans and confederations led by chiefs (amenokal among the Tuareg).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "keyRulers": {
+        "value": "Few early names; later leaders such as the Numidian king Masinissa (Berber).",
+        "year": -200,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "succession": {
+        "value": "Often through the mother’s line among the Tuareg.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "institutions": {
+        "value": "Tribal councils and customary law.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "stability": {
+        "value": "Shifting alliances.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "eliteConflict": {
+        "value": "Rivalry between clans.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Camel riders with swords, spears and shields.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "majorWars": {
+        "value": "Resisted Romans, Arabs and later French colonial forces.",
+        "year": 1916,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "territoryChange": {
+        "value": "Moved with herds; some Berber groups founded empires (Almoravids, Almohads).",
+        "year": 1060,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "alliancesRivals": {
+        "value": "Traded with Mediterranean and West African states.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Camel saddles, water skins, oasis irrigation (foggara).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "scienceEducation": {
+        "value": "Oral poetry; Tifinagh script.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "openness": {
+        "value": "Open to trade across the desert.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "communicationTransport": {
+        "value": "Camel caravans (camels widespread in the Sahara from about the 3rd century CE).",
+        "year": 300,
+        "certainty": "estimated",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Traditional beliefs, then Christianity in places and Islam from the 7th century.",
+        "year": 700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "languageWriting": {
+        "value": "Amazigh (Berber) languages, written in Tifinagh.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "artsArchitecture": {
+        "value": "Rock art, silver jewellery, leatherwork.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "socialStructure": {
+        "value": "Clans; nobles and vassals among the Tuareg.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "sharedIdentity": {
+        "value": "Amazigh identity, language and the idea of “free people”.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "dailyLife": {
+        "value": "Tents of leather or woven goat hair; dates, milk, millet and tea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Carthage, Rome, Arab states, West African empires.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "ideasReligions": {
+        "value": "Islam spread through the region from the 7th century.",
+        "year": 700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "colonisation": {
+        "value": "Colonised by France, Italy and Spain in the 19th and 20th centuries.",
+        "year": 1900,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Control of desert routes and oases.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "peakPeriod": {
+        "value": "Trans-Saharan trade at its height, about 800–1500.",
+        "year": 1000,
+        "certainty": "estimated",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "declineSignals": {
+        "value": "Trade shifted to Atlantic sea routes after 1500.",
+        "year": 1500,
+        "certainty": "estimated",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "outcome": {
+        "value": "Amazigh peoples live across North Africa today; Tamazight is official in Morocco and Algeria.",
+        "year": 2016,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Berbers; Wikipedia: Tuareg people.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      },
+      "overallCertainty": {
+        "value": "Mostly known from outsiders’ records and archaeology.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Berbers; Wikipedia: Tuareg people"
+      }
+    }
+  }
+}
