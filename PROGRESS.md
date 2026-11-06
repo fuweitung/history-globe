@@ -15,7 +15,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 - [x] Civilisation checklist (43 items in 10 categories) with year, certainty and source
 - [x] “Known for” culture chips, search, Compare, territory and population charts
 - [x] 11 guided stories
-- [x] 203 civilisations and peoples, all with full checklists
+- [x] 211 civilisations and peoples, all with full checklists
 - [x] Wikidata date cross-check; Britannica spot-check of 4 civilisations
 - [x] Team setup: private GitHub repo, CLAUDE.md rules, issues and pull requests
 - [x] Map blanks round 1: Russia, Central Asia, Tibet, Arabia, the Americas, Australia, peoples without states (#1)
@@ -27,7 +27,8 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 
 ### Next
 - [ ] Fact-check the content added on 6 Nov 2026 (REVIEW.md, Priority 0) (#4)
-- [ ] Map blanks round 3: prehistory (lowest at 57%) and the remaining modern countries; see “Biggest map blanks” below
+- [x] Map blanks round 3: prehistory 57% → 92% (archaic Americas, early Mesoamerican farmers, Austronesians, Southeast Asian rice farmers, Bronze Age steppe, Neolithic and Bronze Age Europe, pre-Islamic Arabia, Central African forest peoples) (#12)
+- [ ] Map blanks round 4: remaining modern countries (Bolivia, Venezuela, Chile, Afghanistan, Morocco, South Africa, DR Congo…) and the early modern era (70%)
 - [ ] Britannica check of the 20 major civilisations (REVIEW.md, Priority 1)
 
 - [ ] Pictures for the remaining “Known for” items and 5 civilisations without one
@@ -42,40 +43,40 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 
 | Area | Progress | Detail |
 |---|---|---|
-| Map coverage (all years) | `███████████████░░░░░` 75% | Named land on the border maps that is linked to a civilisation |
-| · Prehistory | `███████████░░░░░░░░░` 57% |  |
-| · Ancient | `████████████████░░░░` 80% |  |
+| Map coverage (all years) | `████████████████░░░░` 80% | Named land on the border maps that is linked to a civilisation |
+| · Prehistory | `██████████████████░░` 92% |  |
+| · Ancient | `██████████████████░░` 89% |  |
 | · Medieval | `███████████████░░░░░` 77% |  |
 | · Early modern | `██████████████░░░░░░` 70% |  |
 | · Modern | `███████████████░░░░░` 73% |  |
-| Civilisations shown on the map | `███████████████████░` 94% | 190 of 203; the rest fly to their capital |
-| Checklist filled in | `████████████████████` 100% | 8729 of 8729 items (203 × 43) |
-| Answers with real detail | `██████████████████░░` 92% | 648 answers are still under 40 characters |
-| Fact-checked against a source | `████████░░░░░░░░░░░░` 41% | 3559 items say “(checked …)”; the rest still need a second look |
-| Civilisation pictures | `████████████████████` 98% | 198 of 203 |
-| “Known for” pictures | `████████████░░░░░░░░` 62% | 415 of 669 items |
+| Civilisations shown on the map | `███████████████████░` 94% | 198 of 211; the rest fly to their capital |
+| Checklist filled in | `████████████████████` 100% | 9073 of 9073 items (211 × 43) |
+| Answers with real detail | `██████████████████░░` 90% | 867 answers are still under 40 characters |
+| Fact-checked against a source | `████████░░░░░░░░░░░░` 39% | 3559 items say “(checked …)”; the rest still need a second look |
+| Civilisation pictures | `████████████████████` 98% | 206 of 211 |
+| “Known for” pictures | `████████████░░░░░░░░` 60% | 415 of 693 items |
 
-Certainty of all items: 4230 confirmed · 4134 estimated · 365 disputed.
+Certainty of all items: 4408 confirmed · 4292 estimated · 373 disputed.
 Also in the app: 432 events · 115 people · 18 routes · 11 stories.
 
 ## Map coverage by year
 
 | Year | Linked |
 |---|---|
-| 10000 BCE | `█████████████████░░░` 83% |
-| 8000 BCE | `██████████░░░░░░░░░░` 52% |
-| 5000 BCE | `█████████░░░░░░░░░░░` 46% |
-| 4000 BCE | `█████████░░░░░░░░░░░` 47% |
-| 3000 BCE | `███████████████░░░░░` 75% |
-| 2000 BCE | `██████████░░░░░░░░░░` 49% |
-| 1500 BCE | `█████████████░░░░░░░` 67% |
-| 1000 BCE | `██████████████░░░░░░` 68% |
-| 700 BCE | `██████████████░░░░░░` 68% |
-| 500 BCE | `█████████████████░░░` 86% |
-| 400 BCE | `████████████████░░░░` 81% |
+| 10000 BCE | `██████████████████░░` 91% |
+| 8000 BCE | `███████████████████░` 97% |
+| 5000 BCE | `██████████████████░░` 88% |
+| 4000 BCE | `██████████████████░░` 92% |
+| 3000 BCE | `██████████████████░░` 91% |
+| 2000 BCE | `███████████████████░` 96% |
+| 1500 BCE | `█████████████████░░░` 87% |
+| 1000 BCE | `█████████████████░░░` 87% |
+| 700 BCE | `█████████████████░░░` 87% |
+| 500 BCE | `██████████████████░░` 88% |
+| 400 BCE | `█████████████████░░░` 86% |
 | 323 BCE | `██████████████████░░` 92% |
 | 300 BCE | `███████████████████░` 93% |
-| 200 BCE | `█████████████████░░░` 83% |
+| 200 BCE | `█████████████████░░░` 87% |
 | 100 BCE | `██████████████████░░` 88% |
 | 1 BCE | `██████████████████░░` 91% |
 | 100 | `███████████████░░░░░` 76% |
@@ -122,17 +123,11 @@ Areas on the border maps that no civilisation covers yet, largest first (area ad
 
 | Name on the map | Years | Area × maps (km²) |
 |---|---|---|
-| Bantu | 8000 BCE – 4000 BCE (3 maps) | 30M |
-| Archaic Amerindian hunter-gatherers | 2000 BCE – 2000 BCE (1 maps) | 29M |
 | Antarctica | 1945 – 1960 (2 maps) | 24M |
-| Proto-Altaic pastoralists | 1500 BCE – 400 BCE (5 maps) | 21M |
 | 1 | 100 – 100 (1 maps) | 18M |
-| Austro-Asiatic rice cultures | 2000 BCE – 400 BCE (5 maps) | 16M |
-| Austronesians | 10000 BCE – 400 BCE (11 maps) | 16M |
 | Greenland | 1878 – 2010 (7 maps) | 15M |
 | Bolivia | 1878 – 2010 (12 maps) | 14M |
 | Denmark | 1100 – 2010 (17 maps) | 14M |
-| Karasuk culture | 1500 BCE – 700 BCE (3 maps) | 13M |
 | Caribbean hunter-gatherers | 1500 BCE – 1650 (30 maps) | 12M |
 | Venezuela | 1878 – 2010 (12 maps) | 12M |
 | Zaire | 1945 – 2010 (5 maps) | 12M |
@@ -144,11 +139,17 @@ Areas on the border maps that no civilisation covers yet, largest first (area ad
 | Canada | 1815 – 1815 (1 maps) | 10M |
 | Libya | 1914 – 2010 (6 maps) | 9M |
 | Morocco | 1300 – 2010 (18 maps) | 9M |
-| Semites | 4000 BCE – 2000 BCE (3 maps) | 9M |
-| Maize farmers | 1500 BCE – 200 BCE (6 maps) | 9M |
-| Iranian pastoralists | 1500 BCE – 700 BCE (3 maps) | 9M |
 | Chile | 1878 – 2010 (12 maps) | 8M |
 | Sweden | 1000 – 2010 (19 maps) | 8M |
 | Kazakhstan | 1994 – 2010 (3 maps) | 8M |
 | Xinjiang | 1914 – 1945 (5 maps) | 8M |
 | Dravidians | 5000 BCE – 700 BCE (7 maps) | 8M |
+| Dutch East Indies | 1800 – 1938 (5 maps) | 8M |
+| Angola | 1815 – 2010 (8 maps) | 8M |
+| Sudan | 1920 – 1938 (3 maps) | 8M |
+| Netherlands Indies | 1878 – 1914 (4 maps) | 7M |
+| Papua New Guinea | 1492 – 2010 (16 maps) | 7M |
+| Arabia | 1878 – 1900 (3 maps) | 7M |
+| Malaysian Islamic states | 1492 – 1600 (4 maps) | 6M |
+| Cuman-Kipchak confederation | 1100 – 1100 (1 maps) | 6M |
+| South Africa | 1945 – 2010 (5 maps) | 6M |

@@ -1,0 +1,324 @@
+{
+  "id": "pre-islamic-arabia",
+  "name": "Peoples of pre-Islamic Arabia",
+  "era": "ancient",
+  "region": "Middle East (Arabia)",
+  "startYear": -4000,
+  "endYear": 630,
+  "datesApproximate": true,
+  "capital": "None (many groups)",
+  "capitalCoords": [
+    45,
+    22
+  ],
+  "summary": "The herders, oasis farmers and traders of the Arabian Peninsula before Islam, including the incense kingdoms of the south and the Nabataeans of Petra.",
+  "wikiTitle": "Pre-Islamic Arabia",
+  "borderNames": [
+    "Semites",
+    "Arabian pastoral nomads",
+    "Arabs"
+  ],
+  "borderYears": [
+    -4000,
+    630
+  ],
+  "color": "#c2955a",
+  "knownFor": [
+    {
+      "label": "Frankincense",
+      "kind": "food",
+      "note": "A resin burned as incense, traded to Egypt and Rome."
+    },
+    {
+      "label": "Petra",
+      "kind": "monument",
+      "year": -100,
+      "note": "The rock-cut Nabataean city."
+    },
+    {
+      "label": "Mu’allaqat poems",
+      "kind": "art",
+      "note": "Celebrated poems of pre-Islamic Arabia."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Arabian Peninsula.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "terrain": {
+        "value": "Deserts, oases and mountains in Yemen.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "climate": {
+        "value": "Hot and dry; monsoon rains in the south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "resources": {
+        "value": "Oases, dates, frankincense and myrrh, camels.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "urbanisation": {
+        "value": "Oasis towns; cities in Yemen such as Ma’rib.",
+        "year": -700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "disease": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "migration": {
+        "value": "Arab groups spread north into Syria and Mesopotamia.",
+        "year": -800,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Herding, oasis farming, caravan trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "tradeRoutes": {
+        "value": "The incense route from Yemen to the Mediterranean.",
+        "year": -500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "wealth": {
+        "value": "Southern kingdoms grew rich on incense.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "moneyAndTax": {
+        "value": "Coins in the south and among the Nabataeans.",
+        "year": -300,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "inequality": {
+        "value": "Tribal leaders and merchants above herders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Tribes, and kingdoms in the south (Saba, Himyar) and north (Nabataea).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "keyRulers": {
+        "value": "The Queen of Sheba (legendary); Nabataean kings such as Aretas IV.",
+        "year": 1,
+        "certainty": "disputed",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "succession": {
+        "value": "Tribal and royal succession.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "institutions": {
+        "value": "Tribal custom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "stability": {
+        "value": "Feuds between tribes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Camel riders.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "majorWars": {
+        "value": "Tribal raids; wars with the Romans and Persians at the edges.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "territoryChange": {
+        "value": "Spread into the Fertile Crescent.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "alliancesRivals": {
+        "value": "Allies of Rome (Ghassanids) and Persia (Lakhmids).",
+        "year": 500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "The camel saddle; the Ma’rib dam.",
+        "year": -700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "scienceEducation": {
+        "value": "Ancient South Arabian script and others.",
+        "year": -800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "openness": {
+        "value": "Open to trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "communicationTransport": {
+        "value": "Camel caravans.",
+        "year": -1000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Many gods; Judaism and Christianity in parts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "languageWriting": {
+        "value": "Arabic and Ancient South Arabian languages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "artsArchitecture": {
+        "value": "Poetry, Petra, South Arabian temples.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "socialStructure": {
+        "value": "Tribes and clans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "sharedIdentity": {
+        "value": "Tribal identity; shared poetry.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "dailyLife": {
+        "value": "Tents of goat hair; mud-brick towns; dates, milk and meat.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Egypt, Mesopotamia, Rome, Persia, Aksum.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "ideasReligions": {
+        "value": "Trade spread ideas across the region.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Domestication of the camel and the incense trade.",
+        "year": -1000,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "peakPeriod": {
+        "value": "Southern incense kingdoms; Nabataean Petra.",
+        "year": -100,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "declineSignals": {
+        "value": "The incense trade declined.",
+        "year": 300,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "outcome": {
+        "value": "Arabia was united under Islam in the 7th century.",
+        "year": 630,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Pre-Islamic Arabia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      },
+      "overallCertainty": {
+        "value": "Known from inscriptions, outsiders’ records and archaeology.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pre-Islamic Arabia"
+      }
+    }
+  }
+}

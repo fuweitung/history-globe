@@ -1,0 +1,330 @@
+{
+  "id": "bronze-age-steppe",
+  "name": "Bronze Age steppe peoples",
+  "era": "ancient",
+  "region": "Eurasian steppe",
+  "startYear": -3500,
+  "endYear": -700,
+  "datesApproximate": true,
+  "capital": "None (mobile)",
+  "capitalCoords": [
+    65,
+    50
+  ],
+  "summary": "Herders of the Eurasian steppe such as the Yamnaya, Afanasievo, Catacomb, Andronovo and Karasuk cultures, who used wagons and later chariots. Many scholars link them to the spread of Indo-European languages.",
+  "wikiTitle": "Andronovo culture",
+  "borderNames": [
+    "Andronovo",
+    "Afanasevo",
+    "Catacomb culture",
+    "Karasuk culture",
+    "Proto-Altaic pastoralists",
+    "Iranian pastoralists",
+    "Cimerians",
+    "Kelteminar culture",
+    "Kelteminar"
+  ],
+  "borderYears": [
+    -3500,
+    -700
+  ],
+  "color": "#a89a5a",
+  "knownFor": [
+    {
+      "label": "Spoked-wheel chariot",
+      "kind": "tool",
+      "year": -2000,
+      "note": "Light chariots found in Sintashta graves, among the earliest."
+    },
+    {
+      "label": "Kurgan burials",
+      "kind": "monument",
+      "note": "Burial mounds over graves of important people."
+    },
+    {
+      "label": "Horse riding",
+      "kind": "tool",
+      "note": "Horses became central to steppe life."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The steppes from Ukraine to Kazakhstan and southern Siberia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "terrain": {
+        "value": "Grassland and river valleys.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "climate": {
+        "value": "Continental: cold winters, hot summers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "resources": {
+        "value": "Pasture, copper and tin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "urbanisation": {
+        "value": "Mobile camps; fortified settlements such as Sintashta (about 2000 BCE).",
+        "year": -2000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "disease": {
+        "value": "Plague bacteria have been found in some steppe burials.",
+        "year": -2800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "migration": {
+        "value": "Steppe peoples moved into Europe and Asia; their genes are found widely.",
+        "year": -3000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Herding cattle, sheep and horses; some farming.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "tradeRoutes": {
+        "value": "Trade in metals across the steppe.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "wealth": {
+        "value": "No estimate is possible.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "moneyAndTax": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "inequality": {
+        "value": "Rich chiefly burials.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Clans led by chiefs.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "keyRulers": {
+        "value": "No rulers are known.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "succession": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "institutions": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "stability": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Wagons, chariots, bronze weapons.",
+        "year": -2000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "majorWars": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "territoryChange": {
+        "value": "Spread across the steppe and beyond.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "alliancesRivals": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Wheeled wagons, spoked-wheel chariots, horse riding.",
+        "year": -2000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "scienceEducation": {
+        "value": "No writing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "openness": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "communicationTransport": {
+        "value": "Ox-wagons, then horses and chariots.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sky gods and horse sacrifice in burials.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "languageWriting": {
+        "value": "Probably early Indo-European languages (debated).",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "artsArchitecture": {
+        "value": "Kurgans, bronze work.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "socialStructure": {
+        "value": "Chiefs, warriors, herders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "sharedIdentity": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "dailyLife": {
+        "value": "Wagons, tents and pit houses; meat and milk.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Farming peoples of Europe, Central Asia and China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "ideasReligions": {
+        "value": "Spread of horse riding and possibly Indo-European languages.",
+        "year": -3000,
+        "certainty": "disputed",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "colonisation": {
+        "value": "Moved into Europe, Iran and India (debated).",
+        "year": -2000,
+        "certainty": "disputed",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "The wheel and the domesticated horse.",
+        "year": -3500,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "peakPeriod": {
+        "value": "About 2000–1500 BCE (Sintashta, Andronovo).",
+        "year": -1800,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "declineSignals": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "outcome": {
+        "value": "Followed by the Scythians and other Iron Age nomads.",
+        "year": -800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture; Anthony, The Horse, the Wheel, and Language (2007).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      },
+      "overallCertainty": {
+        "value": "Known from archaeology and ancient DNA; languages debated.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+      }
+    }
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "id": "early-se-asian-rice-farmers",
+  "name": "Early rice farmers of mainland Southeast Asia",
+  "era": "ancient",
+  "region": "Southeast Asia",
+  "startYear": -2500,
+  "endYear": -200,
+  "datesApproximate": true,
+  "capital": "None (villages)",
+  "capitalCoords": [
+    103,
+    16
+  ],
+  "summary": "Rice-farming and bronze-working peoples of Thailand, Vietnam, Laos and Cambodia, known from sites such as Ban Chiang and the Đông Sơn culture, ancestors of later Southeast Asian kingdoms.",
+  "wikiTitle": "Ban Chiang",
+  "borderNames": [
+    "Austro-Asiatic rice cultures",
+    "Thai"
+  ],
+  "borderYears": [
+    -2500,
+    -200
+  ],
+  "color": "#7aa85a",
+  "knownFor": [
+    {
+      "label": "Đông Sơn drums",
+      "kind": "art",
+      "year": -500,
+      "note": "Large decorated bronze drums from northern Vietnam."
+    },
+    {
+      "label": "Ban Chiang pottery",
+      "kind": "art",
+      "year": -1000,
+      "note": "Pottery painted with red swirls, from north-east Thailand."
+    },
+    {
+      "label": "Wet-rice farming",
+      "kind": "food",
+      "note": "Growing rice in flooded fields."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Mainland Southeast Asia: Thailand, Vietnam, Laos, Cambodia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "terrain": {
+        "value": "River valleys (Mekong, Red River) and plains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "climate": {
+        "value": "Tropical monsoon.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "resources": {
+        "value": "Rice, fish, copper and tin for bronze.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "disasters": {
+        "value": "Floods.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "urbanisation": {
+        "value": "Villages; some larger settlements by the end.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "disease": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "migration": {
+        "value": "Rice farmers moved south from southern China.",
+        "year": -2500,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Rice farming, fishing, bronze working.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "tradeRoutes": {
+        "value": "Exchange of bronze drums across the region.",
+        "year": -500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "wealth": {
+        "value": "No estimate is possible.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "moneyAndTax": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "inequality": {
+        "value": "Some richer burials.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Villages and chiefdoms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "keyRulers": {
+        "value": "No rulers are known.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "succession": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "institutions": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "stability": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Bronze weapons in the Đông Sơn period.",
+        "year": -500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "majorWars": {
+        "value": "None known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "territoryChange": {
+        "value": "Farming spread through the region.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "alliancesRivals": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Bronze casting (from about 1500 BCE), later iron.",
+        "year": -1500,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "scienceEducation": {
+        "value": "No writing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "openness": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "communicationTransport": {
+        "value": "Boats on rivers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Unknown; burials with goods suggest belief in an afterlife.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "languageWriting": {
+        "value": "Austroasiatic and Tai–Kadai languages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "artsArchitecture": {
+        "value": "Bronze drums and painted pottery.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "socialStructure": {
+        "value": "Villages with emerging chiefs.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "sharedIdentity": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "dailyLife": {
+        "value": "Houses on stilts; rice and fish.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Southern China, Austronesian peoples.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "ideasReligions": {
+        "value": "Indian influence arrived later (Funan).",
+        "year": 100,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Rice farming and bronze.",
+        "year": -2000,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "peakPeriod": {
+        "value": "The Đông Sơn culture (about 1000 BCE–100 CE).",
+        "year": -300,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "declineSignals": {
+        "value": "Not a decline: chiefdoms grew into early states.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "outcome": {
+        "value": "Followed by Funan, Champa and other states.",
+        "year": 100,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      },
+      "overallCertainty": {
+        "value": "Known from archaeology; dates debated.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Ban Chiang; Wikipedia: Đông Sơn culture"
+      }
+    }
+  }
+}
