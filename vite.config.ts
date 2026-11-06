@@ -20,7 +20,6 @@ function polityIndex(): Plugin {
       .filter((f) => f.endsWith('.json'))
       .sort()
       .map((f) => {
-        // eslint-disable-next-line @typescript-eslint/no-unused-vars
         const { checklist, series, ...rest } = JSON.parse(readFileSync(join(POLITY_DIR, f), 'utf8'));
         const full = normaliseChecklist(checklist);
         const peak = full.riseFall.peakPeriod.year;

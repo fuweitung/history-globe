@@ -21,6 +21,8 @@ jobs:
       - run: npm ci
       - name: Validate data
         run: npm run validate-data
+      - name: Lint
+        run: npm run lint
       - name: Tests
         run: npm test
       - name: Typecheck and build

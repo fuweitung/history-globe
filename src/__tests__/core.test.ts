@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { ERAS, MAX_YEAR, MIN_YEAR, eraOf, fracToYear, normaliseYear, stepYear, yearToFrac } from '../lib/timeScale';
 import { POLITY_BY_ID, formatYear, isActive, loadPolity } from '../lib/data';
-import { loadFactIndex, norm, search } from '../lib/search';
+import { loadFactIndex, norm, search, snippet } from '../lib/search';
 import { candidatesFor, nearestSnapshot } from '../lib/borders';
 import { TERRITORY, niceTicks } from '../components/TerritoryChart';
 
@@ -80,6 +80,11 @@ describe('search', () => {
     await loadFactIndex();
     const hit = search('el nino').facts.find((h) => h.kind === 'fact' && h.polityId === 'valdivia');
     expect(hit).toMatchObject({ category: 'geography' });
+  });
+
+  it('centres snippets on the match even after okina and accents', () => {
+    const text = `${'Tuʻi Haʻatakalaua ʻOhoʻiʻuʻaʻeʻoʻuʻiʻ '.repeat(6)}the kava ceremony mattered a lot to everyone in the court.`;
+    expect(snippet(text, 'kava', 20)).toContain('kava');
   });
 
   it('requires every word to match', () => {

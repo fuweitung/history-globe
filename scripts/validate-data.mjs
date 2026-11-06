@@ -11,7 +11,7 @@ const dataDir = join(root, 'src', 'data');
 const schemaSrc = await readFile(join(root, 'src', 'lib', 'checklistSchema.ts'), 'utf8');
 const schema = [];
 for (const line of schemaSrc.split('\n')) {
-  let m = line.match(/^    key: '(\w+)',/);
+  let m = line.match(/^ {4}key: '(\w+)',/);
   if (m) { schema.push({ key: m[1], fields: [] }); continue; }
   m = line.match(/^\s+\{ key: '(\w+)',/);
   if (m) schema.at(-1).fields.push(m[1]);

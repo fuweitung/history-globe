@@ -8,7 +8,6 @@ import { fileURLToPath } from 'node:url';
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const read = (p) => JSON.parse(fs.readFileSync(path.join(root, p), 'utf8'));
 const polDir = path.join(root, 'src/data/polities');
-const bordersDir = path.join(root, 'public/data/borders');
 const polities = fs.readdirSync(polDir).filter((f) => f.endsWith('.json')).map((f) => read(`src/data/polities/${f}`));
 const { years } = read('public/data/borders/manifest.json');
 
@@ -58,7 +57,7 @@ const perYear = [];
 const blanks = new Map();
 for (const y of years) {
   const fc = read(`public/data/borders/${y < 0 ? `world_bc${-y}` : `world_${y}`}.geojson`);
-  let named = 0, link = 0, unnamed = 0;
+  let named = 0, link = 0;
   const seen = new Set();
   for (const f of fc.features) {
     const props = f.properties ?? {};
@@ -67,7 +66,7 @@ for (const y of years) {
       if (seen.has(key)) continue;
       seen.add(key);
       const a = polyArea(rings);
-      if (!props.NAME && !props.SUBJECTO) { unnamed += a; continue; }
+      if (!props.NAME && !props.SUBJECTO) continue; // unnamed land isn't counted
       named += a;
       if (linked(props, y)) { link += a; continue; }
       const name = props.NAME || props.SUBJECTO;

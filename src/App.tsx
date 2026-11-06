@@ -9,7 +9,7 @@ import { StoryList, StoryPlayer } from './components/StoryView';
 import CompareView, { suggestPartner } from './components/CompareView';
 import { boundsForPolity, loadManifest, loadSnapshot, nearestSnapshot, resolvePolity, type BorderProps, type Snapshot } from './lib/borders';
 import { EVENTS, EVENT_BY_ID, EVENT_TYPES, MAX_YEAR, MIN_YEAR, PEOPLE, PERSON_BY_ID, POLITY_BY_ID, ROUTES, ROUTE_BY_ID, ROUTE_KINDS, STORY_BY_ID, formatYear, isActive } from './lib/data';
-import type { EventType, PolitySummary as Polity, RouteKind } from './types';
+import type { EventType, HistoryRoute, PolitySummary as Polity, RouteKind } from './types';
 import { eventWindowFor, normaliseYear, stepYear } from './lib/timeScale';
 
 type View =
@@ -27,6 +27,14 @@ type View =
   | { kind: 'region'; props: BorderProps };
 
 const clampYear = (y: number) => normaliseYear(y);
+
+/** [west, south, east, north] around every point of a route. */
+function routeBounds(r: HistoryRoute): [number, number, number, number] {
+  const pts = r.paths.flat();
+  const xs = pts.map((p) => p[0]);
+  const ys = pts.map((p) => p[1]);
+  return [Math.min(...xs), Math.min(...ys), Math.max(...xs), Math.max(...ys)];
+}
 
 function readUrl(): { year: number; polity: string | null; event: string | null; route: string | null; person: string | null; story: string | null; step: number; compare: [string | null, string | null] | null } {
   const sp = new URLSearchParams(window.location.search);
@@ -254,11 +262,8 @@ export default function App() {
     const r = ROUTE_BY_ID.get(id);
     if (!r) return;
     setView({ kind: 'route', id });
-    const pts = r.paths.flat();
-    const xs = pts.map((p) => p[0]);
-    const ys = pts.map((p) => p[1]);
     nonce.current += 1;
-    setCamera({ kind: 'bounds', bounds: [Math.min(...xs), Math.min(...ys), Math.max(...xs), Math.max(...ys)], nonce: nonce.current });
+    setCamera({ kind: 'bounds', bounds: routeBounds(r), nonce: nonce.current });
   }, []);
 
   // Search results: events and dated Known-for items also move the timeline.
@@ -289,6 +294,7 @@ export default function App() {
   }, []);
 
   // ── Story mode: each step sets the year and moves the camera ──
+  const storyStep = view.kind === 'story' ? STORY_BY_ID.get(view.id)?.steps[view.step] : undefined;
   const storyKey = view.kind === 'story' ? `${view.id}:${view.step}` : null;
   useEffect(() => {
     if (!storyStep) return;
@@ -298,12 +304,8 @@ export default function App() {
     const r = storyStep.route ? ROUTE_BY_ID.get(storyStep.route) : undefined;
     const pr = storyStep.person ? PERSON_BY_ID.get(storyStep.person) : undefined;
     const ev = storyStep.event ? EVENT_BY_ID.get(storyStep.event) : undefined;
-    if (r) {
-      const pts = r.paths.flat();
-      const xs = pts.map((p) => p[0]);
-      const ys = pts.map((p) => p[1]);
-      setCamera({ kind: 'bounds', bounds: [Math.min(...xs), Math.min(...ys), Math.max(...xs), Math.max(...ys)], nonce: nonce.current });
-    } else if (pr) setCamera({ kind: 'point', center: pr.place, zoom: 4, nonce: nonce.current });
+    if (r) setCamera({ kind: 'bounds', bounds: routeBounds(r), nonce: nonce.current });
+    else if (pr) setCamera({ kind: 'point', center: pr.place, zoom: 4, nonce: nonce.current });
     else if (ev) setCamera({ kind: 'point', center: [ev.lng, ev.lat], zoom: 4, nonce: nonce.current });
     else if (storyStep.polity) pendingFly.current = storyStep.polity;
     else if (storyStep.center) setCamera({ kind: 'point', center: storyStep.center, zoom: storyStep.zoom ?? 4, nonce: nonce.current });
@@ -325,7 +327,6 @@ export default function App() {
   }, []);
   const closePanel = useCallback(() => setView({ kind: 'none' }), []);
 
-  const storyStep = view.kind === 'story' ? STORY_BY_ID.get(view.id)?.steps[view.step] : undefined;
   const selectedPolity =
     storyStep?.polity
       ? (POLITY_BY_ID.get(storyStep.polity) ?? null)
