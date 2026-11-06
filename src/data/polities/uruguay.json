@@ -1,0 +1,321 @@
+{
+  "id": "uruguay",
+  "name": "Uruguay",
+  "era": "modern",
+  "region": "South America",
+  "startYear": 1828,
+  "endYear": null,
+  "capital": "Montevideo",
+  "capitalCoords": [
+    -56.16,
+    -34.9
+  ],
+  "summary": "A small country between Brazil and Argentina, independent in 1828; an early welfare state and today one of Latin America’s most stable democracies.",
+  "wikiTitle": "Uruguay",
+  "borderNames": [
+    "Uruguay"
+  ],
+  "borderYears": [
+    1828,
+    null
+  ],
+  "color": "#3a6ab0",
+  "knownFor": [
+    {
+      "label": "First football World Cup",
+      "kind": "art",
+      "year": 1930,
+      "note": "Uruguay hosted and won it."
+    },
+    {
+      "label": "Mate",
+      "kind": "food",
+      "note": "Herbal tea drunk everywhere."
+    },
+    {
+      "label": "Asado",
+      "kind": "food",
+      "note": "Beef barbecue."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "South-eastern South America; about 176,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "terrain": {
+        "value": "Rolling grassland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "climate": {
+        "value": "Temperate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "resources": {
+        "value": "Cattle, farmland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "disasters": {
+        "value": "Floods and droughts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 3.4 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "urbanisation": {
+        "value": "About half live in Montevideo.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "disease": {
+        "value": "Good public health.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "migration": {
+        "value": "European immigrants (Spain, Italy).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Beef, soy, services.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "tradeRoutes": {
+        "value": "Port of Montevideo.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "wealth": {
+        "value": "A high-income economy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "moneyAndTax": {
+        "value": "The Uruguayan peso.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Uruguay"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A presidential republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "keyRulers": {
+        "value": "José Gervasio Artigas. José Batlle y Ordóñez. José Mujica.",
+        "year": 1903,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "institutions": {
+        "value": "Strong democratic institutions.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "stability": {
+        "value": "Military dictatorship (1973–85).",
+        "year": 1973,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Uruguay"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Small army.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "majorWars": {
+        "value": "Uruguayan Civil War (1839–51); War of the Triple Alliance.",
+        "year": 1839,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "territoryChange": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "alliancesRivals": {
+        "value": "Mercosur.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Uruguay"
+      },
+      "scienceEducation": {
+        "value": "Free education; One Laptop per Child (2007).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Uruguay"
+      },
+      "communicationTransport": {
+        "value": "Roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Largely secular.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "languageWriting": {
+        "value": "Spanish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "artsArchitecture": {
+        "value": "Candombe drumming, tango.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "socialStructure": {
+        "value": "A large middle class.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "sharedIdentity": {
+        "value": "Secular, democratic identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "dailyLife": {
+        "value": "Houses; asado, mate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Brazil, Argentina.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "ideasReligions": {
+        "value": "Legalised cannabis (2013).",
+        "year": 2013,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "colonisation": {
+        "value": "Part of the Spanish Empire until 1811.",
+        "year": 1811,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1828).",
+        "year": 1828,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Uruguay"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Uruguay"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Uruguay.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uruguay"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Uruguay"
+      }
+    }
+  }
+}

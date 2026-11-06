@@ -1,0 +1,321 @@
+{
+  "id": "jamaica",
+  "name": "Jamaica",
+  "era": "modern",
+  "region": "Caribbean",
+  "startYear": 1962,
+  "endYear": null,
+  "capital": "Kingston",
+  "capitalCoords": [
+    -76.79,
+    17.97
+  ],
+  "summary": "A former Spanish and British colony built on sugar and slavery, independent in 1962; birthplace of reggae.",
+  "wikiTitle": "Jamaica",
+  "borderNames": [
+    "Jamaica"
+  ],
+  "borderYears": [
+    1962,
+    null
+  ],
+  "color": "#3a8a4a",
+  "knownFor": [
+    {
+      "label": "Reggae",
+      "kind": "art",
+      "note": "Bob Marley spread it worldwide."
+    },
+    {
+      "label": "Usain Bolt",
+      "kind": "person",
+      "year": 2009,
+      "note": "World-record sprinter."
+    },
+    {
+      "label": "Jerk chicken",
+      "kind": "food",
+      "note": "Spicy grilled chicken."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "A Caribbean island south of Cuba; about 11,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "terrain": {
+        "value": "Mountains (Blue Mountains) and coasts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "resources": {
+        "value": "Bauxite, tourism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "disasters": {
+        "value": "Hurricanes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 2.8 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "urbanisation": {
+        "value": "Kingston.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "disease": {
+        "value": "Dengue.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "migration": {
+        "value": "Large diaspora in the UK and US (Windrush).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Tourism, bauxite, remittances.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "tradeRoutes": {
+        "value": "Ports.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "wealth": {
+        "value": "An upper-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "moneyAndTax": {
+        "value": "The Jamaican dollar.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Jamaica"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary democracy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "keyRulers": {
+        "value": "Alexander Bustamante. Michael Manley.",
+        "year": 1962,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "institutions": {
+        "value": "Parliament.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "stability": {
+        "value": "Political violence around elections (1980).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Jamaica"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Small defence force.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "majorWars": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "territoryChange": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "alliancesRivals": {
+        "value": "Commonwealth; CARICOM.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Jamaica"
+      },
+      "scienceEducation": {
+        "value": "University of the West Indies.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Jamaica"
+      },
+      "communicationTransport": {
+        "value": "Roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Christian; Rastafari.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "languageWriting": {
+        "value": "English; Jamaican Patois.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "artsArchitecture": {
+        "value": "Reggae, dancehall.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "socialStructure": {
+        "value": "Mostly of African descent.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "sharedIdentity": {
+        "value": "“Out of many, one people.”",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "dailyLife": {
+        "value": "Houses; ackee and saltfish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Cuba, Haiti.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "ideasReligions": {
+        "value": "Rastafari.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "colonisation": {
+        "value": "A British colony until 1962.",
+        "year": 1655,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1962).",
+        "year": 1962,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Jamaica"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Jamaica"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Jamaica.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jamaica"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Jamaica"
+      }
+    }
+  }
+}

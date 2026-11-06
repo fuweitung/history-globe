@@ -47,24 +47,24 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 
 | Area | Progress | Detail |
 |---|---|---|
-| Map coverage (all years) | `██████████████████░░` 88% | Named land on the border maps that is linked to a civilisation |
+| Map coverage (all years) | `██████████████████░░` 89% | Named land on the border maps that is linked to a civilisation |
 | · Prehistory | `██████████████████░░` 92% |  |
 | · Ancient | `██████████████████░░` 91% |  |
 | · Medieval | `█████████████████░░░` 85% |  |
 | · Early modern | `████████████████░░░░` 79% |  |
-| · Modern | `██████████████████░░` 92% |  |
-| Civilisations shown on the map | `███████████████████░` 96% | 314 of 326; the rest fly to their capital |
-| Checklist filled in | `████████████████████` 100% | 14018 of 14018 items (326 × 43) |
-| Answers with real detail | `██████████████░░░░░░` 68% | 4253 answers are still under 40 characters |
-| Fact-checked against a source | `█████░░░░░░░░░░░░░░░` 25% | 3559 items say “(checked …)”; the rest still need a second look |
-| Civilisations with events | `████████████████████` 100% | 326 of 326 |
-| Civilisations with famous people | `███████████████░░░░░` 74% | 240 of 326; many prehistoric cultures have no known names |
-| Civilisations linked to others | `████████████████████` 100% | 326 of 326 (succeeded, conquered, traded with…) |
-| Civilisation pictures | `███████████████████░` 97% | 315 of 326 |
-| “Known for” pictures | `████████████░░░░░░░░` 61% | 629 of 1038 items |
+| · Modern | `███████████████████░` 93% |  |
+| Civilisations shown on the map | `███████████████████░` 97% | 338 of 350; the rest fly to their capital |
+| Checklist filled in | `████████████████████` 100% | 15050 of 15050 items (350 × 43) |
+| Answers with real detail | `█████████████░░░░░░░` 65% | 4952 answers are still under 40 characters |
+| Fact-checked against a source | `█████░░░░░░░░░░░░░░░` 24% | 3559 items say “(checked …)”; the rest still need a second look |
+| Civilisations with events | `████████████████████` 100% | 350 of 350 |
+| Civilisations with famous people | `███████████████░░░░░` 75% | 261 of 350; many prehistoric cultures have no known names |
+| Civilisations linked to others | `████████████████████` 100% | 350 of 350 (succeeded, conquered, traded with…) |
+| Civilisation pictures | `██████████████████░░` 90% | 315 of 350 |
+| “Known for” pictures | `███████████░░░░░░░░░` 57% | 629 of 1110 items |
 
-Certainty of all items: 8307 confirmed · 5293 estimated · 418 disputed.
-Also in the app: 658 events · 296 people · 18 routes · 11 stories.
+Certainty of all items: 9162 confirmed · 5461 estimated · 427 disputed.
+Also in the app: 697 events · 325 people · 18 routes · 11 stories.
 
 ## Map coverage by year
 
@@ -104,25 +104,25 @@ Also in the app: 658 events · 296 people · 18 routes · 11 stories.
 | 1492 | `███████████░░░░░░░░░` 55% |
 | 1500 | `█████████████████░░░` 83% |
 | 1530 | `███████████████░░░░░` 75% |
-| 1600 | `██████████████░░░░░░` 72% |
+| 1600 | `███████████████░░░░░` 73% |
 | 1650 | `████████████████░░░░` 79% |
 | 1700 | `████████████████░░░░` 79% |
 | 1715 | `████████████████░░░░` 81% |
 | 1783 | `█████████████████░░░` 83% |
 | 1800 | `█████████████████░░░` 84% |
 | 1815 | `██████████████████░░` 88% |
-| 1878 | `██████████████████░░` 92% |
-| 1880 | `██████████████████░░` 92% |
-| 1900 | `██████████████████░░` 92% |
-| 1914 | `████████████████████` 98% |
-| 1920 | `███████████████████░` 97% |
-| 1930 | `███████████████████░` 96% |
-| 1938 | `███████████████████░` 96% |
-| 1945 | `██████████████████░░` 88% |
-| 1960 | `█████████████████░░░` 87% |
-| 1994 | `███████████████████░` 94% |
-| 2000 | `███████████████████░` 94% |
-| 2010 | `███████████████████░` 94% |
+| 1878 | `███████████████████░` 93% |
+| 1880 | `███████████████████░` 93% |
+| 1900 | `███████████████████░` 93% |
+| 1914 | `████████████████████` 99% |
+| 1920 | `████████████████████` 98% |
+| 1930 | `███████████████████░` 97% |
+| 1938 | `███████████████████░` 97% |
+| 1945 | `██████████████████░░` 89% |
+| 1960 | `██████████████████░░` 88% |
+| 1994 | `███████████████████░` 95% |
+| 2000 | `███████████████████░` 95% |
+| 2010 | `███████████████████░` 95% |
 
 ## Biggest map blanks still to fill
 
@@ -142,7 +142,6 @@ Areas on the border maps that no civilisation covers yet, largest first (area ad
 | Buwayhid Emirates | 1000 – 1200 (2 maps) | 4M |
 | Arabs | 1492 – 1500 (2 maps) | 4M |
 | Oghuz Turks | 900 – 900 (1 maps) | 4M |
-| Ecuador | 1878 – 2010 (12 maps) | 4M |
 | Suren Kingdom | 1 BCE – 400 (4 maps) | 4M |
 | Papua New Guinea | 1900 – 2010 (9 maps) | 4M |
 | Emirate of the White Sheep Turks | 1492 – 1500 (2 maps) | 4M |
@@ -160,3 +159,4 @@ Areas on the border maps that no civilisation covers yet, largest first (area ad
 | Sasanian Empire | 700 – 700 (1 maps) | 3M |
 | Himyarite Kingdom | 1 BCE – 500 (6 maps) | 3M |
 | Alwa | 600 – 1500 (12 maps) | 3M |
+| Mandes | 900 – 900 (1 maps) | 3M |

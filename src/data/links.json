@@ -2426,5 +2426,236 @@
     "relation": "succeeded",
     "year": 1993,
     "note": "Eritrea became independent from Ethiopia."
+  },
+  {
+    "fromPolityId": "colombia",
+    "toPolityId": "ecuador",
+    "relation": "succeeded",
+    "year": 1830,
+    "note": "Ecuador left Gran Colombia in 1830."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "uruguay",
+    "relation": "colonised",
+    "year": 1828,
+    "note": "Spanish until 1811."
+  },
+  {
+    "fromPolityId": "empire-of-brazil",
+    "toPolityId": "uruguay",
+    "relation": "conquered",
+    "year": 1828,
+    "note": "Brazil ruled it as the Cisplatine Province until 1828."
+  },
+  {
+    "fromPolityId": "maya",
+    "toPolityId": "guatemala",
+    "relation": "succeeded",
+    "year": null,
+    "note": "Guatemala is the Maya heartland; about 40% of people are Maya."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "guatemala",
+    "relation": "colonised",
+    "year": 1821,
+    "note": "Spanish until 1821."
+  },
+  {
+    "fromPolityId": "guatemala",
+    "toPolityId": "honduras",
+    "relation": "allied_with",
+    "year": 1838,
+    "note": "Part of the same Central American federation until 1838."
+  },
+  {
+    "fromPolityId": "maya",
+    "toPolityId": "honduras",
+    "relation": "succeeded",
+    "year": null,
+    "note": "Copán was a Maya city in today’s Honduras."
+  },
+  {
+    "fromPolityId": "united-states",
+    "toPolityId": "nicaragua",
+    "relation": "conquered",
+    "year": 1912,
+    "note": "US Marines occupied Nicaragua (1912–33)."
+  },
+  {
+    "fromPolityId": "honduras",
+    "toPolityId": "el-salvador",
+    "relation": "allied_with",
+    "year": 1980,
+    "note": "Neighbours that fought the 1969 Football War and later made peace."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "costa-rica",
+    "relation": "colonised",
+    "year": 1838,
+    "note": "Spanish until 1821."
+  },
+  {
+    "fromPolityId": "colombia",
+    "toPolityId": "panama",
+    "relation": "succeeded",
+    "year": 1903,
+    "note": "Panama split from Colombia in 1903."
+  },
+  {
+    "fromPolityId": "united-states",
+    "toPolityId": "panama",
+    "relation": "allied_with",
+    "year": 1903,
+    "note": "The US backed independence and ran the Canal Zone until 1999."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "cuba",
+    "relation": "colonised",
+    "year": 1902,
+    "note": "Spanish colony until 1898, then under US occupation until 1902."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "cuba",
+    "relation": "allied_with",
+    "year": 1962,
+    "note": "Cuba’s main ally during the Cold War."
+  },
+  {
+    "fromPolityId": "kingdom-of-france",
+    "toPolityId": "haiti",
+    "relation": "succeeded",
+    "year": null,
+    "note": "Haiti was the French colony of Saint-Domingue."
+  },
+  {
+    "fromPolityId": "haiti",
+    "toPolityId": "dominican-republic",
+    "relation": "conquered",
+    "year": 1844,
+    "note": "Haiti ruled the whole island 1822–44."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "dominican-republic",
+    "relation": "colonised",
+    "year": 1865,
+    "note": "Spain briefly ruled again (1861–65)."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "jamaica",
+    "relation": "colonised",
+    "year": 1962,
+    "note": "British colony 1655–1962."
+  },
+  {
+    "fromPolityId": "taino-caribbean",
+    "toPolityId": "jamaica",
+    "relation": "succeeded",
+    "year": null,
+    "note": "The Taíno lived on Jamaica before the Spanish."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "guyana",
+    "relation": "colonised",
+    "year": 1966,
+    "note": "British Guiana until 1966."
+  },
+  {
+    "fromPolityId": "dutch-colonial-empire",
+    "toPolityId": "suriname",
+    "relation": "colonised",
+    "year": 1975,
+    "note": "Dutch colony until 1975."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "belize",
+    "relation": "colonised",
+    "year": 1981,
+    "note": "British Honduras until 1981."
+  },
+  {
+    "fromPolityId": "maya",
+    "toPolityId": "belize",
+    "relation": "succeeded",
+    "year": null,
+    "note": "Caracol and other Maya cities lie in Belize."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "bahamas",
+    "relation": "colonised",
+    "year": 1973,
+    "note": "British colony until 1973."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "barbados",
+    "relation": "colonised",
+    "year": 1966,
+    "note": "British colony 1627–1966."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "trinidad-and-tobago",
+    "relation": "colonised",
+    "year": 1962,
+    "note": "British colony 1797–1962."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "grenada",
+    "relation": "colonised",
+    "year": 1974,
+    "note": "British colony until 1974."
+  },
+  {
+    "fromPolityId": "united-states",
+    "toPolityId": "grenada",
+    "relation": "conquered",
+    "year": 1983,
+    "note": "US-led invasion in 1983."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "dominica",
+    "relation": "colonised",
+    "year": 1978,
+    "note": "British colony until 1978."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "saint-lucia",
+    "relation": "colonised",
+    "year": 1979,
+    "note": "British colony until 1979."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "saint-vincent-and-the-grenadines",
+    "relation": "colonised",
+    "year": 1979,
+    "note": "British colony until 1979."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "antigua-and-barbuda",
+    "relation": "colonised",
+    "year": 1981,
+    "note": "British colony until 1981."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "saint-kitts-and-nevis",
+    "relation": "colonised",
+    "year": 1983,
+    "note": "British colony until 1983."
   }
 ]

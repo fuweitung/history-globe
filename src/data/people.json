@@ -6275,5 +6275,504 @@
   ],
   "wikiTitle": "Ahmed Sékou Touré",
   "source": "Wikipedia: Ahmed Sékou Touré"
+ },
+ {
+  "id": "eloy-alfaro",
+  "name": "Eloy Alfaro",
+  "born": 1842,
+  "died": 1912,
+  "role": "ruler",
+  "description": "Liberal revolutionary who separated church and state and built the Quito railway.",
+  "polityIds": [
+   "ecuador"
+  ],
+  "place": [
+   -78.47,
+   -0.18
+  ],
+  "wikiTitle": "Eloy Alfaro",
+  "source": "Wikipedia: Eloy Alfaro"
+ },
+ {
+  "id": "jose-artigas",
+  "name": "José Gervasio Artigas",
+  "born": 1764,
+  "died": 1850,
+  "role": "military",
+  "description": "National hero of Uruguay who fought Spain, Buenos Aires and Brazil.",
+  "polityIds": [
+   "uruguay",
+   "spanish-empire"
+  ],
+  "place": [
+   -56.16,
+   -34.9
+  ],
+  "wikiTitle": "José Gervasio Artigas",
+  "source": "Wikipedia: José Gervasio Artigas"
+ },
+ {
+  "id": "jose-batlle",
+  "name": "José Batlle y Ordóñez",
+  "born": 1856,
+  "died": 1929,
+  "role": "ruler",
+  "description": "Built an early welfare state and secular republic.",
+  "polityIds": [
+   "uruguay"
+  ],
+  "place": [
+   -56.16,
+   -34.9
+  ],
+  "wikiTitle": "José Batlle y Ordóñez",
+  "source": "Wikipedia: José Batlle y Ordóñez"
+ },
+ {
+  "id": "jacobo-arbenz",
+  "name": "Jacobo Árbenz",
+  "born": 1913,
+  "died": 1971,
+  "role": "ruler",
+  "description": "His land reform led to the 1954 CIA-backed coup.",
+  "polityIds": [
+   "guatemala"
+  ],
+  "place": [
+   -90.51,
+   14.63
+  ],
+  "wikiTitle": "Jacobo Árbenz",
+  "source": "Wikipedia: Jacobo Árbenz"
+ },
+ {
+  "id": "francisco-morazan",
+  "name": "Francisco Morazán",
+  "born": 1792,
+  "died": 1842,
+  "role": "ruler",
+  "description": "President of the Federal Republic of Central America; a hero in Honduras.",
+  "polityIds": [
+   "honduras",
+   "el-salvador",
+   "costa-rica"
+  ],
+  "place": [
+   -87.21,
+   14.07
+  ],
+  "wikiTitle": "Francisco Morazán",
+  "source": "Wikipedia: Francisco Morazán"
+ },
+ {
+  "id": "augusto-sandino",
+  "name": "Augusto César Sandino",
+  "born": 1895,
+  "died": 1934,
+  "role": "military",
+  "description": "Fought the US occupation of Nicaragua; the Sandinistas took his name.",
+  "polityIds": [
+   "nicaragua"
+  ],
+  "place": [
+   -86.25,
+   12.13
+  ],
+  "wikiTitle": "Augusto César Sandino",
+  "source": "Wikipedia: Augusto César Sandino"
+ },
+ {
+  "id": "ruben-dario",
+  "name": "Rubén Darío",
+  "born": 1867,
+  "died": 1916,
+  "role": "writer",
+  "description": "Founder of Spanish-language modernismo.",
+  "polityIds": [
+   "nicaragua"
+  ],
+  "place": [
+   -86.88,
+   12.43
+  ],
+  "wikiTitle": "Rubén Darío",
+  "source": "Wikipedia: Rubén Darío"
+ },
+ {
+  "id": "oscar-romero",
+  "name": "Óscar Romero",
+  "born": 1917,
+  "died": 1980,
+  "role": "religious",
+  "description": "Spoke for the poor and against army killings; murdered in 1980; made a saint in 2018.",
+  "polityIds": [
+   "el-salvador"
+  ],
+  "place": [
+   -89.19,
+   13.69
+  ],
+  "wikiTitle": "Óscar Romero",
+  "source": "Wikipedia: Óscar Romero"
+ },
+ {
+  "id": "jose-figueres",
+  "name": "José Figueres Ferrer",
+  "born": 1906,
+  "died": 1990,
+  "role": "ruler",
+  "description": "Abolished the army in 1948.",
+  "polityIds": [
+   "costa-rica"
+  ],
+  "place": [
+   -84.09,
+   9.93
+  ],
+  "wikiTitle": "José Figueres Ferrer",
+  "source": "Wikipedia: José Figueres Ferrer"
+ },
+ {
+  "id": "omar-torrijos",
+  "name": "Omar Torrijos",
+  "born": 1929,
+  "died": 1981,
+  "role": "ruler",
+  "description": "Negotiated the treaties returning the canal to Panama.",
+  "polityIds": [
+   "panama"
+  ],
+  "place": [
+   -79.52,
+   8.98
+  ],
+  "wikiTitle": "Omar Torrijos",
+  "source": "Wikipedia: Omar Torrijos"
+ },
+ {
+  "id": "jose-marti",
+  "name": "José Martí",
+  "born": 1853,
+  "died": 1895,
+  "role": "writer",
+  "description": "Cuba’s national hero, killed fighting Spain.",
+  "polityIds": [
+   "cuba",
+   "spanish-empire"
+  ],
+  "place": [
+   -82.37,
+   23.11
+  ],
+  "wikiTitle": "José Martí",
+  "source": "Wikipedia: José Martí"
+ },
+ {
+  "id": "fidel-castro",
+  "name": "Fidel Castro",
+  "born": 1926,
+  "died": 2016,
+  "role": "ruler",
+  "description": "Led the 1959 revolution and ruled Cuba until 2008.",
+  "polityIds": [
+   "cuba"
+  ],
+  "place": [
+   -82.37,
+   23.11
+  ],
+  "wikiTitle": "Fidel Castro",
+  "source": "Wikipedia: Fidel Castro"
+ },
+ {
+  "id": "che-guevara",
+  "name": "Che Guevara",
+  "born": 1928,
+  "died": 1967,
+  "role": "military",
+  "description": "Argentine-born leader of the Cuban Revolution, killed in Bolivia.",
+  "polityIds": [
+   "cuba",
+   "argentina"
+  ],
+  "place": [
+   -82.37,
+   23.11
+  ],
+  "wikiTitle": "Che Guevara",
+  "source": "Wikipedia: Che Guevara"
+ },
+ {
+  "id": "toussaint-louverture",
+  "name": "Toussaint Louverture",
+  "born": 1743,
+  "died": 1803,
+  "role": "military",
+  "description": "Formerly enslaved general who led the Haitian Revolution.",
+  "polityIds": [
+   "kingdom-of-france"
+  ],
+  "place": [
+   -72.34,
+   18.54
+  ],
+  "wikiTitle": "Toussaint Louverture",
+  "source": "Wikipedia: Toussaint Louverture"
+ },
+ {
+  "id": "jean-jacques-dessalines",
+  "name": "Jean-Jacques Dessalines",
+  "born": 1758,
+  "died": 1806,
+  "role": "ruler",
+  "description": "Declared Haiti’s independence in 1804.",
+  "polityIds": [
+   "haiti"
+  ],
+  "place": [
+   -72.34,
+   18.54
+  ],
+  "wikiTitle": "Jean-Jacques Dessalines",
+  "source": "Wikipedia: Jean-Jacques Dessalines"
+ },
+ {
+  "id": "juan-pablo-duarte",
+  "name": "Juan Pablo Duarte",
+  "born": 1813,
+  "died": 1876,
+  "role": "ruler",
+  "description": "Led the movement for Dominican independence.",
+  "polityIds": [
+   "dominican-republic"
+  ],
+  "place": [
+   -69.93,
+   18.49
+  ],
+  "wikiTitle": "Juan Pablo Duarte",
+  "source": "Wikipedia: Juan Pablo Duarte"
+ },
+ {
+  "id": "rafael-trujillo",
+  "name": "Rafael Trujillo",
+  "born": 1891,
+  "died": 1961,
+  "role": "ruler",
+  "description": "Ruled the Dominican Republic from 1930 until he was assassinated in 1961.",
+  "polityIds": [
+   "dominican-republic"
+  ],
+  "place": [
+   -69.93,
+   18.49
+  ],
+  "wikiTitle": "Rafael Trujillo",
+  "source": "Wikipedia: Rafael Trujillo"
+ },
+ {
+  "id": "marcus-garvey",
+  "name": "Marcus Garvey",
+  "born": 1887,
+  "died": 1940,
+  "role": "thinker",
+  "description": "Jamaican leader of a worldwide Black pride movement.",
+  "polityIds": [
+   "british-empire"
+  ],
+  "place": [
+   -77.19,
+   18.42
+  ],
+  "wikiTitle": "Marcus Garvey",
+  "source": "Wikipedia: Marcus Garvey"
+ },
+ {
+  "id": "bob-marley",
+  "name": "Bob Marley",
+  "born": 1945,
+  "died": 1981,
+  "role": "artist",
+  "description": "Spread reggae and Rastafari around the world.",
+  "polityIds": [
+   "jamaica"
+  ],
+  "place": [
+   -76.79,
+   17.97
+  ],
+  "wikiTitle": "Bob Marley",
+  "source": "Wikipedia: Bob Marley"
+ },
+ {
+  "id": "eric-williams",
+  "name": "Eric Williams",
+  "born": 1911,
+  "died": 1981,
+  "role": "ruler",
+  "description": "Historian who led Trinidad and Tobago to independence.",
+  "polityIds": [
+   "trinidad-and-tobago"
+  ],
+  "place": [
+   -61.51,
+   10.65
+  ],
+  "wikiTitle": "Eric Williams",
+  "source": "Wikipedia: Eric Williams"
+ },
+ {
+  "id": "cheddi-jagan",
+  "name": "Cheddi Jagan",
+  "born": 1918,
+  "died": 1997,
+  "role": "ruler",
+  "description": "Independence leader and later president.",
+  "polityIds": [
+   "guyana",
+   "british-empire"
+  ],
+  "place": [
+   -58.16,
+   6.8
+  ],
+  "wikiTitle": "Cheddi Jagan",
+  "source": "Wikipedia: Cheddi Jagan"
+ },
+ {
+  "id": "lynden-pindling",
+  "name": "Lynden Pindling",
+  "born": 1930,
+  "died": 2000,
+  "role": "ruler",
+  "description": "Father of the nation of the Bahamas.",
+  "polityIds": [
+   "bahamas"
+  ],
+  "place": [
+   -77.35,
+   25.06
+  ],
+  "wikiTitle": "Lynden Pindling",
+  "source": "Wikipedia: Lynden Pindling"
+ },
+ {
+  "id": "errol-barrow",
+  "name": "Errol Barrow",
+  "born": 1920,
+  "died": 1987,
+  "role": "ruler",
+  "description": "Led Barbados to independence.",
+  "polityIds": [
+   "barbados"
+  ],
+  "place": [
+   -59.62,
+   13.1
+  ],
+  "wikiTitle": "Errol Barrow",
+  "source": "Wikipedia: Errol Barrow"
+ },
+ {
+  "id": "george-price",
+  "name": "George Cadle Price",
+  "born": 1919,
+  "died": 2011,
+  "role": "ruler",
+  "description": "Father of the nation of Belize.",
+  "polityIds": [
+   "belize"
+  ],
+  "place": [
+   -88.77,
+   17.25
+  ],
+  "wikiTitle": "George Cadle Price",
+  "source": "Wikipedia: George Cadle Price"
+ },
+ {
+  "id": "maurice-bishop",
+  "name": "Maurice Bishop",
+  "born": 1944,
+  "died": 1983,
+  "role": "ruler",
+  "description": "Led Grenada’s 1979 revolution; killed in 1983.",
+  "polityIds": [
+   "grenada"
+  ],
+  "place": [
+   -61.75,
+   12.06
+  ],
+  "wikiTitle": "Maurice Bishop",
+  "source": "Wikipedia: Maurice Bishop"
+ },
+ {
+  "id": "eugenia-charles",
+  "name": "Eugenia Charles",
+  "born": 1919,
+  "died": 2005,
+  "role": "ruler",
+  "description": "First woman prime minister in the Caribbean.",
+  "polityIds": [
+   "dominica"
+  ],
+  "place": [
+   -61.39,
+   15.3
+  ],
+  "wikiTitle": "Eugenia Charles",
+  "source": "Wikipedia: Eugenia Charles"
+ },
+ {
+  "id": "derek-walcott",
+  "name": "Derek Walcott",
+  "born": 1930,
+  "died": 2017,
+  "role": "writer",
+  "description": "Nobel Prize in Literature (1992).",
+  "polityIds": [
+   "saint-lucia"
+  ],
+  "place": [
+   -60.99,
+   14.01
+  ],
+  "wikiTitle": "Derek Walcott",
+  "source": "Wikipedia: Derek Walcott"
+ },
+ {
+  "id": "vere-bird",
+  "name": "Vere Bird",
+  "born": 1910,
+  "died": 1999,
+  "role": "ruler",
+  "description": "First prime minister of Antigua and Barbuda.",
+  "polityIds": [
+   "antigua-and-barbuda"
+  ],
+  "place": [
+   -61.85,
+   17.12
+  ],
+  "wikiTitle": "Vere Bird",
+  "source": "Wikipedia: Vere Bird"
+ },
+ {
+  "id": "robert-bradshaw",
+  "name": "Robert Llewellyn Bradshaw",
+  "born": 1916,
+  "died": 1978,
+  "role": "ruler",
+  "description": "Labour leader and first premier of Saint Kitts.",
+  "polityIds": [
+   "british-empire"
+  ],
+  "place": [
+   -62.73,
+   17.3
+  ],
+  "wikiTitle": "Robert Llewellyn Bradshaw",
+  "source": "Wikipedia: Robert Llewellyn Bradshaw"
  }
 ]

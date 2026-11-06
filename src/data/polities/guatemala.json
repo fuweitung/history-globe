@@ -1,0 +1,321 @@
+{
+  "id": "guatemala",
+  "name": "Guatemala",
+  "era": "modern",
+  "region": "Central America",
+  "startYear": 1821,
+  "endYear": null,
+  "capital": "Guatemala City",
+  "capitalCoords": [
+    -90.51,
+    14.63
+  ],
+  "summary": "Heartland of the ancient Maya; independent in 1821; a US-backed coup (1954) led to a civil war (1960–96) in which about 200,000 died, mostly Maya.",
+  "wikiTitle": "Guatemala",
+  "borderNames": [
+    "Guatemala"
+  ],
+  "borderYears": [
+    1821,
+    null
+  ],
+  "color": "#3a8ac0",
+  "knownFor": [
+    {
+      "label": "Tikal",
+      "kind": "monument",
+      "note": "Great Maya city."
+    },
+    {
+      "label": "Rigoberta Menchú",
+      "kind": "person",
+      "year": 1992,
+      "note": "K’iche’ activist; Nobel Peace Prize 1992."
+    },
+    {
+      "label": "Huipil",
+      "kind": "textile",
+      "note": "Woven Maya blouses."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Central America; about 109,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "terrain": {
+        "value": "Volcanic highlands and lowland forests.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "climate": {
+        "value": "Tropical; cooler highlands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "resources": {
+        "value": "Coffee, bananas, sugar.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "disasters": {
+        "value": "Earthquakes (1976) and volcanoes (Fuego, 2018).",
+        "year": 1976,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 18 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "urbanisation": {
+        "value": "Guatemala City.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "disease": {
+        "value": "Malnutrition.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "migration": {
+        "value": "Emigration to the US.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Coffee, sugar, bananas, remittances.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "tradeRoutes": {
+        "value": "Ports on both coasts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "wealth": {
+        "value": "An upper-middle-income country with deep poverty.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "moneyAndTax": {
+        "value": "The quetzal.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Guatemala"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A presidential republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "keyRulers": {
+        "value": "Rafael Carrera. Jacobo Árbenz. Efraín Ríos Montt.",
+        "year": 1951,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "succession": {
+        "value": "Elections since 1986.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "institutions": {
+        "value": "Congress; CICIG anti-corruption body (2007–19).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "stability": {
+        "value": "Civil war (1960–96).",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Guatemala"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Armed forces.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "majorWars": {
+        "value": "Guatemalan Civil War.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "territoryChange": {
+        "value": "Claims part of Belize.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "alliancesRivals": {
+        "value": "Central American Integration System.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Guatemala"
+      },
+      "scienceEducation": {
+        "value": "Low literacy in rural areas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Guatemala"
+      },
+      "communicationTransport": {
+        "value": "Roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Catholic and Evangelical; Maya beliefs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "languageWriting": {
+        "value": "Spanish and 21 Maya languages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "artsArchitecture": {
+        "value": "Maya ruins, textiles, Antigua Guatemala.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "socialStructure": {
+        "value": "About 40% Indigenous Maya.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "sharedIdentity": {
+        "value": "Maya and Ladino identities.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "dailyLife": {
+        "value": "Houses; tortillas, beans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Mexico, Belize, Honduras, El Salvador.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "ideasReligions": {
+        "value": "Maya revival.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "colonisation": {
+        "value": "Part of the Spanish Empire until 1821.",
+        "year": 1821,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1821).",
+        "year": 1821,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Guatemala"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Guatemala"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Guatemala.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Guatemala"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Guatemala"
+      }
+    }
+  }
+}

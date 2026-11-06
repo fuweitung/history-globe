@@ -4309,7 +4309,8 @@
     "description": "The US defeats Spain. Spain loses Cuba, Puerto Rico, Guam and the Philippines, ending its American empire.",
     "relatedPolityIds": [
       "spanish-empire",
-      "united-states"
+      "united-states",
+      "cuba"
     ],
     "source": "Wikipedia: Spanish–American War"
   },
@@ -5197,7 +5198,8 @@
     "description": "A 13-day standoff over Soviet missiles in Cuba brings the world close to nuclear war.",
     "relatedPolityIds": [
       "united-states",
-      "soviet-union"
+      "soviet-union",
+      "cuba"
     ],
     "source": "Wikipedia: Cuban Missile Crisis"
   },
@@ -8878,5 +8880,539 @@
       "ethiopia-modern"
     ],
     "source": "Wikipedia: Eritrean War of Independence"
+  },
+  {
+    "id": "ecuador-leaves-gran-colombia",
+    "year": 1830,
+    "lat": -0.18,
+    "lng": -78.47,
+    "type": "culture",
+    "title": "Ecuador becomes independent",
+    "description": "Ecuador leaves Gran Colombia under Juan José Flores.",
+    "relatedPolityIds": [
+      "ecuador",
+      "colombia"
+    ],
+    "source": "Wikipedia: Ecuador"
+  },
+  {
+    "id": "ecuador-peru-war-1941",
+    "year": 1941,
+    "lat": -3.5,
+    "lng": -80,
+    "type": "war",
+    "title": "Ecuadorian–Peruvian War",
+    "description": "Peru defeats Ecuador; the 1942 Rio Protocol gives Peru much of the disputed Amazon.",
+    "relatedPolityIds": [
+      "ecuador",
+      "peru"
+    ],
+    "source": "Wikipedia: Ecuadorian–Peruvian War"
+  },
+  {
+    "id": "ecuador-dollarisation",
+    "year": 2000,
+    "lat": -0.18,
+    "lng": -78.47,
+    "type": "culture",
+    "title": "Ecuador adopts the US dollar",
+    "description": "After a banking crisis, Ecuador replaces the sucre with the dollar.",
+    "relatedPolityIds": [
+      "ecuador"
+    ],
+    "source": "Wikipedia: Dollarization"
+  },
+  {
+    "id": "uruguay-independence",
+    "year": 1828,
+    "lat": -34.9,
+    "lng": -56.16,
+    "type": "culture",
+    "title": "Uruguay becomes independent",
+    "description": "The Treaty of Montevideo creates Uruguay as a buffer between Brazil and Argentina.",
+    "relatedPolityIds": [
+      "uruguay",
+      "empire-of-brazil",
+      "argentina"
+    ],
+    "source": "Wikipedia: Treaty of Montevideo (1828)"
+  },
+  {
+    "id": "first-world-cup",
+    "year": 1930,
+    "lat": -34.89,
+    "lng": -56.15,
+    "type": "culture",
+    "title": "First FIFA World Cup",
+    "description": "Uruguay hosts and wins the first football World Cup.",
+    "relatedPolityIds": [
+      "uruguay"
+    ],
+    "source": "Wikipedia: 1930 FIFA World Cup"
+  },
+  {
+    "id": "uruguay-dictatorship",
+    "year": 1973,
+    "lat": -34.9,
+    "lng": -56.16,
+    "type": "war",
+    "title": "Coup in Uruguay",
+    "description": "The military takes power; dictatorship lasts until 1985.",
+    "relatedPolityIds": [
+      "uruguay"
+    ],
+    "source": "Wikipedia: 1973 Uruguayan coup d’état"
+  },
+  {
+    "id": "central-america-independence",
+    "year": 1821,
+    "lat": 14.63,
+    "lng": -90.51,
+    "type": "culture",
+    "title": "Central America declares independence",
+    "description": "Guatemala City leaders declare independence from Spain; the federation breaks up in 1838–41.",
+    "relatedPolityIds": [
+      "guatemala",
+      "spanish-empire"
+    ],
+    "source": "Wikipedia: Act of Independence of Central America"
+  },
+  {
+    "id": "guatemala-coup-1954",
+    "year": 1954,
+    "lat": 14.63,
+    "lng": -90.51,
+    "type": "war",
+    "title": "Guatemalan coup",
+    "description": "A CIA-backed coup overthrows President Jacobo Árbenz after his land reform.",
+    "relatedPolityIds": [
+      "guatemala",
+      "united-states"
+    ],
+    "source": "Wikipedia: 1954 Guatemalan coup d’état"
+  },
+  {
+    "id": "guatemalan-civil-war",
+    "year": 1960,
+    "lat": 15.5,
+    "lng": -91,
+    "type": "war",
+    "title": "Guatemalan Civil War",
+    "description": "A 36-year war (1960–96); about 200,000 killed, mostly Maya, including acts judged genocide.",
+    "relatedPolityIds": [
+      "guatemala"
+    ],
+    "source": "Wikipedia: Guatemalan Civil War"
+  },
+  {
+    "id": "football-war",
+    "year": 1969,
+    "lat": 14,
+    "lng": -87.5,
+    "type": "war",
+    "title": "Football War",
+    "description": "A four-day war between El Salvador and Honduras, sparked by migration tensions and World Cup qualifiers.",
+    "relatedPolityIds": [
+      "el-salvador",
+      "honduras"
+    ],
+    "source": "Wikipedia: Football War"
+  },
+  {
+    "id": "hurricane-mitch",
+    "year": 1998,
+    "lat": 15,
+    "lng": -86.5,
+    "type": "disaster",
+    "title": "Hurricane Mitch",
+    "description": "Floods and landslides kill about 11,000 people in Central America, most in Honduras and Nicaragua.",
+    "relatedPolityIds": [
+      "honduras",
+      "nicaragua"
+    ],
+    "source": "Wikipedia: Hurricane Mitch"
+  },
+  {
+    "id": "nicaraguan-revolution",
+    "year": 1979,
+    "lat": 12.13,
+    "lng": -86.25,
+    "type": "war",
+    "title": "Nicaraguan Revolution",
+    "description": "The Sandinistas overthrow the Somoza dictatorship; a war with US-backed Contras follows.",
+    "relatedPolityIds": [
+      "nicaragua"
+    ],
+    "source": "Wikipedia: Nicaraguan Revolution"
+  },
+  {
+    "id": "salvadoran-civil-war",
+    "year": 1980,
+    "lat": 13.69,
+    "lng": -89.19,
+    "type": "war",
+    "title": "Salvadoran Civil War",
+    "description": "War between the army and FMLN guerrillas (1980–92); about 75,000 killed.",
+    "relatedPolityIds": [
+      "el-salvador"
+    ],
+    "source": "Wikipedia: Salvadoran Civil War"
+  },
+  {
+    "id": "romero-assassinated",
+    "year": 1980,
+    "lat": 13.7,
+    "lng": -89.21,
+    "type": "war",
+    "title": "Archbishop Óscar Romero murdered",
+    "description": "Shot while saying Mass after speaking against army killings.",
+    "relatedPolityIds": [
+      "el-salvador"
+    ],
+    "source": "Wikipedia: Óscar Romero"
+  },
+  {
+    "id": "costa-rica-abolishes-army",
+    "year": 1948,
+    "lat": 9.93,
+    "lng": -84.09,
+    "type": "culture",
+    "title": "Costa Rica abolishes its army",
+    "description": "After a short civil war, José Figueres abolishes the army.",
+    "relatedPolityIds": [
+      "costa-rica"
+    ],
+    "source": "Wikipedia: Military of Costa Rica"
+  },
+  {
+    "id": "panama-independence",
+    "year": 1903,
+    "lat": 8.98,
+    "lng": -79.52,
+    "type": "culture",
+    "title": "Panama separates from Colombia",
+    "description": "With US backing, Panama becomes independent and signs a canal treaty.",
+    "relatedPolityIds": [
+      "panama",
+      "colombia",
+      "united-states"
+    ],
+    "source": "Wikipedia: Separation of Panama from Colombia"
+  },
+  {
+    "id": "panama-canal-opens",
+    "year": 1914,
+    "lat": 9.08,
+    "lng": -79.68,
+    "type": "culture",
+    "title": "Panama Canal opens",
+    "description": "The US-built canal links the Atlantic and Pacific Oceans.",
+    "relatedPolityIds": [
+      "panama",
+      "united-states"
+    ],
+    "source": "Wikipedia: Panama Canal"
+  },
+  {
+    "id": "us-invasion-of-panama",
+    "year": 1989,
+    "lat": 8.98,
+    "lng": -79.52,
+    "type": "war",
+    "title": "US invasion of Panama",
+    "description": "US troops remove Manuel Noriega.",
+    "relatedPolityIds": [
+      "panama",
+      "united-states"
+    ],
+    "source": "Wikipedia: United States invasion of Panama"
+  },
+  {
+    "id": "panama-canal-handover",
+    "year": 1999,
+    "lat": 9.08,
+    "lng": -79.68,
+    "type": "culture",
+    "title": "Panama takes over the canal",
+    "description": "The United States hands the canal to Panama.",
+    "relatedPolityIds": [
+      "panama",
+      "united-states"
+    ],
+    "source": "Wikipedia: Torrijos–Carter Treaties"
+  },
+  {
+    "id": "cuban-revolution",
+    "year": 1959,
+    "lat": 23.11,
+    "lng": -82.37,
+    "type": "war",
+    "title": "Cuban Revolution",
+    "description": "Fidel Castro’s rebels overthrow Batista; Cuba becomes a communist state.",
+    "relatedPolityIds": [
+      "cuba"
+    ],
+    "source": "Wikipedia: Cuban Revolution"
+  },
+  {
+    "id": "bay-of-pigs",
+    "year": 1961,
+    "lat": 22.07,
+    "lng": -81.17,
+    "type": "war",
+    "title": "Bay of Pigs invasion",
+    "description": "A CIA-backed exile force fails to overthrow Castro.",
+    "relatedPolityIds": [
+      "cuba",
+      "united-states"
+    ],
+    "source": "Wikipedia: Bay of Pigs Invasion"
+  },
+  {
+    "id": "haiti-independence",
+    "year": 1804,
+    "lat": 18.54,
+    "lng": -72.34,
+    "type": "culture",
+    "title": "Haiti declares independence",
+    "description": "Jean-Jacques Dessalines declares Haiti the first free Black republic.",
+    "relatedPolityIds": [
+      "haiti"
+    ],
+    "source": "Wikipedia: Haitian Declaration of Independence"
+  },
+  {
+    "id": "us-occupation-of-haiti",
+    "year": 1915,
+    "lat": 18.54,
+    "lng": -72.34,
+    "type": "war",
+    "title": "US occupation of Haiti",
+    "description": "US Marines occupy Haiti until 1934.",
+    "relatedPolityIds": [
+      "haiti",
+      "united-states"
+    ],
+    "source": "Wikipedia: United States occupation of Haiti"
+  },
+  {
+    "id": "haiti-earthquake-2010",
+    "year": 2010,
+    "lat": 18.46,
+    "lng": -72.53,
+    "type": "disaster",
+    "title": "Haiti earthquake",
+    "description": "A magnitude 7.0 earthquake kills over 100,000 people around Port-au-Prince.",
+    "relatedPolityIds": [
+      "haiti"
+    ],
+    "source": "Wikipedia: 2010 Haiti earthquake"
+  },
+  {
+    "id": "dominican-independence",
+    "year": 1844,
+    "lat": 18.49,
+    "lng": -69.93,
+    "type": "culture",
+    "title": "Dominican Republic independence",
+    "description": "The east of Hispaniola breaks away from Haiti.",
+    "relatedPolityIds": [
+      "dominican-republic",
+      "haiti"
+    ],
+    "source": "Wikipedia: Dominican War of Independence"
+  },
+  {
+    "id": "parsley-massacre",
+    "year": 1937,
+    "lat": 19.5,
+    "lng": -71.7,
+    "type": "war",
+    "title": "Parsley massacre",
+    "description": "Dictator Trujillo’s army kills thousands of Haitians along the border.",
+    "relatedPolityIds": [
+      "dominican-republic",
+      "haiti"
+    ],
+    "source": "Wikipedia: Parsley massacre"
+  },
+  {
+    "id": "jamaica-independence",
+    "year": 1962,
+    "lat": 17.97,
+    "lng": -76.79,
+    "type": "culture",
+    "title": "Jamaica becomes independent",
+    "description": "Jamaica gains independence from Britain.",
+    "relatedPolityIds": [
+      "jamaica",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Jamaica"
+  },
+  {
+    "id": "trinidad-independence",
+    "year": 1962,
+    "lat": 10.65,
+    "lng": -61.51,
+    "type": "culture",
+    "title": "Trinidad and Tobago becomes independent",
+    "description": "Eric Williams leads the islands to independence.",
+    "relatedPolityIds": [
+      "trinidad-and-tobago",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Trinidad and Tobago"
+  },
+  {
+    "id": "guyana-independence",
+    "year": 1966,
+    "lat": 6.8,
+    "lng": -58.16,
+    "type": "culture",
+    "title": "Guyana becomes independent",
+    "description": "British Guiana becomes Guyana.",
+    "relatedPolityIds": [
+      "guyana",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Guyana"
+  },
+  {
+    "id": "barbados-republic",
+    "year": 2021,
+    "lat": 13.1,
+    "lng": -59.62,
+    "type": "culture",
+    "title": "Barbados becomes a republic",
+    "description": "Barbados replaces the British monarch with an elected president.",
+    "relatedPolityIds": [
+      "barbados"
+    ],
+    "source": "Wikipedia: Barbados"
+  },
+  {
+    "id": "bahamas-independence",
+    "year": 1973,
+    "lat": 25.06,
+    "lng": -77.35,
+    "type": "culture",
+    "title": "The Bahamas becomes independent",
+    "description": "Independence from Britain under Lynden Pindling.",
+    "relatedPolityIds": [
+      "bahamas",
+      "british-empire"
+    ],
+    "source": "Wikipedia: The Bahamas"
+  },
+  {
+    "id": "suriname-independence",
+    "year": 1975,
+    "lat": 5.85,
+    "lng": -55.2,
+    "type": "culture",
+    "title": "Suriname becomes independent",
+    "description": "Independence from the Netherlands; many people move to the Netherlands.",
+    "relatedPolityIds": [
+      "suriname",
+      "dutch-colonial-empire"
+    ],
+    "source": "Wikipedia: Suriname"
+  },
+  {
+    "id": "belize-independence",
+    "year": 1981,
+    "lat": 17.25,
+    "lng": -88.77,
+    "type": "culture",
+    "title": "Belize becomes independent",
+    "description": "British Honduras becomes Belize; British troops stay to deter Guatemala.",
+    "relatedPolityIds": [
+      "belize",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Belize"
+  },
+  {
+    "id": "us-invasion-of-grenada",
+    "year": 1983,
+    "lat": 12.06,
+    "lng": -61.75,
+    "type": "war",
+    "title": "US invasion of Grenada",
+    "description": "After Maurice Bishop is killed, US-led forces invade.",
+    "relatedPolityIds": [
+      "grenada",
+      "united-states"
+    ],
+    "source": "Wikipedia: United States invasion of Grenada"
+  },
+  {
+    "id": "hurricane-maria-dominica",
+    "year": 2017,
+    "lat": 15.3,
+    "lng": -61.39,
+    "type": "disaster",
+    "title": "Hurricane Maria hits Dominica",
+    "description": "A Category 5 hurricane damages almost every building on Dominica.",
+    "relatedPolityIds": [
+      "dominica"
+    ],
+    "source": "Wikipedia: Hurricane Maria"
+  },
+  {
+    "id": "saint-lucia-independence",
+    "year": 1979,
+    "lat": 14.01,
+    "lng": -60.99,
+    "type": "culture",
+    "title": "Saint Lucia becomes independent",
+    "description": "Independence from Britain.",
+    "relatedPolityIds": [
+      "saint-lucia",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Saint Lucia"
+  },
+  {
+    "id": "la-soufriere-2021",
+    "year": 2021,
+    "lat": 13.33,
+    "lng": -61.18,
+    "type": "disaster",
+    "title": "La Soufrière erupts",
+    "description": "The volcano erupts; about 20,000 people are evacuated.",
+    "relatedPolityIds": [
+      "saint-vincent-and-the-grenadines"
+    ],
+    "source": "Wikipedia: 2020–2021 La Soufrière eruption"
+  },
+  {
+    "id": "antigua-independence",
+    "year": 1981,
+    "lat": 17.12,
+    "lng": -61.85,
+    "type": "culture",
+    "title": "Antigua and Barbuda becomes independent",
+    "description": "Independence from Britain under Vere Bird.",
+    "relatedPolityIds": [
+      "antigua-and-barbuda",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Antigua and Barbuda"
+  },
+  {
+    "id": "saint-kitts-independence",
+    "year": 1983,
+    "lat": 17.3,
+    "lng": -62.73,
+    "type": "culture",
+    "title": "Saint Kitts and Nevis becomes independent",
+    "description": "The last British colony in the Caribbean to become a full state.",
+    "relatedPolityIds": [
+      "saint-kitts-and-nevis",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Saint Kitts and Nevis"
   }
 ]

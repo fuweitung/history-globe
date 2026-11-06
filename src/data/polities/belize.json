@@ -1,0 +1,320 @@
+{
+  "id": "belize",
+  "name": "Belize",
+  "era": "modern",
+  "region": "Central America",
+  "startYear": 1981,
+  "endYear": null,
+  "capital": "Belmopan",
+  "capitalCoords": [
+    -88.77,
+    17.25
+  ],
+  "summary": "Formerly British Honduras, independent in 1981; the only English-speaking country in Central America, with Maya ruins and the second-largest barrier reef.",
+  "wikiTitle": "Belize",
+  "borderNames": [
+    "Belize"
+  ],
+  "borderYears": [
+    1981,
+    null
+  ],
+  "color": "#3a6ab0",
+  "knownFor": [
+    {
+      "label": "Belize Barrier Reef",
+      "kind": "monument",
+      "note": "Second-largest reef system in the world."
+    },
+    {
+      "label": "Great Blue Hole",
+      "kind": "monument",
+      "note": "Giant marine sinkhole."
+    },
+    {
+      "label": "Caracol",
+      "kind": "monument",
+      "note": "Large Maya city."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Central America on the Caribbean; about 23,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      },
+      "terrain": {
+        "value": "Lowlands, Maya Mountains, cays.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      },
+      "resources": {
+        "value": "Sugar, citrus, tourism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      },
+      "disasters": {
+        "value": "Hurricane Hattie (1961) led to a new capital.",
+        "year": 1961,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 410,000.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      },
+      "urbanisation": {
+        "value": "Belize City.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      },
+      "disease": {
+        "value": "Dengue.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      },
+      "migration": {
+        "value": "Central American immigrants.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Tourism, sugar, bananas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      },
+      "tradeRoutes": {
+        "value": "Belize City port.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      },
+      "wealth": {
+        "value": "An upper-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      },
+      "moneyAndTax": {
+        "value": "The Belize dollar.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Belize"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary democracy in the Commonwealth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      },
+      "keyRulers": {
+        "value": "George Price.",
+        "year": 1981,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      },
+      "institutions": {
+        "value": "National Assembly.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      },
+      "stability": {
+        "value": "Stable.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Belize"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Belize Defence Force; British troops stayed until 1994.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      },
+      "majorWars": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      },
+      "territoryChange": {
+        "value": "Guatemala claims part of Belize (at the ICJ).",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Belize"
+      },
+      "alliancesRivals": {
+        "value": "CARICOM and SICA.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Belize"
+      },
+      "scienceEducation": {
+        "value": "University of Belize.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Belize"
+      },
+      "communicationTransport": {
+        "value": "Roads, small planes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Catholic and Protestant.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      },
+      "languageWriting": {
+        "value": "English; Kriol; Spanish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      },
+      "artsArchitecture": {
+        "value": "Garifuna punta music.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      },
+      "socialStructure": {
+        "value": "Mestizo, Kriol, Maya, Garifuna and Mennonite communities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      },
+      "sharedIdentity": {
+        "value": "Caribbean and Central American.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      },
+      "dailyLife": {
+        "value": "Houses; rice and beans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Mexico, Guatemala.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      },
+      "ideasReligions": {
+        "value": "Christianity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      },
+      "colonisation": {
+        "value": "A British colony until 1981.",
+        "year": 1862,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1981).",
+        "year": 1981,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Belize"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Belize"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Belize.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belize"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Belize"
+      }
+    }
+  }
+}
