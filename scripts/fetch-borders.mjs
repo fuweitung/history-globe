@@ -7,7 +7,8 @@
 // Borders: https://github.com/aourednik/historical-basemaps (GPL-3.0)
 // Land:    https://www.naturalearthdata.com/ (public domain)
 
-import { mkdir, writeFile, access } from 'node:fs/promises';
+import { mkdir, writeFile, access, readFile } from 'node:fs/promises';
+import { simplifyBorders } from './simplify-borders.mjs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -26,8 +27,10 @@ const LAND = 'https://raw.githubusercontent.com/nvkelso/natural-earth-vector/mas
 
 const exists = (p) => access(p).then(() => true, () => false);
 
+const fresh = new Set(); // files downloaded in this run (not yet simplified)
 async function download(url, dest) {
   if (!force && (await exists(dest))) return 'cached';
+  fresh.add(dest);
   const res = await fetch(url);
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   const text = await res.text();
@@ -55,8 +58,16 @@ try {
   console.warn(`  ✗ land outlines  ${e.message}`);
 }
 
+// Keep the record of already-simplified files that were not downloaded again.
+const old = await readFile(join(outDir, 'manifest.json'), 'utf8').then(JSON.parse, () => ({}));
+const simplifiedYears = (old.simplified?.years ?? []).filter((y) => ok.includes(y) && !fresh.has(join(outDir, fileFor(y))));
 await writeFile(
   join(outDir, 'manifest.json'),
-  JSON.stringify({ source: 'https://github.com/aourednik/historical-basemaps', license: 'GPL-3.0', years: ok }, null, 2) + '\n',
+  JSON.stringify(
+    { source: 'https://github.com/aourednik/historical-basemaps', license: 'GPL-3.0', years: ok, simplified: { ...old.simplified, years: simplifiedYears } },
+    null,
+    2,
+  ) + '\n',
 );
-console.log(`\nWrote manifest with ${ok.length} snapshots.`);
+console.log(`\nWrote manifest with ${ok.length} snapshots. Simplifying new files…`);
+await simplifyBorders();
