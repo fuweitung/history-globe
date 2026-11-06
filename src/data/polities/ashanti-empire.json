@@ -304,7 +304,7 @@
         "source": "Wikipedia: Asante Empire (checked 6 Nov 2026)"
       },
       "overallCertainty": {
-        "value": "Good. Asante oral history and European records broadly agree.",
+        "value": "Good. Asante oral history and European records broadly agree. Second source: Wikidata gives 1670 (the Kumasi state before the empire); Wikipedia’s infobox gives 1701.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Asante Empire (checked 6 Nov 2026)"
@@ -325,5 +325,6 @@
     "sources": [
       "Wikipedia: Asante Empire (infobox, checked 6 Nov 2026)"
     ]
-  }
+  },
+  "datesApproximate": true
 }

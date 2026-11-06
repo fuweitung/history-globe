@@ -309,7 +309,7 @@
         "source": "Wikipedia: Aztec Empire (checked 6 Nov 2026)"
       },
       "overallCertainty": {
-        "value": "Moderate. Population and sacrifice numbers are debated. Some dates differ (the alliance in 1428 or 1430).",
+        "value": "Moderate. Population and sacrifice numbers are debated. Some dates differ (the alliance in 1428 or 1430). Second source: Wikidata starts at the founding of Tenochtitlan (1325); this app starts at the Triple Alliance (1428).",
         "year": null,
         "certainty": "disputed",
         "source": "Wikipedia: Aztec Empire (checked 6 Nov 2026)"
@@ -328,5 +328,6 @@
     "sources": [
       "Wikipedia: Aztec Empire (infobox, checked 6 Nov 2026)"
     ]
-  }
+  },
+  "datesApproximate": true
 }

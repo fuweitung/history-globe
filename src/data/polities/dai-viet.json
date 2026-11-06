@@ -281,7 +281,7 @@
         "source": "Wikipedia: Đại Việt (checked 6 Nov 2026)"
       },
       "overallCertainty": {
-        "value": "Good overall; the founding date is given as 966 or 968.",
+        "value": "Good overall; the founding date is given as 966 or 968. Second source: Wikidata uses 1054 (when the name Đại Việt was adopted); this app starts at independence in 968.",
         "year": null,
         "certainty": "disputed",
         "source": "Wikipedia: Đại Việt (checked 6 Nov 2026)"
@@ -333,5 +333,6 @@
     "sources": [
       "Wikipedia: Đại Việt (infobox, checked 6 Nov 2026)"
     ]
-  }
+  },
+  "datesApproximate": true
 }

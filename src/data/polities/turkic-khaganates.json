@@ -282,7 +282,7 @@
         "source": "Wikipedia: First Turkic Khaganate (checked 6 Nov 2026)"
       },
       "overallCertainty": {
-        "value": "Medium. Dates for the split vary between sources (581 or 603).",
+        "value": "Medium. Dates for the split vary between sources (581 or 603). Second source: Wikidata’s First Turkic Khaganate ends in 603; this app covers both Turkic khaganates (to 744).",
         "year": null,
         "certainty": "disputed",
         "source": "Wikipedia: First Turkic Khaganate (checked 6 Nov 2026)"
@@ -325,5 +325,6 @@
     "sources": [
       "Wikipedia: First Turkic Khaganate (infobox, checked 6 Nov 2026)"
     ]
-  }
+  },
+  "datesApproximate": true
 }
