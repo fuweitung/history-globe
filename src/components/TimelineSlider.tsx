@@ -152,7 +152,7 @@ export default function TimelineSlider({
               type="button"
               onClick={() => onChange(e.from)}
               aria-pressed={active}
-              className={`min-w-0 truncate rounded-md px-1.5 py-0.5 text-[10px] font-semibold tracking-wide uppercase transition ${
+              className={`min-h-6 min-w-0 truncate rounded-md px-1.5 py-0.5 text-[10px] font-semibold tracking-wide uppercase transition ${
                 active ? 'text-ink-900' : 'text-parchment-300 hover:bg-white/5'
               }`}
               style={{ width: `${e.share * 100}%`, background: active ? e.text : undefined }}

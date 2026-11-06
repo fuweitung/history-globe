@@ -13,6 +13,23 @@ export function useIsDesktop(): boolean {
   return match;
 }
 
+/** Window height, kept up to date on resize and rotation (and 0 → real value when a hidden tab becomes visible). */
+function useWindowHeight(): number {
+  const [h, setH] = useState(() => window.innerHeight);
+  useEffect(() => {
+    const on = () => setH(window.innerHeight);
+    window.addEventListener('resize', on);
+    window.visualViewport?.addEventListener('resize', on);
+    document.addEventListener('visibilitychange', on);
+    return () => {
+      window.removeEventListener('resize', on);
+      window.visualViewport?.removeEventListener('resize', on);
+      document.removeEventListener('visibilitychange', on);
+    };
+  }, []);
+  return h;
+}
+
 export type Snap = 'peek' | 'half' | 'full';
 const SNAP_VH: Record<Snap, number> = { peek: 42, half: 66, full: 94 };
 
@@ -39,6 +56,8 @@ export default function Panel({ open, onClose, contentKey, title, wide = false, 
   const [dragPx, setDragPx] = useState<number | null>(null);
   const dragStart = useRef<{ y: number; h: number } | null>(null);
   const rootRef = useRef<HTMLElement>(null);
+  const windowHeight = useWindowHeight();
+  const returnFocus = useRef<HTMLElement | null>(null);
 
   // A closed panel is moved off-screen; make it inert so nothing inside can take focus.
   useEffect(() => {
@@ -49,7 +68,25 @@ export default function Panel({ open, onClose, contentKey, title, wide = false, 
     scrollRef.current?.scrollTo({ top: 0 });
     // New content opens at "peek" so the map stays visible (stories open taller so Next is reachable).
     setSnap(snapOnOpen);
-  }, [contentKey]);
+  }, [contentKey]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  // Keyboard and screen-reader users: move focus into the panel when new content
+  // opens (unless something inside already took it, e.g. the search box), and give
+  // it back to where it was when the panel closes.
+  useEffect(() => {
+    const root = rootRef.current;
+    if (!open || !root) return;
+    const active = document.activeElement as HTMLElement | null;
+    if (active && !root.contains(active) && active !== document.body) returnFocus.current ??= active;
+    if (!root.contains(document.activeElement)) scrollRef.current?.focus({ preventScroll: true });
+  }, [open, contentKey]);
+  useEffect(() => {
+    if (open) return;
+    const el = returnFocus.current;
+    returnFocus.current = null;
+    if (el?.isConnected && rootRef.current?.contains(document.activeElement)) el.focus({ preventScroll: true });
+    else if (el?.isConnected && document.activeElement === document.body) el.focus({ preventScroll: true });
+  }, [open]);
 
   // Escape closes
   useEffect(() => {
@@ -70,7 +107,7 @@ export default function Panel({ open, onClose, contentKey, title, wide = false, 
         }`}
       >
         <CloseButton onClose={onClose} />
-        <div ref={scrollRef} className="scroll-thin flex-1 overflow-y-auto overscroll-contain">
+        <div ref={scrollRef} tabIndex={-1} aria-label={title} className="scroll-thin flex-1 overflow-y-auto overscroll-contain focus:outline-none">
           <PanelContent contentKey={contentKey}>{children}</PanelContent>
         </div>
       </aside>
@@ -80,7 +117,7 @@ export default function Panel({ open, onClose, contentKey, title, wide = false, 
   // ── Mobile bottom sheet ──
   // The sheet sits above the timeline (its height is published as --tl-h by App).
   const tl = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--tl-h')) || 0;
-  const avail = window.innerHeight - tl;
+  const avail = Math.max(0, windowHeight - tl);
   const vh = avail / 100;
   const height = dragPx ?? SNAP_VH[snap] * vh;
 
@@ -136,7 +173,7 @@ export default function Panel({ open, onClose, contentKey, title, wide = false, 
         <div className="h-1.5 w-12 rounded-full bg-parchment-300/50" />
       </div>
       <CloseButton onClose={onClose} />
-      <div ref={scrollRef} className="scroll-thin min-h-0 flex-1 overflow-y-auto overscroll-contain">
+      <div ref={scrollRef} tabIndex={-1} aria-label={title} className="scroll-thin min-h-0 flex-1 overflow-y-auto overscroll-contain focus:outline-none">
         <PanelContent contentKey={contentKey}>{children}</PanelContent>
       </div>
     </section>

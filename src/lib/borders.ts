@@ -43,6 +43,7 @@ export function loadManifest(): Promise<number[]> {
       return r.json() as Promise<{ years: number[] }>;
     })
     .then((m) => m.years.slice().sort((a, b) => a - b));
+  manifestPromise.catch(() => (manifestPromise = null)); // allow a retry
   return manifestPromise;
 }
 

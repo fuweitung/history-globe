@@ -317,7 +317,7 @@ export default function PolityDetail({ polity, year, onJumpToYear, onFlyTo, onOp
                 <li key={i} className="flex flex-wrap items-baseline gap-x-1.5 text-[13px]">
                   <span className="text-parchment-300">{verb}</span>
                   {other ? (
-                    <button type="button" onClick={() => onOpenPolity(other.id)} className="font-semibold text-gold-300 underline-offset-2 hover:underline">
+                    <button type="button" onClick={() => onOpenPolity(other.id)} className="min-h-6 font-semibold text-gold-300 underline-offset-2 hover:underline">
                       {other.name}
                     </button>
                   ) : (
