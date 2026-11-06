@@ -281,7 +281,7 @@
         "source": "Wikipedia: Sikh Empire (checked 6 Nov 2026)"
       },
       "overallCertainty": {
-        "value": "Medium. Population and religious-share figures vary widely.",
+        "value": "Medium. Population and religious-share figures vary widely. Second source: Wikidata starts in 1733 (the Sikh Confederacy); this app starts when Ranjit Singh took Lahore (1799).",
         "year": null,
         "certainty": "disputed",
         "source": "Wikipedia: Sikh Empire (checked 6 Nov 2026)"
@@ -324,5 +324,6 @@
     "sources": [
       "Wikipedia: Sikh Empire (infobox, checked 6 Nov 2026)"
     ]
-  }
+  },
+  "datesApproximate": true
 }

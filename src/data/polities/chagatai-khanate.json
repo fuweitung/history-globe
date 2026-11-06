@@ -298,11 +298,12 @@
         "source": "Wikipedia: Chagatai Khanate (checked 6 Nov 2026)"
       },
       "overallCertainty": {
-        "value": "Medium. The infobox dates the whole khanate 1227–1347 and its eastern part to 1462; descendants ruled small states much later (to 1680 and beyond). This app uses 1227–1462.",
+        "value": "Medium. The infobox dates the whole khanate 1227–1347 and its eastern part to 1462; descendants ruled small states much later (to 1680 and beyond). This app uses 1227–1462. Second source: Wikidata ends it in 1687 (last Chagatai rulers); this app follows the eastern khanate to 1462.",
         "year": null,
         "certainty": "disputed",
         "source": "Wikipedia: Chagatai Khanate (checked 6 Nov 2026)"
       }
     }
-  }
+  },
+  "datesApproximate": true
 }
