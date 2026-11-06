@@ -3028,5 +3028,75 @@
     "relation": "conquered",
     "year": 1950,
     "note": "North Korea invaded the South in 1950."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "new-zealand",
+    "relation": "colonised",
+    "year": 1907,
+    "note": "British colony (1840–1907)."
+  },
+  {
+    "fromPolityId": "maori-aotearoa",
+    "toPolityId": "new-zealand",
+    "relation": "traded_with",
+    "year": 1840,
+    "note": "The Treaty of Waitangi (1840) between Māori chiefs and the Crown."
+  },
+  {
+    "fromPolityId": "new-zealand",
+    "toPolityId": "australia",
+    "relation": "allied_with",
+    "year": 1915,
+    "note": "ANZAC partners since Gallipoli."
+  },
+  {
+    "fromPolityId": "papuan-peoples",
+    "toPolityId": "papua-new-guinea",
+    "relation": "succeeded",
+    "year": null,
+    "note": "Papuan peoples are the majority of the population."
+  },
+  {
+    "fromPolityId": "australia",
+    "toPolityId": "papua-new-guinea",
+    "relation": "colonised",
+    "year": 1975,
+    "note": "Australian rule (1906–75)."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "fiji",
+    "relation": "colonised",
+    "year": 1970,
+    "note": "British colony (1874–1970)."
+  },
+  {
+    "fromPolityId": "new-zealand",
+    "toPolityId": "samoa",
+    "relation": "colonised",
+    "year": 1962,
+    "note": "New Zealand rule (1914–62)."
+  },
+  {
+    "fromPolityId": "german-empire",
+    "toPolityId": "samoa",
+    "relation": "succeeded",
+    "year": null,
+    "note": "German Samoa (1900–14)."
+  },
+  {
+    "fromPolityId": "tui-tonga-empire",
+    "toPolityId": "tonga",
+    "relation": "succeeded",
+    "year": 1845,
+    "note": "The Tuʻi Tonga line merged into the Tupou kingdom."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "tonga",
+    "relation": "allied_with",
+    "year": 1900,
+    "note": "British protectorate (1900–70)."
   }
 ]

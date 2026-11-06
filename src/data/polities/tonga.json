@@ -1,0 +1,320 @@
+{
+  "id": "tonga",
+  "name": "Tonga",
+  "era": "modern",
+  "region": "Oceania (Polynesia)",
+  "startYear": 1845,
+  "endYear": null,
+  "capital": "Nuku'alofa",
+  "capitalCoords": [
+    -175.2,
+    -21.14
+  ],
+  "summary": "A Polynesian kingdom united by George Tupou I in 1845; never colonised, though a British protectorate (1900–70).",
+  "wikiTitle": "Tonga",
+  "borderNames": [
+    "Tonga"
+  ],
+  "borderYears": [
+    1845,
+    null
+  ],
+  "color": "#c03a3a",
+  "knownFor": [
+    {
+      "label": "Never colonised",
+      "kind": "idea",
+      "note": "The only Pacific kingdom never colonised."
+    },
+    {
+      "label": "Ta’ovala",
+      "kind": "textile",
+      "note": "Woven mat worn round the waist."
+    },
+    {
+      "label": "Ha’amonga ’a Maui",
+      "kind": "monument",
+      "note": "Stone trilithon."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "171 islands; 750 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "terrain": {
+        "value": "Volcanic and coral islands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "climate": {
+        "value": "Tropical, with cyclones.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "resources": {
+        "value": "Fish, coconuts, tourism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "disasters": {
+        "value": "Hunga Tonga eruption (2022).",
+        "year": 2022,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 105,000.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "urbanisation": {
+        "value": "Most people live in villages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "disease": {
+        "value": "Diabetes and heart disease.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "migration": {
+        "value": "Many live in New Zealand, Australia and the US.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Remittances, farming, fishing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "tradeRoutes": {
+        "value": "Shipping and flights.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "wealth": {
+        "value": "An upper-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "moneyAndTax": {
+        "value": "The pa’anga.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Tonga"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A constitutional monarchy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "keyRulers": {
+        "value": "George Tupou I. Queen Sālote Tupou III. Tupou VI.",
+        "year": 1845,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "succession": {
+        "value": "Tupou dynasty.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "institutions": {
+        "value": "Constitution (1875); more democracy (2010).",
+        "year": 1875,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "stability": {
+        "value": "Riots in Nuku’alofa (2006).",
+        "year": 2006,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Tonga"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Small forces.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "majorWars": {
+        "value": "Civil wars before 1845.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "territoryChange": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "alliancesRivals": {
+        "value": "Pacific Islands Forum.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Tonga"
+      },
+      "scienceEducation": {
+        "value": "University of the South Pacific.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Tonga"
+      },
+      "communicationTransport": {
+        "value": "Ferries and flights.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Christian.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "languageWriting": {
+        "value": "Tongan and English.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "artsArchitecture": {
+        "value": "Tapa (ngatu) cloth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "socialStructure": {
+        "value": "King, nobles and commoners.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "sharedIdentity": {
+        "value": "Proud monarchy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "dailyLife": {
+        "value": "Houses; ’umu feast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Fiji, Samoa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "ideasReligions": {
+        "value": "Methodism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "colonisation": {
+        "value": "British protectorate (1900–70) but never a colony.",
+        "year": 1900,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Unification under George Tupou I (1845).",
+        "year": 1845,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "peakPeriod": {
+        "value": "Reign of Queen Sālote (1918–65).",
+        "year": 1918,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "declineSignals": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Tonga.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tonga"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Tonga"
+      }
+    }
+  }
+}

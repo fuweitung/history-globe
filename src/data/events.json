@@ -6005,7 +6005,8 @@
     "description": "Australian and New Zealand troops land at Gallipoli in a failed campaign; 25 April is remembered as Anzac Day.",
     "relatedPolityIds": [
       "australia",
-      "ottoman-empire"
+      "ottoman-empire",
+      "new-zealand"
     ],
     "source": "Wikipedia: Gallipoli campaign"
   },
@@ -6829,7 +6830,8 @@
     "description": "Māori chiefs and the British Crown sign a treaty whose meaning is still debated.",
     "relatedPolityIds": [
       "maori-aotearoa",
-      "british-empire"
+      "british-empire",
+      "new-zealand"
     ],
     "source": "Wikipedia: Treaty of Waitangi"
   },
@@ -10227,5 +10229,166 @@
       "north-korea"
     ],
     "source": "Wikipedia: 2006 North Korean nuclear test"
+  },
+  {
+    "id": "nz-womens-suffrage",
+    "year": 1893,
+    "lat": -41.29,
+    "lng": 174.78,
+    "type": "culture",
+    "title": "Women win the vote in New Zealand",
+    "description": "New Zealand becomes the first self-governing country to give women the vote.",
+    "relatedPolityIds": [
+      "new-zealand"
+    ],
+    "source": "Wikipedia: Women’s suffrage in New Zealand"
+  },
+  {
+    "id": "new-zealand-wars",
+    "year": 1845,
+    "lat": -38,
+    "lng": 175.5,
+    "type": "war",
+    "title": "New Zealand Wars",
+    "description": "Wars between the colonial government and Māori iwi over land (1845–72).",
+    "relatedPolityIds": [
+      "new-zealand",
+      "maori-aotearoa",
+      "british-empire"
+    ],
+    "source": "Wikipedia: New Zealand Wars"
+  },
+  {
+    "id": "christchurch-earthquake",
+    "year": 2011,
+    "lat": -43.53,
+    "lng": 172.64,
+    "type": "disaster",
+    "title": "Christchurch earthquake",
+    "description": "An earthquake kills 185 people and destroys much of the city centre.",
+    "relatedPolityIds": [
+      "new-zealand"
+    ],
+    "source": "Wikipedia: 2011 Christchurch earthquake"
+  },
+  {
+    "id": "kokoda-track",
+    "year": 1942,
+    "lat": -8.88,
+    "lng": 147.73,
+    "type": "war",
+    "title": "Kokoda Track campaign",
+    "description": "Australian troops, helped by Papuan carriers, stop the Japanese advance on Port Moresby.",
+    "relatedPolityIds": [
+      "australia",
+      "empire-of-japan"
+    ],
+    "source": "Wikipedia: Kokoda Track campaign"
+  },
+  {
+    "id": "png-independence",
+    "year": 1975,
+    "lat": -9.44,
+    "lng": 147.18,
+    "type": "culture",
+    "title": "Papua New Guinea becomes independent",
+    "description": "Independence from Australia under Michael Somare.",
+    "relatedPolityIds": [
+      "papua-new-guinea",
+      "australia"
+    ],
+    "source": "Wikipedia: Papua New Guinea"
+  },
+  {
+    "id": "bougainville-conflict",
+    "year": 1988,
+    "lat": -6.23,
+    "lng": 155.57,
+    "type": "war",
+    "title": "Bougainville conflict",
+    "description": "A war over a copper mine and independence (1988–98).",
+    "relatedPolityIds": [
+      "papua-new-guinea"
+    ],
+    "source": "Wikipedia: Bougainville conflict"
+  },
+  {
+    "id": "fiji-cession",
+    "year": 1874,
+    "lat": -17.68,
+    "lng": 178.84,
+    "type": "culture",
+    "title": "Fiji ceded to Britain",
+    "description": "Chief Cakobau cedes Fiji to Queen Victoria.",
+    "relatedPolityIds": [
+      "british-empire"
+    ],
+    "source": "Wikipedia: Deed of Cession"
+  },
+  {
+    "id": "fiji-coup-1987",
+    "year": 1987,
+    "lat": -18.14,
+    "lng": 178.44,
+    "type": "war",
+    "title": "Fiji coups",
+    "description": "Sitiveni Rabuka seizes power twice in 1987.",
+    "relatedPolityIds": [
+      "fiji"
+    ],
+    "source": "Wikipedia: 1987 Fijian coups d’état"
+  },
+  {
+    "id": "samoa-independence",
+    "year": 1962,
+    "lat": -13.83,
+    "lng": -171.76,
+    "type": "culture",
+    "title": "Samoa becomes independent",
+    "description": "The first Pacific island nation to win independence.",
+    "relatedPolityIds": [
+      "samoa",
+      "new-zealand"
+    ],
+    "source": "Wikipedia: Samoa"
+  },
+  {
+    "id": "black-saturday-samoa",
+    "year": 1929,
+    "lat": -13.83,
+    "lng": -171.76,
+    "type": "war",
+    "title": "Black Saturday in Samoa",
+    "description": "New Zealand police fire on a peaceful Mau protest, killing the leader Tupua Tamasese Lealofi III.",
+    "relatedPolityIds": [
+      "new-zealand"
+    ],
+    "source": "Wikipedia: Mau movement"
+  },
+  {
+    "id": "tonga-unification",
+    "year": 1845,
+    "lat": -21.14,
+    "lng": -175.2,
+    "type": "culture",
+    "title": "Tonga united",
+    "description": "George Tupou I unites Tonga; its 1875 constitution is still in force.",
+    "relatedPolityIds": [
+      "tonga"
+    ],
+    "source": "Wikipedia: George Tupou I"
+  },
+  {
+    "id": "hunga-tonga-eruption",
+    "year": 2022,
+    "lat": -20.55,
+    "lng": -175.39,
+    "type": "disaster",
+    "title": "Hunga Tonga eruption",
+    "description": "One of the largest volcanic explosions ever recorded; a tsunami hits Tonga.",
+    "relatedPolityIds": [
+      "tonga"
+    ],
+    "source": "Wikipedia: 2022 Hunga Tonga–Hunga Haʻapai eruption and tsunami"
   }
 ]
