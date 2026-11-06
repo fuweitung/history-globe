@@ -8,7 +8,7 @@ This guide is for the project team. The repository is private: only invited coll
 2. Accept the GitHub invitation (it arrives by email and at github.com/notifications).
 3. Download the project and install it:
    ```bash
-   git clone https://github.com/<owner>/history-globe.git
+   git clone https://github.com/fuweitung/history-globe.git
    cd history-globe
    npm install
    npm run dev
