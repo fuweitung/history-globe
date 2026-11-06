@@ -109,11 +109,14 @@ if (withKnown) {
   // Match each Known-for label to an article with a simple search; keep only confident matches.
   const words = (s) => new Set(s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').match(/[a-z0-9]+/g) ?? []);
   const STOP = new Set(['the', 'of', 'and', 'a', 'an', 'in', 'to', 'for', 'on']);
-  const matches = {};
+  // Search results are cached so an interrupted run can resume.
+  const cacheFile = path.join(root, 'scripts/.known-search-cache.json');
+  const matches = fs.existsSync(cacheFile) ? JSON.parse(fs.readFileSync(cacheFile, 'utf8')) : {};
+  let n = 0;
   for (const p of polities) {
     for (const item of p.knownFor ?? []) {
       const key = `${p.id}|${item.label}`;
-      if (key in out.known) continue;
+      if (key in out.known || key in matches) continue;
       const q = `${item.label.replace(/[“”()]/g, '')} ${p.name}`;
       try {
         const d = await api('en.wikipedia.org', { action: 'query', list: 'search', srsearch: q, srlimit: '3', srprop: '' });
@@ -122,17 +125,18 @@ if (withKnown) {
           const t = words(s.title);
           return label.length && label.filter((w) => t.has(w)).length / label.length >= 0.5;
         });
-        if (hit) matches[key] = hit.title;
-        else out.known[key] = null;
+        matches[key] = hit ? hit.title : null;
+        if (++n % 20 === 0) fs.writeFileSync(cacheFile, JSON.stringify(matches));
       } catch {
         // retried on a later run
       }
     }
   }
-  const { out: pics } = await picturesFor([...new Set(Object.values(matches))]);
+  fs.writeFileSync(cacheFile, JSON.stringify(matches));
+  const { out: pics } = await picturesFor([...new Set(Object.values(matches).filter(Boolean))]);
   const review = [];
   for (const [key, title] of Object.entries(matches)) {
-    out.known[key] = pics[title] ?? null;
+    out.known[key] = title ? (pics[title] ?? null) : null;
     if (pics[title]) review.push(`${key} → ${title}`);
   }
   console.log(`Known-for pictures: ${Object.values(out.known).filter(Boolean).length}`);
