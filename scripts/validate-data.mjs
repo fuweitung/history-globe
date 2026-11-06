@@ -85,6 +85,20 @@ for (const [name, f, t] of done) console.log(`  ${String(Math.round((f / t) * 10
 console.log(`  …and ${rows.length - done.length} with empty checklists\n`);
 if (warn.length) console.log(`${warn.length} warning(s):\n  ` + warn.slice(0, 20).join('\n  ') + (warn.length > 20 ? '\n  …' : ''));
 
+// ── People ──
+const people = JSON.parse(await readFile(join(root, 'src/data/people.json'), 'utf8'));
+const ROLES = new Set(['ruler', 'military', 'thinker', 'religious', 'scientist', 'writer', 'artist', 'explorer']);
+const pids = new Set();
+for (const p of people) {
+  const where = `people.json ${p.id}`;
+  if (pids.has(p.id)) errors.push(`${where}: duplicate id`);
+  pids.add(p.id);
+  if (!ROLES.has(p.role)) errors.push(`${where}: bad role "${p.role}"`);
+  if (!(p.born < p.died)) errors.push(`${where}: born after died`);
+  if (!p.source) errors.push(`${where}: missing source`);
+  for (const id of p.polityIds) if (!ids.has(id)) errors.push(`${where}: unknown polity "${id}"`);
+}
+
 // ── Routes ──
 const routes = JSON.parse(await readFile(join(root, 'src/data/routes.json'), 'utf8'));
 const KINDS = new Set(['trade', 'voyage', 'migration', 'forced']);

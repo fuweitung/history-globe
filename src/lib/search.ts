@@ -1,4 +1,4 @@
-import { EVENTS, POLITIES, POLITY_BY_ID, ROUTES, ROUTE_KINDS, formatSpan, formatYear } from './data';
+import { EVENTS, PEOPLE, PERSON_ROLES, POLITIES, POLITY_BY_ID, ROUTES, ROUTE_KINDS, formatSpan, formatYear } from './data';
 import type { KnownForKind } from '../types';
 
 /** Lower-case, strip accents and Polynesian/okina marks so "dai viet" finds "Đại Việt" and "tui tonga" finds "Tuʻi Tonga". */
@@ -15,7 +15,8 @@ export type SearchHit =
   | { kind: 'polity'; id: string; title: string; sub: string; score: number }
   | { kind: 'known'; polityId: string; kfKind: KnownForKind; title: string; sub: string; year?: number; score: number }
   | { kind: 'event'; id: string; title: string; sub: string; year: number; score: number }
-  | { kind: 'route'; id: string; title: string; sub: string; year: number; score: number };
+  | { kind: 'route'; id: string; title: string; sub: string; year: number; score: number }
+  | { kind: 'person'; id: string; title: string; sub: string; year: number; score: number };
 
 type DistributiveOmit<T, K extends keyof T> = T extends unknown ? Omit<T, K> : never;
 
@@ -49,6 +50,13 @@ function buildIndex(): Doc[] {
       body: norm(`${e.description} ${names}`),
     });
   }
+  for (const p of PEOPLE) {
+    docs.push({
+      hit: { kind: 'person', id: p.id, title: p.name, sub: `${PERSON_ROLES[p.role].label} · ${formatYear(p.born)} – ${formatYear(p.died)}`, year: p.born },
+      title: norm(p.name),
+      body: norm(`${p.description} ${PERSON_ROLES[p.role].label} ${p.polityIds.map((id) => POLITY_BY_ID.get(id)?.name ?? '').join(' ')}`),
+    });
+  }
   for (const r of ROUTES) {
     docs.push({
       hit: { kind: 'route', id: r.id, title: r.name, sub: `${ROUTE_KINDS[r.kind].label} · ${formatYear(r.from)} – ${formatYear(r.to)}`, year: r.from },
@@ -62,9 +70,9 @@ function buildIndex(): Doc[] {
 let INDEX: Doc[] | null = null;
 
 /** Every word of the query must appear somewhere; title matches rank higher. */
-export function search(query: string): { polities: SearchHit[]; known: SearchHit[]; events: SearchHit[]; routes: SearchHit[] } {
+export function search(query: string): { polities: SearchHit[]; known: SearchHit[]; events: SearchHit[]; routes: SearchHit[]; people: SearchHit[] } {
   const words = norm(query).split(/\s+/).filter(Boolean);
-  const out = { polities: [] as SearchHit[], known: [] as SearchHit[], events: [] as SearchHit[], routes: [] as SearchHit[] };
+  const out = { polities: [] as SearchHit[], known: [] as SearchHit[], events: [] as SearchHit[], routes: [] as SearchHit[], people: [] as SearchHit[] };
   if (!words.length) return out;
   INDEX ??= buildIndex();
   for (const d of INDEX) {
@@ -85,6 +93,7 @@ export function search(query: string): { polities: SearchHit[]; known: SearchHit
     if (hit.kind === 'polity') out.polities.push(hit);
     else if (hit.kind === 'known') out.known.push(hit);
     else if (hit.kind === 'route') out.routes.push(hit);
+    else if (hit.kind === 'person') out.people.push(hit);
     else out.events.push(hit);
   }
   const by = (a: SearchHit, b: SearchHit) => b.score - a.score || a.title.localeCompare(b.title);
@@ -92,5 +101,6 @@ export function search(query: string): { polities: SearchHit[]; known: SearchHit
   out.known.sort(by);
   out.events.sort(by);
   out.routes.sort(by);
+  out.people.sort(by);
   return out;
 }

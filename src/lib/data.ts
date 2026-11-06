@@ -1,8 +1,10 @@
-import type { EventType, HistoryEvent, HistoryRoute, Polity, PolityLink, RouteKind } from '../types';
+import type { EventType, HistoryEvent, HistoryRoute, Person, PersonRole, Polity, PolityLink, RouteKind, WikiImage } from '../types';
 import { normaliseChecklist } from './checklistSchema';
 import eventsJson from '../data/events.json';
 import routesJson from '../data/routes.json';
 import linksJson from '../data/links.json';
+import imagesJson from '../data/images.json';
+import peopleJson from '../data/people.json';
 
 // Every file in src/data/polities/*.json becomes a polity.
 // To add a civilisation, drop a new JSON file in that folder.
@@ -21,6 +23,25 @@ export const EVENTS: HistoryEvent[] = (eventsJson as HistoryEvent[]).slice().sor
 export const EVENT_BY_ID = new Map(EVENTS.map((e) => [e.id, e]));
 
 export const LINKS: PolityLink[] = linksJson as PolityLink[];
+
+const IMAGES = imagesJson as unknown as { polities: Record<string, WikiImage>; known: Record<string, WikiImage | null> };
+export const polityImage = (id: string): WikiImage | undefined => IMAGES.polities[id];
+export const knownImage = (polityId: string, label: string): WikiImage | undefined => IMAGES.known[`${polityId}|${label}`] ?? undefined;
+export const wikiUrl = (title: string) => `https://en.wikipedia.org/wiki/${encodeURIComponent(title.replace(/ /g, '_'))}`;
+
+export const PEOPLE: Person[] = (peopleJson as unknown as Person[]).slice().sort((a, b) => a.born - b.born);
+export const PERSON_BY_ID = new Map(PEOPLE.map((p) => [p.id, p]));
+export const peopleForPolity = (id: string) => PEOPLE.filter((p) => p.polityIds.includes(id));
+export const PERSON_ROLES: Record<PersonRole, { label: string; icon: string }> = {
+  ruler: { label: 'Ruler', icon: '👑' },
+  military: { label: 'Military leader', icon: '⚔️' },
+  thinker: { label: 'Thinker', icon: '💭' },
+  religious: { label: 'Religious figure', icon: '🕊️' },
+  scientist: { label: 'Scientist & inventor', icon: '🔭' },
+  writer: { label: 'Writer', icon: '✒️' },
+  artist: { label: 'Artist', icon: '🎨' },
+  explorer: { label: 'Explorer', icon: '🧭' },
+};
 
 export const ROUTES: HistoryRoute[] = routesJson as unknown as HistoryRoute[];
 export const ROUTE_BY_ID = new Map(ROUTES.map((r) => [r.id, r]));

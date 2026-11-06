@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
-import { EVENT_TYPES, EVENT_BY_ID, POLITY_BY_ID, ROUTE_BY_ID, ROUTE_KINDS } from '../lib/data';
+import { EVENT_TYPES, EVENT_BY_ID, PERSON_BY_ID, PERSON_ROLES, POLITY_BY_ID, ROUTE_BY_ID, ROUTE_KINDS } from '../lib/data';
 import { search, type SearchHit } from '../lib/search';
 import { KIND_META } from './PolityDetail';
 
@@ -9,18 +9,19 @@ interface Props {
   onOpenEvent: (id: string) => void;
   onOpenKnown: (polityId: string, year?: number) => void;
   onOpenRoute: (id: string) => void;
+  onOpenPerson: (id: string) => void;
   onQueryChange?: (q: string) => void;
 }
 
 const SUGGESTIONS = ['silk', 'samurai', 'elephants', 'printing', 'Vikings', 'gold', 'plague', 'cavalry', 'alphabet', 'canoes', 'spices', 'migration'];
 const LIMITS = { polities: 8, known: 10, events: 10 };
 
-export default function SearchView({ initialQuery = '', onOpenPolity, onOpenEvent, onOpenKnown, onOpenRoute, onQueryChange }: Props) {
+export default function SearchView({ initialQuery = '', onOpenPolity, onOpenEvent, onOpenKnown, onOpenRoute, onOpenPerson, onQueryChange }: Props) {
   const [q, setQ] = useState(initialQuery);
   const [showAll, setShowAll] = useState<Record<string, boolean>>({});
   const inputRef = useRef<HTMLInputElement>(null);
   const results = useMemo(() => search(q), [q]);
-  const total = results.polities.length + results.known.length + results.events.length + results.routes.length;
+  const total = results.polities.length + results.known.length + results.events.length + results.routes.length + results.people.length;
 
   useEffect(() => {
     // Focus without scrolling the page (the mobile sheet slides in).
@@ -35,10 +36,11 @@ export default function SearchView({ initialQuery = '', onOpenPolity, onOpenEven
     if (h.kind === 'polity') onOpenPolity(h.id);
     else if (h.kind === 'event') onOpenEvent(h.id);
     else if (h.kind === 'route') onOpenRoute(h.id);
+    else if (h.kind === 'person') onOpenPerson(h.id);
     else onOpenKnown(h.polityId, h.year);
   };
 
-  const first = results.polities[0] ?? results.known[0] ?? results.routes[0] ?? results.events[0];
+  const first = results.polities[0] ?? results.people[0] ?? results.known[0] ?? results.routes[0] ?? results.events[0];
 
   return (
     <div className="pb-8">
@@ -91,6 +93,7 @@ export default function SearchView({ initialQuery = '', onOpenPolity, onOpenEven
       )}
 
       <Group title="Civilisations" hits={results.polities} limit={LIMITS.polities} all={showAll.p} onMore={() => setShowAll((s) => ({ ...s, p: true }))} onOpen={open} />
+      <Group title="People" hits={results.people} limit={8} all={showAll.pp} onMore={() => setShowAll((s) => ({ ...s, pp: true }))} onOpen={open} />
       <Group title="Known for" hits={results.known} limit={LIMITS.known} all={showAll.k} onMore={() => setShowAll((s) => ({ ...s, k: true }))} onOpen={open} />
       <Group title="Routes & migrations" hits={results.routes} limit={8} all={showAll.r} onMore={() => setShowAll((s) => ({ ...s, r: true }))} onOpen={open} />
       <Group title="Events" hits={results.events} limit={LIMITS.events} all={showAll.e} onMore={() => setShowAll((s) => ({ ...s, e: true }))} onOpen={open} />
@@ -159,6 +162,14 @@ function Icon({ hit }: { hit: SearchHit }) {
     return (
       <span className="grid size-6 shrink-0 place-items-center text-sm" title={KIND_META[hit.kfKind].label} aria-hidden="true">
         {KIND_META[hit.kfKind].icon}
+      </span>
+    );
+  }
+  if (hit.kind === 'person') {
+    const pr = PERSON_BY_ID.get(hit.id);
+    return (
+      <span className="grid size-6 shrink-0 place-items-center text-sm" aria-hidden="true">
+        {pr ? PERSON_ROLES[pr.role].icon : '👤'}
       </span>
     );
   }
