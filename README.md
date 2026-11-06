@@ -4,7 +4,7 @@ An interactive globe of world history, from **10,000 BCE to today**. Drag the ti
 
 ## What's inside
 
-- **253 civilisations and peoples**, each described with the same 43-point checklist (geography, economy, politics, military, culture, transport, daily life, rise & fall…), and every fact has a source and a certainty label
+- **382 civilisations and peoples**, each described with the same 43-point checklist (geography, economy, politics, military, culture, transport, daily life, rise & fall…), and every fact has a source and a certainty label
 - **432 events**, **115 famous people** and **18 trade routes and migrations**
 - **Search, Compare** two civilisations, **territory and population charts**, and **11 guided stories**
 - Works on desktop and phone

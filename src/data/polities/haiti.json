@@ -1,0 +1,320 @@
+{
+  "id": "haiti",
+  "name": "Haiti",
+  "era": "modern",
+  "region": "Caribbean",
+  "startYear": 1804,
+  "endYear": null,
+  "capital": "Port-au-Prince",
+  "capitalCoords": [
+    -72.34,
+    18.54
+  ],
+  "summary": "The first independent nation in Latin America and the Caribbean, founded in 1804 by formerly enslaved people after the Haitian Revolution; later burdened by debt, occupation, dictatorship and disasters.",
+  "wikiTitle": "Haiti",
+  "borderNames": [
+    "Haiti"
+  ],
+  "borderYears": [
+    1804,
+    null
+  ],
+  "color": "#3a6ab0",
+  "knownFor": [
+    {
+      "label": "Citadelle Laferrière",
+      "kind": "monument",
+      "note": "Mountain fortress built after independence."
+    },
+    {
+      "label": "Toussaint Louverture",
+      "kind": "person",
+      "note": "Leader of the revolution."
+    },
+    {
+      "label": "Haitian art",
+      "kind": "art",
+      "note": "Colourful naïve painting."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The western third of Hispaniola; about 27,750 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "terrain": {
+        "value": "Mountainous.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "resources": {
+        "value": "Farmland (much deforested).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "disasters": {
+        "value": "Earthquake (2010) killed over 100,000.",
+        "year": 2010,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 11.7 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "urbanisation": {
+        "value": "Port-au-Prince.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "disease": {
+        "value": "Cholera (2010).",
+        "year": 2010,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "migration": {
+        "value": "Large diaspora.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, remittances.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "tradeRoutes": {
+        "value": "Port-au-Prince.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "wealth": {
+        "value": "The poorest country in the Americas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "moneyAndTax": {
+        "value": "The gourde; France forced Haiti to pay an indemnity (1825).",
+        "year": 1825,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Haiti"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A semi-presidential republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "keyRulers": {
+        "value": "Jean-Jacques Dessalines. Henri Christophe. François Duvalier. Jean-Bertrand Aristide.",
+        "year": 1804,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "succession": {
+        "value": "Many coups.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "institutions": {
+        "value": "Very weak; gang control since 2021.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "stability": {
+        "value": "US occupation (1915–34); Duvalier dictatorship (1957–86).",
+        "year": 1915,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Haiti"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Army disbanded (1995), restored (2017).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "majorWars": {
+        "value": "Haitian Revolution (1791–1804).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "territoryChange": {
+        "value": "Ruled the whole island (1822–44).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "alliancesRivals": {
+        "value": "Dominican Republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Haiti"
+      },
+      "scienceEducation": {
+        "value": "Low literacy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Haiti"
+      },
+      "communicationTransport": {
+        "value": "Roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Catholic, Protestant and Vodou.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "languageWriting": {
+        "value": "Haitian Creole and French.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "artsArchitecture": {
+        "value": "Painting, music.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "socialStructure": {
+        "value": "Deep inequality.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "sharedIdentity": {
+        "value": "Pride in the revolution.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "dailyLife": {
+        "value": "Houses; rice and beans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Dominican Republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "ideasReligions": {
+        "value": "Inspired anti-slavery movements.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "colonisation": {
+        "value": "A French colony (Saint-Domingue) until 1804.",
+        "year": 1697,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1804).",
+        "year": 1804,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Haiti"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Haiti"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Haiti.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Haiti"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Haiti"
+      }
+    }
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "id": "qatar",
+  "name": "Qatar",
+  "era": "modern",
+  "region": "Middle East (Arabia)",
+  "startYear": 1971,
+  "endYear": null,
+  "capital": "Doha",
+  "capitalCoords": [
+    51.53,
+    25.29
+  ],
+  "summary": "A peninsula ruled by the Al Thani family; British protectorate (1916–71); natural gas made it one of the richest countries; hosted the 2022 World Cup.",
+  "wikiTitle": "Qatar",
+  "borderNames": [
+    "Qatar"
+  ],
+  "borderYears": [
+    1971,
+    null
+  ],
+  "color": "#7a2a4a",
+  "knownFor": [
+    {
+      "label": "Al Jazeera",
+      "kind": "idea",
+      "year": 1996,
+      "note": "Arabic news channel."
+    },
+    {
+      "label": "Museum of Islamic Art",
+      "kind": "monument",
+      "note": "Designed by I. M. Pei."
+    },
+    {
+      "label": "2022 World Cup",
+      "kind": "art",
+      "year": 2022,
+      "note": "First in the Arab world."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "A peninsula in the Persian Gulf; about 11,600 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "terrain": {
+        "value": "Flat desert.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "climate": {
+        "value": "Very hot and dry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "resources": {
+        "value": "Natural gas (third-largest reserves).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "disasters": {
+        "value": "Heat.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 3 million; under 15% citizens.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "urbanisation": {
+        "value": "Doha.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "disease": {
+        "value": "Good health care.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "migration": {
+        "value": "Migrant workers’ conditions have been widely criticised.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Qatar"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Natural gas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "tradeRoutes": {
+        "value": "Gas tankers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "wealth": {
+        "value": "One of the highest incomes per person.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "moneyAndTax": {
+        "value": "The riyal; no income tax.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Qatar"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "An absolute monarchy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "keyRulers": {
+        "value": "Jassim bin Mohammed. Hamad bin Khalifa. Tamim bin Hamad.",
+        "year": 1995,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "succession": {
+        "value": "Al Thani family.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "institutions": {
+        "value": "Advisory Shura Council.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "stability": {
+        "value": "Stable.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Qatar"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Small army; large US base.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "majorWars": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "territoryChange": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "alliancesRivals": {
+        "value": "Blockaded by Saudi Arabia and others (2017–21).",
+        "year": 2017,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Qatar"
+      },
+      "scienceEducation": {
+        "value": "Education City with foreign campuses.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Qatar"
+      },
+      "communicationTransport": {
+        "value": "Doha Metro.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Muslim.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "languageWriting": {
+        "value": "Arabic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "artsArchitecture": {
+        "value": "Modern museums.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "socialStructure": {
+        "value": "Small citizen elite; migrant majority.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "sharedIdentity": {
+        "value": "Qatari identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "dailyLife": {
+        "value": "Houses; machboos.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Saudi Arabia, Bahrain, UAE.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "ideasReligions": {
+        "value": "Mediation diplomacy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "colonisation": {
+        "value": "Ottoman claim, then British protectorate (1916–71).",
+        "year": 1916,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1971).",
+        "year": 1971,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Qatar"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Qatar"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Qatar.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Qatar"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Qatar"
+      }
+    }
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "id": "lebanon",
+  "name": "Lebanon",
+  "era": "modern",
+  "region": "Middle East",
+  "startYear": 1943,
+  "endYear": null,
+  "capital": "Beirut",
+  "capitalCoords": [
+    35.5,
+    33.89
+  ],
+  "summary": "Became independent from France in 1943; a power-sharing state of many religious groups; civil war (1975–90) and economic collapse (2019).",
+  "wikiTitle": "Lebanon",
+  "borderNames": [
+    "Lebanon"
+  ],
+  "borderYears": [
+    1943,
+    null
+  ],
+  "color": "#3a8a4a",
+  "knownFor": [
+    {
+      "label": "Cedar of Lebanon",
+      "kind": "monument",
+      "note": "Tree on the flag."
+    },
+    {
+      "label": "Baalbek",
+      "kind": "monument",
+      "note": "Roman temple complex."
+    },
+    {
+      "label": "Lebanese food",
+      "kind": "food",
+      "note": "Mezze, tabbouleh, hummus."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Eastern Mediterranean coast; about 10,450 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "terrain": {
+        "value": "Coast, Mount Lebanon, Bekaa Valley.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "climate": {
+        "value": "Mediterranean.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "resources": {
+        "value": "Water, farmland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "disasters": {
+        "value": "Beirut port explosion (2020).",
+        "year": 2020,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 5.5 million, plus many refugees.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "urbanisation": {
+        "value": "Beirut.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "disease": {
+        "value": "Good private health care.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "migration": {
+        "value": "A huge diaspora; many refugees from Palestine and Syria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Banking, trade, tourism (before 2019).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "tradeRoutes": {
+        "value": "Port of Beirut.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "wealth": {
+        "value": "Banking crisis (2019) wiped out savings.",
+        "year": 2019,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "moneyAndTax": {
+        "value": "The Lebanese pound.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Lebanon"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary republic with posts shared by religion.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "keyRulers": {
+        "value": "Bechara El Khoury. Camille Chamoun. Rafic Hariri.",
+        "year": 1943,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "succession": {
+        "value": "Elections; long deadlocks.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "institutions": {
+        "value": "National Pact (1943); Taif Agreement (1989).",
+        "year": 1943,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "stability": {
+        "value": "Civil war (1975–90).",
+        "year": 1975,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Lebanon"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Army; Hezbollah militia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "majorWars": {
+        "value": "Civil war (1975–90); Israeli invasions (1982, 2006, 2024).",
+        "year": 1982,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "territoryChange": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "alliancesRivals": {
+        "value": "Influence of Syria, Iran, Saudi Arabia and France.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Lebanon"
+      },
+      "scienceEducation": {
+        "value": "American University of Beirut (1866).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Lebanon"
+      },
+      "communicationTransport": {
+        "value": "Roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Muslim (Sunni, Shia), Christian (Maronite and others) and Druze.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "languageWriting": {
+        "value": "Arabic; French and English widely used.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "artsArchitecture": {
+        "value": "Music of Fairuz.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "socialStructure": {
+        "value": "18 recognised religious communities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "sharedIdentity": {
+        "value": "Sectarian loyalties compete with national identity.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "dailyLife": {
+        "value": "Apartments; mezze.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Syria, Israel.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "ideasReligions": {
+        "value": "Arab press and publishing hub.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "colonisation": {
+        "value": "Ottoman until 1918; French mandate until 1943.",
+        "year": 1920,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1943).",
+        "year": 1943,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Lebanon"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Lebanon"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Lebanon.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lebanon"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Lebanon"
+      }
+    }
+  }
+}

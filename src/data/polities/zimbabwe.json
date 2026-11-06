@@ -1,0 +1,321 @@
+{
+  "id": "zimbabwe",
+  "name": "Zimbabwe",
+  "era": "modern",
+  "region": "Southern Africa",
+  "startYear": 1980,
+  "endYear": null,
+  "capital": "Harare",
+  "capitalCoords": [
+    31.05,
+    -17.83
+  ],
+  "summary": "Southern Rhodesia’s white-minority government declared independence in 1965; after a liberation war, majority-ruled Zimbabwe was born in 1980 under Robert Mugabe.",
+  "wikiTitle": "Zimbabwe",
+  "borderNames": [
+    "Zimbabwe"
+  ],
+  "borderYears": [
+    1980,
+    null
+  ],
+  "color": "#c9a23a",
+  "knownFor": [
+    {
+      "label": "Great Zimbabwe ruins",
+      "kind": "monument",
+      "note": "The country is named after them."
+    },
+    {
+      "label": "Mbira",
+      "kind": "art",
+      "note": "Thumb piano."
+    },
+    {
+      "label": "Hyperinflation",
+      "kind": "idea",
+      "year": 2008,
+      "note": "Prices doubled daily; 100-trillion-dollar notes."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Southern Africa, landlocked; about 391,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "terrain": {
+        "value": "High plateau; Zambezi and Limpopo rivers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "climate": {
+        "value": "Subtropical highland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "resources": {
+        "value": "Farmland, gold, platinum, tobacco.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "disasters": {
+        "value": "Droughts; Cyclone Idai (2019).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 16 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "urbanisation": {
+        "value": "Harare and Bulawayo.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "disease": {
+        "value": "HIV; cholera (2008).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "migration": {
+        "value": "Millions emigrated to South Africa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, mining.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "tradeRoutes": {
+        "value": "Through South Africa and Mozambique.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "wealth": {
+        "value": "A lower-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "moneyAndTax": {
+        "value": "Hyperinflation (2007–09); several currencies since.",
+        "year": 2008,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Zimbabwe"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A presidential republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "keyRulers": {
+        "value": "Ian Smith (Rhodesia). Robert Mugabe (1980–2017). Emmerson Mnangagwa.",
+        "year": 1980,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "succession": {
+        "value": "Mugabe was removed by the army (2017).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "institutions": {
+        "value": "Parliament.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "stability": {
+        "value": "Gukurahundi killings in Matabeleland (1983–87).",
+        "year": 1983,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Zimbabwe"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Armed forces.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "majorWars": {
+        "value": "Rhodesian Bush War (1964–79).",
+        "year": 1964,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "territoryChange": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "alliancesRivals": {
+        "value": "Sanctions from the West after 2000.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "scienceEducation": {
+        "value": "High literacy for Africa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "communicationTransport": {
+        "value": "Railways.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Christian; traditional beliefs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "languageWriting": {
+        "value": "English, Shona, Ndebele and others.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "artsArchitecture": {
+        "value": "Shona stone sculpture.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "socialStructure": {
+        "value": "Shona majority; Ndebele minority.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "sharedIdentity": {
+        "value": "Liberation struggle.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "dailyLife": {
+        "value": "Houses; sadza (maize porridge).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Zambia, Mozambique, South Africa, Botswana.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "ideasReligions": {
+        "value": "Liberation ideals.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "colonisation": {
+        "value": "British colony (Southern Rhodesia); white-minority rule until 1980.",
+        "year": 1890,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1980).",
+        "year": 1980,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "declineSignals": {
+        "value": "Land seizures and economic collapse (2000s).",
+        "year": 2000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Zimbabwe.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Zimbabwe"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Zimbabwe"
+      }
+    }
+  }
+}

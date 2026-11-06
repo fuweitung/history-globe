@@ -1908,5 +1908,1195 @@
     "relation": "succeeded",
     "year": -500,
     "note": "The first southern kingdoms grew from these communities."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "united-kingdom",
+    "relation": "succeeded",
+    "year": 1922,
+    "note": "The UK continued after the empire was dissolved."
+  },
+  {
+    "fromPolityId": "dutch-republic",
+    "toPolityId": "netherlands",
+    "relation": "succeeded",
+    "year": 1815,
+    "note": "The Kingdom of the Netherlands followed the Dutch Republic and French rule."
+  },
+  {
+    "fromPolityId": "portuguese-empire",
+    "toPolityId": "portugal-modern",
+    "relation": "succeeded",
+    "year": 1974,
+    "note": "Portugal gave up its empire after the Carnation Revolution."
+  },
+  {
+    "fromPolityId": "polish-lithuanian-commonwealth",
+    "toPolityId": "poland-modern",
+    "relation": "succeeded",
+    "year": 1918,
+    "note": "Poland was restored after 123 years of partition."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "ukraine",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Ukraine became independent from the USSR."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "greece-modern",
+    "relation": "colonised",
+    "year": 1821,
+    "note": "Greece won independence from the Ottomans."
+  },
+  {
+    "fromPolityId": "austria-hungary",
+    "toPolityId": "austria",
+    "relation": "succeeded",
+    "year": 1918,
+    "note": "Austria was the German-speaking remnant of Austria-Hungary."
+  },
+  {
+    "fromPolityId": "austria-hungary",
+    "toPolityId": "hungary",
+    "relation": "succeeded",
+    "year": 1918,
+    "note": "Hungary became independent."
+  },
+  {
+    "fromPolityId": "austria-hungary",
+    "toPolityId": "czechoslovakia-czechia",
+    "relation": "succeeded",
+    "year": 1918,
+    "note": "Czechoslovakia formed from Austro-Hungarian lands."
+  },
+  {
+    "fromPolityId": "netherlands",
+    "toPolityId": "belgium",
+    "relation": "succeeded",
+    "year": 1830,
+    "note": "Belgium broke away from the Netherlands."
+  },
+  {
+    "fromPolityId": "united-kingdom",
+    "toPolityId": "ireland",
+    "relation": "succeeded",
+    "year": 1922,
+    "note": "Most of Ireland left the UK."
+  },
+  {
+    "fromPolityId": "russian-empire",
+    "toPolityId": "finland",
+    "relation": "succeeded",
+    "year": 1917,
+    "note": "Finland declared independence from Russia."
+  },
+  {
+    "fromPolityId": "kingdom-of-denmark",
+    "toPolityId": "iceland",
+    "relation": "succeeded",
+    "year": 1918,
+    "note": "Iceland became sovereign from Denmark."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "romania",
+    "relation": "traded_with",
+    "year": 1878,
+    "note": "Romania won full independence from the Ottomans in 1878."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "bulgaria",
+    "relation": "traded_with",
+    "year": 1878,
+    "note": "Bulgaria broke free from Ottoman rule after 1878."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "serbia",
+    "relation": "traded_with",
+    "year": 1878,
+    "note": "Serbia gained full independence from the Ottomans in 1878."
+  },
+  {
+    "fromPolityId": "serbia",
+    "toPolityId": "yugoslavia",
+    "relation": "succeeded",
+    "year": 1918,
+    "note": "Serbia led the creation of Yugoslavia."
+  },
+  {
+    "fromPolityId": "yugoslavia",
+    "toPolityId": "croatia",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Croatia left Yugoslavia."
+  },
+  {
+    "fromPolityId": "yugoslavia",
+    "toPolityId": "slovenia",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Slovenia left Yugoslavia."
+  },
+  {
+    "fromPolityId": "yugoslavia",
+    "toPolityId": "bosnia-and-herzegovina",
+    "relation": "succeeded",
+    "year": 1992,
+    "note": "Bosnia left Yugoslavia."
+  },
+  {
+    "fromPolityId": "yugoslavia",
+    "toPolityId": "north-macedonia",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Macedonia left Yugoslavia."
+  },
+  {
+    "fromPolityId": "serbia",
+    "toPolityId": "montenegro",
+    "relation": "succeeded",
+    "year": 2006,
+    "note": "Montenegro left its union with Serbia."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "albania",
+    "relation": "traded_with",
+    "year": 1912,
+    "note": "Albania declared independence from the Ottomans."
+  },
+  {
+    "fromPolityId": "czechoslovakia-czechia",
+    "toPolityId": "slovakia",
+    "relation": "succeeded",
+    "year": 1993,
+    "note": "Slovakia separated peacefully."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "estonia",
+    "relation": "conquered",
+    "year": 1940,
+    "note": "Annexed by the USSR (1940–91)."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "latvia",
+    "relation": "conquered",
+    "year": 1940,
+    "note": "Annexed by the USSR (1940–91)."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "lithuania",
+    "relation": "conquered",
+    "year": 1940,
+    "note": "Annexed by the USSR (1940–91)."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "belarus",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Belarus became independent."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "moldova",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Moldova became independent."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "georgia",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Georgia became independent."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "cyprus",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "Cyprus was a British colony until 1960."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "malta",
+    "relation": "colonised",
+    "year": 1964,
+    "note": "Malta was British until 1964."
+  },
+  {
+    "fromPolityId": "netherlands",
+    "toPolityId": "luxembourg",
+    "relation": "traded_with",
+    "year": 1839,
+    "note": "Luxembourg shared a king with the Netherlands until 1890."
+  },
+  {
+    "fromPolityId": "switzerland",
+    "toPolityId": "liechtenstein",
+    "relation": "allied_with",
+    "year": 1923,
+    "note": "Customs union with Switzerland since 1923."
+  },
+  {
+    "fromPolityId": "spain-modern",
+    "toPolityId": "andorra",
+    "relation": "traded_with",
+    "year": 1993,
+    "note": "Andorra lies between Spain and France."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "ghana",
+    "relation": "colonised",
+    "year": 1957,
+    "note": "The Gold Coast became Ghana."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "senegal",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "French colony until 1960."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "ivory-coast",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "French colony until 1960."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "guinea",
+    "relation": "colonised",
+    "year": 1958,
+    "note": "French colony until 1958."
+  },
+  {
+    "fromPolityId": "mali-empire",
+    "toPolityId": "mali-modern",
+    "relation": "succeeded",
+    "year": 1960,
+    "note": "Modern Mali took its name from the medieval empire."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "mali-modern",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "French Sudan until 1960."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "burkina-faso",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "Upper Volta until 1960."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "niger",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "French colony until 1960."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "benin",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "Dahomey until 1960."
+  },
+  {
+    "fromPolityId": "kingdom-of-benin",
+    "toPolityId": "benin",
+    "relation": "succeeded",
+    "year": 1897,
+    "note": "Modern Benin is named after the old kingdom, though the kingdom lay in today’s Nigeria."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "togo",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "French mandate until 1960."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "sierra-leone",
+    "relation": "colonised",
+    "year": 1961,
+    "note": "British colony until 1961."
+  },
+  {
+    "fromPolityId": "united-states",
+    "toPolityId": "liberia",
+    "relation": "traded_with",
+    "year": 1847,
+    "note": "Founded by the American Colonization Society."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "gambia",
+    "relation": "colonised",
+    "year": 1965,
+    "note": "British colony until 1965."
+  },
+  {
+    "fromPolityId": "portuguese-empire",
+    "toPolityId": "guinea-bissau",
+    "relation": "colonised",
+    "year": 1974,
+    "note": "Portuguese colony until 1974."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "mauritania",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "French colony until 1960."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "cameroon",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "French mandate until 1960."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "central-african-republic",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "Ubangi-Shari until 1960."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "chad",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "French colony until 1960."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "republic-of-congo",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "French Congo until 1960."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "gabon",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "French colony until 1960."
+  },
+  {
+    "fromPolityId": "spain-modern",
+    "toPolityId": "equatorial-guinea",
+    "relation": "colonised",
+    "year": 1968,
+    "note": "Spanish colony until 1968."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "kenya",
+    "relation": "colonised",
+    "year": 1963,
+    "note": "British colony until 1963."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "uganda",
+    "relation": "colonised",
+    "year": 1962,
+    "note": "British protectorate until 1962."
+  },
+  {
+    "fromPolityId": "rwanda",
+    "toPolityId": "burundi",
+    "relation": "traded_with",
+    "year": 1962,
+    "note": "Both were ruled together by Belgium as Ruanda-Urundi."
+  },
+  {
+    "fromPolityId": "ethiopian-empire",
+    "toPolityId": "ethiopia-modern",
+    "relation": "succeeded",
+    "year": 1974,
+    "note": "The monarchy was overthrown."
+  },
+  {
+    "fromPolityId": "italy",
+    "toPolityId": "somalia",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "Italian and British Somaliland united in 1960."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "djibouti",
+    "relation": "colonised",
+    "year": 1977,
+    "note": "French Somaliland until 1977."
+  },
+  {
+    "fromPolityId": "hafsid-sultanate",
+    "toPolityId": "tunisia",
+    "relation": "succeeded",
+    "year": 1574,
+    "note": "Earlier rulers of Tunis."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "zambia",
+    "relation": "colonised",
+    "year": 1964,
+    "note": "Northern Rhodesia until 1964."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "zimbabwe",
+    "relation": "colonised",
+    "year": 1965,
+    "note": "Southern Rhodesia."
+  },
+  {
+    "fromPolityId": "great-zimbabwe",
+    "toPolityId": "zimbabwe",
+    "relation": "succeeded",
+    "year": 1980,
+    "note": "Zimbabwe is named after the old stone city."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "malawi",
+    "relation": "colonised",
+    "year": 1964,
+    "note": "Nyasaland until 1964."
+  },
+  {
+    "fromPolityId": "portuguese-empire",
+    "toPolityId": "mozambique",
+    "relation": "colonised",
+    "year": 1975,
+    "note": "Portuguese colony until 1975."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "botswana",
+    "relation": "colonised",
+    "year": 1966,
+    "note": "Bechuanaland until 1966."
+  },
+  {
+    "fromPolityId": "south-africa",
+    "toPolityId": "namibia",
+    "relation": "colonised",
+    "year": 1990,
+    "note": "Ruled by South Africa until 1990."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "lesotho",
+    "relation": "colonised",
+    "year": 1966,
+    "note": "Basutoland until 1966."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "eswatini",
+    "relation": "colonised",
+    "year": 1968,
+    "note": "British protectorate until 1968."
+  },
+  {
+    "fromPolityId": "ethiopia-modern",
+    "toPolityId": "eritrea",
+    "relation": "succeeded",
+    "year": 1993,
+    "note": "Eritrea became independent from Ethiopia."
+  },
+  {
+    "fromPolityId": "colombia",
+    "toPolityId": "ecuador",
+    "relation": "succeeded",
+    "year": 1830,
+    "note": "Ecuador left Gran Colombia in 1830."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "uruguay",
+    "relation": "colonised",
+    "year": 1828,
+    "note": "Spanish until 1811."
+  },
+  {
+    "fromPolityId": "empire-of-brazil",
+    "toPolityId": "uruguay",
+    "relation": "conquered",
+    "year": 1828,
+    "note": "Brazil ruled it as the Cisplatine Province until 1828."
+  },
+  {
+    "fromPolityId": "maya",
+    "toPolityId": "guatemala",
+    "relation": "succeeded",
+    "year": null,
+    "note": "Guatemala is the Maya heartland; about 40% of people are Maya."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "guatemala",
+    "relation": "colonised",
+    "year": 1821,
+    "note": "Spanish until 1821."
+  },
+  {
+    "fromPolityId": "guatemala",
+    "toPolityId": "honduras",
+    "relation": "allied_with",
+    "year": 1838,
+    "note": "Part of the same Central American federation until 1838."
+  },
+  {
+    "fromPolityId": "maya",
+    "toPolityId": "honduras",
+    "relation": "succeeded",
+    "year": null,
+    "note": "Copán was a Maya city in today’s Honduras."
+  },
+  {
+    "fromPolityId": "united-states",
+    "toPolityId": "nicaragua",
+    "relation": "conquered",
+    "year": 1912,
+    "note": "US Marines occupied Nicaragua (1912–33)."
+  },
+  {
+    "fromPolityId": "honduras",
+    "toPolityId": "el-salvador",
+    "relation": "allied_with",
+    "year": 1980,
+    "note": "Neighbours that fought the 1969 Football War and later made peace."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "costa-rica",
+    "relation": "colonised",
+    "year": 1838,
+    "note": "Spanish until 1821."
+  },
+  {
+    "fromPolityId": "colombia",
+    "toPolityId": "panama",
+    "relation": "succeeded",
+    "year": 1903,
+    "note": "Panama split from Colombia in 1903."
+  },
+  {
+    "fromPolityId": "united-states",
+    "toPolityId": "panama",
+    "relation": "allied_with",
+    "year": 1903,
+    "note": "The US backed independence and ran the Canal Zone until 1999."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "cuba",
+    "relation": "colonised",
+    "year": 1902,
+    "note": "Spanish colony until 1898, then under US occupation until 1902."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "cuba",
+    "relation": "allied_with",
+    "year": 1962,
+    "note": "Cuba’s main ally during the Cold War."
+  },
+  {
+    "fromPolityId": "kingdom-of-france",
+    "toPolityId": "haiti",
+    "relation": "succeeded",
+    "year": null,
+    "note": "Haiti was the French colony of Saint-Domingue."
+  },
+  {
+    "fromPolityId": "haiti",
+    "toPolityId": "dominican-republic",
+    "relation": "conquered",
+    "year": 1844,
+    "note": "Haiti ruled the whole island 1822–44."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "dominican-republic",
+    "relation": "colonised",
+    "year": 1865,
+    "note": "Spain briefly ruled again (1861–65)."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "jamaica",
+    "relation": "colonised",
+    "year": 1962,
+    "note": "British colony 1655–1962."
+  },
+  {
+    "fromPolityId": "taino-caribbean",
+    "toPolityId": "jamaica",
+    "relation": "succeeded",
+    "year": null,
+    "note": "The Taíno lived on Jamaica before the Spanish."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "guyana",
+    "relation": "colonised",
+    "year": 1966,
+    "note": "British Guiana until 1966."
+  },
+  {
+    "fromPolityId": "dutch-colonial-empire",
+    "toPolityId": "suriname",
+    "relation": "colonised",
+    "year": 1975,
+    "note": "Dutch colony until 1975."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "belize",
+    "relation": "colonised",
+    "year": 1981,
+    "note": "British Honduras until 1981."
+  },
+  {
+    "fromPolityId": "maya",
+    "toPolityId": "belize",
+    "relation": "succeeded",
+    "year": null,
+    "note": "Caracol and other Maya cities lie in Belize."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "bahamas",
+    "relation": "colonised",
+    "year": 1973,
+    "note": "British colony until 1973."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "barbados",
+    "relation": "colonised",
+    "year": 1966,
+    "note": "British colony 1627–1966."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "trinidad-and-tobago",
+    "relation": "colonised",
+    "year": 1962,
+    "note": "British colony 1797–1962."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "grenada",
+    "relation": "colonised",
+    "year": 1974,
+    "note": "British colony until 1974."
+  },
+  {
+    "fromPolityId": "united-states",
+    "toPolityId": "grenada",
+    "relation": "conquered",
+    "year": 1983,
+    "note": "US-led invasion in 1983."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "dominica",
+    "relation": "colonised",
+    "year": 1978,
+    "note": "British colony until 1978."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "saint-lucia",
+    "relation": "colonised",
+    "year": 1979,
+    "note": "British colony until 1979."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "saint-vincent-and-the-grenadines",
+    "relation": "colonised",
+    "year": 1979,
+    "note": "British colony until 1979."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "antigua-and-barbuda",
+    "relation": "colonised",
+    "year": 1981,
+    "note": "British colony until 1981."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "saint-kitts-and-nevis",
+    "relation": "colonised",
+    "year": 1983,
+    "note": "British colony until 1983."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "iraq",
+    "relation": "succeeded",
+    "year": 1932,
+    "note": "Formed from the Ottoman provinces of Mosul, Baghdad and Basra."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "iraq",
+    "relation": "colonised",
+    "year": 1932,
+    "note": "British mandate until 1932."
+  },
+  {
+    "fromPolityId": "iraq",
+    "toPolityId": "kuwait",
+    "relation": "conquered",
+    "year": 1990,
+    "note": "Iraq occupied Kuwait (1990–91)."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "syria",
+    "relation": "succeeded",
+    "year": 1946,
+    "note": "An Ottoman region until 1918."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "syria",
+    "relation": "colonised",
+    "year": 1946,
+    "note": "French mandate (1920–46)."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "lebanon",
+    "relation": "succeeded",
+    "year": 1943,
+    "note": "Mount Lebanon was an Ottoman province."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "lebanon",
+    "relation": "colonised",
+    "year": 1943,
+    "note": "French mandate until 1943."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "jordan",
+    "relation": "succeeded",
+    "year": 1946,
+    "note": "An Ottoman region until 1918."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "jordan",
+    "relation": "colonised",
+    "year": 1946,
+    "note": "British mandate of Transjordan (1921–46)."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "israel",
+    "relation": "succeeded",
+    "year": 1948,
+    "note": "Ottoman Palestine until 1917."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "israel",
+    "relation": "colonised",
+    "year": 1948,
+    "note": "British mandate of Palestine (1920–48)."
+  },
+  {
+    "fromPolityId": "israel",
+    "toPolityId": "jordan",
+    "relation": "allied_with",
+    "year": 1994,
+    "note": "Peace treaty (1994)."
+  },
+  {
+    "fromPolityId": "israel",
+    "toPolityId": "syria",
+    "relation": "conquered",
+    "year": 1967,
+    "note": "Israel occupied the Golan Heights in 1967."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "kuwait",
+    "relation": "colonised",
+    "year": 1961,
+    "note": "British protectorate (1899–1961)."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "qatar",
+    "relation": "colonised",
+    "year": 1971,
+    "note": "British protectorate (1916–71)."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "united-arab-emirates",
+    "relation": "colonised",
+    "year": 1971,
+    "note": "The Trucial States were British-protected until 1971."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "oman",
+    "relation": "allied_with",
+    "year": 1891,
+    "note": "Treaty ties made Oman a close British partner."
+  },
+  {
+    "fromPolityId": "oman",
+    "toPolityId": "tanzania",
+    "relation": "succeeded",
+    "year": null,
+    "note": "Omani sultans ruled Zanzibar until 1964."
+  },
+  {
+    "fromPolityId": "yemen-states",
+    "toPolityId": "yemen",
+    "relation": "succeeded",
+    "year": 1962,
+    "note": "The Zaydi imamate was overthrown in 1962."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "yemen",
+    "relation": "colonised",
+    "year": 1967,
+    "note": "Aden and South Yemen were British until 1967."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "armenia",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Independent when the USSR collapsed."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "azerbaijan",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Independent when the USSR collapsed."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "uzbekistan",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Independent when the USSR collapsed."
+  },
+  {
+    "fromPolityId": "central-asian-khanates",
+    "toPolityId": "uzbekistan",
+    "relation": "succeeded",
+    "year": null,
+    "note": "Bukhara and Khiva lie in Uzbekistan."
+  },
+  {
+    "fromPolityId": "timurid-empire",
+    "toPolityId": "uzbekistan",
+    "relation": "succeeded",
+    "year": null,
+    "note": "Samarkand was Timur’s capital."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "tajikistan",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Independent when the USSR collapsed."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "kyrgyzstan",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Independent when the USSR collapsed."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "turkmenistan",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Independent when the USSR collapsed."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "pakistan",
+    "relation": "colonised",
+    "year": 1947,
+    "note": "Part of British India until 1947."
+  },
+  {
+    "fromPolityId": "mughal-empire",
+    "toPolityId": "pakistan",
+    "relation": "succeeded",
+    "year": null,
+    "note": "Lahore was a Mughal capital."
+  },
+  {
+    "fromPolityId": "indus-valley",
+    "toPolityId": "pakistan",
+    "relation": "succeeded",
+    "year": null,
+    "note": "Harappa and Mohenjo-daro are in Pakistan."
+  },
+  {
+    "fromPolityId": "pakistan",
+    "toPolityId": "bangladesh",
+    "relation": "succeeded",
+    "year": 1971,
+    "note": "East Pakistan became Bangladesh in 1971."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "bangladesh",
+    "relation": "succeeded",
+    "year": 1971,
+    "note": "Bengal was part of British India until 1947."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "sri-lanka",
+    "relation": "colonised",
+    "year": 1948,
+    "note": "British Ceylon until 1948."
+  },
+  {
+    "fromPolityId": "great-britain",
+    "toPolityId": "nepal",
+    "relation": "allied_with",
+    "year": 1800,
+    "note": "Trade and treaty ties with the East India Company."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "nepal",
+    "relation": "conquered",
+    "year": 1816,
+    "note": "Nepal lost land in the Anglo-Nepalese War."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "bhutan",
+    "relation": "conquered",
+    "year": 1865,
+    "note": "Bhutan lost the Duars after the Duar War."
+  },
+  {
+    "fromPolityId": "konbaung-dynasty",
+    "toPolityId": "myanmar",
+    "relation": "succeeded",
+    "year": 1948,
+    "note": "The last Burmese kingdom fell to Britain in 1885."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "myanmar",
+    "relation": "colonised",
+    "year": 1948,
+    "note": "British Burma (1824/1885–1948)."
+  },
+  {
+    "fromPolityId": "khmer-empire",
+    "toPolityId": "cambodia",
+    "relation": "succeeded",
+    "year": 1953,
+    "note": "Angkor is the national symbol."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "cambodia",
+    "relation": "colonised",
+    "year": 1953,
+    "note": "French protectorate (1863–1953)."
+  },
+  {
+    "fromPolityId": "vietnam-modern",
+    "toPolityId": "cambodia",
+    "relation": "conquered",
+    "year": 1979,
+    "note": "Vietnamese troops occupied Cambodia (1979–89)."
+  },
+  {
+    "fromPolityId": "lan-xang",
+    "toPolityId": "laos",
+    "relation": "succeeded",
+    "year": 1953,
+    "note": "Lan Xang was the first Lao kingdom."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "laos",
+    "relation": "colonised",
+    "year": 1953,
+    "note": "French protectorate (1893–1953)."
+  },
+  {
+    "fromPolityId": "vietnam-modern",
+    "toPolityId": "laos",
+    "relation": "allied_with",
+    "year": 1977,
+    "note": "Treaty of friendship."
+  },
+  {
+    "fromPolityId": "bruneian-empire",
+    "toPolityId": "brunei",
+    "relation": "succeeded",
+    "year": 1984,
+    "note": "The sultanate continued under British protection."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "brunei",
+    "relation": "colonised",
+    "year": 1984,
+    "note": "British protectorate (1888–1984)."
+  },
+  {
+    "fromPolityId": "joseon-korea",
+    "toPolityId": "south-korea",
+    "relation": "succeeded",
+    "year": 1948,
+    "note": "Heir to Joseon Korea."
+  },
+  {
+    "fromPolityId": "joseon-korea",
+    "toPolityId": "north-korea",
+    "relation": "succeeded",
+    "year": 1948,
+    "note": "Heir to Joseon Korea."
+  },
+  {
+    "fromPolityId": "united-states",
+    "toPolityId": "south-korea",
+    "relation": "allied_with",
+    "year": 1953,
+    "note": "Mutual defence treaty."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "north-korea",
+    "relation": "allied_with",
+    "year": 1948,
+    "note": "Installed and supported the North Korean state."
+  },
+  {
+    "fromPolityId": "peoples-republic-of-china",
+    "toPolityId": "north-korea",
+    "relation": "allied_with",
+    "year": 1950,
+    "note": "Fought for North Korea in the Korean War."
+  },
+  {
+    "fromPolityId": "north-korea",
+    "toPolityId": "south-korea",
+    "relation": "conquered",
+    "year": 1950,
+    "note": "North Korea invaded the South in 1950."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "new-zealand",
+    "relation": "colonised",
+    "year": 1907,
+    "note": "British colony (1840–1907)."
+  },
+  {
+    "fromPolityId": "maori-aotearoa",
+    "toPolityId": "new-zealand",
+    "relation": "traded_with",
+    "year": 1840,
+    "note": "The Treaty of Waitangi (1840) between Māori chiefs and the Crown."
+  },
+  {
+    "fromPolityId": "new-zealand",
+    "toPolityId": "australia",
+    "relation": "allied_with",
+    "year": 1915,
+    "note": "ANZAC partners since Gallipoli."
+  },
+  {
+    "fromPolityId": "papuan-peoples",
+    "toPolityId": "papua-new-guinea",
+    "relation": "succeeded",
+    "year": null,
+    "note": "Papuan peoples are the majority of the population."
+  },
+  {
+    "fromPolityId": "australia",
+    "toPolityId": "papua-new-guinea",
+    "relation": "colonised",
+    "year": 1975,
+    "note": "Australian rule (1906–75)."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "fiji",
+    "relation": "colonised",
+    "year": 1970,
+    "note": "British colony (1874–1970)."
+  },
+  {
+    "fromPolityId": "new-zealand",
+    "toPolityId": "samoa",
+    "relation": "colonised",
+    "year": 1962,
+    "note": "New Zealand rule (1914–62)."
+  },
+  {
+    "fromPolityId": "german-empire",
+    "toPolityId": "samoa",
+    "relation": "succeeded",
+    "year": null,
+    "note": "German Samoa (1900–14)."
+  },
+  {
+    "fromPolityId": "tui-tonga-empire",
+    "toPolityId": "tonga",
+    "relation": "succeeded",
+    "year": 1845,
+    "note": "The Tuʻi Tonga line merged into the Tupou kingdom."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "tonga",
+    "relation": "allied_with",
+    "year": 1900,
+    "note": "British protectorate (1900–70)."
   }
 ]

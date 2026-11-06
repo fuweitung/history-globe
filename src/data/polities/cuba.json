@@ -1,0 +1,320 @@
+{
+  "id": "cuba",
+  "name": "Cuba",
+  "era": "modern",
+  "region": "Caribbean",
+  "startYear": 1902,
+  "endYear": null,
+  "capital": "Havana",
+  "capitalCoords": [
+    -82.37,
+    23.11
+  ],
+  "summary": "A Spanish colony until 1898, independent in 1902; Fidel Castro’s revolution (1959) made it a communist state; the 1962 missile crisis brought the world close to nuclear war.",
+  "wikiTitle": "Cuba",
+  "borderNames": [
+    "Cuba"
+  ],
+  "borderYears": [
+    1902,
+    null
+  ],
+  "color": "#3a6ab0",
+  "knownFor": [
+    {
+      "label": "Havana Old Town",
+      "kind": "monument",
+      "note": "Colonial city and old American cars."
+    },
+    {
+      "label": "Cuban music",
+      "kind": "art",
+      "note": "Son, salsa, Buena Vista Social Club."
+    },
+    {
+      "label": "Cigars",
+      "kind": "food",
+      "note": "Famous tobacco."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The largest Caribbean island; about 110,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "terrain": {
+        "value": "Plains and mountains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "resources": {
+        "value": "Sugar, tobacco, nickel.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "disasters": {
+        "value": "Hurricanes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 10 million and falling.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "urbanisation": {
+        "value": "Havana.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "disease": {
+        "value": "Strong public health; doctors sent abroad.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "migration": {
+        "value": "Large emigration to the US.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Tourism, nickel, sugar, medical services.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "tradeRoutes": {
+        "value": "Under a US embargo since 1962.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "wealth": {
+        "value": "Shortages and poverty in recent years.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "moneyAndTax": {
+        "value": "The Cuban peso.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cuba"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A one-party communist state.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "keyRulers": {
+        "value": "José Martí. Fulgencio Batista. Fidel Castro. Raúl Castro.",
+        "year": 1959,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "succession": {
+        "value": "Communist Party.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "institutions": {
+        "value": "Communist Party; National Assembly.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "stability": {
+        "value": "Revolution (1959); protests (2021).",
+        "year": 1959,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cuba"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Revolutionary Armed Forces.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "majorWars": {
+        "value": "War of Independence (1895–98); revolution; Bay of Pigs (1961); troops in Angola.",
+        "year": 1961,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "territoryChange": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "alliancesRivals": {
+        "value": "Allied with the USSR; opposed by the US.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cuba"
+      },
+      "scienceEducation": {
+        "value": "Very high literacy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cuba"
+      },
+      "communicationTransport": {
+        "value": "Old cars and buses.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Catholic and Santería; officially atheist until 1992.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "languageWriting": {
+        "value": "Spanish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "artsArchitecture": {
+        "value": "Music, dance, colonial Havana.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "socialStructure": {
+        "value": "Planned equality; shortages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "sharedIdentity": {
+        "value": "Revolutionary and national identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "dailyLife": {
+        "value": "Apartments; rice and beans, ration books.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "US, Mexico, Jamaica, Haiti.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "ideasReligions": {
+        "value": "Revolutionary ideas spread in Latin America.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "colonisation": {
+        "value": "Part of the Spanish Empire until 1898.",
+        "year": 1898,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1902).",
+        "year": 1902,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cuba"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cuba"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Cuba.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuba"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cuba"
+      }
+    }
+  }
+}

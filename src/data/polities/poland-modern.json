@@ -1,0 +1,321 @@
+{
+  "id": "poland-modern",
+  "name": "Poland (since 1918)",
+  "era": "modern",
+  "region": "Central Europe",
+  "startYear": 1918,
+  "endYear": null,
+  "capital": "Warsaw",
+  "capitalCoords": [
+    21.01,
+    52.23
+  ],
+  "summary": "Poland reborn in 1918 after 123 years of partition: invaded in 1939, a communist state from 1945, and a democracy since Solidarity’s victory in 1989.",
+  "wikiTitle": "Poland",
+  "borderNames": [
+    "Poland"
+  ],
+  "borderYears": [
+    1918,
+    null
+  ],
+  "color": "#c45050",
+  "knownFor": [
+    {
+      "label": "Solidarity",
+      "kind": "idea",
+      "year": 1980,
+      "note": "Trade union movement that helped end communism."
+    },
+    {
+      "label": "Marie Curie",
+      "kind": "person",
+      "note": "Born in Warsaw; first woman to win a Nobel Prize."
+    },
+    {
+      "label": "Pierogi",
+      "kind": "food",
+      "note": "Filled dumplings."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Central Europe between Germany and the Baltic states, Belarus and Ukraine; about 313,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "terrain": {
+        "value": "Mostly flat plains; mountains in the south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "climate": {
+        "value": "Continental.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "resources": {
+        "value": "Coal, copper, farmland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "disasters": {
+        "value": "Floods (1997).",
+        "year": 1997,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 38 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "urbanisation": {
+        "value": "Warsaw, Kraków, Łódź, Wrocław.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "disease": {
+        "value": "Good public health.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "migration": {
+        "value": "Borders moved west in 1945; millions were expelled or resettled.",
+        "year": 1945,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Manufacturing, services, farming.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "tradeRoutes": {
+        "value": "EU single market since 2004.",
+        "year": 2004,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "wealth": {
+        "value": "A high-income economy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "moneyAndTax": {
+        "value": "The złoty.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "inequality": {
+        "value": "Moderate inequality.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Republic (1918), communist people’s republic (1947–89), democratic republic since 1989.",
+        "year": 1989,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "keyRulers": {
+        "value": "Józef Piłsudski. Lech Wałęsa. Pope John Paul II (Polish).",
+        "year": 1918,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "succession": {
+        "value": "Elections since 1989.",
+        "year": 1989,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "institutions": {
+        "value": "Sejm and Senate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "stability": {
+        "value": "Devastated in the Second World War: about 6 million citizens killed, including about 3 million Polish Jews.",
+        "year": 1939,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "eliteConflict": {
+        "value": "Political polarisation.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "NATO member since 1999.",
+        "year": 1999,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "majorWars": {
+        "value": "Polish–Soviet War (1919–21); invaded by Germany and the USSR (1939).",
+        "year": 1939,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "territoryChange": {
+        "value": "Borders moved west in 1945.",
+        "year": 1945,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "alliancesRivals": {
+        "value": "NATO and EU.",
+        "year": 2004,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Marie Curie’s research on radioactivity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "scienceEducation": {
+        "value": "Jagiellonian University; strong schools.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "openness": {
+        "value": "Open since 1989.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "communicationTransport": {
+        "value": "Railways and motorways.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Catholic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "languageWriting": {
+        "value": "Polish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "artsArchitecture": {
+        "value": "Chopin, Copernicus’s legacy, film (Wajda).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "socialStructure": {
+        "value": "Large middle class.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "sharedIdentity": {
+        "value": "Strong national identity forged through partitions and war.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "dailyLife": {
+        "value": "Apartment blocks and houses; pierogi, bread, soup.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Germany, Czechia, Slovakia, Ukraine, Belarus, Lithuania, Russia (Kaliningrad).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "ideasReligions": {
+        "value": "Solidarity inspired the 1989 revolutions.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence restored in 1918.",
+        "year": 1918,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "peakPeriod": {
+        "value": "Rapid growth after 1989.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "declineSignals": {
+        "value": "War and occupation.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Poland; Wikipedia: History of Poland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Poland; Wikipedia: History of Poland"
+      }
+    }
+  }
+}

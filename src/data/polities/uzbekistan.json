@@ -1,0 +1,320 @@
+{
+  "id": "uzbekistan",
+  "name": "Uzbekistan",
+  "era": "modern",
+  "region": "Central Asia",
+  "startYear": 1991,
+  "endYear": null,
+  "capital": "Tashkent",
+  "capitalCoords": [
+    69.24,
+    41.31
+  ],
+  "summary": "The most populous Central Asian country, heir to the Silk Road cities of Samarkand, Bukhara and Khiva; Soviet until 1991.",
+  "wikiTitle": "Uzbekistan",
+  "borderNames": [
+    "Uzbekistan"
+  ],
+  "borderYears": [
+    1991,
+    null
+  ],
+  "color": "#3a8ac0",
+  "knownFor": [
+    {
+      "label": "Registan, Samarkand",
+      "kind": "monument",
+      "note": "Timurid madrasas."
+    },
+    {
+      "label": "Plov",
+      "kind": "food",
+      "note": "Rice pilaf."
+    },
+    {
+      "label": "Suzani",
+      "kind": "textile",
+      "note": "Embroidered textiles."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Central Asia; about 449,000 km²; double landlocked.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "terrain": {
+        "value": "Desert, oases, Fergana Valley.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "climate": {
+        "value": "Continental and dry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "resources": {
+        "value": "Cotton, gold, gas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "disasters": {
+        "value": "Aral Sea shrinkage.",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 37 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "urbanisation": {
+        "value": "Tashkent.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "disease": {
+        "value": "Fair health care.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "migration": {
+        "value": "Workers go to Russia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Cotton, gold, gas, remittances.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "tradeRoutes": {
+        "value": "Old Silk Road.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "wealth": {
+        "value": "A lower-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "moneyAndTax": {
+        "value": "The som.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Uzbekistan"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A presidential republic, authoritarian.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "keyRulers": {
+        "value": "Islam Karimov. Shavkat Mirziyoyev.",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "succession": {
+        "value": "Elections with little choice.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "institutions": {
+        "value": "Strong presidency.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "stability": {
+        "value": "Andijan massacre (2005).",
+        "year": 2005,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Uzbekistan"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Armed forces.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "majorWars": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "territoryChange": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "alliancesRivals": {
+        "value": "Balances Russia and China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "scienceEducation": {
+        "value": "Universities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "communicationTransport": {
+        "value": "High-speed rail to Samarkand.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Sunni Muslim.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "languageWriting": {
+        "value": "Uzbek (Latin script).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "artsArchitecture": {
+        "value": "Islamic architecture.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "socialStructure": {
+        "value": "Uzbek majority; Tajik and Russian minorities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "sharedIdentity": {
+        "value": "Pride in Timur and Silk Road heritage.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "dailyLife": {
+        "value": "Houses; plov, bread.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Kazakhstan, Kyrgyzstan, Tajikistan, Afghanistan, Turkmenistan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "ideasReligions": {
+        "value": "Sufism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "colonisation": {
+        "value": "Part of the Russian Empire from the 1800s and the Soviet Union from the 1920s until 1991.",
+        "year": 1924,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1991).",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Uzbekistan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Uzbekistan"
+      }
+    }
+  }
+}

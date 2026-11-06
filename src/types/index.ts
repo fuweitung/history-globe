@@ -175,6 +175,12 @@ export interface Polity {
    * Without it, names match within the polity's lifetime ±10 years.
    */
   borderYears?: [number, number | null];
+  /**
+   * Optional per-name windows that override borderYears for one name, e.g.
+   * { "Kenya": [1895, 1963] } on the British Empire. The name does not need to
+   * be repeated in borderNames.
+   */
+  borderNameYears?: Record<string, [number, number | null]>;
   /** English Wikipedia article title (for links and pictures). */
   wikiTitle?: string;
   /** Brand colour used for the map highlight. */

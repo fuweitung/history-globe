@@ -1,0 +1,320 @@
+{
+  "id": "dominican-republic",
+  "name": "Dominican Republic",
+  "era": "modern",
+  "region": "Caribbean",
+  "startYear": 1844,
+  "endYear": null,
+  "capital": "Santo Domingo",
+  "capitalCoords": [
+    -69.93,
+    18.49
+  ],
+  "summary": "The eastern part of Hispaniola, independent from Haiti in 1844; ruled by dictator Trujillo (1930–61); now the Caribbean’s largest economy.",
+  "wikiTitle": "Dominican Republic",
+  "borderNames": [
+    "Dominican Republic"
+  ],
+  "borderYears": [
+    1844,
+    null
+  ],
+  "color": "#3a6ab0",
+  "knownFor": [
+    {
+      "label": "Colonial Zone of Santo Domingo",
+      "kind": "monument",
+      "note": "First European city in the Americas."
+    },
+    {
+      "label": "Merengue and bachata",
+      "kind": "art",
+      "note": "Dance music."
+    },
+    {
+      "label": "Baseball players",
+      "kind": "art",
+      "note": "Many top players."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The eastern two-thirds of Hispaniola; about 48,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "terrain": {
+        "value": "Mountains (Pico Duarte) and valleys.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "resources": {
+        "value": "Tourism, gold, sugar.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "disasters": {
+        "value": "Hurricanes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 11 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "urbanisation": {
+        "value": "Santo Domingo.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "disease": {
+        "value": "Dengue.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "migration": {
+        "value": "Migrants from Haiti; diaspora in the US.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Tourism, mining, free-trade zones.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "tradeRoutes": {
+        "value": "Ports.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "wealth": {
+        "value": "An upper-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "moneyAndTax": {
+        "value": "The Dominican peso.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dominican Republic"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A presidential republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "keyRulers": {
+        "value": "Juan Pablo Duarte. Rafael Trujillo. Joaquín Balaguer.",
+        "year": 1930,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "institutions": {
+        "value": "Congress.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "stability": {
+        "value": "US occupations (1916–24, 1965).",
+        "year": 1916,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dominican Republic"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Armed forces.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "majorWars": {
+        "value": "Wars with Haiti; civil war (1965).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "territoryChange": {
+        "value": "Briefly back under Spain (1861–65).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "alliancesRivals": {
+        "value": "Tensions with Haiti.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "scienceEducation": {
+        "value": "Universities (Santo Domingo, 1538).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "communicationTransport": {
+        "value": "Metro in Santo Domingo.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Catholic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "languageWriting": {
+        "value": "Spanish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "artsArchitecture": {
+        "value": "Colonial buildings.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "socialStructure": {
+        "value": "Mixed-race majority.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "sharedIdentity": {
+        "value": "Identity defined partly against Haiti.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "dailyLife": {
+        "value": "Houses; rice, beans, plantains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Haiti, Puerto Rico.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "ideasReligions": {
+        "value": "Catholicism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "colonisation": {
+        "value": "Part of the Spanish Empire until 1821.",
+        "year": 1821,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence from Haiti (1844).",
+        "year": 1844,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Dominican Republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dominican Republic"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dominican Republic"
+      }
+    }
+  }
+}

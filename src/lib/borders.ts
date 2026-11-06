@@ -62,7 +62,7 @@ const norm = (s: string) => s.trim().toLowerCase();
 
 const NAME_INDEX = new Map<string, Polity[]>();
 for (const p of POLITIES) {
-  for (const n of p.borderNames ?? []) {
+  for (const n of [...(p.borderNames ?? []), ...Object.keys(p.borderNameYears ?? {})]) {
     const k = norm(n);
     const list = NAME_INDEX.get(k) ?? [];
     if (!list.includes(p)) list.push(p);
@@ -70,10 +70,20 @@ for (const p of POLITIES) {
   }
 }
 
+/** The window in which `name` applies to `p`: its own entry in borderNameYears, else borderYears. */
+function windowFor(p: Polity, name?: string): [number, number | null] | undefined {
+  if (name && p.borderNameYears) {
+    const k = norm(name);
+    for (const [n, w] of Object.entries(p.borderNameYears)) if (norm(n) === k) return w;
+  }
+  return p.borderYears;
+}
+
 /** How far (in years) a snapshot is from the window in which a polity's names apply. */
-export function matchDistance(p: Polity, snapYear: number): number {
-  if (p.borderYears) {
-    const [from, to] = p.borderYears;
+export function matchDistance(p: Polity, snapYear: number, name?: string): number {
+  const window = windowFor(p, name);
+  if (window) {
+    const [from, to] = window;
     return snapYear >= from && snapYear <= (to ?? Infinity) ? 0 : Infinity; // strict window
   }
   const d = yearsOutside(p, snapYear);
@@ -95,8 +105,8 @@ export function candidatesFor(
     if (!key) continue;
     const list = NAME_INDEX.get(norm(key));
     if (!list) continue;
-    const near = list.filter((p) => matchDistance(p, snapYear) !== Infinity);
-    if (near.length) return { list: near.sort((a, b) => matchDistance(a, snapYear) - matchDistance(b, snapYear)), viaName };
+    const near = list.filter((p) => matchDistance(p, snapYear, key) !== Infinity);
+    if (near.length) return { list: near.sort((a, b) => matchDistance(a, snapYear, key) - matchDistance(b, snapYear, key)), viaName };
   }
   return { list: [], viaName: false };
 }

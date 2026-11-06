@@ -1,0 +1,320 @@
+{
+  "id": "malta",
+  "name": "Malta",
+  "era": "modern",
+  "region": "Western Europe",
+  "startYear": 1964,
+  "endYear": null,
+  "capital": "Valletta",
+  "capitalCoords": [
+    14.51,
+    35.9
+  ],
+  "summary": "A Mediterranean island nation, ruled by the Knights of St John (1530–1798) and Britain, independent since 1964.",
+  "wikiTitle": "Malta",
+  "borderNames": [
+    "Malta"
+  ],
+  "borderYears": [
+    1964,
+    null
+  ],
+  "color": "#c03a3a",
+  "knownFor": [
+    {
+      "label": "Megalithic temples",
+      "kind": "monument",
+      "note": "Among the oldest free-standing buildings (about 3600 BCE)."
+    },
+    {
+      "label": "George Cross",
+      "kind": "idea",
+      "note": "Awarded to the island in 1942 for courage in the Second World War."
+    },
+    {
+      "label": "Valletta",
+      "kind": "monument",
+      "note": "Fortified capital built by the Knights."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Islands south of Sicily.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      },
+      "terrain": {
+        "value": "Low limestone islands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      },
+      "climate": {
+        "value": "Mediterranean.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      },
+      "resources": {
+        "value": "Harbours, tourism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      },
+      "disasters": {
+        "value": "No major natural disasters recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Malta"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 560,000.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      },
+      "urbanisation": {
+        "value": "Valletta is the main town.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      },
+      "disease": {
+        "value": "Very good public health.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Malta"
+      },
+      "migration": {
+        "value": "Emigration to Australia; immigration today.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Tourism, gaming, finance.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      },
+      "tradeRoutes": {
+        "value": "EU since 2004.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      },
+      "wealth": {
+        "value": "A high-income economy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      },
+      "moneyAndTax": {
+        "value": "The euro (2008).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      },
+      "inequality": {
+        "value": "Low inequality.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Malta"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary republic (since 1974).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      },
+      "keyRulers": {
+        "value": "Dom Mintoff. Eddie Fenech Adami.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      },
+      "institutions": {
+        "value": "House of Representatives.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      },
+      "stability": {
+        "value": "Heavily bombed in the Second World War.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      },
+      "eliteConflict": {
+        "value": "Little conflict among leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Malta"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Small armed forces; neutral.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      },
+      "majorWars": {
+        "value": "Siege of Malta (1940–42).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      },
+      "territoryChange": {
+        "value": "No territorial change in modern times.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      },
+      "alliancesRivals": {
+        "value": "EU member; neutral.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Malta"
+      },
+      "scienceEducation": {
+        "value": "High education levels.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      },
+      "openness": {
+        "value": "Very open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      },
+      "communicationTransport": {
+        "value": "Ferries and buses.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Catholic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      },
+      "languageWriting": {
+        "value": "Maltese and English.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      },
+      "artsArchitecture": {
+        "value": "Temples, baroque churches.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      },
+      "socialStructure": {
+        "value": "Prosperous society.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Malta"
+      },
+      "sharedIdentity": {
+        "value": "A Mediterranean island identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      },
+      "dailyLife": {
+        "value": "Stone houses; pastizzi, rabbit stew.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Italy (Sicily), Libya, Tunisia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      },
+      "ideasReligions": {
+        "value": "Shares the culture of its neighbours.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Malta"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence from Britain (1964).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      },
+      "peakPeriod": {
+        "value": "Modern prosperity.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Malta"
+      },
+      "declineSignals": {
+        "value": "None major.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Malta"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Malta.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malta"
+      }
+    }
+  }
+}

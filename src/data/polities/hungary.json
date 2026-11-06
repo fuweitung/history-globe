@@ -1,0 +1,322 @@
+{
+  "id": "hungary",
+  "name": "Hungary (since 1918)",
+  "era": "modern",
+  "region": "Central Europe",
+  "startYear": 1918,
+  "endYear": null,
+  "capital": "Budapest",
+  "capitalCoords": [
+    19.04,
+    47.5
+  ],
+  "summary": "Hungary after Austria-Hungary broke up: it lost two-thirds of its territory in 1920, was a Soviet-bloc state after 1945 (revolt crushed in 1956), and a democracy since 1989.",
+  "wikiTitle": "Hungary",
+  "borderNames": [
+    "Hungary"
+  ],
+  "borderYears": [
+    1918,
+    null
+  ],
+  "color": "#3a8a5a",
+  "knownFor": [
+    {
+      "label": "Hungarian Revolution of 1956",
+      "kind": "idea",
+      "year": 1956,
+      "note": "A national uprising crushed by Soviet troops."
+    },
+    {
+      "label": "Rubik’s Cube",
+      "kind": "tool",
+      "year": 1974,
+      "note": "Invented by Ernő Rubik."
+    },
+    {
+      "label": "Goulash",
+      "kind": "food",
+      "note": "Paprika stew."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Central Europe in the Carpathian Basin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      },
+      "terrain": {
+        "value": "Plains (the Great Hungarian Plain) and the Danube.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      },
+      "climate": {
+        "value": "Continental.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      },
+      "resources": {
+        "value": "Farmland, thermal springs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      },
+      "disasters": {
+        "value": "Floods.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 9.6 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      },
+      "urbanisation": {
+        "value": "Budapest has about 1.7 million.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      },
+      "disease": {
+        "value": "Good public health.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hungary"
+      },
+      "migration": {
+        "value": "Hungarians live in neighbouring countries since 1920.",
+        "year": 1920,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Industry (cars), farming, services.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      },
+      "tradeRoutes": {
+        "value": "EU since 2004.",
+        "year": 2004,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      },
+      "wealth": {
+        "value": "A high-income economy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      },
+      "moneyAndTax": {
+        "value": "The forint.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      },
+      "inequality": {
+        "value": "Moderate inequality.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hungary"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      },
+      "keyRulers": {
+        "value": "Miklós Horthy. Imre Nagy. János Kádár. Viktor Orbán.",
+        "year": 1956,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      },
+      "succession": {
+        "value": "Elections; critics say recent ones are unfair.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Hungary"
+      },
+      "institutions": {
+        "value": "National Assembly.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      },
+      "stability": {
+        "value": "1956 revolution crushed by the USSR.",
+        "year": 1956,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      },
+      "eliteConflict": {
+        "value": "Political polarisation.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hungary"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "NATO member.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      },
+      "majorWars": {
+        "value": "Fought on the Axis side in the Second World War.",
+        "year": 1941,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      },
+      "territoryChange": {
+        "value": "Treaty of Trianon (1920) removed about two-thirds of its territory.",
+        "year": 1920,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      },
+      "alliancesRivals": {
+        "value": "NATO (1999), EU (2004).",
+        "year": 2004,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Rubik’s Cube; the ballpoint pen (Bíró).",
+        "year": 1974,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      },
+      "scienceEducation": {
+        "value": "Strong maths and science tradition.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      },
+      "openness": {
+        "value": "Varied.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hungary"
+      },
+      "communicationTransport": {
+        "value": "Budapest Metro (1896).",
+        "year": 1896,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Catholic and Protestant.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      },
+      "languageWriting": {
+        "value": "Hungarian, a Uralic language.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      },
+      "artsArchitecture": {
+        "value": "Bartók, Liszt, Budapest architecture.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      },
+      "socialStructure": {
+        "value": "Moderate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hungary"
+      },
+      "sharedIdentity": {
+        "value": "Strong national identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      },
+      "dailyLife": {
+        "value": "Apartments; goulash, paprika, pastries.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Austria, Slovakia, Ukraine, Romania, Serbia, Croatia, Slovenia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      },
+      "ideasReligions": {
+        "value": "1989 border opening helped end the Cold War.",
+        "year": 1989,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence from Austria (1918).",
+        "year": 1918,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      },
+      "peakPeriod": {
+        "value": "Growth after 1989.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hungary"
+      },
+      "declineSignals": {
+        "value": "Trianon losses.",
+        "year": 1920,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Hungary.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hungary"
+      }
+    }
+  }
+}

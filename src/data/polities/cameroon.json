@@ -1,0 +1,320 @@
+{
+  "id": "cameroon",
+  "name": "Cameroon",
+  "era": "modern",
+  "region": "Central Africa",
+  "startYear": 1960,
+  "endYear": null,
+  "capital": "Yaoundé",
+  "capitalCoords": [
+    11.52,
+    3.87
+  ],
+  "summary": "Formerly German Kamerun, divided between France and Britain after 1919; the French part became independent in 1960 and joined the southern British part in 1961.",
+  "wikiTitle": "Cameroon",
+  "borderNames": [
+    "Cameroon"
+  ],
+  "borderYears": [
+    1960,
+    null
+  ],
+  "color": "#3a8a4a",
+  "knownFor": [
+    {
+      "label": "Makossa music",
+      "kind": "art",
+      "note": "Popular music from Douala."
+    },
+    {
+      "label": "Mount Cameroon",
+      "kind": "monument",
+      "note": "An active volcano."
+    },
+    {
+      "label": "“Africa in miniature”",
+      "kind": "idea",
+      "note": "Deserts, savanna, rainforest and coast in one country."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Central Africa on the Gulf of Guinea; about 475,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "terrain": {
+        "value": "Coast, rainforest, highlands, savanna.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "climate": {
+        "value": "Tropical to semi-arid.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "resources": {
+        "value": "Oil, timber, cocoa, coffee.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "disasters": {
+        "value": "Lake Nyos gas disaster (1986) killed about 1,700 people.",
+        "year": 1986,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 29 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "urbanisation": {
+        "value": "Douala and Yaoundé.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "disease": {
+        "value": "Malaria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "migration": {
+        "value": "Refugees from Nigeria and the Central African Republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Oil, farming, timber.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "tradeRoutes": {
+        "value": "Port of Douala.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "wealth": {
+        "value": "A lower-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "moneyAndTax": {
+        "value": "The Central African CFA franc, pegged to the euro.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cameroon"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A presidential republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "keyRulers": {
+        "value": "Ahmadou Ahidjo. Paul Biya (since 1982).",
+        "year": 1982,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "succession": {
+        "value": "Paul Biya has ruled since 1982.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "institutions": {
+        "value": "National Assembly.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "stability": {
+        "value": "Anglophone crisis since 2016; Boko Haram in the north.",
+        "year": 2016,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cameroon"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Armed forces.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "majorWars": {
+        "value": "Anglophone crisis.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "territoryChange": {
+        "value": "Southern Cameroons joined (1961); Bakassi from Nigeria (2008).",
+        "year": 1961,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "alliancesRivals": {
+        "value": "Close to France.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cameroon"
+      },
+      "scienceEducation": {
+        "value": "Universities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cameroon"
+      },
+      "communicationTransport": {
+        "value": "Railway and roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Christian and Muslim.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "languageWriting": {
+        "value": "French and English; about 250 languages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "artsArchitecture": {
+        "value": "Bamileke and Bamum art; the Bamum script.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "socialStructure": {
+        "value": "Over 200 ethnic groups.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "sharedIdentity": {
+        "value": "Divisions between French- and English-speaking regions.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "dailyLife": {
+        "value": "Houses; ndolé, fufu.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Nigeria, Chad, Central African Republic, Congo, Gabon, Equatorial Guinea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "ideasReligions": {
+        "value": "Christianity and Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "colonisation": {
+        "value": "A German colony, then French and British mandates.",
+        "year": 1884,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1960).",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cameroon"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cameroon"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Cameroon.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cameroon"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cameroon"
+      }
+    }
+  }
+}

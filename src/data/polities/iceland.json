@@ -1,0 +1,320 @@
+{
+  "id": "iceland",
+  "name": "Iceland",
+  "era": "modern",
+  "region": "Northern Europe & North Atlantic",
+  "startYear": 1918,
+  "endYear": null,
+  "capital": "Reykjavík",
+  "capitalCoords": [
+    -21.94,
+    64.15
+  ],
+  "summary": "A volcanic island settled by Norse people around 874, ruled by Norway and Denmark, sovereign from 1918 and a republic since 1944.",
+  "wikiTitle": "Iceland",
+  "borderNames": [
+    "Iceland"
+  ],
+  "borderYears": [
+    1918,
+    null
+  ],
+  "color": "#4a8ac0",
+  "knownFor": [
+    {
+      "label": "Althing",
+      "kind": "idea",
+      "note": "One of the oldest parliaments, founded in 930."
+    },
+    {
+      "label": "Sagas",
+      "kind": "art",
+      "note": "Medieval Icelandic sagas."
+    },
+    {
+      "label": "Geothermal power",
+      "kind": "tool",
+      "note": "Heat and electricity from volcanic ground."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "An island in the North Atlantic; about 103,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "terrain": {
+        "value": "Volcanoes, glaciers, lava fields.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "climate": {
+        "value": "Cool and windy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "resources": {
+        "value": "Fish, geothermal energy, hydropower.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "disasters": {
+        "value": "Eruptions (Laki 1783, Eyjafjallajökull 2010).",
+        "year": 2010,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 390,000.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "urbanisation": {
+        "value": "Two-thirds live around Reykjavík.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "disease": {
+        "value": "Very good public health.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iceland"
+      },
+      "migration": {
+        "value": "Small immigration.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Fishing, tourism, aluminium smelting.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "tradeRoutes": {
+        "value": "Fish exports.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "wealth": {
+        "value": "A high-income economy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "moneyAndTax": {
+        "value": "The króna.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "inequality": {
+        "value": "Low inequality.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iceland"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "keyRulers": {
+        "value": "Vigdís Finnbogadóttir, the world’s first elected woman president (1980).",
+        "year": 1980,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "institutions": {
+        "value": "Althing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "stability": {
+        "value": "Stable.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "eliteConflict": {
+        "value": "Party politics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iceland"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "No army; NATO member.",
+        "year": 1949,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "majorWars": {
+        "value": "The Cod Wars with Britain (1958–76).",
+        "year": 1958,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "territoryChange": {
+        "value": "Fishing limits extended to 200 miles.",
+        "year": 1975,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "alliancesRivals": {
+        "value": "NATO; not in the EU.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Geothermal heating.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iceland"
+      },
+      "scienceEducation": {
+        "value": "High literacy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "openness": {
+        "value": "Open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "communicationTransport": {
+        "value": "Ring Road around the island.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Lutheran.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "languageWriting": {
+        "value": "Icelandic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "artsArchitecture": {
+        "value": "Sagas, music (Björk).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "socialStructure": {
+        "value": "Equal society.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iceland"
+      },
+      "sharedIdentity": {
+        "value": "Strong identity through language and sagas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "dailyLife": {
+        "value": "Houses heated by hot water; fish, lamb, skyr.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Greenland, Norway, the UK.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "ideasReligions": {
+        "value": "Gender equality.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "colonisation": {
+        "value": "Formerly under Denmark.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Sovereignty (1918), republic (1944).",
+        "year": 1944,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "peakPeriod": {
+        "value": "Prosperity after 1945.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iceland"
+      },
+      "declineSignals": {
+        "value": "Banking collapse (2008).",
+        "year": 2008,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Iceland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iceland"
+      }
+    }
+  }
+}

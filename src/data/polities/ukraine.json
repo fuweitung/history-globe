@@ -1,0 +1,321 @@
+{
+  "id": "ukraine",
+  "name": "Ukraine (since 1991)",
+  "era": "modern",
+  "region": "Eastern Europe",
+  "startYear": 1991,
+  "endYear": null,
+  "capital": "Kyiv",
+  "capitalCoords": [
+    30.52,
+    50.45
+  ],
+  "summary": "Independent since the Soviet Union broke up in 1991. Russia annexed Crimea in 2014 and launched a full-scale invasion in 2022.",
+  "wikiTitle": "Ukraine",
+  "borderNames": [
+    "Ukraine"
+  ],
+  "borderYears": [
+    1992,
+    null
+  ],
+  "color": "#3a7ac0",
+  "knownFor": [
+    {
+      "label": "Black earth (chornozem)",
+      "kind": "food",
+      "note": "Very fertile soil; a major grain exporter."
+    },
+    {
+      "label": "Vyshyvanka",
+      "kind": "textile",
+      "note": "Embroidered shirt."
+    },
+    {
+      "label": "Chernobyl disaster",
+      "kind": "monument",
+      "year": 1986,
+      "note": "The worst nuclear accident, while Ukraine was Soviet."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Eastern Europe on the Black Sea; about 604,000 km² (internationally recognised borders).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "terrain": {
+        "value": "Plains and steppe; the Carpathians in the west.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "climate": {
+        "value": "Continental.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "resources": {
+        "value": "Very fertile farmland, iron ore, coal.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "disasters": {
+        "value": "Chernobyl’s legacy.",
+        "year": 1986,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 41 million before 2022; millions displaced since.",
+        "year": 2022,
+        "certainty": "disputed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "urbanisation": {
+        "value": "Kyiv, Kharkiv, Odesa, Dnipro, Lviv.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "disease": {
+        "value": "Health care disrupted by war.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ukraine"
+      },
+      "migration": {
+        "value": "About 6 million refugees abroad after 2022.",
+        "year": 2022,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Grain and sunflower oil exports, steel, IT services.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "tradeRoutes": {
+        "value": "Black Sea ports.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "wealth": {
+        "value": "A lower-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "moneyAndTax": {
+        "value": "The hryvnia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "inequality": {
+        "value": "Oligarch influence.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ukraine"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A semi-presidential republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "keyRulers": {
+        "value": "Leonid Kravchuk. Viktor Yushchenko. Volodymyr Zelenskyy.",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "institutions": {
+        "value": "Verkhovna Rada.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "stability": {
+        "value": "Orange Revolution (2004), Euromaidan (2014).",
+        "year": 2014,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "eliteConflict": {
+        "value": "Rival political groups.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ukraine"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Armed forces greatly expanded since 2014.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "majorWars": {
+        "value": "Russo-Ukrainian War since 2014; full-scale invasion from 2022.",
+        "year": 2022,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "territoryChange": {
+        "value": "Russia annexed Crimea (2014) and claims four more regions (2022); most countries regard these as illegal.",
+        "year": 2014,
+        "certainty": "disputed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "alliancesRivals": {
+        "value": "Seeks EU and NATO membership; supported by Western countries.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Aircraft (Antonov) and rocket industry.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ukraine"
+      },
+      "scienceEducation": {
+        "value": "High literacy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "openness": {
+        "value": "Open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "communicationTransport": {
+        "value": "Railways.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Orthodox Christian.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "languageWriting": {
+        "value": "Ukrainian; Russian also widely spoken.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "artsArchitecture": {
+        "value": "Folk art, embroidery, poetry (Shevchenko).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "socialStructure": {
+        "value": "Large gaps after the war.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ukraine"
+      },
+      "sharedIdentity": {
+        "value": "A strengthened Ukrainian national identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "dailyLife": {
+        "value": "Apartments and houses; borscht, bread.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Russia, Belarus, Poland, Slovakia, Hungary, Romania, Moldova.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "ideasReligions": {
+        "value": "European integration.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "colonisation": {
+        "value": "Part of the USSR before 1991.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence referendum (1991).",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "peakPeriod": {
+        "value": "Growth in the 2000s.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ukraine"
+      },
+      "declineSignals": {
+        "value": "War since 2014.",
+        "year": 2014,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "outcome": {
+        "value": "Still in existence, at war.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Ukraine.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ukraine"
+      },
+      "overallCertainty": {
+        "value": "War casualty and population figures are disputed.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Ukraine"
+      }
+    }
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "id": "kyrgyzstan",
+  "name": "Kyrgyzstan",
+  "era": "modern",
+  "region": "Central Asia",
+  "startYear": 1991,
+  "endYear": null,
+  "capital": "Bishkek",
+  "capitalCoords": [
+    74.59,
+    42.87
+  ],
+  "summary": "A mountain country of nomadic heritage; Soviet until 1991; several revolutions since 2005.",
+  "wikiTitle": "Kyrgyzstan",
+  "borderNames": [
+    "Kyrgyzstan"
+  ],
+  "borderYears": [
+    1991,
+    null
+  ],
+  "color": "#c03a3a",
+  "knownFor": [
+    {
+      "label": "Manas epic",
+      "kind": "art",
+      "note": "One of the longest epic poems."
+    },
+    {
+      "label": "Yurt",
+      "kind": "tool",
+      "note": "Felt tent on the flag."
+    },
+    {
+      "label": "Issyk-Kul",
+      "kind": "monument",
+      "note": "Large mountain lake."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Central Asia; about 200,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "terrain": {
+        "value": "Tian Shan mountains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "climate": {
+        "value": "Continental.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "resources": {
+        "value": "Gold, hydropower.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "disasters": {
+        "value": "Earthquakes, mudslides.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 7 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "urbanisation": {
+        "value": "Bishkek and Osh.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "disease": {
+        "value": "Fair health care.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "migration": {
+        "value": "Workers go to Russia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Gold, remittances, herding.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "tradeRoutes": {
+        "value": "Trade with China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "wealth": {
+        "value": "A lower-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "moneyAndTax": {
+        "value": "The som.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kyrgyzstan"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A presidential republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "keyRulers": {
+        "value": "Askar Akayev. Sadyr Japarov.",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "succession": {
+        "value": "Elections and revolutions.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "institutions": {
+        "value": "Parliament.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "stability": {
+        "value": "Revolutions (2005, 2010, 2020); Osh violence (2010).",
+        "year": 2010,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kyrgyzstan"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Russian base.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "majorWars": {
+        "value": "Border clashes with Tajikistan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "territoryChange": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "alliancesRivals": {
+        "value": "Close to Russia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "scienceEducation": {
+        "value": "Universities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "communicationTransport": {
+        "value": "Mountain roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Sunni Muslim.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "languageWriting": {
+        "value": "Kyrgyz and Russian.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "artsArchitecture": {
+        "value": "Felt carpets.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "socialStructure": {
+        "value": "Kyrgyz majority; Uzbek minority.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "sharedIdentity": {
+        "value": "Nomadic heritage.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "dailyLife": {
+        "value": "Houses and yurts; beshbarmak.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Kazakhstan, China, Tajikistan, Uzbekistan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "ideasReligions": {
+        "value": "Islam and Tengrism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "colonisation": {
+        "value": "Part of the Russian Empire from the 1800s and the Soviet Union from the 1920s until 1991.",
+        "year": 1924,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1991).",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Kyrgyzstan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kyrgyzstan"
+      }
+    }
+  }
+}

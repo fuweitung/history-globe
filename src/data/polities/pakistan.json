@@ -1,0 +1,321 @@
+{
+  "id": "pakistan",
+  "name": "Pakistan",
+  "era": "modern",
+  "region": "South Asia",
+  "startYear": 1947,
+  "endYear": null,
+  "capital": "Islamabad",
+  "capitalCoords": [
+    73.05,
+    33.69
+  ],
+  "summary": "Created in 1947 at the partition of British India as a homeland for Muslims; East Pakistan broke away as Bangladesh in 1971; a nuclear power with long periods of military rule.",
+  "wikiTitle": "Pakistan",
+  "borderNames": [
+    "Pakistan"
+  ],
+  "borderYears": [
+    1947,
+    null
+  ],
+  "color": "#2a7a3a",
+  "knownFor": [
+    {
+      "label": "Badshahi Mosque",
+      "kind": "monument",
+      "note": "Mughal mosque in Lahore."
+    },
+    {
+      "label": "Cricket",
+      "kind": "art",
+      "year": 1992,
+      "note": "World Cup winners in 1992."
+    },
+    {
+      "label": "K2",
+      "kind": "monument",
+      "note": "Second-highest mountain."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "South Asia; about 882,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "terrain": {
+        "value": "Indus plain, Karakoram and Himalaya, desert.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "climate": {
+        "value": "Hot and dry; monsoon.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "resources": {
+        "value": "Farmland, gas, coal.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "disasters": {
+        "value": "Floods (2010, 2022); earthquake (2005).",
+        "year": 2022,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 240 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "urbanisation": {
+        "value": "Karachi, Lahore.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "disease": {
+        "value": "One of the last places with wild polio.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "migration": {
+        "value": "Partition (1947) moved millions.",
+        "year": 1947,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, textiles, remittances.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "tradeRoutes": {
+        "value": "Port of Karachi; China–Pakistan Economic Corridor.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "wealth": {
+        "value": "A lower-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "moneyAndTax": {
+        "value": "The rupee.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pakistan"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A federal parliamentary republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "keyRulers": {
+        "value": "Muhammad Ali Jinnah. Ayub Khan. Zulfikar Ali Bhutto. Benazir Bhutto. Pervez Musharraf.",
+        "year": 1947,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "succession": {
+        "value": "Elections and coups.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "institutions": {
+        "value": "Strong army.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "stability": {
+        "value": "Military rule (1958–71, 1977–88, 1999–2008).",
+        "year": 1958,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pakistan"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Large army; nuclear weapons (1998).",
+        "year": 1998,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "majorWars": {
+        "value": "Wars with India (1947, 1965, 1971).",
+        "year": 1965,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "territoryChange": {
+        "value": "Kashmir is disputed with India.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "alliancesRivals": {
+        "value": "Close to China; rival of India.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pakistan"
+      },
+      "scienceEducation": {
+        "value": "Abdus Salam won the Nobel Prize in Physics (1979).",
+        "year": 1979,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pakistan"
+      },
+      "communicationTransport": {
+        "value": "Karakoram Highway.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "About 96% Muslim.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "languageWriting": {
+        "value": "Urdu and English; Punjabi, Sindhi, Pashto, Balochi.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "artsArchitecture": {
+        "value": "Qawwali music; truck art.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "socialStructure": {
+        "value": "Punjabi, Pashtun, Sindhi, Baloch and others.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "sharedIdentity": {
+        "value": "Islamic and regional identities compete.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "dailyLife": {
+        "value": "Houses; biryani, roti, chai.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "India, Afghanistan, Iran, China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "ideasReligions": {
+        "value": "Islamic republic since 1956.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "colonisation": {
+        "value": "Part of British India until 1947.",
+        "year": 1858,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Partition and independence (1947).",
+        "year": 1947,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pakistan"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pakistan"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Pakistan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pakistan"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pakistan"
+      }
+    }
+  }
+}

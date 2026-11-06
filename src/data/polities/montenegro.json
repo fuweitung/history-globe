@@ -1,0 +1,320 @@
+{
+  "id": "montenegro",
+  "name": "Montenegro",
+  "era": "modern",
+  "region": "South-eastern Europe (Balkans)",
+  "startYear": 2006,
+  "endYear": null,
+  "capital": "Podgorica",
+  "capitalCoords": [
+    19.26,
+    42.44
+  ],
+  "summary": "A small mountain state: a principality and kingdom before 1918, then part of Yugoslavia and Serbia and Montenegro, independent again since 2006.",
+  "wikiTitle": "Montenegro",
+  "borderNames": [
+    "Montenegro"
+  ],
+  "borderYears": [
+    2006,
+    null
+  ],
+  "color": "#b0703a",
+  "knownFor": [
+    {
+      "label": "Bay of Kotor",
+      "kind": "monument",
+      "note": "Fjord-like bay with medieval towns."
+    },
+    {
+      "label": "Ostrog Monastery",
+      "kind": "monument",
+      "note": "Built into a cliff."
+    },
+    {
+      "label": "Njegoš",
+      "kind": "person",
+      "note": "Prince-bishop and poet."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Adriatic coast and mountains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      },
+      "terrain": {
+        "value": "Mountains and coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      },
+      "climate": {
+        "value": "Mediterranean.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      },
+      "resources": {
+        "value": "Tourism, aluminium.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      },
+      "disasters": {
+        "value": "Earthquake (1979).",
+        "year": 1979,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 620,000.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      },
+      "urbanisation": {
+        "value": "Podgorica, Nikšić.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      },
+      "disease": {
+        "value": "Moderate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Montenegro"
+      },
+      "migration": {
+        "value": "Small population.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Tourism, services.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      },
+      "tradeRoutes": {
+        "value": "Uses the euro.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      },
+      "wealth": {
+        "value": "An upper-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      },
+      "moneyAndTax": {
+        "value": "The euro (without being in the EU).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      },
+      "inequality": {
+        "value": "Moderate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Montenegro"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      },
+      "keyRulers": {
+        "value": "Milo Đukanović.",
+        "year": 2006,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      },
+      "institutions": {
+        "value": "Parliament.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      },
+      "stability": {
+        "value": "Independence referendum (2006).",
+        "year": 2006,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      },
+      "eliteConflict": {
+        "value": "Party politics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Montenegro"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "NATO member (2017).",
+        "year": 2017,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      },
+      "majorWars": {
+        "value": "None since 2006.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      },
+      "territoryChange": {
+        "value": "Separated peacefully from Serbia.",
+        "year": 2006,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      },
+      "alliancesRivals": {
+        "value": "NATO; EU candidate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Montenegro"
+      },
+      "scienceEducation": {
+        "value": "Universities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      },
+      "openness": {
+        "value": "Open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      },
+      "communicationTransport": {
+        "value": "Coastal roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Orthodox, Muslim and Catholic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      },
+      "languageWriting": {
+        "value": "Montenegrin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      },
+      "artsArchitecture": {
+        "value": "Monasteries, coastal towns.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      },
+      "socialStructure": {
+        "value": "Moderate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Montenegro"
+      },
+      "sharedIdentity": {
+        "value": "Montenegrin and Serbian identities overlap.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Montenegro"
+      },
+      "dailyLife": {
+        "value": "Stone houses and flats; seafood, lamb.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Croatia, Bosnia, Serbia, Kosovo, Albania.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      },
+      "ideasReligions": {
+        "value": "Orthodoxy.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Montenegro"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (2006).",
+        "year": 2006,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      },
+      "peakPeriod": {
+        "value": "Tourism growth.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Montenegro"
+      },
+      "declineSignals": {
+        "value": "None major.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Montenegro"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Montenegro.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Montenegro"
+      }
+    }
+  }
+}

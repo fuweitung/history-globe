@@ -4309,7 +4309,8 @@
     "description": "The US defeats Spain. Spain loses Cuba, Puerto Rico, Guam and the Philippines, ending its American empire.",
     "relatedPolityIds": [
       "spanish-empire",
-      "united-states"
+      "united-states",
+      "cuba"
     ],
     "source": "Wikipedia: Spanish–American War"
   },
@@ -4469,7 +4470,8 @@
     "title": "Assassination in Sarajevo",
     "description": "Archduke Franz Ferdinand, heir to Austria-Hungary, is assassinated, triggering the crisis that starts the First World War.",
     "relatedPolityIds": [
-      "austria-hungary"
+      "austria-hungary",
+      "serbia"
     ],
     "source": "Wikipedia: Assassination of Archduke Franz Ferdinand"
   },
@@ -4562,7 +4564,8 @@
     "title": "Treaty of Lausanne",
     "description": "The treaty recognises the borders of the new Republic of Turkey and includes a population exchange between Greece and Turkey.",
     "relatedPolityIds": [
-      "republic-of-turkey"
+      "republic-of-turkey",
+      "greece-modern"
     ],
     "source": "Wikipedia: Treaty of Lausanne"
   },
@@ -4894,7 +4897,8 @@
     "description": "The partition of British India displaces 12–20 million people. Estimates of deaths range from 200,000 to 2 million.",
     "relatedPolityIds": [
       "india",
-      "british-empire"
+      "british-empire",
+      "pakistan"
     ],
     "source": "Wikipedia: Partition of India (checked 6 Nov 2026)"
   },
@@ -4935,7 +4939,9 @@
     "type": "war",
     "title": "Founding of Israel and the Nakba",
     "description": "The State of Israel is declared and the first Arab–Israeli war follows. Around 750,000 Palestinians are expelled or flee their homes, known to Palestinians as the Nakba (“catastrophe”).",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "israel"
+    ],
     "source": "Wikipedia: Nakba (checked 6 Nov 2026)"
   },
   {
@@ -4976,7 +4982,9 @@
     "relatedPolityIds": [
       "united-states",
       "peoples-republic-of-china",
-      "soviet-union"
+      "soviet-union",
+      "south-korea",
+      "north-korea"
     ],
     "source": "Wikipedia: Korean War (checked 6 Nov 2026)"
   },
@@ -5045,7 +5053,9 @@
     "description": "North Vietnam and the Viet Cong fight South Vietnam and the United States. It ends with the fall of Saigon on 30 April 1975. Vietnamese deaths are estimated at about 1–3 million.",
     "relatedPolityIds": [
       "united-states",
-      "vietnam-modern"
+      "vietnam-modern",
+      "laos",
+      "cambodia"
     ],
     "source": "Wikipedia: Vietnam War (checked 6 Nov 2026)"
   },
@@ -5060,7 +5070,8 @@
     "relatedPolityIds": [
       "british-empire",
       "french-colonial-empire",
-      "modern-egypt"
+      "modern-egypt",
+      "united-kingdom"
     ],
     "source": "Wikipedia: Suez Crisis"
   },
@@ -5098,7 +5109,8 @@
     "title": "Ghana’s independence",
     "description": "Ghana becomes one of the first sub-Saharan African colonies to win independence, under Kwame Nkrumah.",
     "relatedPolityIds": [
-      "british-empire"
+      "british-empire",
+      "ghana"
     ],
     "source": "Wikipedia: Ghana"
   },
@@ -5125,7 +5137,22 @@
     "description": "17 African colonies become independent in a single year: 14 from France, 2 from Britain and 1 from Belgium.",
     "relatedPolityIds": [
       "french-colonial-empire",
-      "british-empire"
+      "british-empire",
+      "senegal",
+      "ivory-coast",
+      "mali-modern",
+      "burkina-faso",
+      "niger",
+      "benin",
+      "togo",
+      "mauritania",
+      "cameroon",
+      "central-african-republic",
+      "chad",
+      "republic-of-congo",
+      "gabon",
+      "nigeria",
+      "somalia"
     ],
     "source": "Wikipedia: Year of Africa (checked 6 Nov 2026)"
   },
@@ -5178,7 +5205,8 @@
     "description": "A 13-day standoff over Soviet missiles in Cuba brings the world close to nuclear war.",
     "relatedPolityIds": [
       "united-states",
-      "soviet-union"
+      "soviet-union",
+      "cuba"
     ],
     "source": "Wikipedia: Cuban Missile Crisis"
   },
@@ -5277,7 +5305,11 @@
     "type": "war",
     "title": "Six-Day War",
     "description": "A war between Israel and Egypt, Syria and Jordan (5–10 June 1967); Israel takes the West Bank, Gaza, Sinai and the Golan Heights.",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "israel",
+      "syria",
+      "jordan"
+    ],
     "source": "Wikipedia: Six-Day War (checked 6 Nov 2026)"
   },
   {
@@ -5327,7 +5359,9 @@
     "title": "1973 oil crisis",
     "description": "An Arab oil embargo quadruples oil prices, shaking the world economy.",
     "relatedPolityIds": [
-      "saudi-arabia"
+      "saudi-arabia",
+      "kuwait",
+      "iraq"
     ],
     "source": "Wikipedia: 1973 oil crisis"
   },
@@ -5340,7 +5374,9 @@
     "type": "war",
     "title": "Cambodian genocide",
     "description": "The Khmer Rouge regime kills an estimated 1.2–2.2 million Cambodians through executions, forced labour and starvation.",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "cambodia"
+    ],
     "source": "Wikipedia: Cambodian genocide (checked 6 Nov 2026)"
   },
   {
@@ -5417,7 +5453,8 @@
     "title": "Chernobyl nuclear disaster",
     "description": "A reactor explosion in Soviet Ukraine releases radioactive material across Europe.",
     "relatedPolityIds": [
-      "soviet-union"
+      "soviet-union",
+      "ukraine"
     ]
   },
   {
@@ -5428,7 +5465,9 @@
     "type": "invention",
     "title": "World Wide Web proposed",
     "description": "Tim Berners-Lee proposes the World Wide Web at CERN near Geneva.",
-    "relatedPolityIds": []
+    "relatedPolityIds": [
+      "switzerland"
+    ]
   },
   {
     "id": "tiananmen-1989",
@@ -5466,7 +5505,13 @@
     "description": "The Soviet Union dissolves into 15 independent states.",
     "relatedPolityIds": [
       "soviet-union",
-      "russian-federation"
+      "russian-federation",
+      "armenia",
+      "azerbaijan",
+      "uzbekistan",
+      "tajikistan",
+      "kyrgyzstan",
+      "turkmenistan"
     ]
   },
   {
@@ -5488,7 +5533,9 @@
     "type": "culture",
     "title": "Oslo Accords",
     "description": "Israel and the Palestine Liberation Organization sign interim agreements (1993, 1995).",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "israel"
+    ],
     "source": "Wikipedia: Oslo Accords (checked 6 Nov 2026)"
   },
   {
@@ -5512,7 +5559,9 @@
     "type": "war",
     "title": "Rwandan genocide",
     "description": "Between April and July 1994, Hutu extremists kill an estimated 500,000–662,000 Tutsi, as well as Twa and moderate Hutu.",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "rwanda"
+    ],
     "source": "Wikipedia: Rwandan genocide (checked 6 Nov 2026)"
   },
   {
@@ -5540,7 +5589,8 @@
     "description": "Britain transfers Hong Kong to the People’s Republic of China, often seen as the symbolic end of the British Empire.",
     "relatedPolityIds": [
       "british-empire",
-      "peoples-republic-of-china"
+      "peoples-republic-of-china",
+      "united-kingdom"
     ]
   },
   {
@@ -5578,7 +5628,8 @@
     "title": "Iraq War",
     "description": "A US-led coalition invades Iraq in March 2003; the conflict lasts until 2011.",
     "relatedPolityIds": [
-      "united-states"
+      "united-states",
+      "iraq"
     ],
     "source": "Wikipedia: Iraq War (checked 6 Nov 2026)"
   },
@@ -5604,7 +5655,9 @@
     "relatedPolityIds": [
       "indonesia",
       "india",
-      "rattanakosin-siam"
+      "rattanakosin-siam",
+      "sri-lanka",
+      "myanmar"
     ]
   },
   {
@@ -5643,7 +5696,11 @@
     "type": "person",
     "title": "Arab Spring",
     "description": "Protests beginning in Tunisia spread across the Arab world, toppling several governments and leading to civil wars in Syria, Libya and Yemen.",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "tunisia",
+      "syria",
+      "yemen"
+    ],
     "source": "Wikipedia: Arab Spring"
   },
   {
@@ -5654,7 +5711,9 @@
     "type": "war",
     "title": "Syrian civil war",
     "description": "Protests against the Assad government in 2011 turn into a long civil war (2011–2024).",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "syria"
+    ],
     "source": "Wikipedia: Syrian civil war (checked 6 Nov 2026)"
   },
   {
@@ -5712,7 +5771,9 @@
     "type": "culture",
     "title": "Brexit",
     "description": "The United Kingdom leaves the European Union on 31 January 2020.",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "united-kingdom"
+    ],
     "source": "Wikipedia: Brexit (checked 6 Nov 2026)"
   },
   {
@@ -5724,7 +5785,8 @@
     "title": "Russian invasion of Ukraine",
     "description": "Russia launches a full-scale invasion of Ukraine, the largest war in Europe since 1945.",
     "relatedPolityIds": [
-      "russian-federation"
+      "russian-federation",
+      "ukraine"
     ],
     "source": "Wikipedia: Russian invasion of Ukraine"
   },
@@ -5762,7 +5824,9 @@
     "type": "war",
     "title": "Gaza war",
     "description": "The war begins on 7 October 2023 with a Hamas-led attack on Israel, followed by an Israeli military campaign in Gaza; it causes very heavy loss of life and a humanitarian crisis.",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "israel"
+    ],
     "source": "Wikipedia: Gaza war (checked 6 Nov 2026)"
   },
   {
@@ -5913,7 +5977,8 @@
     "title": "Falklands War",
     "description": "Argentina occupies the Falkland Islands (Malvinas); Britain retakes them after a ten-week war.",
     "relatedPolityIds": [
-      "argentina"
+      "argentina",
+      "united-kingdom"
     ],
     "source": "Wikipedia: Falklands War"
   },
@@ -5940,7 +6005,8 @@
     "description": "Australian and New Zealand troops land at Gallipoli in a failed campaign; 25 April is remembered as Anzac Day.",
     "relatedPolityIds": [
       "australia",
-      "ottoman-empire"
+      "ottoman-empire",
+      "new-zealand"
     ],
     "source": "Wikipedia: Gallipoli campaign"
   },
@@ -6764,7 +6830,8 @@
     "description": "Māori chiefs and the British Crown sign a treaty whose meaning is still debated.",
     "relatedPolityIds": [
       "maori-aotearoa",
-      "british-empire"
+      "british-empire",
+      "new-zealand"
     ],
     "source": "Wikipedia: Treaty of Waitangi"
   },
@@ -7771,5 +7838,2557 @@
       "early-south-india"
     ],
     "source": "Wikipedia: Adichanallur"
+  },
+  {
+    "id": "partition-of-ireland",
+    "year": 1922,
+    "lat": 53.35,
+    "lng": -6.26,
+    "type": "war",
+    "title": "Irish Free State founded",
+    "description": "After the War of Independence, most of Ireland becomes the Irish Free State; Northern Ireland stays in the UK.",
+    "relatedPolityIds": [
+      "ireland",
+      "united-kingdom"
+    ],
+    "source": "Wikipedia: Irish Free State"
+  },
+  {
+    "id": "nhs-founded",
+    "year": 1948,
+    "lat": 51.51,
+    "lng": -0.13,
+    "type": "culture",
+    "title": "National Health Service founded",
+    "description": "Britain creates free health care for all, paid for by taxes.",
+    "relatedPolityIds": [
+      "united-kingdom"
+    ],
+    "source": "Wikipedia: National Health Service"
+  },
+  {
+    "id": "good-friday-agreement",
+    "year": 1998,
+    "lat": 54.6,
+    "lng": -5.93,
+    "type": "culture",
+    "title": "Good Friday Agreement",
+    "description": "A peace agreement ends three decades of conflict in Northern Ireland.",
+    "relatedPolityIds": [
+      "united-kingdom",
+      "ireland"
+    ],
+    "source": "Wikipedia: Good Friday Agreement"
+  },
+  {
+    "id": "north-sea-flood-1953",
+    "year": 1953,
+    "lat": 51.7,
+    "lng": 4,
+    "type": "disaster",
+    "title": "North Sea flood",
+    "description": "A storm surge floods the Netherlands, Belgium and England, killing over 2,500 people; the Dutch then build the Delta Works.",
+    "relatedPolityIds": [
+      "netherlands",
+      "united-kingdom",
+      "belgium"
+    ],
+    "source": "Wikipedia: North Sea flood of 1953"
+  },
+  {
+    "id": "carnation-revolution",
+    "year": 1974,
+    "lat": 38.72,
+    "lng": -9.14,
+    "type": "culture",
+    "title": "Carnation Revolution",
+    "description": "A nearly bloodless coup ends Portugal’s dictatorship and its colonial wars.",
+    "relatedPolityIds": [
+      "portugal-modern",
+      "portuguese-empire"
+    ],
+    "source": "Wikipedia: Carnation Revolution"
+  },
+  {
+    "id": "polish-independence-1918",
+    "year": 1918,
+    "lat": 52.23,
+    "lng": 21.01,
+    "type": "war",
+    "title": "Poland regains independence",
+    "description": "Poland is reborn after 123 years of partition.",
+    "relatedPolityIds": [
+      "poland-modern"
+    ],
+    "source": "Wikipedia: Second Polish Republic"
+  },
+  {
+    "id": "solidarity-founded",
+    "year": 1980,
+    "lat": 54.35,
+    "lng": 18.65,
+    "type": "culture",
+    "title": "Solidarity founded",
+    "description": "Shipyard workers in Gdańsk form the first independent trade union in the Soviet bloc.",
+    "relatedPolityIds": [
+      "poland-modern"
+    ],
+    "source": "Wikipedia: Solidarity (Polish trade union)"
+  },
+  {
+    "id": "ukraine-independence",
+    "year": 1991,
+    "lat": 50.45,
+    "lng": 30.52,
+    "type": "culture",
+    "title": "Ukraine becomes independent",
+    "description": "Over 90% vote for independence from the Soviet Union.",
+    "relatedPolityIds": [
+      "ukraine",
+      "soviet-union"
+    ],
+    "source": "Wikipedia: 1991 Ukrainian independence referendum"
+  },
+  {
+    "id": "greek-war-of-independence",
+    "year": 1821,
+    "lat": 37.98,
+    "lng": 23.73,
+    "type": "war",
+    "title": "Greek War of Independence",
+    "description": "Greeks revolt against Ottoman rule; independence is recognised in 1830.",
+    "relatedPolityIds": [
+      "greece-modern",
+      "ottoman-empire"
+    ],
+    "source": "Wikipedia: Greek War of Independence"
+  },
+  {
+    "id": "first-modern-olympics",
+    "year": 1896,
+    "lat": 37.97,
+    "lng": 23.74,
+    "type": "culture",
+    "title": "First modern Olympic Games",
+    "description": "The modern Olympics begin in Athens.",
+    "relatedPolityIds": [
+      "greece-modern"
+    ],
+    "source": "Wikipedia: 1896 Summer Olympics"
+  },
+  {
+    "id": "red-cross-founded",
+    "year": 1863,
+    "lat": 46.2,
+    "lng": 6.15,
+    "type": "culture",
+    "title": "Red Cross founded",
+    "description": "Henry Dunant founds the International Committee of the Red Cross in Geneva.",
+    "relatedPolityIds": [
+      "switzerland"
+    ],
+    "source": "Wikipedia: International Committee of the Red Cross"
+  },
+  {
+    "id": "anschluss",
+    "year": 1938,
+    "lat": 48.21,
+    "lng": 16.37,
+    "type": "war",
+    "title": "Anschluss",
+    "description": "Nazi Germany annexes Austria.",
+    "relatedPolityIds": [
+      "austria"
+    ],
+    "source": "Wikipedia: Anschluss"
+  },
+  {
+    "id": "austrian-state-treaty",
+    "year": 1955,
+    "lat": 48.21,
+    "lng": 16.37,
+    "type": "culture",
+    "title": "Austrian State Treaty",
+    "description": "Allied occupation ends and Austria becomes neutral.",
+    "relatedPolityIds": [
+      "austria"
+    ],
+    "source": "Wikipedia: Austrian State Treaty"
+  },
+  {
+    "id": "belgian-revolution",
+    "year": 1830,
+    "lat": 50.85,
+    "lng": 4.35,
+    "type": "war",
+    "title": "Belgian Revolution",
+    "description": "Belgium breaks away from the United Kingdom of the Netherlands.",
+    "relatedPolityIds": [
+      "belgium",
+      "netherlands"
+    ],
+    "source": "Wikipedia: Belgian Revolution"
+  },
+  {
+    "id": "winter-war",
+    "year": 1939,
+    "lat": 61,
+    "lng": 29,
+    "type": "war",
+    "title": "Winter War",
+    "description": "Finland resists a Soviet invasion (1939–40) but loses part of Karelia.",
+    "relatedPolityIds": [
+      "finland",
+      "soviet-union"
+    ],
+    "source": "Wikipedia: Winter War"
+  },
+  {
+    "id": "iceland-republic",
+    "year": 1944,
+    "lat": 64.26,
+    "lng": -21.13,
+    "type": "culture",
+    "title": "Iceland becomes a republic",
+    "description": "Iceland ends its union with Denmark.",
+    "relatedPolityIds": [
+      "iceland",
+      "kingdom-of-denmark"
+    ],
+    "source": "Wikipedia: Iceland"
+  },
+  {
+    "id": "hungarian-revolution-1956",
+    "year": 1956,
+    "lat": 47.5,
+    "lng": 19.04,
+    "type": "war",
+    "title": "Hungarian Revolution",
+    "description": "A national uprising is crushed by Soviet troops.",
+    "relatedPolityIds": [
+      "hungary",
+      "soviet-union"
+    ],
+    "source": "Wikipedia: Hungarian Revolution of 1956"
+  },
+  {
+    "id": "treaty-of-trianon",
+    "year": 1920,
+    "lat": 48.8,
+    "lng": 2.1,
+    "type": "war",
+    "title": "Treaty of Trianon",
+    "description": "Hungary loses about two-thirds of its former territory.",
+    "relatedPolityIds": [
+      "hungary",
+      "romania",
+      "czechoslovakia-czechia",
+      "yugoslavia"
+    ],
+    "source": "Wikipedia: Treaty of Trianon"
+  },
+  {
+    "id": "romanian-revolution",
+    "year": 1989,
+    "lat": 44.43,
+    "lng": 26.1,
+    "type": "war",
+    "title": "Romanian Revolution",
+    "description": "A violent uprising overthrows Nicolae Ceaușescu.",
+    "relatedPolityIds": [
+      "romania"
+    ],
+    "source": "Wikipedia: Romanian revolution"
+  },
+  {
+    "id": "union-of-principalities",
+    "year": 1859,
+    "lat": 44.43,
+    "lng": 26.1,
+    "type": "culture",
+    "title": "Union of Wallachia and Moldavia",
+    "description": "The two principalities unite, forming Romania.",
+    "relatedPolityIds": [
+      "romania"
+    ],
+    "source": "Wikipedia: United Principalities"
+  },
+  {
+    "id": "liberation-of-bulgaria",
+    "year": 1878,
+    "lat": 42.7,
+    "lng": 23.32,
+    "type": "war",
+    "title": "Liberation of Bulgaria",
+    "description": "After the Russo-Turkish War, Bulgaria becomes autonomous.",
+    "relatedPolityIds": [
+      "bulgaria",
+      "ottoman-empire",
+      "russian-empire"
+    ],
+    "source": "Wikipedia: Principality of Bulgaria"
+  },
+  {
+    "id": "prague-spring",
+    "year": 1968,
+    "lat": 50.09,
+    "lng": 14.42,
+    "type": "culture",
+    "title": "Prague Spring",
+    "description": "Reforms in Czechoslovakia are crushed by a Warsaw Pact invasion.",
+    "relatedPolityIds": [
+      "czechoslovakia-czechia",
+      "soviet-union"
+    ],
+    "source": "Wikipedia: Prague Spring"
+  },
+  {
+    "id": "velvet-revolution",
+    "year": 1989,
+    "lat": 50.09,
+    "lng": 14.42,
+    "type": "culture",
+    "title": "Velvet Revolution",
+    "description": "Peaceful protests end communist rule in Czechoslovakia.",
+    "relatedPolityIds": [
+      "czechoslovakia-czechia"
+    ],
+    "source": "Wikipedia: Velvet Revolution"
+  },
+  {
+    "id": "velvet-divorce",
+    "year": 1993,
+    "lat": 48.15,
+    "lng": 17.11,
+    "type": "culture",
+    "title": "Czechoslovakia splits peacefully",
+    "description": "Czechia and Slovakia become separate countries.",
+    "relatedPolityIds": [
+      "czechoslovakia-czechia",
+      "slovakia"
+    ],
+    "source": "Wikipedia: Dissolution of Czechoslovakia"
+  },
+  {
+    "id": "yugoslavia-founded",
+    "year": 1918,
+    "lat": 44.82,
+    "lng": 20.46,
+    "type": "culture",
+    "title": "Kingdom of Serbs, Croats and Slovenes",
+    "description": "South Slav lands unite in a new kingdom, later called Yugoslavia.",
+    "relatedPolityIds": [
+      "yugoslavia",
+      "serbia"
+    ],
+    "source": "Wikipedia: Kingdom of Yugoslavia"
+  },
+  {
+    "id": "tito-stalin-split",
+    "year": 1948,
+    "lat": 44.82,
+    "lng": 20.46,
+    "type": "culture",
+    "title": "Tito–Stalin split",
+    "description": "Yugoslavia breaks with the Soviet Union and goes its own way.",
+    "relatedPolityIds": [
+      "yugoslavia",
+      "soviet-union"
+    ],
+    "source": "Wikipedia: Tito–Stalin split"
+  },
+  {
+    "id": "breakup-of-yugoslavia",
+    "year": 1991,
+    "lat": 45.81,
+    "lng": 15.98,
+    "type": "war",
+    "title": "Yugoslav Wars begin",
+    "description": "Slovenia and Croatia declare independence; wars follow across the region until 2001.",
+    "relatedPolityIds": [
+      "yugoslavia",
+      "croatia",
+      "slovenia",
+      "serbia"
+    ],
+    "source": "Wikipedia: Yugoslav Wars"
+  },
+  {
+    "id": "srebrenica-genocide",
+    "year": 1995,
+    "lat": 44.1,
+    "lng": 19.3,
+    "type": "war",
+    "title": "Srebrenica genocide",
+    "description": "Bosnian Serb forces kill about 8,000 Bosniak men and boys; international courts ruled it genocide.",
+    "relatedPolityIds": [
+      "bosnia-and-herzegovina"
+    ],
+    "source": "Wikipedia: Srebrenica massacre"
+  },
+  {
+    "id": "dayton-agreement",
+    "year": 1995,
+    "lat": 39.78,
+    "lng": -84.06,
+    "type": "culture",
+    "title": "Dayton Agreement",
+    "description": "A peace deal ends the Bosnian War.",
+    "relatedPolityIds": [
+      "bosnia-and-herzegovina",
+      "serbia",
+      "croatia"
+    ],
+    "source": "Wikipedia: Dayton Agreement"
+  },
+  {
+    "id": "montenegro-independence",
+    "year": 2006,
+    "lat": 42.44,
+    "lng": 19.26,
+    "type": "culture",
+    "title": "Montenegro becomes independent",
+    "description": "A referendum ends the union with Serbia.",
+    "relatedPolityIds": [
+      "montenegro",
+      "serbia"
+    ],
+    "source": "Wikipedia: Montenegrin independence referendum"
+  },
+  {
+    "id": "prespa-agreement",
+    "year": 2018,
+    "lat": 40.95,
+    "lng": 21.05,
+    "type": "culture",
+    "title": "Prespa Agreement",
+    "description": "Macedonia agrees to be called North Macedonia, ending a long dispute with Greece.",
+    "relatedPolityIds": [
+      "north-macedonia",
+      "greece-modern"
+    ],
+    "source": "Wikipedia: Prespa agreement"
+  },
+  {
+    "id": "albanian-independence",
+    "year": 1912,
+    "lat": 40.47,
+    "lng": 19.49,
+    "type": "culture",
+    "title": "Albanian independence",
+    "description": "Albania declares independence from the Ottoman Empire at Vlorë.",
+    "relatedPolityIds": [
+      "albania",
+      "ottoman-empire"
+    ],
+    "source": "Wikipedia: Albanian Declaration of Independence"
+  },
+  {
+    "id": "baltic-way",
+    "year": 1989,
+    "lat": 56.95,
+    "lng": 24.1,
+    "type": "culture",
+    "title": "The Baltic Way",
+    "description": "About two million people join hands across Estonia, Latvia and Lithuania to call for independence.",
+    "relatedPolityIds": [
+      "estonia",
+      "latvia",
+      "lithuania"
+    ],
+    "source": "Wikipedia: Baltic Way"
+  },
+  {
+    "id": "baltic-annexation",
+    "year": 1940,
+    "lat": 54.69,
+    "lng": 25.28,
+    "type": "war",
+    "title": "Soviet annexation of the Baltic states",
+    "description": "The USSR occupies and annexes Estonia, Latvia and Lithuania.",
+    "relatedPolityIds": [
+      "estonia",
+      "latvia",
+      "lithuania",
+      "soviet-union"
+    ],
+    "source": "Wikipedia: Occupation of the Baltic states"
+  },
+  {
+    "id": "belovezha-accords",
+    "year": 1991,
+    "lat": 52.57,
+    "lng": 23.8,
+    "type": "culture",
+    "title": "Belovezha Accords",
+    "description": "Leaders of Russia, Ukraine and Belarus agree to dissolve the USSR.",
+    "relatedPolityIds": [
+      "belarus",
+      "ukraine",
+      "russian-federation"
+    ],
+    "source": "Wikipedia: Belovezha Accords"
+  },
+  {
+    "id": "transnistria-war",
+    "year": 1992,
+    "lat": 46.84,
+    "lng": 29.6,
+    "type": "war",
+    "title": "Transnistria War",
+    "description": "A short war leaves Transnistria outside Moldova’s control.",
+    "relatedPolityIds": [
+      "moldova"
+    ],
+    "source": "Wikipedia: Transnistria War"
+  },
+  {
+    "id": "russo-georgian-war",
+    "year": 2008,
+    "lat": 42.23,
+    "lng": 43.97,
+    "type": "war",
+    "title": "Russo-Georgian War",
+    "description": "A five-day war over South Ossetia.",
+    "relatedPolityIds": [
+      "georgia",
+      "russian-federation"
+    ],
+    "source": "Wikipedia: Russo-Georgian War"
+  },
+  {
+    "id": "cyprus-1974",
+    "year": 1974,
+    "lat": 35.17,
+    "lng": 33.36,
+    "type": "war",
+    "title": "Division of Cyprus",
+    "description": "After a coup backed by Greece’s junta, Turkey invades; the island has been divided since.",
+    "relatedPolityIds": [
+      "cyprus",
+      "republic-of-turkey"
+    ],
+    "source": "Wikipedia: Turkish invasion of Cyprus"
+  },
+  {
+    "id": "siege-of-malta-1940",
+    "year": 1940,
+    "lat": 35.9,
+    "lng": 14.51,
+    "type": "war",
+    "title": "Siege of Malta",
+    "description": "Axis bombing of Malta (1940–42); the island is awarded the George Cross.",
+    "relatedPolityIds": [
+      "british-empire"
+    ],
+    "source": "Wikipedia: Siege of Malta (World War II)"
+  },
+  {
+    "id": "luxembourg-independence",
+    "year": 1839,
+    "lat": 49.61,
+    "lng": 6.13,
+    "type": "culture",
+    "title": "Luxembourg’s independence confirmed",
+    "description": "The Treaty of London recognises Luxembourg as independent.",
+    "relatedPolityIds": [
+      "luxembourg"
+    ],
+    "source": "Wikipedia: Treaty of London (1839)"
+  },
+  {
+    "id": "liechtenstein-sovereignty",
+    "year": 1806,
+    "lat": 47.14,
+    "lng": 9.52,
+    "type": "culture",
+    "title": "Liechtenstein becomes sovereign",
+    "description": "Liechtenstein becomes a sovereign state in Napoleon’s Confederation of the Rhine.",
+    "relatedPolityIds": [
+      "liechtenstein"
+    ],
+    "source": "Wikipedia: Liechtenstein"
+  },
+  {
+    "id": "andorra-pareatges",
+    "year": 1278,
+    "lat": 42.51,
+    "lng": 1.52,
+    "type": "culture",
+    "title": "Andorra’s co-princes",
+    "description": "An agreement between the Count of Foix and the Bishop of Urgell creates Andorra’s shared rule.",
+    "relatedPolityIds": [
+      "andorra"
+    ],
+    "source": "Wikipedia: Andorra"
+  },
+  {
+    "id": "malta-independence",
+    "year": 1964,
+    "lat": 35.9,
+    "lng": 14.51,
+    "type": "culture",
+    "title": "Malta becomes independent",
+    "description": "Malta gains independence from Britain; it becomes a republic in 1974.",
+    "relatedPolityIds": [
+      "malta"
+    ],
+    "source": "Wikipedia: Malta"
+  },
+  {
+    "id": "guinea-says-no",
+    "year": 1958,
+    "lat": 9.64,
+    "lng": -13.68,
+    "type": "culture",
+    "title": "Guinea votes “no” to France",
+    "description": "Guinea rejects the French Community and becomes independent at once.",
+    "relatedPolityIds": [
+      "guinea"
+    ],
+    "source": "Wikipedia: Guinea"
+  },
+  {
+    "id": "mali-conflict-2012",
+    "year": 2012,
+    "lat": 16.77,
+    "lng": -3,
+    "type": "war",
+    "title": "Mali crisis",
+    "description": "A Tuareg rebellion and jihadist groups seize northern Mali; French troops intervene in 2013.",
+    "relatedPolityIds": [
+      "mali-modern"
+    ],
+    "source": "Wikipedia: Mali War"
+  },
+  {
+    "id": "sankara-revolution",
+    "year": 1983,
+    "lat": 12.37,
+    "lng": -1.53,
+    "type": "culture",
+    "title": "Thomas Sankara takes power",
+    "description": "Sankara launches reforms and renames Upper Volta “Burkina Faso” (1984).",
+    "relatedPolityIds": [
+      "burkina-faso"
+    ],
+    "source": "Wikipedia: Thomas Sankara"
+  },
+  {
+    "id": "niger-coup-2023",
+    "year": 2023,
+    "lat": 13.51,
+    "lng": 2.11,
+    "type": "war",
+    "title": "Coup in Niger",
+    "description": "The army removes the elected president; Niger turns away from France.",
+    "relatedPolityIds": [
+      "niger"
+    ],
+    "source": "Wikipedia: 2023 Nigerien coup d’état"
+  },
+  {
+    "id": "benin-national-conference",
+    "year": 1990,
+    "lat": 6.5,
+    "lng": 2.63,
+    "type": "culture",
+    "title": "Benin’s National Conference",
+    "description": "A national conference peacefully ends military-Marxist rule; free elections follow in 1991.",
+    "relatedPolityIds": [
+      "benin"
+    ],
+    "source": "Wikipedia: Benin"
+  },
+  {
+    "id": "olympio-assassinated",
+    "year": 1963,
+    "lat": 6.13,
+    "lng": 1.22,
+    "type": "war",
+    "title": "Togo’s president assassinated",
+    "description": "Sylvanus Olympio is killed in Africa’s first post-independence coup.",
+    "relatedPolityIds": [
+      "togo"
+    ],
+    "source": "Wikipedia: Sylvanus Olympio"
+  },
+  {
+    "id": "sierra-leone-civil-war",
+    "year": 1991,
+    "lat": 8.48,
+    "lng": -13.23,
+    "type": "war",
+    "title": "Sierra Leone Civil War",
+    "description": "A brutal war (1991–2002) fuelled by diamonds.",
+    "relatedPolityIds": [
+      "sierra-leone"
+    ],
+    "source": "Wikipedia: Sierra Leone Civil War"
+  },
+  {
+    "id": "liberia-independence",
+    "year": 1847,
+    "lat": 6.3,
+    "lng": -10.8,
+    "type": "culture",
+    "title": "Liberia declares independence",
+    "description": "Liberia becomes Africa’s first independent republic.",
+    "relatedPolityIds": [
+      "liberia"
+    ],
+    "source": "Wikipedia: Liberia"
+  },
+  {
+    "id": "sirleaf-elected",
+    "year": 2006,
+    "lat": 6.3,
+    "lng": -10.8,
+    "type": "culture",
+    "title": "Ellen Johnson Sirleaf becomes president",
+    "description": "Africa’s first elected woman head of state.",
+    "relatedPolityIds": [
+      "liberia"
+    ],
+    "source": "Wikipedia: Ellen Johnson Sirleaf"
+  },
+  {
+    "id": "ebola-west-africa",
+    "year": 2014,
+    "lat": 8.5,
+    "lng": -11.5,
+    "type": "disaster",
+    "title": "West African Ebola epidemic",
+    "description": "Ebola kills over 11,000 people in Guinea, Liberia and Sierra Leone (2014–16).",
+    "relatedPolityIds": [
+      "guinea",
+      "liberia",
+      "sierra-leone"
+    ],
+    "source": "Wikipedia: Western African Ebola epidemic"
+  },
+  {
+    "id": "gambia-independence",
+    "year": 1965,
+    "lat": 13.45,
+    "lng": -16.58,
+    "type": "culture",
+    "title": "The Gambia becomes independent",
+    "description": "The Gambia gains independence from Britain.",
+    "relatedPolityIds": [
+      "gambia"
+    ],
+    "source": "Wikipedia: The Gambia"
+  },
+  {
+    "id": "guinea-bissau-independence",
+    "year": 1973,
+    "lat": 11.86,
+    "lng": -15.6,
+    "type": "war",
+    "title": "Guinea-Bissau declares independence",
+    "description": "PAIGC fighters declare independence; Portugal recognises it in 1974.",
+    "relatedPolityIds": [
+      "guinea-bissau",
+      "portuguese-empire"
+    ],
+    "source": "Wikipedia: Guinea-Bissau War of Independence"
+  },
+  {
+    "id": "mauritania-abolition",
+    "year": 1981,
+    "lat": 18.09,
+    "lng": -15.98,
+    "type": "culture",
+    "title": "Mauritania abolishes slavery",
+    "description": "The last country to abolish slavery by law; it became a crime in 2007.",
+    "relatedPolityIds": [
+      "mauritania"
+    ],
+    "source": "Wikipedia: Slavery in Mauritania"
+  },
+  {
+    "id": "lake-nyos",
+    "year": 1986,
+    "lat": 6.44,
+    "lng": 10.3,
+    "type": "disaster",
+    "title": "Lake Nyos disaster",
+    "description": "A cloud of carbon dioxide from the lake suffocates about 1,700 people.",
+    "relatedPolityIds": [
+      "cameroon"
+    ],
+    "source": "Wikipedia: Lake Nyos disaster"
+  },
+  {
+    "id": "bokassa-coronation",
+    "year": 1977,
+    "lat": 4.39,
+    "lng": 18.56,
+    "type": "culture",
+    "title": "Bokassa crowns himself emperor",
+    "description": "Jean-Bédel Bokassa holds a lavish coronation.",
+    "relatedPolityIds": [
+      "central-african-republic"
+    ],
+    "source": "Wikipedia: Central African Empire"
+  },
+  {
+    "id": "chad-libya-war",
+    "year": 1978,
+    "lat": 17,
+    "lng": 19,
+    "type": "war",
+    "title": "Chadian–Libyan War",
+    "description": "Chad defeats Libyan forces by 1987 in the “Toyota War”.",
+    "relatedPolityIds": [
+      "chad",
+      "libya"
+    ],
+    "source": "Wikipedia: Chadian–Libyan war"
+  },
+  {
+    "id": "equatorial-guinea-independence",
+    "year": 1968,
+    "lat": 3.75,
+    "lng": 8.78,
+    "type": "culture",
+    "title": "Equatorial Guinea becomes independent",
+    "description": "Independence from Spain; a brutal dictatorship follows.",
+    "relatedPolityIds": [
+      "equatorial-guinea"
+    ],
+    "source": "Wikipedia: Equatorial Guinea"
+  },
+  {
+    "id": "mau-mau-uprising",
+    "year": 1952,
+    "lat": -0.42,
+    "lng": 36.95,
+    "type": "war",
+    "title": "Mau Mau uprising",
+    "description": "An armed rebellion against British rule in Kenya (1952–60).",
+    "relatedPolityIds": [
+      "kenya",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Mau Mau rebellion"
+  },
+  {
+    "id": "kenya-independence",
+    "year": 1963,
+    "lat": -1.29,
+    "lng": 36.82,
+    "type": "culture",
+    "title": "Kenya becomes independent",
+    "description": "Jomo Kenyatta leads Kenya to independence.",
+    "relatedPolityIds": [
+      "kenya"
+    ],
+    "source": "Wikipedia: Kenya"
+  },
+  {
+    "id": "idi-amin-coup",
+    "year": 1971,
+    "lat": 0.35,
+    "lng": 32.58,
+    "type": "war",
+    "title": "Idi Amin seizes power",
+    "description": "Amin’s rule (1971–79) kills an estimated 100,000–500,000 people.",
+    "relatedPolityIds": [
+      "uganda"
+    ],
+    "source": "Wikipedia: Idi Amin"
+  },
+  {
+    "id": "burundi-civil-war",
+    "year": 1993,
+    "lat": -3.38,
+    "lng": 29.36,
+    "type": "war",
+    "title": "Burundian Civil War",
+    "description": "War between Hutu and Tutsi groups (1993–2005).",
+    "relatedPolityIds": [
+      "burundi"
+    ],
+    "source": "Wikipedia: Burundian Civil War"
+  },
+  {
+    "id": "ethiopian-revolution",
+    "year": 1974,
+    "lat": 9.03,
+    "lng": 38.74,
+    "type": "war",
+    "title": "Ethiopian Revolution",
+    "description": "Emperor Haile Selassie is overthrown by the Derg.",
+    "relatedPolityIds": [
+      "ethiopia-modern",
+      "ethiopian-empire"
+    ],
+    "source": "Wikipedia: Ethiopian Revolution"
+  },
+  {
+    "id": "ethiopia-famine-1984",
+    "year": 1984,
+    "lat": 13.5,
+    "lng": 39.5,
+    "type": "disaster",
+    "title": "Ethiopian famine",
+    "description": "Famine (1983–85) kills hundreds of thousands; Live Aid raises money.",
+    "relatedPolityIds": [
+      "ethiopia-modern"
+    ],
+    "source": "Wikipedia: 1983–1985 famine in Ethiopia"
+  },
+  {
+    "id": "somalia-independence",
+    "year": 1960,
+    "lat": 2.04,
+    "lng": 45.32,
+    "type": "culture",
+    "title": "Somalia is formed",
+    "description": "British and Italian Somaliland unite as Somalia.",
+    "relatedPolityIds": [
+      "somalia"
+    ],
+    "source": "Wikipedia: Somali Republic"
+  },
+  {
+    "id": "somali-civil-war",
+    "year": 1991,
+    "lat": 2.04,
+    "lng": 45.32,
+    "type": "war",
+    "title": "Somali Civil War",
+    "description": "The government collapses; war and famine follow.",
+    "relatedPolityIds": [
+      "somalia"
+    ],
+    "source": "Wikipedia: Somali Civil War"
+  },
+  {
+    "id": "djibouti-independence",
+    "year": 1977,
+    "lat": 11.59,
+    "lng": 43.15,
+    "type": "culture",
+    "title": "Djibouti becomes independent",
+    "description": "Independence from France.",
+    "relatedPolityIds": [
+      "djibouti"
+    ],
+    "source": "Wikipedia: Djibouti"
+  },
+  {
+    "id": "tunisia-independence",
+    "year": 1956,
+    "lat": 36.8,
+    "lng": 10.17,
+    "type": "culture",
+    "title": "Tunisia becomes independent",
+    "description": "Independence from France under Habib Bourguiba.",
+    "relatedPolityIds": [
+      "tunisia",
+      "french-colonial-empire"
+    ],
+    "source": "Wikipedia: Tunisia"
+  },
+  {
+    "id": "zambia-independence",
+    "year": 1964,
+    "lat": -15.42,
+    "lng": 28.28,
+    "type": "culture",
+    "title": "Zambia becomes independent",
+    "description": "Northern Rhodesia becomes Zambia under Kenneth Kaunda.",
+    "relatedPolityIds": [
+      "zambia",
+      "malawi"
+    ],
+    "source": "Wikipedia: Zambia"
+  },
+  {
+    "id": "rhodesia-udi",
+    "year": 1965,
+    "lat": -17.83,
+    "lng": 31.05,
+    "type": "war",
+    "title": "Rhodesia declares independence",
+    "description": "The white-minority government breaks from Britain; a war follows.",
+    "relatedPolityIds": [
+      "zimbabwe"
+    ],
+    "source": "Wikipedia: Rhodesia"
+  },
+  {
+    "id": "zimbabwe-independence",
+    "year": 1980,
+    "lat": -17.83,
+    "lng": 31.05,
+    "type": "culture",
+    "title": "Zimbabwe is born",
+    "description": "Majority rule and independence under Robert Mugabe.",
+    "relatedPolityIds": [
+      "zimbabwe"
+    ],
+    "source": "Wikipedia: Zimbabwe"
+  },
+  {
+    "id": "mozambique-independence",
+    "year": 1975,
+    "lat": -25.97,
+    "lng": 32.57,
+    "type": "culture",
+    "title": "Mozambique becomes independent",
+    "description": "FRELIMO leads Mozambique to independence from Portugal.",
+    "relatedPolityIds": [
+      "mozambique",
+      "portuguese-empire"
+    ],
+    "source": "Wikipedia: Mozambique"
+  },
+  {
+    "id": "botswana-diamonds",
+    "year": 1967,
+    "lat": -21.6,
+    "lng": 25.3,
+    "type": "trade",
+    "title": "Diamonds found in Botswana",
+    "description": "The Orapa find begins Botswana’s rise.",
+    "relatedPolityIds": [
+      "botswana"
+    ],
+    "source": "Wikipedia: Diamond industry in Botswana"
+  },
+  {
+    "id": "namibia-independence",
+    "year": 1990,
+    "lat": -22.56,
+    "lng": 17.08,
+    "type": "culture",
+    "title": "Namibia becomes independent",
+    "description": "Independence from South Africa.",
+    "relatedPolityIds": [
+      "namibia",
+      "south-africa"
+    ],
+    "source": "Wikipedia: Namibia"
+  },
+  {
+    "id": "lesotho-independence",
+    "year": 1966,
+    "lat": -29.31,
+    "lng": 27.48,
+    "type": "culture",
+    "title": "Lesotho becomes independent",
+    "description": "Basutoland becomes the Kingdom of Lesotho.",
+    "relatedPolityIds": [
+      "lesotho",
+      "botswana"
+    ],
+    "source": "Wikipedia: Lesotho"
+  },
+  {
+    "id": "eswatini-independence",
+    "year": 1968,
+    "lat": -26.31,
+    "lng": 31.13,
+    "type": "culture",
+    "title": "Swaziland becomes independent",
+    "description": "Independence from Britain under King Sobhuza II.",
+    "relatedPolityIds": [
+      "eswatini"
+    ],
+    "source": "Wikipedia: Eswatini"
+  },
+  {
+    "id": "eritrea-independence",
+    "year": 1993,
+    "lat": 15.32,
+    "lng": 38.93,
+    "type": "culture",
+    "title": "Eritrea becomes independent",
+    "description": "After a 30-year war, Eritrea votes for independence from Ethiopia.",
+    "relatedPolityIds": [
+      "eritrea",
+      "ethiopia-modern"
+    ],
+    "source": "Wikipedia: Eritrean War of Independence"
+  },
+  {
+    "id": "ecuador-leaves-gran-colombia",
+    "year": 1830,
+    "lat": -0.18,
+    "lng": -78.47,
+    "type": "culture",
+    "title": "Ecuador becomes independent",
+    "description": "Ecuador leaves Gran Colombia under Juan José Flores.",
+    "relatedPolityIds": [
+      "ecuador",
+      "colombia"
+    ],
+    "source": "Wikipedia: Ecuador"
+  },
+  {
+    "id": "ecuador-peru-war-1941",
+    "year": 1941,
+    "lat": -3.5,
+    "lng": -80,
+    "type": "war",
+    "title": "Ecuadorian–Peruvian War",
+    "description": "Peru defeats Ecuador; the 1942 Rio Protocol gives Peru much of the disputed Amazon.",
+    "relatedPolityIds": [
+      "ecuador",
+      "peru"
+    ],
+    "source": "Wikipedia: Ecuadorian–Peruvian War"
+  },
+  {
+    "id": "ecuador-dollarisation",
+    "year": 2000,
+    "lat": -0.18,
+    "lng": -78.47,
+    "type": "culture",
+    "title": "Ecuador adopts the US dollar",
+    "description": "After a banking crisis, Ecuador replaces the sucre with the dollar.",
+    "relatedPolityIds": [
+      "ecuador"
+    ],
+    "source": "Wikipedia: Dollarization"
+  },
+  {
+    "id": "uruguay-independence",
+    "year": 1828,
+    "lat": -34.9,
+    "lng": -56.16,
+    "type": "culture",
+    "title": "Uruguay becomes independent",
+    "description": "The Treaty of Montevideo creates Uruguay as a buffer between Brazil and Argentina.",
+    "relatedPolityIds": [
+      "uruguay",
+      "empire-of-brazil",
+      "argentina"
+    ],
+    "source": "Wikipedia: Treaty of Montevideo (1828)"
+  },
+  {
+    "id": "first-world-cup",
+    "year": 1930,
+    "lat": -34.89,
+    "lng": -56.15,
+    "type": "culture",
+    "title": "First FIFA World Cup",
+    "description": "Uruguay hosts and wins the first football World Cup.",
+    "relatedPolityIds": [
+      "uruguay"
+    ],
+    "source": "Wikipedia: 1930 FIFA World Cup"
+  },
+  {
+    "id": "uruguay-dictatorship",
+    "year": 1973,
+    "lat": -34.9,
+    "lng": -56.16,
+    "type": "war",
+    "title": "Coup in Uruguay",
+    "description": "The military takes power; dictatorship lasts until 1985.",
+    "relatedPolityIds": [
+      "uruguay"
+    ],
+    "source": "Wikipedia: 1973 Uruguayan coup d’état"
+  },
+  {
+    "id": "central-america-independence",
+    "year": 1821,
+    "lat": 14.63,
+    "lng": -90.51,
+    "type": "culture",
+    "title": "Central America declares independence",
+    "description": "Guatemala City leaders declare independence from Spain; the federation breaks up in 1838–41.",
+    "relatedPolityIds": [
+      "guatemala",
+      "spanish-empire"
+    ],
+    "source": "Wikipedia: Act of Independence of Central America"
+  },
+  {
+    "id": "guatemala-coup-1954",
+    "year": 1954,
+    "lat": 14.63,
+    "lng": -90.51,
+    "type": "war",
+    "title": "Guatemalan coup",
+    "description": "A CIA-backed coup overthrows President Jacobo Árbenz after his land reform.",
+    "relatedPolityIds": [
+      "guatemala",
+      "united-states"
+    ],
+    "source": "Wikipedia: 1954 Guatemalan coup d’état"
+  },
+  {
+    "id": "guatemalan-civil-war",
+    "year": 1960,
+    "lat": 15.5,
+    "lng": -91,
+    "type": "war",
+    "title": "Guatemalan Civil War",
+    "description": "A 36-year war (1960–96); about 200,000 killed, mostly Maya, including acts judged genocide.",
+    "relatedPolityIds": [
+      "guatemala"
+    ],
+    "source": "Wikipedia: Guatemalan Civil War"
+  },
+  {
+    "id": "football-war",
+    "year": 1969,
+    "lat": 14,
+    "lng": -87.5,
+    "type": "war",
+    "title": "Football War",
+    "description": "A four-day war between El Salvador and Honduras, sparked by migration tensions and World Cup qualifiers.",
+    "relatedPolityIds": [
+      "el-salvador",
+      "honduras"
+    ],
+    "source": "Wikipedia: Football War"
+  },
+  {
+    "id": "hurricane-mitch",
+    "year": 1998,
+    "lat": 15,
+    "lng": -86.5,
+    "type": "disaster",
+    "title": "Hurricane Mitch",
+    "description": "Floods and landslides kill about 11,000 people in Central America, most in Honduras and Nicaragua.",
+    "relatedPolityIds": [
+      "honduras",
+      "nicaragua"
+    ],
+    "source": "Wikipedia: Hurricane Mitch"
+  },
+  {
+    "id": "nicaraguan-revolution",
+    "year": 1979,
+    "lat": 12.13,
+    "lng": -86.25,
+    "type": "war",
+    "title": "Nicaraguan Revolution",
+    "description": "The Sandinistas overthrow the Somoza dictatorship; a war with US-backed Contras follows.",
+    "relatedPolityIds": [
+      "nicaragua"
+    ],
+    "source": "Wikipedia: Nicaraguan Revolution"
+  },
+  {
+    "id": "salvadoran-civil-war",
+    "year": 1980,
+    "lat": 13.69,
+    "lng": -89.19,
+    "type": "war",
+    "title": "Salvadoran Civil War",
+    "description": "War between the army and FMLN guerrillas (1980–92); about 75,000 killed.",
+    "relatedPolityIds": [
+      "el-salvador"
+    ],
+    "source": "Wikipedia: Salvadoran Civil War"
+  },
+  {
+    "id": "romero-assassinated",
+    "year": 1980,
+    "lat": 13.7,
+    "lng": -89.21,
+    "type": "war",
+    "title": "Archbishop Óscar Romero murdered",
+    "description": "Shot while saying Mass after speaking against army killings.",
+    "relatedPolityIds": [
+      "el-salvador"
+    ],
+    "source": "Wikipedia: Óscar Romero"
+  },
+  {
+    "id": "costa-rica-abolishes-army",
+    "year": 1948,
+    "lat": 9.93,
+    "lng": -84.09,
+    "type": "culture",
+    "title": "Costa Rica abolishes its army",
+    "description": "After a short civil war, José Figueres abolishes the army.",
+    "relatedPolityIds": [
+      "costa-rica"
+    ],
+    "source": "Wikipedia: Military of Costa Rica"
+  },
+  {
+    "id": "panama-independence",
+    "year": 1903,
+    "lat": 8.98,
+    "lng": -79.52,
+    "type": "culture",
+    "title": "Panama separates from Colombia",
+    "description": "With US backing, Panama becomes independent and signs a canal treaty.",
+    "relatedPolityIds": [
+      "panama",
+      "colombia",
+      "united-states"
+    ],
+    "source": "Wikipedia: Separation of Panama from Colombia"
+  },
+  {
+    "id": "panama-canal-opens",
+    "year": 1914,
+    "lat": 9.08,
+    "lng": -79.68,
+    "type": "culture",
+    "title": "Panama Canal opens",
+    "description": "The US-built canal links the Atlantic and Pacific Oceans.",
+    "relatedPolityIds": [
+      "panama",
+      "united-states"
+    ],
+    "source": "Wikipedia: Panama Canal"
+  },
+  {
+    "id": "us-invasion-of-panama",
+    "year": 1989,
+    "lat": 8.98,
+    "lng": -79.52,
+    "type": "war",
+    "title": "US invasion of Panama",
+    "description": "US troops remove Manuel Noriega.",
+    "relatedPolityIds": [
+      "panama",
+      "united-states"
+    ],
+    "source": "Wikipedia: United States invasion of Panama"
+  },
+  {
+    "id": "panama-canal-handover",
+    "year": 1999,
+    "lat": 9.08,
+    "lng": -79.68,
+    "type": "culture",
+    "title": "Panama takes over the canal",
+    "description": "The United States hands the canal to Panama.",
+    "relatedPolityIds": [
+      "panama",
+      "united-states"
+    ],
+    "source": "Wikipedia: Torrijos–Carter Treaties"
+  },
+  {
+    "id": "cuban-revolution",
+    "year": 1959,
+    "lat": 23.11,
+    "lng": -82.37,
+    "type": "war",
+    "title": "Cuban Revolution",
+    "description": "Fidel Castro’s rebels overthrow Batista; Cuba becomes a communist state.",
+    "relatedPolityIds": [
+      "cuba"
+    ],
+    "source": "Wikipedia: Cuban Revolution"
+  },
+  {
+    "id": "bay-of-pigs",
+    "year": 1961,
+    "lat": 22.07,
+    "lng": -81.17,
+    "type": "war",
+    "title": "Bay of Pigs invasion",
+    "description": "A CIA-backed exile force fails to overthrow Castro.",
+    "relatedPolityIds": [
+      "cuba",
+      "united-states"
+    ],
+    "source": "Wikipedia: Bay of Pigs Invasion"
+  },
+  {
+    "id": "haiti-independence",
+    "year": 1804,
+    "lat": 18.54,
+    "lng": -72.34,
+    "type": "culture",
+    "title": "Haiti declares independence",
+    "description": "Jean-Jacques Dessalines declares Haiti the first free Black republic.",
+    "relatedPolityIds": [
+      "haiti"
+    ],
+    "source": "Wikipedia: Haitian Declaration of Independence"
+  },
+  {
+    "id": "us-occupation-of-haiti",
+    "year": 1915,
+    "lat": 18.54,
+    "lng": -72.34,
+    "type": "war",
+    "title": "US occupation of Haiti",
+    "description": "US Marines occupy Haiti until 1934.",
+    "relatedPolityIds": [
+      "haiti",
+      "united-states"
+    ],
+    "source": "Wikipedia: United States occupation of Haiti"
+  },
+  {
+    "id": "haiti-earthquake-2010",
+    "year": 2010,
+    "lat": 18.46,
+    "lng": -72.53,
+    "type": "disaster",
+    "title": "Haiti earthquake",
+    "description": "A magnitude 7.0 earthquake kills over 100,000 people around Port-au-Prince.",
+    "relatedPolityIds": [
+      "haiti"
+    ],
+    "source": "Wikipedia: 2010 Haiti earthquake"
+  },
+  {
+    "id": "dominican-independence",
+    "year": 1844,
+    "lat": 18.49,
+    "lng": -69.93,
+    "type": "culture",
+    "title": "Dominican Republic independence",
+    "description": "The east of Hispaniola breaks away from Haiti.",
+    "relatedPolityIds": [
+      "dominican-republic",
+      "haiti"
+    ],
+    "source": "Wikipedia: Dominican War of Independence"
+  },
+  {
+    "id": "parsley-massacre",
+    "year": 1937,
+    "lat": 19.5,
+    "lng": -71.7,
+    "type": "war",
+    "title": "Parsley massacre",
+    "description": "Dictator Trujillo’s army kills thousands of Haitians along the border.",
+    "relatedPolityIds": [
+      "dominican-republic",
+      "haiti"
+    ],
+    "source": "Wikipedia: Parsley massacre"
+  },
+  {
+    "id": "jamaica-independence",
+    "year": 1962,
+    "lat": 17.97,
+    "lng": -76.79,
+    "type": "culture",
+    "title": "Jamaica becomes independent",
+    "description": "Jamaica gains independence from Britain.",
+    "relatedPolityIds": [
+      "jamaica",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Jamaica"
+  },
+  {
+    "id": "trinidad-independence",
+    "year": 1962,
+    "lat": 10.65,
+    "lng": -61.51,
+    "type": "culture",
+    "title": "Trinidad and Tobago becomes independent",
+    "description": "Eric Williams leads the islands to independence.",
+    "relatedPolityIds": [
+      "trinidad-and-tobago",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Trinidad and Tobago"
+  },
+  {
+    "id": "guyana-independence",
+    "year": 1966,
+    "lat": 6.8,
+    "lng": -58.16,
+    "type": "culture",
+    "title": "Guyana becomes independent",
+    "description": "British Guiana becomes Guyana.",
+    "relatedPolityIds": [
+      "guyana",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Guyana"
+  },
+  {
+    "id": "barbados-republic",
+    "year": 2021,
+    "lat": 13.1,
+    "lng": -59.62,
+    "type": "culture",
+    "title": "Barbados becomes a republic",
+    "description": "Barbados replaces the British monarch with an elected president.",
+    "relatedPolityIds": [
+      "barbados"
+    ],
+    "source": "Wikipedia: Barbados"
+  },
+  {
+    "id": "bahamas-independence",
+    "year": 1973,
+    "lat": 25.06,
+    "lng": -77.35,
+    "type": "culture",
+    "title": "The Bahamas becomes independent",
+    "description": "Independence from Britain under Lynden Pindling.",
+    "relatedPolityIds": [
+      "bahamas",
+      "british-empire"
+    ],
+    "source": "Wikipedia: The Bahamas"
+  },
+  {
+    "id": "suriname-independence",
+    "year": 1975,
+    "lat": 5.85,
+    "lng": -55.2,
+    "type": "culture",
+    "title": "Suriname becomes independent",
+    "description": "Independence from the Netherlands; many people move to the Netherlands.",
+    "relatedPolityIds": [
+      "suriname",
+      "dutch-colonial-empire"
+    ],
+    "source": "Wikipedia: Suriname"
+  },
+  {
+    "id": "belize-independence",
+    "year": 1981,
+    "lat": 17.25,
+    "lng": -88.77,
+    "type": "culture",
+    "title": "Belize becomes independent",
+    "description": "British Honduras becomes Belize; British troops stay to deter Guatemala.",
+    "relatedPolityIds": [
+      "belize",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Belize"
+  },
+  {
+    "id": "us-invasion-of-grenada",
+    "year": 1983,
+    "lat": 12.06,
+    "lng": -61.75,
+    "type": "war",
+    "title": "US invasion of Grenada",
+    "description": "After Maurice Bishop is killed, US-led forces invade.",
+    "relatedPolityIds": [
+      "grenada",
+      "united-states"
+    ],
+    "source": "Wikipedia: United States invasion of Grenada"
+  },
+  {
+    "id": "hurricane-maria-dominica",
+    "year": 2017,
+    "lat": 15.3,
+    "lng": -61.39,
+    "type": "disaster",
+    "title": "Hurricane Maria hits Dominica",
+    "description": "A Category 5 hurricane damages almost every building on Dominica.",
+    "relatedPolityIds": [
+      "dominica"
+    ],
+    "source": "Wikipedia: Hurricane Maria"
+  },
+  {
+    "id": "saint-lucia-independence",
+    "year": 1979,
+    "lat": 14.01,
+    "lng": -60.99,
+    "type": "culture",
+    "title": "Saint Lucia becomes independent",
+    "description": "Independence from Britain.",
+    "relatedPolityIds": [
+      "saint-lucia",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Saint Lucia"
+  },
+  {
+    "id": "la-soufriere-2021",
+    "year": 2021,
+    "lat": 13.33,
+    "lng": -61.18,
+    "type": "disaster",
+    "title": "La Soufrière erupts",
+    "description": "The volcano erupts; about 20,000 people are evacuated.",
+    "relatedPolityIds": [
+      "saint-vincent-and-the-grenadines"
+    ],
+    "source": "Wikipedia: 2020–2021 La Soufrière eruption"
+  },
+  {
+    "id": "antigua-independence",
+    "year": 1981,
+    "lat": 17.12,
+    "lng": -61.85,
+    "type": "culture",
+    "title": "Antigua and Barbuda becomes independent",
+    "description": "Independence from Britain under Vere Bird.",
+    "relatedPolityIds": [
+      "antigua-and-barbuda",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Antigua and Barbuda"
+  },
+  {
+    "id": "saint-kitts-independence",
+    "year": 1983,
+    "lat": 17.3,
+    "lng": -62.73,
+    "type": "culture",
+    "title": "Saint Kitts and Nevis becomes independent",
+    "description": "The last British colony in the Caribbean to become a full state.",
+    "relatedPolityIds": [
+      "saint-kitts-and-nevis",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Saint Kitts and Nevis"
+  },
+  {
+    "id": "iraq-independence",
+    "year": 1932,
+    "lat": 33.31,
+    "lng": 44.36,
+    "type": "culture",
+    "title": "Iraq becomes independent",
+    "description": "The British mandate ends and Iraq joins the League of Nations.",
+    "relatedPolityIds": [
+      "iraq",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Kingdom of Iraq"
+  },
+  {
+    "id": "iran-iraq-war",
+    "year": 1980,
+    "lat": 31,
+    "lng": 47.5,
+    "type": "war",
+    "title": "Iran–Iraq War",
+    "description": "Iraq invades Iran; eight years of trench warfare and chemical attacks kill hundreds of thousands.",
+    "relatedPolityIds": [
+      "iraq",
+      "islamic-republic-of-iran"
+    ],
+    "source": "Wikipedia: Iran–Iraq War"
+  },
+  {
+    "id": "gulf-war",
+    "year": 1990,
+    "lat": 29.37,
+    "lng": 47.98,
+    "type": "war",
+    "title": "Gulf War",
+    "description": "Iraq invades Kuwait; a US-led coalition drives it out in early 1991.",
+    "relatedPolityIds": [
+      "iraq",
+      "kuwait",
+      "united-states",
+      "saudi-arabia"
+    ],
+    "source": "Wikipedia: Gulf War"
+  },
+  {
+    "id": "isis-caliphate",
+    "year": 2014,
+    "lat": 36.34,
+    "lng": 43.13,
+    "type": "war",
+    "title": "Islamic State seizes Mosul",
+    "description": "The ISIS group declares a “caliphate” across Iraq and Syria; it is defeated by 2019.",
+    "relatedPolityIds": [
+      "iraq",
+      "syria"
+    ],
+    "source": "Wikipedia: Islamic State"
+  },
+  {
+    "id": "fall-of-assad",
+    "year": 2024,
+    "lat": 33.51,
+    "lng": 36.29,
+    "type": "war",
+    "title": "Fall of the Assad government",
+    "description": "Rebels take Damascus and Bashar al-Assad flees to Russia.",
+    "relatedPolityIds": [
+      "syria"
+    ],
+    "source": "Wikipedia: Fall of the Assad regime"
+  },
+  {
+    "id": "lebanon-independence",
+    "year": 1943,
+    "lat": 33.89,
+    "lng": 35.5,
+    "type": "culture",
+    "title": "Lebanon becomes independent",
+    "description": "The National Pact shares power among religious communities.",
+    "relatedPolityIds": [
+      "lebanon",
+      "french-colonial-empire"
+    ],
+    "source": "Wikipedia: Lebanese independence"
+  },
+  {
+    "id": "lebanese-civil-war",
+    "year": 1975,
+    "lat": 33.89,
+    "lng": 35.5,
+    "type": "war",
+    "title": "Lebanese Civil War",
+    "description": "A war among militias and foreign forces (1975–90) kills about 150,000.",
+    "relatedPolityIds": [
+      "lebanon",
+      "syria",
+      "israel"
+    ],
+    "source": "Wikipedia: Lebanese Civil War"
+  },
+  {
+    "id": "beirut-explosion",
+    "year": 2020,
+    "lat": 33.9,
+    "lng": 35.52,
+    "type": "disaster",
+    "title": "Beirut port explosion",
+    "description": "Stored ammonium nitrate explodes, killing over 200 people.",
+    "relatedPolityIds": [
+      "lebanon"
+    ],
+    "source": "Wikipedia: 2020 Beirut explosion"
+  },
+  {
+    "id": "jordan-independence",
+    "year": 1946,
+    "lat": 31.95,
+    "lng": 35.93,
+    "type": "culture",
+    "title": "Jordan becomes independent",
+    "description": "Transjordan becomes the Hashemite Kingdom of Jordan.",
+    "relatedPolityIds": [
+      "jordan",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Emirate of Transjordan"
+  },
+  {
+    "id": "black-september",
+    "year": 1970,
+    "lat": 31.95,
+    "lng": 35.93,
+    "type": "war",
+    "title": "Black September",
+    "description": "Jordan’s army expels Palestinian armed groups from the country.",
+    "relatedPolityIds": [
+      "jordan"
+    ],
+    "source": "Wikipedia: Black September"
+  },
+  {
+    "id": "yom-kippur-war",
+    "year": 1973,
+    "lat": 30.5,
+    "lng": 32.5,
+    "type": "war",
+    "title": "Yom Kippur War",
+    "description": "Egypt and Syria attack Israel; the war leads to the oil embargo and later peace talks.",
+    "relatedPolityIds": [
+      "israel",
+      "syria",
+      "modern-egypt"
+    ],
+    "source": "Wikipedia: Yom Kippur War"
+  },
+  {
+    "id": "egypt-israel-peace",
+    "year": 1979,
+    "lat": 38.9,
+    "lng": -77.04,
+    "type": "culture",
+    "title": "Egypt–Israel peace treaty",
+    "description": "After the Camp David Accords, Egypt becomes the first Arab state to recognise Israel.",
+    "relatedPolityIds": [
+      "israel",
+      "modern-egypt",
+      "united-states"
+    ],
+    "source": "Wikipedia: Egypt–Israel peace treaty"
+  },
+  {
+    "id": "uae-founded",
+    "year": 1971,
+    "lat": 24.45,
+    "lng": 54.37,
+    "type": "culture",
+    "title": "United Arab Emirates founded",
+    "description": "Six Trucial States unite; Ras al-Khaimah joins in 1972.",
+    "relatedPolityIds": [
+      "united-arab-emirates",
+      "british-empire"
+    ],
+    "source": "Wikipedia: United Arab Emirates"
+  },
+  {
+    "id": "qatar-world-cup",
+    "year": 2022,
+    "lat": 25.29,
+    "lng": 51.53,
+    "type": "culture",
+    "title": "World Cup in Qatar",
+    "description": "The first football World Cup held in the Arab world.",
+    "relatedPolityIds": [
+      "qatar"
+    ],
+    "source": "Wikipedia: 2022 FIFA World Cup"
+  },
+  {
+    "id": "kuwait-independence",
+    "year": 1961,
+    "lat": 29.37,
+    "lng": 47.98,
+    "type": "culture",
+    "title": "Kuwait becomes independent",
+    "description": "The British protectorate ends; British troops deter an Iraqi claim.",
+    "relatedPolityIds": [
+      "kuwait",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Kuwait"
+  },
+  {
+    "id": "qaboos-coup",
+    "year": 1970,
+    "lat": 23.59,
+    "lng": 58.41,
+    "type": "culture",
+    "title": "Qaboos becomes Sultan of Oman",
+    "description": "Qaboos replaces his father and opens and modernises the country.",
+    "relatedPolityIds": [
+      "oman"
+    ],
+    "source": "Wikipedia: Qaboos bin Said"
+  },
+  {
+    "id": "oman-zanzibar-split",
+    "year": 1861,
+    "lat": -6.16,
+    "lng": 39.19,
+    "type": "culture",
+    "title": "Oman and Zanzibar split",
+    "description": "After Said bin Sultan dies, his empire divides between two sons.",
+    "relatedPolityIds": [
+      "oman"
+    ],
+    "source": "Wikipedia: Sultanate of Zanzibar"
+  },
+  {
+    "id": "north-yemen-revolution",
+    "year": 1962,
+    "lat": 15.35,
+    "lng": 44.21,
+    "type": "war",
+    "title": "North Yemen revolution",
+    "description": "Army officers overthrow the Zaydi imam; a civil war follows until 1970.",
+    "relatedPolityIds": [
+      "yemen",
+      "yemen-states",
+      "modern-egypt",
+      "saudi-arabia"
+    ],
+    "source": "Wikipedia: North Yemen Civil War"
+  },
+  {
+    "id": "yemen-unification",
+    "year": 1990,
+    "lat": 12.8,
+    "lng": 45.03,
+    "type": "culture",
+    "title": "Yemen unites",
+    "description": "North and South Yemen join as one republic.",
+    "relatedPolityIds": [
+      "yemen"
+    ],
+    "source": "Wikipedia: Yemeni unification"
+  },
+  {
+    "id": "yemeni-civil-war",
+    "year": 2014,
+    "lat": 15.35,
+    "lng": 44.21,
+    "type": "war",
+    "title": "Yemeni Civil War",
+    "description": "Houthi rebels take Sana’a; a Saudi-led coalition intervenes in 2015.",
+    "relatedPolityIds": [
+      "yemen",
+      "saudi-arabia",
+      "united-arab-emirates"
+    ],
+    "source": "Wikipedia: Yemeni civil war (2014–present)"
+  },
+  {
+    "id": "spitak-earthquake",
+    "year": 1988,
+    "lat": 40.83,
+    "lng": 44.27,
+    "type": "disaster",
+    "title": "Spitak earthquake",
+    "description": "An earthquake in Soviet Armenia kills about 25,000 people.",
+    "relatedPolityIds": [
+      "armenia",
+      "soviet-union"
+    ],
+    "source": "Wikipedia: 1988 Armenian earthquake"
+  },
+  {
+    "id": "karabakh-war-1988",
+    "year": 1988,
+    "lat": 39.82,
+    "lng": 46.75,
+    "type": "war",
+    "title": "First Nagorno-Karabakh War",
+    "description": "Armenians and Azerbaijanis fight over Karabakh (1988–94); hundreds of thousands are displaced.",
+    "relatedPolityIds": [
+      "armenia",
+      "azerbaijan"
+    ],
+    "source": "Wikipedia: First Nagorno-Karabakh War"
+  },
+  {
+    "id": "karabakh-war-2020",
+    "year": 2020,
+    "lat": 39.82,
+    "lng": 46.75,
+    "type": "war",
+    "title": "Second Nagorno-Karabakh War",
+    "description": "Azerbaijan retakes much of the region; in 2023 the remaining Armenian population leaves.",
+    "relatedPolityIds": [
+      "armenia",
+      "azerbaijan"
+    ],
+    "source": "Wikipedia: Second Nagorno-Karabakh War"
+  },
+  {
+    "id": "aral-sea-shrinks",
+    "year": 1960,
+    "lat": 45,
+    "lng": 59.5,
+    "type": "disaster",
+    "title": "The Aral Sea begins to shrink",
+    "description": "Soviet cotton irrigation diverts its rivers; the sea loses most of its water.",
+    "relatedPolityIds": [
+      "soviet-union"
+    ],
+    "source": "Wikipedia: Aral Sea"
+  },
+  {
+    "id": "tajik-civil-war",
+    "year": 1992,
+    "lat": 38.56,
+    "lng": 68.79,
+    "type": "war",
+    "title": "Tajik Civil War",
+    "description": "War between the government and an Islamist–democratic opposition (1992–97).",
+    "relatedPolityIds": [
+      "tajikistan"
+    ],
+    "source": "Wikipedia: Tajikistani Civil War"
+  },
+  {
+    "id": "tulip-revolution",
+    "year": 2005,
+    "lat": 42.87,
+    "lng": 74.59,
+    "type": "culture",
+    "title": "Tulip Revolution",
+    "description": "Protests overthrow Kyrgyz president Askar Akayev.",
+    "relatedPolityIds": [
+      "kyrgyzstan"
+    ],
+    "source": "Wikipedia: Tulip Revolution"
+  },
+  {
+    "id": "turkmen-neutrality",
+    "year": 1995,
+    "lat": 37.95,
+    "lng": 58.38,
+    "type": "culture",
+    "title": "Turkmenistan declares neutrality",
+    "description": "The UN recognises its permanent neutrality.",
+    "relatedPolityIds": [
+      "turkmenistan"
+    ],
+    "source": "Wikipedia: Turkmenistan"
+  },
+  {
+    "id": "indo-pakistani-war-1965",
+    "year": 1965,
+    "lat": 32.5,
+    "lng": 74.5,
+    "type": "war",
+    "title": "Indo-Pakistani War of 1965",
+    "description": "A war over Kashmir ends in a ceasefire.",
+    "relatedPolityIds": [
+      "pakistan",
+      "india"
+    ],
+    "source": "Wikipedia: Indo-Pakistani war of 1965"
+  },
+  {
+    "id": "bangladesh-liberation-war",
+    "year": 1971,
+    "lat": 23.81,
+    "lng": 90.41,
+    "type": "war",
+    "title": "Bangladesh Liberation War",
+    "description": "East Pakistan breaks away with Indian help; the Pakistani army kills hundreds of thousands.",
+    "relatedPolityIds": [
+      "pakistan",
+      "india",
+      "bangladesh"
+    ],
+    "source": "Wikipedia: Bangladesh Liberation War"
+  },
+  {
+    "id": "pakistan-nuclear-test",
+    "year": 1998,
+    "lat": 28.8,
+    "lng": 64.9,
+    "type": "culture",
+    "title": "Pakistan tests nuclear weapons",
+    "description": "Tests in the Chagai Hills follow India’s tests.",
+    "relatedPolityIds": [
+      "pakistan"
+    ],
+    "source": "Wikipedia: Chagai-I"
+  },
+  {
+    "id": "pakistan-floods-2022",
+    "year": 2022,
+    "lat": 26,
+    "lng": 68,
+    "type": "disaster",
+    "title": "Pakistan floods",
+    "description": "Record monsoon rains flood a third of the country.",
+    "relatedPolityIds": [
+      "pakistan"
+    ],
+    "source": "Wikipedia: 2022 Pakistan floods"
+  },
+  {
+    "id": "language-movement",
+    "year": 1952,
+    "lat": 23.73,
+    "lng": 90.4,
+    "type": "culture",
+    "title": "Bengali Language Movement",
+    "description": "Students in Dhaka are killed protesting for Bengali as a state language; 21 February is now International Mother Language Day.",
+    "relatedPolityIds": [
+      "pakistan"
+    ],
+    "source": "Wikipedia: Bengali Language Movement"
+  },
+  {
+    "id": "bhola-cyclone",
+    "year": 1970,
+    "lat": 22.3,
+    "lng": 90.7,
+    "type": "disaster",
+    "title": "Bhola cyclone",
+    "description": "One of the deadliest cyclones ever; up to 500,000 die in East Pakistan.",
+    "relatedPolityIds": [
+      "pakistan"
+    ],
+    "source": "Wikipedia: 1970 Bhola cyclone"
+  },
+  {
+    "id": "rana-plaza",
+    "year": 2013,
+    "lat": 23.85,
+    "lng": 90.26,
+    "type": "disaster",
+    "title": "Rana Plaza collapse",
+    "description": "A garment factory building collapses near Dhaka, killing 1,134 workers.",
+    "relatedPolityIds": [
+      "bangladesh"
+    ],
+    "source": "Wikipedia: 2013 Rana Plaza collapse"
+  },
+  {
+    "id": "sri-lanka-independence",
+    "year": 1948,
+    "lat": 6.93,
+    "lng": 79.86,
+    "type": "culture",
+    "title": "Ceylon becomes independent",
+    "description": "Ceylon gains independence from Britain; it becomes Sri Lanka in 1972.",
+    "relatedPolityIds": [
+      "sri-lanka",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Dominion of Ceylon"
+  },
+  {
+    "id": "sri-lankan-civil-war",
+    "year": 1983,
+    "lat": 9.66,
+    "lng": 80.02,
+    "type": "war",
+    "title": "Sri Lankan Civil War",
+    "description": "The Tamil Tigers fight for a separate state (1983–2009); the war ends with heavy civilian deaths.",
+    "relatedPolityIds": [
+      "sri-lanka"
+    ],
+    "source": "Wikipedia: Sri Lankan Civil War"
+  },
+  {
+    "id": "nepal-unification",
+    "year": 1768,
+    "lat": 27.7,
+    "lng": 85.32,
+    "type": "war",
+    "title": "Gorkha conquest of Kathmandu",
+    "description": "Prithvi Narayan Shah takes the Kathmandu valley and unifies Nepal.",
+    "relatedPolityIds": [
+      "nepal"
+    ],
+    "source": "Wikipedia: Unification of Nepal"
+  },
+  {
+    "id": "anglo-nepalese-war",
+    "year": 1814,
+    "lat": 28,
+    "lng": 84,
+    "type": "war",
+    "title": "Anglo-Nepalese War",
+    "description": "Nepal loses land to the British East India Company (1814–16); Gurkha recruitment begins.",
+    "relatedPolityIds": [
+      "nepal",
+      "great-britain",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Anglo-Nepalese War"
+  },
+  {
+    "id": "everest-first-ascent",
+    "year": 1953,
+    "lat": 27.99,
+    "lng": 86.93,
+    "type": "culture",
+    "title": "First ascent of Everest",
+    "description": "Tenzing Norgay and Edmund Hillary reach the summit.",
+    "relatedPolityIds": [
+      "nepal"
+    ],
+    "source": "Wikipedia: 1953 British Mount Everest expedition"
+  },
+  {
+    "id": "nepal-republic",
+    "year": 2008,
+    "lat": 27.72,
+    "lng": 85.32,
+    "type": "culture",
+    "title": "Nepal becomes a republic",
+    "description": "After a Maoist civil war, the 240-year-old monarchy is abolished.",
+    "relatedPolityIds": [
+      "nepal"
+    ],
+    "source": "Wikipedia: Nepalese Civil War"
+  },
+  {
+    "id": "nepal-earthquake-2015",
+    "year": 2015,
+    "lat": 28.23,
+    "lng": 84.73,
+    "type": "disaster",
+    "title": "Nepal earthquake",
+    "description": "A magnitude 7.8 earthquake kills about 9,000 people.",
+    "relatedPolityIds": [
+      "nepal"
+    ],
+    "source": "Wikipedia: April 2015 Nepal earthquake"
+  },
+  {
+    "id": "bhutan-unification",
+    "year": 1616,
+    "lat": 27.47,
+    "lng": 89.64,
+    "type": "culture",
+    "title": "Zhabdrung arrives in Bhutan",
+    "description": "Ngawang Namgyal flees Tibet and unifies Bhutan under a Buddhist state.",
+    "relatedPolityIds": [
+      "bhutan"
+    ],
+    "source": "Wikipedia: Ngawang Namgyal"
+  },
+  {
+    "id": "bhutan-monarchy",
+    "year": 1907,
+    "lat": 27.47,
+    "lng": 89.64,
+    "type": "culture",
+    "title": "Wangchuck monarchy founded",
+    "description": "Ugyen Wangchuck is chosen as the first hereditary king.",
+    "relatedPolityIds": [
+      "bhutan"
+    ],
+    "source": "Wikipedia: House of Wangchuck"
+  },
+  {
+    "id": "burma-independence",
+    "year": 1948,
+    "lat": 16.87,
+    "lng": 96.2,
+    "type": "culture",
+    "title": "Burma becomes independent",
+    "description": "Burma leaves the British Empire, months after Aung San is assassinated.",
+    "relatedPolityIds": [
+      "myanmar",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Burma"
+  },
+  {
+    "id": "8888-uprising",
+    "year": 1988,
+    "lat": 16.87,
+    "lng": 96.2,
+    "type": "war",
+    "title": "8888 Uprising",
+    "description": "Mass protests against military rule are crushed; Aung San Suu Kyi emerges as leader.",
+    "relatedPolityIds": [
+      "myanmar"
+    ],
+    "source": "Wikipedia: 8888 Uprising"
+  },
+  {
+    "id": "rohingya-crisis",
+    "year": 2017,
+    "lat": 20.5,
+    "lng": 92.5,
+    "type": "war",
+    "title": "Rohingya crisis",
+    "description": "An army crackdown drives over 700,000 Rohingya into Bangladesh.",
+    "relatedPolityIds": [
+      "myanmar",
+      "bangladesh"
+    ],
+    "source": "Wikipedia: Rohingya genocide"
+  },
+  {
+    "id": "myanmar-coup-2021",
+    "year": 2021,
+    "lat": 19.76,
+    "lng": 96.13,
+    "type": "war",
+    "title": "Myanmar coup",
+    "description": "The army seizes power; resistance grows into a civil war.",
+    "relatedPolityIds": [
+      "myanmar"
+    ],
+    "source": "Wikipedia: 2021 Myanmar coup d’état"
+  },
+  {
+    "id": "cambodia-independence",
+    "year": 1953,
+    "lat": 11.56,
+    "lng": 104.92,
+    "type": "culture",
+    "title": "Cambodia becomes independent",
+    "description": "King Norodom Sihanouk wins independence from France.",
+    "relatedPolityIds": [
+      "cambodia",
+      "french-colonial-empire"
+    ],
+    "source": "Wikipedia: Cambodia"
+  },
+  {
+    "id": "vietnam-invades-cambodia",
+    "year": 1978,
+    "lat": 11.56,
+    "lng": 104.92,
+    "type": "war",
+    "title": "Vietnam ends Khmer Rouge rule",
+    "description": "Vietnamese troops take Phnom Penh in January 1979.",
+    "relatedPolityIds": [
+      "cambodia",
+      "vietnam-modern"
+    ],
+    "source": "Wikipedia: Cambodian–Vietnamese War"
+  },
+  {
+    "id": "laos-independence",
+    "year": 1953,
+    "lat": 17.97,
+    "lng": 102.63,
+    "type": "culture",
+    "title": "Laos becomes independent",
+    "description": "France recognises full independence.",
+    "relatedPolityIds": [
+      "laos",
+      "french-colonial-empire"
+    ],
+    "source": "Wikipedia: Kingdom of Laos"
+  },
+  {
+    "id": "secret-war-laos",
+    "year": 1964,
+    "lat": 19.45,
+    "lng": 103.15,
+    "type": "war",
+    "title": "US bombing of Laos",
+    "description": "The US drops over 2 million tonnes of bombs on Laos (1964–73).",
+    "relatedPolityIds": [
+      "laos",
+      "united-states"
+    ],
+    "source": "Wikipedia: Laotian Civil War"
+  },
+  {
+    "id": "brunei-independence",
+    "year": 1984,
+    "lat": 4.89,
+    "lng": 114.94,
+    "type": "culture",
+    "title": "Brunei becomes fully independent",
+    "description": "The British protectorate ends.",
+    "relatedPolityIds": [
+      "brunei",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Brunei"
+  },
+  {
+    "id": "korea-divided",
+    "year": 1948,
+    "lat": 37.57,
+    "lng": 126.98,
+    "type": "culture",
+    "title": "Two Korean states founded",
+    "description": "The Republic of Korea (south) and the Democratic People’s Republic of Korea (north) are declared.",
+    "relatedPolityIds": [
+      "south-korea",
+      "north-korea",
+      "united-states",
+      "soviet-union"
+    ],
+    "source": "Wikipedia: Division of Korea"
+  },
+  {
+    "id": "gwangju-uprising",
+    "year": 1980,
+    "lat": 35.16,
+    "lng": 126.85,
+    "type": "war",
+    "title": "Gwangju Uprising",
+    "description": "Troops kill hundreds of pro-democracy protesters.",
+    "relatedPolityIds": [
+      "south-korea"
+    ],
+    "source": "Wikipedia: Gwangju Uprising"
+  },
+  {
+    "id": "seoul-olympics",
+    "year": 1988,
+    "lat": 37.52,
+    "lng": 127.07,
+    "type": "culture",
+    "title": "Seoul Olympics",
+    "description": "South Korea hosts the Olympics after its move to democracy.",
+    "relatedPolityIds": [
+      "south-korea"
+    ],
+    "source": "Wikipedia: 1988 Summer Olympics"
+  },
+  {
+    "id": "north-korean-famine",
+    "year": 1994,
+    "lat": 39.03,
+    "lng": 125.75,
+    "type": "disaster",
+    "title": "North Korean famine",
+    "description": "Famine (1994–98) kills hundreds of thousands.",
+    "relatedPolityIds": [
+      "north-korea"
+    ],
+    "source": "Wikipedia: North Korean famine"
+  },
+  {
+    "id": "north-korea-nuclear-test",
+    "year": 2006,
+    "lat": 41.28,
+    "lng": 129.08,
+    "type": "war",
+    "title": "North Korea’s first nuclear test",
+    "description": "North Korea tests a nuclear weapon.",
+    "relatedPolityIds": [
+      "north-korea"
+    ],
+    "source": "Wikipedia: 2006 North Korean nuclear test"
+  },
+  {
+    "id": "nz-womens-suffrage",
+    "year": 1893,
+    "lat": -41.29,
+    "lng": 174.78,
+    "type": "culture",
+    "title": "Women win the vote in New Zealand",
+    "description": "New Zealand becomes the first self-governing country to give women the vote.",
+    "relatedPolityIds": [
+      "new-zealand"
+    ],
+    "source": "Wikipedia: Women’s suffrage in New Zealand"
+  },
+  {
+    "id": "new-zealand-wars",
+    "year": 1845,
+    "lat": -38,
+    "lng": 175.5,
+    "type": "war",
+    "title": "New Zealand Wars",
+    "description": "Wars between the colonial government and Māori iwi over land (1845–72).",
+    "relatedPolityIds": [
+      "new-zealand",
+      "maori-aotearoa",
+      "british-empire"
+    ],
+    "source": "Wikipedia: New Zealand Wars"
+  },
+  {
+    "id": "christchurch-earthquake",
+    "year": 2011,
+    "lat": -43.53,
+    "lng": 172.64,
+    "type": "disaster",
+    "title": "Christchurch earthquake",
+    "description": "An earthquake kills 185 people and destroys much of the city centre.",
+    "relatedPolityIds": [
+      "new-zealand"
+    ],
+    "source": "Wikipedia: 2011 Christchurch earthquake"
+  },
+  {
+    "id": "kokoda-track",
+    "year": 1942,
+    "lat": -8.88,
+    "lng": 147.73,
+    "type": "war",
+    "title": "Kokoda Track campaign",
+    "description": "Australian troops, helped by Papuan carriers, stop the Japanese advance on Port Moresby.",
+    "relatedPolityIds": [
+      "australia",
+      "empire-of-japan"
+    ],
+    "source": "Wikipedia: Kokoda Track campaign"
+  },
+  {
+    "id": "png-independence",
+    "year": 1975,
+    "lat": -9.44,
+    "lng": 147.18,
+    "type": "culture",
+    "title": "Papua New Guinea becomes independent",
+    "description": "Independence from Australia under Michael Somare.",
+    "relatedPolityIds": [
+      "papua-new-guinea",
+      "australia"
+    ],
+    "source": "Wikipedia: Papua New Guinea"
+  },
+  {
+    "id": "bougainville-conflict",
+    "year": 1988,
+    "lat": -6.23,
+    "lng": 155.57,
+    "type": "war",
+    "title": "Bougainville conflict",
+    "description": "A war over a copper mine and independence (1988–98).",
+    "relatedPolityIds": [
+      "papua-new-guinea"
+    ],
+    "source": "Wikipedia: Bougainville conflict"
+  },
+  {
+    "id": "fiji-cession",
+    "year": 1874,
+    "lat": -17.68,
+    "lng": 178.84,
+    "type": "culture",
+    "title": "Fiji ceded to Britain",
+    "description": "Chief Cakobau cedes Fiji to Queen Victoria.",
+    "relatedPolityIds": [
+      "british-empire"
+    ],
+    "source": "Wikipedia: Deed of Cession"
+  },
+  {
+    "id": "fiji-coup-1987",
+    "year": 1987,
+    "lat": -18.14,
+    "lng": 178.44,
+    "type": "war",
+    "title": "Fiji coups",
+    "description": "Sitiveni Rabuka seizes power twice in 1987.",
+    "relatedPolityIds": [
+      "fiji"
+    ],
+    "source": "Wikipedia: 1987 Fijian coups d’état"
+  },
+  {
+    "id": "samoa-independence",
+    "year": 1962,
+    "lat": -13.83,
+    "lng": -171.76,
+    "type": "culture",
+    "title": "Samoa becomes independent",
+    "description": "The first Pacific island nation to win independence.",
+    "relatedPolityIds": [
+      "samoa",
+      "new-zealand"
+    ],
+    "source": "Wikipedia: Samoa"
+  },
+  {
+    "id": "black-saturday-samoa",
+    "year": 1929,
+    "lat": -13.83,
+    "lng": -171.76,
+    "type": "war",
+    "title": "Black Saturday in Samoa",
+    "description": "New Zealand police fire on a peaceful Mau protest, killing the leader Tupua Tamasese Lealofi III.",
+    "relatedPolityIds": [
+      "new-zealand"
+    ],
+    "source": "Wikipedia: Mau movement"
+  },
+  {
+    "id": "tonga-unification",
+    "year": 1845,
+    "lat": -21.14,
+    "lng": -175.2,
+    "type": "culture",
+    "title": "Tonga united",
+    "description": "George Tupou I unites Tonga; its 1875 constitution is still in force.",
+    "relatedPolityIds": [
+      "tonga"
+    ],
+    "source": "Wikipedia: George Tupou I"
+  },
+  {
+    "id": "hunga-tonga-eruption",
+    "year": 2022,
+    "lat": -20.55,
+    "lng": -175.39,
+    "type": "disaster",
+    "title": "Hunga Tonga eruption",
+    "description": "One of the largest volcanic explosions ever recorded; a tsunami hits Tonga.",
+    "relatedPolityIds": [
+      "tonga"
+    ],
+    "source": "Wikipedia: 2022 Hunga Tonga–Hunga Haʻapai eruption and tsunami"
   }
 ]

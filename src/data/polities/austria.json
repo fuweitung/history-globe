@@ -1,0 +1,320 @@
+{
+  "id": "austria",
+  "name": "Austria (since 1918)",
+  "era": "modern",
+  "region": "Central Europe",
+  "startYear": 1918,
+  "endYear": null,
+  "capital": "Vienna",
+  "capitalCoords": [
+    16.37,
+    48.21
+  ],
+  "summary": "The small republic left after Austria-Hungary collapsed in 1918: annexed by Nazi Germany (1938–45), occupied by the Allies until 1955, then neutral and prosperous.",
+  "wikiTitle": "Austria",
+  "borderNames": [
+    "Austria"
+  ],
+  "borderYears": [
+    1919,
+    null
+  ],
+  "color": "#c0503a",
+  "knownFor": [
+    {
+      "label": "Vienna State Opera",
+      "kind": "monument",
+      "note": "One of the world’s great opera houses."
+    },
+    {
+      "label": "Sigmund Freud",
+      "kind": "person",
+      "note": "Founder of psychoanalysis, who worked in Vienna until 1938."
+    },
+    {
+      "label": "Sachertorte",
+      "kind": "food",
+      "note": "Famous chocolate cake."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Central Europe, landlocked, mostly in the Alps.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "terrain": {
+        "value": "Alps and the Danube valley.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "climate": {
+        "value": "Alpine and continental.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "resources": {
+        "value": "Hydropower, forests, tourism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "disasters": {
+        "value": "Avalanches and floods.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 9 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "urbanisation": {
+        "value": "Vienna has about 2 million.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "disease": {
+        "value": "Good public health.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Austria"
+      },
+      "migration": {
+        "value": "Immigration since the 1960s.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Tourism, industry, services.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "tradeRoutes": {
+        "value": "EU since 1995.",
+        "year": 1995,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "wealth": {
+        "value": "A high-income economy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "moneyAndTax": {
+        "value": "The schilling, then the euro.",
+        "year": 2002,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "inequality": {
+        "value": "Low inequality.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Austria"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A federal parliamentary republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "keyRulers": {
+        "value": "Karl Renner. Engelbert Dollfuss. Bruno Kreisky.",
+        "year": 1918,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "institutions": {
+        "value": "Parliament; nine states.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "stability": {
+        "value": "Civil war (1934); annexed by Germany (Anschluss, 1938).",
+        "year": 1938,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "eliteConflict": {
+        "value": "Coalition politics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Austria"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Neutral armed forces.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "majorWars": {
+        "value": "Part of Nazi Germany in the Second World War.",
+        "year": 1939,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "territoryChange": {
+        "value": "Lost most of the old empire in 1918.",
+        "year": 1918,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "alliancesRivals": {
+        "value": "Neutral since 1955; EU member.",
+        "year": 1955,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Austria"
+      },
+      "scienceEducation": {
+        "value": "High education levels.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "openness": {
+        "value": "Open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "communicationTransport": {
+        "value": "Railways and Alpine roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Catholic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "languageWriting": {
+        "value": "German.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "artsArchitecture": {
+        "value": "Classical music, Klimt, Freud.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "socialStructure": {
+        "value": "Large middle class.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Austria"
+      },
+      "sharedIdentity": {
+        "value": "An Austrian identity separate from Germany, mainly after 1945.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "dailyLife": {
+        "value": "Apartments and houses; schnitzel, coffee houses.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Germany, Czechia, Slovakia, Hungary, Slovenia, Italy, Switzerland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "ideasReligions": {
+        "value": "Neutrality.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Republic declared in 1918.",
+        "year": 1918,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "peakPeriod": {
+        "value": "Post-war prosperity.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Austria"
+      },
+      "declineSignals": {
+        "value": "Annexation by Germany.",
+        "year": 1938,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Austria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Austria"
+      }
+    }
+  }
+}

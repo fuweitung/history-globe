@@ -1,0 +1,320 @@
+{
+  "id": "suriname",
+  "name": "Suriname",
+  "era": "modern",
+  "region": "South America",
+  "startYear": 1975,
+  "endYear": null,
+  "capital": "Paramaribo",
+  "capitalCoords": [
+    -55.2,
+    5.85
+  ],
+  "summary": "A former Dutch colony, independent in 1975; one of the most ethnically mixed countries in the world, mostly covered by rainforest.",
+  "wikiTitle": "Suriname",
+  "borderNames": [
+    "Suriname"
+  ],
+  "borderYears": [
+    1975,
+    null
+  ],
+  "color": "#3a8a4a",
+  "knownFor": [
+    {
+      "label": "Paramaribo",
+      "kind": "monument",
+      "note": "Dutch wooden colonial city."
+    },
+    {
+      "label": "Maroon communities",
+      "kind": "idea",
+      "note": "Descendants of people who escaped slavery."
+    },
+    {
+      "label": "Rainforest",
+      "kind": "monument",
+      "note": "About 90% forest."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "North-eastern South America; about 164,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      },
+      "terrain": {
+        "value": "Coast and rainforest.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      },
+      "resources": {
+        "value": "Gold, oil, bauxite.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      },
+      "disasters": {
+        "value": "Floods.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 620,000.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      },
+      "urbanisation": {
+        "value": "Paramaribo.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      },
+      "disease": {
+        "value": "Malaria inland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      },
+      "migration": {
+        "value": "Many moved to the Netherlands around independence.",
+        "year": 1975,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Gold, oil, bauxite.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      },
+      "tradeRoutes": {
+        "value": "Paramaribo.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      },
+      "wealth": {
+        "value": "An upper-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      },
+      "moneyAndTax": {
+        "value": "The Surinamese dollar.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Suriname"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      },
+      "keyRulers": {
+        "value": "Dési Bouterse.",
+        "year": 1980,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      },
+      "institutions": {
+        "value": "National Assembly.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      },
+      "stability": {
+        "value": "Military coup (1980); civil war (1986–92).",
+        "year": 1980,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Suriname"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Small army.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      },
+      "majorWars": {
+        "value": "Interior war (1986–92).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      },
+      "territoryChange": {
+        "value": "Border disputes with Guyana and French Guiana.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Suriname"
+      },
+      "alliancesRivals": {
+        "value": "Ties with the Netherlands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Suriname"
+      },
+      "scienceEducation": {
+        "value": "Anton de Kom University.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Suriname"
+      },
+      "communicationTransport": {
+        "value": "Rivers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Christian, Hindu, Muslim.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      },
+      "languageWriting": {
+        "value": "Dutch; Sranan Tongo.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      },
+      "artsArchitecture": {
+        "value": "Wooden cathedral; mosque and synagogue side by side.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      },
+      "socialStructure": {
+        "value": "Indian, Creole, Javanese, Maroon, Indigenous and Chinese people.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      },
+      "sharedIdentity": {
+        "value": "Pride in diversity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      },
+      "dailyLife": {
+        "value": "Houses; roti, rice dishes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Guyana, French Guiana, Brazil.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      },
+      "ideasReligions": {
+        "value": "Religious tolerance.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      },
+      "colonisation": {
+        "value": "A Dutch colony (1667–1975).",
+        "year": 1667,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1975).",
+        "year": 1975,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Suriname"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Suriname"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Suriname.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Suriname"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Suriname"
+      }
+    }
+  }
+}

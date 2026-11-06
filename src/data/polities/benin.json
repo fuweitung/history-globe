@@ -1,0 +1,322 @@
+{
+  "id": "benin",
+  "name": "Benin",
+  "era": "modern",
+  "region": "West Africa",
+  "startYear": 1960,
+  "endYear": null,
+  "capital": "Porto-Novo (Cotonou is the main city)",
+  "capitalCoords": [
+    2.63,
+    6.5
+  ],
+  "summary": "Independent from France as Dahomey in 1960; renamed Benin in 1975. Its 1990 national conference was one of Africa’s first peaceful moves to democracy.",
+  "wikiTitle": "Benin",
+  "borderNames": [
+    "Benin",
+    "Dahomey"
+  ],
+  "borderYears": [
+    1960,
+    null
+  ],
+  "color": "#3a8a4a",
+  "knownFor": [
+    {
+      "label": "Vodun",
+      "kind": "idea",
+      "note": "Benin is the birthplace of Vodun (voodoo)."
+    },
+    {
+      "label": "Royal Palaces of Abomey",
+      "kind": "monument",
+      "note": "Palaces of the Dahomey kings."
+    },
+    {
+      "label": "National Conference",
+      "kind": "idea",
+      "year": 1990,
+      "note": "Peaceful transition to democracy."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "West Africa on the Gulf of Guinea; about 115,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "terrain": {
+        "value": "Coastal lagoons and plateaus.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "resources": {
+        "value": "Cotton, palm oil.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "disasters": {
+        "value": "Floods.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 14 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "urbanisation": {
+        "value": "Cotonou.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "disease": {
+        "value": "Malaria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "migration": {
+        "value": "Trade with Nigeria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Cotton, re-export trade with Nigeria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "tradeRoutes": {
+        "value": "Port of Cotonou.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "wealth": {
+        "value": "A lower-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "moneyAndTax": {
+        "value": "The West African CFA franc, shared with neighbours and pegged to the euro.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Benin"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A presidential republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "keyRulers": {
+        "value": "Mathieu Kérékou. Nicéphore Soglo. Patrice Talon.",
+        "year": 1972,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "succession": {
+        "value": "Elections since 1991.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "institutions": {
+        "value": "Constitutional Court.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "stability": {
+        "value": "Many coups in the 1960s; Marxist rule (1972–90).",
+        "year": 1972,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Benin"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Small army.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "majorWars": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "territoryChange": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "alliancesRivals": {
+        "value": "ECOWAS member.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Benin"
+      },
+      "scienceEducation": {
+        "value": "Universities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Benin"
+      },
+      "communicationTransport": {
+        "value": "Port and roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Christian, Muslim and Vodun.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "languageWriting": {
+        "value": "French; Fon, Yoruba.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "artsArchitecture": {
+        "value": "Abomey bas-reliefs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "socialStructure": {
+        "value": "Fon, Yoruba and others.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "sharedIdentity": {
+        "value": "Heritage of Dahomey.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "dailyLife": {
+        "value": "Houses; maize, yams.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Togo, Burkina Faso, Niger, Nigeria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "ideasReligions": {
+        "value": "Vodun spread to the Americas with enslaved people.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "colonisation": {
+        "value": "A French colony (part of French West Africa) until 1960.",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1960).",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Benin"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Benin"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Benin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Benin"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Benin"
+      }
+    }
+  }
+}

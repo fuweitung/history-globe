@@ -1,0 +1,321 @@
+{
+  "id": "romania",
+  "name": "Romania",
+  "era": "modern",
+  "region": "Eastern Europe",
+  "startYear": 1859,
+  "endYear": null,
+  "capital": "Bucharest",
+  "capitalCoords": [
+    26.1,
+    44.43
+  ],
+  "summary": "Formed by uniting Wallachia and Moldavia in 1859, independent in 1878, enlarged in 1918, a communist state under Ceaușescu, and a democracy since 1989.",
+  "wikiTitle": "Romania",
+  "borderNames": [
+    "Romania"
+  ],
+  "borderYears": [
+    1859,
+    null
+  ],
+  "color": "#c9a23a",
+  "knownFor": [
+    {
+      "label": "Painted monasteries of Bukovina",
+      "kind": "monument",
+      "note": "Churches covered in outside frescoes."
+    },
+    {
+      "label": "Palace of the Parliament",
+      "kind": "monument",
+      "year": 1984,
+      "note": "Ceaușescu’s enormous building."
+    },
+    {
+      "label": "Dracula legend",
+      "kind": "idea",
+      "note": "Linked to the prince Vlad III."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "South-east Europe on the Black Sea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      },
+      "terrain": {
+        "value": "Carpathian Mountains, Transylvanian plateau, Danube plain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      },
+      "climate": {
+        "value": "Continental.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      },
+      "resources": {
+        "value": "Oil, farmland, forests.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      },
+      "disasters": {
+        "value": "Earthquakes (1977).",
+        "year": 1977,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 19 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      },
+      "urbanisation": {
+        "value": "Bucharest, Cluj-Napoca, Iași.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      },
+      "disease": {
+        "value": "Moderate public health.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Romania"
+      },
+      "migration": {
+        "value": "Large emigration since 2007.",
+        "year": 2007,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Industry, IT, farming.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      },
+      "tradeRoutes": {
+        "value": "EU since 2007.",
+        "year": 2007,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      },
+      "wealth": {
+        "value": "An upper-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      },
+      "moneyAndTax": {
+        "value": "The leu.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      },
+      "inequality": {
+        "value": "Gaps between city and countryside.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Romania"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A semi-presidential republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      },
+      "keyRulers": {
+        "value": "Carol I. Nicolae Ceaușescu.",
+        "year": 1965,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      },
+      "succession": {
+        "value": "Elections since 1990.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      },
+      "institutions": {
+        "value": "Parliament.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      },
+      "stability": {
+        "value": "The 1989 revolution overthrew Ceaușescu.",
+        "year": 1989,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      },
+      "eliteConflict": {
+        "value": "Party politics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Romania"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "NATO member.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      },
+      "majorWars": {
+        "value": "Both World Wars.",
+        "year": 1916,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      },
+      "territoryChange": {
+        "value": "Gained Transylvania (1918).",
+        "year": 1918,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      },
+      "alliancesRivals": {
+        "value": "NATO (2004), EU (2007).",
+        "year": 2007,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Romania"
+      },
+      "scienceEducation": {
+        "value": "Literacy campaigns.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      },
+      "openness": {
+        "value": "Closed under Ceaușescu.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Romania"
+      },
+      "communicationTransport": {
+        "value": "Railways and roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Romanian Orthodox.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      },
+      "languageWriting": {
+        "value": "Romanian, a Romance language.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      },
+      "artsArchitecture": {
+        "value": "Enescu, Brâncuși.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      },
+      "socialStructure": {
+        "value": "Moderate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Romania"
+      },
+      "sharedIdentity": {
+        "value": "Latin heritage identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      },
+      "dailyLife": {
+        "value": "Village houses and apartment blocks; sarmale, mămăligă.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Hungary, Ukraine, Moldova, Bulgaria, Serbia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      },
+      "ideasReligions": {
+        "value": "Orthodox Christianity.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Romania"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Union of principalities (1859).",
+        "year": 1859,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      },
+      "peakPeriod": {
+        "value": "Interwar “Greater Romania”.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Romania"
+      },
+      "declineSignals": {
+        "value": "Communist hardship.",
+        "year": 1980,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Romania.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Romania"
+      }
+    }
+  }
+}

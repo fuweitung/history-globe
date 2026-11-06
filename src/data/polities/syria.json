@@ -1,0 +1,320 @@
+{
+  "id": "syria",
+  "name": "Syria",
+  "era": "modern",
+  "region": "Middle East",
+  "startYear": 1946,
+  "endYear": null,
+  "capital": "Damascus",
+  "capitalCoords": [
+    36.29,
+    33.51
+  ],
+  "summary": "Became independent from France in 1946; ruled by the Assad family from 1970; a civil war began in 2011 and Assad fell in December 2024.",
+  "wikiTitle": "Syria",
+  "borderNames": [
+    "Syria"
+  ],
+  "borderYears": [
+    1946,
+    null
+  ],
+  "color": "#c03a3a",
+  "knownFor": [
+    {
+      "label": "Damascus",
+      "kind": "monument",
+      "note": "One of the oldest continuously inhabited cities."
+    },
+    {
+      "label": "Aleppo soap",
+      "kind": "textile",
+      "note": "Olive and laurel oil soap."
+    },
+    {
+      "label": "Damask",
+      "kind": "textile",
+      "note": "Patterned fabric named after Damascus."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Eastern Mediterranean; about 185,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      },
+      "terrain": {
+        "value": "Coast, mountains, Euphrates valley, desert.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      },
+      "climate": {
+        "value": "Mediterranean; dry inland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      },
+      "resources": {
+        "value": "Oil, wheat, cotton.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      },
+      "disasters": {
+        "value": "Drought (2006–10); earthquake (2023).",
+        "year": 2023,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 23 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      },
+      "urbanisation": {
+        "value": "Damascus and Aleppo.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      },
+      "disease": {
+        "value": "Health system damaged by war.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      },
+      "migration": {
+        "value": "Over 6 million refugees left after 2011.",
+        "year": 2011,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming and oil before the war.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      },
+      "tradeRoutes": {
+        "value": "Old caravan routes; port of Latakia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      },
+      "wealth": {
+        "value": "Much poorer since the war.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      },
+      "moneyAndTax": {
+        "value": "The Syrian pound.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Syria"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A transitional government since the fall of Assad (2024).",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Syria"
+      },
+      "keyRulers": {
+        "value": "Shukri al-Quwatli. Hafez al-Assad. Bashar al-Assad.",
+        "year": 1970,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      },
+      "succession": {
+        "value": "Coups, then Assad family rule.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      },
+      "institutions": {
+        "value": "Ba’ath Party until 2024.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      },
+      "stability": {
+        "value": "Civil war from 2011; Assad fell (2024).",
+        "year": 2011,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Syria"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Army; many armed groups during the war.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      },
+      "majorWars": {
+        "value": "Arab–Israeli wars (1948, 1967, 1973); civil war (2011–24).",
+        "year": 1967,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      },
+      "territoryChange": {
+        "value": "Golan Heights occupied by Israel since 1967.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Syria"
+      },
+      "alliancesRivals": {
+        "value": "Allied with Iran and Russia under Assad.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Syria"
+      },
+      "scienceEducation": {
+        "value": "Universities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Syria"
+      },
+      "communicationTransport": {
+        "value": "Roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sunni Muslim majority; Alawite, Christian and Druze minorities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      },
+      "languageWriting": {
+        "value": "Arabic; Kurdish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      },
+      "artsArchitecture": {
+        "value": "Umayyad Mosque; old cities of Aleppo and Damascus.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      },
+      "socialStructure": {
+        "value": "Arabs, Kurds and others.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      },
+      "sharedIdentity": {
+        "value": "Deeply divided by the war.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Syria"
+      },
+      "dailyLife": {
+        "value": "Apartments; kibbeh, hummus, flatbread.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Turkey, Iraq, Jordan, Israel, Lebanon.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      },
+      "ideasReligions": {
+        "value": "Arab nationalism; Ba’athism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      },
+      "colonisation": {
+        "value": "Ottoman until 1918; French mandate (1920–46).",
+        "year": 1920,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1946).",
+        "year": 1946,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Syria"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Syria"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Syria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Syria"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Syria"
+      }
+    }
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "id": "uganda",
+  "name": "Uganda",
+  "era": "modern",
+  "region": "East Africa",
+  "startYear": 1962,
+  "endYear": null,
+  "capital": "Kampala",
+  "capitalCoords": [
+    32.58,
+    0.35
+  ],
+  "summary": "A British protectorate around the old Kingdom of Buganda, independent in 1962; Idi Amin’s rule (1971–79) was brutal; Yoweri Museveni has ruled since 1986.",
+  "wikiTitle": "Uganda",
+  "borderNames": [
+    "Uganda"
+  ],
+  "borderYears": [
+    1962,
+    null
+  ],
+  "color": "#c9a23a",
+  "knownFor": [
+    {
+      "label": "Source of the Nile",
+      "kind": "monument",
+      "note": "The White Nile leaves Lake Victoria at Jinja."
+    },
+    {
+      "label": "Mountain gorillas",
+      "kind": "monument",
+      "note": "In Bwindi forest."
+    },
+    {
+      "label": "Kasubi Tombs",
+      "kind": "monument",
+      "note": "Tombs of the kings of Buganda."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "East Africa, landlocked; about 241,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "terrain": {
+        "value": "Plateau and great lakes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "climate": {
+        "value": "Tropical but mild.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "resources": {
+        "value": "Coffee, fish, oil.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "disasters": {
+        "value": "Landslides.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 49 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "urbanisation": {
+        "value": "Kampala.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "disease": {
+        "value": "HIV (falling since the 1990s); Ebola outbreaks.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "migration": {
+        "value": "Asians expelled by Amin (1972).",
+        "year": 1972,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Coffee, farming, services.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "tradeRoutes": {
+        "value": "Through Kenya.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "wealth": {
+        "value": "A low-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "moneyAndTax": {
+        "value": "The Ugandan shilling.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Uganda"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A presidential republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "keyRulers": {
+        "value": "Milton Obote. Idi Amin. Yoweri Museveni.",
+        "year": 1971,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "succession": {
+        "value": "Coups; Museveni since 1986.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "institutions": {
+        "value": "Parliament.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "stability": {
+        "value": "Amin’s rule; the LRA insurgency in the north.",
+        "year": 1971,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Uganda"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Armed forces.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "majorWars": {
+        "value": "Uganda–Tanzania War (1978–79).",
+        "year": 1978,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "territoryChange": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "alliancesRivals": {
+        "value": "East African Community.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Uganda"
+      },
+      "scienceEducation": {
+        "value": "Makerere University.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Uganda"
+      },
+      "communicationTransport": {
+        "value": "Roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Christian.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "languageWriting": {
+        "value": "English and Swahili; Luganda.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "artsArchitecture": {
+        "value": "Bark cloth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "socialStructure": {
+        "value": "Baganda and many others; traditional kingdoms restored (1993).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "sharedIdentity": {
+        "value": "National identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "dailyLife": {
+        "value": "Houses; matoke (bananas).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Kenya, South Sudan, DR Congo, Rwanda, Tanzania.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "ideasReligions": {
+        "value": "Christianity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "colonisation": {
+        "value": "A British protectorate until 1962.",
+        "year": 1894,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1962).",
+        "year": 1962,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Uganda"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Uganda"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Uganda.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uganda"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Uganda"
+      }
+    }
+  }
+}

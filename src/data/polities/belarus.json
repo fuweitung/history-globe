@@ -1,0 +1,322 @@
+{
+  "id": "belarus",
+  "name": "Belarus",
+  "era": "modern",
+  "region": "Eastern Europe",
+  "startYear": 1991,
+  "endYear": null,
+  "capital": "Minsk",
+  "capitalCoords": [
+    27.56,
+    53.9
+  ],
+  "summary": "Independent since the Soviet Union broke up in 1991; ruled by Alexander Lukashenko since 1994, closely allied with Russia.",
+  "wikiTitle": "Belarus",
+  "borderNames": [
+    "Byelarus",
+    "Belarus"
+  ],
+  "borderYears": [
+    1991,
+    null
+  ],
+  "color": "#3a8a4a",
+  "knownFor": [
+    {
+      "label": "Belovezha Accords",
+      "kind": "idea",
+      "year": 1991,
+      "note": "Signed in Belarus, ending the USSR."
+    },
+    {
+      "label": "Białowieża Forest",
+      "kind": "monument",
+      "note": "Ancient forest with European bison."
+    },
+    {
+      "label": "Draniki",
+      "kind": "food",
+      "note": "Potato pancakes."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Eastern Europe, landlocked.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      },
+      "terrain": {
+        "value": "Flat, with forests and marshes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      },
+      "climate": {
+        "value": "Continental.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      },
+      "resources": {
+        "value": "Potash, forests, farmland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      },
+      "disasters": {
+        "value": "Fallout from Chernobyl (1986).",
+        "year": 1986,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 9 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      },
+      "urbanisation": {
+        "value": "Minsk.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      },
+      "disease": {
+        "value": "Moderate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Belarus"
+      },
+      "migration": {
+        "value": "Emigration, especially after 2020.",
+        "year": 2020,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "State-run industry, potash, farming.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      },
+      "tradeRoutes": {
+        "value": "Trade mainly with Russia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      },
+      "wealth": {
+        "value": "An upper-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      },
+      "moneyAndTax": {
+        "value": "The Belarusian ruble.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      },
+      "inequality": {
+        "value": "Moderate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Belarus"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A presidential republic with authoritarian rule.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      },
+      "keyRulers": {
+        "value": "Alexander Lukashenko (since 1994).",
+        "year": 1994,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      },
+      "succession": {
+        "value": "Elections widely judged unfree, e.g. 2020.",
+        "year": 2020,
+        "certainty": "disputed",
+        "source": "Wikipedia: Belarus"
+      },
+      "institutions": {
+        "value": "Strong presidency.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      },
+      "stability": {
+        "value": "Mass protests in 2020 were suppressed.",
+        "year": 2020,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      },
+      "eliteConflict": {
+        "value": "Opposition leaders jailed or exiled.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Belarus"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Allied with Russia (CSTO).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      },
+      "majorWars": {
+        "value": "Devastated in the Second World War (about a quarter of the population died).",
+        "year": 1941,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      },
+      "territoryChange": {
+        "value": "None since 1991.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      },
+      "alliancesRivals": {
+        "value": "Union State with Russia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Belarus"
+      },
+      "scienceEducation": {
+        "value": "High literacy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      },
+      "openness": {
+        "value": "Restricted.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Belarus"
+      },
+      "communicationTransport": {
+        "value": "Railways.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Orthodox.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      },
+      "languageWriting": {
+        "value": "Belarusian and Russian.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      },
+      "artsArchitecture": {
+        "value": "Marc Chagall was born in Vitebsk.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      },
+      "socialStructure": {
+        "value": "Moderate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Belarus"
+      },
+      "sharedIdentity": {
+        "value": "Belarusian and Russian identities overlap.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Belarus"
+      },
+      "dailyLife": {
+        "value": "Apartments; potatoes, draniki.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Russia, Ukraine, Poland, Lithuania, Latvia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      },
+      "ideasReligions": {
+        "value": "Soviet heritage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Belarus"
+      },
+      "colonisation": {
+        "value": "Part of the USSR.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1991).",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      },
+      "peakPeriod": {
+        "value": "Stable but closed.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Belarus"
+      },
+      "declineSignals": {
+        "value": "Sanctions after 2020.",
+        "year": 2020,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Belarus.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belarus"
+      },
+      "overallCertainty": {
+        "value": "Official figures are hard to verify.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Belarus"
+      }
+    }
+  }
+}

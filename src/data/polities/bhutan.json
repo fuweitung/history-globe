@@ -1,0 +1,320 @@
+{
+  "id": "bhutan",
+  "name": "Bhutan",
+  "era": "early_modern",
+  "region": "South Asia",
+  "startYear": 1616,
+  "endYear": null,
+  "capital": "Thimphu",
+  "capitalCoords": [
+    89.64,
+    27.47
+  ],
+  "summary": "A Himalayan Buddhist kingdom unified by Zhabdrung Ngawang Namgyal from 1616; ruled by the Wangchuck kings since 1907; measures “Gross National Happiness”.",
+  "wikiTitle": "Bhutan",
+  "borderNames": [
+    "Bhutan"
+  ],
+  "borderYears": [
+    1616,
+    null
+  ],
+  "color": "#e08a3a",
+  "knownFor": [
+    {
+      "label": "Gross National Happiness",
+      "kind": "idea",
+      "note": "Wellbeing as a national goal."
+    },
+    {
+      "label": "Tiger’s Nest",
+      "kind": "monument",
+      "note": "Cliffside monastery."
+    },
+    {
+      "label": "Dzongs",
+      "kind": "monument",
+      "note": "Fortress-monasteries."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Eastern Himalaya; about 38,400 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "terrain": {
+        "value": "Steep mountains and valleys.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "climate": {
+        "value": "Subtropical to alpine.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "resources": {
+        "value": "Hydropower, forests.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "disasters": {
+        "value": "Glacial lake floods.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 780,000.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "urbanisation": {
+        "value": "Thimphu.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "disease": {
+        "value": "Free health care.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "migration": {
+        "value": "Expulsion of Lhotshampa (Nepali-speaking) people in the 1990s.",
+        "year": 1990,
+        "certainty": "disputed",
+        "source": "Wikipedia: Bhutan"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Hydropower sold to India; tourism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "tradeRoutes": {
+        "value": "Roads to India.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "wealth": {
+        "value": "A lower-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "moneyAndTax": {
+        "value": "The ngultrum.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bhutan"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A constitutional monarchy since 2008.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "keyRulers": {
+        "value": "Ngawang Namgyal. Ugyen Wangchuck. Jigme Singye Wangchuck.",
+        "year": 1907,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "succession": {
+        "value": "Wangchuck kings.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "institutions": {
+        "value": "Parliament (2008).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "stability": {
+        "value": "Stable.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bhutan"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Small army.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "majorWars": {
+        "value": "Duar War with Britain (1864–65).",
+        "year": 1864,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "territoryChange": {
+        "value": "Lost the Duars (1865).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "alliancesRivals": {
+        "value": "Close to India.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bhutan"
+      },
+      "scienceEducation": {
+        "value": "Monastic education; modern schools.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bhutan"
+      },
+      "communicationTransport": {
+        "value": "Mountain roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Vajrayana Buddhism; Hindu minority.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "languageWriting": {
+        "value": "Dzongkha.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "artsArchitecture": {
+        "value": "Dzongs; masked dances.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "socialStructure": {
+        "value": "Ngalop, Sharchop and Lhotshampa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "sharedIdentity": {
+        "value": "Buddhist kingdom.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "dailyLife": {
+        "value": "Houses; ema datshi (chilli cheese).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "India, China (Tibet).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "ideasReligions": {
+        "value": "Drukpa Buddhism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "colonisation": {
+        "value": "Never colonised.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Unified by Ngawang Namgyal (1616).",
+        "year": 1616,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "peakPeriod": {
+        "value": "Under the monarchy (1907–).",
+        "year": 1907,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "declineSignals": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Bhutan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bhutan"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bhutan"
+      }
+    }
+  }
+}

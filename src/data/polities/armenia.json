@@ -1,0 +1,320 @@
+{
+  "id": "armenia",
+  "name": "Armenia",
+  "era": "modern",
+  "region": "Caucasus",
+  "startYear": 1991,
+  "endYear": null,
+  "capital": "Yerevan",
+  "capitalCoords": [
+    44.51,
+    40.18
+  ],
+  "summary": "An ancient nation in the Caucasus, the first to adopt Christianity as a state religion (301); briefly independent (1918–20), Soviet, then independent again in 1991.",
+  "wikiTitle": "Armenia",
+  "borderNames": [
+    "Armenia"
+  ],
+  "borderYears": [
+    1991,
+    null
+  ],
+  "color": "#c08a3a",
+  "knownFor": [
+    {
+      "label": "Armenian alphabet",
+      "kind": "idea",
+      "note": "Created by Mesrop Mashtots about 405."
+    },
+    {
+      "label": "Khachkars",
+      "kind": "art",
+      "note": "Carved cross-stones."
+    },
+    {
+      "label": "Mount Ararat",
+      "kind": "monument",
+      "note": "National symbol, now in Turkey."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "South Caucasus; about 29,700 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      },
+      "terrain": {
+        "value": "Mountains and Lake Sevan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      },
+      "climate": {
+        "value": "Dry continental.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      },
+      "resources": {
+        "value": "Copper, gold.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      },
+      "disasters": {
+        "value": "Spitak earthquake (1988).",
+        "year": 1988,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 3 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      },
+      "urbanisation": {
+        "value": "Yerevan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      },
+      "disease": {
+        "value": "Good basic health care.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      },
+      "migration": {
+        "value": "Large diaspora, partly from the 1915 genocide.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Mining, IT, remittances.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      },
+      "tradeRoutes": {
+        "value": "Borders with Turkey and Azerbaijan closed.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      },
+      "wealth": {
+        "value": "An upper-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      },
+      "moneyAndTax": {
+        "value": "The dram.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Armenia"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      },
+      "keyRulers": {
+        "value": "Levon Ter-Petrosyan. Nikol Pashinyan.",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      },
+      "institutions": {
+        "value": "National Assembly.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      },
+      "stability": {
+        "value": "Velvet Revolution (2018).",
+        "year": 2018,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Armenia"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Armed forces.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      },
+      "majorWars": {
+        "value": "Nagorno-Karabakh wars (1988–94, 2020, 2023).",
+        "year": 1988,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      },
+      "territoryChange": {
+        "value": "Lost control of Nagorno-Karabakh (2020–23).",
+        "year": 2023,
+        "certainty": "disputed",
+        "source": "Wikipedia: Armenia"
+      },
+      "alliancesRivals": {
+        "value": "Tensions with Azerbaijan and Turkey.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Armenia"
+      },
+      "scienceEducation": {
+        "value": "Strong science tradition.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Armenia"
+      },
+      "communicationTransport": {
+        "value": "Roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Armenian Apostolic Church.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      },
+      "languageWriting": {
+        "value": "Armenian (own alphabet).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      },
+      "artsArchitecture": {
+        "value": "Medieval monasteries (Geghard).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      },
+      "socialStructure": {
+        "value": "Almost all ethnic Armenian.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      },
+      "sharedIdentity": {
+        "value": "Christianity, language and genocide memory.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      },
+      "dailyLife": {
+        "value": "Apartments; lavash, khorovats.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Georgia, Azerbaijan, Iran, Turkey.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      },
+      "ideasReligions": {
+        "value": "Armenian Apostolic Christianity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      },
+      "colonisation": {
+        "value": "Part of the Russian Empire from the 1800s and the Soviet Union from the 1920s until 1991.",
+        "year": 1924,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1991).",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Armenia"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Armenia"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Armenia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Armenia"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Armenia"
+      }
+    }
+  }
+}

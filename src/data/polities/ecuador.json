@@ -1,0 +1,320 @@
+{
+  "id": "ecuador",
+  "name": "Ecuador",
+  "era": "modern",
+  "region": "South America",
+  "startYear": 1830,
+  "endYear": null,
+  "capital": "Quito",
+  "capitalCoords": [
+    -78.47,
+    -0.18
+  ],
+  "summary": "Left Gran Colombia in 1830; an Andean and Amazonian country on the equator that also owns the Galápagos Islands.",
+  "wikiTitle": "Ecuador",
+  "borderNames": [
+    "Ecuador"
+  ],
+  "borderYears": [
+    1830,
+    null
+  ],
+  "color": "#c9a23a",
+  "knownFor": [
+    {
+      "label": "Galápagos Islands",
+      "kind": "monument",
+      "note": "Islands that inspired Darwin."
+    },
+    {
+      "label": "Panama hat",
+      "kind": "textile",
+      "note": "Actually made in Ecuador from toquilla straw."
+    },
+    {
+      "label": "Bananas",
+      "kind": "food",
+      "note": "One of the largest exporters."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "North-western South America on the equator; about 257,000 km² plus the Galápagos.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "terrain": {
+        "value": "Pacific coast, Andes, Amazon rainforest.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "climate": {
+        "value": "Tropical; cool in the highlands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "resources": {
+        "value": "Oil, bananas, shrimp, cocoa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "disasters": {
+        "value": "Earthquakes (2016) and volcanoes.",
+        "year": 2016,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 18 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "urbanisation": {
+        "value": "Guayaquil and Quito.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "disease": {
+        "value": "Dengue.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "migration": {
+        "value": "Large emigration to Spain and the US around 2000.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Oil, bananas, shrimp.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "tradeRoutes": {
+        "value": "Port of Guayaquil.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "wealth": {
+        "value": "An upper-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "moneyAndTax": {
+        "value": "Uses the US dollar since 2000.",
+        "year": 2000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ecuador"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A presidential republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "keyRulers": {
+        "value": "Juan José Flores. Gabriel García Moreno. Eloy Alfaro. Rafael Correa.",
+        "year": 1830,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "succession": {
+        "value": "Elections, with periods of instability.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "institutions": {
+        "value": "2008 constitution gave rights to nature.",
+        "year": 2008,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "stability": {
+        "value": "Many changes of government; gang violence since 2023.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ecuador"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Armed forces.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "majorWars": {
+        "value": "Wars with Peru (1941, 1995).",
+        "year": 1941,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "territoryChange": {
+        "value": "Lost Amazon lands to Peru (1942).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "alliancesRivals": {
+        "value": "Andean Community.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ecuador"
+      },
+      "scienceEducation": {
+        "value": "Universities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ecuador"
+      },
+      "communicationTransport": {
+        "value": "Pan-American Highway.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Catholic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "languageWriting": {
+        "value": "Spanish; Kichwa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "artsArchitecture": {
+        "value": "Colonial Quito (World Heritage Site).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "socialStructure": {
+        "value": "Mestizo majority; Indigenous and Afro-Ecuadorian peoples.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "sharedIdentity": {
+        "value": "National identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "dailyLife": {
+        "value": "Houses; rice, plantains, ceviche.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Colombia, Peru.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "ideasReligions": {
+        "value": "Indigenous movements.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "colonisation": {
+        "value": "Part of the Spanish Empire until 1822.",
+        "year": 1822,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Separation from Gran Colombia (1830).",
+        "year": 1830,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ecuador"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ecuador"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Ecuador.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ecuador"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ecuador"
+      }
+    }
+  }
+}

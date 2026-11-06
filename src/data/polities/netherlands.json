@@ -1,0 +1,328 @@
+{
+  "id": "netherlands",
+  "name": "Kingdom of the Netherlands",
+  "era": "modern",
+  "region": "Western Europe",
+  "startYear": 1815,
+  "endYear": null,
+  "capital": "Amsterdam (government in The Hague)",
+  "capitalCoords": [
+    4.9,
+    52.37
+  ],
+  "summary": "The monarchy founded in 1815 after the Napoleonic wars. It held a colonial empire until 1975 and is today a trading nation famous for its water management.",
+  "wikiTitle": "Netherlands",
+  "borderNames": [
+    "Netherlands Antilles"
+  ],
+  "borderNameYears": {
+    "Netherlands": [
+      1976,
+      null
+    ]
+  },
+  "borderYears": [
+    1976,
+    null
+  ],
+  "color": "#e07a2a",
+  "knownFor": [
+    {
+      "label": "Delta Works",
+      "kind": "monument",
+      "year": 1997,
+      "note": "Dams and barriers protecting the country from the sea."
+    },
+    {
+      "label": "Van Gogh",
+      "kind": "person",
+      "year": 1888,
+      "note": "Painter Vincent van Gogh."
+    },
+    {
+      "label": "Bicycles",
+      "kind": "tool",
+      "note": "More bicycles than people."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "North-west Europe on the North Sea; about 42,000 km², plus Caribbean islands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "terrain": {
+        "value": "Very flat; about a quarter is below sea level, protected by dikes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "climate": {
+        "value": "Mild and wet.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "resources": {
+        "value": "Natural gas (Groningen), farmland, ports.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "disasters": {
+        "value": "The North Sea flood of 1953 killed 1,836 people.",
+        "year": 1953,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 18 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "urbanisation": {
+        "value": "Amsterdam, Rotterdam, The Hague, Utrecht.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "disease": {
+        "value": "The “Hunger Winter” famine (1944–45).",
+        "year": 1944,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "migration": {
+        "value": "Immigration from Indonesia, Suriname, Turkey and Morocco.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Trade, logistics (Port of Rotterdam), farming exports, technology.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "tradeRoutes": {
+        "value": "Rotterdam is Europe’s largest port.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "wealth": {
+        "value": "A high-income economy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "moneyAndTax": {
+        "value": "The guilder, then the euro (2002).",
+        "year": 2002,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "inequality": {
+        "value": "Low inequality.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Netherlands"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A constitutional monarchy and parliamentary democracy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "keyRulers": {
+        "value": "William I. Queen Wilhelmina. Queen Juliana. Queen Beatrix. Willem-Alexander.",
+        "year": 1815,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "succession": {
+        "value": "Elections; coalition governments.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "institutions": {
+        "value": "Parliament (States General); the International Court of Justice sits in The Hague.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "stability": {
+        "value": "Neutral in the First World War; occupied by Germany (1940–45).",
+        "year": 1940,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "eliteConflict": {
+        "value": "Coalition politics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Netherlands"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "NATO member.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "majorWars": {
+        "value": "Second World War; colonial wars in Indonesia (1945–49).",
+        "year": 1945,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "territoryChange": {
+        "value": "Belgium left in 1830; colonies became independent.",
+        "year": 1830,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "alliancesRivals": {
+        "value": "NATO and EU founder.",
+        "year": 1957,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "ASML chip machines; the compact cassette and CD (Philips).",
+        "year": 1963,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "scienceEducation": {
+        "value": "High education levels.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "openness": {
+        "value": "Very open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "communicationTransport": {
+        "value": "Canals, bicycles, railways.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Christian traditions; very secular today.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "languageWriting": {
+        "value": "Dutch; Frisian.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "artsArchitecture": {
+        "value": "Van Gogh, Mondrian, Anne Frank’s diary.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "socialStructure": {
+        "value": "Large middle class.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Netherlands"
+      },
+      "sharedIdentity": {
+        "value": "Pragmatic, tolerant identity.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Netherlands"
+      },
+      "dailyLife": {
+        "value": "Narrow brick houses and flats; bread, cheese, herring.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Germany, Belgium.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "ideasReligions": {
+        "value": "Liberal social policies.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "colonisation": {
+        "value": "Colonial empire until 1975.",
+        "year": 1975,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Restored as a kingdom in 1815.",
+        "year": 1815,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "peakPeriod": {
+        "value": "Post-war prosperity.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Netherlands"
+      },
+      "declineSignals": {
+        "value": "None major.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Netherlands"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Netherlands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Netherlands"
+      }
+    }
+  }
+}

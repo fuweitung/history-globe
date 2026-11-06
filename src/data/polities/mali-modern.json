@@ -1,0 +1,320 @@
+{
+  "id": "mali-modern",
+  "name": "Mali (since 1960)",
+  "era": "modern",
+  "region": "West Africa",
+  "startYear": 1960,
+  "endYear": null,
+  "capital": "Bamako",
+  "capitalCoords": [
+    -8,
+    12.64
+  ],
+  "summary": "Independent from France in 1960, named after the medieval Mali Empire; since 2012 it has faced rebellion, jihadist violence and military coups.",
+  "wikiTitle": "Mali",
+  "borderNames": [
+    "Mali"
+  ],
+  "borderYears": [
+    1960,
+    null
+  ],
+  "color": "#3a8a4a",
+  "knownFor": [
+    {
+      "label": "Great Mosque of Djenné",
+      "kind": "monument",
+      "note": "The largest mud-brick building, rebuilt in 1907."
+    },
+    {
+      "label": "Timbuktu manuscripts",
+      "kind": "idea",
+      "note": "Old manuscripts saved from destruction in 2013."
+    },
+    {
+      "label": "Malian music",
+      "kind": "art",
+      "note": "Ali Farka Touré, Salif Keita."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "West Africa, landlocked; about 1.24 million km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "terrain": {
+        "value": "Sahara in the north, Sahel and the Niger River in the south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "climate": {
+        "value": "Hot and dry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "resources": {
+        "value": "Gold, cotton.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "disasters": {
+        "value": "Droughts (1970s–80s).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 23 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "urbanisation": {
+        "value": "Bamako.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "disease": {
+        "value": "Malaria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "migration": {
+        "value": "Displacement from conflict.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Gold, cotton, farming.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "tradeRoutes": {
+        "value": "Through Senegal and Ivory Coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "wealth": {
+        "value": "A low-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "moneyAndTax": {
+        "value": "The West African CFA franc, shared with neighbours and pegged to the euro.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mali"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A republic; military rule since 2020.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "keyRulers": {
+        "value": "Modibo Keïta. Moussa Traoré. Alpha Oumar Konaré.",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "succession": {
+        "value": "Coups in 1968, 1991, 2012, 2020 and 2021.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "institutions": {
+        "value": "Weakened by conflict.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "stability": {
+        "value": "Tuareg rebellion and jihadist occupation of the north (2012).",
+        "year": 2012,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mali"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Armed forces with foreign support.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "majorWars": {
+        "value": "Mali War (since 2012).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "territoryChange": {
+        "value": "The north is partly outside government control.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "alliancesRivals": {
+        "value": "Turned from France to Russia after 2021.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mali"
+      },
+      "scienceEducation": {
+        "value": "Timbuktu’s scholarly tradition.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mali"
+      },
+      "communicationTransport": {
+        "value": "Niger River boats.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Muslim.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "languageWriting": {
+        "value": "Bambara and other languages are official.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "artsArchitecture": {
+        "value": "Mud-brick mosques, music.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "socialStructure": {
+        "value": "Bambara, Fula, Tuareg and others.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "sharedIdentity": {
+        "value": "Pride in the Mali Empire.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "dailyLife": {
+        "value": "Mud-brick houses; millet, rice.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Algeria, Niger, Burkina Faso, Ivory Coast, Guinea, Senegal, Mauritania.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "ideasReligions": {
+        "value": "Sufi Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "colonisation": {
+        "value": "A French colony (part of French West Africa) until 1960.",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1960).",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mali"
+      },
+      "declineSignals": {
+        "value": "Conflict since 2012.",
+        "year": 2012,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Mali.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mali"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mali"
+      }
+    }
+  }
+}

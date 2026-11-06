@@ -1,0 +1,320 @@
+{
+  "id": "kuwait",
+  "name": "Kuwait",
+  "era": "modern",
+  "region": "Middle East (Arabia)",
+  "startYear": 1961,
+  "endYear": null,
+  "capital": "Kuwait City",
+  "capitalCoords": [
+    47.98,
+    29.37
+  ],
+  "summary": "A trading town under the Al Sabah family since the 1750s; a British protectorate from 1899; independent in 1961; invaded by Iraq in 1990 and freed in 1991.",
+  "wikiTitle": "Kuwait",
+  "borderNames": [
+    "Kuwait"
+  ],
+  "borderYears": [
+    1961,
+    null
+  ],
+  "color": "#3a8a4a",
+  "knownFor": [
+    {
+      "label": "Kuwait Towers",
+      "kind": "monument",
+      "note": "Landmark water towers."
+    },
+    {
+      "label": "Pearl diving",
+      "kind": "idea",
+      "note": "Main trade before oil."
+    },
+    {
+      "label": "Dhow boats",
+      "kind": "tool",
+      "note": "Wooden trading ships."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Head of the Persian Gulf; about 17,800 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "terrain": {
+        "value": "Flat desert.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "climate": {
+        "value": "Very hot and dry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "resources": {
+        "value": "Oil.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "disasters": {
+        "value": "Oil fires set by Iraqi troops (1991).",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 4.9 million, most of them foreign workers.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "urbanisation": {
+        "value": "Almost all urban.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "disease": {
+        "value": "Good health care.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "migration": {
+        "value": "Large foreign workforce from South Asia and Egypt.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Oil.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "tradeRoutes": {
+        "value": "Gulf shipping.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "wealth": {
+        "value": "A high-income economy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "moneyAndTax": {
+        "value": "The Kuwaiti dinar (one of the strongest currencies).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kuwait"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "An emirate with an elected parliament.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "keyRulers": {
+        "value": "Mubarak the Great. Abdullah Al-Salim Al-Sabah. Jaber Al-Ahmad.",
+        "year": 1899,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "succession": {
+        "value": "Al Sabah family.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "institutions": {
+        "value": "National Assembly (1963), often suspended.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "stability": {
+        "value": "Stable apart from the Iraqi invasion.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kuwait"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Small army; US bases.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "majorWars": {
+        "value": "Iraqi invasion and Gulf War (1990–91).",
+        "year": 1990,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "territoryChange": {
+        "value": "Iraq claimed Kuwait until 1994.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "alliancesRivals": {
+        "value": "Gulf Cooperation Council.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kuwait"
+      },
+      "scienceEducation": {
+        "value": "Kuwait University.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kuwait"
+      },
+      "communicationTransport": {
+        "value": "Roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Muslim (Sunni and Shia).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "languageWriting": {
+        "value": "Arabic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "artsArchitecture": {
+        "value": "Modern architecture.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "socialStructure": {
+        "value": "Citizens are a minority; stateless Bidoon.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "sharedIdentity": {
+        "value": "Kuwaiti identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "dailyLife": {
+        "value": "Houses; machboos.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Iraq, Saudi Arabia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "ideasReligions": {
+        "value": "Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "colonisation": {
+        "value": "British protectorate (1899–1961).",
+        "year": 1899,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1961).",
+        "year": 1961,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kuwait"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kuwait"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Kuwait.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuwait"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kuwait"
+      }
+    }
+  }
+}

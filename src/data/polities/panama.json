@@ -1,0 +1,321 @@
+{
+  "id": "panama",
+  "name": "Panama",
+  "era": "modern",
+  "region": "Central America",
+  "startYear": 1903,
+  "endYear": null,
+  "capital": "Panama City",
+  "capitalCoords": [
+    -79.52,
+    8.98
+  ],
+  "summary": "Separated from Colombia in 1903 with US support; the Panama Canal (1914) was handed to Panama in 1999.",
+  "wikiTitle": "Panama",
+  "borderNames": [
+    "Panama"
+  ],
+  "borderYears": [
+    1903,
+    null
+  ],
+  "color": "#c03a3a",
+  "knownFor": [
+    {
+      "label": "Panama Canal",
+      "kind": "monument",
+      "year": 1914,
+      "note": "Links the Atlantic and Pacific."
+    },
+    {
+      "label": "Molas",
+      "kind": "textile",
+      "note": "Guna textile panels."
+    },
+    {
+      "label": "Casco Viejo",
+      "kind": "monument",
+      "note": "Old town of Panama City."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The isthmus joining North and South America; about 75,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "terrain": {
+        "value": "Mountains and rainforest.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "resources": {
+        "value": "The canal, banking.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "disasters": {
+        "value": "Floods.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 4.5 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "urbanisation": {
+        "value": "Panama City.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "disease": {
+        "value": "Yellow fever and malaria during canal building.",
+        "year": 1904,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "migration": {
+        "value": "Caribbean workers built the canal.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Canal, banking, logistics.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "tradeRoutes": {
+        "value": "The Panama Canal.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "wealth": {
+        "value": "A high-income economy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "moneyAndTax": {
+        "value": "The balboa and US dollar.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Panama"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A presidential republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "keyRulers": {
+        "value": "Omar Torrijos. Manuel Noriega.",
+        "year": 1968,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "succession": {
+        "value": "Elections since 1989.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "institutions": {
+        "value": "National Assembly.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "stability": {
+        "value": "US invasion removed Noriega (1989).",
+        "year": 1989,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Panama"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "No army since 1990.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "majorWars": {
+        "value": "US invasion (1989).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "territoryChange": {
+        "value": "Canal Zone returned (1999).",
+        "year": 1999,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "alliancesRivals": {
+        "value": "Close to the US.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Panama"
+      },
+      "scienceEducation": {
+        "value": "Universities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Panama"
+      },
+      "communicationTransport": {
+        "value": "Panama Canal and railway.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Catholic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "languageWriting": {
+        "value": "Spanish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "artsArchitecture": {
+        "value": "Molas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "socialStructure": {
+        "value": "Mestizo, Afro-Panamanian and Indigenous.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "sharedIdentity": {
+        "value": "Canal pride.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "dailyLife": {
+        "value": "Apartments; sancocho.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Costa Rica, Colombia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "ideasReligions": {
+        "value": "Trade hub.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "colonisation": {
+        "value": "Part of Colombia until 1903.",
+        "year": 1903,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1903).",
+        "year": 1903,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Panama"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Panama"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Panama.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Panama"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Panama"
+      }
+    }
+  }
+}

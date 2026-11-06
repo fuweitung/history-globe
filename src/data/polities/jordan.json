@@ -1,0 +1,320 @@
+{
+  "id": "jordan",
+  "name": "Jordan",
+  "era": "modern",
+  "region": "Middle East",
+  "startYear": 1946,
+  "endYear": null,
+  "capital": "Amman",
+  "capitalCoords": [
+    35.93,
+    31.95
+  ],
+  "summary": "Created as the British mandate of Transjordan in 1921 under the Hashemite family; independent in 1946; a stable kingdom that hosts many refugees.",
+  "wikiTitle": "Jordan",
+  "borderNames": [
+    "Jordan"
+  ],
+  "borderYears": [
+    1946,
+    null
+  ],
+  "color": "#3a8a4a",
+  "knownFor": [
+    {
+      "label": "Petra",
+      "kind": "monument",
+      "note": "Nabataean city carved in rock."
+    },
+    {
+      "label": "Dead Sea",
+      "kind": "monument",
+      "note": "Lowest land on Earth."
+    },
+    {
+      "label": "Mansaf",
+      "kind": "food",
+      "note": "Lamb with yoghurt and rice."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "East of the Jordan River; about 89,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "terrain": {
+        "value": "Mostly desert; Jordan valley; highlands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "climate": {
+        "value": "Dry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "resources": {
+        "value": "Phosphate, potash.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "disasters": {
+        "value": "Droughts; water scarcity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 11 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "urbanisation": {
+        "value": "Amman.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "disease": {
+        "value": "Good health care.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "migration": {
+        "value": "Palestinian, Iraqi and Syrian refugees.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Services, phosphates, tourism, aid.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "tradeRoutes": {
+        "value": "Port of Aqaba.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "wealth": {
+        "value": "An upper-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "moneyAndTax": {
+        "value": "The Jordanian dinar.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Jordan"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A constitutional monarchy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "keyRulers": {
+        "value": "Abdullah I. Hussein. Abdullah II.",
+        "year": 1952,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "succession": {
+        "value": "Hashemite kings.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "institutions": {
+        "value": "Parliament; strong king.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "stability": {
+        "value": "Black September (1970) against Palestinian groups.",
+        "year": 1970,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Jordan"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Arab Legion, now the Jordan Armed Forces.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "majorWars": {
+        "value": "Arab–Israeli wars (1948, 1967).",
+        "year": 1948,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "territoryChange": {
+        "value": "Ruled the West Bank 1948/50–67.",
+        "year": 1967,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "alliancesRivals": {
+        "value": "Close to Britain and the US; peace treaty with Israel (1994).",
+        "year": 1994,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Jordan"
+      },
+      "scienceEducation": {
+        "value": "High literacy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Jordan"
+      },
+      "communicationTransport": {
+        "value": "Desert Highway.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Sunni Muslim; Christian minority.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "languageWriting": {
+        "value": "Arabic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "artsArchitecture": {
+        "value": "Roman Jerash.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "socialStructure": {
+        "value": "Jordanians of East Bank and Palestinian origin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the Hashemite monarchy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "dailyLife": {
+        "value": "Apartments; mansaf, falafel.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Syria, Iraq, Saudi Arabia, Israel.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "ideasReligions": {
+        "value": "Moderate Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "colonisation": {
+        "value": "British mandate of Transjordan (1921–46).",
+        "year": 1921,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1946).",
+        "year": 1946,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Jordan"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Jordan"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Jordan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Jordan"
+      }
+    }
+  }
+}

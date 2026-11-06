@@ -339,5 +339,31 @@
     "sources": [
       "Wikipedia: United States (infobox, checked 6 Nov 2026)"
     ]
+  },
+  "borderNameYears": {
+    "Philippines": [
+      1899,
+      1945
+    ],
+    "Puerto Rico": [
+      1898,
+      null
+    ],
+    "United States Virgin Islands": [
+      1917,
+      null
+    ],
+    "Korea (USA)": [
+      1945,
+      1948
+    ],
+    "American Samoa": [
+      1900,
+      null
+    ],
+    "Guam": [
+      1898,
+      null
+    ]
   }
 }

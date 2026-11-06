@@ -1,0 +1,321 @@
+{
+  "id": "latvia",
+  "name": "Latvia",
+  "era": "modern",
+  "region": "Northern Europe (Baltic)",
+  "startYear": 1918,
+  "endYear": null,
+  "capital": "Riga",
+  "capitalCoords": [
+    24.1,
+    56.95
+  ],
+  "summary": "Independent in 1918, annexed by the Soviet Union in 1940, independent again in 1991 after the “Singing Revolution”; an EU and NATO member since 2004.",
+  "wikiTitle": "Latvia",
+  "borderNames": [
+    "Latvia"
+  ],
+  "borderYears": [
+    1918,
+    null
+  ],
+  "color": "#b03a4a",
+  "knownFor": [
+    {
+      "label": "Riga Art Nouveau",
+      "kind": "monument",
+      "note": "One of the largest collections of Art Nouveau buildings."
+    },
+    {
+      "label": "Song and Dance Festival",
+      "kind": "art",
+      "note": "Mass singing tradition."
+    },
+    {
+      "label": "Baltic Way",
+      "kind": "idea",
+      "year": 1989,
+      "note": "A human chain across the three Baltic states."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "On the eastern Baltic Sea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "terrain": {
+        "value": "Low plains, forests, lakes and coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "climate": {
+        "value": "Cool, with cold winters.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "resources": {
+        "value": "Forests, farmland, Baltic ports.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "disasters": {
+        "value": "Harsh winters and storms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 1.9 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "urbanisation": {
+        "value": "Riga is the largest city.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "disease": {
+        "value": "Good public health.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Latvia"
+      },
+      "migration": {
+        "value": "Mass deportations to Siberia in the 1940s; Russian-speaking settlers in Soviet times.",
+        "year": 1941,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Transport and logistics, timber, services.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "tradeRoutes": {
+        "value": "EU single market since 2004.",
+        "year": 2004,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "wealth": {
+        "value": "A high-income economy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "moneyAndTax": {
+        "value": "The lats, then the euro (2014).",
+        "year": 2014,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "inequality": {
+        "value": "Moderate inequality.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Latvia"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "keyRulers": {
+        "value": "Kārlis Ulmanis. Vaira Vīķe-Freiberga.",
+        "year": 1999,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "institutions": {
+        "value": "Parliament and courts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "stability": {
+        "value": "Soviet occupation (1940–41, 1944–91) and German occupation (1941–44).",
+        "year": 1940,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "eliteConflict": {
+        "value": "Party politics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Latvia"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "NATO member since 2004.",
+        "year": 2004,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "majorWars": {
+        "value": "Wars of independence (1918–20); Second World War.",
+        "year": 1918,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "territoryChange": {
+        "value": "Annexed by the USSR (1940); independence restored (1991).",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "alliancesRivals": {
+        "value": "NATO and EU.",
+        "year": 2004,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Latvia"
+      },
+      "scienceEducation": {
+        "value": "High literacy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "openness": {
+        "value": "Very open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "communicationTransport": {
+        "value": "Railways, ports, Rail Baltica under construction.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Lutheran, Catholic and Orthodox.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "languageWriting": {
+        "value": "Latvian, a Baltic language; Russian minority.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "artsArchitecture": {
+        "value": "Art Nouveau architecture, choirs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "socialStructure": {
+        "value": "Moderate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Latvia"
+      },
+      "sharedIdentity": {
+        "value": "A strong national identity kept alive through song festivals and language.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "dailyLife": {
+        "value": "Flats and wooden houses; rye bread, potatoes, fish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Neighbouring Baltic states, Russia, Poland, the Nordic countries.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "ideasReligions": {
+        "value": "The Baltic Way human chain (1989).",
+        "year": 1989,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "colonisation": {
+        "value": "Part of the Russian Empire and the USSR.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence declared in 1918.",
+        "year": 1918,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "peakPeriod": {
+        "value": "Growth after 2004.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Latvia"
+      },
+      "declineSignals": {
+        "value": "Soviet occupation.",
+        "year": 1940,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Latvia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Latvia"
+      }
+    }
+  }
+}

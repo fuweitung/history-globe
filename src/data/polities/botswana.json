@@ -1,0 +1,322 @@
+{
+  "id": "botswana",
+  "name": "Botswana",
+  "era": "modern",
+  "region": "Southern Africa",
+  "startYear": 1966,
+  "endYear": null,
+  "capital": "Gaborone",
+  "capitalCoords": [
+    25.91,
+    -24.65
+  ],
+  "summary": "Bechuanaland became Botswana in 1966 and grew from one of the poorest countries to a middle-income democracy through diamond wealth.",
+  "wikiTitle": "Botswana",
+  "borderNames": [
+    "Botswana"
+  ],
+  "borderYears": [
+    1966,
+    null
+  ],
+  "color": "#3a8ac0",
+  "knownFor": [
+    {
+      "label": "Okavango Delta",
+      "kind": "monument",
+      "note": "An inland delta full of wildlife."
+    },
+    {
+      "label": "Diamonds",
+      "kind": "tool",
+      "year": 1967,
+      "note": "Found in 1967."
+    },
+    {
+      "label": "Seretse Khama",
+      "kind": "person",
+      "year": 1966,
+      "note": "Founding president."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Southern Africa, landlocked; about 582,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "terrain": {
+        "value": "Kalahari Desert and the Okavango Delta.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "climate": {
+        "value": "Semi-arid.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "resources": {
+        "value": "Diamonds, beef.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 2.6 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "urbanisation": {
+        "value": "Gaborone.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "disease": {
+        "value": "High HIV rates; free treatment since 2002.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "migration": {
+        "value": "Workers in South African mines in the past.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Diamonds, beef, tourism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "tradeRoutes": {
+        "value": "Through South Africa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "wealth": {
+        "value": "An upper-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "moneyAndTax": {
+        "value": "The pula.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Botswana"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "keyRulers": {
+        "value": "Seretse Khama. Ketumile Masire. Ian Khama.",
+        "year": 1966,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "succession": {
+        "value": "Elections; peaceful change of party in 2024.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "institutions": {
+        "value": "Strong institutions; low corruption.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "stability": {
+        "value": "Stable democracy since 1966.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Botswana"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Small army.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "majorWars": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "territoryChange": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "alliancesRivals": {
+        "value": "SADC (headquarters in Gaborone).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Botswana"
+      },
+      "scienceEducation": {
+        "value": "Rising education.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Botswana"
+      },
+      "communicationTransport": {
+        "value": "Roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Christian.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "languageWriting": {
+        "value": "English and Setswana.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "artsArchitecture": {
+        "value": "Basket weaving.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "socialStructure": {
+        "value": "Tswana majority; San minority.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "sharedIdentity": {
+        "value": "Strong national identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "dailyLife": {
+        "value": "Houses; seswaa (pounded meat).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "South Africa, Namibia, Zambia, Zimbabwe.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "ideasReligions": {
+        "value": "Kgotla community meetings.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "colonisation": {
+        "value": "A British protectorate (Bechuanaland) until 1966.",
+        "year": 1885,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1966).",
+        "year": 1966,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "peakPeriod": {
+        "value": "Fast growth from diamonds, 1970s–2000s.",
+        "year": 1990,
+        "certainty": "estimated",
+        "source": "Wikipedia: Botswana"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Botswana"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Botswana.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Botswana"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Botswana"
+      }
+    }
+  }
+}

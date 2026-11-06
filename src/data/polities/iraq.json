@@ -1,0 +1,320 @@
+{
+  "id": "iraq",
+  "name": "Iraq",
+  "era": "modern",
+  "region": "Middle East",
+  "startYear": 1932,
+  "endYear": null,
+  "capital": "Baghdad",
+  "capitalCoords": [
+    44.36,
+    33.31
+  ],
+  "summary": "Formed from three Ottoman provinces under a British mandate; independent in 1932; ruled by Saddam Hussein (1979–2003), then shaken by invasion and civil conflict.",
+  "wikiTitle": "Iraq",
+  "borderNames": [
+    "Iraq"
+  ],
+  "borderYears": [
+    1932,
+    null
+  ],
+  "color": "#3a8a4a",
+  "knownFor": [
+    {
+      "label": "Tigris and Euphrates",
+      "kind": "monument",
+      "note": "Rivers of ancient Mesopotamia."
+    },
+    {
+      "label": "Marsh Arabs",
+      "kind": "idea",
+      "note": "Reed-house culture of the southern marshes."
+    },
+    {
+      "label": "Masgouf",
+      "kind": "food",
+      "note": "Grilled river carp."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Mesopotamia; about 438,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      },
+      "terrain": {
+        "value": "River plains, desert, Kurdish mountains in the north.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      },
+      "climate": {
+        "value": "Hot and dry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      },
+      "resources": {
+        "value": "Some of the largest oil reserves in the world.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      },
+      "disasters": {
+        "value": "Droughts; dust storms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 45 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      },
+      "urbanisation": {
+        "value": "Baghdad, Basra, Mosul.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      },
+      "disease": {
+        "value": "Effects of war and sanctions on health.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      },
+      "migration": {
+        "value": "Millions displaced by wars since 2003.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Oil (over 90% of exports).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      },
+      "tradeRoutes": {
+        "value": "Oil pipelines and the port of Basra.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      },
+      "wealth": {
+        "value": "Oil wealth, unevenly shared.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      },
+      "moneyAndTax": {
+        "value": "The Iraqi dinar.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iraq"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A federal parliamentary republic since 2005.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      },
+      "keyRulers": {
+        "value": "King Faisal I. Abd al-Karim Qasim. Saddam Hussein.",
+        "year": 1921,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      },
+      "succession": {
+        "value": "Monarchy until 1958; coups; elections since 2005.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      },
+      "institutions": {
+        "value": "Council of Representatives; Kurdistan Region government.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      },
+      "stability": {
+        "value": "Revolution (1958); wars (1980–88, 1991, 2003); ISIS (2014–17).",
+        "year": 1958,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iraq"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Large army under Saddam; rebuilt after 2003.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      },
+      "majorWars": {
+        "value": "Iran–Iraq War (1980–88); Gulf War (1991); Iraq War (2003).",
+        "year": 1980,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      },
+      "territoryChange": {
+        "value": "Status of Kirkuk disputed between Baghdad and the Kurdistan Region.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Iraq"
+      },
+      "alliancesRivals": {
+        "value": "Arab League; OPEC founder (1960).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iraq"
+      },
+      "scienceEducation": {
+        "value": "Universities; heavy brain drain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iraq"
+      },
+      "communicationTransport": {
+        "value": "Roads, oil pipelines.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Muslim (Shia majority, Sunni minority); Christian and Yazidi minorities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      },
+      "languageWriting": {
+        "value": "Arabic and Kurdish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      },
+      "artsArchitecture": {
+        "value": "Maqam music; modern Baghdad art.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      },
+      "socialStructure": {
+        "value": "Arabs, Kurds, Turkmen and others.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      },
+      "sharedIdentity": {
+        "value": "Divided by sect and ethnicity.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Iraq"
+      },
+      "dailyLife": {
+        "value": "Apartments and houses; rice, kebab, tea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Iran, Turkey, Syria, Jordan, Saudi Arabia, Kuwait.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      },
+      "ideasReligions": {
+        "value": "Ba’athism; Shia shrine cities (Najaf, Karbala).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      },
+      "colonisation": {
+        "value": "Ottoman until 1918, British mandate until 1932.",
+        "year": 1920,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1932).",
+        "year": 1932,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iraq"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iraq"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Iraq.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iraq"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iraq"
+      }
+    }
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "id": "yemen",
+  "name": "Yemen",
+  "era": "modern",
+  "region": "Middle East (Arabia)",
+  "startYear": 1962,
+  "endYear": null,
+  "capital": "Sana'a",
+  "capitalCoords": [
+    44.21,
+    15.35
+  ],
+  "summary": "North Yemen became a republic in 1962 and united with the communist South (formerly British Aden) in 1990; a civil war since 2014 caused a severe humanitarian crisis.",
+  "wikiTitle": "Yemen",
+  "borderNames": [
+    "Yemen"
+  ],
+  "borderYears": [
+    1962,
+    null
+  ],
+  "color": "#c03a3a",
+  "knownFor": [
+    {
+      "label": "Old City of Sana’a",
+      "kind": "monument",
+      "note": "Tower houses of rammed earth."
+    },
+    {
+      "label": "Mocha coffee",
+      "kind": "food",
+      "note": "Coffee port of Mocha."
+    },
+    {
+      "label": "Shibam",
+      "kind": "monument",
+      "note": "“Manhattan of the desert”."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Southern Arabia; about 528,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      },
+      "terrain": {
+        "value": "Mountains, coast, desert.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      },
+      "climate": {
+        "value": "Hot; cooler highlands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      },
+      "resources": {
+        "value": "Some oil; farming.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      },
+      "disasters": {
+        "value": "Drought; floods; cholera.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 34 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      },
+      "urbanisation": {
+        "value": "Sana’a, Aden, Taiz.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      },
+      "disease": {
+        "value": "Cholera outbreak (2016–).",
+        "year": 2016,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      },
+      "migration": {
+        "value": "Displacement and emigration.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, remittances, aid.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      },
+      "tradeRoutes": {
+        "value": "Red Sea and Aden.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      },
+      "wealth": {
+        "value": "The poorest country in the Arab world.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      },
+      "moneyAndTax": {
+        "value": "The Yemeni rial.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yemen"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Divided between rival governments.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Yemen"
+      },
+      "keyRulers": {
+        "value": "Abdullah al-Sallal. Ali Abdullah Saleh.",
+        "year": 1978,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      },
+      "succession": {
+        "value": "Coups and civil war.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      },
+      "institutions": {
+        "value": "Weak.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      },
+      "stability": {
+        "value": "Civil wars (1962–70, 1994, 2014–).",
+        "year": 2014,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yemen"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Many armed groups.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      },
+      "majorWars": {
+        "value": "North Yemen Civil War; Yemeni Civil War with Saudi-led intervention.",
+        "year": 1962,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      },
+      "territoryChange": {
+        "value": "Unification (1990).",
+        "year": 1990,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      },
+      "alliancesRivals": {
+        "value": "Houthis backed by Iran; government by Saudi Arabia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yemen"
+      },
+      "scienceEducation": {
+        "value": "Low literacy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yemen"
+      },
+      "communicationTransport": {
+        "value": "Roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sunni and Zaydi Shia Muslim.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      },
+      "languageWriting": {
+        "value": "Arabic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      },
+      "artsArchitecture": {
+        "value": "Tower houses.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      },
+      "socialStructure": {
+        "value": "Tribal society.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      },
+      "sharedIdentity": {
+        "value": "North–south divide.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Yemen"
+      },
+      "dailyLife": {
+        "value": "Houses; saltah, qat chewing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Saudi Arabia, Oman.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      },
+      "ideasReligions": {
+        "value": "Zaydi revival (Houthis).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      },
+      "colonisation": {
+        "value": "South Yemen was British (Aden, 1839–1967).",
+        "year": 1839,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Republic (1962).",
+        "year": 1962,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yemen"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yemen"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Yemen.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yemen"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yemen"
+      }
+    }
+  }
+}

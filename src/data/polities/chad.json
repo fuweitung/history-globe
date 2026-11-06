@@ -1,0 +1,320 @@
+{
+  "id": "chad",
+  "name": "Chad",
+  "era": "modern",
+  "region": "Central Africa",
+  "startYear": 1960,
+  "endYear": null,
+  "capital": "N’Djamena",
+  "capitalCoords": [
+    15.04,
+    12.13
+  ],
+  "summary": "A former French colony in the Sahel, independent in 1960; long civil wars and a war with Libya (1978–87).",
+  "wikiTitle": "Chad",
+  "borderNames": [
+    "Chad"
+  ],
+  "borderYears": [
+    1960,
+    null
+  ],
+  "color": "#c9a23a",
+  "knownFor": [
+    {
+      "label": "Lake Chad",
+      "kind": "monument",
+      "note": "A lake that has shrunk greatly since the 1960s."
+    },
+    {
+      "label": "Toumaï skull",
+      "kind": "idea",
+      "note": "A 7-million-year-old human relative found here."
+    },
+    {
+      "label": "Ennedi Plateau",
+      "kind": "monument",
+      "note": "Sandstone formations with rock art."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "North-central Africa, landlocked; about 1.28 million km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      },
+      "terrain": {
+        "value": "Sahara, Sahel and savanna.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      },
+      "climate": {
+        "value": "Hot and dry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      },
+      "resources": {
+        "value": "Oil (since 2003), cotton, livestock.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      },
+      "disasters": {
+        "value": "Droughts and the shrinking of Lake Chad.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 19 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      },
+      "urbanisation": {
+        "value": "N’Djamena.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      },
+      "disease": {
+        "value": "Malaria; malnutrition.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      },
+      "migration": {
+        "value": "Refugees from Sudan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Oil, cotton, herding.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      },
+      "tradeRoutes": {
+        "value": "Oil pipeline through Cameroon.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      },
+      "wealth": {
+        "value": "One of the poorest countries.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      },
+      "moneyAndTax": {
+        "value": "The Central African CFA franc, pegged to the euro.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Chad"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A presidential republic, often military-led.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      },
+      "keyRulers": {
+        "value": "François Tombalbaye. Hissène Habré. Idriss Déby. Mahamat Déby.",
+        "year": 1990,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      },
+      "succession": {
+        "value": "Coups and rebellions; power passed from father to son (2021).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      },
+      "institutions": {
+        "value": "Weak.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      },
+      "stability": {
+        "value": "Civil wars (1965–79, 2005–10).",
+        "year": 1965,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Chad"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Experienced army.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      },
+      "majorWars": {
+        "value": "Chadian–Libyan War (1978–87).",
+        "year": 1978,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      },
+      "territoryChange": {
+        "value": "Won the Aouzou Strip back from Libya (1994).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      },
+      "alliancesRivals": {
+        "value": "French military ties ended in 2024.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Chad"
+      },
+      "scienceEducation": {
+        "value": "Low literacy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Chad"
+      },
+      "communicationTransport": {
+        "value": "Roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Muslim north, Christian south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      },
+      "languageWriting": {
+        "value": "French and Arabic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      },
+      "artsArchitecture": {
+        "value": "Rock art.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      },
+      "socialStructure": {
+        "value": "Over 200 groups.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      },
+      "sharedIdentity": {
+        "value": "North–south divides.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Chad"
+      },
+      "dailyLife": {
+        "value": "Houses and tents; millet.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Libya, Sudan, Central African Republic, Cameroon, Nigeria, Niger.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      },
+      "ideasReligions": {
+        "value": "Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      },
+      "colonisation": {
+        "value": "A French colony until 1960.",
+        "year": 1900,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1960).",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Chad"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Chad"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Chad.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chad"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Chad"
+      }
+    }
+  }
+}

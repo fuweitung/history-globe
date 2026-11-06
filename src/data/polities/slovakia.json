@@ -1,0 +1,320 @@
+{
+  "id": "slovakia",
+  "name": "Slovakia",
+  "era": "modern",
+  "region": "South-eastern Europe (Balkans)",
+  "startYear": 1993,
+  "endYear": null,
+  "capital": "Bratislava",
+  "capitalCoords": [
+    17.11,
+    48.15
+  ],
+  "summary": "Part of Czechoslovakia from 1918 (a German-aligned state 1939–45); independent since the peaceful split of 1993.",
+  "wikiTitle": "Slovakia",
+  "borderNames": [
+    "Slovakia"
+  ],
+  "borderYears": [
+    1993,
+    null
+  ],
+  "color": "#3a6ab0",
+  "knownFor": [
+    {
+      "label": "High Tatras",
+      "kind": "monument",
+      "note": "Mountain range."
+    },
+    {
+      "label": "Car manufacturing",
+      "kind": "tool",
+      "note": "Among the most cars made per person."
+    },
+    {
+      "label": "Wooden churches",
+      "kind": "monument",
+      "note": "In the Carpathians."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Central Europe, landlocked.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      },
+      "terrain": {
+        "value": "Carpathian mountains and the Danube lowland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      },
+      "climate": {
+        "value": "Continental.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      },
+      "resources": {
+        "value": "Forests, farmland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      },
+      "disasters": {
+        "value": "Floods.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 5.4 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      },
+      "urbanisation": {
+        "value": "Bratislava, Košice.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      },
+      "disease": {
+        "value": "Good public health.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Slovakia"
+      },
+      "migration": {
+        "value": "Small immigration.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Car industry, services.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      },
+      "tradeRoutes": {
+        "value": "EU since 2004.",
+        "year": 2004,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      },
+      "wealth": {
+        "value": "A high-income economy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      },
+      "moneyAndTax": {
+        "value": "The euro (2009).",
+        "year": 2009,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      },
+      "inequality": {
+        "value": "Low inequality.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Slovakia"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      },
+      "keyRulers": {
+        "value": "Vladimír Mečiar. Zuzana Čaputová.",
+        "year": 1993,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      },
+      "institutions": {
+        "value": "National Council.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      },
+      "stability": {
+        "value": "Peaceful split from Czechia.",
+        "year": 1993,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      },
+      "eliteConflict": {
+        "value": "Party politics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Slovakia"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "NATO member.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      },
+      "majorWars": {
+        "value": "None since 1993.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      },
+      "territoryChange": {
+        "value": "Split from Czechoslovakia.",
+        "year": 1993,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      },
+      "alliancesRivals": {
+        "value": "NATO and EU (2004).",
+        "year": 2004,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Slovakia"
+      },
+      "scienceEducation": {
+        "value": "Universities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      },
+      "openness": {
+        "value": "Open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      },
+      "communicationTransport": {
+        "value": "Roads and railways.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Catholic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      },
+      "languageWriting": {
+        "value": "Slovak.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      },
+      "artsArchitecture": {
+        "value": "Folk art, castles.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      },
+      "socialStructure": {
+        "value": "Low inequality.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Slovakia"
+      },
+      "sharedIdentity": {
+        "value": "Slovak identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      },
+      "dailyLife": {
+        "value": "Houses and flats; bryndzové halušky.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Czechia, Poland, Ukraine, Hungary, Austria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      },
+      "ideasReligions": {
+        "value": "European integration.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Slovakia"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1993).",
+        "year": 1993,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      },
+      "peakPeriod": {
+        "value": "Car-industry boom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Slovakia"
+      },
+      "declineSignals": {
+        "value": "None major.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Slovakia"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Slovakia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovakia"
+      }
+    }
+  }
+}

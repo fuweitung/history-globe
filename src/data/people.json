@@ -5779,5 +5779,1758 @@
   ],
   "wikiTitle": "José Gaspar Rodríguez de Francia",
   "source": "Wikipedia: José Gaspar Rodríguez de Francia"
+ },
+ {
+  "id": "churchill",
+  "name": "Winston Churchill",
+  "born": 1874,
+  "died": 1965,
+  "role": "ruler",
+  "description": "British prime minister during the Second World War.",
+  "polityIds": [
+   "united-kingdom",
+   "british-empire"
+  ],
+  "place": [
+   -0.13,
+   51.51
+  ],
+  "wikiTitle": "Winston Churchill",
+  "source": "Wikipedia: Winston Churchill"
+ },
+ {
+  "id": "thatcher",
+  "name": "Margaret Thatcher",
+  "born": 1925,
+  "died": 2013,
+  "role": "ruler",
+  "description": "Britain’s first woman prime minister (1979–90).",
+  "polityIds": [
+   "united-kingdom"
+  ],
+  "place": [
+   -0.13,
+   51.51
+  ],
+  "wikiTitle": "Margaret Thatcher",
+  "source": "Wikipedia: Margaret Thatcher"
+ },
+ {
+  "id": "van-gogh",
+  "name": "Vincent van Gogh",
+  "born": 1853,
+  "died": 1890,
+  "role": "artist",
+  "description": "Dutch painter.",
+  "polityIds": [
+   "netherlands"
+  ],
+  "place": [
+   4.9,
+   52.37
+  ],
+  "wikiTitle": "Vincent van Gogh",
+  "source": "Wikipedia: Vincent van Gogh"
+ },
+ {
+  "id": "marie-curie-pl",
+  "name": "Józef Piłsudski",
+  "born": 1867,
+  "died": 1935,
+  "role": "military",
+  "description": "Leader who restored Polish independence.",
+  "polityIds": [
+   "poland-modern"
+  ],
+  "place": [
+   21.01,
+   52.23
+  ],
+  "wikiTitle": "Józef Piłsudski",
+  "source": "Wikipedia: Józef Piłsudski"
+ },
+ {
+  "id": "dunant",
+  "name": "Henry Dunant",
+  "born": 1828,
+  "died": 1910,
+  "role": "thinker",
+  "description": "Founder of the Red Cross; first Nobel Peace Prize (1901).",
+  "polityIds": [
+   "switzerland"
+  ],
+  "place": [
+   6.15,
+   46.2
+  ],
+  "wikiTitle": "Henry Dunant",
+  "source": "Wikipedia: Henry Dunant"
+ },
+ {
+  "id": "freud",
+  "name": "Sigmund Freud",
+  "born": 1856,
+  "died": 1939,
+  "role": "scientist",
+  "description": "Founder of psychoanalysis.",
+  "polityIds": [
+   "austria",
+   "austria-hungary"
+  ],
+  "place": [
+   16.37,
+   48.21
+  ],
+  "wikiTitle": "Sigmund Freud",
+  "source": "Wikipedia: Sigmund Freud"
+ },
+ {
+  "id": "de-valera",
+  "name": "Éamon de Valera",
+  "born": 1882,
+  "died": 1975,
+  "role": "ruler",
+  "description": "Leading figure of Irish independence.",
+  "polityIds": [
+   "ireland"
+  ],
+  "place": [
+   -6.26,
+   53.35
+  ],
+  "wikiTitle": "Éamon de Valera",
+  "source": "Wikipedia: Éamon de Valera"
+ },
+ {
+  "id": "mannerheim",
+  "name": "Carl Gustaf Emil Mannerheim",
+  "born": 1867,
+  "died": 1951,
+  "role": "military",
+  "description": "Finnish commander and president.",
+  "polityIds": [
+   "finland"
+  ],
+  "place": [
+   24.94,
+   60.17
+  ],
+  "wikiTitle": "Carl Gustaf Emil Mannerheim",
+  "source": "Wikipedia: Carl Gustaf Emil Mannerheim"
+ },
+ {
+  "id": "bartok",
+  "name": "Béla Bartók",
+  "born": 1881,
+  "died": 1945,
+  "role": "artist",
+  "description": "Hungarian composer.",
+  "polityIds": [
+   "hungary"
+  ],
+  "place": [
+   19.04,
+   47.5
+  ],
+  "wikiTitle": "Béla Bartók",
+  "source": "Wikipedia: Béla Bartók"
+ },
+ {
+  "id": "havel",
+  "name": "Václav Havel",
+  "born": 1936,
+  "died": 2011,
+  "role": "writer",
+  "description": "Playwright and president of Czechoslovakia and Czechia.",
+  "polityIds": [
+   "czechoslovakia-czechia"
+  ],
+  "place": [
+   14.42,
+   50.09
+  ],
+  "wikiTitle": "Václav Havel",
+  "source": "Wikipedia: Václav Havel"
+ },
+ {
+  "id": "tito",
+  "name": "Josip Broz Tito",
+  "born": 1892,
+  "died": 1980,
+  "role": "ruler",
+  "description": "Leader of Yugoslavia (1945–80).",
+  "polityIds": [
+   "yugoslavia"
+  ],
+  "place": [
+   20.46,
+   44.82
+  ],
+  "wikiTitle": "Josip Broz Tito",
+  "source": "Wikipedia: Josip Broz Tito"
+ },
+ {
+  "id": "tesla",
+  "name": "Nikola Tesla",
+  "born": 1856,
+  "died": 1943,
+  "role": "scientist",
+  "description": "Inventor of AC electrical systems.",
+  "polityIds": [
+   "serbia",
+   "united-states"
+  ],
+  "place": [
+   -73.99,
+   40.75
+  ],
+  "wikiTitle": "Nikola Tesla",
+  "source": "Wikipedia: Nikola Tesla"
+ },
+ {
+  "id": "enver-hoxha",
+  "name": "Enver Hoxha",
+  "born": 1908,
+  "died": 1985,
+  "role": "ruler",
+  "description": "Communist ruler of Albania.",
+  "polityIds": [
+   "albania"
+  ],
+  "place": [
+   19.82,
+   41.33
+  ],
+  "wikiTitle": "Enver Hoxha",
+  "source": "Wikipedia: Enver Hoxha"
+ },
+ {
+  "id": "makarios",
+  "name": "Makarios III",
+  "born": 1913,
+  "died": 1977,
+  "role": "religious",
+  "description": "Archbishop and first president of Cyprus.",
+  "polityIds": [
+   "cyprus"
+  ],
+  "place": [
+   33.36,
+   35.17
+  ],
+  "wikiTitle": "Makarios III",
+  "source": "Wikipedia: Makarios III"
+ },
+ {
+  "id": "nkrumah",
+  "name": "Kwame Nkrumah",
+  "born": 1909,
+  "died": 1972,
+  "role": "ruler",
+  "description": "Led Ghana to independence; Pan-Africanist.",
+  "polityIds": [
+   "ghana"
+  ],
+  "place": [
+   -0.19,
+   5.6
+  ],
+  "wikiTitle": "Kwame Nkrumah",
+  "source": "Wikipedia: Kwame Nkrumah"
+ },
+ {
+  "id": "senghor",
+  "name": "Léopold Sédar Senghor",
+  "born": 1906,
+  "died": 2001,
+  "role": "writer",
+  "description": "Poet and first president of Senegal.",
+  "polityIds": [
+   "senegal"
+  ],
+  "place": [
+   -17.45,
+   14.69
+  ],
+  "wikiTitle": "Léopold Sédar Senghor",
+  "source": "Wikipedia: Léopold Sédar Senghor"
+ },
+ {
+  "id": "houphouet-boigny",
+  "name": "Félix Houphouët-Boigny",
+  "born": 1905,
+  "died": 1993,
+  "role": "ruler",
+  "description": "First president of Ivory Coast.",
+  "polityIds": [
+   "ivory-coast"
+  ],
+  "place": [
+   -5.28,
+   6.82
+  ],
+  "wikiTitle": "Félix Houphouët-Boigny",
+  "source": "Wikipedia: Félix Houphouët-Boigny"
+ },
+ {
+  "id": "sankara",
+  "name": "Thomas Sankara",
+  "born": 1949,
+  "died": 1987,
+  "role": "ruler",
+  "description": "Revolutionary leader of Burkina Faso.",
+  "polityIds": [
+   "burkina-faso"
+  ],
+  "place": [
+   -1.53,
+   12.37
+  ],
+  "wikiTitle": "Thomas Sankara",
+  "source": "Wikipedia: Thomas Sankara"
+ },
+ {
+  "id": "cabral",
+  "name": "Amílcar Cabral",
+  "born": 1924,
+  "died": 1973,
+  "role": "thinker",
+  "description": "Leader of the independence movement of Guinea-Bissau and Cape Verde.",
+  "polityIds": [
+   "guinea-bissau"
+  ],
+  "place": [
+   -15.6,
+   11.86
+  ],
+  "wikiTitle": "Amílcar Cabral",
+  "source": "Wikipedia: Amílcar Cabral"
+ },
+ {
+  "id": "kenyatta",
+  "name": "Jomo Kenyatta",
+  "born": 1897,
+  "died": 1978,
+  "role": "ruler",
+  "description": "First president of Kenya.",
+  "polityIds": [
+   "kenya"
+  ],
+  "place": [
+   36.82,
+   -1.29
+  ],
+  "wikiTitle": "Jomo Kenyatta",
+  "source": "Wikipedia: Jomo Kenyatta"
+ },
+ {
+  "id": "wangari-maathai",
+  "name": "Wangari Maathai",
+  "born": 1940,
+  "died": 2011,
+  "role": "thinker",
+  "description": "Environmentalist; Nobel Peace Prize 2004.",
+  "polityIds": [
+   "kenya"
+  ],
+  "place": [
+   36.82,
+   -1.29
+  ],
+  "wikiTitle": "Wangari Maathai",
+  "source": "Wikipedia: Wangari Maathai"
+ },
+ {
+  "id": "idi-amin",
+  "name": "Idi Amin",
+  "born": 1925,
+  "died": 2003,
+  "role": "ruler",
+  "description": "Military ruler of Uganda (1971–79).",
+  "polityIds": [
+   "uganda"
+  ],
+  "place": [
+   32.58,
+   0.35
+  ],
+  "wikiTitle": "Idi Amin",
+  "source": "Wikipedia: Idi Amin"
+ },
+ {
+  "id": "haile-selassie",
+  "name": "Haile Selassie",
+  "born": 1892,
+  "died": 1975,
+  "role": "ruler",
+  "description": "Last emperor of Ethiopia.",
+  "polityIds": [
+   "ethiopian-empire"
+  ],
+  "place": [
+   38.74,
+   9.03
+  ],
+  "wikiTitle": "Haile Selassie",
+  "source": "Wikipedia: Haile Selassie"
+ },
+ {
+  "id": "bourguiba",
+  "name": "Habib Bourguiba",
+  "born": 1903,
+  "died": 2000,
+  "role": "ruler",
+  "description": "First president of Tunisia.",
+  "polityIds": [
+   "tunisia"
+  ],
+  "place": [
+   10.17,
+   36.8
+  ],
+  "wikiTitle": "Habib Bourguiba",
+  "source": "Wikipedia: Habib Bourguiba"
+ },
+ {
+  "id": "kaunda",
+  "name": "Kenneth Kaunda",
+  "born": 1924,
+  "died": 2021,
+  "role": "ruler",
+  "description": "First president of Zambia.",
+  "polityIds": [
+   "zambia"
+  ],
+  "place": [
+   28.28,
+   -15.42
+  ],
+  "wikiTitle": "Kenneth Kaunda",
+  "source": "Wikipedia: Kenneth Kaunda"
+ },
+ {
+  "id": "mugabe",
+  "name": "Robert Mugabe",
+  "born": 1924,
+  "died": 2019,
+  "role": "ruler",
+  "description": "Ruler of Zimbabwe (1980–2017).",
+  "polityIds": [
+   "zimbabwe"
+  ],
+  "place": [
+   31.05,
+   -17.83
+  ],
+  "wikiTitle": "Robert Mugabe",
+  "source": "Wikipedia: Robert Mugabe"
+ },
+ {
+  "id": "samora-machel",
+  "name": "Samora Machel",
+  "born": 1933,
+  "died": 1986,
+  "role": "ruler",
+  "description": "First president of Mozambique.",
+  "polityIds": [
+   "mozambique"
+  ],
+  "place": [
+   32.57,
+   -25.97
+  ],
+  "wikiTitle": "Samora Machel",
+  "source": "Wikipedia: Samora Machel"
+ },
+ {
+  "id": "seretse-khama",
+  "name": "Seretse Khama",
+  "born": 1921,
+  "died": 1980,
+  "role": "ruler",
+  "description": "First president of Botswana.",
+  "polityIds": [
+   "botswana"
+  ],
+  "place": [
+   25.91,
+   -24.65
+  ],
+  "wikiTitle": "Seretse Khama",
+  "source": "Wikipedia: Seretse Khama"
+ },
+ {
+  "id": "ellen-johnson-sirleaf-x",
+  "name": "Ahmed Sékou Touré",
+  "born": 1922,
+  "died": 1984,
+  "role": "ruler",
+  "description": "First president of Guinea.",
+  "polityIds": [
+   "guinea"
+  ],
+  "place": [
+   -13.68,
+   9.64
+  ],
+  "wikiTitle": "Ahmed Sékou Touré",
+  "source": "Wikipedia: Ahmed Sékou Touré"
+ },
+ {
+  "id": "eloy-alfaro",
+  "name": "Eloy Alfaro",
+  "born": 1842,
+  "died": 1912,
+  "role": "ruler",
+  "description": "Liberal revolutionary who separated church and state and built the Quito railway.",
+  "polityIds": [
+   "ecuador"
+  ],
+  "place": [
+   -78.47,
+   -0.18
+  ],
+  "wikiTitle": "Eloy Alfaro",
+  "source": "Wikipedia: Eloy Alfaro"
+ },
+ {
+  "id": "jose-artigas",
+  "name": "José Gervasio Artigas",
+  "born": 1764,
+  "died": 1850,
+  "role": "military",
+  "description": "National hero of Uruguay who fought Spain, Buenos Aires and Brazil.",
+  "polityIds": [
+   "uruguay",
+   "spanish-empire"
+  ],
+  "place": [
+   -56.16,
+   -34.9
+  ],
+  "wikiTitle": "José Gervasio Artigas",
+  "source": "Wikipedia: José Gervasio Artigas"
+ },
+ {
+  "id": "jose-batlle",
+  "name": "José Batlle y Ordóñez",
+  "born": 1856,
+  "died": 1929,
+  "role": "ruler",
+  "description": "Built an early welfare state and secular republic.",
+  "polityIds": [
+   "uruguay"
+  ],
+  "place": [
+   -56.16,
+   -34.9
+  ],
+  "wikiTitle": "José Batlle y Ordóñez",
+  "source": "Wikipedia: José Batlle y Ordóñez"
+ },
+ {
+  "id": "jacobo-arbenz",
+  "name": "Jacobo Árbenz",
+  "born": 1913,
+  "died": 1971,
+  "role": "ruler",
+  "description": "His land reform led to the 1954 CIA-backed coup.",
+  "polityIds": [
+   "guatemala"
+  ],
+  "place": [
+   -90.51,
+   14.63
+  ],
+  "wikiTitle": "Jacobo Árbenz",
+  "source": "Wikipedia: Jacobo Árbenz"
+ },
+ {
+  "id": "francisco-morazan",
+  "name": "Francisco Morazán",
+  "born": 1792,
+  "died": 1842,
+  "role": "ruler",
+  "description": "President of the Federal Republic of Central America; a hero in Honduras.",
+  "polityIds": [
+   "honduras",
+   "el-salvador",
+   "costa-rica"
+  ],
+  "place": [
+   -87.21,
+   14.07
+  ],
+  "wikiTitle": "Francisco Morazán",
+  "source": "Wikipedia: Francisco Morazán"
+ },
+ {
+  "id": "augusto-sandino",
+  "name": "Augusto César Sandino",
+  "born": 1895,
+  "died": 1934,
+  "role": "military",
+  "description": "Fought the US occupation of Nicaragua; the Sandinistas took his name.",
+  "polityIds": [
+   "nicaragua"
+  ],
+  "place": [
+   -86.25,
+   12.13
+  ],
+  "wikiTitle": "Augusto César Sandino",
+  "source": "Wikipedia: Augusto César Sandino"
+ },
+ {
+  "id": "ruben-dario",
+  "name": "Rubén Darío",
+  "born": 1867,
+  "died": 1916,
+  "role": "writer",
+  "description": "Founder of Spanish-language modernismo.",
+  "polityIds": [
+   "nicaragua"
+  ],
+  "place": [
+   -86.88,
+   12.43
+  ],
+  "wikiTitle": "Rubén Darío",
+  "source": "Wikipedia: Rubén Darío"
+ },
+ {
+  "id": "oscar-romero",
+  "name": "Óscar Romero",
+  "born": 1917,
+  "died": 1980,
+  "role": "religious",
+  "description": "Spoke for the poor and against army killings; murdered in 1980; made a saint in 2018.",
+  "polityIds": [
+   "el-salvador"
+  ],
+  "place": [
+   -89.19,
+   13.69
+  ],
+  "wikiTitle": "Óscar Romero",
+  "source": "Wikipedia: Óscar Romero"
+ },
+ {
+  "id": "jose-figueres",
+  "name": "José Figueres Ferrer",
+  "born": 1906,
+  "died": 1990,
+  "role": "ruler",
+  "description": "Abolished the army in 1948.",
+  "polityIds": [
+   "costa-rica"
+  ],
+  "place": [
+   -84.09,
+   9.93
+  ],
+  "wikiTitle": "José Figueres Ferrer",
+  "source": "Wikipedia: José Figueres Ferrer"
+ },
+ {
+  "id": "omar-torrijos",
+  "name": "Omar Torrijos",
+  "born": 1929,
+  "died": 1981,
+  "role": "ruler",
+  "description": "Negotiated the treaties returning the canal to Panama.",
+  "polityIds": [
+   "panama"
+  ],
+  "place": [
+   -79.52,
+   8.98
+  ],
+  "wikiTitle": "Omar Torrijos",
+  "source": "Wikipedia: Omar Torrijos"
+ },
+ {
+  "id": "jose-marti",
+  "name": "José Martí",
+  "born": 1853,
+  "died": 1895,
+  "role": "writer",
+  "description": "Cuba’s national hero, killed fighting Spain.",
+  "polityIds": [
+   "cuba",
+   "spanish-empire"
+  ],
+  "place": [
+   -82.37,
+   23.11
+  ],
+  "wikiTitle": "José Martí",
+  "source": "Wikipedia: José Martí"
+ },
+ {
+  "id": "fidel-castro",
+  "name": "Fidel Castro",
+  "born": 1926,
+  "died": 2016,
+  "role": "ruler",
+  "description": "Led the 1959 revolution and ruled Cuba until 2008.",
+  "polityIds": [
+   "cuba"
+  ],
+  "place": [
+   -82.37,
+   23.11
+  ],
+  "wikiTitle": "Fidel Castro",
+  "source": "Wikipedia: Fidel Castro"
+ },
+ {
+  "id": "che-guevara",
+  "name": "Che Guevara",
+  "born": 1928,
+  "died": 1967,
+  "role": "military",
+  "description": "Argentine-born leader of the Cuban Revolution, killed in Bolivia.",
+  "polityIds": [
+   "cuba",
+   "argentina"
+  ],
+  "place": [
+   -82.37,
+   23.11
+  ],
+  "wikiTitle": "Che Guevara",
+  "source": "Wikipedia: Che Guevara"
+ },
+ {
+  "id": "toussaint-louverture",
+  "name": "Toussaint Louverture",
+  "born": 1743,
+  "died": 1803,
+  "role": "military",
+  "description": "Formerly enslaved general who led the Haitian Revolution.",
+  "polityIds": [
+   "kingdom-of-france"
+  ],
+  "place": [
+   -72.34,
+   18.54
+  ],
+  "wikiTitle": "Toussaint Louverture",
+  "source": "Wikipedia: Toussaint Louverture"
+ },
+ {
+  "id": "jean-jacques-dessalines",
+  "name": "Jean-Jacques Dessalines",
+  "born": 1758,
+  "died": 1806,
+  "role": "ruler",
+  "description": "Declared Haiti’s independence in 1804.",
+  "polityIds": [
+   "haiti"
+  ],
+  "place": [
+   -72.34,
+   18.54
+  ],
+  "wikiTitle": "Jean-Jacques Dessalines",
+  "source": "Wikipedia: Jean-Jacques Dessalines"
+ },
+ {
+  "id": "juan-pablo-duarte",
+  "name": "Juan Pablo Duarte",
+  "born": 1813,
+  "died": 1876,
+  "role": "ruler",
+  "description": "Led the movement for Dominican independence.",
+  "polityIds": [
+   "dominican-republic"
+  ],
+  "place": [
+   -69.93,
+   18.49
+  ],
+  "wikiTitle": "Juan Pablo Duarte",
+  "source": "Wikipedia: Juan Pablo Duarte"
+ },
+ {
+  "id": "rafael-trujillo",
+  "name": "Rafael Trujillo",
+  "born": 1891,
+  "died": 1961,
+  "role": "ruler",
+  "description": "Ruled the Dominican Republic from 1930 until he was assassinated in 1961.",
+  "polityIds": [
+   "dominican-republic"
+  ],
+  "place": [
+   -69.93,
+   18.49
+  ],
+  "wikiTitle": "Rafael Trujillo",
+  "source": "Wikipedia: Rafael Trujillo"
+ },
+ {
+  "id": "marcus-garvey",
+  "name": "Marcus Garvey",
+  "born": 1887,
+  "died": 1940,
+  "role": "thinker",
+  "description": "Jamaican leader of a worldwide Black pride movement.",
+  "polityIds": [
+   "british-empire"
+  ],
+  "place": [
+   -77.19,
+   18.42
+  ],
+  "wikiTitle": "Marcus Garvey",
+  "source": "Wikipedia: Marcus Garvey"
+ },
+ {
+  "id": "bob-marley",
+  "name": "Bob Marley",
+  "born": 1945,
+  "died": 1981,
+  "role": "artist",
+  "description": "Spread reggae and Rastafari around the world.",
+  "polityIds": [
+   "jamaica"
+  ],
+  "place": [
+   -76.79,
+   17.97
+  ],
+  "wikiTitle": "Bob Marley",
+  "source": "Wikipedia: Bob Marley"
+ },
+ {
+  "id": "eric-williams",
+  "name": "Eric Williams",
+  "born": 1911,
+  "died": 1981,
+  "role": "ruler",
+  "description": "Historian who led Trinidad and Tobago to independence.",
+  "polityIds": [
+   "trinidad-and-tobago"
+  ],
+  "place": [
+   -61.51,
+   10.65
+  ],
+  "wikiTitle": "Eric Williams",
+  "source": "Wikipedia: Eric Williams"
+ },
+ {
+  "id": "cheddi-jagan",
+  "name": "Cheddi Jagan",
+  "born": 1918,
+  "died": 1997,
+  "role": "ruler",
+  "description": "Independence leader and later president.",
+  "polityIds": [
+   "guyana",
+   "british-empire"
+  ],
+  "place": [
+   -58.16,
+   6.8
+  ],
+  "wikiTitle": "Cheddi Jagan",
+  "source": "Wikipedia: Cheddi Jagan"
+ },
+ {
+  "id": "lynden-pindling",
+  "name": "Lynden Pindling",
+  "born": 1930,
+  "died": 2000,
+  "role": "ruler",
+  "description": "Father of the nation of the Bahamas.",
+  "polityIds": [
+   "bahamas"
+  ],
+  "place": [
+   -77.35,
+   25.06
+  ],
+  "wikiTitle": "Lynden Pindling",
+  "source": "Wikipedia: Lynden Pindling"
+ },
+ {
+  "id": "errol-barrow",
+  "name": "Errol Barrow",
+  "born": 1920,
+  "died": 1987,
+  "role": "ruler",
+  "description": "Led Barbados to independence.",
+  "polityIds": [
+   "barbados"
+  ],
+  "place": [
+   -59.62,
+   13.1
+  ],
+  "wikiTitle": "Errol Barrow",
+  "source": "Wikipedia: Errol Barrow"
+ },
+ {
+  "id": "george-price",
+  "name": "George Cadle Price",
+  "born": 1919,
+  "died": 2011,
+  "role": "ruler",
+  "description": "Father of the nation of Belize.",
+  "polityIds": [
+   "belize"
+  ],
+  "place": [
+   -88.77,
+   17.25
+  ],
+  "wikiTitle": "George Cadle Price",
+  "source": "Wikipedia: George Cadle Price"
+ },
+ {
+  "id": "maurice-bishop",
+  "name": "Maurice Bishop",
+  "born": 1944,
+  "died": 1983,
+  "role": "ruler",
+  "description": "Led Grenada’s 1979 revolution; killed in 1983.",
+  "polityIds": [
+   "grenada"
+  ],
+  "place": [
+   -61.75,
+   12.06
+  ],
+  "wikiTitle": "Maurice Bishop",
+  "source": "Wikipedia: Maurice Bishop"
+ },
+ {
+  "id": "eugenia-charles",
+  "name": "Eugenia Charles",
+  "born": 1919,
+  "died": 2005,
+  "role": "ruler",
+  "description": "First woman prime minister in the Caribbean.",
+  "polityIds": [
+   "dominica"
+  ],
+  "place": [
+   -61.39,
+   15.3
+  ],
+  "wikiTitle": "Eugenia Charles",
+  "source": "Wikipedia: Eugenia Charles"
+ },
+ {
+  "id": "derek-walcott",
+  "name": "Derek Walcott",
+  "born": 1930,
+  "died": 2017,
+  "role": "writer",
+  "description": "Nobel Prize in Literature (1992).",
+  "polityIds": [
+   "saint-lucia"
+  ],
+  "place": [
+   -60.99,
+   14.01
+  ],
+  "wikiTitle": "Derek Walcott",
+  "source": "Wikipedia: Derek Walcott"
+ },
+ {
+  "id": "vere-bird",
+  "name": "Vere Bird",
+  "born": 1910,
+  "died": 1999,
+  "role": "ruler",
+  "description": "First prime minister of Antigua and Barbuda.",
+  "polityIds": [
+   "antigua-and-barbuda"
+  ],
+  "place": [
+   -61.85,
+   17.12
+  ],
+  "wikiTitle": "Vere Bird",
+  "source": "Wikipedia: Vere Bird"
+ },
+ {
+  "id": "robert-bradshaw",
+  "name": "Robert Llewellyn Bradshaw",
+  "born": 1916,
+  "died": 1978,
+  "role": "ruler",
+  "description": "Labour leader and first premier of Saint Kitts.",
+  "polityIds": [
+   "british-empire"
+  ],
+  "place": [
+   -62.73,
+   17.3
+  ],
+  "wikiTitle": "Robert Llewellyn Bradshaw",
+  "source": "Wikipedia: Robert Llewellyn Bradshaw"
+ },
+ {
+  "id": "faisal-i-iraq",
+  "name": "Faisal I of Iraq",
+  "born": 1885,
+  "died": 1933,
+  "role": "ruler",
+  "description": "Leader of the Arab Revolt and first king of Iraq (1921–33).",
+  "polityIds": [
+   "iraq",
+   "british-empire"
+  ],
+  "place": [
+   44.36,
+   33.31
+  ],
+  "wikiTitle": "Faisal I of Iraq",
+  "source": "Wikipedia: Faisal I of Iraq"
+ },
+ {
+  "id": "saddam-hussein",
+  "name": "Saddam Hussein",
+  "born": 1937,
+  "died": 2006,
+  "role": "ruler",
+  "description": "Ruled Iraq 1979–2003; led it into wars with Iran and Kuwait.",
+  "polityIds": [
+   "iraq"
+  ],
+  "place": [
+   44.36,
+   33.31
+  ],
+  "wikiTitle": "Saddam Hussein",
+  "source": "Wikipedia: Saddam Hussein"
+ },
+ {
+  "id": "hafez-al-assad",
+  "name": "Hafez al-Assad",
+  "born": 1930,
+  "died": 2000,
+  "role": "ruler",
+  "description": "Ruled Syria from 1970 until his death.",
+  "polityIds": [
+   "syria"
+  ],
+  "place": [
+   36.29,
+   33.51
+  ],
+  "wikiTitle": "Hafez al-Assad",
+  "source": "Wikipedia: Hafez al-Assad"
+ },
+ {
+  "id": "khalil-gibran",
+  "name": "Kahlil Gibran",
+  "born": 1883,
+  "died": 1931,
+  "role": "writer",
+  "description": "Lebanese-American author of The Prophet.",
+  "polityIds": [
+   "ottoman-empire"
+  ],
+  "place": [
+   35.5,
+   33.89
+  ],
+  "wikiTitle": "Kahlil Gibran",
+  "source": "Wikipedia: Kahlil Gibran"
+ },
+ {
+  "id": "abdullah-i-jordan",
+  "name": "Abdullah I of Jordan",
+  "born": 1882,
+  "died": 1951,
+  "role": "ruler",
+  "description": "Founder of Transjordan and first king of Jordan.",
+  "polityIds": [
+   "jordan",
+   "british-empire"
+  ],
+  "place": [
+   35.93,
+   31.95
+  ],
+  "wikiTitle": "Abdullah I of Jordan",
+  "source": "Wikipedia: Abdullah I of Jordan"
+ },
+ {
+  "id": "hussein-of-jordan",
+  "name": "Hussein of Jordan",
+  "born": 1935,
+  "died": 1999,
+  "role": "ruler",
+  "description": "King of Jordan for 46 years; made peace with Israel (1994).",
+  "polityIds": [
+   "jordan"
+  ],
+  "place": [
+   35.93,
+   31.95
+  ],
+  "wikiTitle": "Hussein of Jordan",
+  "source": "Wikipedia: Hussein of Jordan"
+ },
+ {
+  "id": "ben-gurion",
+  "name": "David Ben-Gurion",
+  "born": 1886,
+  "died": 1973,
+  "role": "ruler",
+  "description": "First prime minister of Israel.",
+  "polityIds": [
+   "israel"
+  ],
+  "place": [
+   35.21,
+   31.77
+  ],
+  "wikiTitle": "David Ben-Gurion",
+  "source": "Wikipedia: David Ben-Gurion"
+ },
+ {
+  "id": "golda-meir",
+  "name": "Golda Meir",
+  "born": 1898,
+  "died": 1978,
+  "role": "ruler",
+  "description": "Prime minister of Israel (1969–74).",
+  "polityIds": [
+   "israel"
+  ],
+  "place": [
+   35.21,
+   31.77
+  ],
+  "wikiTitle": "Golda Meir",
+  "source": "Wikipedia: Golda Meir"
+ },
+ {
+  "id": "yitzhak-rabin",
+  "name": "Yitzhak Rabin",
+  "born": 1922,
+  "died": 1995,
+  "role": "ruler",
+  "description": "Prime minister who signed the Oslo Accords; assassinated in 1995.",
+  "polityIds": [
+   "israel"
+  ],
+  "place": [
+   34.78,
+   32.08
+  ],
+  "wikiTitle": "Yitzhak Rabin",
+  "source": "Wikipedia: Yitzhak Rabin"
+ },
+ {
+  "id": "sheikh-zayed",
+  "name": "Zayed bin Sultan Al Nahyan",
+  "born": 1918,
+  "died": 2004,
+  "role": "ruler",
+  "description": "Founding president of the United Arab Emirates.",
+  "polityIds": [
+   "united-arab-emirates"
+  ],
+  "place": [
+   54.37,
+   24.45
+  ],
+  "wikiTitle": "Zayed bin Sultan Al Nahyan",
+  "source": "Wikipedia: Zayed bin Sultan Al Nahyan"
+ },
+ {
+  "id": "qaboos-bin-said",
+  "name": "Qaboos bin Said",
+  "born": 1940,
+  "died": 2020,
+  "role": "ruler",
+  "description": "Sultan of Oman (1970–2020) who modernised the country.",
+  "polityIds": [
+   "oman"
+  ],
+  "place": [
+   58.41,
+   23.59
+  ],
+  "wikiTitle": "Qaboos bin Said",
+  "source": "Wikipedia: Qaboos bin Said"
+ },
+ {
+  "id": "said-bin-sultan",
+  "name": "Said bin Sultan",
+  "born": 1791,
+  "died": 1856,
+  "role": "ruler",
+  "description": "Sultan of Oman who moved his capital to Zanzibar.",
+  "polityIds": [
+   "oman"
+  ],
+  "place": [
+   39.19,
+   -6.16
+  ],
+  "wikiTitle": "Said bin Sultan",
+  "source": "Wikipedia: Said bin Sultan"
+ },
+ {
+  "id": "ali-abdullah-saleh",
+  "name": "Ali Abdullah Saleh",
+  "born": 1942,
+  "died": 2017,
+  "role": "ruler",
+  "description": "Ruled North Yemen, then united Yemen (1978–2012).",
+  "polityIds": [
+   "yemen"
+  ],
+  "place": [
+   44.21,
+   15.35
+  ],
+  "wikiTitle": "Ali Abdullah Saleh",
+  "source": "Wikipedia: Ali Abdullah Saleh"
+ },
+ {
+  "id": "aram-khachaturian",
+  "name": "Aram Khachaturian",
+  "born": 1903,
+  "died": 1978,
+  "role": "artist",
+  "description": "Armenian composer of the ballet Spartacus.",
+  "polityIds": [
+   "soviet-union",
+   "armenia"
+  ],
+  "place": [
+   44.51,
+   40.18
+  ],
+  "wikiTitle": "Aram Khachaturian",
+  "source": "Wikipedia: Aram Khachaturian"
+ },
+ {
+  "id": "heydar-aliyev",
+  "name": "Heydar Aliyev",
+  "born": 1923,
+  "died": 2003,
+  "role": "ruler",
+  "description": "Led Soviet Azerbaijan and later independent Azerbaijan (1993–2003).",
+  "polityIds": [
+   "azerbaijan",
+   "soviet-union"
+  ],
+  "place": [
+   49.87,
+   40.41
+  ],
+  "wikiTitle": "Heydar Aliyev",
+  "source": "Wikipedia: Heydar Aliyev"
+ },
+ {
+  "id": "islam-karimov",
+  "name": "Islam Karimov",
+  "born": 1938,
+  "died": 2016,
+  "role": "ruler",
+  "description": "First president of Uzbekistan (1991–2016).",
+  "polityIds": [
+   "uzbekistan"
+  ],
+  "place": [
+   69.24,
+   41.31
+  ],
+  "wikiTitle": "Islam Karimov",
+  "source": "Wikipedia: Islam Karimov"
+ },
+ {
+  "id": "saparmurat-niyazov",
+  "name": "Saparmurat Niyazov",
+  "born": 1940,
+  "died": 2006,
+  "role": "ruler",
+  "description": "First president of Turkmenistan; built a personality cult.",
+  "polityIds": [
+   "turkmenistan"
+  ],
+  "place": [
+   58.38,
+   37.95
+  ],
+  "wikiTitle": "Saparmurat Niyazov",
+  "source": "Wikipedia: Saparmurat Niyazov"
+ },
+ {
+  "id": "jinnah",
+  "name": "Muhammad Ali Jinnah",
+  "born": 1876,
+  "died": 1948,
+  "role": "ruler",
+  "description": "Founder of Pakistan.",
+  "polityIds": [
+   "pakistan",
+   "british-empire"
+  ],
+  "place": [
+   67.01,
+   24.86
+  ],
+  "wikiTitle": "Muhammad Ali Jinnah",
+  "source": "Wikipedia: Muhammad Ali Jinnah"
+ },
+ {
+  "id": "benazir-bhutto",
+  "name": "Benazir Bhutto",
+  "born": 1953,
+  "died": 2007,
+  "role": "ruler",
+  "description": "First woman to lead a Muslim-majority country; assassinated in 2007.",
+  "polityIds": [
+   "pakistan"
+  ],
+  "place": [
+   73.05,
+   33.69
+  ],
+  "wikiTitle": "Benazir Bhutto",
+  "source": "Wikipedia: Benazir Bhutto"
+ },
+ {
+  "id": "abdus-salam",
+  "name": "Abdus Salam",
+  "born": 1926,
+  "died": 1996,
+  "role": "scientist",
+  "description": "Physicist; Pakistan’s first Nobel laureate (1979).",
+  "polityIds": [
+   "pakistan"
+  ],
+  "place": [
+   72.67,
+   31.42
+  ],
+  "wikiTitle": "Abdus Salam",
+  "source": "Wikipedia: Abdus Salam"
+ },
+ {
+  "id": "nusrat-fateh-ali-khan",
+  "name": "Nusrat Fateh Ali Khan",
+  "born": 1948,
+  "died": 1997,
+  "role": "artist",
+  "description": "Qawwali singer who brought Sufi music to the world.",
+  "polityIds": [
+   "pakistan"
+  ],
+  "place": [
+   73.08,
+   31.42
+  ],
+  "wikiTitle": "Nusrat Fateh Ali Khan",
+  "source": "Wikipedia: Nusrat Fateh Ali Khan"
+ },
+ {
+  "id": "sheikh-mujib",
+  "name": "Sheikh Mujibur Rahman",
+  "born": 1920,
+  "died": 1975,
+  "role": "ruler",
+  "description": "Founding leader of Bangladesh; assassinated in 1975.",
+  "polityIds": [
+   "bangladesh",
+   "pakistan"
+  ],
+  "place": [
+   90.41,
+   23.81
+  ],
+  "wikiTitle": "Sheikh Mujibur Rahman",
+  "source": "Wikipedia: Sheikh Mujibur Rahman"
+ },
+ {
+  "id": "rabindranath-tagore",
+  "name": "Rabindranath Tagore",
+  "born": 1861,
+  "died": 1941,
+  "role": "writer",
+  "description": "Bengali poet; first non-European Nobel laureate in literature (1913).",
+  "polityIds": [
+   "british-empire"
+  ],
+  "place": [
+   88.36,
+   22.57
+  ],
+  "wikiTitle": "Rabindranath Tagore",
+  "source": "Wikipedia: Rabindranath Tagore"
+ },
+ {
+  "id": "sirimavo-bandaranaike",
+  "name": "Sirimavo Bandaranaike",
+  "born": 1916,
+  "died": 2000,
+  "role": "ruler",
+  "description": "The world’s first woman prime minister (1960).",
+  "polityIds": [
+   "sri-lanka"
+  ],
+  "place": [
+   79.86,
+   6.93
+  ],
+  "wikiTitle": "Sirimavo Bandaranaike",
+  "source": "Wikipedia: Sirimavo Bandaranaike"
+ },
+ {
+  "id": "prithvi-narayan-shah",
+  "name": "Prithvi Narayan Shah",
+  "born": 1723,
+  "died": 1775,
+  "role": "ruler",
+  "description": "Gorkha king who unified Nepal.",
+  "polityIds": [
+   "nepal"
+  ],
+  "place": [
+   84.63,
+   28
+  ],
+  "wikiTitle": "Prithvi Narayan Shah",
+  "source": "Wikipedia: Prithvi Narayan Shah"
+ },
+ {
+  "id": "tenzing-norgay",
+  "name": "Tenzing Norgay",
+  "born": 1914,
+  "died": 1986,
+  "role": "explorer",
+  "description": "Sherpa climber who first reached Everest’s summit with Hillary (1953).",
+  "polityIds": [
+   "nepal"
+  ],
+  "place": [
+   86.71,
+   27.8
+  ],
+  "wikiTitle": "Tenzing Norgay",
+  "source": "Wikipedia: Tenzing Norgay"
+ },
+ {
+  "id": "ngawang-namgyal",
+  "name": "Ngawang Namgyal",
+  "born": 1594,
+  "died": 1651,
+  "role": "religious",
+  "description": "Tibetan lama who unified Bhutan.",
+  "polityIds": [
+   "bhutan"
+  ],
+  "place": [
+   89.64,
+   27.47
+  ],
+  "wikiTitle": "Ngawang Namgyal",
+  "source": "Wikipedia: Ngawang Namgyal"
+ },
+ {
+  "id": "aung-san",
+  "name": "Aung San",
+  "born": 1915,
+  "died": 1947,
+  "role": "military",
+  "description": "Father of Burmese independence; assassinated months before it.",
+  "polityIds": [
+   "british-empire",
+   "myanmar"
+  ],
+  "place": [
+   96.2,
+   16.87
+  ],
+  "wikiTitle": "Aung San",
+  "source": "Wikipedia: Aung San"
+ },
+ {
+  "id": "u-thant",
+  "name": "U Thant",
+  "born": 1909,
+  "died": 1974,
+  "role": "ruler",
+  "description": "Burmese diplomat; UN Secretary-General (1961–71).",
+  "polityIds": [
+   "myanmar"
+  ],
+  "place": [
+   96.2,
+   16.87
+  ],
+  "wikiTitle": "U Thant",
+  "source": "Wikipedia: U Thant"
+ },
+ {
+  "id": "norodom-sihanouk",
+  "name": "Norodom Sihanouk",
+  "born": 1922,
+  "died": 2012,
+  "role": "ruler",
+  "description": "King and leader who won Cambodia’s independence.",
+  "polityIds": [
+   "cambodia",
+   "french-colonial-empire"
+  ],
+  "place": [
+   104.92,
+   11.56
+  ],
+  "wikiTitle": "Norodom Sihanouk",
+  "source": "Wikipedia: Norodom Sihanouk"
+ },
+ {
+  "id": "pol-pot",
+  "name": "Pol Pot",
+  "born": 1925,
+  "died": 1998,
+  "role": "ruler",
+  "description": "Khmer Rouge leader responsible for the Cambodian genocide.",
+  "polityIds": [
+   "cambodia"
+  ],
+  "place": [
+   104.92,
+   11.56
+  ],
+  "wikiTitle": "Pol Pot",
+  "source": "Wikipedia: Pol Pot"
+ },
+ {
+  "id": "souphanouvong",
+  "name": "Souphanouvong",
+  "born": 1909,
+  "died": 1995,
+  "role": "ruler",
+  "description": "The “Red Prince”, first president of communist Laos.",
+  "polityIds": [
+   "laos"
+  ],
+  "place": [
+   102.63,
+   17.97
+  ],
+  "wikiTitle": "Souphanouvong",
+  "source": "Wikipedia: Souphanouvong"
+ },
+ {
+  "id": "kim-il-sung",
+  "name": "Kim Il Sung",
+  "born": 1912,
+  "died": 1994,
+  "role": "ruler",
+  "description": "Founder of North Korea.",
+  "polityIds": [
+   "north-korea"
+  ],
+  "place": [
+   125.75,
+   39.03
+  ],
+  "wikiTitle": "Kim Il Sung",
+  "source": "Wikipedia: Kim Il Sung"
+ },
+ {
+  "id": "park-chung-hee",
+  "name": "Park Chung-hee",
+  "born": 1917,
+  "died": 1979,
+  "role": "ruler",
+  "description": "Military ruler of South Korea (1961–79) who drove rapid industrialisation.",
+  "polityIds": [
+   "south-korea"
+  ],
+  "place": [
+   126.98,
+   37.57
+  ],
+  "wikiTitle": "Park Chung-hee",
+  "source": "Wikipedia: Park Chung-hee"
+ },
+ {
+  "id": "kim-dae-jung",
+  "name": "Kim Dae-jung",
+  "born": 1924,
+  "died": 2009,
+  "role": "ruler",
+  "description": "Democracy activist, president, Nobel Peace Prize (2000).",
+  "polityIds": [
+   "south-korea"
+  ],
+  "place": [
+   126.98,
+   37.57
+  ],
+  "wikiTitle": "Kim Dae-jung",
+  "source": "Wikipedia: Kim Dae-jung"
+ },
+ {
+  "id": "kate-sheppard",
+  "name": "Kate Sheppard",
+  "born": 1847,
+  "died": 1934,
+  "role": "thinker",
+  "description": "Led the campaign that won women the vote in New Zealand.",
+  "polityIds": [
+   "new-zealand"
+  ],
+  "place": [
+   172.64,
+   -43.53
+  ],
+  "wikiTitle": "Kate Sheppard",
+  "source": "Wikipedia: Kate Sheppard"
+ },
+ {
+  "id": "ernest-rutherford",
+  "name": "Ernest Rutherford",
+  "born": 1871,
+  "died": 1937,
+  "role": "scientist",
+  "description": "New Zealand-born physicist who discovered the atomic nucleus.",
+  "polityIds": [
+   "new-zealand",
+   "united-kingdom"
+  ],
+  "place": [
+   172.64,
+   -43.53
+  ],
+  "wikiTitle": "Ernest Rutherford",
+  "source": "Wikipedia: Ernest Rutherford"
+ },
+ {
+  "id": "edmund-hillary",
+  "name": "Edmund Hillary",
+  "born": 1919,
+  "died": 2008,
+  "role": "explorer",
+  "description": "Climbed Everest with Tenzing Norgay (1953).",
+  "polityIds": [
+   "new-zealand"
+  ],
+  "place": [
+   174.76,
+   -36.85
+  ],
+  "wikiTitle": "Edmund Hillary",
+  "source": "Wikipedia: Edmund Hillary"
+ },
+ {
+  "id": "te-whiti",
+  "name": "Te Whiti o Rongomai",
+  "born": 1830,
+  "died": 1907,
+  "role": "religious",
+  "description": "Māori leader of peaceful resistance at Parihaka.",
+  "polityIds": [
+   "maori-aotearoa",
+   "new-zealand"
+  ],
+  "place": [
+   173.95,
+   -39.29
+  ],
+  "wikiTitle": "Te Whiti o Rongomai",
+  "source": "Wikipedia: Te Whiti o Rongomai"
+ },
+ {
+  "id": "michael-somare",
+  "name": "Michael Somare",
+  "born": 1936,
+  "died": 2021,
+  "role": "ruler",
+  "description": "Father of the nation of Papua New Guinea.",
+  "polityIds": [
+   "papua-new-guinea"
+  ],
+  "place": [
+   147.18,
+   -9.44
+  ],
+  "wikiTitle": "Michael Somare",
+  "source": "Wikipedia: Michael Somare"
+ },
+ {
+  "id": "cakobau",
+  "name": "Seru Epenisa Cakobau",
+  "born": 1815,
+  "died": 1883,
+  "role": "ruler",
+  "description": "King of Fiji who ceded the islands to Britain.",
+  "polityIds": [
+   "british-empire"
+  ],
+  "place": [
+   178.84,
+   -17.68
+  ],
+  "wikiTitle": "Seru Epenisa Cakobau",
+  "source": "Wikipedia: Seru Epenisa Cakobau"
+ },
+ {
+  "id": "kamisese-mara",
+  "name": "Kamisese Mara",
+  "born": 1920,
+  "died": 2004,
+  "role": "ruler",
+  "description": "First prime minister of independent Fiji.",
+  "polityIds": [
+   "fiji"
+  ],
+  "place": [
+   178.44,
+   -18.14
+  ],
+  "wikiTitle": "Kamisese Mara",
+  "source": "Wikipedia: Kamisese Mara"
+ },
+ {
+  "id": "george-tupou-i",
+  "name": "George Tupou I",
+  "born": 1797,
+  "died": 1893,
+  "role": "ruler",
+  "description": "Founder of the modern Kingdom of Tonga.",
+  "polityIds": [
+   "tonga"
+  ],
+  "place": [
+   -175.2,
+   -21.14
+  ],
+  "wikiTitle": "George Tupou I",
+  "source": "Wikipedia: George Tupou I"
+ },
+ {
+  "id": "queen-salote",
+  "name": "Sālote Tupou III",
+  "born": 1900,
+  "died": 1965,
+  "role": "ruler",
+  "description": "Queen of Tonga (1918–65).",
+  "polityIds": [
+   "tonga"
+  ],
+  "place": [
+   -175.2,
+   -21.14
+  ],
+  "wikiTitle": "Sālote Tupou III",
+  "source": "Wikipedia: Sālote Tupou III"
  }
 ]

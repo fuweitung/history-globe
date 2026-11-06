@@ -1,0 +1,321 @@
+{
+  "id": "bangladesh",
+  "name": "Bangladesh",
+  "era": "modern",
+  "region": "South Asia",
+  "startYear": 1971,
+  "endYear": null,
+  "capital": "Dhaka",
+  "capitalCoords": [
+    90.41,
+    23.81
+  ],
+  "summary": "East Bengal became East Pakistan in 1947 and won independence as Bangladesh in 1971 after a war; one of the most densely populated countries, a garment-export giant.",
+  "wikiTitle": "Bangladesh",
+  "borderNames": [
+    "Bangladesh"
+  ],
+  "borderYears": [
+    1971,
+    null
+  ],
+  "color": "#2a7a3a",
+  "knownFor": [
+    {
+      "label": "Sundarbans",
+      "kind": "monument",
+      "note": "Largest mangrove forest; Bengal tigers."
+    },
+    {
+      "label": "Rabindranath Tagore",
+      "kind": "person",
+      "note": "Wrote the national anthem."
+    },
+    {
+      "label": "Microcredit",
+      "kind": "idea",
+      "year": 1983,
+      "note": "Grameen Bank loans to the poor."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Ganges–Brahmaputra delta; about 148,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "terrain": {
+        "value": "Flat delta and rivers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "climate": {
+        "value": "Tropical monsoon.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "resources": {
+        "value": "Rice, jute, natural gas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "disasters": {
+        "value": "Bhola cyclone (1970) killed up to 500,000.",
+        "year": 1970,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 173 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "urbanisation": {
+        "value": "Dhaka is one of the largest cities in the world.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "disease": {
+        "value": "Cholera; big gains in child health.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "migration": {
+        "value": "Rohingya refugees from Myanmar; workers in the Gulf.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Garments (most exports), farming, remittances.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "tradeRoutes": {
+        "value": "Port of Chittagong.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "wealth": {
+        "value": "A lower-middle-income country growing fast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "moneyAndTax": {
+        "value": "The taka.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bangladesh"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "keyRulers": {
+        "value": "Sheikh Mujibur Rahman. Ziaur Rahman. Sheikh Hasina. Khaleda Zia.",
+        "year": 1971,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "succession": {
+        "value": "Elections and coups.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "institutions": {
+        "value": "Parliament (Jatiya Sangsad).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "stability": {
+        "value": "Coups (1975); protests ended Hasina’s rule (2024).",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bangladesh"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Armed forces; UN peacekeepers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "majorWars": {
+        "value": "Liberation War (1971).",
+        "year": 1971,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "territoryChange": {
+        "value": "Border enclaves swapped with India (2015).",
+        "year": 2015,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "alliancesRivals": {
+        "value": "Close to India, later to China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "scienceEducation": {
+        "value": "Universities; Dhaka (1921).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "communicationTransport": {
+        "value": "Rivers, ferries; Padma Bridge (2022).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "About 90% Muslim; Hindu minority.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "languageWriting": {
+        "value": "Bengali; the 1952 Language Movement.",
+        "year": 1952,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "artsArchitecture": {
+        "value": "Baul songs; Bengali literature.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "socialStructure": {
+        "value": "Mostly Bengali.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "sharedIdentity": {
+        "value": "Bengali language and the Liberation War.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "dailyLife": {
+        "value": "Houses; rice and fish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "India, Myanmar.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "ideasReligions": {
+        "value": "Bengali nationalism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "colonisation": {
+        "value": "Part of British India until 1947, then Pakistan until 1971.",
+        "year": 1947,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1971).",
+        "year": 1971,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Bangladesh.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bangladesh"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bangladesh"
+      }
+    }
+  }
+}

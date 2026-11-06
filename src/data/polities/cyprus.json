@@ -1,0 +1,322 @@
+{
+  "id": "cyprus",
+  "name": "Cyprus",
+  "era": "modern",
+  "region": "Eastern Mediterranean (Levant coast)",
+  "startYear": 1960,
+  "endYear": null,
+  "capital": "Nicosia",
+  "capitalCoords": [
+    33.36,
+    35.17
+  ],
+  "summary": "Independent from Britain in 1960; divided since the Turkish invasion of 1974, with a Turkish Cypriot administration in the north recognised only by Turkey.",
+  "wikiTitle": "Cyprus",
+  "borderNames": [
+    "Cyprus",
+    "Turkish Cypriot-administered area"
+  ],
+  "borderYears": [
+    1960,
+    null
+  ],
+  "color": "#c9a23a",
+  "knownFor": [
+    {
+      "label": "Halloumi",
+      "kind": "food",
+      "note": "Grilling cheese."
+    },
+    {
+      "label": "Green Line",
+      "kind": "monument",
+      "year": 1974,
+      "note": "UN buffer zone dividing the island."
+    },
+    {
+      "label": "Kourion",
+      "kind": "monument",
+      "note": "Ancient city ruins."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "An island in the eastern Mediterranean.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      },
+      "terrain": {
+        "value": "Mountains (Troodos) and plains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      },
+      "climate": {
+        "value": "Mediterranean.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      },
+      "resources": {
+        "value": "Tourism, copper (historically).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      },
+      "disasters": {
+        "value": "Droughts and earthquakes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 1.3 million on the island.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      },
+      "urbanisation": {
+        "value": "Nicosia, Limassol.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      },
+      "disease": {
+        "value": "Good public health.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cyprus"
+      },
+      "migration": {
+        "value": "About 200,000 displaced in 1974.",
+        "year": 1974,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Tourism, shipping, services.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      },
+      "tradeRoutes": {
+        "value": "EU since 2004.",
+        "year": 2004,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      },
+      "wealth": {
+        "value": "A high-income economy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      },
+      "moneyAndTax": {
+        "value": "The euro (2008).",
+        "year": 2008,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      },
+      "inequality": {
+        "value": "Moderate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cyprus"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A presidential republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      },
+      "keyRulers": {
+        "value": "Archbishop Makarios III.",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      },
+      "institutions": {
+        "value": "House of Representatives.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      },
+      "stability": {
+        "value": "Intercommunal violence (1963–64); coup and Turkish invasion (1974).",
+        "year": 1974,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      },
+      "eliteConflict": {
+        "value": "Greek and Turkish Cypriot division.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "National Guard; UK bases.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      },
+      "majorWars": {
+        "value": "1974 conflict.",
+        "year": 1974,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      },
+      "territoryChange": {
+        "value": "The north is under a Turkish Cypriot administration recognised only by Turkey.",
+        "year": 1983,
+        "certainty": "disputed",
+        "source": "Wikipedia: Cyprus"
+      },
+      "alliancesRivals": {
+        "value": "EU member.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cyprus"
+      },
+      "scienceEducation": {
+        "value": "Universities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      },
+      "openness": {
+        "value": "Open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      },
+      "communicationTransport": {
+        "value": "Roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Greek Orthodox and Muslim.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      },
+      "languageWriting": {
+        "value": "Greek and Turkish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      },
+      "artsArchitecture": {
+        "value": "Byzantine churches.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      },
+      "socialStructure": {
+        "value": "Moderate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cyprus"
+      },
+      "sharedIdentity": {
+        "value": "Divided identities.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Cyprus"
+      },
+      "dailyLife": {
+        "value": "Houses; halloumi, souvlaki.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Greece, Turkey, Lebanon, Egypt.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      },
+      "ideasReligions": {
+        "value": "Orthodoxy and Islam.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cyprus"
+      },
+      "colonisation": {
+        "value": "British colony until 1960.",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1960).",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      },
+      "peakPeriod": {
+        "value": "Tourism boom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cyprus"
+      },
+      "declineSignals": {
+        "value": "Division (1974).",
+        "year": 1974,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      },
+      "outcome": {
+        "value": "Still in existence, divided.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Cyprus.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cyprus"
+      },
+      "overallCertainty": {
+        "value": "The status of the north is disputed.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Cyprus"
+      }
+    }
+  }
+}

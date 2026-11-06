@@ -1,0 +1,321 @@
+{
+  "id": "greece-modern",
+  "name": "Greece (since 1830)",
+  "era": "modern",
+  "region": "Southern Europe",
+  "startYear": 1830,
+  "endYear": null,
+  "capital": "Athens",
+  "capitalCoords": [
+    23.73,
+    37.98
+  ],
+  "summary": "The modern Greek state, independent from the Ottoman Empire in 1830, which grew to its present borders by 1947 and has been a republic since 1974.",
+  "wikiTitle": "Greece",
+  "borderNames": [
+    "Greece"
+  ],
+  "borderYears": [
+    1830,
+    null
+  ],
+  "color": "#3a7ab0",
+  "knownFor": [
+    {
+      "label": "Revival of the Olympic Games",
+      "kind": "idea",
+      "year": 1896,
+      "note": "The first modern Olympics were held in Athens."
+    },
+    {
+      "label": "Feta and olive oil",
+      "kind": "food",
+      "note": "Staples of Greek cooking."
+    },
+    {
+      "label": "Rebetiko",
+      "kind": "art",
+      "note": "Urban folk music."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "South-east Europe: mainland, Peloponnese and about 6,000 islands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "terrain": {
+        "value": "Mountains and coasts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "climate": {
+        "value": "Mediterranean.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "resources": {
+        "value": "Olives, shipping, tourism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "disasters": {
+        "value": "Earthquakes and wildfires.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 10 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "urbanisation": {
+        "value": "Athens and Thessaloniki.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "disease": {
+        "value": "Good public health.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "migration": {
+        "value": "Population exchange with Turkey (1923).",
+        "year": 1923,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Tourism, shipping, farming.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "tradeRoutes": {
+        "value": "One of the world’s largest merchant fleets.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "wealth": {
+        "value": "A high-income economy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "moneyAndTax": {
+        "value": "The drachma, then the euro (2001).",
+        "year": 2001,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "inequality": {
+        "value": "High unemployment after 2009.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Kingdom (1832–1924, 1935–73), republic since 1974.",
+        "year": 1974,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "keyRulers": {
+        "value": "Eleftherios Venizelos. Konstantinos Karamanlis. Andreas Papandreou.",
+        "year": 1910,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "institutions": {
+        "value": "Hellenic Parliament.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "stability": {
+        "value": "Civil war (1946–49); military junta (1967–74).",
+        "year": 1967,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "eliteConflict": {
+        "value": "Party politics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "NATO member.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "majorWars": {
+        "value": "War of Independence (1821–29); Balkan Wars; Greco-Turkish War (1919–22).",
+        "year": 1821,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "territoryChange": {
+        "value": "Grew from a small state to today’s borders by 1947.",
+        "year": 1947,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "alliancesRivals": {
+        "value": "NATO (1952), EU (1981).",
+        "year": 1981,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "scienceEducation": {
+        "value": "Free education.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "openness": {
+        "value": "Open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "communicationTransport": {
+        "value": "Ferries between islands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Greek Orthodox Christianity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "languageWriting": {
+        "value": "Greek.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "artsArchitecture": {
+        "value": "Poetry (Cavafy, Seferis), music.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "socialStructure": {
+        "value": "Large middle class.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "sharedIdentity": {
+        "value": "Strong link to ancient and Byzantine heritage.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "dailyLife": {
+        "value": "Whitewashed houses and apartments; olive oil, feta, fish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Turkey, Albania, North Macedonia, Bulgaria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "ideasReligions": {
+        "value": "Democracy’s ancient heritage.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence recognised in 1830.",
+        "year": 1830,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "peakPeriod": {
+        "value": "Growth in the 1950s–60s.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "declineSignals": {
+        "value": "Debt crisis (2009–18).",
+        "year": 2010,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Greece.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greece; Wikipedia: Greek War of Independence"
+      }
+    }
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "id": "czechoslovakia-czechia",
+  "name": "Czechoslovakia and Czechia",
+  "era": "modern",
+  "region": "Central Europe",
+  "startYear": 1918,
+  "endYear": null,
+  "capital": "Prague",
+  "capitalCoords": [
+    14.42,
+    50.09
+  ],
+  "summary": "Czechoslovakia was founded in 1918, occupied by Nazi Germany, ruled by communists (Prague Spring crushed in 1968), freed by the Velvet Revolution (1989) and split peacefully in 1993 into Czechia and Slovakia. This entry continues as Czechia.",
+  "wikiTitle": "Czech Republic",
+  "borderNames": [
+    "Czechoslovakia",
+    "Czech Republic",
+    "Czechia"
+  ],
+  "borderYears": [
+    1918,
+    null
+  ],
+  "color": "#3a6ab0",
+  "knownFor": [
+    {
+      "label": "Velvet Revolution",
+      "kind": "idea",
+      "year": 1989,
+      "note": "Peaceful end of communist rule."
+    },
+    {
+      "label": "Prague Castle",
+      "kind": "monument",
+      "note": "One of the largest castle complexes."
+    },
+    {
+      "label": "Pilsner beer",
+      "kind": "food",
+      "note": "First brewed in Plzeň (1842)."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Central Europe, landlocked.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "terrain": {
+        "value": "Bohemian basin and hills.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "climate": {
+        "value": "Continental.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "resources": {
+        "value": "Coal, forests, farmland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "disasters": {
+        "value": "Floods (2002).",
+        "year": 2002,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Czechia about 10.9 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "urbanisation": {
+        "value": "Prague, Brno.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "disease": {
+        "value": "Good public health.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "migration": {
+        "value": "Germans expelled after 1945.",
+        "year": 1945,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Industry (Škoda), services.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "tradeRoutes": {
+        "value": "EU since 2004.",
+        "year": 2004,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "wealth": {
+        "value": "A high-income economy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "moneyAndTax": {
+        "value": "The koruna.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "inequality": {
+        "value": "Low inequality.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "keyRulers": {
+        "value": "Tomáš Masaryk. Václav Havel.",
+        "year": 1918,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "institutions": {
+        "value": "Parliament.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "stability": {
+        "value": "Munich Agreement (1938); Prague Spring (1968).",
+        "year": 1968,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "eliteConflict": {
+        "value": "Party politics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "NATO member.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "majorWars": {
+        "value": "Occupied by Germany (1939–45).",
+        "year": 1939,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "territoryChange": {
+        "value": "Split into Czechia and Slovakia (1993).",
+        "year": 1993,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "alliancesRivals": {
+        "value": "NATO (1999), EU (2004).",
+        "year": 2004,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Soft contact lenses (Wichterle, 1961).",
+        "year": 1961,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "scienceEducation": {
+        "value": "Charles University (1348).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "openness": {
+        "value": "Open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "communicationTransport": {
+        "value": "Railways.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Largely non-religious.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "languageWriting": {
+        "value": "Czech.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "artsArchitecture": {
+        "value": "Kafka, Dvořák, Mucha.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "socialStructure": {
+        "value": "Low inequality.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "sharedIdentity": {
+        "value": "Strong Czech identity.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "dailyLife": {
+        "value": "Apartments; dumplings, beer.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Germany, Poland, Slovakia, Austria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "ideasReligions": {
+        "value": "Dissident movement (Charter 77).",
+        "year": 1977,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1918).",
+        "year": 1918,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "peakPeriod": {
+        "value": "Interwar democracy.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "declineSignals": {
+        "value": "Communist rule.",
+        "year": 1948,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "outcome": {
+        "value": "Czechia continues.",
+        "year": 1993,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Czechoslovakia; Wikipedia: Czech Republic"
+      }
+    }
+  }
+}
