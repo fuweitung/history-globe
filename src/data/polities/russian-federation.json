@@ -1,0 +1,309 @@
+{
+  "id": "russian-federation",
+  "name": "Russian Federation",
+  "era": "modern",
+  "region": "Eastern Europe & North Asia",
+  "startYear": 1991,
+  "endYear": null,
+  "capital": "Moscow",
+  "capitalCoords": [
+    37.62,
+    55.76
+  ],
+  "summary": "The largest country in the world by area, formed when the Soviet Union broke up in December 1991. It stretches across eleven time zones from the Baltic Sea to the Pacific.",
+  "wikiTitle": "Russia",
+  "borderNames": [
+    "Russia"
+  ],
+  "borderYears": [
+    1991,
+    null
+  ],
+  "color": "#b5453c",
+  "knownFor": [
+    {
+      "label": "Trans-Siberian Railway",
+      "kind": "tool",
+      "year": 1916,
+      "note": "The longest railway line in the world, from Moscow to Vladivostok, still a main artery."
+    },
+    {
+      "label": "Bolshoi Ballet",
+      "kind": "art",
+      "note": "One of the oldest and best-known ballet companies in the world."
+    },
+    {
+      "label": "Soyuz spacecraft",
+      "kind": "tool",
+      "note": "For many years the only way to carry crews to the International Space Station."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Eastern Europe and all of northern Asia, from Kaliningrad on the Baltic to the Bering Strait; about 17 million km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Russia"
+      },
+      "terrain": {
+        "value": "The East European Plain west of the Ural Mountains; the West Siberian Plain, the Central Siberian Plateau and mountains in the far east.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Russia"
+      },
+      "climate": {
+        "value": "Mostly continental, with long cold winters; tundra in the far north, taiga forest across the middle and steppe in the south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Russia"
+      },
+      "resources": {
+        "value": "Some of the world’s largest reserves of natural gas, oil, coal, timber, nickel, diamonds and fresh water (Lake Baikal).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Russia"
+      },
+      "disasters": {
+        "value": "Wildfires in Siberia, spring floods, permafrost thaw that damages buildings and pipelines, and extreme cold.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Russia"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 146 million (2021 census, including Crimea, whose annexation most countries do not recognise); it has fallen slowly since the 1990s.",
+        "year": 2021,
+        "certainty": "disputed",
+        "source": "Wikipedia: Russia"
+      },
+      "urbanisation": {
+        "value": "About three-quarters of people live in towns and cities; Moscow (over 13 million) and Saint Petersburg are the largest.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Russia"
+      },
+      "disease": {
+        "value": "Life expectancy fell sharply in the 1990s, mainly from heart disease and alcohol; HIV and tuberculosis spread. COVID-19 caused heavy excess deaths (2020–22).",
+        "year": 1994,
+        "certainty": "estimated",
+        "source": "Wikipedia: Russia"
+      },
+      "migration": {
+        "value": "Migrant workers from Central Asia; emigration of educated young people, especially after 2022.",
+        "year": 2022,
+        "certainty": "estimated",
+        "source": "Wikipedia: Russia"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Exports of oil, gas, metals, grain and weapons; a large state-owned industrial sector.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Russia"
+      },
+      "tradeRoutes": {
+        "value": "Gas pipelines to Europe (largely cut after 2022) and to China; Arctic shipping along the Northern Sea Route.",
+        "year": 2022,
+        "certainty": "estimated",
+        "source": "Wikipedia: Russia"
+      },
+      "wealth": {
+        "value": "A collapse in the 1990s, a boom from high oil prices in the 2000s, then slower growth and Western sanctions after 2014 and 2022.",
+        "year": 2008,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Russia"
+      },
+      "moneyAndTax": {
+        "value": "The rouble; the 1998 default and devaluation. Most state income comes from taxes on oil and gas.",
+        "year": 1998,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Russia"
+      },
+      "inequality": {
+        "value": "Privatisation in the 1990s made a small group of “oligarchs” very rich; large gaps remain between Moscow and the regions.",
+        "year": 1995,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Russia"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A federal semi-presidential republic under the 1993 constitution; a strong president.",
+        "year": 1993,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Russia"
+      },
+      "keyRulers": {
+        "value": "Boris Yeltsin (1991–1999). Vladimir Putin (president 2000–2008 and since 2012). Dmitry Medvedev (2008–2012).",
+        "year": 2000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Russia"
+      },
+      "succession": {
+        "value": "Presidential elections; 2020 constitutional amendments allowed Putin to run again until 2036. International observers have criticised elections as not fully free.",
+        "year": 2020,
+        "certainty": "disputed",
+        "source": "Wikipedia: Russia"
+      },
+      "institutions": {
+        "value": "The Federal Assembly (Duma and Federation Council), the presidency, the security services (FSB) and 89 federal subjects by Russia’s count (83 internationally recognised).",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Russia"
+      },
+      "stability": {
+        "value": "The 1993 constitutional crisis, two wars in Chechnya, and growing restrictions on opposition and media.",
+        "year": 1993,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Russia"
+      },
+      "eliteConflict": {
+        "value": "Struggles between the presidency and parliament (1993) and between the Kremlin and oligarchs (2000s).",
+        "year": 1993,
+        "certainty": "estimated",
+        "source": "Wikipedia: Russia"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "A large army inherited from the USSR, with the world’s largest stock of nuclear warheads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Russia"
+      },
+      "majorWars": {
+        "value": "First (1994–96) and Second (1999–2009) Chechen Wars; war with Georgia (2008); intervention in Syria (2015); annexation of Crimea (2014) and full-scale invasion of Ukraine (2022).",
+        "year": 2022,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Russia"
+      },
+      "territoryChange": {
+        "value": "Annexed Crimea in 2014 and claimed four more Ukrainian regions in 2022; Ukraine and most UN members regard these as illegal.",
+        "year": 2014,
+        "certainty": "disputed",
+        "source": "Wikipedia: Russia"
+      },
+      "alliancesRivals": {
+        "value": "Founding member of the CIS and CSTO; partnership with China; a permanent seat on the UN Security Council; rivalry with NATO.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Russia"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Space launch vehicles, nuclear power stations, the Sputnik V vaccine (2020).",
+        "year": 2020,
+        "certainty": "estimated",
+        "source": "Wikipedia: Russia"
+      },
+      "scienceEducation": {
+        "value": "Strong traditions in mathematics, physics and chess; Moscow State University; many scientists emigrated in the 1990s.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Russia"
+      },
+      "openness": {
+        "value": "Opened to the world economy in the 1990s; increasingly closed after 2014, with internet controls and sanctions.",
+        "year": 2014,
+        "certainty": "estimated",
+        "source": "Wikipedia: Russia"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Russian Orthodox Christianity (largest); Islam (Tatarstan, Chechnya, Dagestan); Buddhism; many non-religious people.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Russia"
+      },
+      "languageWriting": {
+        "value": "Russian (Cyrillic alphabet) is the official language; dozens of other languages are official in the republics.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Russia"
+      },
+      "artsArchitecture": {
+        "value": "The literary heritage of Tolstoy and Dostoevsky, ballet, film (Tarkovsky’s heirs), and Soviet and post-Soviet architecture.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Russia"
+      },
+      "socialStructure": {
+        "value": "A large urban middle class in big cities; poorer rural regions; about 190 ethnic groups, of which Russians are about 70–80%.",
+        "year": 2021,
+        "certainty": "estimated",
+        "source": "Wikipedia: Russia"
+      },
+      "sharedIdentity": {
+        "value": "Russian state identity built around the victory in the Second World War, Orthodoxy and the idea of a great power.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Russia"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Ukraine, Belarus, Kazakhstan, China, Mongolia, the Baltic states, Finland, Georgia, Azerbaijan and others.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Russia"
+      },
+      "ideasReligions": {
+        "value": "Market reforms from the West in the 1990s; revival of the Orthodox Church after Soviet atheism.",
+        "year": 1991,
+        "certainty": "estimated",
+        "source": "Wikipedia: Russia"
+      },
+      "colonisation": {
+        "value": "No overseas colonies; influence over former Soviet republics, which Russia calls the “near abroad”.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Russia"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "The dissolution of the Soviet Union (26 December 1991) left Russia as its main successor state, keeping its UN seat.",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Russia"
+      },
+      "peakPeriod": {
+        "value": "Economic recovery and rising living standards in the 2000s, driven by oil and gas.",
+        "year": 2007,
+        "certainty": "estimated",
+        "source": "Wikipedia: Russia"
+      },
+      "declineSignals": {
+        "value": "Sanctions, a shrinking population, heavy war losses and dependence on energy exports.",
+        "year": 2022,
+        "certainty": "estimated",
+        "source": "Wikipedia: Russia"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Russia"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Russia; Wikipedia: History of Russia (1991–present). Recent events are still developing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Russia"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; population, war and election figures are disputed between Russian and outside sources.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Russia"
+      }
+    }
+  }
+}

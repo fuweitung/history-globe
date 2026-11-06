@@ -1,0 +1,309 @@
+{
+  "id": "khoisan",
+  "name": "Khoisan peoples (San and Khoekhoe)",
+  "era": "prehistory",
+  "region": "Southern Africa",
+  "startYear": -10000,
+  "endYear": null,
+  "datesApproximate": true,
+  "capital": "None (mobile bands)",
+  "capitalCoords": [
+    21.5,
+    -22.5
+  ],
+  "summary": "The San hunter-gatherers and Khoekhoe herders of southern Africa, whose ancestors have lived there for tens of thousands of years. Their rock art is among the oldest art traditions on Earth. They were not one state but many small groups.",
+  "wikiTitle": "Khoisan",
+  "borderNames": [
+    "Khoisan"
+  ],
+  "borderYears": [
+    -10000,
+    1700
+  ],
+  "color": "#c7a26b",
+  "knownFor": [
+    {
+      "label": "San rock art",
+      "kind": "art",
+      "note": "Thousands of paintings and engravings of animals, people and rituals, some many thousands of years old."
+    },
+    {
+      "label": "Click languages",
+      "kind": "idea",
+      "note": "Languages that use click sounds as consonants."
+    },
+    {
+      "label": "Persistence hunting",
+      "kind": "tool",
+      "note": "Tracking and running down animals in the heat of the day."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Southern Africa: the Kalahari, the Cape, Namibia, Botswana and once much of eastern Africa too.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "terrain": {
+        "value": "Deserts, dry savannah, coastal plains and mountains (Drakensberg).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "climate": {
+        "value": "Mostly dry; winter rain at the Cape, summer rain further north.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "resources": {
+        "value": "Wild plants, game, water holes; the Khoekhoe later kept sheep and cattle.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown; small, scattered populations.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "urbanisation": {
+        "value": "No towns; camps of a few dozen people.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "disease": {
+        "value": "The 1713 smallpox epidemic at the Cape killed a large share of the Khoekhoe.",
+        "year": 1713,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "migration": {
+        "value": "Bantu-speaking farmers moved into the region from about 300 CE; Dutch settlers arrived in 1652.",
+        "year": 1652,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "San: hunting and gathering. Khoekhoe: herding sheep and cattle (from about 2,000 years ago).",
+        "year": -100,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "tradeRoutes": {
+        "value": "Exchanged goods with Bantu-speaking farmers and later with European ships at the Cape.",
+        "year": 1600,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "wealth": {
+        "value": "Little private wealth among the San, who valued sharing; Khoekhoe wealth was counted in cattle.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "moneyAndTax": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "inequality": {
+        "value": "San bands were very equal; Khoekhoe chiefs had more wealth.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "No state: San bands led by consensus; Khoekhoe clans and chiefdoms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "keyRulers": {
+        "value": "No recorded rulers in early times; Khoekhoe leaders such as Autshumao dealt with the Dutch (1650s).",
+        "year": 1652,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "succession": {
+        "value": "Leadership by respected elders; Khoekhoe chiefs could be hereditary.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "institutions": {
+        "value": "Sharing customs, trance dances and kinship rules.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "stability": {
+        "value": "Groups split and moved as needed.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "eliteConflict": {
+        "value": "Disputes were often settled by groups moving apart.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Bows with poisoned arrows, spears.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "majorWars": {
+        "value": "Khoikhoi–Dutch Wars (1659–1677); violence on the Cape frontier in the 18th–19th centuries.",
+        "year": 1659,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "territoryChange": {
+        "value": "Lost most of their land to farmers and colonists.",
+        "year": 1700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "alliancesRivals": {
+        "value": "Traded and intermarried with Bantu-speaking neighbours, such as the Xhosa.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Arrow poisons from beetle larvae; ostrich-eggshell water containers; plant medicines.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "scienceEducation": {
+        "value": "Deep knowledge of plants, animals and tracking passed on orally.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "openness": {
+        "value": "Mobile and open, sharing knowledge with neighbours.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Spiritual beliefs centred on healers, trance dances and animals such as the eland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "languageWriting": {
+        "value": "Khoe and San languages with clicks; some click sounds were borrowed into Xhosa and Zulu.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "artsArchitecture": {
+        "value": "Rock paintings and engravings across southern Africa; beadwork from ostrich eggshell.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "socialStructure": {
+        "value": "Small, very equal bands among the San.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "sharedIdentity": {
+        "value": "Identity built around kin groups, language and land.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Bantu-speaking peoples, later Dutch and British colonists.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "ideasReligions": {
+        "value": "Christianity spread through missions from the 18th century.",
+        "year": 1737,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "colonisation": {
+        "value": "Colonised by the Dutch and British; many Khoekhoe were absorbed into the Cape Coloured community.",
+        "year": 1800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Successful survival in harsh environments over very long periods.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "peakPeriod": {
+        "value": "No single peak; the San once lived across most of southern and eastern Africa.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "declineSignals": {
+        "value": "Loss of land, disease and violence after 1652.",
+        "year": 1652,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "outcome": {
+        "value": "San and Khoekhoe communities still exist in Namibia, Botswana and South Africa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Khoisan; Wikipedia: San people; Barnard, Hunters and Herders of Southern Africa (1992).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      },
+      "overallCertainty": {
+        "value": "Mostly known from archaeology, genetics and colonial records; dates are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khoisan; Wikipedia: San people"
+      }
+    }
+  }
+}

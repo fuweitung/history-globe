@@ -1,0 +1,312 @@
+{
+  "id": "siberian-peoples",
+  "name": "Indigenous peoples of Siberia",
+  "era": "ancient",
+  "region": "North Asia (Siberia)",
+  "startYear": -3000,
+  "endYear": null,
+  "datesApproximate": true,
+  "capital": "None (many peoples)",
+  "capitalCoords": [
+    105,
+    62
+  ],
+  "summary": "The many peoples of Siberia, such as the Evenks and other Tungusic peoples, the Yakuts (Sakha), Chukchi, Nenets and Khanty, who lived by hunting, fishing and reindeer herding long before Russian expansion from the 1580s.",
+  "wikiTitle": "Indigenous peoples of Siberia",
+  "borderNames": [
+    "Paleo-Siberian hunter-gatherers",
+    "Siberians",
+    "Tungus",
+    "Tungusic Tribes"
+  ],
+  "borderYears": [
+    -3000,
+    1600
+  ],
+  "color": "#7d9c84",
+  "knownFor": [
+    {
+      "label": "Reindeer herding",
+      "kind": "tool",
+      "note": "Herding and riding reindeer across the taiga and tundra."
+    },
+    {
+      "label": "Shamanism",
+      "kind": "idea",
+      "note": "The word “shaman” comes from the Evenki language."
+    },
+    {
+      "label": "Chum (tent)",
+      "kind": "monument",
+      "note": "A cone-shaped tent of poles and reindeer hides."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Siberia: from the Ural Mountains to the Pacific and from the Arctic Ocean to Mongolia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "terrain": {
+        "value": "Taiga forest, tundra, great rivers (Ob, Yenisei, Lena) and mountains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "climate": {
+        "value": "Extremely cold winters; short summers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "resources": {
+        "value": "Reindeer, fish, fur animals (sable), sea mammals on the coasts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "disasters": {
+        "value": "Extreme cold and hunger in bad years.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Perhaps about 200,000 when Russians arrived in the 17th century.",
+        "year": 1650,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "urbanisation": {
+        "value": "No towns; seasonal camps.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "disease": {
+        "value": "Smallpox brought by Russian traders killed many (17th–18th centuries).",
+        "year": 1650,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "migration": {
+        "value": "Turkic Yakuts moved north into the Lena valley (about 13th–15th centuries).",
+        "year": 1300,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Hunting, fishing, gathering and reindeer herding; horses and cattle among the Yakuts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "tradeRoutes": {
+        "value": "Trade in furs with Chinese, Mongol and later Russian traders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "wealth": {
+        "value": "Wealth in reindeer herds.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "moneyAndTax": {
+        "value": "Russians demanded fur tribute (yasak) from the 17th century.",
+        "year": 1600,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "inequality": {
+        "value": "Clans; some rich herders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "No states (except the Khanate of Sibir in the west); clans and family groups.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "keyRulers": {
+        "value": "No recorded rulers in most groups.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "succession": {
+        "value": "Clan elders and shamans.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "institutions": {
+        "value": "Clan rules and customs.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "stability": {
+        "value": "Groups moved with herds and seasons.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "eliteConflict": {
+        "value": "Feuds between clans.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Bows, spears; armour of bone among the Chukchi.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "majorWars": {
+        "value": "Resisted Russian conquest, especially the Chukchi (18th century).",
+        "year": 1750,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "territoryChange": {
+        "value": "Lost control of land to the Russian state.",
+        "year": 1650,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "alliancesRivals": {
+        "value": "Traded with Mongols, Manchus, Chinese and Russians.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Reindeer sleds, fur clothing, birch-bark boats.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "scienceEducation": {
+        "value": "Knowledge passed on orally.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "openness": {
+        "value": "Adopted metal tools and later Christianity in parts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Shamanism and animal spirits; some Buddhism (Buryats) and Orthodox Christianity later.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "languageWriting": {
+        "value": "Many language families: Uralic, Tungusic, Turkic, Chukotko-Kamchatkan and isolates.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "artsArchitecture": {
+        "value": "Beadwork, embroidery, epic songs (the Yakut olonkho).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "socialStructure": {
+        "value": "Clans and families.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "sharedIdentity": {
+        "value": "Separate peoples with separate identities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Mongols, Manchus, Russians.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "ideasReligions": {
+        "value": "Russian Orthodox missions.",
+        "year": 1700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "colonisation": {
+        "value": "Conquered by the Russian state from the 1580s (Yermak’s expedition) to the 18th century.",
+        "year": 1582,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Adapted to some of the harshest climates on Earth.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "peakPeriod": {
+        "value": "No single peak.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "declineSignals": {
+        "value": "Russian conquest, fur tribute and disease.",
+        "year": 1650,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "outcome": {
+        "value": "Many Siberian peoples live in Russia today, some in their own republics (such as Sakha).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Indigenous peoples of Siberia; Forsyth, A History of the Peoples of Siberia (1992).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      },
+      "overallCertainty": {
+        "value": "Mostly known from archaeology and Russian records; early figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of Siberia"
+      }
+    }
+  }
+}
