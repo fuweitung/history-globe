@@ -405,12 +405,6 @@
     "note": "Via the Zagwe dynasty."
   },
   {
-    "fromPolityId": "olmec",
-    "toPolityId": "maya",
-    "relation": "traded_with",
-    "note": "Olmec influence on later Mesoamerican cultures is debated."
-  },
-  {
     "fromPolityId": "spanish-empire",
     "toPolityId": "aztec-empire",
     "relation": "conquered",
@@ -427,11 +421,6 @@
     "toPolityId": "sumer",
     "relation": "conquered",
     "year": -2334
-  },
-  {
-    "fromPolityId": "babylonia",
-    "toPolityId": "akkadian-empire",
-    "relation": "succeeded"
   },
   {
     "fromPolityId": "hittite-empire",
@@ -476,8 +465,8 @@
     "year": -146
   },
   {
-    "fromPolityId": "sasanian",
-    "toPolityId": "parthian-empire",
+    "fromPolityId": "parthian-empire",
+    "toPolityId": "sasanian",
     "relation": "succeeded",
     "year": 224
   },
@@ -522,14 +511,14 @@
     "year": 1240
   },
   {
-    "fromPolityId": "golden-horde",
-    "toPolityId": "mongol-empire",
+    "fromPolityId": "mongol-empire",
+    "toPolityId": "golden-horde",
     "relation": "succeeded",
     "year": 1259
   },
   {
-    "fromPolityId": "mamluk-sultanate",
-    "toPolityId": "fatimid-caliphate",
+    "fromPolityId": "fatimid-caliphate",
+    "toPolityId": "mamluk-sultanate",
     "relation": "succeeded",
     "year": 1250
   },
@@ -570,14 +559,14 @@
     "year": 1398
   },
   {
-    "fromPolityId": "mughal-empire",
-    "toPolityId": "delhi-sultanate",
+    "fromPolityId": "delhi-sultanate",
+    "toPolityId": "mughal-empire",
     "relation": "succeeded",
     "year": 1526
   },
   {
-    "fromPolityId": "joseon-korea",
-    "toPolityId": "goryeo",
+    "fromPolityId": "goryeo",
+    "toPolityId": "joseon-korea",
     "relation": "succeeded",
     "year": 1392
   },
@@ -594,8 +583,8 @@
     "year": 1471
   },
   {
-    "fromPolityId": "nguyen-vietnam",
-    "toPolityId": "dai-viet",
+    "fromPolityId": "dai-viet",
+    "toPolityId": "nguyen-vietnam",
     "relation": "succeeded",
     "year": 1802
   },
@@ -606,8 +595,8 @@
     "year": 1832
   },
   {
-    "fromPolityId": "mughal-empire",
-    "toPolityId": "timurid-empire",
+    "fromPolityId": "timurid-empire",
+    "toPolityId": "mughal-empire",
     "relation": "succeeded",
     "year": 1526
   },
@@ -630,8 +619,8 @@
     "year": 1897
   },
   {
-    "fromPolityId": "bruneian-empire",
-    "toPolityId": "majapahit",
+    "fromPolityId": "majapahit",
+    "toPolityId": "bruneian-empire",
     "relation": "succeeded",
     "year": 1402
   },
@@ -757,8 +746,8 @@
     "year": 1227
   },
   {
-    "fromPolityId": "timurid-empire",
-    "toPolityId": "chagatai-khanate",
+    "fromPolityId": "chagatai-khanate",
+    "toPolityId": "timurid-empire",
     "relation": "succeeded",
     "year": 1370
   },
