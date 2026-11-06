@@ -26,6 +26,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 - [x] “Known for” pictures, first round: 415 of 693 items (#2)
 
 ### Next
+- [x] Events for every civilisation (+132), famous people (+141) and links (+67, every civilisation now linked)
 - [ ] Fact-check the content added on 6 Nov 2026 (REVIEW.md, Priority 0) (#4)
 - [x] Map blanks round 3: prehistory 57% → 92% (archaic Americas, early Mesoamerican farmers, Austronesians, Southeast Asian rice farmers, Bronze Age steppe, Neolithic and Bronze Age Europe, pre-Islamic Arabia, Central African forest peoples) (#12)
 - [x] Map blanks round 4: Afghanistan, Morocco, Madagascar, DR Congo, Hausa states, Venezuela, Bolivia, Chile, Denmark, Sweden, South Africa; modern era 73% → 80% (#14)
@@ -55,11 +56,14 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | Checklist filled in | `████████████████████` 100% | 10234 of 10234 items (238 × 43) |
 | Answers with real detail | `█████████████████░░░` 83% | 1672 answers are still under 40 characters |
 | Fact-checked against a source | `███████░░░░░░░░░░░░░` 35% | 3559 items say “(checked …)”; the rest still need a second look |
+| Civilisations with events | `████████████████████` 100% | 238 of 238 |
+| Civilisations with famous people | `█████████████████░░░` 86% | 204 of 238; many prehistoric cultures have no known names |
+| Civilisations linked to others | `████████████████████` 100% | 238 of 238 (succeeded, conquered, traded with…) |
 | Civilisation pictures | `███████████████████░` 97% | 230 of 238 |
 | “Known for” pictures | `███████████░░░░░░░░░` 54% | 415 of 774 items |
 
 Certainty of all items: 5237 confirmed · 4616 estimated · 381 disputed.
-Also in the app: 432 events · 115 people · 18 routes · 11 stories.
+Also in the app: 564 events · 256 people · 18 routes · 11 stories.
 
 ## Map coverage by year
 
