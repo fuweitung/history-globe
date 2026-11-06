@@ -5779,5 +5779,246 @@
   ],
   "wikiTitle": "José Gaspar Rodríguez de Francia",
   "source": "Wikipedia: José Gaspar Rodríguez de Francia"
+ },
+ {
+  "id": "churchill",
+  "name": "Winston Churchill",
+  "born": 1874,
+  "died": 1965,
+  "role": "ruler",
+  "description": "British prime minister during the Second World War.",
+  "polityIds": [
+   "united-kingdom",
+   "british-empire"
+  ],
+  "place": [
+   -0.13,
+   51.51
+  ],
+  "wikiTitle": "Winston Churchill",
+  "source": "Wikipedia: Winston Churchill"
+ },
+ {
+  "id": "thatcher",
+  "name": "Margaret Thatcher",
+  "born": 1925,
+  "died": 2013,
+  "role": "ruler",
+  "description": "Britain’s first woman prime minister (1979–90).",
+  "polityIds": [
+   "united-kingdom"
+  ],
+  "place": [
+   -0.13,
+   51.51
+  ],
+  "wikiTitle": "Margaret Thatcher",
+  "source": "Wikipedia: Margaret Thatcher"
+ },
+ {
+  "id": "van-gogh",
+  "name": "Vincent van Gogh",
+  "born": 1853,
+  "died": 1890,
+  "role": "artist",
+  "description": "Dutch painter.",
+  "polityIds": [
+   "netherlands"
+  ],
+  "place": [
+   4.9,
+   52.37
+  ],
+  "wikiTitle": "Vincent van Gogh",
+  "source": "Wikipedia: Vincent van Gogh"
+ },
+ {
+  "id": "marie-curie-pl",
+  "name": "Józef Piłsudski",
+  "born": 1867,
+  "died": 1935,
+  "role": "military",
+  "description": "Leader who restored Polish independence.",
+  "polityIds": [
+   "poland-modern"
+  ],
+  "place": [
+   21.01,
+   52.23
+  ],
+  "wikiTitle": "Józef Piłsudski",
+  "source": "Wikipedia: Józef Piłsudski"
+ },
+ {
+  "id": "dunant",
+  "name": "Henry Dunant",
+  "born": 1828,
+  "died": 1910,
+  "role": "thinker",
+  "description": "Founder of the Red Cross; first Nobel Peace Prize (1901).",
+  "polityIds": [
+   "switzerland"
+  ],
+  "place": [
+   6.15,
+   46.2
+  ],
+  "wikiTitle": "Henry Dunant",
+  "source": "Wikipedia: Henry Dunant"
+ },
+ {
+  "id": "freud",
+  "name": "Sigmund Freud",
+  "born": 1856,
+  "died": 1939,
+  "role": "scientist",
+  "description": "Founder of psychoanalysis.",
+  "polityIds": [
+   "austria",
+   "austria-hungary"
+  ],
+  "place": [
+   16.37,
+   48.21
+  ],
+  "wikiTitle": "Sigmund Freud",
+  "source": "Wikipedia: Sigmund Freud"
+ },
+ {
+  "id": "de-valera",
+  "name": "Éamon de Valera",
+  "born": 1882,
+  "died": 1975,
+  "role": "ruler",
+  "description": "Leading figure of Irish independence.",
+  "polityIds": [
+   "ireland"
+  ],
+  "place": [
+   -6.26,
+   53.35
+  ],
+  "wikiTitle": "Éamon de Valera",
+  "source": "Wikipedia: Éamon de Valera"
+ },
+ {
+  "id": "mannerheim",
+  "name": "Carl Gustaf Emil Mannerheim",
+  "born": 1867,
+  "died": 1951,
+  "role": "military",
+  "description": "Finnish commander and president.",
+  "polityIds": [
+   "finland"
+  ],
+  "place": [
+   24.94,
+   60.17
+  ],
+  "wikiTitle": "Carl Gustaf Emil Mannerheim",
+  "source": "Wikipedia: Carl Gustaf Emil Mannerheim"
+ },
+ {
+  "id": "bartok",
+  "name": "Béla Bartók",
+  "born": 1881,
+  "died": 1945,
+  "role": "artist",
+  "description": "Hungarian composer.",
+  "polityIds": [
+   "hungary"
+  ],
+  "place": [
+   19.04,
+   47.5
+  ],
+  "wikiTitle": "Béla Bartók",
+  "source": "Wikipedia: Béla Bartók"
+ },
+ {
+  "id": "havel",
+  "name": "Václav Havel",
+  "born": 1936,
+  "died": 2011,
+  "role": "writer",
+  "description": "Playwright and president of Czechoslovakia and Czechia.",
+  "polityIds": [
+   "czechoslovakia-czechia"
+  ],
+  "place": [
+   14.42,
+   50.09
+  ],
+  "wikiTitle": "Václav Havel",
+  "source": "Wikipedia: Václav Havel"
+ },
+ {
+  "id": "tito",
+  "name": "Josip Broz Tito",
+  "born": 1892,
+  "died": 1980,
+  "role": "ruler",
+  "description": "Leader of Yugoslavia (1945–80).",
+  "polityIds": [
+   "yugoslavia"
+  ],
+  "place": [
+   20.46,
+   44.82
+  ],
+  "wikiTitle": "Josip Broz Tito",
+  "source": "Wikipedia: Josip Broz Tito"
+ },
+ {
+  "id": "tesla",
+  "name": "Nikola Tesla",
+  "born": 1856,
+  "died": 1943,
+  "role": "scientist",
+  "description": "Inventor of AC electrical systems.",
+  "polityIds": [
+   "serbia",
+   "united-states"
+  ],
+  "place": [
+   -73.99,
+   40.75
+  ],
+  "wikiTitle": "Nikola Tesla",
+  "source": "Wikipedia: Nikola Tesla"
+ },
+ {
+  "id": "enver-hoxha",
+  "name": "Enver Hoxha",
+  "born": 1908,
+  "died": 1985,
+  "role": "ruler",
+  "description": "Communist ruler of Albania.",
+  "polityIds": [
+   "albania"
+  ],
+  "place": [
+   19.82,
+   41.33
+  ],
+  "wikiTitle": "Enver Hoxha",
+  "source": "Wikipedia: Enver Hoxha"
+ },
+ {
+  "id": "makarios",
+  "name": "Makarios III",
+  "born": 1913,
+  "died": 1977,
+  "role": "religious",
+  "description": "Archbishop and first president of Cyprus.",
+  "polityIds": [
+   "cyprus"
+  ],
+  "place": [
+   33.36,
+   35.17
+  ],
+  "wikiTitle": "Makarios III",
+  "source": "Wikipedia: Makarios III"
  }
 ]

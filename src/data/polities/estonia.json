@@ -1,0 +1,322 @@
+{
+  "id": "estonia",
+  "name": "Estonia",
+  "era": "modern",
+  "region": "Northern Europe (Baltic)",
+  "startYear": 1918,
+  "endYear": null,
+  "capital": "Tallinn",
+  "capitalCoords": [
+    24.75,
+    59.44
+  ],
+  "summary": "Independent in 1918, annexed by the Soviet Union in 1940, independent again in 1991 after the “Singing Revolution”; an EU and NATO member since 2004.",
+  "wikiTitle": "Estonia",
+  "borderNames": [
+    "Estonia"
+  ],
+  "borderYears": [
+    1918,
+    null
+  ],
+  "color": "#3a7ac0",
+  "knownFor": [
+    {
+      "label": "e-Estonia",
+      "kind": "idea",
+      "year": 2005,
+      "note": "Online voting and digital government."
+    },
+    {
+      "label": "Skype",
+      "kind": "tool",
+      "year": 2003,
+      "note": "Developed by Estonian engineers."
+    },
+    {
+      "label": "Song Festival",
+      "kind": "art",
+      "note": "Huge choir festival since 1869."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "On the eastern Baltic Sea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "terrain": {
+        "value": "Low plains, forests, lakes and coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "climate": {
+        "value": "Cool, with cold winters.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "resources": {
+        "value": "Forests, farmland, Baltic ports.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "disasters": {
+        "value": "Harsh winters and storms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 1.4 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "urbanisation": {
+        "value": "Tallinn is the largest city.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "disease": {
+        "value": "Good public health.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Estonia"
+      },
+      "migration": {
+        "value": "Mass deportations to Siberia in the 1940s; Russian-speaking settlers in Soviet times.",
+        "year": 1941,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "IT services, timber, manufacturing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "tradeRoutes": {
+        "value": "EU single market since 2004.",
+        "year": 2004,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "wealth": {
+        "value": "A high-income economy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "moneyAndTax": {
+        "value": "The kroon, then the euro (2011).",
+        "year": 2011,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "inequality": {
+        "value": "Moderate inequality.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Estonia"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "keyRulers": {
+        "value": "Konstantin Päts. Lennart Meri.",
+        "year": 1992,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "institutions": {
+        "value": "Parliament and courts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "stability": {
+        "value": "Soviet occupation (1940–41, 1944–91) and German occupation (1941–44).",
+        "year": 1940,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "eliteConflict": {
+        "value": "Party politics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Estonia"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "NATO member since 2004.",
+        "year": 2004,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "majorWars": {
+        "value": "Wars of independence (1918–20); Second World War.",
+        "year": 1918,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "territoryChange": {
+        "value": "Annexed by the USSR (1940); independence restored (1991).",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "alliancesRivals": {
+        "value": "NATO and EU.",
+        "year": 2004,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Skype; digital ID and online voting.",
+        "year": 2003,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "scienceEducation": {
+        "value": "High literacy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "openness": {
+        "value": "Very open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "communicationTransport": {
+        "value": "Railways, ports, Rail Baltica under construction.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Lutheran tradition; largely non-religious.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "languageWriting": {
+        "value": "Estonian, a Finnic language; Russian minority.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "artsArchitecture": {
+        "value": "Song festivals, composer Arvo Pärt.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "socialStructure": {
+        "value": "Moderate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Estonia"
+      },
+      "sharedIdentity": {
+        "value": "A strong national identity kept alive through song festivals and language.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "dailyLife": {
+        "value": "Flats and wooden houses; rye bread, potatoes, fish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Neighbouring Baltic states, Russia, Poland, the Nordic countries.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "ideasReligions": {
+        "value": "The Baltic Way human chain (1989).",
+        "year": 1989,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "colonisation": {
+        "value": "Part of the Russian Empire and the USSR.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence declared in 1918.",
+        "year": 1918,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "peakPeriod": {
+        "value": "Growth after 2004.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Estonia"
+      },
+      "declineSignals": {
+        "value": "Soviet occupation.",
+        "year": 1940,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Estonia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Estonia"
+      }
+    }
+  }
+}

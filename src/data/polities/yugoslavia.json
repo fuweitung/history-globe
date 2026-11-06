@@ -1,0 +1,324 @@
+{
+  "id": "yugoslavia",
+  "name": "Yugoslavia",
+  "era": "modern",
+  "region": "South-eastern Europe (Balkans)",
+  "startYear": 1918,
+  "endYear": 1992,
+  "capital": "Belgrade",
+  "capitalCoords": [
+    20.46,
+    44.82
+  ],
+  "summary": "A state of South Slavs created in 1918; under Tito (1945–80) a non-aligned communist federation; it broke apart in the wars of the 1990s.",
+  "wikiTitle": "Yugoslavia",
+  "borderNames": [
+    "Yugoslavia",
+    "Kingdom of Serbs, Croats and Slovenes"
+  ],
+  "borderYears": [
+    1918,
+    1992
+  ],
+  "color": "#3a5ab0",
+  "knownFor": [
+    {
+      "label": "Non-Aligned Movement",
+      "kind": "idea",
+      "year": 1961,
+      "note": "Founded in Belgrade by Tito, Nehru, Nasser and others."
+    },
+    {
+      "label": "Josip Broz Tito",
+      "kind": "person",
+      "year": 1945,
+      "note": "Partisan leader and long-time ruler."
+    },
+    {
+      "label": "Yugo car",
+      "kind": "tool",
+      "year": 1980,
+      "note": "A small car exported worldwide."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The western Balkans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "terrain": {
+        "value": "Mountains, the Adriatic coast, the Pannonian plain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "climate": {
+        "value": "Mediterranean to continental.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "resources": {
+        "value": "Farmland, minerals, tourism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "disasters": {
+        "value": "Skopje earthquake (1963).",
+        "year": 1963,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 23 million in 1990.",
+        "year": 1990,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "urbanisation": {
+        "value": "Belgrade, Zagreb, Sarajevo, Ljubljana.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "disease": {
+        "value": "Moderate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "migration": {
+        "value": "Many worked in West Germany as guest workers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Industry and tourism; workers’ self-management.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "tradeRoutes": {
+        "value": "Traded with both East and West.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "wealth": {
+        "value": "Middle-income.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "moneyAndTax": {
+        "value": "The Yugoslav dinar; hyperinflation around 1990–94.",
+        "year": 1992,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "inequality": {
+        "value": "Gaps between richer north and poorer south.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yugoslavia"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Kingdom (1918–41), communist federation (1945–92).",
+        "year": 1945,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "keyRulers": {
+        "value": "King Alexander I. Josip Broz Tito.",
+        "year": 1945,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "succession": {
+        "value": "One-party rule after 1945.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "institutions": {
+        "value": "Six republics and two autonomous provinces.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "stability": {
+        "value": "Occupied and torn by war (1941–45); broke up in 1991–92.",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "eliteConflict": {
+        "value": "Rival national republics after Tito’s death.",
+        "year": 1980,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "A large army.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "majorWars": {
+        "value": "Second World War partisan war.",
+        "year": 1941,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "territoryChange": {
+        "value": "Broke into separate states.",
+        "year": 1992,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "alliancesRivals": {
+        "value": "Non-aligned; split with Stalin (1948).",
+        "year": 1948,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "scienceEducation": {
+        "value": "Rising literacy.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "openness": {
+        "value": "More open than the Soviet bloc.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "communicationTransport": {
+        "value": "Railways and the Adriatic highway.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Orthodox, Catholic and Muslim communities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "languageWriting": {
+        "value": "Serbo-Croatian, Slovene, Macedonian.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "artsArchitecture": {
+        "value": "Ivo Andrić (Nobel 1961).",
+        "year": 1961,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "socialStructure": {
+        "value": "Varied.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "sharedIdentity": {
+        "value": "“Brotherhood and unity” versus national identities.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "dailyLife": {
+        "value": "Apartments; ćevapi, burek.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Italy, Austria, Hungary, Romania, Bulgaria, Greece, Albania.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "ideasReligions": {
+        "value": "Non-alignment.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Founded in 1918.",
+        "year": 1918,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "peakPeriod": {
+        "value": "1960s–70s.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "declineSignals": {
+        "value": "Economic crisis and nationalism in the 1980s.",
+        "year": 1985,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "outcome": {
+        "value": "Dissolved (1991–92); wars followed.",
+        "year": 1992,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Yugoslavia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yugoslavia"
+      },
+      "overallCertainty": {
+        "value": "War figures are disputed.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Yugoslavia"
+      }
+    }
+  }
+}

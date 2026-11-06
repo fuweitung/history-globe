@@ -1,0 +1,321 @@
+{
+  "id": "finland",
+  "name": "Finland (since 1917)",
+  "era": "modern",
+  "region": "Northern Europe",
+  "startYear": 1917,
+  "endYear": null,
+  "capital": "Helsinki",
+  "capitalCoords": [
+    24.94,
+    60.17
+  ],
+  "summary": "Independent from Russia in 1917; it fought the Soviet Union in the Winter War (1939–40) and became a welfare state known for its schools. Joined NATO in 2023.",
+  "wikiTitle": "Finland",
+  "borderNames": [
+    "Finland"
+  ],
+  "borderYears": [
+    1917,
+    null
+  ],
+  "color": "#3a6ab0",
+  "knownFor": [
+    {
+      "label": "Sauna",
+      "kind": "monument",
+      "note": "A central part of Finnish life."
+    },
+    {
+      "label": "Nokia",
+      "kind": "tool",
+      "year": 1998,
+      "note": "Once the world’s largest mobile-phone maker."
+    },
+    {
+      "label": "Kalevala",
+      "kind": "art",
+      "note": "National epic poem (1835)."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Northern Europe between Sweden and Russia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "terrain": {
+        "value": "Forests and about 188,000 lakes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "climate": {
+        "value": "Cold winters.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "resources": {
+        "value": "Timber, paper, metals.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "disasters": {
+        "value": "Harsh winters.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 5.6 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "urbanisation": {
+        "value": "Helsinki, Espoo, Tampere.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "disease": {
+        "value": "Good public health.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Finland"
+      },
+      "migration": {
+        "value": "Karelian evacuees resettled (1944).",
+        "year": 1944,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Forestry, technology, design.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "tradeRoutes": {
+        "value": "EU since 1995.",
+        "year": 1995,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "wealth": {
+        "value": "A high-income economy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "moneyAndTax": {
+        "value": "The markka, then the euro.",
+        "year": 2002,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "inequality": {
+        "value": "Low inequality.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Finland"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "keyRulers": {
+        "value": "C. G. E. Mannerheim. Urho Kekkonen. Martti Ahtisaari (Nobel Peace 2008).",
+        "year": 1944,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "institutions": {
+        "value": "Eduskunta (parliament).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "stability": {
+        "value": "Civil war (1918).",
+        "year": 1918,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "eliteConflict": {
+        "value": "Coalition politics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Finland"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Conscript army.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "majorWars": {
+        "value": "Winter War and Continuation War with the USSR.",
+        "year": 1939,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "territoryChange": {
+        "value": "Lost part of Karelia to the USSR (1944).",
+        "year": 1944,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "alliancesRivals": {
+        "value": "Joined NATO (2023).",
+        "year": 2023,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Linux (Linus Torvalds, 1991), SMS mobile networks.",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "scienceEducation": {
+        "value": "World-famous school system.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "openness": {
+        "value": "Open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "communicationTransport": {
+        "value": "Ice-breakers and railways.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Lutheran.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "languageWriting": {
+        "value": "Finnish and Swedish; Sámi.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "artsArchitecture": {
+        "value": "Sibelius, design (Aalto, Marimekko).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "socialStructure": {
+        "value": "Very equal society.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Finland"
+      },
+      "sharedIdentity": {
+        "value": "Strong national identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "dailyLife": {
+        "value": "Wooden houses and flats; rye bread, fish, sauna.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Sweden, Norway, Russia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "ideasReligions": {
+        "value": "Women got the vote in 1906, among the first in the world.",
+        "year": 1906,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1917).",
+        "year": 1917,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "peakPeriod": {
+        "value": "Post-war growth.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Finland"
+      },
+      "declineSignals": {
+        "value": "1990s recession.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Finland"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Finland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finland"
+      }
+    }
+  }
+}

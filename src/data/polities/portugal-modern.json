@@ -1,0 +1,321 @@
+{
+  "id": "portugal-modern",
+  "name": "Portugal (since 1974)",
+  "era": "modern",
+  "region": "Western Europe",
+  "startYear": 1974,
+  "endYear": null,
+  "capital": "Lisbon",
+  "capitalCoords": [
+    -9.14,
+    38.72
+  ],
+  "summary": "Portugal after the Carnation Revolution of 1974 ended the Estado Novo dictatorship and the colonial wars, becoming a democracy and joining the European Community in 1986.",
+  "wikiTitle": "Portugal",
+  "borderNames": [
+    "Portugal"
+  ],
+  "borderYears": [
+    1976,
+    null
+  ],
+  "color": "#3a8a4a",
+  "knownFor": [
+    {
+      "label": "Carnation Revolution",
+      "kind": "idea",
+      "year": 1974,
+      "note": "A nearly bloodless coup; soldiers put carnations in their guns."
+    },
+    {
+      "label": "Fado",
+      "kind": "art",
+      "note": "Melancholic songs from Lisbon."
+    },
+    {
+      "label": "Azulejos",
+      "kind": "art",
+      "note": "Blue-and-white painted tiles."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Western Iberia, plus the Azores and Madeira.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "terrain": {
+        "value": "Mountains in the north, plains in the south, a long Atlantic coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "climate": {
+        "value": "Mediterranean and Atlantic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "resources": {
+        "value": "Cork, wine, fish, tourism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "disasters": {
+        "value": "Wildfires (2017).",
+        "year": 2017,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 10 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "urbanisation": {
+        "value": "Lisbon and Porto.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "disease": {
+        "value": "Good public health.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "migration": {
+        "value": "About 500,000 settlers returned from Africa (1975); emigration to France.",
+        "year": 1975,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Tourism, services, cork and wine exports.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "tradeRoutes": {
+        "value": "EU single market.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "wealth": {
+        "value": "A high-income economy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "moneyAndTax": {
+        "value": "The escudo, then the euro.",
+        "year": 2002,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "inequality": {
+        "value": "Moderate inequality.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A semi-presidential republic (1976 constitution).",
+        "year": 1976,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "keyRulers": {
+        "value": "Mário Soares. Aníbal Cavaco Silva. António Guterres (later UN Secretary-General).",
+        "year": 1976,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "institutions": {
+        "value": "Assembly of the Republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "stability": {
+        "value": "Stable democracy since 1976.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "eliteConflict": {
+        "value": "Party politics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "NATO founder member.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "majorWars": {
+        "value": "Colonial wars ended in 1974.",
+        "year": 1974,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "territoryChange": {
+        "value": "All African colonies independent (1975); Macau returned to China (1999).",
+        "year": 1999,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "alliancesRivals": {
+        "value": "NATO, EU.",
+        "year": 1986,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "scienceEducation": {
+        "value": "Rising education levels.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "openness": {
+        "value": "Open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "communicationTransport": {
+        "value": "Motorways and Lisbon Metro.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Catholic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "languageWriting": {
+        "value": "Portuguese.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "artsArchitecture": {
+        "value": "Fado, azulejos, Saramago (Nobel 1998).",
+        "year": 1998,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "socialStructure": {
+        "value": "Moderate inequality.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "sharedIdentity": {
+        "value": "Seafaring heritage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "dailyLife": {
+        "value": "Apartments and townhouses; salt cod, bread, wine.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Spain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "ideasReligions": {
+        "value": "Democracy after 1974.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "colonisation": {
+        "value": "Ended its colonial empire.",
+        "year": 1975,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "The Carnation Revolution.",
+        "year": 1974,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "peakPeriod": {
+        "value": "Growth after joining the EU (1986).",
+        "year": 1990,
+        "certainty": "estimated",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "declineSignals": {
+        "value": "Debt crisis (2010–14).",
+        "year": 2011,
+        "certainty": "estimated",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Portugal; Wikipedia: Carnation Revolution.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Portugal; Wikipedia: Carnation Revolution"
+      }
+    }
+  }
+}

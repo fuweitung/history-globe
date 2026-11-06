@@ -1,0 +1,320 @@
+{
+  "id": "slovenia",
+  "name": "Slovenia",
+  "era": "modern",
+  "region": "South-eastern Europe (Balkans)",
+  "startYear": 1991,
+  "endYear": null,
+  "capital": "Ljubljana",
+  "capitalCoords": [
+    14.51,
+    46.06
+  ],
+  "summary": "Left Yugoslavia in 1991 after a ten-day war; the first former Yugoslav republic to join the EU (2004).",
+  "wikiTitle": "Slovenia",
+  "borderNames": [
+    "Slovenia"
+  ],
+  "borderYears": [
+    1991,
+    null
+  ],
+  "color": "#3a7ac0",
+  "knownFor": [
+    {
+      "label": "Lake Bled",
+      "kind": "monument",
+      "note": "Alpine lake with an island church."
+    },
+    {
+      "label": "Lipizzaner horses",
+      "kind": "troops",
+      "note": "Bred at Lipica since 1580."
+    },
+    {
+      "label": "Potica",
+      "kind": "food",
+      "note": "Nut roll cake."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The eastern Alps to the Adriatic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      },
+      "terrain": {
+        "value": "Alps, karst, forests.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      },
+      "climate": {
+        "value": "Alpine and continental.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      },
+      "resources": {
+        "value": "Forests, tourism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      },
+      "disasters": {
+        "value": "Floods (2023).",
+        "year": 2023,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 2.1 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      },
+      "urbanisation": {
+        "value": "Ljubljana, Maribor.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      },
+      "disease": {
+        "value": "Good public health.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Slovenia"
+      },
+      "migration": {
+        "value": "Small immigration.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Industry, services.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      },
+      "tradeRoutes": {
+        "value": "EU since 2004.",
+        "year": 2004,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      },
+      "wealth": {
+        "value": "A high-income economy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      },
+      "moneyAndTax": {
+        "value": "The euro (2007).",
+        "year": 2007,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      },
+      "inequality": {
+        "value": "Low inequality.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Slovenia"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      },
+      "keyRulers": {
+        "value": "Milan Kučan.",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      },
+      "institutions": {
+        "value": "National Assembly.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      },
+      "stability": {
+        "value": "Ten-Day War (1991).",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      },
+      "eliteConflict": {
+        "value": "Party politics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Slovenia"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "NATO member.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      },
+      "majorWars": {
+        "value": "Ten-Day War.",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      },
+      "territoryChange": {
+        "value": "Borders of the former republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      },
+      "alliancesRivals": {
+        "value": "NATO and EU (2004).",
+        "year": 2004,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Slovenia"
+      },
+      "scienceEducation": {
+        "value": "High education levels.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      },
+      "openness": {
+        "value": "Open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      },
+      "communicationTransport": {
+        "value": "Railways and motorways.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Catholic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      },
+      "languageWriting": {
+        "value": "Slovene.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      },
+      "artsArchitecture": {
+        "value": "Architect Jože Plečnik.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      },
+      "socialStructure": {
+        "value": "Low inequality.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Slovenia"
+      },
+      "sharedIdentity": {
+        "value": "Slovene identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      },
+      "dailyLife": {
+        "value": "Houses and flats; potica, sausages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Italy, Austria, Hungary, Croatia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      },
+      "ideasReligions": {
+        "value": "European integration.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Slovenia"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1991).",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      },
+      "peakPeriod": {
+        "value": "Growth after 1991.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Slovenia"
+      },
+      "declineSignals": {
+        "value": "None major.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Slovenia"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Slovenia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Slovenia"
+      }
+    }
+  }
+}

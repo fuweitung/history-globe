@@ -1,0 +1,321 @@
+{
+  "id": "liechtenstein",
+  "name": "Liechtenstein",
+  "era": "modern",
+  "region": "Western Europe",
+  "startYear": 1806,
+  "endYear": null,
+  "capital": "Vaduz",
+  "capitalCoords": [
+    9.52,
+    47.14
+  ],
+  "summary": "A tiny Alpine principality, sovereign since 1806, closely tied to Switzerland, known for industry and finance.",
+  "wikiTitle": "Liechtenstein",
+  "borderNames": [
+    "Liechtenstein"
+  ],
+  "borderYears": [
+    1806,
+    null
+  ],
+  "color": "#3a5ab0",
+  "knownFor": [
+    {
+      "label": "Vaduz Castle",
+      "kind": "monument",
+      "note": "Home of the prince."
+    },
+    {
+      "label": "False teeth industry",
+      "kind": "tool",
+      "note": "A world leader in dental products."
+    },
+    {
+      "label": "No army",
+      "kind": "idea",
+      "year": 1868,
+      "note": "Abolished its army in 1868."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Between Switzerland and Austria, landlocked.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "terrain": {
+        "value": "Alps and the Rhine valley.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "climate": {
+        "value": "Alpine.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "resources": {
+        "value": "Industry and finance.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "disasters": {
+        "value": "No major natural disasters recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Liechtenstein"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 40,000.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "urbanisation": {
+        "value": "Vaduz is the main town.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "disease": {
+        "value": "Very good public health.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "migration": {
+        "value": "Many cross-border workers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Precision industry, finance.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "tradeRoutes": {
+        "value": "Customs union with Switzerland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "wealth": {
+        "value": "One of the richest countries per person.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "moneyAndTax": {
+        "value": "The Swiss franc.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "inequality": {
+        "value": "Low inequality.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Liechtenstein"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A constitutional monarchy where the prince has strong powers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "keyRulers": {
+        "value": "Prince Franz Joseph II. Prince Hans-Adam II.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "succession": {
+        "value": "Hereditary prince; elected parliament.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "institutions": {
+        "value": "Landtag (parliament).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "stability": {
+        "value": "Very stable.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "eliteConflict": {
+        "value": "Little conflict among leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Liechtenstein"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "No army since 1868.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "majorWars": {
+        "value": "Neutral in both World Wars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "territoryChange": {
+        "value": "No territorial change in modern times.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "alliancesRivals": {
+        "value": "Close ties with Switzerland; in the European Economic Area.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "scienceEducation": {
+        "value": "High education levels.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "openness": {
+        "value": "Very open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "communicationTransport": {
+        "value": "Roads and buses.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Catholic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "languageWriting": {
+        "value": "German.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "artsArchitecture": {
+        "value": "Princely art collections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "socialStructure": {
+        "value": "Prosperous society.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the princely house.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "dailyLife": {
+        "value": "Houses; cheese dishes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Switzerland, Austria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "ideasReligions": {
+        "value": "Shares the culture of its neighbours.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Sovereignty in 1806.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "peakPeriod": {
+        "value": "Modern prosperity.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "declineSignals": {
+        "value": "None major.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Liechtenstein.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liechtenstein"
+      }
+    }
+  }
+}

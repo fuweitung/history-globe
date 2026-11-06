@@ -1,0 +1,323 @@
+{
+  "id": "united-kingdom",
+  "name": "United Kingdom (since 1922)",
+  "era": "modern",
+  "region": "Western Europe",
+  "startYear": 1922,
+  "endYear": null,
+  "capital": "London",
+  "capitalCoords": [
+    -0.13,
+    51.51
+  ],
+  "summary": "The United Kingdom of Great Britain and Northern Ireland after most of Ireland left in 1922: the centre of the British Empire until decolonisation, a founder of NATO, an EU member from 1973 to 2020.",
+  "wikiTitle": "United Kingdom",
+  "borderNames": [
+    "United Kingdom"
+  ],
+  "borderYears": [
+    1966,
+    null
+  ],
+  "color": "#3a5ab0",
+  "knownFor": [
+    {
+      "label": "National Health Service",
+      "kind": "idea",
+      "year": 1948,
+      "note": "Free health care for everyone, paid for by taxes."
+    },
+    {
+      "label": "The Beatles",
+      "kind": "art",
+      "year": 1963,
+      "note": "Liverpool band that changed popular music."
+    },
+    {
+      "label": "Winston Churchill",
+      "kind": "person",
+      "year": 1940,
+      "note": "Wartime prime minister."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "North-west Europe: Great Britain, Northern Ireland and many smaller islands; about 243,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "terrain": {
+        "value": "Lowlands in the south and east, hills and mountains in Scotland, Wales and the north.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "climate": {
+        "value": "Mild and wet, changeable weather.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "resources": {
+        "value": "Coal (historically), North Sea oil and gas, farmland, fish, wind power.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "disasters": {
+        "value": "Floods and storms; the 1953 North Sea flood.",
+        "year": 1953,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 44 million in 1921; about 68 million today.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "urbanisation": {
+        "value": "Over 80% live in towns and cities; London has about 9 million.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "disease": {
+        "value": "The 1918 flu; COVID-19 (2020–22).",
+        "year": 2020,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "migration": {
+        "value": "Immigration from the Caribbean (Windrush, 1948), South Asia and Europe.",
+        "year": 1948,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Services and finance (City of London), manufacturing, oil and gas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "tradeRoutes": {
+        "value": "Global trade; EU single market 1973–2020.",
+        "year": 1973,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "wealth": {
+        "value": "A high-income economy, one of the largest in the world.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "moneyAndTax": {
+        "value": "The pound sterling; high taxes paid for the welfare state after 1945.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "inequality": {
+        "value": "Gaps between London and the south-east and former industrial regions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A constitutional monarchy with a parliamentary democracy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "keyRulers": {
+        "value": "Winston Churchill. Clement Attlee. Margaret Thatcher. Tony Blair. Elizabeth II (queen 1952–2022).",
+        "year": 1940,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "succession": {
+        "value": "General elections; the leader of the largest party in the House of Commons becomes prime minister.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "institutions": {
+        "value": "Parliament (Commons and Lords), an unwritten constitution, the NHS, devolved governments for Scotland, Wales and Northern Ireland (1999).",
+        "year": 1999,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "stability": {
+        "value": "The Troubles in Northern Ireland (1968–98), ended by the Good Friday Agreement.",
+        "year": 1998,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "eliteConflict": {
+        "value": "Party politics; debates over Europe and Scottish independence (referendum 2014).",
+        "year": 2014,
+        "certainty": "estimated",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "A nuclear power with a professional army and navy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "majorWars": {
+        "value": "Second World War, Korea, the Falklands (1982), Iraq and Afghanistan.",
+        "year": 1939,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "territoryChange": {
+        "value": "Lost most of its empire between 1947 and 1997.",
+        "year": 1947,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "alliancesRivals": {
+        "value": "NATO founder (1949); close ties with the US; UN Security Council member.",
+        "year": 1949,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Radar, jet engine, the World Wide Web (Tim Berners-Lee), DNA structure research.",
+        "year": 1989,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "scienceEducation": {
+        "value": "Universities such as Oxford and Cambridge; free schooling.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "openness": {
+        "value": "Very open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "communicationTransport": {
+        "value": "Railways, motorways, the Channel Tunnel (1994).",
+        "year": 1994,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Church of England (established); many other faiths and a large non-religious population.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "languageWriting": {
+        "value": "English; Welsh, Scots Gaelic and Irish are also used.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "artsArchitecture": {
+        "value": "Literature, theatre, pop music, the BBC.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "socialStructure": {
+        "value": "Class differences have narrowed but remain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "sharedIdentity": {
+        "value": "A British identity alongside English, Scottish, Welsh and Northern Irish identities.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "dailyLife": {
+        "value": "Terraced houses and flats; tea, fish and chips, curry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Ireland, France (across the Channel), Norway.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "ideasReligions": {
+        "value": "Parliamentary democracy and the English language spread worldwide.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "colonisation": {
+        "value": "Gave up its colonies after 1945; the Commonwealth links many of them.",
+        "year": 1949,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "The 1922 partition of Ireland created the present union.",
+        "year": 1922,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "peakPeriod": {
+        "value": "Post-war welfare state and world power status.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "declineSignals": {
+        "value": "Loss of empire and industrial decline.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "outcome": {
+        "value": "Left the European Union in 2020.",
+        "year": 2020,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: United Kingdom; Wikipedia: History of the United Kingdom"
+      }
+    }
+  }
+}

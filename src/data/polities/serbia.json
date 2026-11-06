@@ -1,0 +1,321 @@
+{
+  "id": "serbia",
+  "name": "Serbia",
+  "era": "modern",
+  "region": "South-eastern Europe (Balkans)",
+  "startYear": 1878,
+  "endYear": null,
+  "capital": "Belgrade",
+  "capitalCoords": [
+    20.46,
+    44.82
+  ],
+  "summary": "An independent kingdom from 1878, part of Yugoslavia from 1918 to 1992, then of Serbia and Montenegro, and independent again since 2006.",
+  "wikiTitle": "Serbia",
+  "borderNames": [
+    "Serbia",
+    "Serbia and Montenegro"
+  ],
+  "borderYears": [
+    1878,
+    null
+  ],
+  "color": "#b03a3a",
+  "knownFor": [
+    {
+      "label": "Nikola Tesla",
+      "kind": "person",
+      "note": "Serb-American inventor of AC electrical systems."
+    },
+    {
+      "label": "Studenica Monastery",
+      "kind": "monument",
+      "note": "Medieval monastery."
+    },
+    {
+      "label": "Ćevapi",
+      "kind": "food",
+      "note": "Grilled minced meat."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The central Balkans, landlocked.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      },
+      "terrain": {
+        "value": "Pannonian plain in the north, mountains in the south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      },
+      "climate": {
+        "value": "Continental.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      },
+      "resources": {
+        "value": "Farmland, minerals.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      },
+      "disasters": {
+        "value": "Floods (2014).",
+        "year": 2014,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 6.6 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      },
+      "urbanisation": {
+        "value": "Belgrade, Novi Sad, Niš.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      },
+      "disease": {
+        "value": "Moderate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Serbia"
+      },
+      "migration": {
+        "value": "Refugees from the 1990s wars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Industry, farming, IT.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      },
+      "tradeRoutes": {
+        "value": "Trade with the EU.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      },
+      "wealth": {
+        "value": "An upper-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      },
+      "moneyAndTax": {
+        "value": "The dinar.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      },
+      "inequality": {
+        "value": "Moderate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Serbia"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      },
+      "keyRulers": {
+        "value": "Slobodan Milošević. Zoran Đinđić.",
+        "year": 1989,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      },
+      "institutions": {
+        "value": "National Assembly.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      },
+      "stability": {
+        "value": "Wars of the 1990s; NATO bombing (1999).",
+        "year": 1999,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      },
+      "eliteConflict": {
+        "value": "Political tension.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Serbia"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "A neutral army.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      },
+      "majorWars": {
+        "value": "Balkan Wars, First World War (Sarajevo 1914), Yugoslav wars.",
+        "year": 1914,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      },
+      "territoryChange": {
+        "value": "Kosovo declared independence in 2008; Serbia does not recognise it.",
+        "year": 2008,
+        "certainty": "disputed",
+        "source": "Wikipedia: Serbia"
+      },
+      "alliancesRivals": {
+        "value": "EU candidate; ties with Russia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Serbia"
+      },
+      "scienceEducation": {
+        "value": "Universities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      },
+      "openness": {
+        "value": "Varied.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Serbia"
+      },
+      "communicationTransport": {
+        "value": "Railways.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Serbian Orthodox.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      },
+      "languageWriting": {
+        "value": "Serbian, in Cyrillic and Latin script.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      },
+      "artsArchitecture": {
+        "value": "Medieval monasteries, film.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      },
+      "socialStructure": {
+        "value": "Moderate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Serbia"
+      },
+      "sharedIdentity": {
+        "value": "Strong national identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      },
+      "dailyLife": {
+        "value": "Houses and flats; ćevapi, ajvar.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Hungary, Romania, Bulgaria, North Macedonia, Bosnia, Croatia, Montenegro.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      },
+      "ideasReligions": {
+        "value": "Orthodox Christianity.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Serbia"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1878).",
+        "year": 1878,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      },
+      "peakPeriod": {
+        "value": "Varied.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Serbia"
+      },
+      "declineSignals": {
+        "value": "1990s wars and sanctions.",
+        "year": 1992,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Serbia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Serbia"
+      },
+      "overallCertainty": {
+        "value": "Kosovo’s status is disputed.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Serbia"
+      }
+    }
+  }
+}

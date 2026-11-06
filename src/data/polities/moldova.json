@@ -1,0 +1,321 @@
+{
+  "id": "moldova",
+  "name": "Moldova",
+  "era": "modern",
+  "region": "Eastern Europe",
+  "startYear": 1991,
+  "endYear": null,
+  "capital": "Chișinău",
+  "capitalCoords": [
+    28.86,
+    47.01
+  ],
+  "summary": "A small country between Romania and Ukraine, independent since 1991; the breakaway region of Transnistria is outside government control.",
+  "wikiTitle": "Moldova",
+  "borderNames": [
+    "Moldova"
+  ],
+  "borderYears": [
+    1991,
+    null
+  ],
+  "color": "#c9a23a",
+  "knownFor": [
+    {
+      "label": "Wine cellars",
+      "kind": "monument",
+      "note": "Mileștii Mici has one of the largest wine collections."
+    },
+    {
+      "label": "Transnistria",
+      "kind": "idea",
+      "year": 1992,
+      "note": "Breakaway region after a short war."
+    },
+    {
+      "label": "Mămăligă",
+      "kind": "food",
+      "note": "Maize porridge."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Between Romania and Ukraine, landlocked.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      },
+      "terrain": {
+        "value": "Hills and fertile plains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      },
+      "climate": {
+        "value": "Continental.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      },
+      "resources": {
+        "value": "Farmland, vineyards.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 2.5 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      },
+      "urbanisation": {
+        "value": "Chișinău.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      },
+      "disease": {
+        "value": "Moderate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Moldova"
+      },
+      "migration": {
+        "value": "Large emigration.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, wine, remittances.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      },
+      "tradeRoutes": {
+        "value": "Trade with the EU and Romania.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      },
+      "wealth": {
+        "value": "A lower-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      },
+      "moneyAndTax": {
+        "value": "The leu.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      },
+      "inequality": {
+        "value": "Poverty in rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Moldova"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      },
+      "keyRulers": {
+        "value": "Maia Sandu.",
+        "year": 2020,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      },
+      "institutions": {
+        "value": "Parliament.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      },
+      "stability": {
+        "value": "Transnistria War (1992).",
+        "year": 1992,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      },
+      "eliteConflict": {
+        "value": "Pro-EU and pro-Russia rivalry.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Moldova"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Small army; neutral.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      },
+      "majorWars": {
+        "value": "Transnistria War.",
+        "year": 1992,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      },
+      "territoryChange": {
+        "value": "Transnistria remains outside government control.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Moldova"
+      },
+      "alliancesRivals": {
+        "value": "EU candidate since 2022.",
+        "year": 2022,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Moldova"
+      },
+      "scienceEducation": {
+        "value": "Universities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      },
+      "openness": {
+        "value": "Open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      },
+      "communicationTransport": {
+        "value": "Roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Orthodox.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      },
+      "languageWriting": {
+        "value": "Romanian; Russian also spoken.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      },
+      "artsArchitecture": {
+        "value": "Folk music, wine.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      },
+      "socialStructure": {
+        "value": "Moderate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Moldova"
+      },
+      "sharedIdentity": {
+        "value": "Romanian and Moldovan identities debated.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Moldova"
+      },
+      "dailyLife": {
+        "value": "Village houses; mămăligă, wine.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Romania, Ukraine.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      },
+      "ideasReligions": {
+        "value": "European integration.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Moldova"
+      },
+      "colonisation": {
+        "value": "Part of the Russian Empire and USSR.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1991).",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      },
+      "peakPeriod": {
+        "value": "Varied.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Moldova"
+      },
+      "declineSignals": {
+        "value": "Poverty and emigration.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Moldova.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova"
+      },
+      "overallCertainty": {
+        "value": "Transnistria’s status is disputed.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Moldova"
+      }
+    }
+  }
+}

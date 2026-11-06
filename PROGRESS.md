@@ -47,24 +47,24 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 
 | Area | Progress | Detail |
 |---|---|---|
-| Map coverage (all years) | `█████████████████░░░` 87% | Named land on the border maps that is linked to a civilisation |
+| Map coverage (all years) | `██████████████████░░` 88% | Named land on the border maps that is linked to a civilisation |
 | · Prehistory | `██████████████████░░` 92% |  |
 | · Ancient | `██████████████████░░` 91% |  |
 | · Medieval | `█████████████████░░░` 85% |  |
 | · Early modern | `████████████████░░░░` 79% |  |
-| · Modern | `██████████████████░░` 88% |  |
-| Civilisations shown on the map | `███████████████████░` 95% | 241 of 253; the rest fly to their capital |
-| Checklist filled in | `████████████████████` 100% | 10879 of 10879 items (253 × 43) |
-| Answers with real detail | `████████████████░░░░` 81% | 1951 answers are still under 40 characters |
-| Fact-checked against a source | `███████░░░░░░░░░░░░░` 33% | 3559 items say “(checked …)”; the rest still need a second look |
-| Civilisations with events | `████████████████████` 100% | 253 of 253 |
-| Civilisations with famous people | `█████████████████░░░` 85% | 214 of 253; many prehistoric cultures have no known names |
-| Civilisations linked to others | `████████████████████` 100% | 253 of 253 (succeeded, conquered, traded with…) |
-| Civilisation pictures | `███████████████████░` 96% | 242 of 253 |
-| “Known for” pictures | `███████████████░░░░░` 77% | 629 of 819 items |
+| · Modern | `██████████████████░░` 89% |  |
+| Civilisations shown on the map | `███████████████████░` 96% | 277 of 289; the rest fly to their capital |
+| Checklist filled in | `████████████████████` 100% | 12427 of 12427 items (289 × 43) |
+| Answers with real detail | `███████████████░░░░░` 73% | 3163 answers are still under 40 characters |
+| Fact-checked against a source | `██████░░░░░░░░░░░░░░` 29% | 3559 items say “(checked …)”; the rest still need a second look |
+| Civilisations with events | `████████████████████` 100% | 289 of 289 |
+| Civilisations with famous people | `████████████████░░░░` 79% | 227 of 289; many prehistoric cultures have no known names |
+| Civilisations linked to others | `████████████████████` 100% | 289 of 289 (succeeded, conquered, traded with…) |
+| Civilisation pictures | `███████████████████░` 97% | 279 of 289 |
+| “Known for” pictures | `██████████████░░░░░░` 68% | 629 of 927 items |
 
-Certainty of all items: 5707 confirmed · 4785 estimated · 387 disputed.
-Also in the app: 579 events · 267 people · 18 routes · 11 stories.
+Certainty of all items: 6977 confirmed · 5040 estimated · 410 disputed.
+Also in the app: 622 events · 281 people · 18 routes · 11 stories.
 
 ## Map coverage by year
 
@@ -114,15 +114,15 @@ Also in the app: 579 events · 267 people · 18 routes · 11 stories.
 | 1878 | `██████████████████░░` 92% |
 | 1880 | `██████████████████░░` 92% |
 | 1900 | `██████████████████░░` 92% |
-| 1914 | `███████████████████░` 97% |
-| 1920 | `███████████████████░` 95% |
-| 1930 | `███████████████████░` 94% |
-| 1938 | `███████████████████░` 94% |
-| 1945 | `█████████████████░░░` 87% |
-| 1960 | `████████████████░░░░` 79% |
-| 1994 | `████████████████░░░░` 80% |
-| 2000 | `████████████████░░░░` 80% |
-| 2010 | `████████████████░░░░` 80% |
+| 1914 | `████████████████████` 98% |
+| 1920 | `███████████████████░` 97% |
+| 1930 | `███████████████████░` 96% |
+| 1938 | `███████████████████░` 96% |
+| 1945 | `██████████████████░░` 88% |
+| 1960 | `████████████████░░░░` 81% |
+| 1994 | `█████████████████░░░` 83% |
+| 2000 | `█████████████████░░░` 83% |
+| 2010 | `█████████████████░░░` 83% |
 
 ## Biggest map blanks still to fill
 
@@ -155,8 +155,8 @@ Areas on the border maps that no civilisation covers yet, largest first (area ad
 | Emirate of Bin Shal'an | 1920 – 1938 (3 maps) | 3M |
 | Ethiopia | 1994 – 2010 (3 maps) | 3M |
 | Zhangzhung Kingdom | 400 BCE – 100 BCE (5 maps) | 3M |
-| Poland | 1783 – 2010 (9 maps) | 3M |
 | Nogai Horde | 1530 – 1715 (5 maps) | 3M |
 | Uyghurs | 700 – 900 (2 maps) | 3M |
 | Proto-Tibetan cultures | 400 BCE – 400 BCE (1 maps) | 3M |
 | Magadha | 500 BCE – 200 (4 maps) | 3M |
+| Satavahanihara | 1 BCE – 400 (5 maps) | 3M |

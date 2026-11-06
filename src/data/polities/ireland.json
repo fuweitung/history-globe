@@ -1,0 +1,322 @@
+{
+  "id": "ireland",
+  "name": "Ireland (since 1922)",
+  "era": "modern",
+  "region": "Western Europe",
+  "startYear": 1922,
+  "endYear": null,
+  "capital": "Dublin",
+  "capitalCoords": [
+    -6.26,
+    53.35
+  ],
+  "summary": "Most of Ireland became independent from the UK as the Irish Free State in 1922 and a republic in 1949; Northern Ireland remained in the UK.",
+  "wikiTitle": "Republic of Ireland",
+  "borderNames": [
+    "Ireland",
+    "Irish Free State"
+  ],
+  "borderYears": [
+    1922,
+    null
+  ],
+  "color": "#3a9a5a",
+  "knownFor": [
+    {
+      "label": "Irish literature",
+      "kind": "art",
+      "note": "Joyce, Yeats, Beckett and Heaney."
+    },
+    {
+      "label": "Celtic Tiger",
+      "kind": "idea",
+      "year": 1995,
+      "note": "Fast economic growth from the mid-1990s."
+    },
+    {
+      "label": "Easter Rising",
+      "kind": "idea",
+      "note": "The 1916 rebellion that led to independence."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Most of the island of Ireland; about 70,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "terrain": {
+        "value": "Central lowlands ringed by hills; Atlantic coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "climate": {
+        "value": "Mild and very wet.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "resources": {
+        "value": "Farmland, pasture.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "disasters": {
+        "value": "Storms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 5.3 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "urbanisation": {
+        "value": "Dublin, Cork, Galway.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "disease": {
+        "value": "Good public health.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "migration": {
+        "value": "Long emigration; immigration since the 1990s.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, then technology and pharmaceuticals.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "tradeRoutes": {
+        "value": "EU single market since 1973.",
+        "year": 1973,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "wealth": {
+        "value": "A high-income economy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "moneyAndTax": {
+        "value": "The euro.",
+        "year": 2002,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "inequality": {
+        "value": "Moderate inequality.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Republic of Ireland"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "keyRulers": {
+        "value": "Michael Collins. Éamon de Valera. Mary Robinson.",
+        "year": 1922,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "institutions": {
+        "value": "Oireachtas (parliament).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "stability": {
+        "value": "Civil war (1922–23).",
+        "year": 1922,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "eliteConflict": {
+        "value": "Party politics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Republic of Ireland"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Small defence forces.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "majorWars": {
+        "value": "War of Independence (1919–21).",
+        "year": 1919,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "territoryChange": {
+        "value": "Partition of Ireland (1921).",
+        "year": 1921,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "alliancesRivals": {
+        "value": "Neutral; EU member; UN peacekeeping.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "scienceEducation": {
+        "value": "High education levels.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "openness": {
+        "value": "Very open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "communicationTransport": {
+        "value": "Roads and Dublin trams.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Catholic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "languageWriting": {
+        "value": "Irish and English.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "artsArchitecture": {
+        "value": "Literature and traditional music.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "socialStructure": {
+        "value": "Large middle class.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "sharedIdentity": {
+        "value": "Strong Irish identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "dailyLife": {
+        "value": "Houses and flats; potatoes, bread, tea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "United Kingdom.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "ideasReligions": {
+        "value": "Irish diaspora worldwide.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "colonisation": {
+        "value": "Formerly ruled by Britain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence in 1922.",
+        "year": 1922,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "peakPeriod": {
+        "value": "The Celtic Tiger.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "declineSignals": {
+        "value": "2008 banking crisis.",
+        "year": 2008,
+        "certainty": "estimated",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Republic of Ireland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Ireland"
+      }
+    }
+  }
+}

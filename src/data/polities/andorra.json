@@ -1,0 +1,321 @@
+{
+  "id": "andorra",
+  "name": "Andorra",
+  "era": "medieval",
+  "region": "Western Europe",
+  "startYear": 1278,
+  "endYear": null,
+  "capital": "Andorra la Vella",
+  "capitalCoords": [
+    1.52,
+    42.51
+  ],
+  "summary": "A tiny state in the Pyrenees ruled since 1278 by two co-princes: the bishop of Urgell and (now) the president of France.",
+  "wikiTitle": "Andorra",
+  "borderNames": [
+    "Andorra"
+  ],
+  "borderYears": [
+    1278,
+    null
+  ],
+  "color": "#3a5ab0",
+  "knownFor": [
+    {
+      "label": "Co-princes",
+      "kind": "idea",
+      "year": 1278,
+      "note": "Shared rule set by an agreement of 1278."
+    },
+    {
+      "label": "Ski resorts",
+      "kind": "monument",
+      "note": "Tourism in the Pyrenees."
+    },
+    {
+      "label": "Romanesque churches",
+      "kind": "monument",
+      "note": "Small stone churches."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "In the Pyrenees between Spain and France, landlocked.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      },
+      "terrain": {
+        "value": "High mountains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      },
+      "climate": {
+        "value": "Alpine.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      },
+      "resources": {
+        "value": "Tourism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      },
+      "disasters": {
+        "value": "No major natural disasters recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Andorra"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 80,000.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      },
+      "urbanisation": {
+        "value": "Andorra la Vella is the main town.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      },
+      "disease": {
+        "value": "Very good public health.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Andorra"
+      },
+      "migration": {
+        "value": "Most residents are foreign nationals.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Tourism and shopping.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      },
+      "tradeRoutes": {
+        "value": "Agreements with the EU.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      },
+      "wealth": {
+        "value": "A high-income economy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      },
+      "moneyAndTax": {
+        "value": "The euro.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      },
+      "inequality": {
+        "value": "Low inequality.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Andorra"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary co-principality (constitution of 1993).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      },
+      "keyRulers": {
+        "value": "The two co-princes (French president and Bishop of Urgell).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      },
+      "succession": {
+        "value": "Co-princes by office; elected government.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      },
+      "institutions": {
+        "value": "General Council.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      },
+      "stability": {
+        "value": "Very stable.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      },
+      "eliteConflict": {
+        "value": "Little conflict among leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Andorra"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "No army.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      },
+      "majorWars": {
+        "value": "None in modern times.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      },
+      "territoryChange": {
+        "value": "No territorial change in modern times.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      },
+      "alliancesRivals": {
+        "value": "Close to Spain and France.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Andorra"
+      },
+      "scienceEducation": {
+        "value": "High education levels.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      },
+      "openness": {
+        "value": "Very open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      },
+      "communicationTransport": {
+        "value": "Mountain roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Catholic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      },
+      "languageWriting": {
+        "value": "Catalan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      },
+      "artsArchitecture": {
+        "value": "Romanesque churches.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      },
+      "socialStructure": {
+        "value": "Prosperous society.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Andorra"
+      },
+      "sharedIdentity": {
+        "value": "Catalan-speaking mountain identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      },
+      "dailyLife": {
+        "value": "Stone houses; mountain cooking.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Spain, France.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      },
+      "ideasReligions": {
+        "value": "Shares the culture of its neighbours.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Andorra"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "The 1278 agreement.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      },
+      "peakPeriod": {
+        "value": "Modern prosperity.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Andorra"
+      },
+      "declineSignals": {
+        "value": "None major.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Andorra"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Andorra.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andorra"
+      }
+    }
+  }
+}

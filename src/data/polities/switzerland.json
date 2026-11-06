@@ -1,0 +1,322 @@
+{
+  "id": "switzerland",
+  "name": "Switzerland",
+  "era": "modern",
+  "region": "Central Europe",
+  "startYear": 1848,
+  "endYear": null,
+  "capital": "Bern",
+  "capitalCoords": [
+    7.45,
+    46.95
+  ],
+  "datesApproximate": true,
+  "summary": "A federal state in the Alps (modern constitution 1848) whose roots go back to the alliance of 1291, famous for neutrality, direct democracy and banking.",
+  "wikiTitle": "Switzerland",
+  "borderNames": [
+    "Switzerland"
+  ],
+  "borderYears": [
+    1800,
+    null
+  ],
+  "color": "#c03a3a",
+  "knownFor": [
+    {
+      "label": "Red Cross",
+      "kind": "idea",
+      "year": 1863,
+      "note": "Founded in Geneva by Henry Dunant."
+    },
+    {
+      "label": "Swiss watches",
+      "kind": "tool",
+      "note": "Precision watchmaking."
+    },
+    {
+      "label": "Direct democracy",
+      "kind": "idea",
+      "note": "Citizens vote on laws in frequent referendums."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Central Europe, landlocked, in the Alps; about 41,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "terrain": {
+        "value": "Alps, Jura and the central plateau.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "climate": {
+        "value": "Alpine and temperate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "resources": {
+        "value": "Hydropower, dairy, tourism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "disasters": {
+        "value": "Avalanches and floods.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 9 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "urbanisation": {
+        "value": "Zurich, Geneva, Basel, Bern.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "disease": {
+        "value": "Very good public health.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Switzerland"
+      },
+      "migration": {
+        "value": "About a quarter of residents are foreign nationals.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Banking, pharmaceuticals, machinery, watches.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "tradeRoutes": {
+        "value": "Trade with the EU.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "wealth": {
+        "value": "One of the richest countries.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "moneyAndTax": {
+        "value": "The Swiss franc.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "inequality": {
+        "value": "Low inequality.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Switzerland"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A federal republic with direct democracy; seven-member Federal Council.",
+        "year": 1848,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "keyRulers": {
+        "value": "Henri Guisan (wartime general). Henry Dunant.",
+        "year": 1863,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "succession": {
+        "value": "Elections and referendums.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "institutions": {
+        "value": "Federal Assembly; 26 cantons.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "stability": {
+        "value": "Very stable; last civil war (Sonderbund) in 1847.",
+        "year": 1847,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "eliteConflict": {
+        "value": "Consensus politics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Switzerland"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Militia army; armed neutrality.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "majorWars": {
+        "value": "Neutral in both World Wars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "territoryChange": {
+        "value": "None since 1815.",
+        "year": 1815,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "alliancesRivals": {
+        "value": "Neutral; not in the EU or NATO; UN since 2002.",
+        "year": 2002,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "CERN (near Geneva), where the Web was invented.",
+        "year": 1989,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "scienceEducation": {
+        "value": "ETH Zurich; high education levels.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "openness": {
+        "value": "Open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "communicationTransport": {
+        "value": "Alpine railway tunnels (Gotthard Base Tunnel, 2016).",
+        "year": 2016,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Catholic and Protestant traditions.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "languageWriting": {
+        "value": "German, French, Italian and Romansh.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "artsArchitecture": {
+        "value": "Chocolate, watches, Le Corbusier.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "socialStructure": {
+        "value": "Large middle class.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Switzerland"
+      },
+      "sharedIdentity": {
+        "value": "Shared identity across four languages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "dailyLife": {
+        "value": "Chalets and apartments; cheese fondue, chocolate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Germany, France, Italy, Austria, Liechtenstein.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "ideasReligions": {
+        "value": "Humanitarian law (Geneva Conventions, 1864).",
+        "year": 1864,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Federal constitution of 1848.",
+        "year": 1848,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "peakPeriod": {
+        "value": "Post-war prosperity.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Switzerland"
+      },
+      "declineSignals": {
+        "value": "None major.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Switzerland"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Switzerland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Switzerland"
+      }
+    }
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "id": "belgium",
+  "name": "Belgium",
+  "era": "modern",
+  "region": "Western Europe",
+  "startYear": 1830,
+  "endYear": null,
+  "capital": "Brussels",
+  "capitalCoords": [
+    4.35,
+    50.85
+  ],
+  "summary": "A kingdom that broke away from the Netherlands in 1830, home to the headquarters of the European Union and NATO; its king ran the Congo Free State (1885–1908).",
+  "wikiTitle": "Belgium",
+  "borderNames": [
+    "Belgium"
+  ],
+  "borderYears": [
+    1830,
+    null
+  ],
+  "color": "#c9a23a",
+  "knownFor": [
+    {
+      "label": "Belgian comics",
+      "kind": "art",
+      "year": 1929,
+      "note": "Tintin, created by Hergé."
+    },
+    {
+      "label": "Atomium",
+      "kind": "monument",
+      "year": 1958,
+      "note": "Built for the 1958 World’s Fair."
+    },
+    {
+      "label": "Chocolate and waffles",
+      "kind": "food",
+      "note": "Famous foods."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "North-west Europe; about 30,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      },
+      "terrain": {
+        "value": "Flat in the north, the Ardennes hills in the south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      },
+      "climate": {
+        "value": "Mild and wet.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      },
+      "resources": {
+        "value": "Coal (historically), ports, farmland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      },
+      "disasters": {
+        "value": "Floods (2021).",
+        "year": 2021,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 11.8 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      },
+      "urbanisation": {
+        "value": "Brussels, Antwerp, Ghent, Liège.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      },
+      "disease": {
+        "value": "Good public health.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Belgium"
+      },
+      "migration": {
+        "value": "Immigration from Italy, Morocco, Turkey and Congo.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "One of the first industrialised countries; today services, chemicals, the port of Antwerp.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      },
+      "tradeRoutes": {
+        "value": "EU single market.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      },
+      "wealth": {
+        "value": "A high-income economy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      },
+      "moneyAndTax": {
+        "value": "The franc, then the euro.",
+        "year": 2002,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      },
+      "inequality": {
+        "value": "Low inequality.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Belgium"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A federal constitutional monarchy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      },
+      "keyRulers": {
+        "value": "Leopold I. Leopold II. Albert I.",
+        "year": 1831,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      },
+      "succession": {
+        "value": "Elections; long coalition negotiations.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      },
+      "institutions": {
+        "value": "Federal parliament; Flemish, Walloon and Brussels regions.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      },
+      "stability": {
+        "value": "Occupied by Germany in both World Wars.",
+        "year": 1914,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      },
+      "eliteConflict": {
+        "value": "Tension between Dutch-speaking Flanders and French-speaking Wallonia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "NATO member.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      },
+      "majorWars": {
+        "value": "Both World Wars were fought partly on its soil.",
+        "year": 1914,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      },
+      "territoryChange": {
+        "value": "Congo colony until 1960.",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      },
+      "alliancesRivals": {
+        "value": "Founder of the EU and NATO.",
+        "year": 1949,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "The saxophone (Adolphe Sax, 1846).",
+        "year": 1846,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      },
+      "scienceEducation": {
+        "value": "High education levels.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      },
+      "openness": {
+        "value": "Very open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      },
+      "communicationTransport": {
+        "value": "First railway on the European mainland (1835).",
+        "year": 1835,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Catholic tradition; secular.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      },
+      "languageWriting": {
+        "value": "Dutch, French and German.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      },
+      "artsArchitecture": {
+        "value": "Flemish art heritage, comics, Art Nouveau (Horta).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      },
+      "socialStructure": {
+        "value": "Large middle class.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Belgium"
+      },
+      "sharedIdentity": {
+        "value": "Regional identities are strong.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Belgium"
+      },
+      "dailyLife": {
+        "value": "Brick terraced houses; fries, waffles, beer.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Netherlands, Germany, Luxembourg, France.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      },
+      "ideasReligions": {
+        "value": "European integration.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      },
+      "colonisation": {
+        "value": "Ruled the Congo; atrocities in the Congo Free State.",
+        "year": 1885,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Revolution of 1830.",
+        "year": 1830,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      },
+      "peakPeriod": {
+        "value": "Industrial boom in the 19th century.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Belgium"
+      },
+      "declineSignals": {
+        "value": "Linguistic divisions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Belgium"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Belgium.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Belgium"
+      }
+    }
+  }
+}

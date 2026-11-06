@@ -1908,5 +1908,250 @@
     "relation": "succeeded",
     "year": -500,
     "note": "The first southern kingdoms grew from these communities."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "united-kingdom",
+    "relation": "succeeded",
+    "year": 1922,
+    "note": "The UK continued after the empire was dissolved."
+  },
+  {
+    "fromPolityId": "dutch-republic",
+    "toPolityId": "netherlands",
+    "relation": "succeeded",
+    "year": 1815,
+    "note": "The Kingdom of the Netherlands followed the Dutch Republic and French rule."
+  },
+  {
+    "fromPolityId": "portuguese-empire",
+    "toPolityId": "portugal-modern",
+    "relation": "succeeded",
+    "year": 1974,
+    "note": "Portugal gave up its empire after the Carnation Revolution."
+  },
+  {
+    "fromPolityId": "polish-lithuanian-commonwealth",
+    "toPolityId": "poland-modern",
+    "relation": "succeeded",
+    "year": 1918,
+    "note": "Poland was restored after 123 years of partition."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "ukraine",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Ukraine became independent from the USSR."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "greece-modern",
+    "relation": "colonised",
+    "year": 1821,
+    "note": "Greece won independence from the Ottomans."
+  },
+  {
+    "fromPolityId": "austria-hungary",
+    "toPolityId": "austria",
+    "relation": "succeeded",
+    "year": 1918,
+    "note": "Austria was the German-speaking remnant of Austria-Hungary."
+  },
+  {
+    "fromPolityId": "austria-hungary",
+    "toPolityId": "hungary",
+    "relation": "succeeded",
+    "year": 1918,
+    "note": "Hungary became independent."
+  },
+  {
+    "fromPolityId": "austria-hungary",
+    "toPolityId": "czechoslovakia-czechia",
+    "relation": "succeeded",
+    "year": 1918,
+    "note": "Czechoslovakia formed from Austro-Hungarian lands."
+  },
+  {
+    "fromPolityId": "netherlands",
+    "toPolityId": "belgium",
+    "relation": "succeeded",
+    "year": 1830,
+    "note": "Belgium broke away from the Netherlands."
+  },
+  {
+    "fromPolityId": "united-kingdom",
+    "toPolityId": "ireland",
+    "relation": "succeeded",
+    "year": 1922,
+    "note": "Most of Ireland left the UK."
+  },
+  {
+    "fromPolityId": "russian-empire",
+    "toPolityId": "finland",
+    "relation": "succeeded",
+    "year": 1917,
+    "note": "Finland declared independence from Russia."
+  },
+  {
+    "fromPolityId": "kingdom-of-denmark",
+    "toPolityId": "iceland",
+    "relation": "succeeded",
+    "year": 1918,
+    "note": "Iceland became sovereign from Denmark."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "romania",
+    "relation": "traded_with",
+    "year": 1878,
+    "note": "Romania won full independence from the Ottomans in 1878."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "bulgaria",
+    "relation": "traded_with",
+    "year": 1878,
+    "note": "Bulgaria broke free from Ottoman rule after 1878."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "serbia",
+    "relation": "traded_with",
+    "year": 1878,
+    "note": "Serbia gained full independence from the Ottomans in 1878."
+  },
+  {
+    "fromPolityId": "serbia",
+    "toPolityId": "yugoslavia",
+    "relation": "succeeded",
+    "year": 1918,
+    "note": "Serbia led the creation of Yugoslavia."
+  },
+  {
+    "fromPolityId": "yugoslavia",
+    "toPolityId": "croatia",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Croatia left Yugoslavia."
+  },
+  {
+    "fromPolityId": "yugoslavia",
+    "toPolityId": "slovenia",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Slovenia left Yugoslavia."
+  },
+  {
+    "fromPolityId": "yugoslavia",
+    "toPolityId": "bosnia-and-herzegovina",
+    "relation": "succeeded",
+    "year": 1992,
+    "note": "Bosnia left Yugoslavia."
+  },
+  {
+    "fromPolityId": "yugoslavia",
+    "toPolityId": "north-macedonia",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Macedonia left Yugoslavia."
+  },
+  {
+    "fromPolityId": "serbia",
+    "toPolityId": "montenegro",
+    "relation": "succeeded",
+    "year": 2006,
+    "note": "Montenegro left its union with Serbia."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "albania",
+    "relation": "traded_with",
+    "year": 1912,
+    "note": "Albania declared independence from the Ottomans."
+  },
+  {
+    "fromPolityId": "czechoslovakia-czechia",
+    "toPolityId": "slovakia",
+    "relation": "succeeded",
+    "year": 1993,
+    "note": "Slovakia separated peacefully."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "estonia",
+    "relation": "conquered",
+    "year": 1940,
+    "note": "Annexed by the USSR (1940–91)."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "latvia",
+    "relation": "conquered",
+    "year": 1940,
+    "note": "Annexed by the USSR (1940–91)."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "lithuania",
+    "relation": "conquered",
+    "year": 1940,
+    "note": "Annexed by the USSR (1940–91)."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "belarus",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Belarus became independent."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "moldova",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Moldova became independent."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "georgia",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Georgia became independent."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "cyprus",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "Cyprus was a British colony until 1960."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "malta",
+    "relation": "colonised",
+    "year": 1964,
+    "note": "Malta was British until 1964."
+  },
+  {
+    "fromPolityId": "netherlands",
+    "toPolityId": "luxembourg",
+    "relation": "traded_with",
+    "year": 1839,
+    "note": "Luxembourg shared a king with the Netherlands until 1890."
+  },
+  {
+    "fromPolityId": "switzerland",
+    "toPolityId": "liechtenstein",
+    "relation": "allied_with",
+    "year": 1923,
+    "note": "Customs union with Switzerland since 1923."
+  },
+  {
+    "fromPolityId": "spain-modern",
+    "toPolityId": "andorra",
+    "relation": "traded_with",
+    "year": 1993,
+    "note": "Andorra lies between Spain and France."
   }
 ]

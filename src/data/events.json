@@ -4469,7 +4469,8 @@
     "title": "Assassination in Sarajevo",
     "description": "Archduke Franz Ferdinand, heir to Austria-Hungary, is assassinated, triggering the crisis that starts the First World War.",
     "relatedPolityIds": [
-      "austria-hungary"
+      "austria-hungary",
+      "serbia"
     ],
     "source": "Wikipedia: Assassination of Archduke Franz Ferdinand"
   },
@@ -4562,7 +4563,8 @@
     "title": "Treaty of Lausanne",
     "description": "The treaty recognises the borders of the new Republic of Turkey and includes a population exchange between Greece and Turkey.",
     "relatedPolityIds": [
-      "republic-of-turkey"
+      "republic-of-turkey",
+      "greece-modern"
     ],
     "source": "Wikipedia: Treaty of Lausanne"
   },
@@ -5060,7 +5062,8 @@
     "relatedPolityIds": [
       "british-empire",
       "french-colonial-empire",
-      "modern-egypt"
+      "modern-egypt",
+      "united-kingdom"
     ],
     "source": "Wikipedia: Suez Crisis"
   },
@@ -5417,7 +5420,8 @@
     "title": "Chernobyl nuclear disaster",
     "description": "A reactor explosion in Soviet Ukraine releases radioactive material across Europe.",
     "relatedPolityIds": [
-      "soviet-union"
+      "soviet-union",
+      "ukraine"
     ]
   },
   {
@@ -5428,7 +5432,9 @@
     "type": "invention",
     "title": "World Wide Web proposed",
     "description": "Tim Berners-Lee proposes the World Wide Web at CERN near Geneva.",
-    "relatedPolityIds": []
+    "relatedPolityIds": [
+      "switzerland"
+    ]
   },
   {
     "id": "tiananmen-1989",
@@ -5540,7 +5546,8 @@
     "description": "Britain transfers Hong Kong to the People’s Republic of China, often seen as the symbolic end of the British Empire.",
     "relatedPolityIds": [
       "british-empire",
-      "peoples-republic-of-china"
+      "peoples-republic-of-china",
+      "united-kingdom"
     ]
   },
   {
@@ -5712,7 +5719,9 @@
     "type": "culture",
     "title": "Brexit",
     "description": "The United Kingdom leaves the European Union on 31 January 2020.",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "united-kingdom"
+    ],
     "source": "Wikipedia: Brexit (checked 6 Nov 2026)"
   },
   {
@@ -5724,7 +5733,8 @@
     "title": "Russian invasion of Ukraine",
     "description": "Russia launches a full-scale invasion of Ukraine, the largest war in Europe since 1945.",
     "relatedPolityIds": [
-      "russian-federation"
+      "russian-federation",
+      "ukraine"
     ],
     "source": "Wikipedia: Russian invasion of Ukraine"
   },
@@ -5913,7 +5923,8 @@
     "title": "Falklands War",
     "description": "Argentina occupies the Falkland Islands (Malvinas); Britain retakes them after a ten-week war.",
     "relatedPolityIds": [
-      "argentina"
+      "argentina",
+      "united-kingdom"
     ],
     "source": "Wikipedia: Falklands War"
   },
@@ -7771,5 +7782,601 @@
       "early-south-india"
     ],
     "source": "Wikipedia: Adichanallur"
+  },
+  {
+    "id": "partition-of-ireland",
+    "year": 1922,
+    "lat": 53.35,
+    "lng": -6.26,
+    "type": "war",
+    "title": "Irish Free State founded",
+    "description": "After the War of Independence, most of Ireland becomes the Irish Free State; Northern Ireland stays in the UK.",
+    "relatedPolityIds": [
+      "ireland",
+      "united-kingdom"
+    ],
+    "source": "Wikipedia: Irish Free State"
+  },
+  {
+    "id": "nhs-founded",
+    "year": 1948,
+    "lat": 51.51,
+    "lng": -0.13,
+    "type": "culture",
+    "title": "National Health Service founded",
+    "description": "Britain creates free health care for all, paid for by taxes.",
+    "relatedPolityIds": [
+      "united-kingdom"
+    ],
+    "source": "Wikipedia: National Health Service"
+  },
+  {
+    "id": "good-friday-agreement",
+    "year": 1998,
+    "lat": 54.6,
+    "lng": -5.93,
+    "type": "culture",
+    "title": "Good Friday Agreement",
+    "description": "A peace agreement ends three decades of conflict in Northern Ireland.",
+    "relatedPolityIds": [
+      "united-kingdom",
+      "ireland"
+    ],
+    "source": "Wikipedia: Good Friday Agreement"
+  },
+  {
+    "id": "north-sea-flood-1953",
+    "year": 1953,
+    "lat": 51.7,
+    "lng": 4,
+    "type": "disaster",
+    "title": "North Sea flood",
+    "description": "A storm surge floods the Netherlands, Belgium and England, killing over 2,500 people; the Dutch then build the Delta Works.",
+    "relatedPolityIds": [
+      "netherlands",
+      "united-kingdom",
+      "belgium"
+    ],
+    "source": "Wikipedia: North Sea flood of 1953"
+  },
+  {
+    "id": "carnation-revolution",
+    "year": 1974,
+    "lat": 38.72,
+    "lng": -9.14,
+    "type": "culture",
+    "title": "Carnation Revolution",
+    "description": "A nearly bloodless coup ends Portugal’s dictatorship and its colonial wars.",
+    "relatedPolityIds": [
+      "portugal-modern",
+      "portuguese-empire"
+    ],
+    "source": "Wikipedia: Carnation Revolution"
+  },
+  {
+    "id": "polish-independence-1918",
+    "year": 1918,
+    "lat": 52.23,
+    "lng": 21.01,
+    "type": "war",
+    "title": "Poland regains independence",
+    "description": "Poland is reborn after 123 years of partition.",
+    "relatedPolityIds": [
+      "poland-modern"
+    ],
+    "source": "Wikipedia: Second Polish Republic"
+  },
+  {
+    "id": "solidarity-founded",
+    "year": 1980,
+    "lat": 54.35,
+    "lng": 18.65,
+    "type": "culture",
+    "title": "Solidarity founded",
+    "description": "Shipyard workers in Gdańsk form the first independent trade union in the Soviet bloc.",
+    "relatedPolityIds": [
+      "poland-modern"
+    ],
+    "source": "Wikipedia: Solidarity (Polish trade union)"
+  },
+  {
+    "id": "ukraine-independence",
+    "year": 1991,
+    "lat": 50.45,
+    "lng": 30.52,
+    "type": "culture",
+    "title": "Ukraine becomes independent",
+    "description": "Over 90% vote for independence from the Soviet Union.",
+    "relatedPolityIds": [
+      "ukraine",
+      "soviet-union"
+    ],
+    "source": "Wikipedia: 1991 Ukrainian independence referendum"
+  },
+  {
+    "id": "greek-war-of-independence",
+    "year": 1821,
+    "lat": 37.98,
+    "lng": 23.73,
+    "type": "war",
+    "title": "Greek War of Independence",
+    "description": "Greeks revolt against Ottoman rule; independence is recognised in 1830.",
+    "relatedPolityIds": [
+      "greece-modern",
+      "ottoman-empire"
+    ],
+    "source": "Wikipedia: Greek War of Independence"
+  },
+  {
+    "id": "first-modern-olympics",
+    "year": 1896,
+    "lat": 37.97,
+    "lng": 23.74,
+    "type": "culture",
+    "title": "First modern Olympic Games",
+    "description": "The modern Olympics begin in Athens.",
+    "relatedPolityIds": [
+      "greece-modern"
+    ],
+    "source": "Wikipedia: 1896 Summer Olympics"
+  },
+  {
+    "id": "red-cross-founded",
+    "year": 1863,
+    "lat": 46.2,
+    "lng": 6.15,
+    "type": "culture",
+    "title": "Red Cross founded",
+    "description": "Henry Dunant founds the International Committee of the Red Cross in Geneva.",
+    "relatedPolityIds": [
+      "switzerland"
+    ],
+    "source": "Wikipedia: International Committee of the Red Cross"
+  },
+  {
+    "id": "anschluss",
+    "year": 1938,
+    "lat": 48.21,
+    "lng": 16.37,
+    "type": "war",
+    "title": "Anschluss",
+    "description": "Nazi Germany annexes Austria.",
+    "relatedPolityIds": [
+      "austria"
+    ],
+    "source": "Wikipedia: Anschluss"
+  },
+  {
+    "id": "austrian-state-treaty",
+    "year": 1955,
+    "lat": 48.21,
+    "lng": 16.37,
+    "type": "culture",
+    "title": "Austrian State Treaty",
+    "description": "Allied occupation ends and Austria becomes neutral.",
+    "relatedPolityIds": [
+      "austria"
+    ],
+    "source": "Wikipedia: Austrian State Treaty"
+  },
+  {
+    "id": "belgian-revolution",
+    "year": 1830,
+    "lat": 50.85,
+    "lng": 4.35,
+    "type": "war",
+    "title": "Belgian Revolution",
+    "description": "Belgium breaks away from the United Kingdom of the Netherlands.",
+    "relatedPolityIds": [
+      "belgium",
+      "netherlands"
+    ],
+    "source": "Wikipedia: Belgian Revolution"
+  },
+  {
+    "id": "winter-war",
+    "year": 1939,
+    "lat": 61,
+    "lng": 29,
+    "type": "war",
+    "title": "Winter War",
+    "description": "Finland resists a Soviet invasion (1939–40) but loses part of Karelia.",
+    "relatedPolityIds": [
+      "finland",
+      "soviet-union"
+    ],
+    "source": "Wikipedia: Winter War"
+  },
+  {
+    "id": "iceland-republic",
+    "year": 1944,
+    "lat": 64.26,
+    "lng": -21.13,
+    "type": "culture",
+    "title": "Iceland becomes a republic",
+    "description": "Iceland ends its union with Denmark.",
+    "relatedPolityIds": [
+      "iceland",
+      "kingdom-of-denmark"
+    ],
+    "source": "Wikipedia: Iceland"
+  },
+  {
+    "id": "hungarian-revolution-1956",
+    "year": 1956,
+    "lat": 47.5,
+    "lng": 19.04,
+    "type": "war",
+    "title": "Hungarian Revolution",
+    "description": "A national uprising is crushed by Soviet troops.",
+    "relatedPolityIds": [
+      "hungary",
+      "soviet-union"
+    ],
+    "source": "Wikipedia: Hungarian Revolution of 1956"
+  },
+  {
+    "id": "treaty-of-trianon",
+    "year": 1920,
+    "lat": 48.8,
+    "lng": 2.1,
+    "type": "war",
+    "title": "Treaty of Trianon",
+    "description": "Hungary loses about two-thirds of its former territory.",
+    "relatedPolityIds": [
+      "hungary",
+      "romania",
+      "czechoslovakia-czechia",
+      "yugoslavia"
+    ],
+    "source": "Wikipedia: Treaty of Trianon"
+  },
+  {
+    "id": "romanian-revolution",
+    "year": 1989,
+    "lat": 44.43,
+    "lng": 26.1,
+    "type": "war",
+    "title": "Romanian Revolution",
+    "description": "A violent uprising overthrows Nicolae Ceaușescu.",
+    "relatedPolityIds": [
+      "romania"
+    ],
+    "source": "Wikipedia: Romanian revolution"
+  },
+  {
+    "id": "union-of-principalities",
+    "year": 1859,
+    "lat": 44.43,
+    "lng": 26.1,
+    "type": "culture",
+    "title": "Union of Wallachia and Moldavia",
+    "description": "The two principalities unite, forming Romania.",
+    "relatedPolityIds": [
+      "romania"
+    ],
+    "source": "Wikipedia: United Principalities"
+  },
+  {
+    "id": "liberation-of-bulgaria",
+    "year": 1878,
+    "lat": 42.7,
+    "lng": 23.32,
+    "type": "war",
+    "title": "Liberation of Bulgaria",
+    "description": "After the Russo-Turkish War, Bulgaria becomes autonomous.",
+    "relatedPolityIds": [
+      "bulgaria",
+      "ottoman-empire",
+      "russian-empire"
+    ],
+    "source": "Wikipedia: Principality of Bulgaria"
+  },
+  {
+    "id": "prague-spring",
+    "year": 1968,
+    "lat": 50.09,
+    "lng": 14.42,
+    "type": "culture",
+    "title": "Prague Spring",
+    "description": "Reforms in Czechoslovakia are crushed by a Warsaw Pact invasion.",
+    "relatedPolityIds": [
+      "czechoslovakia-czechia",
+      "soviet-union"
+    ],
+    "source": "Wikipedia: Prague Spring"
+  },
+  {
+    "id": "velvet-revolution",
+    "year": 1989,
+    "lat": 50.09,
+    "lng": 14.42,
+    "type": "culture",
+    "title": "Velvet Revolution",
+    "description": "Peaceful protests end communist rule in Czechoslovakia.",
+    "relatedPolityIds": [
+      "czechoslovakia-czechia"
+    ],
+    "source": "Wikipedia: Velvet Revolution"
+  },
+  {
+    "id": "velvet-divorce",
+    "year": 1993,
+    "lat": 48.15,
+    "lng": 17.11,
+    "type": "culture",
+    "title": "Czechoslovakia splits peacefully",
+    "description": "Czechia and Slovakia become separate countries.",
+    "relatedPolityIds": [
+      "czechoslovakia-czechia",
+      "slovakia"
+    ],
+    "source": "Wikipedia: Dissolution of Czechoslovakia"
+  },
+  {
+    "id": "yugoslavia-founded",
+    "year": 1918,
+    "lat": 44.82,
+    "lng": 20.46,
+    "type": "culture",
+    "title": "Kingdom of Serbs, Croats and Slovenes",
+    "description": "South Slav lands unite in a new kingdom, later called Yugoslavia.",
+    "relatedPolityIds": [
+      "yugoslavia",
+      "serbia"
+    ],
+    "source": "Wikipedia: Kingdom of Yugoslavia"
+  },
+  {
+    "id": "tito-stalin-split",
+    "year": 1948,
+    "lat": 44.82,
+    "lng": 20.46,
+    "type": "culture",
+    "title": "Tito–Stalin split",
+    "description": "Yugoslavia breaks with the Soviet Union and goes its own way.",
+    "relatedPolityIds": [
+      "yugoslavia",
+      "soviet-union"
+    ],
+    "source": "Wikipedia: Tito–Stalin split"
+  },
+  {
+    "id": "breakup-of-yugoslavia",
+    "year": 1991,
+    "lat": 45.81,
+    "lng": 15.98,
+    "type": "war",
+    "title": "Yugoslav Wars begin",
+    "description": "Slovenia and Croatia declare independence; wars follow across the region until 2001.",
+    "relatedPolityIds": [
+      "yugoslavia",
+      "croatia",
+      "slovenia",
+      "serbia"
+    ],
+    "source": "Wikipedia: Yugoslav Wars"
+  },
+  {
+    "id": "srebrenica-genocide",
+    "year": 1995,
+    "lat": 44.1,
+    "lng": 19.3,
+    "type": "war",
+    "title": "Srebrenica genocide",
+    "description": "Bosnian Serb forces kill about 8,000 Bosniak men and boys; international courts ruled it genocide.",
+    "relatedPolityIds": [
+      "bosnia-and-herzegovina"
+    ],
+    "source": "Wikipedia: Srebrenica massacre"
+  },
+  {
+    "id": "dayton-agreement",
+    "year": 1995,
+    "lat": 39.78,
+    "lng": -84.06,
+    "type": "culture",
+    "title": "Dayton Agreement",
+    "description": "A peace deal ends the Bosnian War.",
+    "relatedPolityIds": [
+      "bosnia-and-herzegovina",
+      "serbia",
+      "croatia"
+    ],
+    "source": "Wikipedia: Dayton Agreement"
+  },
+  {
+    "id": "montenegro-independence",
+    "year": 2006,
+    "lat": 42.44,
+    "lng": 19.26,
+    "type": "culture",
+    "title": "Montenegro becomes independent",
+    "description": "A referendum ends the union with Serbia.",
+    "relatedPolityIds": [
+      "montenegro",
+      "serbia"
+    ],
+    "source": "Wikipedia: Montenegrin independence referendum"
+  },
+  {
+    "id": "prespa-agreement",
+    "year": 2018,
+    "lat": 40.95,
+    "lng": 21.05,
+    "type": "culture",
+    "title": "Prespa Agreement",
+    "description": "Macedonia agrees to be called North Macedonia, ending a long dispute with Greece.",
+    "relatedPolityIds": [
+      "north-macedonia",
+      "greece-modern"
+    ],
+    "source": "Wikipedia: Prespa agreement"
+  },
+  {
+    "id": "albanian-independence",
+    "year": 1912,
+    "lat": 40.47,
+    "lng": 19.49,
+    "type": "culture",
+    "title": "Albanian independence",
+    "description": "Albania declares independence from the Ottoman Empire at Vlorë.",
+    "relatedPolityIds": [
+      "albania",
+      "ottoman-empire"
+    ],
+    "source": "Wikipedia: Albanian Declaration of Independence"
+  },
+  {
+    "id": "baltic-way",
+    "year": 1989,
+    "lat": 56.95,
+    "lng": 24.1,
+    "type": "culture",
+    "title": "The Baltic Way",
+    "description": "About two million people join hands across Estonia, Latvia and Lithuania to call for independence.",
+    "relatedPolityIds": [
+      "estonia",
+      "latvia",
+      "lithuania"
+    ],
+    "source": "Wikipedia: Baltic Way"
+  },
+  {
+    "id": "baltic-annexation",
+    "year": 1940,
+    "lat": 54.69,
+    "lng": 25.28,
+    "type": "war",
+    "title": "Soviet annexation of the Baltic states",
+    "description": "The USSR occupies and annexes Estonia, Latvia and Lithuania.",
+    "relatedPolityIds": [
+      "estonia",
+      "latvia",
+      "lithuania",
+      "soviet-union"
+    ],
+    "source": "Wikipedia: Occupation of the Baltic states"
+  },
+  {
+    "id": "belovezha-accords",
+    "year": 1991,
+    "lat": 52.57,
+    "lng": 23.8,
+    "type": "culture",
+    "title": "Belovezha Accords",
+    "description": "Leaders of Russia, Ukraine and Belarus agree to dissolve the USSR.",
+    "relatedPolityIds": [
+      "belarus",
+      "ukraine",
+      "russian-federation"
+    ],
+    "source": "Wikipedia: Belovezha Accords"
+  },
+  {
+    "id": "transnistria-war",
+    "year": 1992,
+    "lat": 46.84,
+    "lng": 29.6,
+    "type": "war",
+    "title": "Transnistria War",
+    "description": "A short war leaves Transnistria outside Moldova’s control.",
+    "relatedPolityIds": [
+      "moldova"
+    ],
+    "source": "Wikipedia: Transnistria War"
+  },
+  {
+    "id": "russo-georgian-war",
+    "year": 2008,
+    "lat": 42.23,
+    "lng": 43.97,
+    "type": "war",
+    "title": "Russo-Georgian War",
+    "description": "A five-day war over South Ossetia.",
+    "relatedPolityIds": [
+      "georgia",
+      "russian-federation"
+    ],
+    "source": "Wikipedia: Russo-Georgian War"
+  },
+  {
+    "id": "cyprus-1974",
+    "year": 1974,
+    "lat": 35.17,
+    "lng": 33.36,
+    "type": "war",
+    "title": "Division of Cyprus",
+    "description": "After a coup backed by Greece’s junta, Turkey invades; the island has been divided since.",
+    "relatedPolityIds": [
+      "cyprus",
+      "republic-of-turkey"
+    ],
+    "source": "Wikipedia: Turkish invasion of Cyprus"
+  },
+  {
+    "id": "siege-of-malta-1940",
+    "year": 1940,
+    "lat": 35.9,
+    "lng": 14.51,
+    "type": "war",
+    "title": "Siege of Malta",
+    "description": "Axis bombing of Malta (1940–42); the island is awarded the George Cross.",
+    "relatedPolityIds": [
+      "british-empire"
+    ],
+    "source": "Wikipedia: Siege of Malta (World War II)"
+  },
+  {
+    "id": "luxembourg-independence",
+    "year": 1839,
+    "lat": 49.61,
+    "lng": 6.13,
+    "type": "culture",
+    "title": "Luxembourg’s independence confirmed",
+    "description": "The Treaty of London recognises Luxembourg as independent.",
+    "relatedPolityIds": [
+      "luxembourg"
+    ],
+    "source": "Wikipedia: Treaty of London (1839)"
+  },
+  {
+    "id": "liechtenstein-sovereignty",
+    "year": 1806,
+    "lat": 47.14,
+    "lng": 9.52,
+    "type": "culture",
+    "title": "Liechtenstein becomes sovereign",
+    "description": "Liechtenstein becomes a sovereign state in Napoleon’s Confederation of the Rhine.",
+    "relatedPolityIds": [
+      "liechtenstein"
+    ],
+    "source": "Wikipedia: Liechtenstein"
+  },
+  {
+    "id": "andorra-pareatges",
+    "year": 1278,
+    "lat": 42.51,
+    "lng": 1.52,
+    "type": "culture",
+    "title": "Andorra’s co-princes",
+    "description": "An agreement between the Count of Foix and the Bishop of Urgell creates Andorra’s shared rule.",
+    "relatedPolityIds": [
+      "andorra"
+    ],
+    "source": "Wikipedia: Andorra"
+  },
+  {
+    "id": "malta-independence",
+    "year": 1964,
+    "lat": 35.9,
+    "lng": 14.51,
+    "type": "culture",
+    "title": "Malta becomes independent",
+    "description": "Malta gains independence from Britain; it becomes a republic in 1974.",
+    "relatedPolityIds": [
+      "malta"
+    ],
+    "source": "Wikipedia: Malta"
   }
 ]

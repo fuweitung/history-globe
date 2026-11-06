@@ -1,0 +1,320 @@
+{
+  "id": "georgia",
+  "name": "Georgia",
+  "era": "modern",
+  "region": "Eastern Europe & Caucasus",
+  "startYear": 1991,
+  "endYear": null,
+  "capital": "Tbilisi",
+  "capitalCoords": [
+    44.79,
+    41.72
+  ],
+  "summary": "A Caucasus country with an ancient Christian kingdom tradition, independent from the USSR in 1991; Abkhazia and South Ossetia are outside its control.",
+  "wikiTitle": "Georgia (country)",
+  "borderNames": [
+    "Georgia"
+  ],
+  "borderYears": [
+    1991,
+    null
+  ],
+  "color": "#c03a3a",
+  "knownFor": [
+    {
+      "label": "Georgian alphabet",
+      "kind": "idea",
+      "note": "Its own script, used since the 5th century."
+    },
+    {
+      "label": "Qvevri wine",
+      "kind": "food",
+      "note": "Wine made in clay jars, about 8,000 years old."
+    },
+    {
+      "label": "Polyphonic singing",
+      "kind": "art",
+      "note": "UNESCO heritage."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The southern Caucasus on the Black Sea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "terrain": {
+        "value": "High mountains and fertile valleys.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "climate": {
+        "value": "Mild on the coast, cold in the mountains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "resources": {
+        "value": "Farmland, wine, manganese.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "disasters": {
+        "value": "Earthquakes and landslides.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 3.7 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "urbanisation": {
+        "value": "Tbilisi, Batumi, Kutaisi.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "disease": {
+        "value": "Moderate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "migration": {
+        "value": "Refugees from Abkhazia (1990s).",
+        "year": 1993,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, wine, tourism, transit.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "tradeRoutes": {
+        "value": "Pipelines and Black Sea ports.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "wealth": {
+        "value": "An upper-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "moneyAndTax": {
+        "value": "The lari.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "inequality": {
+        "value": "Moderate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Georgia (country)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "keyRulers": {
+        "value": "Zviad Gamsakhurdia. Eduard Shevardnadze. Mikheil Saakashvili.",
+        "year": 2003,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "institutions": {
+        "value": "Parliament.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "stability": {
+        "value": "Civil war (1991–93); Rose Revolution (2003).",
+        "year": 2003,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "eliteConflict": {
+        "value": "Political polarisation.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Georgia (country)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Armed forces.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "majorWars": {
+        "value": "War with Russia (2008).",
+        "year": 2008,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "territoryChange": {
+        "value": "Abkhazia and South Ossetia are outside government control.",
+        "year": 2008,
+        "certainty": "disputed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "alliancesRivals": {
+        "value": "EU candidate (2023).",
+        "year": 2023,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "scienceEducation": {
+        "value": "Universities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "openness": {
+        "value": "Open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "communicationTransport": {
+        "value": "Roads and railways.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Georgian Orthodox, one of the oldest churches.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "languageWriting": {
+        "value": "Georgian, with its own alphabet.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "artsArchitecture": {
+        "value": "Medieval churches, polyphonic singing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "socialStructure": {
+        "value": "Moderate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "sharedIdentity": {
+        "value": "Strong national identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "dailyLife": {
+        "value": "Houses and flats; khachapuri, khinkali, wine.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Russia, Turkey, Armenia, Azerbaijan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "ideasReligions": {
+        "value": "Early Christian kingdom (4th century).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "colonisation": {
+        "value": "Part of the Russian Empire and USSR.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1991).",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "peakPeriod": {
+        "value": "Reforms after 2003.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "declineSignals": {
+        "value": "Territorial conflicts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Georgia (country).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Georgia (country)"
+      },
+      "overallCertainty": {
+        "value": "Breakaway regions are disputed.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Georgia (country)"
+      }
+    }
+  }
+}
