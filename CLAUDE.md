@@ -3,7 +3,7 @@
 Two people work on this project, each with their own Claude Code: **fuweitung** (owner) and **MikeTKnn**. These rules keep the two sessions from clashing. Follow them unless the person you are working with explicitly says otherwise.
 
 ## Before starting any task
-1. `git checkout main && git pull` to get the latest work.
+1. `git checkout main && git pull` to get the latest work. Read PROGRESS.md to see what is done and what is next.
 2. Find the GitHub issue for the task (`gh issue list`). If there is none, create one.
 3. **Claim it:** check it is not assigned to the other person, then assign it to the current user and mark it (`gh issue edit <n> --add-assignee @me --add-label in-progress`) and add a comment saying what you will change. If it is already assigned to someone else, stop and tell the user.
 4. Create a branch named `<initials>/<issue-number>-<short-name>`, e.g. `fw/12-tsardom-of-russia` or `mk/15-quiz-mode`.
@@ -17,6 +17,7 @@ Two people work on this project, each with their own Claude Code: **fuweitung** 
 ## Before opening a pull request
 - `npm run validate-data` and `npm test` must pass; run `npx tsc -b` for code changes.
 - Check the change in the app (`npm run dev`).
+- Run `npm run progress` and commit the updated PROGRESS.md; tick the matching Roadmap box there when the work is done.
 - Push the branch and open a pull request that says `Closes #<issue>`. The other person reviews and merges it.
 
 ## Content rules

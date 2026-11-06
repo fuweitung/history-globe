@@ -28,10 +28,12 @@ Open http://localhost:5173.
 | `npm run dev:phone` | Same, but also open it on your phone (same Wi-Fi) |
 | `npm run validate-data` | Check the data for mistakes |
 | `npm test` | Run the automated tests |
+| `npm run progress` | Update the progress percentages in PROGRESS.md |
 | `npm run build` | Build the website into `dist/` |
 
 ## Learn more
 
+- [PROGRESS.md](PROGRESS.md): what's done, what's next, and progress % (map coverage, fact-checking, pictures)
 - [docs/DATA.md](docs/DATA.md): all features, the project's files, and how to add or edit data
 - [CONTRIBUTING.md](CONTRIBUTING.md): how we work together
 - [REVIEW.md](REVIEW.md): what a teacher or expert should check
