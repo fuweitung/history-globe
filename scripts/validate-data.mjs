@@ -26,12 +26,14 @@ const RELATIONS = new Set(['succeeded', 'conquered', 'colonised', 'traded_with',
 
 const ids = new Set();
 const rows = [];
+const byId = new Map();
 for (const f of (await readdir(join(dataDir, 'polities'))).filter((f) => f.endsWith('.json')).sort()) {
   const p = JSON.parse(await readFile(join(dataDir, 'polities', f), 'utf8'));
   const where = `polities/${f}`;
   if (`${p.id}.json` !== f) errors.push(`${where}: id "${p.id}" should match file name`);
   if (ids.has(p.id)) errors.push(`${where}: duplicate id`);
   ids.add(p.id);
+  byId.set(p.id, p);
   for (const k of ['name', 'region', 'capital']) if (!p[k]) errors.push(`${where}: missing ${k}`);
   if (!ERAS.has(p.era)) errors.push(`${where}: bad era "${p.era}"`);
   if (typeof p.startYear !== 'number') errors.push(`${where}: startYear must be a number`);
@@ -110,6 +112,68 @@ for (const r of routes) {
   for (const pid of r.relatedPolityIds) if (!ids.has(pid)) errors.push(`${where}: unknown polity "${pid}"`);
   for (const line of r.paths) for (const [x, y] of line) if (Math.abs(y) > 90 || Math.abs(x) > 360) errors.push(`${where}: bad coordinate`);
 }
+// ── Consistency checks (dates that should line up) ──
+// Older periods are known less precisely, so allow a wider margin.
+const slack = (y) => (y < -1000 ? 300 : y < 500 ? 100 : y < 1500 ? 50 : 15);
+const end = (p) => p.endYear ?? 2025;
+const outside = (p, y) => (y < p.startYear ? p.startYear - y : y > end(p) ? y - end(p) : 0);
+const consistency = [];
+// Deliberate exceptions (e.g. an event in the history of a territory before the modern state existed), each with a reason.
+const ALLOW = JSON.parse(await readFile(join(root, 'scripts/consistency-allow.json'), 'utf8'));
+const allowed = (msg) => Object.keys(ALLOW).some((k) => msg.startsWith(k + ' ') || msg.startsWith(k + ' (') || msg.startsWith(k + ':') || msg.startsWith(`${k} in`) || msg.startsWith(k.replace(/^knownFor /, 'knownFor "') + '"'));
+for (const e of events) {
+  for (const pid of e.relatedPolityIds) {
+    const p = byId.get(pid);
+    if (!p) continue;
+    const from = e.year;
+    const to = e.endYear ?? e.year;
+    const gap = to < p.startYear ? p.startYear - to : from > end(p) ? from - end(p) : 0;
+    if (gap > slack(e.year)) consistency.push(`event ${e.id} (${e.year}) is ${gap} years outside ${pid} (${p.startYear}–${p.endYear ?? 'today'})`);
+  }
+}
+for (const person of people) {
+  for (const pid of person.polityIds) {
+    const p = byId.get(pid);
+    if (!p) continue;
+    if (person.died < p.startYear - slack(person.born) || person.born > end(p) + slack(person.born))
+      consistency.push(`person ${person.id} (${person.born}–${person.died}) never overlaps ${pid} (${p.startYear}–${p.endYear ?? 'today'})`);
+  }
+}
+for (const l of links) {
+  const a = byId.get(l.fromPolityId);
+  const b = byId.get(l.toPolityId);
+  if (!a || !b) continue;
+  if (l.relation === 'succeeded') {
+    const gap = b.startYear - end(a);
+    if (Math.abs(gap) > Math.max(slack(b.startYear) * 3, 200) && l.year === undefined)
+      consistency.push(`link ${a.id} → ${b.id} (succeeded): ${gap} years between end and start; add a year or note`);
+  } else if (l.year !== undefined) {
+    for (const p of [a, b])
+      if (outside(p, l.year) > slack(l.year)) consistency.push(`link ${a.id} ${l.relation} ${b.id} in ${l.year}: ${p.id} did not exist then (${p.startYear}–${p.endYear ?? 'today'})`);
+  } else if (a.startYear > end(b) + slack(a.startYear) || b.startYear > end(a) + slack(b.startYear)) {
+    consistency.push(`link ${a.id} ${l.relation} ${b.id}: the two never existed at the same time`);
+  }
+}
+for (const p of byId.values()) {
+  for (const k of p.knownFor ?? []) {
+    if (k.year !== undefined && outside(p, k.year) > Math.max(slack(k.year), 100) && !/novel|later|legend|modern/i.test(k.note ?? ''))
+      consistency.push(`knownFor "${k.label}" (${k.year}) of ${p.id} is outside its lifetime`);
+  }
+}
+for (const l of links) {
+  const a = byId.get(l.fromPolityId);
+  const b = byId.get(l.toPolityId);
+  if (a && b && l.relation === 'succeeded' && a.startYear > b.startYear)
+    errors.push(`link ${a.id} → ${b.id} (succeeded): the successor starts before its predecessor; is the direction reversed?`);
+}
+const kept = consistency.filter((m) => !allowed(m));
+consistency.length = 0;
+consistency.push(...kept);
+if (consistency.length) {
+  console.log(`\n${consistency.length} consistency issue(s):\n  ` + consistency.join('\n  '));
+  if (process.argv.includes('--strict')) errors.push(...consistency);
+}
+
 if (errors.length) {
   console.error(`\n${errors.length} error(s):\n  ` + errors.join('\n  '));
   process.exit(1);

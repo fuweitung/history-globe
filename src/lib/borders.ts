@@ -70,7 +70,7 @@ for (const p of POLITIES) {
 }
 
 /** How far (in years) a snapshot is from the window in which a polity's names apply. */
-function matchDistance(p: Polity, snapYear: number): number {
+export function matchDistance(p: Polity, snapYear: number): number {
   if (p.borderYears) {
     const [from, to] = p.borderYears;
     return snapYear >= from && snapYear <= (to ?? Infinity) ? 0 : Infinity; // strict window
@@ -85,7 +85,7 @@ const matchTolerance = (y: number) => (y < 500 ? 50 : y < 1500 ? 25 : 10);
  * Candidate polities for one polygon, closest-in-time first.
  * `viaName` is true when the polygon's own NAME matched (not its overlord's).
  */
-function candidatesFor(
+export function candidatesFor(
   props: { NAME?: string | null; SUBJECTO?: string | null },
   snapYear: number,
 ): { list: Polity[]; viaName: boolean } {

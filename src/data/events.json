@@ -1678,7 +1678,7 @@
     "title": "Charlemagne crowned emperor",
     "description": "Pope Leo III crowns Charlemagne Emperor of the Romans in Rome.",
     "relatedPolityIds": [
-      "holy-roman-empire"
+      "carolingian-empire"
     ]
   },
   {
@@ -2863,8 +2863,7 @@
     "title": "Great Stand on the Ugra",
     "description": "Muscovy faces down the Great Horde, traditionally the end of Mongol rule over Russia.",
     "relatedPolityIds": [
-      "golden-horde",
-      "russian-empire"
+      "golden-horde"
     ],
     "source": "Wikipedia: Great Stand on the Ugra River (checked 6 Nov 2026)"
   },
@@ -3438,7 +3437,6 @@
     "title": "Battle of Plassey",
     "description": "The British East India Company defeats the Nawab of Bengal, starting its rise to territorial power in India.",
     "relatedPolityIds": [
-      "british-empire",
       "great-britain",
       "mughal-empire"
     ]
@@ -3529,7 +3527,6 @@
     "title": "Haitian Revolution",
     "description": "Enslaved people in the French colony of Saint-Domingue rise up, leading to the independence of Haiti in 1804, the first state founded after a successful revolt by enslaved people.",
     "relatedPolityIds": [
-      "french-colonial-empire",
       "kingdom-of-france"
     ]
   },

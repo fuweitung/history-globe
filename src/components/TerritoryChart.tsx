@@ -39,7 +39,7 @@ export function formatArea(km2: number): string {
 }
 const axisArea = (v: number) => (v === 0 ? '0' : v >= 1e6 ? `${+(v / 1e6).toFixed(1)}M` : `${Math.round(v / 1000)}k`);
 
-function niceTicks(max: number): number[] {
+export function niceTicks(max: number): number[] {
   const raw = max / 3;
   const pow = 10 ** Math.floor(Math.log10(raw || 1));
   const step = [1, 2, 2.5, 5, 10].map((m) => m * pow).find((s) => s >= raw) ?? raw;
