@@ -306,8 +306,8 @@ export default function App() {
   // "/" or Ctrl/⌘+K opens search from anywhere (unless typing).
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
-      const t = e.target as HTMLElement;
-      const typing = !!t.closest('input, textarea, select, [contenteditable]');
+      const t = e.target;
+      const typing = t instanceof Element && !!t.closest('input, textarea, select, [contenteditable]');
       if ((e.key === '/' && !typing) || (e.key.toLowerCase() === 'k' && (e.metaKey || e.ctrlKey))) {
         e.preventDefault();
         setView({ kind: 'search' });

@@ -54,11 +54,14 @@ export default function TimelineSlider({
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
       const t = e.target as HTMLElement;
+      if (e.defaultPrevented || !(t instanceof Element)) return;
       if (t.closest('input, textarea, select, [contenteditable]') && t !== inputRef.current) return;
+      // The map uses the arrow keys to pan; leave them to it while it has focus.
+      if (t.closest('.maplibregl-map')) return;
       if (e.key === 'ArrowLeft' || e.key === 'ArrowRight') {
         e.preventDefault();
         onChange(stepYear(year, (e.shiftKey ? 10 : 1) * (e.key === 'ArrowLeft' ? -1 : 1)));
-      } else if (e.key === ' ' && t.tagName !== 'BUTTON') {
+      } else if (e.key === ' ' && !t.closest('button, a, [role="button"]')) {
         e.preventDefault();
         onTogglePlay();
       }

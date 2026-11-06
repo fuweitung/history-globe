@@ -12,6 +12,7 @@
     "typecheck": "tsc -b",
     "test": "vitest run",
     "fetch-borders": "node scripts/fetch-borders.mjs",
+    "fetch-glyphs": "node scripts/fetch-glyphs.mjs",
     "validate-data": "node scripts/validate-data.mjs",
     "compute-territory": "node scripts/compute-territory.mjs",
     "fetch-images": "node scripts/fetch-images.mjs",

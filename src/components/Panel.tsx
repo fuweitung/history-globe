@@ -1,4 +1,5 @@
 import { useEffect, useRef, useState, type ReactNode } from 'react';
+import ErrorBoundary from './ErrorBoundary';
 
 export function useIsDesktop(): boolean {
   const query = '(min-width: 768px)';
@@ -70,7 +71,7 @@ export default function Panel({ open, onClose, contentKey, title, wide = false, 
       >
         <CloseButton onClose={onClose} />
         <div ref={scrollRef} className="scroll-thin flex-1 overflow-y-auto overscroll-contain">
-          {children}
+          <PanelContent contentKey={contentKey}>{children}</PanelContent>
         </div>
       </aside>
     );
@@ -136,7 +137,7 @@ export default function Panel({ open, onClose, contentKey, title, wide = false, 
       </div>
       <CloseButton onClose={onClose} />
       <div ref={scrollRef} className="scroll-thin min-h-0 flex-1 overflow-y-auto overscroll-contain">
-        {children}
+        <PanelContent contentKey={contentKey}>{children}</PanelContent>
       </div>
     </section>
   );
@@ -154,5 +155,25 @@ function CloseButton({ onClose }: { onClose: () => void }) {
         <path d="M6 6l12 12M18 6L6 18" />
       </svg>
     </button>
+  );
+}
+
+/** A crash inside one panel shows a message there and leaves the map and timeline working. */
+function PanelContent({ contentKey, children }: { contentKey: string; children: ReactNode }) {
+  return (
+    <ErrorBoundary
+      resetKey={contentKey}
+      fallback={(reset) => (
+        <div role="alert" className="px-5 pt-14 pb-8 text-sm text-parchment-200">
+          <p className="font-semibold text-parchment-50">This panel couldn’t be shown.</p>
+          <p className="mt-1 text-parchment-300">Something in its data went wrong. The map and timeline still work.</p>
+          <button type="button" onClick={reset} className="mt-4 rounded-xl bg-gold-400 px-4 py-2 text-sm font-bold text-ink-900 hover:bg-gold-300">
+            Try again
+          </button>
+        </div>
+      )}
+    >
+      {children}
+    </ErrorBoundary>
   );
 }

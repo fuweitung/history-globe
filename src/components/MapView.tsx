@@ -74,8 +74,9 @@ const STYLE: StyleSpecification = {
   projection: {
     type: ['interpolate', ['linear'], ['zoom'], 3.5, 'vertical-perspective', 5, 'mercator'],
   } as unknown as StyleSpecification['projection'],
-  // Free glyphs from the MapLibre demo server (no API key).
-  glyphs: 'https://demotiles.maplibre.org/font/{fontstack}/{range}.pbf',
+  // Label font served from public/fonts (downloaded by `npm run fetch-glyphs`).
+  // MapLibre needs an absolute URL; build it by hand so {fontstack}/{range} stay unescaped.
+  glyphs: `${window.location.origin}${new URL(BASE, window.location.href).pathname}fonts/{fontstack}/{range}.pbf`,
   sky: {
     'sky-color': '#0a1024',
     'horizon-color': '#24345c',
@@ -370,8 +371,9 @@ export default function MapView({
         const t = EVENT_TYPES[event.type];
         el.style.setProperty('--c', t.color);
         el.innerHTML = `<span class="event-dot" aria-hidden="true">${t.glyph}</span>`;
-        el.setAttribute('aria-label', `${event.year}: ${event.title}`);
-        el.title = `${event.year} · ${event.title}`;
+        const when = formatYear(event.year, event.yearApproximate);
+        el.setAttribute('aria-label', `${when}: ${event.title}`);
+        el.title = `${when} · ${event.title}`;
         el.addEventListener('click', (ev) => {
           ev.stopPropagation();
           handlersRef.current.onSelectEvent(event.id);
