@@ -48,7 +48,7 @@
         "source": "Burger, Chavín and the Origins of Andean Civilization (1992)"
       },
       "disasters": {
-        "value": "Earthquakes and landslides.",
+        "value": "Earthquakes and landslides in the Andes.",
         "year": null,
         "certainty": "estimated",
         "source": "Burger, Chavín and the Origins of Andean Civilization (1992)"
@@ -94,19 +94,19 @@
         "source": "Burger, Chavín and the Origins of Andean Civilization (1992)"
       },
       "wealth": {
-        "value": "No estimate is possible.",
+        "value": "No estimate is possible; the temple held fine goods from far away.",
         "year": null,
         "certainty": "estimated",
         "source": "Burger, Chavín and the Origins of Andean Civilization (1992)"
       },
       "moneyAndTax": {
-        "value": "No money.",
+        "value": "No money; labour and goods were given to the temple.",
         "year": null,
         "certainty": "estimated",
         "source": "Burger, Chavín and the Origins of Andean Civilization (1992)"
       },
       "inequality": {
-        "value": "A priestly elite controlled the temple.",
+        "value": "A priestly elite controlled the temple and its rituals.",
         "year": null,
         "certainty": "estimated",
         "source": "Burger, Chavín and the Origins of Andean Civilization (1992)"
@@ -120,7 +120,7 @@
         "source": "Burger, Chavín and the Origins of Andean Civilization (1992)"
       },
       "keyRulers": {
-        "value": "No rulers are known by name.",
+        "value": "No rulers are known by name; there was no writing.",
         "year": null,
         "certainty": "estimated",
         "source": "Burger, Chavín and the Origins of Andean Civilization (1992)"
@@ -138,7 +138,7 @@
         "source": "Wikipedia: Chavín culture (checked 6 Nov 2026)"
       },
       "stability": {
-        "value": "Influential for about 650 years.",
+        "value": "Influential for about 650 years (about 900–250 BCE).",
         "year": null,
         "certainty": "estimated",
         "source": "Burger, Chavín and the Origins of Andean Civilization (1992)"
@@ -152,7 +152,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Little evidence of warfare.",
+        "value": "Little evidence of warfare; influence spread through religion.",
         "year": null,
         "certainty": "estimated",
         "source": "Burger, Chavín and the Origins of Andean Civilization (1992)"
@@ -194,6 +194,12 @@
         "year": null,
         "certainty": "estimated",
         "source": "Burger, Chavín and the Origins of Andean Civilization (1992)"
+      },
+      "communicationTransport": {
+        "value": "Llama caravans and travel on foot linked the coast and highlands at the crossing point of Chavín de Huántar.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Chavín culture"
       }
     },
     "culture": {
@@ -204,7 +210,7 @@
         "source": "Burger, Chavín and the Origins of Andean Civilization (1992)"
       },
       "languageWriting": {
-        "value": "No writing.",
+        "value": "No writing; the language is unknown.",
         "year": null,
         "certainty": "estimated",
         "source": "Burger, Chavín and the Origins of Andean Civilization (1992)"
@@ -216,7 +222,7 @@
         "source": "Burger, Chavín and the Origins of Andean Civilization (1992)"
       },
       "socialStructure": {
-        "value": "Priests, craftsmen and farmers.",
+        "value": "Priests, skilled craftspeople and farmers.",
         "year": null,
         "certainty": "estimated",
         "source": "Burger, Chavín and the Origins of Andean Civilization (1992)"
@@ -226,17 +232,23 @@
         "year": null,
         "certainty": "estimated",
         "source": "Burger, Chavín and the Origins of Andean Civilization (1992)"
+      },
+      "dailyLife": {
+        "value": "Stone houses near the temple; potatoes, maize and llama meat.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Chavín culture"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "Coastal and highland communities.",
+        "value": "Coastal and highland communities in Peru.",
         "year": null,
         "certainty": "estimated",
         "source": "Burger, Chavín and the Origins of Andean Civilization (1992)"
       },
       "ideasReligions": {
-        "value": "Its religious imagery spread widely.",
+        "value": "Its religious images (jaguars, snakes, the Lanzón deity) spread across much of Peru.",
         "year": null,
         "certainty": "estimated",
         "source": "Burger, Chavín and the Origins of Andean Civilization (1992)"
@@ -250,25 +262,25 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Developed around 900 BCE.",
+        "value": "Developed around 900 BCE at Chavín de Huántar, a meeting point of routes.",
         "year": -900,
         "certainty": "confirmed",
         "source": "Wikipedia: Chavín culture (checked 6 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "About 500 BCE.",
+        "value": "About 500 BCE, when the New Temple was built.",
         "year": -500,
         "certainty": "estimated",
         "source": "Burger, Chavín and the Origins of Andean Civilization (1992)"
       },
       "declineSignals": {
-        "value": "Unknown; perhaps social change.",
+        "value": "Unknown; perhaps social change and the rise of regional cultures.",
         "year": -300,
         "certainty": "estimated",
         "source": "Burger, Chavín and the Origins of Andean Civilization (1992)"
       },
       "outcome": {
-        "value": "Ended around 250 BCE.",
+        "value": "Its influence faded around 250 BCE.",
         "year": -250,
         "certainty": "confirmed",
         "source": "Wikipedia: Chavín culture (checked 6 Nov 2026)"

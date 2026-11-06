@@ -82,7 +82,7 @@
     },
     "population": {
       "population": {
-        "value": "About 5.4 million in 1000.",
+        "value": "About 5.4 million around 1000 (a modern estimate).",
         "year": 1000,
         "certainty": "confirmed",
         "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
@@ -158,7 +158,7 @@
         "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
       },
       "institutions": {
-        "value": "The Russkaya Pravda law code.",
+        "value": "The Russkaya Pravda law code (11th century) and town assemblies (veche).",
         "year": 1054,
         "certainty": "confirmed",
         "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
@@ -190,7 +190,7 @@
         "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
       },
       "territoryChange": {
-        "value": "About 1.33 million km² in 1000.",
+        "value": "About 1.33 million km² around 1000.",
         "year": 1000,
         "certainty": "confirmed",
         "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
@@ -204,7 +204,7 @@
     },
     "technology": {
       "inventions": {
-        "value": "Little is known.",
+        "value": "Little is known; birch-bark letters show everyday writing in Novgorod.",
         "year": null,
         "certainty": "estimated",
         "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
@@ -220,6 +220,12 @@
         "year": null,
         "certainty": "estimated",
         "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
+      },
+      "communicationTransport": {
+        "value": "River routes “from the Varangians to the Greeks” along the Dnieper; sledges in winter; birch-bark letters in Novgorod.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kievan Rus'"
       }
     },
     "culture": {
@@ -236,7 +242,7 @@
         "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
       },
       "artsArchitecture": {
-        "value": "St Sophia’s Cathedral in Kiev; icons.",
+        "value": "St Sophia’s Cathedral in Kyiv (1037) and icon painting.",
         "year": 1037,
         "certainty": "estimated",
         "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
@@ -248,10 +254,16 @@
         "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
       },
       "sharedIdentity": {
-        "value": "“Rus’” and Orthodox Christianity.",
+        "value": "The name “Rus’” and Orthodox Christianity.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
+      },
+      "dailyLife": {
+        "value": "Wooden log houses with stoves; rye bread, porridge, fish and honey; furs in winter.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kievan Rus'"
       }
     },
     "connections": {
@@ -268,7 +280,7 @@
         "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
       },
       "colonisation": {
-        "value": "None.",
+        "value": "None overseas.",
         "year": null,
         "certainty": "estimated",
         "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"

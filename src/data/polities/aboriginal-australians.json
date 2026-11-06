@@ -97,7 +97,7 @@
         "source": "Wikipedia: Aboriginal Australians (checked 6 Nov 2026)"
       },
       "wealth": {
-        "value": "No estimate is possible.",
+        "value": "No estimate is possible; wealth was measured in knowledge, kin ties and rights to land.",
         "year": null,
         "certainty": "estimated",
         "source": "Flood, The Original Australians (2006)"
@@ -147,7 +147,7 @@
         "source": "Wikipedia: Aboriginal Australians (checked 6 Nov 2026)"
       },
       "eliteConflict": {
-        "value": "Disputes settled under customary law.",
+        "value": "Disputes were settled under customary law by elders.",
         "year": null,
         "certainty": "estimated",
         "source": "Flood, The Original Australians (2006)"
@@ -197,6 +197,12 @@
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aboriginal Australians (checked 6 Nov 2026)"
+      },
+      "communicationTransport": {
+        "value": "Walking routes called songlines crossed the continent, remembered in songs that named water holes and landmarks; message sticks carried by runners; bark canoes on rivers and coasts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aboriginal Australians"
       }
     },
     "culture": {
@@ -219,16 +225,22 @@
         "source": "Flood, The Original Australians (2006)"
       },
       "socialStructure": {
-        "value": "Kinship systems and moieties.",
+        "value": "Complex kinship systems, with moieties and skin names guiding marriage and duties.",
         "year": null,
         "certainty": "estimated",
         "source": "Flood, The Original Australians (2006)"
       },
       "sharedIdentity": {
-        "value": "Connection to Country and kin.",
+        "value": "Connection to Country (ancestral land) and to kin.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aboriginal Australians (checked 6 Nov 2026)"
+      },
+      "dailyLife": {
+        "value": "Mobile camps with shelters of bark, branches or stone (permanent stone eel-trap villages at Budj Bim); food from hunting, gathering, fishing and fire-managed land.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aboriginal Australians"
       }
     },
     "connections": {
@@ -239,13 +251,13 @@
         "source": "Wikipedia: Aboriginal Australians (checked 6 Nov 2026)"
       },
       "ideasReligions": {
-        "value": "Dreaming stories.",
+        "value": "Dreaming stories explain creation and law, passed on through song, dance and art.",
         "year": null,
         "certainty": "estimated",
         "source": "Flood, The Original Australians (2006)"
       },
       "colonisation": {
-        "value": "British colonisation began in 1788.",
+        "value": "British colonisation began at Sydney Cove in 1788.",
         "year": 1788,
         "certainty": "estimated",
         "source": "Flood, The Original Australians (2006)"
@@ -253,13 +265,13 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Arrival 50,000–65,000 years ago.",
+        "value": "People arrived in Australia at least 50,000 and perhaps 65,000 years ago.",
         "year": -63000,
         "certainty": "confirmed",
         "source": "Wikipedia: Aboriginal Australians (checked 6 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "No single peak; continuous.",
+        "value": "No single peak; one of the oldest continuous cultures on Earth.",
         "year": null,
         "certainty": "estimated",
         "source": "Flood, The Original Australians (2006)"

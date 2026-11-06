@@ -8,7 +8,7 @@
   "datesApproximate": true,
   "capital": "Njimi; later Ngazargamu",
   "capitalCoords": [
-    13.0,
+    13,
     13.5
   ],
   "summary": "One of the longest-lived empires in African history, based around Lake Chad. It grew rich from trans-Saharan trade and converted to Islam in the 11th century.",
@@ -43,13 +43,13 @@
         "source": "Lange, Ancient Kingdoms of West Africa (2004)"
       },
       "resources": {
-        "value": "Salt, natron, horses and trade.",
+        "value": "Salt and natron from the Lake Chad area, horses, and control of trans-Saharan trade.",
         "year": null,
         "certainty": "estimated",
         "source": "Lange, Ancient Kingdoms of West Africa (2004)"
       },
       "disasters": {
-        "value": "Drought.",
+        "value": "Droughts and the shrinking and growing of Lake Chad affected farming and grazing.",
         "year": null,
         "certainty": "estimated",
         "source": "Lange, Ancient Kingdoms of West Africa (2004)"
@@ -57,19 +57,19 @@
     },
     "population": {
       "population": {
-        "value": "No reliable estimate.",
+        "value": "No reliable estimate; perhaps a few million at its height.",
         "year": null,
         "certainty": "estimated",
         "source": "Lange, Ancient Kingdoms of West Africa (2004)"
       },
       "urbanisation": {
-        "value": "Njimi, then Ngazargamu.",
+        "value": "The capitals were Njimi in Kanem, then Ngazargamu in Bornu (from about 1470), later Kukawa.",
         "year": null,
         "certainty": "estimated",
         "source": "Lange, Ancient Kingdoms of West Africa (2004)"
       },
       "disease": {
-        "value": "Unknown.",
+        "value": "Unknown in detail; travellers mention fevers.",
         "year": null,
         "certainty": "estimated",
         "source": "Lange, Ancient Kingdoms of West Africa (2004)"
@@ -89,13 +89,13 @@
         "source": "Wikipedia: Kanem–Bornu Empire (checked 6 Nov 2026); Lange, Ancient Kingdoms of West Africa (2004)"
       },
       "tradeRoutes": {
-        "value": "Routes north to Libya and Egypt.",
+        "value": "Caravan routes north across the Sahara to Fezzan (Libya), Tripoli and Egypt.",
         "year": null,
         "certainty": "estimated",
         "source": "Lange, Ancient Kingdoms of West Africa (2004)"
       },
       "wealth": {
-        "value": "No estimate is possible.",
+        "value": "No estimate is possible; wealth came from trade, including in enslaved people.",
         "year": null,
         "certainty": "estimated",
         "source": "Lange, Ancient Kingdoms of West Africa (2004)"
@@ -107,7 +107,7 @@
         "source": "Lange, Ancient Kingdoms of West Africa (2004)"
       },
       "inequality": {
-        "value": "Royal clan and nobles.",
+        "value": "The royal Sayfawa clan and nobles ruled over farmers, herders and slaves.",
         "year": null,
         "certainty": "estimated",
         "source": "Lange, Ancient Kingdoms of West Africa (2004)"
@@ -133,7 +133,7 @@
         "source": "Wikipedia: Kanem–Bornu Empire (checked 6 Nov 2026)"
       },
       "institutions": {
-        "value": "Islamic law; a council of nobles.",
+        "value": "Islamic law, a council of nobles, and officials appointed by the mai (king).",
         "year": null,
         "certainty": "estimated",
         "source": "Lange, Ancient Kingdoms of West Africa (2004)"
@@ -145,7 +145,7 @@
         "source": "Wikipedia: Kanem–Bornu Empire (checked 6 Nov 2026)"
       },
       "eliteConflict": {
-        "value": "Civil wars in the 14th century.",
+        "value": "Civil wars between branches of the royal family in the 14th century forced a move from Kanem to Bornu.",
         "year": null,
         "certainty": "estimated",
         "source": "Lange, Ancient Kingdoms of West Africa (2004)"
@@ -159,19 +159,19 @@
         "source": "Lange, Ancient Kingdoms of West Africa (2004)"
       },
       "majorWars": {
-        "value": "Wars with the Bulala.",
+        "value": "Long wars with the Bulala, who took Kanem; Idris Alooma’s campaigns (about 1564–1596).",
         "year": 1580,
         "certainty": "estimated",
         "source": "Lange, Ancient Kingdoms of West Africa (2004)"
       },
       "territoryChange": {
-        "value": "Zenith under Dunama II.",
+        "value": "Reached its greatest size under Dunama Dabbalemi in the 13th century, controlling the Fezzan.",
         "year": 1250,
         "certainty": "confirmed",
         "source": "Wikipedia: Kanem–Bornu Empire (checked 6 Nov 2026)"
       },
       "alliancesRivals": {
-        "value": "Rivals: Bulala, Sokoto.",
+        "value": "Rivals included the Bulala, the Hausa states and later the Sokoto Caliphate.",
         "year": null,
         "certainty": "estimated",
         "source": "Lange, Ancient Kingdoms of West Africa (2004)"
@@ -179,71 +179,83 @@
     },
     "technology": {
       "inventions": {
-        "value": "Little is known.",
+        "value": "Little is known; it imported firearms and hired Turkish musketeers under Idris Alooma.",
         "year": null,
         "certainty": "estimated",
         "source": "Lange, Ancient Kingdoms of West Africa (2004)"
       },
       "scienceEducation": {
-        "value": "Islamic learning.",
+        "value": "Islamic learning; Kanem scholars studied in Cairo, where a hostel was built for them.",
         "year": null,
         "certainty": "estimated",
         "source": "Lange, Ancient Kingdoms of West Africa (2004)"
       },
       "openness": {
-        "value": "Links with North Africa.",
+        "value": "Close links with North Africa and Egypt through trade and pilgrimage.",
         "year": null,
         "certainty": "estimated",
         "source": "Lange, Ancient Kingdoms of West Africa (2004)"
+      },
+      "communicationTransport": {
+        "value": "Trans-Saharan camel caravans; horses for cavalry; canoes on Lake Chad.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kanem–Bornu Empire"
       }
     },
     "culture": {
       "religion": {
-        "value": "Converted to Islam in the 11th century.",
+        "value": "The rulers converted to Islam in the 11th century (King Hummay, about 1085).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kanem–Bornu Empire (checked 6 Nov 2026)"
       },
       "languageWriting": {
-        "value": "Kanuri; Arabic.",
+        "value": "Kanuri was spoken; Arabic was used for writing and religion.",
         "year": null,
         "certainty": "estimated",
         "source": "Lange, Ancient Kingdoms of West Africa (2004)"
       },
       "artsArchitecture": {
-        "value": "Brick palaces at Ngazargamu.",
+        "value": "Fired-brick palaces and mosques at Ngazargamu.",
         "year": null,
         "certainty": "estimated",
         "source": "Lange, Ancient Kingdoms of West Africa (2004)"
       },
       "socialStructure": {
-        "value": "Nobles, soldiers, farmers, slaves.",
+        "value": "Nobles, soldiers, scholars, farmers, herders and slaves.",
         "year": null,
         "certainty": "estimated",
         "source": "Lange, Ancient Kingdoms of West Africa (2004)"
       },
       "sharedIdentity": {
-        "value": "Islam and the mai.",
+        "value": "Loyalty to Islam and to the mai bound the empire together.",
         "year": null,
         "certainty": "estimated",
         "source": "Lange, Ancient Kingdoms of West Africa (2004)"
+      },
+      "dailyLife": {
+        "value": "Round mud houses with thatch; brick palaces for the elite; millet, sorghum, fish and milk.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kanem–Bornu Empire"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "Hausa states, Sokoto, Bagirmi.",
+        "value": "The Hausa states, the Sokoto Caliphate, Bagirmi, Wadai and the Fezzan.",
         "year": null,
         "certainty": "estimated",
         "source": "Lange, Ancient Kingdoms of West Africa (2004)"
       },
       "ideasReligions": {
-        "value": "Islam.",
+        "value": "Helped spread Islam in the central Sahel.",
         "year": null,
         "certainty": "estimated",
         "source": "Lange, Ancient Kingdoms of West Africa (2004)"
       },
       "colonisation": {
-        "value": "Divided by Britain, France and Germany.",
+        "value": "Divided between Britain, France and Germany around 1900.",
         "year": 1900,
         "certainty": "estimated",
         "source": "Lange, Ancient Kingdoms of West Africa (2004)"
@@ -251,7 +263,7 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Founded around 700 (dates debated).",
+        "value": "Founded around 700 among the Kanembu; the exact date is debated.",
         "year": 700,
         "certainty": "confirmed",
         "source": "Wikipedia: Kanem–Bornu Empire (checked 6 Nov 2026)"

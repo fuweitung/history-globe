@@ -35,19 +35,19 @@
         "source": "Wikipedia: Lan Xang (checked 6 Nov 2026)"
       },
       "climate": {
-        "value": "Tropical monsoon.",
+        "value": "Tropical monsoon, with a wet and a dry season.",
         "year": null,
         "certainty": "estimated",
         "source": "Stuart-Fox, A History of Laos (1997)"
       },
       "resources": {
-        "value": "Forest products, gold, elephants, rice.",
+        "value": "Forest products, gold, elephants and rice grown along the Mekong.",
         "year": null,
         "certainty": "estimated",
         "source": "Stuart-Fox, A History of Laos (1997)"
       },
       "disasters": {
-        "value": "Unknown.",
+        "value": "Unknown in detail; floods along the Mekong.",
         "year": null,
         "certainty": "estimated",
         "source": "Stuart-Fox, A History of Laos (1997)"
@@ -55,7 +55,7 @@
     },
     "population": {
       "population": {
-        "value": "No reliable estimate.",
+        "value": "No reliable estimate; a 1376 census reportedly counted 300,000 Lao men.",
         "year": null,
         "certainty": "estimated",
         "source": "Stuart-Fox, A History of Laos (1997)"
@@ -157,7 +157,7 @@
         "source": "Stuart-Fox, A History of Laos (1997)"
       },
       "majorWars": {
-        "value": "Invaded by Burma in the 16th century.",
+        "value": "Invaded several times by Burma in the 16th century; wars with Đại Việt (1479).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Lan Xang (checked 6 Nov 2026)"
@@ -169,7 +169,7 @@
         "source": "Wikipedia: Lan Xang (checked 6 Nov 2026)"
       },
       "alliancesRivals": {
-        "value": "Rivals: Burma, Ayutthaya, Đại Việt.",
+        "value": "Rivals included Burma, Ayutthaya and Đại Việt; sometimes allied with Ayutthaya against Burma.",
         "year": null,
         "certainty": "estimated",
         "source": "Stuart-Fox, A History of Laos (1997)"
@@ -183,7 +183,7 @@
         "source": "Stuart-Fox, A History of Laos (1997)"
       },
       "scienceEducation": {
-        "value": "Monastic education.",
+        "value": "Monasteries taught boys to read and copied palm-leaf manuscripts.",
         "year": null,
         "certainty": "estimated",
         "source": "Stuart-Fox, A History of Laos (1997)"
@@ -193,6 +193,12 @@
         "year": null,
         "certainty": "estimated",
         "source": "Stuart-Fox, A History of Laos (1997)"
+      },
+      "communicationTransport": {
+        "value": "Boats on the Mekong; elephant and pony caravans in the hills.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Lan Xang"
       }
     },
     "culture": {
@@ -203,7 +209,7 @@
         "source": "Wikipedia: Lan Xang (checked 6 Nov 2026)"
       },
       "languageWriting": {
-        "value": "Lao, written in the Lao script.",
+        "value": "Lao, written in the Lao script; Pali for Buddhist texts.",
         "year": null,
         "certainty": "estimated",
         "source": "Stuart-Fox, A History of Laos (1997)"
@@ -215,7 +221,7 @@
         "source": "Stuart-Fox, A History of Laos (1997)"
       },
       "socialStructure": {
-        "value": "King, nobles, monks, farmers.",
+        "value": "King, nobles, monks and farmers.",
         "year": null,
         "certainty": "estimated",
         "source": "Stuart-Fox, A History of Laos (1997)"
@@ -225,17 +231,23 @@
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Lan Xang (checked 6 Nov 2026)"
+      },
+      "dailyLife": {
+        "value": "Wooden houses on stilts; sticky rice, fish and vegetables.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lan Xang"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "Ayutthaya, Burma, Đại Việt, Cambodia.",
+        "value": "Ayutthaya, Burma, Đại Việt and Cambodia.",
         "year": null,
         "certainty": "estimated",
         "source": "Stuart-Fox, A History of Laos (1997)"
       },
       "ideasReligions": {
-        "value": "Theravada Buddhism.",
+        "value": "Theravada Buddhism, brought from Cambodia; the Emerald Buddha was kept in Vientiane.",
         "year": null,
         "certainty": "estimated",
         "source": "Stuart-Fox, A History of Laos (1997)"
@@ -249,25 +261,25 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Founded by Fa Ngum in 1353.",
+        "value": "Founded by Fa Ngum in 1353 with Khmer support.",
         "year": 1353,
         "certainty": "confirmed",
         "source": "Wikipedia: Lan Xang (checked 6 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Under Sourigna Vongsa (1638–1694).",
+        "value": "Under King Sourigna Vongsa (1638–1694), a time of peace and Buddhist learning.",
         "year": 1670,
         "certainty": "estimated",
         "source": "Stuart-Fox, A History of Laos (1997)"
       },
       "declineSignals": {
-        "value": "Succession dispute after 1694.",
+        "value": "A succession dispute after Sourigna Vongsa died in 1694 without a clear heir.",
         "year": 1694,
         "certainty": "estimated",
         "source": "Stuart-Fox, A History of Laos (1997)"
       },
       "outcome": {
-        "value": "Split into rival kingdoms in 1707.",
+        "value": "Split into the rival kingdoms of Luang Prabang, Vientiane and Champasak (1707–1713).",
         "year": 1707,
         "certainty": "confirmed",
         "source": "Wikipedia: Lan Xang (checked 6 Nov 2026)"

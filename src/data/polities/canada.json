@@ -1,0 +1,323 @@
+{
+  "id": "canada",
+  "name": "Canada",
+  "era": "modern",
+  "region": "North America",
+  "startYear": 1867,
+  "endYear": null,
+  "capital": "Ottawa",
+  "capitalCoords": [
+    -75.7,
+    45.42
+  ],
+  "summary": "A federation formed in 1867 from British North American colonies, now the second-largest country in the world by area. It became fully independent step by step, ending with the Constitution Act of 1982.",
+  "wikiTitle": "Canada",
+  "borderNames": [
+    "Canada"
+  ],
+  "borderYears": [
+    1867,
+    null
+  ],
+  "color": "#c8463b",
+  "knownFor": [
+    {
+      "label": "Canadian Pacific Railway",
+      "kind": "tool",
+      "year": 1885,
+      "note": "A railway across the continent that tied British Columbia to the rest of Canada."
+    },
+    {
+      "label": "Canadian Charter of Rights and Freedoms",
+      "kind": "idea",
+      "year": 1982,
+      "note": "Part of the 1982 constitution; protects basic rights."
+    },
+    {
+      "label": "Insulin",
+      "kind": "tool",
+      "year": 1921,
+      "note": "First isolated for medical use at the University of Toronto (Banting and Best)."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Northern North America, from the Atlantic to the Pacific and north into the Arctic; about 10 million km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      },
+      "terrain": {
+        "value": "The Canadian Shield of ancient rock and lakes, the Prairies, the Rocky Mountains, the Great Lakes–St Lawrence lowlands and Arctic islands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      },
+      "climate": {
+        "value": "Cold winters almost everywhere; mild on the Pacific coast; Arctic tundra in the north.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      },
+      "resources": {
+        "value": "Timber, furs (historically), wheat, fish, nickel, uranium, potash, oil sands in Alberta and hydroelectric power.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      },
+      "disasters": {
+        "value": "Forest fires, floods, blizzards; the Halifax Explosion (1917) destroyed part of the city.",
+        "year": 1917,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 3.5 million at Confederation (1867); about 41 million today.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      },
+      "urbanisation": {
+        "value": "Most people live within about 200 km of the US border; Toronto, Montreal and Vancouver are the largest cities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      },
+      "disease": {
+        "value": "Epidemics brought by settlers devastated First Nations earlier; the 1918 influenza; today universal public health care (from the 1960s).",
+        "year": 1966,
+        "certainty": "estimated",
+        "source": "Wikipedia: Canada"
+      },
+      "migration": {
+        "value": "Large immigration: British and French at first, then Europeans, and since the 1970s mainly Asians. About a quarter of people were born abroad.",
+        "year": 2021,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, timber and mining at first; today services, energy, manufacturing and natural resources.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      },
+      "tradeRoutes": {
+        "value": "Railways across the continent; the St Lawrence Seaway (1959); free trade with the US (1988) and Mexico (1994, NAFTA, now USMCA).",
+        "year": 1994,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      },
+      "wealth": {
+        "value": "One of the richest countries in the world per person.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      },
+      "moneyAndTax": {
+        "value": "The Canadian dollar; federal and provincial income taxes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      },
+      "inequality": {
+        "value": "First Nations, Inuit and Métis communities have had lower incomes and worse services; the residential schools (to 1996) caused lasting harm.",
+        "year": 1996,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A federal parliamentary democracy and constitutional monarchy, with the British monarch as head of state.",
+        "year": 1867,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      },
+      "keyRulers": {
+        "value": "John A. Macdonald (first prime minister, 1867). Wilfrid Laurier. Mackenzie King. Pierre Trudeau. Brian Mulroney. Justin Trudeau. Mark Carney (2025).",
+        "year": 1867,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      },
+      "succession": {
+        "value": "Elections to the House of Commons; the leader of the largest party becomes prime minister.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      },
+      "institutions": {
+        "value": "Parliament in Ottawa, ten provinces and three territories, the Supreme Court, and the Charter of Rights (1982).",
+        "year": 1982,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      },
+      "stability": {
+        "value": "Stable; Quebec referendums on independence (1980 and 1995) were narrowly rejected. The North-West Rebellion (1885) was put down.",
+        "year": 1995,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      },
+      "eliteConflict": {
+        "value": "Tension between English- and French-speaking Canada, and between the federal government and provinces (especially Quebec and Alberta).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Small armed forces; large contributions in the World Wars (for example Vimy Ridge in 1917 and Juno Beach in 1944).",
+        "year": 1917,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      },
+      "majorWars": {
+        "value": "First World War, Second World War, Korean War, the war in Afghanistan; many UN peacekeeping missions.",
+        "year": 1944,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      },
+      "territoryChange": {
+        "value": "Grew from four provinces to ten (Newfoundland joined in 1949); bought Rupert’s Land from the Hudson’s Bay Company (1870); Nunavut created in 1999.",
+        "year": 1949,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      },
+      "alliancesRivals": {
+        "value": "Close to Britain and the US; founding member of NATO (1949); member of the Commonwealth and G7.",
+        "year": 1949,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Insulin (1921), the snowmobile, the Canadarm robotic arm for the Space Shuttle (1981).",
+        "year": 1921,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      },
+      "scienceEducation": {
+        "value": "Free public schools; universities such as McGill and Toronto; strong research in medicine and AI.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Canada"
+      },
+      "openness": {
+        "value": "Very open to trade and immigration; official multiculturalism since 1971.",
+        "year": 1971,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      },
+      "communicationTransport": {
+        "value": "The Canadian Pacific Railway (1885), the Trans-Canada Highway (1962) and air links to the North.",
+        "year": 1885,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Christian (Catholic and Protestant) historically; growing numbers with no religion, and Muslim, Hindu and Sikh communities.",
+        "year": 2021,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      },
+      "languageWriting": {
+        "value": "English and French are the two official languages (1969); also many Indigenous languages, such as Cree and Inuktitut.",
+        "year": 1969,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      },
+      "artsArchitecture": {
+        "value": "The Group of Seven painters, Indigenous art, a strong film and music industry.",
+        "year": 1920,
+        "certainty": "estimated",
+        "source": "Wikipedia: Canada"
+      },
+      "socialStructure": {
+        "value": "A large middle class; historic inequality for Indigenous peoples.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Canada"
+      },
+      "sharedIdentity": {
+        "value": "A bilingual, multicultural identity, often defined partly in contrast with the United States.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Canada"
+      },
+      "dailyLife": {
+        "value": "Wooden and brick houses built for cold winters; bread, meat, potatoes; ice hockey as a winter pastime.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "The United States (the world’s longest land border shared by two countries) and Greenland (Denmark) across the sea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      },
+      "ideasReligions": {
+        "value": "British parliamentary traditions; French civil law in Quebec; Christian missions; later ideas of multiculturalism.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Canada"
+      },
+      "colonisation": {
+        "value": "Itself a former British dominion; it settled the West on lands of First Nations through treaties that are still debated.",
+        "year": 1871,
+        "certainty": "disputed",
+        "source": "Wikipedia: Canada"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Confederation in 1867 united the colonies to defend against US expansion and to build railways.",
+        "year": 1867,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      },
+      "peakPeriod": {
+        "value": "After 1945: rapid growth, a welfare state, and full control over its constitution (1982).",
+        "year": 1982,
+        "certainty": "estimated",
+        "source": "Wikipedia: Canada"
+      },
+      "declineSignals": {
+        "value": "Debates over national unity (Quebec) and the treatment of Indigenous peoples.",
+        "year": 1995,
+        "certainty": "estimated",
+        "source": "Wikipedia: Canada"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Canada; Wikipedia: History of Canada; Statistics Canada census figures.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Canada"
+      }
+    }
+  }
+}

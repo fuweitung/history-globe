@@ -187,7 +187,7 @@
         "source": "Wikipedia: Seljuk Empire (checked 6 Nov 2026); Peacock, The Great Seljuk Empire (2015)"
       },
       "territoryChange": {
-        "value": "About 3.9 million km² around 1080.",
+        "value": "About 3.9 million km² around 1080, from Anatolia to Central Asia.",
         "year": 1080,
         "certainty": "confirmed",
         "source": "Wikipedia: Seljuk Empire (checked 6 Nov 2026); Peacock, The Great Seljuk Empire (2015)"
@@ -217,6 +217,12 @@
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Seljuk Empire (checked 6 Nov 2026); Peacock, The Great Seljuk Empire (2015)"
+      },
+      "communicationTransport": {
+        "value": "Caravanserais (roadside inns) every day’s journey along trade roads, especially in Anatolia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Seljuk Empire"
       }
     },
     "culture": {
@@ -249,6 +255,12 @@
         "year": null,
         "certainty": "estimated",
         "source": "Peacock, The Great Seljuk Empire (2015)"
+      },
+      "dailyLife": {
+        "value": "Mud-brick houses; bread, yoghurt, rice and meat; nomads in tents.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Seljuk Empire"
       }
     },
     "connections": {
@@ -265,7 +277,7 @@
         "source": "Peacock, The Great Seljuk Empire (2015)"
       },
       "colonisation": {
-        "value": "None.",
+        "value": "None overseas; Turkic groups settled in Anatolia after the Battle of Manzikert (1071).",
         "year": null,
         "certainty": "estimated",
         "source": "Peacock, The Great Seljuk Empire (2015)"

@@ -35,13 +35,13 @@
         "source": "Last, The Sokoto Caliphate (1967)"
       },
       "climate": {
-        "value": "Hot, with a long dry season.",
+        "value": "Hot, with a long dry season and a short rainy season.",
         "year": null,
         "certainty": "estimated",
         "source": "Last, The Sokoto Caliphate (1967)"
       },
       "resources": {
-        "value": "Farmland, cotton, cattle and trade.",
+        "value": "Farmland, cotton and indigo, cattle, and trade.",
         "year": null,
         "certainty": "estimated",
         "source": "Last, The Sokoto Caliphate (1967)"
@@ -55,7 +55,7 @@
     },
     "population": {
       "population": {
-        "value": "10–20 million by 1837.",
+        "value": "Perhaps 10–20 million people by the mid-19th century, one of Africa’s largest states.",
         "year": 1837,
         "certainty": "confirmed",
         "source": "Wikipedia: Sokoto Caliphate (checked 6 Nov 2026)"
@@ -67,7 +67,7 @@
         "source": "Last, The Sokoto Caliphate (1967)"
       },
       "disease": {
-        "value": "Unknown.",
+        "value": "Unknown in detail; the explorer Hugh Clapperton died near Sokoto in 1827.",
         "year": null,
         "certainty": "estimated",
         "source": "Last, The Sokoto Caliphate (1967)"
@@ -93,7 +93,7 @@
         "source": "Last, The Sokoto Caliphate (1967)"
       },
       "wealth": {
-        "value": "No estimate is possible.",
+        "value": "No estimate is possible; Kano was a rich textile centre.",
         "year": null,
         "certainty": "estimated",
         "source": "Last, The Sokoto Caliphate (1967)"
@@ -125,7 +125,7 @@
         "source": "Wikipedia: Sokoto Caliphate (checked 6 Nov 2026)"
       },
       "succession": {
-        "value": "Within the dan Fodio family.",
+        "value": "Caliphs were chosen from among the descendants of Usman dan Fodio.",
         "year": null,
         "certainty": "estimated",
         "source": "Last, The Sokoto Caliphate (1967)"
@@ -137,13 +137,13 @@
         "source": "Last, The Sokoto Caliphate (1967)"
       },
       "stability": {
-        "value": "Fairly stable for a century.",
+        "value": "Fairly stable for a century, held together by Islam and loyalty to the caliph.",
         "year": null,
         "certainty": "estimated",
         "source": "Last, The Sokoto Caliphate (1967)"
       },
       "eliteConflict": {
-        "value": "Rivalries among emirates.",
+        "value": "Rivalries between emirates and revolts by subject peoples.",
         "year": null,
         "certainty": "estimated",
         "source": "Last, The Sokoto Caliphate (1967)"
@@ -151,7 +151,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Cavalry and infantry.",
+        "value": "Cavalry and infantry; few modern guns compared with the British.",
         "year": null,
         "certainty": "estimated",
         "source": "Last, The Sokoto Caliphate (1967)"
@@ -163,13 +163,13 @@
         "source": "Wikipedia: Sokoto Caliphate (checked 6 Nov 2026)"
       },
       "territoryChange": {
-        "value": "Expanded across northern Nigeria.",
+        "value": "Expanded across northern Nigeria and into Niger and Cameroon by 1837.",
         "year": 1837,
         "certainty": "estimated",
         "source": "Last, The Sokoto Caliphate (1967)"
       },
       "alliancesRivals": {
-        "value": "Rivals: Bornu, Oyo.",
+        "value": "Rivals included Bornu and Oyo.",
         "year": null,
         "certainty": "estimated",
         "source": "Last, The Sokoto Caliphate (1967)"
@@ -189,15 +189,21 @@
         "source": "Last, The Sokoto Caliphate (1967)"
       },
       "openness": {
-        "value": "A reform movement.",
+        "value": "A reform movement that encouraged literacy and learning, including for women (Nana Asma’u).",
         "year": null,
         "certainty": "estimated",
         "source": "Last, The Sokoto Caliphate (1967)"
+      },
+      "communicationTransport": {
+        "value": "Horses and donkeys; caravan routes; messengers carrying letters in Arabic.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sokoto Caliphate"
       }
     },
     "culture": {
       "religion": {
-        "value": "Sunni Islam.",
+        "value": "Sunni Islam, with the Qadiriyya Sufi order.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sokoto Caliphate (checked 6 Nov 2026)"
@@ -209,33 +215,39 @@
         "source": "Last, The Sokoto Caliphate (1967)"
       },
       "artsArchitecture": {
-        "value": "Mosques and mud-brick architecture.",
+        "value": "Mosques and palaces in mud brick; the Kano dye pits.",
         "year": null,
         "certainty": "estimated",
         "source": "Last, The Sokoto Caliphate (1967)"
       },
       "socialStructure": {
-        "value": "Fulani elite, Hausa, slaves.",
+        "value": "A Fulani ruling elite, Hausa commoners and many slaves.",
         "year": null,
         "certainty": "estimated",
         "source": "Last, The Sokoto Caliphate (1967)"
       },
       "sharedIdentity": {
-        "value": "Islam.",
+        "value": "Islam united the different peoples of the caliphate.",
         "year": null,
         "certainty": "estimated",
         "source": "Last, The Sokoto Caliphate (1967)"
+      },
+      "dailyLife": {
+        "value": "Mud-walled compounds; millet, sorghum and dairy from Fulani herds.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sokoto Caliphate"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "Bornu, Oyo, Britain, France.",
+        "value": "Bornu, Oyo, Borgu, later the British and French.",
         "year": null,
         "certainty": "estimated",
         "source": "Last, The Sokoto Caliphate (1967)"
       },
       "ideasReligions": {
-        "value": "Islamic reform spread.",
+        "value": "Islamic reform and learning spread through the region.",
         "year": null,
         "certainty": "estimated",
         "source": "Last, The Sokoto Caliphate (1967)"

@@ -35,19 +35,19 @@
         "source": "Seth, A History of Korea (2010)"
       },
       "climate": {
-        "value": "Temperate, with cold winters.",
+        "value": "Temperate, with cold winters and monsoon summers.",
         "year": null,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
       },
       "resources": {
-        "value": "Rice, ginseng and timber.",
+        "value": "Rice, ginseng, timber and fine clay for celadon pottery.",
         "year": null,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
       },
       "disasters": {
-        "value": "No specific disasters are recorded.",
+        "value": "No specific disasters are recorded beyond droughts and floods in the chronicles.",
         "year": null,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
@@ -125,7 +125,7 @@
         "source": "Wikipedia: Goryeo (checked 6 Nov 2026)"
       },
       "succession": {
-        "value": "Hereditary in the Wang family.",
+        "value": "Hereditary in the royal Wang family.",
         "year": null,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
@@ -137,7 +137,7 @@
         "source": "Seth, A History of Korea (2010)"
       },
       "stability": {
-        "value": "Military rule (1170–1270).",
+        "value": "Military officers held real power from 1170 to 1270.",
         "year": 1170,
         "certainty": "confirmed",
         "source": "Wikipedia: Goryeo (checked 6 Nov 2026)"
@@ -163,7 +163,7 @@
         "source": "Wikipedia: Goryeo (checked 6 Nov 2026)"
       },
       "territoryChange": {
-        "value": "A vassal of the Yuan (1270–1356).",
+        "value": "Became a vassal (son-in-law state) of the Mongol Yuan (1270–1356).",
         "year": 1270,
         "certainty": "confirmed",
         "source": "Wikipedia: Goryeo (checked 6 Nov 2026); Seth, A History of Korea (2010)"
@@ -177,7 +177,7 @@
     },
     "technology": {
       "inventions": {
-        "value": "Metal movable type (Jikji, 1377).",
+        "value": "Printing with metal movable type; the Jikji (1377) is the oldest surviving such book.",
         "year": 1377,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
@@ -193,6 +193,12 @@
         "year": null,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
+      },
+      "communicationTransport": {
+        "value": "Post stations along roads; sea trade with Song China from the port of Byeongnando.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Goryeo"
       }
     },
     "culture": {
@@ -225,6 +231,12 @@
         "year": null,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
+      },
+      "dailyLife": {
+        "value": "Tiled houses for nobles, thatched for farmers, with ondol floor heating; rice, vegetables and tea.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Goryeo"
       }
     },
     "connections": {

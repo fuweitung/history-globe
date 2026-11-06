@@ -1,0 +1,321 @@
+{
+  "id": "mexico",
+  "name": "Mexico",
+  "era": "modern",
+  "region": "North America",
+  "startYear": 1821,
+  "endYear": null,
+  "capital": "Mexico City",
+  "capitalCoords": [
+    -99.13,
+    19.43
+  ],
+  "summary": "A federal republic that won independence from Spain in 1821. It lost half its territory to the United States (1848), went through the Mexican Revolution (1910–1920) and is now one of the largest Spanish-speaking countries.",
+  "wikiTitle": "Mexico",
+  "borderNames": [
+    "Mexico"
+  ],
+  "borderYears": [
+    1821,
+    null
+  ],
+  "color": "#2f8f5b",
+  "knownFor": [
+    {
+      "label": "Muralism",
+      "kind": "art",
+      "year": 1922,
+      "note": "Huge public wall paintings by Diego Rivera, Orozco and Siqueiros."
+    },
+    {
+      "label": "Day of the Dead",
+      "kind": "idea",
+      "note": "A festival remembering the dead, mixing Indigenous and Catholic traditions."
+    },
+    {
+      "label": "Maize and chocolate",
+      "kind": "food",
+      "note": "Both were first domesticated in Mexico long before the republic, and remain central to its food."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Southern North America, between the US, Guatemala and Belize; about 2 million km² today (over 4 million km² in 1821).",
+        "year": 1821,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      },
+      "terrain": {
+        "value": "A high central plateau between two mountain ranges (Sierra Madre); deserts in the north; tropical lowlands in the south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      },
+      "climate": {
+        "value": "Dry in the north, temperate on the plateau, tropical in the south and on the coasts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      },
+      "resources": {
+        "value": "Silver (the world’s largest producer), oil (nationalised in 1938), farmland and tourism.",
+        "year": 1938,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      },
+      "disasters": {
+        "value": "Earthquakes (Mexico City 1985), hurricanes and volcanoes such as Popocatépetl.",
+        "year": 1985,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 6 million in 1821; about 130 million today.",
+        "year": 2020,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      },
+      "urbanisation": {
+        "value": "Mexico City is one of the largest cities in the world; rapid urbanisation after 1940.",
+        "year": 1940,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      },
+      "disease": {
+        "value": "Cholera in the 19th century; the 2009 H1N1 flu outbreak began in Mexico.",
+        "year": 2009,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      },
+      "migration": {
+        "value": "Large emigration to the United States, especially since the 1940s.",
+        "year": 1942,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Silver mining and farming; later oil, manufacturing (car factories), tourism and money sent home by migrants.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      },
+      "tradeRoutes": {
+        "value": "Railways under Porfirio Díaz; NAFTA (1994) made the US its main trading partner.",
+        "year": 1994,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      },
+      "wealth": {
+        "value": "An upper-middle-income country with large regional gaps.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      },
+      "moneyAndTax": {
+        "value": "The peso; the 1994 “Tequila crisis”.",
+        "year": 1994,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      },
+      "inequality": {
+        "value": "Large estates (haciendas) until land reform; Indigenous communities have been among the poorest.",
+        "year": 1934,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A federal presidential republic (constitution of 1917); briefly empires in 1822–23 and 1864–67.",
+        "year": 1917,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      },
+      "keyRulers": {
+        "value": "Agustín de Iturbide. Benito Juárez. Porfirio Díaz (1876–1911). Lázaro Cárdenas. Vicente Fox. Andrés Manuel López Obrador. Claudia Sheinbaum (first woman president, 2024).",
+        "year": 1858,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      },
+      "succession": {
+        "value": "One party (the PRI) won every presidential election from 1929 to 2000, when it lost to Vicente Fox.",
+        "year": 2000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      },
+      "institutions": {
+        "value": "Congress, the Supreme Court, 32 federal entities, and the National Electoral Institute.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      },
+      "stability": {
+        "value": "Very unstable in the 19th century; the Mexican Revolution (1910–20); violence linked to drug cartels since 2006.",
+        "year": 1910,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      },
+      "eliteConflict": {
+        "value": "Conflicts between liberals and conservatives (the Reform War, 1857–61).",
+        "year": 1858,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Revolutionary armies (Pancho Villa, Emiliano Zapata).",
+        "year": 1914,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      },
+      "majorWars": {
+        "value": "Texas Revolution (1836); Mexican–American War (1846–48); French intervention (1862–67, the Battle of Puebla); the Revolution.",
+        "year": 1846,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      },
+      "territoryChange": {
+        "value": "Lost about half its territory to the US in 1848 (Treaty of Guadalupe Hidalgo) and more in the Gadsden Purchase (1853).",
+        "year": 1848,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      },
+      "alliancesRivals": {
+        "value": "Close but tense ties with the United States; joined the Allies in 1942.",
+        "year": 1942,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "The colour TV system of González Camarena (patented 1940), the contraceptive pill (synthesis of norethisterone in Mexico City, 1951).",
+        "year": 1951,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      },
+      "scienceEducation": {
+        "value": "UNAM (the National University) is one of the largest universities in the Americas.",
+        "year": 1910,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      },
+      "openness": {
+        "value": "Protectionist and nationalist economy from the 1930s to the 1980s; then free trade.",
+        "year": 1986,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mexico"
+      },
+      "communicationTransport": {
+        "value": "Railways under Porfirio Díaz (about 19,000 km by 1910), highways and the Mexico City Metro (1969).",
+        "year": 1910,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Catholic; the Virgin of Guadalupe is a national symbol; separation of church and state.",
+        "year": 1857,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      },
+      "languageWriting": {
+        "value": "Spanish; 68 Indigenous languages are recognised (Nahuatl and Maya are the largest).",
+        "year": 2003,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      },
+      "artsArchitecture": {
+        "value": "Muralism, Frida Kahlo, mariachi music, and modern architecture (Barragán).",
+        "year": 1930,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      },
+      "socialStructure": {
+        "value": "Mestizo (mixed) majority; inequality between north and south, and for Indigenous peoples.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mexico"
+      },
+      "sharedIdentity": {
+        "value": "National identity celebrates both the Aztec past and the independence and revolution heroes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mexico"
+      },
+      "dailyLife": {
+        "value": "Adobe and concrete houses; tortillas, beans, chili; family and fiestas central to daily life.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "The United States, Guatemala and Belize.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      },
+      "ideasReligions": {
+        "value": "Liberal and secular ideas (Juárez); socialist and agrarian ideas in the Revolution.",
+        "year": 1917,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mexico"
+      },
+      "colonisation": {
+        "value": "A former Spanish colony (New Spain).",
+        "year": 1821,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "The independence war began with Hidalgo’s “Grito de Dolores” (1810) and ended in 1821.",
+        "year": 1810,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      },
+      "peakPeriod": {
+        "value": "The “Mexican miracle” of growth (about 1940–1970).",
+        "year": 1955,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mexico"
+      },
+      "declineSignals": {
+        "value": "The 1982 debt crisis and later cartel violence.",
+        "year": 1982,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mexico"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Mexico; Wikipedia: History of Mexico.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mexico"
+      }
+    }
+  }
+}

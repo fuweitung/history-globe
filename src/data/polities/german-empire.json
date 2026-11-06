@@ -52,7 +52,7 @@
         "source": "Evans, The Pursuit of Power: Europe 1815–1914 (2016)"
       },
       "climate": {
-        "value": "Temperate.",
+        "value": "Temperate: maritime in the north-west, more continental in the east.",
         "year": null,
         "certainty": "estimated",
         "source": "—"
@@ -210,6 +210,12 @@
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: German Empire (checked 5 Nov 2026)"
+      },
+      "communicationTransport": {
+        "value": "A dense railway network, the first motorcars (Benz, 1885) and electric trams.",
+        "year": 1885,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Empire"
       }
     },
     "culture": {
@@ -242,6 +248,12 @@
         "year": 1871,
         "certainty": "estimated",
         "source": "Evans, The Pursuit of Power: Europe 1815–1914 (2016)"
+      },
+      "dailyLife": {
+        "value": "Crowded tenement flats in industrial cities; bread, potatoes, sausages and beer.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Empire"
       }
     },
     "connections": {

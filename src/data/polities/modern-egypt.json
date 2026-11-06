@@ -1,0 +1,324 @@
+{
+  "id": "modern-egypt",
+  "name": "Modern Egypt",
+  "era": "modern",
+  "region": "North Africa & Middle East",
+  "startYear": 1805,
+  "endYear": null,
+  "capital": "Cairo",
+  "capitalCoords": [
+    31.24,
+    30.04
+  ],
+  "datesApproximate": true,
+  "summary": "Egypt from Muhammad Ali’s rise in 1805, through the khedives and British control, to the kingdom (1922) and the republic (1953). It is the most populous Arab country.",
+  "wikiTitle": "Egypt",
+  "borderNames": [
+    "Egypt"
+  ],
+  "borderYears": [
+    1805,
+    null
+  ],
+  "color": "#d1a54a",
+  "knownFor": [
+    {
+      "label": "Suez Canal",
+      "kind": "tool",
+      "year": 1869,
+      "note": "Linked the Mediterranean to the Red Sea; nationalised in 1956."
+    },
+    {
+      "label": "Aswan High Dam",
+      "kind": "monument",
+      "year": 1970,
+      "note": "Controls the Nile flood and produces electricity."
+    },
+    {
+      "label": "Umm Kulthum",
+      "kind": "person",
+      "year": 1950,
+      "note": "Singer celebrated across the Arab world."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "North-east Africa and the Sinai Peninsula, along the Nile; about 1 million km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "terrain": {
+        "value": "Desert almost everywhere except the Nile valley and delta, where nearly everyone lives.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "climate": {
+        "value": "Hot desert climate with almost no rain except on the coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "resources": {
+        "value": "Nile water and farmland, cotton, Suez Canal fees, natural gas, and tourism to ancient sites.",
+        "year": 1869,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "disasters": {
+        "value": "Before the High Dam, high and low Nile floods; earthquakes (Cairo 1992).",
+        "year": 1992,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 4 million in 1800; about 107 million today.",
+        "year": 2024,
+        "certainty": "estimated",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "urbanisation": {
+        "value": "Cairo is the largest city in Africa and the Arab world.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "disease": {
+        "value": "Cholera epidemics in the 19th century and 1947; schistosomiasis spread by irrigation canals.",
+        "year": 1947,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "migration": {
+        "value": "Migration from villages to Cairo; millions work in the Gulf states.",
+        "year": 1975,
+        "certainty": "estimated",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Cotton exports in the 19th century; later the canal, tourism, gas and money sent home by migrants.",
+        "year": 1860,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "tradeRoutes": {
+        "value": "The Suez Canal (1869) made Egypt a hub of world shipping.",
+        "year": 1869,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "wealth": {
+        "value": "Debts from modernisation led to bankruptcy in 1876 and British control.",
+        "year": 1876,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "moneyAndTax": {
+        "value": "The Egyptian pound; recent large devaluations (2016, 2024).",
+        "year": 2016,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "inequality": {
+        "value": "Large landowners until Nasser’s land reform (1952); persistent poverty today.",
+        "year": 1952,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "An Ottoman province ruled by Muhammad Ali’s dynasty; a British protectorate (1914–22); a kingdom (1922–53); a republic since 1953.",
+        "year": 1953,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "keyRulers": {
+        "value": "Muhammad Ali (1805–1848). Khedive Ismail. King Farouk. Gamal Abdel Nasser (1954–1970). Anwar Sadat. Hosni Mubarak. Abdel Fattah el-Sisi.",
+        "year": 1805,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "succession": {
+        "value": "Hereditary rulers until 1953; since then presidents mostly from the military.",
+        "year": 1953,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "institutions": {
+        "value": "The army, a strong central state, Al-Azhar university, and parliament.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "stability": {
+        "value": "The 1952 revolution, the 2011 uprising that removed Mubarak, and the 2013 military takeover.",
+        "year": 2011,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "eliteConflict": {
+        "value": "Struggles between the king, the Wafd party and the British; later between the army and the Muslim Brotherhood.",
+        "year": 1952,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "A modern conscript army created by Muhammad Ali; today one of the largest armies in the region.",
+        "year": 1820,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "majorWars": {
+        "value": "Campaigns in Arabia, Sudan and Syria under Muhammad Ali; the Suez Crisis (1956); wars with Israel (1948, 1967, 1973).",
+        "year": 1973,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "territoryChange": {
+        "value": "Ruled Sudan jointly with Britain until 1956; lost Sinai in 1967 and regained it by 1982.",
+        "year": 1982,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "alliancesRivals": {
+        "value": "Allied with the Soviet Union under Nasser, then with the US after peace with Israel (Camp David, 1978).",
+        "year": 1978,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Printing press at Bulaq (1820s), railways (1854, the first in Africa), the High Dam.",
+        "year": 1854,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "scienceEducation": {
+        "value": "Cairo University (1908); Al-Azhar; a large education system.",
+        "year": 1908,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "openness": {
+        "value": "Open to European ideas in the 19th century (Nahda revival); closed periods under Nasser’s socialism.",
+        "year": 1860,
+        "certainty": "estimated",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "communicationTransport": {
+        "value": "Railways (Africa’s first, 1854), the Suez Canal (1869), the Cairo Metro (1987) and the internet.",
+        "year": 1854,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sunni Islam (majority); Coptic Christians (about 10%).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "languageWriting": {
+        "value": "Egyptian Arabic; Cairo is a centre of Arabic publishing, film and music.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "artsArchitecture": {
+        "value": "Arabic cinema, Naguib Mahfouz (Nobel Prize, 1988), Umm Kulthum.",
+        "year": 1988,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "socialStructure": {
+        "value": "Large peasant population (fellahin); a growing urban middle class.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "sharedIdentity": {
+        "value": "A long national identity linking ancient Egypt, Islam and Arab culture.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "dailyLife": {
+        "value": "Village mud-brick houses and crowded city apartments; ful (beans), bread (aish), koshari and tea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Libya, Sudan, Israel, the Gaza Strip; Saudi Arabia across the Red Sea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "ideasReligions": {
+        "value": "European science and law (19th century); Arab nationalism (Nasser); Islamism.",
+        "year": 1956,
+        "certainty": "estimated",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "colonisation": {
+        "value": "Under British occupation from 1882; Britain kept troops until 1956.",
+        "year": 1882,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Muhammad Ali built a modern army and state after the French left (1801).",
+        "year": 1805,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "peakPeriod": {
+        "value": "Nasser’s leadership of the Arab world in the 1950s–60s.",
+        "year": 1960,
+        "certainty": "estimated",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "declineSignals": {
+        "value": "Debt, defeat in 1967 and economic problems.",
+        "year": 1967,
+        "certainty": "estimated",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Egypt; Wikipedia: History of modern Egypt; Fahmy, All the Pasha’s Men (1997).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Egypt; Wikipedia: History of modern Egypt"
+      }
+    }
+  }
+}

@@ -48,7 +48,7 @@
         "source": "Saunders, A History of Brunei (2002)"
       },
       "disasters": {
-        "value": "No major disasters are recorded.",
+        "value": "No major natural disasters are recorded; fires in the water villages.",
         "year": null,
         "certainty": "estimated",
         "source": "Saunders, A History of Brunei (2002)"
@@ -56,7 +56,7 @@
     },
     "population": {
       "population": {
-        "value": "No reliable estimate.",
+        "value": "No reliable estimate; Kampong Ayer was described by visitors in 1521 as a large water town.",
         "year": null,
         "certainty": "estimated",
         "source": "Saunders, A History of Brunei (2002)"
@@ -114,7 +114,7 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A Malay sultanate.",
+        "value": "A Malay sultanate, with the sultan as head of state and religion.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sultanate of Brunei (1368–1888) (checked 6 Nov 2026); Saunders, A History of Brunei (2002)"
@@ -126,13 +126,13 @@
         "source": "Wikipedia: Sultanate of Brunei (1368–1888) (checked 6 Nov 2026)"
       },
       "succession": {
-        "value": "Hereditary, often disputed.",
+        "value": "Hereditary in the royal family, often disputed.",
         "year": null,
         "certainty": "estimated",
         "source": "Saunders, A History of Brunei (2002)"
       },
       "institutions": {
-        "value": "Viziers (wazir) and Islamic law.",
+        "value": "Viziers (wazir) who ran the government, and Islamic law.",
         "year": null,
         "certainty": "estimated",
         "source": "Saunders, A History of Brunei (2002)"
@@ -144,7 +144,7 @@
         "source": "Saunders, A History of Brunei (2002)"
       },
       "eliteConflict": {
-        "value": "Rival claimants to the throne.",
+        "value": "A civil war between rival claimants to the throne (1660–1673).",
         "year": 1660,
         "certainty": "estimated",
         "source": "Saunders, A History of Brunei (2002)"
@@ -170,7 +170,7 @@
         "source": "Saunders, A History of Brunei (2002)"
       },
       "alliancesRivals": {
-        "value": "Rivals: Spain, Sulu and later Britain.",
+        "value": "Rivals included Spain, Sulu and later the British Raja of Sarawak.",
         "year": null,
         "certainty": "estimated",
         "source": "Saunders, A History of Brunei (2002)"
@@ -178,7 +178,7 @@
     },
     "technology": {
       "inventions": {
-        "value": "Bronze-casting of cannon and gongs.",
+        "value": "Skilled bronze-casting of cannons and gongs.",
         "year": null,
         "certainty": "estimated",
         "source": "Saunders, A History of Brunei (2002)"
@@ -194,11 +194,17 @@
         "year": null,
         "certainty": "estimated",
         "source": "Saunders, A History of Brunei (2002)"
+      },
+      "communicationTransport": {
+        "value": "Boats on rivers and the sea; a trading fleet across Borneo and the Philippines.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sultanate of Brunei (1368–1888)"
       }
     },
     "culture": {
       "religion": {
-        "value": "Sunni Islam.",
+        "value": "Sunni Islam, adopted by the rulers around the 15th century.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sultanate of Brunei (1368–1888) (checked 6 Nov 2026); Saunders, A History of Brunei (2002)"
@@ -210,7 +216,7 @@
         "source": "Wikipedia: Sultanate of Brunei (1368–1888) (checked 6 Nov 2026)"
       },
       "artsArchitecture": {
-        "value": "Water villages and brassware.",
+        "value": "Water villages on stilts (Kampong Ayer) and brassware.",
         "year": null,
         "certainty": "estimated",
         "source": "Saunders, A History of Brunei (2002)"
@@ -226,6 +232,12 @@
         "year": null,
         "certainty": "estimated",
         "source": "Saunders, A History of Brunei (2002)"
+      },
+      "dailyLife": {
+        "value": "Houses on stilts over the water at Kampong Ayer; rice, sago, fish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Brunei (1368–1888)"
       }
     },
     "connections": {
@@ -242,7 +254,7 @@
         "source": "Saunders, A History of Brunei (2002)"
       },
       "colonisation": {
-        "value": "British protectorate from 1888.",
+        "value": "Lost most of its land to Sarawak and North Borneo; a British protectorate from 1888.",
         "year": 1888,
         "certainty": "confirmed",
         "source": "Wikipedia: Sultanate of Brunei (1368–1888) (checked 6 Nov 2026)"

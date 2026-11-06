@@ -8,7 +8,7 @@
   "datesApproximate": true,
   "capital": "Jolo",
   "capitalCoords": [
-    121.0,
+    121,
     6.05
   ],
   "summary": "A Muslim Tausug sultanate in the Sulu Archipelago, with power reaching Palawan and north-eastern Borneo. It thrived on sea trade and resisted Spain for centuries.",
@@ -24,13 +24,13 @@
         "source": "Wikipedia: Sultanate of Sulu (checked 6 Nov 2026)"
       },
       "terrain": {
-        "value": "Volcanic islands, coral reefs and seas.",
+        "value": "The Sulu Archipelago of volcanic and coral islands between Mindanao and Borneo, surrounded by shallow seas and reefs.",
         "year": null,
         "certainty": "estimated",
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
       },
       "climate": {
-        "value": "Equatorial.",
+        "value": "Equatorial: hot and wet all year, mostly south of the main typhoon belt.",
         "year": null,
         "certainty": "estimated",
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
@@ -42,7 +42,7 @@
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
       },
       "disasters": {
-        "value": "Typhoons are rare; earthquakes.",
+        "value": "Typhoons are rare this far south; earthquakes and tsunamis (such as the 1897 Mindanao earthquake) occurred.",
         "year": null,
         "certainty": "estimated",
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
@@ -50,19 +50,19 @@
     },
     "population": {
       "population": {
-        "value": "No reliable estimate.",
+        "value": "No reliable estimate; perhaps around 100,000 or more in the 18th–19th centuries.",
         "year": null,
         "certainty": "estimated",
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
       },
       "urbanisation": {
-        "value": "Jolo was the capital and port.",
+        "value": "Jolo was the capital and a busy port with a market for traders from many countries.",
         "year": null,
         "certainty": "estimated",
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
       },
       "disease": {
-        "value": "Unknown.",
+        "value": "Unknown in detail; smallpox and cholera spread through trading ports.",
         "year": null,
         "certainty": "estimated",
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
@@ -94,7 +94,7 @@
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
       },
       "moneyAndTax": {
-        "value": "Trade goods and silver.",
+        "value": "Trade in pearls, sea cucumbers and slaves; Spanish silver dollars and Chinese goods were used in exchange.",
         "year": null,
         "certainty": "estimated",
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
@@ -108,7 +108,7 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A sultanate with powerful datus.",
+        "value": "A sultanate in which the sultan shared power with powerful local chiefs (datus).",
         "year": null,
         "certainty": "estimated",
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
@@ -120,25 +120,25 @@
         "source": "Wikipedia: Sultanate of Sulu (checked 6 Nov 2026)"
       },
       "succession": {
-        "value": "Elected from the royal family by datus.",
+        "value": "Sultans were chosen from the royal family by a council of datus, which often led to disputes.",
         "year": null,
         "certainty": "estimated",
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
       },
       "institutions": {
-        "value": "Islamic law and a council of datus.",
+        "value": "Islamic law (with local custom), a council of datus, and religious officials.",
         "year": null,
         "certainty": "estimated",
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
       },
       "stability": {
-        "value": "Long-lasting despite wars with Spain.",
+        "value": "Lasted about five centuries despite three centuries of wars with Spain.",
         "year": null,
         "certainty": "estimated",
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
       },
       "eliteConflict": {
-        "value": "Rival datus.",
+        "value": "Rival datus and claimants to the throne competed for power and trade.",
         "year": null,
         "certainty": "estimated",
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
@@ -146,13 +146,13 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Fast ships and swords (kris, barong).",
+        "value": "Fast outrigger warships (lanong) and swords such as the kris and barong; cannons from traders.",
         "year": null,
         "certainty": "estimated",
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
       },
       "majorWars": {
-        "value": "The Moro Wars with Spain; later the US.",
+        "value": "The long Moro Wars with Spain (16th–19th centuries); the Moro Rebellion against the US (1899–1913).",
         "year": null,
         "certainty": "estimated",
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
@@ -164,7 +164,7 @@
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
       },
       "alliancesRivals": {
-        "value": "Rivals: Spain; partners: Britain.",
+        "value": "Rival of Spain; dealt with Britain, which leased North Borneo from Sulu in 1878.",
         "year": null,
         "certainty": "estimated",
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
@@ -172,65 +172,77 @@
     },
     "technology": {
       "inventions": {
-        "value": "Little is known.",
+        "value": "Little is known; skilled boat-building and pearl diving.",
         "year": null,
         "certainty": "estimated",
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
       },
       "scienceEducation": {
-        "value": "Islamic learning.",
+        "value": "Islamic learning in mosques and Qur’an schools.",
         "year": null,
         "certainty": "estimated",
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
       },
       "openness": {
-        "value": "Traded with Chinese and Europeans.",
+        "value": "Traded widely with Chinese, British and other merchants, especially in the 18th century.",
         "year": null,
         "certainty": "estimated",
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
+      },
+      "communicationTransport": {
+        "value": "Outrigger boats and fast warships connected the islands.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sultanate of Sulu"
       }
     },
     "culture": {
       "religion": {
-        "value": "Sunni Islam.",
+        "value": "Sunni Islam, brought by traders and missionaries from the late 14th century.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sultanate of Sulu (checked 6 Nov 2026)"
       },
       "languageWriting": {
-        "value": "Tausug, written in Jawi.",
+        "value": "Tausug, written in the Arabic-based Jawi script; Malay was used in diplomacy.",
         "year": null,
         "certainty": "estimated",
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
       },
       "artsArchitecture": {
-        "value": "Okir carving.",
+        "value": "Okir carving with flowing plant designs; decorated boats and weapons.",
         "year": null,
         "certainty": "estimated",
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
       },
       "socialStructure": {
-        "value": "Sultan, datus, commoners, slaves.",
+        "value": "Sultan, datus, commoners and slaves (often captured in raids).",
         "year": null,
         "certainty": "estimated",
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
       },
       "sharedIdentity": {
-        "value": "Tausug Muslim identity.",
+        "value": "A Tausug Muslim identity, distinct from the Christian north of the Philippines.",
         "year": null,
         "certainty": "estimated",
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
+      },
+      "dailyLife": {
+        "value": "Houses on stilts over water; fish, cassava and rice.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sultanate of Sulu"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "Brunei, Maguindanao, Spain.",
+        "value": "The Sultanate of Brunei, the Sultanate of Maguindanao, Spanish Philippines and British Borneo.",
         "year": null,
         "certainty": "estimated",
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
       },
       "ideasReligions": {
-        "value": "Islam.",
+        "value": "Helped spread Islam in the southern Philippines and northern Borneo.",
         "year": null,
         "certainty": "estimated",
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
@@ -250,19 +262,19 @@
         "source": "Wikipedia: Sultanate of Sulu (checked 6 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "18th century trade boom.",
+        "value": "The late 18th century, when trade with China and British merchants boomed.",
         "year": 1780,
         "certainty": "estimated",
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
       },
       "declineSignals": {
-        "value": "Spanish and US attacks.",
+        "value": "Spanish attacks (Jolo was taken in 1876) and then US rule weakened the sultan.",
         "year": 1876,
         "certainty": "estimated",
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"
       },
       "outcome": {
-        "value": "Ended in 1915 under US rule.",
+        "value": "The sultan gave up political power to the US in 1915; the royal title continues today.",
         "year": 1915,
         "certainty": "estimated",
         "source": "Warren, The Sulu Zone 1768–1898 (1981)"

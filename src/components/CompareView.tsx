@@ -46,7 +46,7 @@ export default function CompareView({ a, b, onChange, onOpenPolity, onJumpToYear
     <div className="pb-8">
       <div className="px-5 pt-4 md:pt-5">
         <h2 className="font-display pr-10 text-2xl font-bold text-parchment-50">Compare</h2>
-        <p className="mt-1 text-xs text-parchment-400">Put two civilisations side by side on the same 41-element template.</p>
+        <p className="mt-1 text-xs text-parchment-400">Put two civilisations side by side on the same 43-element template.</p>
         <div className="mt-3 flex items-center gap-2">
           <Picker value={a} other={b} color={SERIES_COLORS[0]} onChange={(v) => onChange(v, b)} label="First civilisation" />
           <button

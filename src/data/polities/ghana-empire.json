@@ -75,7 +75,7 @@
     },
     "population": {
       "population": {
-        "value": "No reliable estimate.",
+        "value": "No reliable estimate; the capital may have had 15,000–20,000 people.",
         "year": null,
         "certainty": "estimated",
         "source": "Levtzion, Ancient Ghana and Mali (1973)"
@@ -125,7 +125,7 @@
         "source": "Levtzion, Ancient Ghana and Mali (1973)"
       },
       "inequality": {
-        "value": "The king owned all gold nuggets.",
+        "value": "According to al-Bakri, the king kept all gold nuggets, leaving only gold dust to traders.",
         "year": null,
         "certainty": "estimated",
         "source": "Levtzion, Ancient Ghana and Mali (1973)"
@@ -133,7 +133,7 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A monarchy over tributary chiefs.",
+        "value": "A monarchy ruling over tributary chiefs.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ghana Empire (checked 6 Nov 2026); Levtzion, Ancient Ghana and Mali (1973)"
@@ -157,7 +157,7 @@
         "source": "Levtzion, Ancient Ghana and Mali (1973)"
       },
       "stability": {
-        "value": "Long-lived, based on trade wealth.",
+        "value": "Long-lived, based on the wealth of the gold trade.",
         "year": null,
         "certainty": "estimated",
         "source": "Levtzion, Ancient Ghana and Mali (1973)"
@@ -183,13 +183,13 @@
         "source": "Wikipedia: Ghana Empire (checked 6 Nov 2026)"
       },
       "territoryChange": {
-        "value": "About 650,000 km² in 1000.",
+        "value": "Perhaps about 650,000 km² at its height around 1000.",
         "year": 1000,
         "certainty": "confirmed",
         "source": "Wikipedia: Ghana Empire (checked 6 Nov 2026)"
       },
       "alliancesRivals": {
-        "value": "Rivals: the Almoravids and the Sosso.",
+        "value": "Rivals included the Almoravids and later the Sosso.",
         "year": null,
         "certainty": "estimated",
         "source": "Levtzion, Ancient Ghana and Mali (1973)"
@@ -213,6 +213,12 @@
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ghana Empire (checked 6 Nov 2026); Levtzion, Ancient Ghana and Mali (1973)"
+      },
+      "communicationTransport": {
+        "value": "Camel caravans across the Sahara carried gold north and salt south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ghana Empire"
       }
     },
     "culture": {
@@ -245,6 +251,12 @@
         "year": null,
         "certainty": "estimated",
         "source": "Levtzion, Ancient Ghana and Mali (1973)"
+      },
+      "dailyLife": {
+        "value": "Round houses of clay and thatch; stone houses in the Muslim traders’ town; millet, sorghum and meat.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ghana Empire"
       }
     },
     "connections": {
@@ -255,7 +267,7 @@
         "source": "Wikipedia: Ghana Empire (checked 6 Nov 2026); Levtzion, Ancient Ghana and Mali (1973)"
       },
       "ideasReligions": {
-        "value": "Islam spread through traders.",
+        "value": "Islam spread through Muslim traders, who lived in their own town at the capital.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ghana Empire (checked 6 Nov 2026); Levtzion, Ancient Ghana and Mali (1973)"
@@ -269,13 +281,13 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Control of the gold trade.",
+        "value": "Control of the gold trade between the gold fields and the Sahara.",
         "year": 300,
         "certainty": "confirmed",
         "source": "Wikipedia: Ghana Empire (checked 6 Nov 2026); Levtzion, Ancient Ghana and Mali (1973)"
       },
       "peakPeriod": {
-        "value": "About the 10th–11th centuries.",
+        "value": "About the 10th and 11th centuries.",
         "year": 1000,
         "certainty": "estimated",
         "source": "Levtzion, Ancient Ghana and Mali (1973)"

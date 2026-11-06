@@ -65,7 +65,7 @@
         "source": "Janusek, Ancient Tiwanaku (2008)"
       },
       "disasters": {
-        "value": "A long drought from about 1000 CE.",
+        "value": "A long drought from about 1000 CE damaged farming.",
         "year": 1000,
         "certainty": "estimated",
         "source": "Janusek, Ancient Tiwanaku (2008)"
@@ -137,7 +137,7 @@
         "source": "Janusek, Ancient Tiwanaku (2008)"
       },
       "keyRulers": {
-        "value": "No rulers are known by name.",
+        "value": "No rulers are known by name; there was no writing.",
         "year": null,
         "certainty": "estimated",
         "source": "Janusek, Ancient Tiwanaku (2008)"
@@ -149,7 +149,7 @@
         "source": "Janusek, Ancient Tiwanaku (2008)"
       },
       "institutions": {
-        "value": "Little is known.",
+        "value": "Little is known; large temples suggest strong religious leadership.",
         "year": null,
         "certainty": "estimated",
         "source": "Janusek, Ancient Tiwanaku (2008)"
@@ -169,7 +169,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Little evidence of warfare.",
+        "value": "Little evidence of warfare; influence spread through trade and religion.",
         "year": null,
         "certainty": "estimated",
         "source": "Janusek, Ancient Tiwanaku (2008)"
@@ -187,7 +187,7 @@
         "source": "Janusek, Ancient Tiwanaku (2008)"
       },
       "alliancesRivals": {
-        "value": "Rival and partner: the Wari state.",
+        "value": "Both rival and partner of the Wari state to the north-west.",
         "year": null,
         "certainty": "estimated",
         "source": "Janusek, Ancient Tiwanaku (2008)"
@@ -201,16 +201,22 @@
         "source": "Janusek, Ancient Tiwanaku (2008)"
       },
       "scienceEducation": {
-        "value": "No written language.",
+        "value": "No written language; skill in raised-field farming and stone working.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Tiwanaku (checked 6 Nov 2026); Janusek, Ancient Tiwanaku (2008)"
       },
       "openness": {
-        "value": "Unknown.",
+        "value": "Unknown; it had colonies and trade links with distant valleys.",
         "year": null,
         "certainty": "estimated",
         "source": "Janusek, Ancient Tiwanaku (2008)"
+      },
+      "communicationTransport": {
+        "value": "Llama caravans carried goods between Lake Titicaca and the coast; reed boats on the lake.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tiwanaku"
       }
     },
     "culture": {
@@ -233,7 +239,7 @@
         "source": "Wikipedia: Tiwanaku (checked 6 Nov 2026)"
       },
       "socialStructure": {
-        "value": "Elite, priests, farmers and herders.",
+        "value": "An elite, priests, craftspeople, farmers and llama herders.",
         "year": null,
         "certainty": "estimated",
         "source": "Janusek, Ancient Tiwanaku (2008)"
@@ -243,6 +249,12 @@
         "year": null,
         "certainty": "estimated",
         "source": "Janusek, Ancient Tiwanaku (2008)"
+      },
+      "dailyLife": {
+        "value": "Stone and adobe houses; potatoes, quinoa and llama meat; freeze-dried potato (chuño).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Tiwanaku"
       }
     },
     "connections": {

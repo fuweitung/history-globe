@@ -1,0 +1,321 @@
+{
+  "id": "argentina",
+  "name": "Argentina",
+  "era": "modern",
+  "region": "South America",
+  "startYear": 1816,
+  "endYear": null,
+  "capital": "Buenos Aires",
+  "capitalCoords": [
+    -58.38,
+    -34.6
+  ],
+  "summary": "A South American republic that declared independence from Spain in 1816. In the early 20th century it was one of the richest countries in the world; later it went through coups, debt crises and recovery.",
+  "wikiTitle": "Argentina",
+  "borderNames": [
+    "Argentina"
+  ],
+  "borderYears": [
+    1816,
+    null
+  ],
+  "color": "#5fa8d3",
+  "knownFor": [
+    {
+      "label": "Tango",
+      "kind": "art",
+      "year": 1890,
+      "note": "A dance and music born in the port neighbourhoods of Buenos Aires and Montevideo."
+    },
+    {
+      "label": "Gauchos",
+      "kind": "troops",
+      "note": "Horse-riding cattle herders of the pampas, also important as soldiers in the independence wars."
+    },
+    {
+      "label": "Asado",
+      "kind": "food",
+      "note": "Beef grilled over wood fire, part of national life."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Southern South America, from the subtropical north to Tierra del Fuego; about 2.8 million km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      },
+      "terrain": {
+        "value": "The fertile Pampas plains, the Andes in the west (Aconcagua, the highest peak in the Americas), Patagonia in the south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      },
+      "climate": {
+        "value": "Temperate in the Pampas; subtropical in the north; cold and windy in Patagonia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      },
+      "resources": {
+        "value": "Some of the best farmland in the world, cattle, wheat, soybeans, lithium, and shale gas (Vaca Muerta).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      },
+      "disasters": {
+        "value": "Floods on the Pampas, droughts, and earthquakes in the Andes (San Juan, 1944).",
+        "year": 1944,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 1.8 million in 1869; about 46 million today.",
+        "year": 2022,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      },
+      "urbanisation": {
+        "value": "Highly urban; about a third of people live in Greater Buenos Aires.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      },
+      "disease": {
+        "value": "Yellow fever in Buenos Aires (1871) killed about 8% of the city.",
+        "year": 1871,
+        "certainty": "estimated",
+        "source": "Wikipedia: Argentina"
+      },
+      "migration": {
+        "value": "Huge immigration from Italy and Spain (about 6 million arrivals, 1857–1930).",
+        "year": 1900,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Exports of beef, wheat and wool; later industry; today soybeans, cars and energy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      },
+      "tradeRoutes": {
+        "value": "Railways (many British-built) carried crops to the port of Buenos Aires for Europe.",
+        "year": 1890,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      },
+      "wealth": {
+        "value": "Among the world’s richest countries around 1900–1914; repeated crises since.",
+        "year": 1910,
+        "certainty": "estimated",
+        "source": "Wikipedia: Argentina"
+      },
+      "moneyAndTax": {
+        "value": "Several currencies; high inflation and defaults (1989, 2001); the peso was pegged to the dollar 1991–2001.",
+        "year": 2001,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      },
+      "inequality": {
+        "value": "Land was concentrated in large estates (estancias); workers’ movements grew in the 20th century.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Argentina"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A federal presidential republic; interrupted by military coups (1930, 1955, 1966, 1976).",
+        "year": 1930,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      },
+      "keyRulers": {
+        "value": "José de San Martín (independence). Domingo Sarmiento. Juan Perón and Eva Perón. Raúl Alfonsín. Néstor and Cristina Kirchner. Javier Milei.",
+        "year": 1946,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      },
+      "succession": {
+        "value": "Elections, often interrupted by coups until 1983; democracy since then.",
+        "year": 1983,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      },
+      "institutions": {
+        "value": "The 1853 constitution, Congress, provinces, the Supreme Court.",
+        "year": 1853,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      },
+      "stability": {
+        "value": "Civil wars in the 19th century; the last military dictatorship (1976–83) caused the “disappearance” of thousands of people (estimates range from about 9,000 to 30,000).",
+        "year": 1976,
+        "certainty": "disputed",
+        "source": "Wikipedia: Argentina"
+      },
+      "eliteConflict": {
+        "value": "Long conflict between Buenos Aires and the provinces; later between Peronists and anti-Peronists.",
+        "year": 1955,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Armies of independence (San Martín crossed the Andes in 1817).",
+        "year": 1817,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      },
+      "majorWars": {
+        "value": "Wars of independence; the War of the Triple Alliance against Paraguay (1864–70); the Falklands War with Britain (1982).",
+        "year": 1982,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      },
+      "territoryChange": {
+        "value": "Took Patagonia from Indigenous peoples in the “Conquest of the Desert” (1878–85).",
+        "year": 1879,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      },
+      "alliancesRivals": {
+        "value": "Rivalries with Brazil and Chile; founding member of Mercosur (1991).",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Fingerprint classification for police (Vucetich, 1891), the ballpoint pen (developed by Bíró in Buenos Aires, 1943), the bus (colectivo).",
+        "year": 1891,
+        "certainty": "estimated",
+        "source": "Wikipedia: Argentina"
+      },
+      "scienceEducation": {
+        "value": "Free public education (1884 law); Nobel prizes in science (Houssay, Leloir, Milstein).",
+        "year": 1884,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      },
+      "openness": {
+        "value": "Very open to immigration and trade before 1930; more protectionist after.",
+        "year": 1930,
+        "certainty": "estimated",
+        "source": "Wikipedia: Argentina"
+      },
+      "communicationTransport": {
+        "value": "British-built railways across the Pampas (by 1914 about 33,000 km); the port of Buenos Aires.",
+        "year": 1914,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mainly Catholic; Pope Francis (elected 2013) was Argentine.",
+        "year": 2013,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      },
+      "languageWriting": {
+        "value": "Spanish, with an Italian-influenced accent (Rioplatense).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      },
+      "artsArchitecture": {
+        "value": "Tango, the writer Jorge Luis Borges, Buenos Aires architecture, football.",
+        "year": 1940,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      },
+      "socialStructure": {
+        "value": "A large middle class for Latin America, but rising poverty during crises.",
+        "year": 2001,
+        "certainty": "estimated",
+        "source": "Wikipedia: Argentina"
+      },
+      "sharedIdentity": {
+        "value": "A strong sense of national identity built on immigration, the gaucho and the Malvinas/Falklands claim.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Argentina"
+      },
+      "dailyLife": {
+        "value": "City apartments and conventillos for immigrants; estancias on the Pampas; beef, bread, mate tea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Chile, Bolivia, Paraguay, Brazil and Uruguay.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      },
+      "ideasReligions": {
+        "value": "Liberal ideas from Europe; later Peronism, a movement mixing nationalism and workers’ rights.",
+        "year": 1946,
+        "certainty": "estimated",
+        "source": "Wikipedia: Argentina"
+      },
+      "colonisation": {
+        "value": "Claims the Falkland Islands (Malvinas), held by Britain since 1833.",
+        "year": 1833,
+        "certainty": "disputed",
+        "source": "Wikipedia: Argentina"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "The May Revolution (1810) in Buenos Aires and independence (1816) from Spain.",
+        "year": 1816,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      },
+      "peakPeriod": {
+        "value": "The “golden age” of farm exports, about 1880–1914.",
+        "year": 1900,
+        "certainty": "estimated",
+        "source": "Wikipedia: Argentina"
+      },
+      "declineSignals": {
+        "value": "Political instability, coups and repeated debt crises after 1930.",
+        "year": 1930,
+        "certainty": "estimated",
+        "source": "Wikipedia: Argentina"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Argentina; Wikipedia: History of Argentina.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Argentina"
+      },
+      "overallCertainty": {
+        "value": "Well documented; numbers of victims of the dictatorship are disputed.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Argentina"
+      }
+    }
+  }
+}

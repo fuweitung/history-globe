@@ -71,7 +71,7 @@
         "source": "Irwin, The Middle East in the Middle Ages (1986)"
       },
       "disasters": {
-        "value": "The Black Death (1347–1348).",
+        "value": "The Black Death (1347–1348) killed perhaps a third of Egypt’s people.",
         "year": 1347,
         "certainty": "estimated",
         "source": "Irwin, The Middle East in the Middle Ages (1986)"
@@ -79,7 +79,7 @@
     },
     "population": {
       "population": {
-        "value": "No reliable estimate.",
+        "value": "No reliable estimate; Cairo was among the largest cities in the world.",
         "year": null,
         "certainty": "estimated",
         "source": "Irwin, The Middle East in the Middle Ages (1986)"
@@ -187,7 +187,7 @@
         "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026)"
       },
       "territoryChange": {
-        "value": "Took Acre in 1291.",
+        "value": "Took Acre in 1291, ending the Crusader states.",
         "year": 1291,
         "certainty": "estimated",
         "source": "Irwin, The Middle East in the Middle Ages (1986)"
@@ -201,7 +201,7 @@
     },
     "technology": {
       "inventions": {
-        "value": "Little is known.",
+        "value": "Little is known; famous glass, metalwork and hospitals (Bimaristan of Qalawun).",
         "year": null,
         "certainty": "estimated",
         "source": "Irwin, The Middle East in the Middle Ages (1986)"
@@ -217,6 +217,12 @@
         "year": null,
         "certainty": "estimated",
         "source": "Irwin, The Middle East in the Middle Ages (1986)"
+      },
+      "communicationTransport": {
+        "value": "Carrier-pigeon post and a horse post (barid); Nile boats; the spice route through the Red Sea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mamluk Sultanate"
       }
     },
     "culture": {
@@ -249,6 +255,12 @@
         "year": null,
         "certainty": "estimated",
         "source": "Irwin, The Middle East in the Middle Ages (1986)"
+      },
+      "dailyLife": {
+        "value": "Crowded multi-storey houses in Cairo; bread, beans (ful), lentils and sugar sweets; public fountains.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mamluk Sultanate"
       }
     },
     "connections": {
@@ -279,13 +291,13 @@
         "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026); Irwin, The Middle East in the Middle Ages (1986)"
       },
       "peakPeriod": {
-        "value": "Under al-Nasir Muhammad (1310–1341).",
+        "value": "Under al-Nasir Muhammad (reigned three times, 1293–1341).",
         "year": 1310,
         "certainty": "estimated",
         "source": "Irwin, The Middle East in the Middle Ages (1986)"
       },
       "declineSignals": {
-        "value": "The Black Death and the loss of trade.",
+        "value": "The Black Death and the loss of the spice trade to the Portuguese.",
         "year": 1347,
         "certainty": "estimated",
         "source": "Irwin, The Middle East in the Middle Ages (1986)"

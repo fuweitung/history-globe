@@ -8,7 +8,7 @@
   "capital": "Almaliq; Qarshi",
   "capitalCoords": [
     80.9,
-    44.0
+    44
   ],
   "summary": "The Mongol khanate of Central Asia, ruled by descendants of Genghis Khan’s second son Chagatai. Its western half was taken by Timur.",
   "wikiTitle": "Chagatai Khanate",
@@ -52,7 +52,7 @@
         "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
       },
       "climate": {
-        "value": "Continental and dry.",
+        "value": "Continental and dry, with cold winters and hot summers.",
         "year": null,
         "certainty": "estimated",
         "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
@@ -84,7 +84,7 @@
         "source": "Wikipedia: Chagatai Khanate (checked 6 Nov 2026); Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
       },
       "disease": {
-        "value": "No specific epidemics are recorded.",
+        "value": "No specific epidemics are recorded, though the Black Death may have passed through in the 1330s–40s.",
         "year": null,
         "certainty": "estimated",
         "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
@@ -148,7 +148,7 @@
         "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
       },
       "institutions": {
-        "value": "The kurultai assembly chose khans.",
+        "value": "The kurultai assembly of princes chose khans; Mongol law (yasa).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Chagatai Khanate (checked 6 Nov 2026); Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
@@ -180,7 +180,7 @@
         "source": "Wikipedia: Chagatai Khanate (checked 6 Nov 2026); Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
       },
       "territoryChange": {
-        "value": "About 3.4 million km² (1310 or 1350).",
+        "value": "At its largest about 3.4 million km² (around 1310–1350), from the Amu Darya to the Altai.",
         "year": 1310,
         "certainty": "confirmed",
         "source": "Wikipedia: Chagatai Khanate (checked 6 Nov 2026); Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
@@ -210,6 +210,12 @@
         "year": null,
         "certainty": "estimated",
         "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      },
+      "communicationTransport": {
+        "value": "The yam relay system and Silk Road caravans.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Chagatai Khanate"
       }
     },
     "culture": {
@@ -226,7 +232,7 @@
         "source": "Wikipedia: Chagatai Khanate (checked 6 Nov 2026); Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
       },
       "artsArchitecture": {
-        "value": "Little is known.",
+        "value": "Little survives; the Tughlugh Timur mausoleum (14th century) is one example.",
         "year": null,
         "certainty": "estimated",
         "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
@@ -242,6 +248,12 @@
         "year": null,
         "certainty": "estimated",
         "source": "Biran, Qaidu and the Rise of the Independent Mongol State (1997)"
+      },
+      "dailyLife": {
+        "value": "Nomads in felt tents; townspeople in mud-brick houses in oasis cities; meat, milk, bread and fruit.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Chagatai Khanate"
       }
     },
     "connections": {

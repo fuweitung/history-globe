@@ -1068,5 +1068,145 @@
     "toPolityId": "singapore",
     "relation": "colonised",
     "year": 1819
+  },
+  {
+    "fromPolityId": "kievan-rus",
+    "toPolityId": "muscovy",
+    "relation": "succeeded",
+    "year": 1283,
+    "note": "Moscow grew out of the north-eastern lands of the former Kyivan Rus."
+  },
+  {
+    "fromPolityId": "golden-horde",
+    "toPolityId": "muscovy",
+    "relation": "conquered",
+    "year": 1480,
+    "note": "Moscow stopped paying tribute after the Great Stand on the Ugra River."
+  },
+  {
+    "fromPolityId": "muscovy",
+    "toPolityId": "russian-empire",
+    "relation": "succeeded",
+    "year": 1721,
+    "note": "Peter the Great proclaimed the Russian Empire."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "russian-federation",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Russia became the main successor state of the USSR."
+  },
+  {
+    "fromPolityId": "empire-of-brazil",
+    "toPolityId": "brazil",
+    "relation": "succeeded",
+    "year": 1889,
+    "note": "The monarchy was overthrown and a republic declared."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "mexico",
+    "relation": "colonised",
+    "year": 1810,
+    "note": "Mexico was the Spanish colony of New Spain until 1821."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "argentina",
+    "relation": "colonised",
+    "year": 1810,
+    "note": "Part of the Viceroyalty of the Río de la Plata until independence."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "canada",
+    "relation": "colonised",
+    "year": 1867,
+    "note": "Canada was a British dominion; it gained full control of its constitution in 1982."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "australia",
+    "relation": "colonised",
+    "year": 1901,
+    "note": "Australia was a British dominion."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "modern-egypt",
+    "relation": "succeeded",
+    "year": 1805,
+    "note": "Egypt was an Ottoman province ruled in practice by Muhammad Ali’s dynasty."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "modern-egypt",
+    "relation": "colonised",
+    "year": 1882,
+    "note": "British occupation from 1882; protectorate 1914–1922."
+  },
+  {
+    "fromPolityId": "tibetan-empire",
+    "toPolityId": "tibet",
+    "relation": "succeeded",
+    "year": 842,
+    "note": "The empire broke apart after Langdarma’s death."
+  },
+  {
+    "fromPolityId": "golden-horde",
+    "toPolityId": "kazakh-khanate",
+    "relation": "succeeded",
+    "year": 1465,
+    "note": "The Kazakh khans came from the eastern wing of the Golden Horde."
+  },
+  {
+    "fromPolityId": "timurid-empire",
+    "toPolityId": "central-asian-khanates",
+    "relation": "conquered",
+    "year": 1500,
+    "note": "Muhammad Shaybani took Samarkand and Bukhara from the Timurids."
+  },
+  {
+    "fromPolityId": "russian-empire",
+    "toPolityId": "central-asian-khanates",
+    "relation": "conquered",
+    "year": 1868,
+    "note": "Russia took Tashkent and Samarkand and made Bukhara a protectorate."
+  },
+  {
+    "fromPolityId": "russian-empire",
+    "toPolityId": "kazakh-khanate",
+    "relation": "conquered",
+    "year": 1847,
+    "note": "The last Kazakh khans were abolished."
+  },
+  {
+    "fromPolityId": "kingdom-of-kush",
+    "toPolityId": "makuria",
+    "relation": "succeeded",
+    "year": 340,
+    "note": "Nubian kingdoms arose in the former lands of Kush."
+  },
+  {
+    "fromPolityId": "mamluk-sultanate",
+    "toPolityId": "makuria",
+    "relation": "conquered",
+    "year": 1317,
+    "note": "The Mamluks installed a Muslim king at Dongola."
+  },
+  {
+    "fromPolityId": "viking-age-norse",
+    "toPolityId": "denmark-norway",
+    "relation": "succeeded",
+    "year": 1397,
+    "note": "The medieval kingdoms of Denmark and Norway were united by Margaret I."
+  },
+  {
+    "fromPolityId": "denmark-norway",
+    "toPolityId": "swedish-empire",
+    "relation": "traded_with",
+    "year": 1650,
+    "note": "Neighbours and frequent enemies in the Baltic."
   }
 ]

@@ -3,7 +3,7 @@
 Thank you for reviewing History Globe. This guide shows **where to look first** and **how to fix things**.
 
 ## What the app contains
-- 143 civilisations, each with 41 checklist items in 10 categories, a “Known for” list and (where available) territory and population charts.
+- 190 civilisations and peoples, each with 43 checklist items in 10 categories, a “Known for” list and (where available) territory and population charts.
 - Events, routes, people and stories in `src/data/`.
 - Every checklist item has a **certainty** (confirmed / estimated / disputed) and a **source**.
   Totals: 2853 confirmed, 2693 estimated, 317 disputed.
@@ -13,6 +13,13 @@ Thank you for reviewing History Globe. This guide shows **where to look first** 
 2. **Wikidata** cross-check of start/end dates and capitals for every civilisation: 83% of dates agree; every difference was reviewed (see `reports/wikidata-crosscheck.md`).
 3. **Britannica** spot-check of 4 civilisations (see `reports/britannica-spotcheck.md`). Britannica blocks automated access, so the rest need a person.
 4. Items that cite a book but no “checked” Wikipedia page were written from general knowledge and marked *estimated*: **these are the ones most worth checking.**
+
+## Priority 0 — added 6 Nov 2026, not yet checked against a source
+These were written from general knowledge (sources named, but no page was re-read), so every fact needs a second look:
+- **21 new entries:** Russian Federation, Canada, Brazil (Republic), Australia, Argentina, Mexico, Modern Egypt, Grand Duchy of Moscow & Tsardom of Russia, Kazakh Khanate, Khanates of Bukhara, Khiva and Kokand, Tibet (842–1951), Saudi States & Saudi Arabia, Makuria, Scythians and Saka, Kalmar Union & Denmark–Norway, Khoisan peoples, Bantu-speaking peoples, Inuit and Arctic peoples, Indigenous peoples of Siberia, Peoples of the Great Plains, Indigenous peoples of Amazonia.
+- **About 1,250 short checklist answers were expanded** across 135 older entries (mostly the newer ones such as Valdivia, Nazca, Funan, Goguryeo, Toltec, the Philippines and Singapore). The year, certainty and source of each item were kept.
+- **Two new checklist items for all 190 entries** (380 answers): *Communication & transport* (Technology) and *Housing & daily life* (Culture), sourced to each entry’s Wikipedia article but not re-read.
+- Sensitive: Tibet’s status, Russia’s annexations, the Falklands/Malvinas, and the treatment of Indigenous peoples in Canada, Australia, Brazil and the Plains.
 
 ## Priority 1 — major civilisations still to spot-check against a second source
 Rome, Han, Ottoman, Mughal, Inca, Aztec, Mongol, Abbasid, Byzantium, Tang, Song, Ming, Qing, Maurya, Gupta, Achaemenid Persia, Sasanian Persia, Carthage, Assyria, Melaka.
