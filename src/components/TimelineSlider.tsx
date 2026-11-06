@@ -20,9 +20,9 @@ const RESOLUTION = 2000; // slider positions
 const pct = (y: number) => `${yearToFrac(y) * 100}%`;
 // Scale labels; `minor` ones are hidden on phones.
 const TICKS: { y: number; label: string; minor?: boolean }[] = [
-  { y: -8000, label: '8000 BC' },
+  { y: -8000, label: '8000 BC', minor: true },
   { y: -3000, label: '3000 BC' },
-  { y: -1000, label: '1000 BC' },
+  { y: -1000, label: '1000 BC', minor: true },
   { y: 1, label: '1 AD', minor: true },
   { y: 500, label: '500' },
   { y: 1000, label: '1000', minor: true },

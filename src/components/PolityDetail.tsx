@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { CHECKLIST_SCHEMA, isFilled, overallCompletion } from '../lib/checklistSchema';
-import { ERA_LABEL, EVENT_TYPES, POLITY_BY_ID, eventsForPolity, formatSpan, formatYear, isActive, linksForPolity } from '../lib/data';
+import { ERA_LABEL, EVENT_TYPES, PERSON_ROLES, POLITY_BY_ID, eventsForPolity, formatSpan, formatYear, isActive, knownImage, linksForPolity, peopleForPolity, polityImage, wikiUrl } from '../lib/data';
+import WikiPicture from './WikiPicture';
 import type { KnownForKind, LinkRelation, Polity } from '../types';
 import ChecklistCategory, { CertaintyBadge } from './ChecklistCategory';
 import TerritoryChart, { SERIES_COLORS, TERRITORY, axisPeople, domainFor, formatArea, formatPeople, populationOf } from './TerritoryChart';
@@ -13,6 +14,7 @@ interface Props {
   onOpenPolity: (id: string) => void;
   onOpenEvent: (id: string) => void;
   onCompare?: () => void;
+  onOpenPerson?: (id: string) => void;
 }
 
 
@@ -61,6 +63,7 @@ function KnownFor({ polity, onJumpToYear }: { polity: Polity; onJumpToYear: (y: 
       </ul>
       {sel && (
         <div className="mt-2 rounded-xl bg-white/[0.04] px-3 py-2 text-xs text-parchment-200 ring-1 ring-white/10">
+          {knownImage(polity.id, sel.label) && <WikiPicture image={knownImage(polity.id, sel.label)!} alt={sel.label} height="h-32" className="mb-2" />}
           <span className="font-semibold text-parchment-50">{KIND_META[sel.kind].label}</span>
           {sel.note && <> · {sel.note}</>}
           {sel.year !== undefined && (
@@ -165,7 +168,7 @@ const RELATION_TEXT: Record<LinkRelation, [string, string]> = {
   allied_with: ['Allied with', 'Allied with'],
 };
 
-export default function PolityDetail({ polity, year, onJumpToYear, onFlyTo, onOpenPolity, onOpenEvent, onCompare }: Props) {
+export default function PolityDetail({ polity, year, onJumpToYear, onFlyTo, onOpenPolity, onOpenEvent, onCompare, onOpenPerson }: Props) {
   const overall = overallCompletion(polity.checklist);
   const active = isActive(polity, year);
   const events = eventsForPolity(polity.id);
@@ -203,7 +206,14 @@ export default function PolityDetail({ polity, year, onJumpToYear, onFlyTo, onOp
           )}
         </div>
 
+        {polityImage(polity.id) && <WikiPicture image={polityImage(polity.id)!} alt={polity.name} className="relative mt-3" />}
+
         {polity.summary && <p className="relative mt-3 text-[13px] leading-relaxed text-parchment-100">{polity.summary}</p>}
+        {polity.wikiTitle && (
+          <a href={wikiUrl(polity.wikiTitle)} target="_blank" rel="noopener" className="relative mt-1.5 inline-block text-xs font-semibold text-gold-300 hover:underline">
+            Read more on Wikipedia ↗
+          </a>
+        )}
 
         <div className="relative mt-4 flex flex-wrap gap-2">
           <ActionButton onClick={onFlyTo}>
@@ -261,6 +271,26 @@ export default function PolityDetail({ polity, year, onJumpToYear, onFlyTo, onOp
           Legend: <CertaintyBadge certainty="confirmed" /> <CertaintyBadge certainty="estimated" /> <CertaintyBadge certainty="disputed" />
         </div>
       </section>
+
+      {/* ── Famous people ── */}
+      {peopleForPolity(polity.id).length > 0 && (
+        <section className="mt-6 px-5">
+          <h3 className="text-[11px] font-semibold tracking-wider text-parchment-300 uppercase">Famous people</h3>
+          <ul className="mt-2 space-y-1">
+            {peopleForPolity(polity.id).map((p) => (
+              <li key={p.id}>
+                <button type="button" onClick={() => onOpenPerson?.(p.id)} className="flex w-full items-center gap-2 rounded-lg px-1 py-1 text-left text-[13px] hover:bg-white/5">
+                  <span aria-hidden="true">{PERSON_ROLES[p.role].icon}</span>
+                  <span className="font-semibold text-parchment-50">{p.name}</span>
+                  <span className="text-xs text-parchment-400 tabular-nums">
+                    {formatYear(p.born, p.datesApproximate)} – {formatYear(p.died, p.datesApproximate)}
+                  </span>
+                </button>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
 
       {/* ── Connections ── */}
       {links.length > 0 && (

@@ -173,6 +173,8 @@ export interface Polity {
    * Without it, names match within the polity's lifetime ±10 years.
    */
   borderYears?: [number, number | null];
+  /** English Wikipedia article title (for links and pictures). */
+  wikiTitle?: string;
   /** Brand colour used for the map highlight. */
   color?: string;
   checklist: Checklist;
@@ -229,4 +231,40 @@ export interface HistoryRoute {
   goods?: string;
   relatedPolityIds: string[];
   source: string;
+}
+
+// ── Pictures (Wikimedia Commons, freely licensed) ────────────
+
+export interface WikiImage {
+  src: string;
+  file: string;
+  /** Commons file page (credits and full licence). */
+  page: string;
+  artist: string;
+  license: string;
+  licenseUrl: string | null;
+  caption: string | null;
+  /** Wikipedia article the picture was taken from. */
+  article: string;
+}
+
+// ── People ───────────────────────────────────────────────────
+
+export type PersonRole = 'ruler' | 'military' | 'thinker' | 'religious' | 'scientist' | 'writer' | 'artist' | 'explorer';
+
+export interface Person {
+  id: string;
+  name: string;
+  born: number;
+  died: number;
+  datesApproximate?: boolean;
+  role: PersonRole;
+  /** Short description from Wikipedia. */
+  description: string;
+  polityIds: string[];
+  /** [lng, lat] of the main place associated with them. */
+  place: [number, number];
+  wikiTitle: string;
+  source: string;
+  image?: WikiImage;
 }

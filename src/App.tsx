@@ -3,11 +3,11 @@ import MapView, { type CameraRequest, type VisibleEvent } from './components/Map
 import TimelineSlider from './components/TimelineSlider';
 import Panel from './components/Panel';
 import PolityDetail from './components/PolityDetail';
-import { EventDetail, PolityBrowser, RegionDetail, RouteDetail } from './components/OtherViews';
+import { EventDetail, PersonDetail, PolityBrowser, RegionDetail, RouteDetail } from './components/OtherViews';
 import SearchView from './components/SearchView';
 import CompareView, { suggestPartner } from './components/CompareView';
 import { boundsForPolity, loadManifest, loadSnapshot, nearestSnapshot, resolvePolity, type BorderProps, type Snapshot } from './lib/borders';
-import { EVENTS, EVENT_BY_ID, EVENT_TYPES, MAX_YEAR, MIN_YEAR, POLITY_BY_ID, ROUTES, ROUTE_BY_ID, ROUTE_KINDS, isActive } from './lib/data';
+import { EVENTS, EVENT_BY_ID, EVENT_TYPES, MAX_YEAR, MIN_YEAR, PEOPLE, PERSON_BY_ID, POLITY_BY_ID, ROUTES, ROUTE_BY_ID, ROUTE_KINDS, isActive } from './lib/data';
 import type { EventType, Polity, RouteKind } from './types';
 import { eventWindowFor, normaliseYear, stepYear } from './lib/timeScale';
 
@@ -20,11 +20,12 @@ type View =
   | { kind: 'polity'; id: string }
   | { kind: 'event'; id: string }
   | { kind: 'route'; id: string }
+  | { kind: 'person'; id: string }
   | { kind: 'region'; props: BorderProps };
 
 const clampYear = (y: number) => normaliseYear(y);
 
-function readUrl(): { year: number; polity: string | null; event: string | null; route: string | null; compare: [string | null, string | null] | null } {
+function readUrl(): { year: number; polity: string | null; event: string | null; route: string | null; person: string | null; compare: [string | null, string | null] | null } {
   const sp = new URLSearchParams(window.location.search);
   const y = Number(sp.get('year'));
   const c = sp.get('compare');
@@ -34,6 +35,7 @@ function readUrl(): { year: number; polity: string | null; event: string | null;
     polity: sp.get('polity'),
     event: sp.get('event'),
     route: sp.get('route'),
+    person: sp.get('person'),
     compare: c !== null ? [valid(c.split(',')[0]), valid(c.split(',')[1])] : null,
   };
 }
@@ -54,12 +56,15 @@ export default function App() {
         ? { kind: 'event', id: initial.event }
         : initial.route && ROUTE_BY_ID.has(initial.route)
           ? { kind: 'route', id: initial.route }
-          : { kind: 'none' },
+          : initial.person && PERSON_BY_ID.has(initial.person)
+            ? { kind: 'person', id: initial.person }
+            : { kind: 'none' },
   );
   const [playing, setPlaying] = useState(false);
   const [eventWindow, setEventWindow] = useState(25);
   const [hiddenTypes, setHiddenTypes] = useState<Set<EventType>>(new Set());
   const [showRoutes, setShowRoutes] = useState(true);
+  const [showPeople, setShowPeople] = useState(true);
   const [camera, setCamera] = useState<CameraRequest | null>(null);
   const pendingFly = useRef<string | null>(initial.polity);
   const nonce = useRef(0);
@@ -148,6 +153,7 @@ export default function App() {
       if (view.kind === 'polity') sp.set('polity', view.id);
       if (view.kind === 'event') sp.set('event', view.id);
       if (view.kind === 'route') sp.set('route', view.id);
+      if (view.kind === 'person') sp.set('person', view.id);
       if (view.kind === 'compare') sp.set('compare', `${view.a ?? ''},${view.b ?? ''}`);
       window.history.replaceState(null, '', `${window.location.pathname}?${sp}`);
     }, 250);
@@ -171,6 +177,8 @@ export default function App() {
     () => (showRoutes ? ROUTES.filter((r) => year >= r.from && year <= r.to) : []),
     [year, showRoutes],
   );
+
+  const visiblePeople = useMemo(() => (showPeople ? PEOPLE.filter((p) => year >= p.born && year <= p.died) : []), [year, showPeople]);
 
   // ── Selection handlers ─────────────────────────────────
   const openPolity = useCallback(
@@ -217,6 +225,13 @@ export default function App() {
   );
 
   const jumpToYear = useCallback((y: number) => changeYear(y), [changeYear]);
+  const openPerson = useCallback((id: string) => {
+    const p = PERSON_BY_ID.get(id);
+    if (!p) return;
+    setView({ kind: 'person', id });
+    nonce.current += 1;
+    setCamera({ kind: 'point', center: p.place, zoom: 4, nonce: nonce.current });
+  }, []);
   const openRoute = useCallback((id: string) => {
     const r = ROUTE_BY_ID.get(id);
     if (!r) return;
@@ -251,6 +266,7 @@ export default function App() {
   // A shared ?route= link flies to the route on load.
   useEffect(() => {
     if (initial.route) openRoute(initial.route);
+    if (initial.person) openPerson(initial.person);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
@@ -303,6 +319,7 @@ export default function App() {
         onOpenPolity={openPolity}
         onOpenEvent={openEvent}
         onCompare={() => openCompare(pid)}
+        onOpenPerson={openPerson}
       />
     );
   } else if (view.kind === 'event') {
@@ -311,6 +328,13 @@ export default function App() {
       panelTitle = e.title;
       panelKey = `event-${e.id}` as typeof panelKey;
       panelBody = <EventDetail event={e} onOpenPolity={openPolity} onJumpToYear={jumpToYear} />;
+    }
+  } else if (view.kind === 'person') {
+    const pr = PERSON_BY_ID.get(view.id);
+    if (pr) {
+      panelTitle = pr.name;
+      panelKey = `person-${pr.id}` as typeof panelKey;
+      panelBody = <PersonDetail person={pr} year={year} onOpenPolity={openPolity} onJumpToYear={jumpToYear} />;
     }
   } else if (view.kind === 'route') {
     const r = ROUTE_BY_ID.get(view.id);
@@ -333,6 +357,11 @@ export default function App() {
         onOpenPolity={openPolity}
         onOpenEvent={openEventAt}
         onOpenKnown={openKnown}
+        onOpenPerson={(id) => {
+          const pr = PERSON_BY_ID.get(id);
+          if (pr && (year < pr.born || year > pr.died)) changeYear(Math.round((pr.born + pr.died) / 2));
+          openPerson(id);
+        }}
         onOpenRoute={(id) => {
           const r = ROUTE_BY_ID.get(id);
           if (r && (year < r.from || year > r.to)) changeYear(Math.round((r.from + r.to) / 2));
@@ -370,6 +399,9 @@ export default function App() {
         routes={visibleRoutes}
         selectedRouteId={view.kind === 'route' ? view.id : null}
         onSelectRoute={openRoute}
+        people={visiblePeople}
+        selectedPersonId={view.kind === 'person' ? view.id : null}
+        onSelectPerson={openPerson}
       />
 
       {/* ── Top bar ── */}
@@ -413,6 +445,9 @@ export default function App() {
         showRoutes={showRoutes}
         routeCount={visibleRoutes.length}
         onToggleRoutes={() => setShowRoutes((v) => !v)}
+        showPeople={showPeople}
+        peopleCount={visiblePeople.length}
+        onTogglePeople={() => setShowPeople((v) => !v)}
         onToggle={(t) =>
           setHiddenTypes((s) => {
             const n = new Set(s);
@@ -459,6 +494,9 @@ function EventLegend({
   showRoutes,
   routeCount,
   onToggleRoutes,
+  showPeople,
+  peopleCount,
+  onTogglePeople,
 }: {
   hidden: Set<EventType>;
   count: number;
@@ -466,6 +504,9 @@ function EventLegend({
   showRoutes: boolean;
   routeCount: number;
   onToggleRoutes: () => void;
+  showPeople: boolean;
+  peopleCount: number;
+  onTogglePeople: () => void;
 }) {
   const [open, setOpen] = useState(false);
   return (
@@ -512,6 +553,17 @@ function EventLegend({
               );
             })}
             <li className="mt-1 border-t border-white/10 pt-1">
+              <button
+                type="button"
+                onClick={onTogglePeople}
+                aria-pressed={showPeople}
+                className={`flex w-full items-center gap-2 rounded-lg px-2 py-1.5 text-left transition hover:bg-white/5 ${showPeople ? 'text-parchment-50' : 'text-parchment-400 line-through'}`}
+              >
+                <span className="grid size-5 place-items-center text-[11px]" aria-hidden="true">👤</span>
+                People alive now <span className="text-parchment-400 tabular-nums">({peopleCount})</span>
+              </button>
+            </li>
+            <li className="border-t border-white/10 pt-1">
               <button
                 type="button"
                 onClick={onToggleRoutes}

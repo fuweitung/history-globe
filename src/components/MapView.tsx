@@ -3,8 +3,8 @@ import maplibregl, { type GeoJSONSource, type MapGeoJSONFeature, type StyleSpeci
 import 'maplibre-gl/dist/maplibre-gl.css';
 import type { FeatureCollection } from 'geojson';
 import type { BorderProps, Snapshot } from '../lib/borders';
-import { EVENT_TYPES, ROUTE_KINDS, formatYear } from '../lib/data';
-import type { HistoryEvent, HistoryRoute, RouteKind } from '../types';
+import { EVENT_TYPES, PERSON_ROLES, ROUTE_KINDS, formatYear } from '../lib/data';
+import type { HistoryEvent, HistoryRoute, Person, RouteKind } from '../types';
 
 const BASE = import.meta.env.BASE_URL;
 const EMPTY: FeatureCollection = { type: 'FeatureCollection', features: [] };
@@ -30,6 +30,9 @@ interface Props {
   onSelectBorder: (props: BorderProps | null) => void;
   onSelectEvent: (id: string) => void;
   onSelectRoute: (id: string) => void;
+  people: Person[];
+  selectedPersonId: string | null;
+  onSelectPerson: (id: string) => void;
 }
 
 const routeLayers = (Object.keys(ROUTE_KINDS) as RouteKind[]).map(
@@ -201,6 +204,9 @@ export default function MapView({
   routes,
   selectedRouteId,
   onSelectRoute,
+  people,
+  selectedPersonId,
+  onSelectPerson,
 }: Props) {
   const containerRef = useRef<HTMLDivElement>(null);
   const mapRef = useRef<maplibregl.Map | null>(null);
@@ -209,8 +215,9 @@ export default function MapView({
   const markersRef = useRef(new Map<string, { marker: maplibregl.Marker; el: HTMLButtonElement }>());
   const snapshotRef = useRef(snapshot);
   snapshotRef.current = snapshot;
-  const handlersRef = useRef({ onSelectBorder, onSelectEvent, onSelectRoute });
-  handlersRef.current = { onSelectBorder, onSelectEvent, onSelectRoute };
+  const handlersRef = useRef({ onSelectBorder, onSelectEvent, onSelectRoute, onSelectPerson });
+  handlersRef.current = { onSelectBorder, onSelectEvent, onSelectRoute, onSelectPerson };
+  const peopleMarkersRef = useRef(new Map<string, { marker: maplibregl.Marker; el: HTMLButtonElement }>());
   const routesRef = useRef(routes);
   routesRef.current = routes;
 
@@ -380,6 +387,44 @@ export default function MapView({
       entry.el.classList.toggle('is-now', weight > 0.95);
     }
   }, [events, selectedEventId, ready]);
+
+  // ── People markers ───────────────────────────────────────
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!map || !ready) return;
+    const current = peopleMarkersRef.current;
+    const wanted = new Set(people.map((p) => p.id));
+    for (const [id, { marker }] of current) {
+      if (!wanted.has(id)) {
+        marker.remove();
+        current.delete(id);
+      }
+    }
+    for (const person of people) {
+      let entry = current.get(person.id);
+      if (!entry) {
+        const el = document.createElement('button');
+        el.type = 'button';
+        el.className = 'person-marker';
+        const icon = document.createElement('span');
+        icon.setAttribute('aria-hidden', 'true');
+        icon.textContent = PERSON_ROLES[person.role].icon;
+        const label = document.createElement('span');
+        label.className = 'person-name';
+        label.textContent = person.name; // textContent: names are data, never HTML
+        el.append(icon, label);
+        el.setAttribute('aria-label', `${person.name}, ${PERSON_ROLES[person.role].label}`);
+        el.addEventListener('click', (ev) => {
+          ev.stopPropagation();
+          handlersRef.current.onSelectPerson(person.id);
+        });
+        const marker = new maplibregl.Marker({ element: el, anchor: 'left', opacityWhenCovered: '0', offset: [6, 0] }).setLngLat(person.place).addTo(map);
+        entry = { marker, el };
+        current.set(person.id, entry);
+      }
+      entry.el.classList.toggle('is-selected', person.id === selectedPersonId);
+    }
+  }, [people, selectedPersonId, ready]);
 
   // ── Camera requests ──────────────────────────────────────
   useEffect(() => {

@@ -1,10 +1,74 @@
 import { useMemo, useState } from 'react';
 import { overallCompletion } from '../lib/checklistSchema';
-import { ERAS, EVENT_TYPES, POLITIES, POLITY_BY_ID, ROUTE_KINDS, formatSpan, formatYear, isActive } from '../lib/data';
+import { ERAS, EVENT_TYPES, PERSON_ROLES, POLITIES, POLITY_BY_ID, ROUTE_KINDS, formatSpan, formatYear, isActive, wikiUrl } from '../lib/data';
+import WikiPicture from './WikiPicture';
 import type { BorderProps } from '../lib/borders';
-import type { HistoryEvent, HistoryRoute } from '../types';
+import type { HistoryEvent, HistoryRoute, Person } from '../types';
 import { ProgressBar } from './ChecklistCategory';
 import { norm } from '../lib/search';
+
+// ── Person detail ────────────────────────────────────────────
+
+export function PersonDetail({
+  person,
+  year,
+  onOpenPolity,
+  onJumpToYear,
+}: {
+  person: Person;
+  year: number;
+  onOpenPolity: (id: string) => void;
+  onJumpToYear: (y: number) => void;
+}) {
+  const r = PERSON_ROLES[person.role];
+  const alive = year >= person.born && year <= person.died;
+  const age = person.died - person.born - (person.born < 0 && person.died > 0 ? 1 : 0);
+  return (
+    <div className="px-5 pt-4 pb-8 md:pt-5">
+      <div className="flex items-center gap-2 pr-10 text-[11px] font-semibold tracking-wider text-parchment-200 uppercase">
+        <span aria-hidden="true">{r.icon}</span>
+        {r.label}
+      </div>
+      <h2 className="font-display mt-2 text-2xl leading-tight font-bold text-parchment-50">{person.name}</h2>
+      <p className="mt-1 text-sm text-parchment-300 tabular-nums">
+        {person.datesApproximate ? 'c. ' : ''}
+        {formatYear(person.born)} – {formatYear(person.died)}
+        {!person.datesApproximate && <> · lived about {age} years</>}
+        {alive && <span className="ml-2 rounded-full bg-ok/15 px-2 py-0.5 text-[10px] font-semibold text-ok">Alive in {formatYear(year)}</span>}
+      </p>
+      {person.image && <WikiPicture image={person.image} alt={person.name} height="h-56" className="mt-3" />}
+      <p className="mt-3 text-[13px] leading-relaxed text-parchment-100 first-letter:uppercase">{person.description}</p>
+      <div className="mt-3 flex flex-wrap gap-2">
+        <button type="button" onClick={() => onJumpToYear(person.born)} className="rounded-full bg-white/[0.06] px-3 py-1.5 text-xs font-semibold text-parchment-100 ring-1 ring-white/10 hover:bg-white/10">
+          Born · {formatYear(person.born)}
+        </button>
+        <button type="button" onClick={() => onJumpToYear(person.died)} className="rounded-full bg-white/[0.06] px-3 py-1.5 text-xs font-semibold text-parchment-100 ring-1 ring-white/10 hover:bg-white/10">
+          Died · {formatYear(person.died)}
+        </button>
+        <a href={wikiUrl(person.wikiTitle)} target="_blank" rel="noopener" className="rounded-full px-3 py-1.5 text-xs font-semibold text-gold-300 hover:underline">
+          Wikipedia ↗
+        </a>
+      </div>
+      {person.polityIds.length > 0 && (
+        <>
+          <h3 className="mt-5 text-[11px] font-semibold tracking-wider text-parchment-300 uppercase">Civilisation</h3>
+          <div className="mt-2 flex flex-wrap gap-1.5">
+            {person.polityIds.map((id) => {
+              const p = POLITY_BY_ID.get(id);
+              return p ? (
+                <button key={id} type="button" onClick={() => onOpenPolity(id)} className="inline-flex items-center gap-1.5 rounded-full bg-white/[0.06] px-2.5 py-1 text-xs text-parchment-100 ring-1 ring-white/10 hover:bg-white/10">
+                  <span className="size-2 rounded-full" style={{ background: p.color ?? '#c9844f' }} aria-hidden="true" />
+                  {p.name}
+                </button>
+              ) : null;
+            })}
+          </div>
+        </>
+      )}
+      <p className="mt-5 text-[11px] text-parchment-400">Source: {person.source}</p>
+    </div>
+  );
+}
 
 // ── Route detail ─────────────────────────────────────────────
 
