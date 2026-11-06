@@ -52,19 +52,19 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | · Ancient | `██████████████████░░` 91% |  |
 | · Medieval | `█████████████████░░░` 85% |  |
 | · Early modern | `████████████████░░░░` 79% |  |
-| · Modern | `███████████████████░` 94% |  |
-| Civilisations shown on the map | `███████████████████░` 97% | 355 of 367; the rest fly to their capital |
-| Checklist filled in | `████████████████████` 100% | 15781 of 15781 items (367 × 43) |
-| Answers with real detail | `█████████████░░░░░░░` 64% | 5443 answers are still under 40 characters |
-| Fact-checked against a source | `█████░░░░░░░░░░░░░░░` 23% | 3559 items say “(checked …)”; the rest still need a second look |
-| Civilisations with events | `████████████████████` 100% | 367 of 367 |
-| Civilisations with famous people | `███████████████░░░░░` 74% | 273 of 367; many prehistoric cultures have no known names |
-| Civilisations linked to others | `████████████████████` 100% | 367 of 367 (succeeded, conquered, traded with…) |
-| Civilisation pictures | `███████████████████░` 97% | 356 of 367 |
-| “Known for” pictures | `███████████░░░░░░░░░` 54% | 629 of 1161 items |
+| · Modern | `███████████████████░` 95% |  |
+| Civilisations shown on the map | `███████████████████░` 97% | 365 of 377; the rest fly to their capital |
+| Checklist filled in | `████████████████████` 100% | 16211 of 16211 items (377 × 43) |
+| Answers with real detail | `█████████████░░░░░░░` 63% | 5755 answers are still under 40 characters |
+| Fact-checked against a source | `████░░░░░░░░░░░░░░░░` 22% | 3559 items say “(checked …)”; the rest still need a second look |
+| Civilisations with events | `████████████████████` 100% | 377 of 377 |
+| Civilisations with famous people | `███████████████░░░░░` 75% | 282 of 377; many prehistoric cultures have no known names |
+| Civilisations linked to others | `████████████████████` 100% | 377 of 377 (succeeded, conquered, traded with…) |
+| Civilisation pictures | `███████████████████░` 97% | 366 of 377 |
+| “Known for” pictures | `███████████░░░░░░░░░` 53% | 629 of 1191 items |
 
-Certainty of all items: 9761 confirmed · 5578 estimated · 442 disputed.
-Also in the app: 728 events · 346 people · 18 routes · 11 stories.
+Certainty of all items: 10123 confirmed · 5642 estimated · 446 disputed.
+Also in the app: 754 events · 360 people · 18 routes · 11 stories.
 
 ## Map coverage by year
 
@@ -111,18 +111,18 @@ Also in the app: 728 events · 346 people · 18 routes · 11 stories.
 | 1783 | `█████████████████░░░` 83% |
 | 1800 | `█████████████████░░░` 84% |
 | 1815 | `██████████████████░░` 89% |
-| 1878 | `███████████████████░` 93% |
-| 1880 | `███████████████████░` 93% |
-| 1900 | `███████████████████░` 93% |
+| 1878 | `███████████████████░` 94% |
+| 1880 | `███████████████████░` 94% |
+| 1900 | `███████████████████░` 94% |
 | 1914 | `████████████████████` 99% |
 | 1920 | `████████████████████` 99% |
 | 1930 | `████████████████████` 98% |
 | 1938 | `████████████████████` 98% |
 | 1945 | `██████████████████░░` 90% |
-| 1960 | `██████████████████░░` 89% |
-| 1994 | `████████████████████` 98% |
-| 2000 | `████████████████████` 98% |
-| 2010 | `████████████████████` 98% |
+| 1960 | `██████████████████░░` 90% |
+| 1994 | `████████████████████` 99% |
+| 2000 | `████████████████████` 99% |
+| 2010 | `████████████████████` 99% |
 
 ## Biggest map blanks still to fill
 
@@ -157,6 +157,6 @@ Areas on the border maps that no civilisation covers yet, largest first (area ad
 | Himyarite Kingdom | 1 BCE – 500 (6 maps) | 3M |
 | Alwa | 600 – 1500 (12 maps) | 3M |
 | Mandes | 900 – 900 (1 maps) | 3M |
-| Nepal | 1200 – 2010 (18 maps) | 3M |
 | Yuezhi | 200 BCE – 200 BCE (1 maps) | 3M |
-| Burma | 1960 – 2010 (4 maps) | 3M |
+| Shellfish gatherers | 1500 BCE – 800 (18 maps) | 3M |
+| Laurel complex | 100 BCE – 500 (7 maps) | 3M |

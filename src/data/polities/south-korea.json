@@ -1,0 +1,320 @@
+{
+  "id": "south-korea",
+  "name": "South Korea",
+  "era": "modern",
+  "region": "East Asia (Korea)",
+  "startYear": 1948,
+  "endYear": null,
+  "capital": "Seoul",
+  "capitalCoords": [
+    126.98,
+    37.57
+  ],
+  "summary": "Founded in 1948 in the US-occupied south of Korea; after the Korean War and military rule, became a rich democracy and a cultural power.",
+  "wikiTitle": "South Korea",
+  "borderNames": [
+    "Korea, Republic of"
+  ],
+  "borderYears": [
+    1948,
+    null
+  ],
+  "color": "#3a6ab0",
+  "knownFor": [
+    {
+      "label": "K-pop",
+      "kind": "art",
+      "note": "Pop music that spread worldwide."
+    },
+    {
+      "label": "Kimchi",
+      "kind": "food",
+      "note": "Fermented vegetables."
+    },
+    {
+      "label": "Samsung",
+      "kind": "idea",
+      "note": "Electronics giant."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Southern Korean peninsula; about 100,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "terrain": {
+        "value": "Mountains and coastal plains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "climate": {
+        "value": "Temperate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "resources": {
+        "value": "Few natural resources; skilled people.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "disasters": {
+        "value": "Typhoons.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 52 million, with the world’s lowest birth rate.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "urbanisation": {
+        "value": "About half live around Seoul.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "disease": {
+        "value": "Excellent health care.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "migration": {
+        "value": "Rural people moved to cities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Electronics, cars, ships, culture.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "tradeRoutes": {
+        "value": "Port of Busan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "wealth": {
+        "value": "A high-income economy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "moneyAndTax": {
+        "value": "The won.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Korea"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A presidential republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "keyRulers": {
+        "value": "Syngman Rhee. Park Chung-hee. Kim Dae-jung.",
+        "year": 1961,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "succession": {
+        "value": "Elections since 1987.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "institutions": {
+        "value": "National Assembly; Constitutional Court.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "stability": {
+        "value": "Gwangju Uprising (1980); democracy (1987); martial law crisis (2024).",
+        "year": 1987,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Korea"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Large army; US troops.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "majorWars": {
+        "value": "Korean War (1950–53).",
+        "year": 1950,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "territoryChange": {
+        "value": "Divided Korea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "alliancesRivals": {
+        "value": "Allied with the US.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Leading memory chips and screens.",
+        "year": 1990,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "scienceEducation": {
+        "value": "Among the best-educated countries.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Korea"
+      },
+      "communicationTransport": {
+        "value": "High-speed rail and internet.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Christian and Buddhist; many non-religious.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "languageWriting": {
+        "value": "Korean (Hangul).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "artsArchitecture": {
+        "value": "Film, K-drama.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "socialStructure": {
+        "value": "Mostly Korean.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "sharedIdentity": {
+        "value": "Korean nationhood.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "dailyLife": {
+        "value": "Apartments; kimchi, rice.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "North Korea, Japan, China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "ideasReligions": {
+        "value": "Confucian values.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "colonisation": {
+        "value": "Japanese rule (1910–45); US occupation (1945–48).",
+        "year": 1910,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Republic founded (1948).",
+        "year": 1948,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Korea"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Korea"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: South Korea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Korea"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Korea"
+      }
+    }
+  }
+}

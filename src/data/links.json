@@ -2874,5 +2874,159 @@
     "relation": "succeeded",
     "year": null,
     "note": "Harappa and Mohenjo-daro are in Pakistan."
+  },
+  {
+    "fromPolityId": "pakistan",
+    "toPolityId": "bangladesh",
+    "relation": "succeeded",
+    "year": 1971,
+    "note": "East Pakistan became Bangladesh in 1971."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "bangladesh",
+    "relation": "succeeded",
+    "year": 1971,
+    "note": "Bengal was part of British India until 1947."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "sri-lanka",
+    "relation": "colonised",
+    "year": 1948,
+    "note": "British Ceylon until 1948."
+  },
+  {
+    "fromPolityId": "great-britain",
+    "toPolityId": "nepal",
+    "relation": "allied_with",
+    "year": 1800,
+    "note": "Trade and treaty ties with the East India Company."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "nepal",
+    "relation": "conquered",
+    "year": 1816,
+    "note": "Nepal lost land in the Anglo-Nepalese War."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "bhutan",
+    "relation": "conquered",
+    "year": 1865,
+    "note": "Bhutan lost the Duars after the Duar War."
+  },
+  {
+    "fromPolityId": "konbaung-dynasty",
+    "toPolityId": "myanmar",
+    "relation": "succeeded",
+    "year": 1948,
+    "note": "The last Burmese kingdom fell to Britain in 1885."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "myanmar",
+    "relation": "colonised",
+    "year": 1948,
+    "note": "British Burma (1824/1885–1948)."
+  },
+  {
+    "fromPolityId": "khmer-empire",
+    "toPolityId": "cambodia",
+    "relation": "succeeded",
+    "year": 1953,
+    "note": "Angkor is the national symbol."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "cambodia",
+    "relation": "colonised",
+    "year": 1953,
+    "note": "French protectorate (1863–1953)."
+  },
+  {
+    "fromPolityId": "vietnam-modern",
+    "toPolityId": "cambodia",
+    "relation": "conquered",
+    "year": 1979,
+    "note": "Vietnamese troops occupied Cambodia (1979–89)."
+  },
+  {
+    "fromPolityId": "lan-xang",
+    "toPolityId": "laos",
+    "relation": "succeeded",
+    "year": 1953,
+    "note": "Lan Xang was the first Lao kingdom."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "laos",
+    "relation": "colonised",
+    "year": 1953,
+    "note": "French protectorate (1893–1953)."
+  },
+  {
+    "fromPolityId": "vietnam-modern",
+    "toPolityId": "laos",
+    "relation": "allied_with",
+    "year": 1977,
+    "note": "Treaty of friendship."
+  },
+  {
+    "fromPolityId": "bruneian-empire",
+    "toPolityId": "brunei",
+    "relation": "succeeded",
+    "year": 1984,
+    "note": "The sultanate continued under British protection."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "brunei",
+    "relation": "colonised",
+    "year": 1984,
+    "note": "British protectorate (1888–1984)."
+  },
+  {
+    "fromPolityId": "joseon-korea",
+    "toPolityId": "south-korea",
+    "relation": "succeeded",
+    "year": 1948,
+    "note": "Heir to Joseon Korea."
+  },
+  {
+    "fromPolityId": "joseon-korea",
+    "toPolityId": "north-korea",
+    "relation": "succeeded",
+    "year": 1948,
+    "note": "Heir to Joseon Korea."
+  },
+  {
+    "fromPolityId": "united-states",
+    "toPolityId": "south-korea",
+    "relation": "allied_with",
+    "year": 1953,
+    "note": "Mutual defence treaty."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "north-korea",
+    "relation": "allied_with",
+    "year": 1948,
+    "note": "Installed and supported the North Korean state."
+  },
+  {
+    "fromPolityId": "peoples-republic-of-china",
+    "toPolityId": "north-korea",
+    "relation": "allied_with",
+    "year": 1950,
+    "note": "Fought for North Korea in the Korean War."
+  },
+  {
+    "fromPolityId": "north-korea",
+    "toPolityId": "south-korea",
+    "relation": "conquered",
+    "year": 1950,
+    "note": "North Korea invaded the South in 1950."
   }
 ]

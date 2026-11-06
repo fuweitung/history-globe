@@ -1,0 +1,320 @@
+{
+  "id": "north-korea",
+  "name": "North Korea",
+  "era": "modern",
+  "region": "East Asia (Korea)",
+  "startYear": 1948,
+  "endYear": null,
+  "capital": "Pyongyang",
+  "capitalCoords": [
+    125.75,
+    39.03
+  ],
+  "summary": "Founded in 1948 in the Soviet-occupied north; ruled by the Kim family; one of the most closed states in the world, with nuclear weapons.",
+  "wikiTitle": "North Korea",
+  "borderNames": [
+    "Korea, Democratic People's Republic of"
+  ],
+  "borderYears": [
+    1948,
+    null
+  ],
+  "color": "#c03a3a",
+  "knownFor": [
+    {
+      "label": "Juche",
+      "kind": "idea",
+      "note": "State ideology of self-reliance."
+    },
+    {
+      "label": "Mass games",
+      "kind": "art",
+      "note": "Huge gymnastic shows."
+    },
+    {
+      "label": "Naengmyeon",
+      "kind": "food",
+      "note": "Cold noodles."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Northern Korean peninsula; about 120,500 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "terrain": {
+        "value": "Mountains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "climate": {
+        "value": "Cold winters.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "resources": {
+        "value": "Coal, minerals.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "disasters": {
+        "value": "Famine (1994–98) killed hundreds of thousands.",
+        "year": 1994,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 26 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "urbanisation": {
+        "value": "Pyongyang.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "disease": {
+        "value": "Poor health care.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "migration": {
+        "value": "Defectors flee through China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "State industry, mining.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "tradeRoutes": {
+        "value": "Trade mostly with China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "wealth": {
+        "value": "Very poor.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "moneyAndTax": {
+        "value": "The won.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: North Korea"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A one-party dictatorship.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "keyRulers": {
+        "value": "Kim Il Sung. Kim Jong Il. Kim Jong Un.",
+        "year": 1948,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "succession": {
+        "value": "Father to son.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "institutions": {
+        "value": "Workers’ Party of Korea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "stability": {
+        "value": "Tight control.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: North Korea"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Huge army; nuclear weapons (first test 2006).",
+        "year": 2006,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "majorWars": {
+        "value": "Korean War (1950–53).",
+        "year": 1950,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "territoryChange": {
+        "value": "Divided Korea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "alliancesRivals": {
+        "value": "China and Russia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: North Korea"
+      },
+      "scienceEducation": {
+        "value": "Missile programmes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "openness": {
+        "value": "One of the most closed countries.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "communicationTransport": {
+        "value": "Few cars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Officially atheist; leader cult.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "languageWriting": {
+        "value": "Korean (Hangul).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "artsArchitecture": {
+        "value": "Monumental statues.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "socialStructure": {
+        "value": "Songbun loyalty classes.",
+        "year": 1957,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "sharedIdentity": {
+        "value": "Cult of the Kims.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "dailyLife": {
+        "value": "Apartments; rice, kimchi; food shortages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "China, Russia, South Korea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "ideasReligions": {
+        "value": "Juche.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "colonisation": {
+        "value": "Japanese rule (1910–45); Soviet occupation (1945–48).",
+        "year": 1910,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "State founded (1948).",
+        "year": 1948,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: North Korea"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: North Korea"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: North Korea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: North Korea"
+      },
+      "overallCertainty": {
+        "value": "Many figures are estimates; the state releases little data.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: North Korea"
+      }
+    }
+  }
+}

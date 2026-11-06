@@ -4982,7 +4982,9 @@
     "relatedPolityIds": [
       "united-states",
       "peoples-republic-of-china",
-      "soviet-union"
+      "soviet-union",
+      "south-korea",
+      "north-korea"
     ],
     "source": "Wikipedia: Korean War (checked 6 Nov 2026)"
   },
@@ -5051,7 +5053,9 @@
     "description": "North Vietnam and the Viet Cong fight South Vietnam and the United States. It ends with the fall of Saigon on 30 April 1975. Vietnamese deaths are estimated at about 1–3 million.",
     "relatedPolityIds": [
       "united-states",
-      "vietnam-modern"
+      "vietnam-modern",
+      "laos",
+      "cambodia"
     ],
     "source": "Wikipedia: Vietnam War (checked 6 Nov 2026)"
   },
@@ -5370,7 +5374,9 @@
     "type": "war",
     "title": "Cambodian genocide",
     "description": "The Khmer Rouge regime kills an estimated 1.2–2.2 million Cambodians through executions, forced labour and starvation.",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "cambodia"
+    ],
     "source": "Wikipedia: Cambodian genocide (checked 6 Nov 2026)"
   },
   {
@@ -5649,7 +5655,9 @@
     "relatedPolityIds": [
       "indonesia",
       "india",
-      "rattanakosin-siam"
+      "rattanakosin-siam",
+      "sri-lanka",
+      "myanmar"
     ]
   },
   {
@@ -9838,7 +9846,8 @@
     "description": "East Pakistan breaks away with Indian help; the Pakistani army kills hundreds of thousands.",
     "relatedPolityIds": [
       "pakistan",
-      "india"
+      "india",
+      "bangladesh"
     ],
     "source": "Wikipedia: Bangladesh Liberation War"
   },
@@ -9867,5 +9876,356 @@
       "pakistan"
     ],
     "source": "Wikipedia: 2022 Pakistan floods"
+  },
+  {
+    "id": "language-movement",
+    "year": 1952,
+    "lat": 23.73,
+    "lng": 90.4,
+    "type": "culture",
+    "title": "Bengali Language Movement",
+    "description": "Students in Dhaka are killed protesting for Bengali as a state language; 21 February is now International Mother Language Day.",
+    "relatedPolityIds": [
+      "pakistan"
+    ],
+    "source": "Wikipedia: Bengali Language Movement"
+  },
+  {
+    "id": "bhola-cyclone",
+    "year": 1970,
+    "lat": 22.3,
+    "lng": 90.7,
+    "type": "disaster",
+    "title": "Bhola cyclone",
+    "description": "One of the deadliest cyclones ever; up to 500,000 die in East Pakistan.",
+    "relatedPolityIds": [
+      "pakistan"
+    ],
+    "source": "Wikipedia: 1970 Bhola cyclone"
+  },
+  {
+    "id": "rana-plaza",
+    "year": 2013,
+    "lat": 23.85,
+    "lng": 90.26,
+    "type": "disaster",
+    "title": "Rana Plaza collapse",
+    "description": "A garment factory building collapses near Dhaka, killing 1,134 workers.",
+    "relatedPolityIds": [
+      "bangladesh"
+    ],
+    "source": "Wikipedia: 2013 Rana Plaza collapse"
+  },
+  {
+    "id": "sri-lanka-independence",
+    "year": 1948,
+    "lat": 6.93,
+    "lng": 79.86,
+    "type": "culture",
+    "title": "Ceylon becomes independent",
+    "description": "Ceylon gains independence from Britain; it becomes Sri Lanka in 1972.",
+    "relatedPolityIds": [
+      "sri-lanka",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Dominion of Ceylon"
+  },
+  {
+    "id": "sri-lankan-civil-war",
+    "year": 1983,
+    "lat": 9.66,
+    "lng": 80.02,
+    "type": "war",
+    "title": "Sri Lankan Civil War",
+    "description": "The Tamil Tigers fight for a separate state (1983–2009); the war ends with heavy civilian deaths.",
+    "relatedPolityIds": [
+      "sri-lanka"
+    ],
+    "source": "Wikipedia: Sri Lankan Civil War"
+  },
+  {
+    "id": "nepal-unification",
+    "year": 1768,
+    "lat": 27.7,
+    "lng": 85.32,
+    "type": "war",
+    "title": "Gorkha conquest of Kathmandu",
+    "description": "Prithvi Narayan Shah takes the Kathmandu valley and unifies Nepal.",
+    "relatedPolityIds": [
+      "nepal"
+    ],
+    "source": "Wikipedia: Unification of Nepal"
+  },
+  {
+    "id": "anglo-nepalese-war",
+    "year": 1814,
+    "lat": 28,
+    "lng": 84,
+    "type": "war",
+    "title": "Anglo-Nepalese War",
+    "description": "Nepal loses land to the British East India Company (1814–16); Gurkha recruitment begins.",
+    "relatedPolityIds": [
+      "nepal",
+      "great-britain",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Anglo-Nepalese War"
+  },
+  {
+    "id": "everest-first-ascent",
+    "year": 1953,
+    "lat": 27.99,
+    "lng": 86.93,
+    "type": "culture",
+    "title": "First ascent of Everest",
+    "description": "Tenzing Norgay and Edmund Hillary reach the summit.",
+    "relatedPolityIds": [
+      "nepal"
+    ],
+    "source": "Wikipedia: 1953 British Mount Everest expedition"
+  },
+  {
+    "id": "nepal-republic",
+    "year": 2008,
+    "lat": 27.72,
+    "lng": 85.32,
+    "type": "culture",
+    "title": "Nepal becomes a republic",
+    "description": "After a Maoist civil war, the 240-year-old monarchy is abolished.",
+    "relatedPolityIds": [
+      "nepal"
+    ],
+    "source": "Wikipedia: Nepalese Civil War"
+  },
+  {
+    "id": "nepal-earthquake-2015",
+    "year": 2015,
+    "lat": 28.23,
+    "lng": 84.73,
+    "type": "disaster",
+    "title": "Nepal earthquake",
+    "description": "A magnitude 7.8 earthquake kills about 9,000 people.",
+    "relatedPolityIds": [
+      "nepal"
+    ],
+    "source": "Wikipedia: April 2015 Nepal earthquake"
+  },
+  {
+    "id": "bhutan-unification",
+    "year": 1616,
+    "lat": 27.47,
+    "lng": 89.64,
+    "type": "culture",
+    "title": "Zhabdrung arrives in Bhutan",
+    "description": "Ngawang Namgyal flees Tibet and unifies Bhutan under a Buddhist state.",
+    "relatedPolityIds": [
+      "bhutan"
+    ],
+    "source": "Wikipedia: Ngawang Namgyal"
+  },
+  {
+    "id": "bhutan-monarchy",
+    "year": 1907,
+    "lat": 27.47,
+    "lng": 89.64,
+    "type": "culture",
+    "title": "Wangchuck monarchy founded",
+    "description": "Ugyen Wangchuck is chosen as the first hereditary king.",
+    "relatedPolityIds": [
+      "bhutan"
+    ],
+    "source": "Wikipedia: House of Wangchuck"
+  },
+  {
+    "id": "burma-independence",
+    "year": 1948,
+    "lat": 16.87,
+    "lng": 96.2,
+    "type": "culture",
+    "title": "Burma becomes independent",
+    "description": "Burma leaves the British Empire, months after Aung San is assassinated.",
+    "relatedPolityIds": [
+      "myanmar",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Burma"
+  },
+  {
+    "id": "8888-uprising",
+    "year": 1988,
+    "lat": 16.87,
+    "lng": 96.2,
+    "type": "war",
+    "title": "8888 Uprising",
+    "description": "Mass protests against military rule are crushed; Aung San Suu Kyi emerges as leader.",
+    "relatedPolityIds": [
+      "myanmar"
+    ],
+    "source": "Wikipedia: 8888 Uprising"
+  },
+  {
+    "id": "rohingya-crisis",
+    "year": 2017,
+    "lat": 20.5,
+    "lng": 92.5,
+    "type": "war",
+    "title": "Rohingya crisis",
+    "description": "An army crackdown drives over 700,000 Rohingya into Bangladesh.",
+    "relatedPolityIds": [
+      "myanmar",
+      "bangladesh"
+    ],
+    "source": "Wikipedia: Rohingya genocide"
+  },
+  {
+    "id": "myanmar-coup-2021",
+    "year": 2021,
+    "lat": 19.76,
+    "lng": 96.13,
+    "type": "war",
+    "title": "Myanmar coup",
+    "description": "The army seizes power; resistance grows into a civil war.",
+    "relatedPolityIds": [
+      "myanmar"
+    ],
+    "source": "Wikipedia: 2021 Myanmar coup d’état"
+  },
+  {
+    "id": "cambodia-independence",
+    "year": 1953,
+    "lat": 11.56,
+    "lng": 104.92,
+    "type": "culture",
+    "title": "Cambodia becomes independent",
+    "description": "King Norodom Sihanouk wins independence from France.",
+    "relatedPolityIds": [
+      "cambodia",
+      "french-colonial-empire"
+    ],
+    "source": "Wikipedia: Cambodia"
+  },
+  {
+    "id": "vietnam-invades-cambodia",
+    "year": 1978,
+    "lat": 11.56,
+    "lng": 104.92,
+    "type": "war",
+    "title": "Vietnam ends Khmer Rouge rule",
+    "description": "Vietnamese troops take Phnom Penh in January 1979.",
+    "relatedPolityIds": [
+      "cambodia",
+      "vietnam-modern"
+    ],
+    "source": "Wikipedia: Cambodian–Vietnamese War"
+  },
+  {
+    "id": "laos-independence",
+    "year": 1953,
+    "lat": 17.97,
+    "lng": 102.63,
+    "type": "culture",
+    "title": "Laos becomes independent",
+    "description": "France recognises full independence.",
+    "relatedPolityIds": [
+      "laos",
+      "french-colonial-empire"
+    ],
+    "source": "Wikipedia: Kingdom of Laos"
+  },
+  {
+    "id": "secret-war-laos",
+    "year": 1964,
+    "lat": 19.45,
+    "lng": 103.15,
+    "type": "war",
+    "title": "US bombing of Laos",
+    "description": "The US drops over 2 million tonnes of bombs on Laos (1964–73).",
+    "relatedPolityIds": [
+      "laos",
+      "united-states"
+    ],
+    "source": "Wikipedia: Laotian Civil War"
+  },
+  {
+    "id": "brunei-independence",
+    "year": 1984,
+    "lat": 4.89,
+    "lng": 114.94,
+    "type": "culture",
+    "title": "Brunei becomes fully independent",
+    "description": "The British protectorate ends.",
+    "relatedPolityIds": [
+      "brunei",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Brunei"
+  },
+  {
+    "id": "korea-divided",
+    "year": 1948,
+    "lat": 37.57,
+    "lng": 126.98,
+    "type": "culture",
+    "title": "Two Korean states founded",
+    "description": "The Republic of Korea (south) and the Democratic People’s Republic of Korea (north) are declared.",
+    "relatedPolityIds": [
+      "south-korea",
+      "north-korea",
+      "united-states",
+      "soviet-union"
+    ],
+    "source": "Wikipedia: Division of Korea"
+  },
+  {
+    "id": "gwangju-uprising",
+    "year": 1980,
+    "lat": 35.16,
+    "lng": 126.85,
+    "type": "war",
+    "title": "Gwangju Uprising",
+    "description": "Troops kill hundreds of pro-democracy protesters.",
+    "relatedPolityIds": [
+      "south-korea"
+    ],
+    "source": "Wikipedia: Gwangju Uprising"
+  },
+  {
+    "id": "seoul-olympics",
+    "year": 1988,
+    "lat": 37.52,
+    "lng": 127.07,
+    "type": "culture",
+    "title": "Seoul Olympics",
+    "description": "South Korea hosts the Olympics after its move to democracy.",
+    "relatedPolityIds": [
+      "south-korea"
+    ],
+    "source": "Wikipedia: 1988 Summer Olympics"
+  },
+  {
+    "id": "north-korean-famine",
+    "year": 1994,
+    "lat": 39.03,
+    "lng": 125.75,
+    "type": "disaster",
+    "title": "North Korean famine",
+    "description": "Famine (1994–98) kills hundreds of thousands.",
+    "relatedPolityIds": [
+      "north-korea"
+    ],
+    "source": "Wikipedia: North Korean famine"
+  },
+  {
+    "id": "north-korea-nuclear-test",
+    "year": 2006,
+    "lat": 41.28,
+    "lng": 129.08,
+    "type": "war",
+    "title": "North Korea’s first nuclear test",
+    "description": "North Korea tests a nuclear weapon.",
+    "relatedPolityIds": [
+      "north-korea"
+    ],
+    "source": "Wikipedia: 2006 North Korean nuclear test"
   }
 ]

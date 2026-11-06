@@ -1,0 +1,320 @@
+{
+  "id": "laos",
+  "name": "Laos",
+  "era": "modern",
+  "region": "Southeast Asia",
+  "startYear": 1953,
+  "endYear": null,
+  "capital": "Vientiane",
+  "capitalCoords": [
+    102.63,
+    17.97
+  ],
+  "summary": "Independent from France in 1953; the most heavily bombed country per person (US bombing, 1964–73); a communist state since 1975.",
+  "wikiTitle": "Laos",
+  "borderNames": [
+    "Laos"
+  ],
+  "borderYears": [
+    1953,
+    null
+  ],
+  "color": "#c03a3a",
+  "knownFor": [
+    {
+      "label": "Luang Prabang",
+      "kind": "monument",
+      "note": "Temple town (World Heritage Site)."
+    },
+    {
+      "label": "Plain of Jars",
+      "kind": "monument",
+      "note": "Ancient stone jars."
+    },
+    {
+      "label": "Sticky rice",
+      "kind": "food",
+      "note": "Staple food."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Landlocked Southeast Asia; about 237,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "terrain": {
+        "value": "Mountains and Mekong valley.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "climate": {
+        "value": "Tropical monsoon.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "resources": {
+        "value": "Hydropower, minerals.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "disasters": {
+        "value": "Floods; unexploded bombs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 7.6 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "urbanisation": {
+        "value": "Mostly rural.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "disease": {
+        "value": "Improving health care.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "migration": {
+        "value": "Hmong refugees after 1975.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Hydropower, mining, farming.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "tradeRoutes": {
+        "value": "China–Laos railway (2021).",
+        "year": 2021,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "wealth": {
+        "value": "A lower-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "moneyAndTax": {
+        "value": "The kip.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Laos"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A one-party communist state.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "keyRulers": {
+        "value": "Souphanouvong. Kaysone Phomvihane.",
+        "year": 1975,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "succession": {
+        "value": "Communist party.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "institutions": {
+        "value": "Lao People’s Revolutionary Party.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "stability": {
+        "value": "Stable since 1975.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Laos"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Armed forces.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "majorWars": {
+        "value": "Laotian Civil War (1959–75).",
+        "year": 1959,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "territoryChange": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "alliancesRivals": {
+        "value": "Close to Vietnam and China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Laos"
+      },
+      "scienceEducation": {
+        "value": "Low literacy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Laos"
+      },
+      "communicationTransport": {
+        "value": "Mekong; new railway.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Theravada Buddhism; animism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "languageWriting": {
+        "value": "Lao (own script).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "artsArchitecture": {
+        "value": "Wats.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "socialStructure": {
+        "value": "Lao, Khmu and Hmong.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "sharedIdentity": {
+        "value": "Lao Buddhist identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "dailyLife": {
+        "value": "Houses on stilts; sticky rice, larb.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "China, Vietnam, Cambodia, Thailand, Myanmar.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "ideasReligions": {
+        "value": "Buddhism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "colonisation": {
+        "value": "French protectorate (1893–1953).",
+        "year": 1893,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1953).",
+        "year": 1953,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Laos"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Laos"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Laos.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Laos"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Laos"
+      }
+    }
+  }
+}

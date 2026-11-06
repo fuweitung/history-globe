@@ -1,0 +1,321 @@
+{
+  "id": "sri-lanka",
+  "name": "Sri Lanka",
+  "era": "modern",
+  "region": "South Asia",
+  "startYear": 1948,
+  "endYear": null,
+  "capital": "Colombo",
+  "capitalCoords": [
+    79.86,
+    6.93
+  ],
+  "summary": "Formerly Ceylon, independent from Britain in 1948; renamed in 1972; a civil war with the Tamil Tigers lasted 1983–2009.",
+  "wikiTitle": "Sri Lanka",
+  "borderNames": [
+    "Sri Lanka"
+  ],
+  "borderYears": [
+    1948,
+    null
+  ],
+  "color": "#c08a3a",
+  "knownFor": [
+    {
+      "label": "Ceylon tea",
+      "kind": "food",
+      "note": "Famous tea exports."
+    },
+    {
+      "label": "Sigiriya",
+      "kind": "monument",
+      "note": "Rock fortress."
+    },
+    {
+      "label": "First woman prime minister",
+      "kind": "idea",
+      "year": 1960,
+      "note": "Sirimavo Bandaranaike."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "An island south of India; about 65,600 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "terrain": {
+        "value": "Central highlands and coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "resources": {
+        "value": "Tea, rubber, gems.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "disasters": {
+        "value": "Indian Ocean tsunami (2004) killed about 35,000.",
+        "year": 2004,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 22 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "urbanisation": {
+        "value": "Colombo.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "disease": {
+        "value": "Good public health.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "migration": {
+        "value": "Tamil diaspora.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Tea, garments, tourism, remittances.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "tradeRoutes": {
+        "value": "Port of Colombo.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "wealth": {
+        "value": "Debt crisis and default (2022).",
+        "year": 2022,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "moneyAndTax": {
+        "value": "The rupee.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sri Lanka"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A semi-presidential republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "keyRulers": {
+        "value": "D. S. Senanayake. Sirimavo Bandaranaike. Mahinda Rajapaksa.",
+        "year": 1948,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "institutions": {
+        "value": "Parliament.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "stability": {
+        "value": "Civil war (1983–2009); protests (2022).",
+        "year": 1983,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sri Lanka"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Armed forces.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "majorWars": {
+        "value": "Sri Lankan Civil War.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "territoryChange": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "alliancesRivals": {
+        "value": "Balances India and China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "scienceEducation": {
+        "value": "High literacy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "communicationTransport": {
+        "value": "Railways from British times.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Buddhist majority; Hindu, Muslim and Christian minorities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "languageWriting": {
+        "value": "Sinhala and Tamil.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "artsArchitecture": {
+        "value": "Kandy and Anuradhapura temples.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "socialStructure": {
+        "value": "Sinhalese majority; Tamils and Muslims.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "sharedIdentity": {
+        "value": "Sinhalese and Tamil identities in conflict.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "dailyLife": {
+        "value": "Houses; rice and curry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "India.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "ideasReligions": {
+        "value": "Theravada Buddhism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "colonisation": {
+        "value": "Portuguese, Dutch, then British (1796–1948).",
+        "year": 1796,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1948).",
+        "year": 1948,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Sri Lanka.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sri Lanka"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sri Lanka"
+      }
+    }
+  }
+}

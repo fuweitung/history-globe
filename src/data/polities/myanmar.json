@@ -1,0 +1,320 @@
+{
+  "id": "myanmar",
+  "name": "Myanmar",
+  "era": "modern",
+  "region": "Southeast Asia",
+  "startYear": 1948,
+  "endYear": null,
+  "capital": "Naypyidaw",
+  "capitalCoords": [
+    96.13,
+    19.76
+  ],
+  "summary": "Burma became independent from Britain in 1948; ruled by the army for most of its history; renamed Myanmar in 1989; civil war since the 2021 coup.",
+  "wikiTitle": "Myanmar",
+  "borderNames": [
+    "Burma"
+  ],
+  "borderYears": [
+    1948,
+    null
+  ],
+  "color": "#e0b03a",
+  "knownFor": [
+    {
+      "label": "Shwedagon Pagoda",
+      "kind": "monument",
+      "note": "Gilded stupa in Yangon."
+    },
+    {
+      "label": "Bagan",
+      "kind": "monument",
+      "note": "Thousands of temples."
+    },
+    {
+      "label": "Longyi",
+      "kind": "textile",
+      "note": "Sarong-like garment."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Mainland Southeast Asia; about 677,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "terrain": {
+        "value": "Irrawaddy valley, mountains, coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "climate": {
+        "value": "Tropical monsoon.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "resources": {
+        "value": "Jade, rubies, gas, teak.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "disasters": {
+        "value": "Cyclone Nargis (2008) killed about 140,000; earthquake (2025).",
+        "year": 2008,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 54 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "urbanisation": {
+        "value": "Yangon and Mandalay.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "disease": {
+        "value": "Weak health care.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "migration": {
+        "value": "Rohingya fled to Bangladesh (2017).",
+        "year": 2017,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, gas, jade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "tradeRoutes": {
+        "value": "Trade with China and Thailand.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "wealth": {
+        "value": "A lower-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "moneyAndTax": {
+        "value": "The kyat.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Myanmar"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Military rule since 2021.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "keyRulers": {
+        "value": "Aung San. U Nu. Ne Win. Aung San Suu Kyi. Min Aung Hlaing.",
+        "year": 1948,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "succession": {
+        "value": "Coups (1962, 2021).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "institutions": {
+        "value": "Army dominant.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "stability": {
+        "value": "Uprisings (1988, 2007); coup and civil war (2021).",
+        "year": 2021,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Myanmar"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Tatmadaw (army).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "majorWars": {
+        "value": "Long ethnic wars since 1948.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "territoryChange": {
+        "value": "Rebels control much land since 2021.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "alliancesRivals": {
+        "value": "Close to China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Myanmar"
+      },
+      "scienceEducation": {
+        "value": "Monastery schools.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Myanmar"
+      },
+      "communicationTransport": {
+        "value": "Rivers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "About 88% Buddhist.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "languageWriting": {
+        "value": "Burmese (own script).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "artsArchitecture": {
+        "value": "Pagodas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "socialStructure": {
+        "value": "Bamar majority; 135 official ethnic groups.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "sharedIdentity": {
+        "value": "Ethnic groups contest a Bamar-centred state.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "dailyLife": {
+        "value": "Houses; mohinga (fish noodles).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "India, Bangladesh, China, Laos, Thailand.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "ideasReligions": {
+        "value": "Theravada Buddhism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "colonisation": {
+        "value": "British (1824–1948).",
+        "year": 1885,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1948).",
+        "year": 1948,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Myanmar"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Myanmar"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Myanmar.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Myanmar"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Myanmar"
+      }
+    }
+  }
+}

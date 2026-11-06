@@ -7136,5 +7136,246 @@
   ],
   "wikiTitle": "Nusrat Fateh Ali Khan",
   "source": "Wikipedia: Nusrat Fateh Ali Khan"
+ },
+ {
+  "id": "sheikh-mujib",
+  "name": "Sheikh Mujibur Rahman",
+  "born": 1920,
+  "died": 1975,
+  "role": "ruler",
+  "description": "Founding leader of Bangladesh; assassinated in 1975.",
+  "polityIds": [
+   "bangladesh",
+   "pakistan"
+  ],
+  "place": [
+   90.41,
+   23.81
+  ],
+  "wikiTitle": "Sheikh Mujibur Rahman",
+  "source": "Wikipedia: Sheikh Mujibur Rahman"
+ },
+ {
+  "id": "rabindranath-tagore",
+  "name": "Rabindranath Tagore",
+  "born": 1861,
+  "died": 1941,
+  "role": "writer",
+  "description": "Bengali poet; first non-European Nobel laureate in literature (1913).",
+  "polityIds": [
+   "british-empire"
+  ],
+  "place": [
+   88.36,
+   22.57
+  ],
+  "wikiTitle": "Rabindranath Tagore",
+  "source": "Wikipedia: Rabindranath Tagore"
+ },
+ {
+  "id": "sirimavo-bandaranaike",
+  "name": "Sirimavo Bandaranaike",
+  "born": 1916,
+  "died": 2000,
+  "role": "ruler",
+  "description": "The world’s first woman prime minister (1960).",
+  "polityIds": [
+   "sri-lanka"
+  ],
+  "place": [
+   79.86,
+   6.93
+  ],
+  "wikiTitle": "Sirimavo Bandaranaike",
+  "source": "Wikipedia: Sirimavo Bandaranaike"
+ },
+ {
+  "id": "prithvi-narayan-shah",
+  "name": "Prithvi Narayan Shah",
+  "born": 1723,
+  "died": 1775,
+  "role": "ruler",
+  "description": "Gorkha king who unified Nepal.",
+  "polityIds": [
+   "nepal"
+  ],
+  "place": [
+   84.63,
+   28
+  ],
+  "wikiTitle": "Prithvi Narayan Shah",
+  "source": "Wikipedia: Prithvi Narayan Shah"
+ },
+ {
+  "id": "tenzing-norgay",
+  "name": "Tenzing Norgay",
+  "born": 1914,
+  "died": 1986,
+  "role": "explorer",
+  "description": "Sherpa climber who first reached Everest’s summit with Hillary (1953).",
+  "polityIds": [
+   "nepal"
+  ],
+  "place": [
+   86.71,
+   27.8
+  ],
+  "wikiTitle": "Tenzing Norgay",
+  "source": "Wikipedia: Tenzing Norgay"
+ },
+ {
+  "id": "ngawang-namgyal",
+  "name": "Ngawang Namgyal",
+  "born": 1594,
+  "died": 1651,
+  "role": "religious",
+  "description": "Tibetan lama who unified Bhutan.",
+  "polityIds": [
+   "bhutan"
+  ],
+  "place": [
+   89.64,
+   27.47
+  ],
+  "wikiTitle": "Ngawang Namgyal",
+  "source": "Wikipedia: Ngawang Namgyal"
+ },
+ {
+  "id": "aung-san",
+  "name": "Aung San",
+  "born": 1915,
+  "died": 1947,
+  "role": "military",
+  "description": "Father of Burmese independence; assassinated months before it.",
+  "polityIds": [
+   "british-empire",
+   "myanmar"
+  ],
+  "place": [
+   96.2,
+   16.87
+  ],
+  "wikiTitle": "Aung San",
+  "source": "Wikipedia: Aung San"
+ },
+ {
+  "id": "u-thant",
+  "name": "U Thant",
+  "born": 1909,
+  "died": 1974,
+  "role": "ruler",
+  "description": "Burmese diplomat; UN Secretary-General (1961–71).",
+  "polityIds": [
+   "myanmar"
+  ],
+  "place": [
+   96.2,
+   16.87
+  ],
+  "wikiTitle": "U Thant",
+  "source": "Wikipedia: U Thant"
+ },
+ {
+  "id": "norodom-sihanouk",
+  "name": "Norodom Sihanouk",
+  "born": 1922,
+  "died": 2012,
+  "role": "ruler",
+  "description": "King and leader who won Cambodia’s independence.",
+  "polityIds": [
+   "cambodia",
+   "french-colonial-empire"
+  ],
+  "place": [
+   104.92,
+   11.56
+  ],
+  "wikiTitle": "Norodom Sihanouk",
+  "source": "Wikipedia: Norodom Sihanouk"
+ },
+ {
+  "id": "pol-pot",
+  "name": "Pol Pot",
+  "born": 1925,
+  "died": 1998,
+  "role": "ruler",
+  "description": "Khmer Rouge leader responsible for the Cambodian genocide.",
+  "polityIds": [
+   "cambodia"
+  ],
+  "place": [
+   104.92,
+   11.56
+  ],
+  "wikiTitle": "Pol Pot",
+  "source": "Wikipedia: Pol Pot"
+ },
+ {
+  "id": "souphanouvong",
+  "name": "Souphanouvong",
+  "born": 1909,
+  "died": 1995,
+  "role": "ruler",
+  "description": "The “Red Prince”, first president of communist Laos.",
+  "polityIds": [
+   "laos"
+  ],
+  "place": [
+   102.63,
+   17.97
+  ],
+  "wikiTitle": "Souphanouvong",
+  "source": "Wikipedia: Souphanouvong"
+ },
+ {
+  "id": "kim-il-sung",
+  "name": "Kim Il Sung",
+  "born": 1912,
+  "died": 1994,
+  "role": "ruler",
+  "description": "Founder of North Korea.",
+  "polityIds": [
+   "north-korea"
+  ],
+  "place": [
+   125.75,
+   39.03
+  ],
+  "wikiTitle": "Kim Il Sung",
+  "source": "Wikipedia: Kim Il Sung"
+ },
+ {
+  "id": "park-chung-hee",
+  "name": "Park Chung-hee",
+  "born": 1917,
+  "died": 1979,
+  "role": "ruler",
+  "description": "Military ruler of South Korea (1961–79) who drove rapid industrialisation.",
+  "polityIds": [
+   "south-korea"
+  ],
+  "place": [
+   126.98,
+   37.57
+  ],
+  "wikiTitle": "Park Chung-hee",
+  "source": "Wikipedia: Park Chung-hee"
+ },
+ {
+  "id": "kim-dae-jung",
+  "name": "Kim Dae-jung",
+  "born": 1924,
+  "died": 2009,
+  "role": "ruler",
+  "description": "Democracy activist, president, Nobel Peace Prize (2000).",
+  "polityIds": [
+   "south-korea"
+  ],
+  "place": [
+   126.98,
+   37.57
+  ],
+  "wikiTitle": "Kim Dae-jung",
+  "source": "Wikipedia: Kim Dae-jung"
  }
 ]

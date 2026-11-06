@@ -1,0 +1,320 @@
+{
+  "id": "nepal",
+  "name": "Nepal",
+  "era": "early_modern",
+  "region": "South Asia",
+  "startYear": 1768,
+  "endYear": null,
+  "capital": "Kathmandu",
+  "capitalCoords": [
+    85.32,
+    27.72
+  ],
+  "summary": "Unified by the Gorkha king Prithvi Narayan Shah in 1768; never colonised; the monarchy ended in 2008 after a Maoist civil war.",
+  "wikiTitle": "Nepal",
+  "borderNames": [
+    "Nepal"
+  ],
+  "borderYears": [
+    1768,
+    null
+  ],
+  "color": "#c03a3a",
+  "knownFor": [
+    {
+      "label": "Mount Everest",
+      "kind": "monument",
+      "note": "Highest mountain on Earth."
+    },
+    {
+      "label": "Gurkhas",
+      "kind": "troops",
+      "note": "Soldiers who serve in the British and Indian armies."
+    },
+    {
+      "label": "Lumbini",
+      "kind": "monument",
+      "note": "Birthplace of the Buddha."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Himalaya between India and China; about 147,500 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "terrain": {
+        "value": "High mountains, hills, Terai plain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "climate": {
+        "value": "From subtropical to arctic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "resources": {
+        "value": "Hydropower, farmland, tourism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "disasters": {
+        "value": "Gorkha earthquake (2015) killed about 9,000.",
+        "year": 2015,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 30 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "urbanisation": {
+        "value": "Kathmandu valley.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "disease": {
+        "value": "Improving health care.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "migration": {
+        "value": "Many work in India, the Gulf and Malaysia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, remittances, tourism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "tradeRoutes": {
+        "value": "Trade with India and Tibet.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "wealth": {
+        "value": "A lower-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "moneyAndTax": {
+        "value": "The Nepalese rupee.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nepal"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A federal parliamentary republic since 2008.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "keyRulers": {
+        "value": "Prithvi Narayan Shah. Jung Bahadur Rana. King Birendra.",
+        "year": 1768,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "succession": {
+        "value": "Shah kings; Rana prime ministers (1846–1951); elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "institutions": {
+        "value": "Federal Parliament.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "stability": {
+        "value": "Maoist civil war (1996–2006); royal massacre (2001).",
+        "year": 1996,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nepal"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Gurkha soldiers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "majorWars": {
+        "value": "Anglo-Nepalese War (1814–16).",
+        "year": 1814,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "territoryChange": {
+        "value": "Lost land to Britain (1816).",
+        "year": 1816,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "alliancesRivals": {
+        "value": "Between India and China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nepal"
+      },
+      "scienceEducation": {
+        "value": "Literacy rising.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nepal"
+      },
+      "communicationTransport": {
+        "value": "Mountain roads and trails.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Hindu; Buddhist minority.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "languageWriting": {
+        "value": "Nepali (Devanagari).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "artsArchitecture": {
+        "value": "Newar pagodas of the Kathmandu valley.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "socialStructure": {
+        "value": "Many castes and ethnic groups.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "sharedIdentity": {
+        "value": "Never colonised.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "dailyLife": {
+        "value": "Houses; dal bhat, momos.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "India, China (Tibet).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "ideasReligions": {
+        "value": "Hindu and Buddhist traditions.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "colonisation": {
+        "value": "Never colonised.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Unification (1768).",
+        "year": 1768,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "peakPeriod": {
+        "value": "Largest extent before 1814.",
+        "year": 1810,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "declineSignals": {
+        "value": "Lost the war with Britain (1816).",
+        "year": 1816,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Nepal.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nepal"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nepal"
+      }
+    }
+  }
+}
