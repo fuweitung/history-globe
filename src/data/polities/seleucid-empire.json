@@ -305,5 +305,20 @@
       "kind": "tool",
       "note": "Silver coins with portraits of kings."
     }
-  ]
+  ],
+  "series": {
+    "population": [
+      {
+        "year": -301,
+        "value": 30000000,
+        "certainty": "estimated"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Seleucid Empire (infobox, checked 6 Nov 2026)"
+    ],
+    "notes": [
+      "“30 million or more”."
+    ]
+  }
 }

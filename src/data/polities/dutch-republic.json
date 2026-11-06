@@ -315,5 +315,17 @@
         "source": "Wikipedia: Dutch Republic (checked 5 Nov 2026)"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 1795,
+        "value": 1880500,
+        "certainty": "estimated"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Dutch Republic (infobox, checked 6 Nov 2026)"
+    ]
   }
 }

@@ -308,5 +308,25 @@
         "source": "Wikipedia: Empire of Japan (checked 5 Nov 2026)"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 1920,
+        "value": 77700000,
+        "certainty": "confirmed"
+      },
+      {
+        "year": 1940,
+        "value": 105200000,
+        "certainty": "confirmed"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Empire of Japan (infobox, checked 6 Nov 2026)"
+    ],
+    "notes": [
+      "Including colonies; home islands 56.0M (1920) and 73.1M (1940)."
+    ]
   }
 }

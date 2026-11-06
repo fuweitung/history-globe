@@ -306,5 +306,17 @@
       "year": 1192,
       "note": "A stone bridge near Beijing."
     }
-  ]
+  ],
+  "series": {
+    "population": [
+      {
+        "year": 1186,
+        "value": 53000000,
+        "certainty": "estimated"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Jin dynasty (1115–1234) (infobox, checked 6 Nov 2026)"
+    ]
+  }
 }

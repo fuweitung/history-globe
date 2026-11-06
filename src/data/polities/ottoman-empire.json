@@ -285,5 +285,22 @@
         "source": "—"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 1600,
+        "value": 22000000,
+        "certainty": "estimated"
+      },
+      {
+        "year": 1912,
+        "value": 24000000,
+        "certainty": "confirmed"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Ottoman Empire (infobox, checked 6 Nov 2026)"
+    ]
   }
 }

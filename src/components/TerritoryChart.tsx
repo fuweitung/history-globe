@@ -13,6 +13,8 @@ export interface Series {
   name: string;
   color: string;
   points: [number, number][];
+  /** Optional low–high range per year, drawn as a whisker. */
+  ranges?: Record<number, [number, number]>;
 }
 
 interface Props {
@@ -23,6 +25,12 @@ interface Props {
   onJumpToYear: (y: number) => void;
   height?: number;
   label: string;
+  /** Tooltip/table value format (default: area). */
+  formatValue?: (v: number) => string;
+  /** Axis tick format (default: area). */
+  formatAxis?: (v: number) => string;
+  /** Data-table column heading for a single series. */
+  valueLabel?: string;
 }
 
 export function formatArea(km2: number): string {
@@ -36,13 +44,34 @@ function niceTicks(max: number): number[] {
   const pow = 10 ** Math.floor(Math.log10(raw || 1));
   const step = [1, 2, 2.5, 5, 10].map((m) => m * pow).find((s) => s >= raw) ?? raw;
   const out: number[] = [];
-  for (let v = 0; v <= max + step * 0.01; v += step) out.push(v);
+  for (let v = 0; ; v += step) {
+    out.push(v);
+    if (v >= max) break; // the top tick always covers the data
+  }
   return out;
 }
 
 const PAD = { l: 38, r: 14, t: 14, b: 22 };
 
-export default function TerritoryChart({ series, domain, year, peak, onJumpToYear, height = 170, label }: Props) {
+export function formatPeople(n: number): string {
+  if (n >= 1e9) return `${(n / 1e9).toFixed(2)} billion`;
+  if (n >= 1e6) return `${+(n / 1e6).toFixed(n >= 1e8 ? 0 : 1)} million`;
+  return n.toLocaleString();
+}
+export const axisPeople = (v: number) => (v === 0 ? '0' : v >= 1e9 ? `${+(v / 1e9).toFixed(1)}B` : v >= 1e6 ? `${+(v / 1e6).toFixed(0)}M` : `${Math.round(v / 1000)}k`);
+
+export default function TerritoryChart({
+  series,
+  domain,
+  year,
+  peak,
+  onJumpToYear,
+  height = 170,
+  label,
+  formatValue = formatArea,
+  formatAxis = axisArea,
+  valueLabel = 'Territory',
+}: Props) {
   const wrapRef = useRef<HTMLDivElement>(null);
   const [width, setWidth] = useState(360);
   const [hover, setHover] = useState<number | null>(null); // index into xs
@@ -57,7 +86,7 @@ export default function TerritoryChart({ series, domain, year, peak, onJumpToYea
   }, []);
 
   const xs = useMemo(() => [...new Set(series.flatMap((s) => s.points.map((p) => p[0])))].sort((a, b) => a - b), [series]);
-  const maxV = Math.max(1, ...series.flatMap((s) => s.points.map((p) => p[1])));
+  const maxV = Math.max(1, ...series.flatMap((s) => s.points.map((p) => Math.max(p[1], s.ranges?.[p[0]]?.[1] ?? 0))));
   const ticks = niceTicks(maxV * 1.08);
   const yMax = ticks[ticks.length - 1];
   const [x0, x1] = domain;
@@ -86,11 +115,22 @@ export default function TerritoryChart({ series, domain, year, peak, onJumpToYea
   };
 
   const hx = hover !== null ? xs[hover] : null;
-  const tipLeft = hx !== null ? Math.min(Math.max(sx(hx) - 70, 0), width - 150) : 0;
+  const tipLeft = hx !== null ? Math.min(Math.max(sx(hx) - 85, 0), width - 170) : 0;
   const yearInDomain = year >= x0 && year <= x1;
 
   return (
     <div>
+      {series.length > 1 && (
+        <ul className="mb-1.5 flex flex-wrap gap-x-4 gap-y-1 text-[11px] text-parchment-200" aria-label="Legend">
+          {series.map((s) => (
+            <li key={s.id} className="flex items-center gap-1.5">
+              <span className="h-0.5 w-4 rounded-full" style={{ background: s.color }} aria-hidden="true" />
+              {s.name}
+              {!s.points.length && <span className="text-parchment-400">(no data)</span>}
+            </li>
+          ))}
+        </ul>
+      )}
       <div
         ref={wrapRef}
         className="relative touch-pan-y select-none"
@@ -120,7 +160,7 @@ export default function TerritoryChart({ series, domain, year, peak, onJumpToYea
             <g key={t}>
               <line x1={PAD.l} x2={width - PAD.r} y1={sy(t)} y2={sy(t)} stroke="rgba(255,255,255,0.07)" />
               <text x={PAD.l - 6} y={sy(t)} dy="0.32em" textAnchor="end" className="fill-parchment-400 text-[10px] tabular-nums">
-                {axisArea(t)}
+                {formatAxis(t)}
               </text>
             </g>
           ))}
@@ -150,6 +190,10 @@ export default function TerritoryChart({ series, domain, year, peak, onJumpToYea
               <g key={s.id}>
                 {series.length === 1 && <path d={area} fill={s.color} opacity={0.16} />}
                 <path d={d} fill="none" stroke={s.color} strokeWidth={2} strokeLinejoin="round" strokeLinecap="round" />
+                {s.points.map(([y]) => {
+                  const r = s.ranges?.[y];
+                  return r ? <line key={`r${y}`} x1={sx(y)} x2={sx(y)} y1={sy(r[0])} y2={sy(r[1])} stroke={s.color} strokeWidth={1.5} opacity={0.7} /> : null;
+                })}
                 {s.points.map(([y, v]) => (
                   <circle key={y} cx={sx(y)} cy={sy(v)} r={hx === y ? 5 : 3.5} fill={s.color} stroke="#14161c" strokeWidth={2} />
                 ))}
@@ -162,7 +206,7 @@ export default function TerritoryChart({ series, domain, year, peak, onJumpToYea
         </svg>
 
         {hx !== null && (
-          <div className="pointer-events-none absolute top-1 z-10 w-[150px] rounded-lg bg-ink-700/95 px-2.5 py-1.5 text-[11px] shadow-lg ring-1 ring-white/15" style={{ left: tipLeft }}>
+          <div className="pointer-events-none absolute top-1 z-10 w-[170px] rounded-lg bg-ink-700/95 px-2.5 py-1.5 text-[11px] shadow-lg ring-1 ring-white/15" style={{ left: tipLeft }}>
             <div className="font-semibold text-parchment-50 tabular-nums">{formatYear(hx)}</div>
             {series.map((s) => {
               const pt = s.points.find((p) => p[0] === hx);
@@ -170,7 +214,7 @@ export default function TerritoryChart({ series, domain, year, peak, onJumpToYea
                 <div key={s.id} className="mt-0.5 flex items-center gap-1.5 text-parchment-200">
                   <span className="size-2 shrink-0 rounded-full" style={{ background: s.color }} />
                   {series.length > 1 && <span className="min-w-0 flex-1 truncate">{s.name}</span>}
-                  <span className="ml-auto font-semibold text-parchment-50 tabular-nums">{pt ? formatArea(pt[1]) : '—'}</span>
+                  <span className="ml-auto font-semibold text-parchment-50 tabular-nums">{pt ? fmtRange(s, pt, formatValue) : '—'}</span>
                 </div>
               );
             })}
@@ -187,7 +231,7 @@ export default function TerritoryChart({ series, domain, year, peak, onJumpToYea
               <th className="py-0.5 font-semibold">Map year</th>
               {series.map((s) => (
                 <th key={s.id} className="py-0.5 text-right font-semibold">
-                  {series.length > 1 ? s.name : 'Territory'}
+                  {series.length > 1 ? s.name : valueLabel}
                 </th>
               ))}
             </tr>
@@ -204,7 +248,7 @@ export default function TerritoryChart({ series, domain, year, peak, onJumpToYea
                   const pt = s.points.find((p) => p[0] === x);
                   return (
                     <td key={s.id} className="py-0.5 text-right text-parchment-100">
-                      {pt ? formatArea(pt[1]) : '—'}
+                      {pt ? fmtRange(s, pt, formatValue) : '—'}
                     </td>
                   );
                 })}
@@ -217,6 +261,14 @@ export default function TerritoryChart({ series, domain, year, peak, onJumpToYea
   );
 }
 
+/** Population points and ranges for a civilisation (from its series.population). */
+export function populationOf(p: { series?: { population?: { year: number; value: number; low?: number; high?: number }[] } }) {
+  const pts = (p.series?.population ?? []).map((x) => [x.year, x.value] as [number, number]);
+  const ranges: Record<number, [number, number]> = {};
+  for (const x of p.series?.population ?? []) if (x.low !== undefined && x.high !== undefined) ranges[x.year] = [x.low, x.high];
+  return { pts, ranges };
+}
+
 /** Domain for one civilisation: its lifetime, widened to include any measured points. */
 export function domainFor(start: number, end: number | null, pts: [number, number][]): [number, number] {
   const e = end ?? MAX_YEAR;
@@ -224,4 +276,9 @@ export function domainFor(start: number, end: number | null, pts: [number, numbe
   const hi = Math.max(e, ...pts.map((p) => p[0]));
   const padYears = Math.max(5, (hi - lo) * 0.03);
   return [lo - padYears, hi + padYears];
+}
+
+function fmtRange(s: Series, pt: [number, number], f: (v: number) => string): string {
+  const r = s.ranges?.[pt[0]];
+  return r ? `${f(r[0])}–${f(r[1])}` : f(pt[1]);
 }

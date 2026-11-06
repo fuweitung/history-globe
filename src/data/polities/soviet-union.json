@@ -302,5 +302,17 @@
         "source": "Wikipedia: Soviet Union (checked 5 Nov 2026)"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 1989,
+        "value": 286730819,
+        "certainty": "confirmed"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Soviet Union (infobox, checked 6 Nov 2026)"
+    ]
   }
 }

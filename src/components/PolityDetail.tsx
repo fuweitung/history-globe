@@ -3,7 +3,7 @@ import { CHECKLIST_SCHEMA, isFilled, overallCompletion } from '../lib/checklistS
 import { ERA_LABEL, EVENT_TYPES, POLITY_BY_ID, eventsForPolity, formatSpan, formatYear, isActive, linksForPolity } from '../lib/data';
 import type { KnownForKind, LinkRelation, Polity } from '../types';
 import ChecklistCategory, { CertaintyBadge } from './ChecklistCategory';
-import TerritoryChart, { SERIES_COLORS, TERRITORY, domainFor, formatArea } from './TerritoryChart';
+import TerritoryChart, { SERIES_COLORS, TERRITORY, axisPeople, domainFor, formatArea, formatPeople, populationOf } from './TerritoryChart';
 
 interface Props {
   polity: Polity;
@@ -111,6 +111,51 @@ function TerritorySection({ polity, year, peak, onJumpToYear }: { polity: Polity
   );
 }
 
+function PopulationSection({ polity, year, peak, onJumpToYear }: { polity: Polity; year: number; peak: number | null; onJumpToYear: (y: number) => void }) {
+  const { pts, ranges } = populationOf(polity);
+  const src = polity.series?.sources?.[0];
+  const notes = polity.series?.notes ?? [];
+  const approxYears = (polity.series?.population ?? []).some((x) => x.approxYear);
+  return (
+    <section className="mx-5 mb-4" aria-labelledby="population-h">
+      <h3 id="population-h" className="text-[11px] font-semibold tracking-wider text-parchment-300 uppercase">
+        Population
+      </h3>
+      {pts.length === 0 ? (
+        <p className="mt-1.5 text-xs text-parchment-400">No dated population figure in the sources checked. See “Population & health” in the checklist below for estimates.</p>
+      ) : pts.length === 1 ? (
+        <p className="mt-1.5 text-xs text-parchment-200">
+          About <strong className="text-parchment-50">{ranges[pts[0][0]] ? `${formatPeople(ranges[pts[0][0]][0])}–${formatPeople(ranges[pts[0][0]][1])}` : formatPeople(pts[0][1])}</strong> in{' '}
+          <button type="button" onClick={() => onJumpToYear(pts[0][0])} className="font-semibold text-gold-300 hover:underline">
+            {formatYear(pts[0][0], approxYears)}
+          </button>
+          {approxYears && ' (the source gives a century)'}. Only one dated figure, so no curve.
+        </p>
+      ) : (
+        <div className="mt-2">
+          <TerritoryChart
+            series={[{ id: polity.id, name: polity.name, color: SERIES_COLORS[1], points: pts, ranges }]}
+            domain={domainFor(polity.startYear, polity.endYear, pts)}
+            year={year}
+            peak={peak}
+            onJumpToYear={onJumpToYear}
+            label={`Population of ${polity.name} at ${pts.length} dates`}
+            formatValue={formatPeople}
+            formatAxis={axisPeople}
+            valueLabel="Population"
+            height={150}
+          />
+        </div>
+      )}
+      {pts.length > 0 && (
+        <p className="mt-1 text-[10px] leading-snug text-parchment-400">
+          {src}. Estimates, often with wide ranges (shown as whiskers){approxYears ? '; century-only figures are placed mid-century' : ''}.{notes.length ? ` ${notes.join(' ')}` : ''}
+        </p>
+      )}
+    </section>
+  );
+}
+
 const RELATION_TEXT: Record<LinkRelation, [string, string]> = {
   // [from → to wording, to ← from wording]
   succeeded: ['Succeeded by', 'Successor of'],
@@ -194,6 +239,7 @@ export default function PolityDetail({ polity, year, onJumpToYear, onFlyTo, onOp
 
       {/* ── Territory over time ── */}
       <TerritorySection polity={polity} year={year} peak={peakYear} onJumpToYear={onJumpToYear} />
+      <PopulationSection polity={polity} year={year} peak={peakYear} onJumpToYear={onJumpToYear} />
 
       {/* ── Checklist ── */}
       <section aria-labelledby="checklist-h">

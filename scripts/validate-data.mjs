@@ -84,6 +84,18 @@ const done = rows.filter((r) => r[1] > 0).sort((a, b) => b[1] - a[1]);
 for (const [name, f, t] of done) console.log(`  ${String(Math.round((f / t) * 100)).padStart(3)}%  ${name} (${f}/${t})`);
 console.log(`  …and ${rows.length - done.length} with empty checklists\n`);
 if (warn.length) console.log(`${warn.length} warning(s):\n  ` + warn.slice(0, 20).join('\n  ') + (warn.length > 20 ? '\n  …' : ''));
+
+// ── Routes ──
+const routes = JSON.parse(await readFile(join(root, 'src/data/routes.json'), 'utf8'));
+const KINDS = new Set(['trade', 'voyage', 'migration', 'forced']);
+for (const r of routes) {
+  const where = `routes.json ${r.id}`;
+  if (!KINDS.has(r.kind)) errors.push(`${where}: bad kind "${r.kind}"`);
+  if (!(r.from <= r.to)) errors.push(`${where}: from after to`);
+  if (!r.source) errors.push(`${where}: missing source`);
+  for (const pid of r.relatedPolityIds) if (!ids.has(pid)) errors.push(`${where}: unknown polity "${pid}"`);
+  for (const line of r.paths) for (const [x, y] of line) if (Math.abs(y) > 90 || Math.abs(x) > 360) errors.push(`${where}: bad coordinate`);
+}
 if (errors.length) {
   console.error(`\n${errors.length} error(s):\n  ` + errors.join('\n  '));
   process.exit(1);

@@ -313,5 +313,18 @@
         "source": "Wikipedia: Gupta Empire (checked 6 Nov 2026)"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 450,
+        "value": 75000000,
+        "certainty": "estimated",
+        "approxYear": true
+      }
+    ],
+    "sources": [
+      "Wikipedia: Gupta Empire (infobox, checked 6 Nov 2026)"
+    ]
   }
 }

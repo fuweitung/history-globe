@@ -312,5 +312,19 @@
         "source": "Wikipedia: Achaemenid Empire (checked 5 Nov 2026)"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": -500,
+        "value": 26000000,
+        "low": 17000000,
+        "high": 35000000,
+        "certainty": "estimated"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Achaemenid Empire (infobox, checked 6 Nov 2026)"
+    ]
   }
 }

@@ -312,5 +312,22 @@
         "source": "Wikipedia: Song dynasty (checked 5 Nov 2026)"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 1120,
+        "value": 95000000,
+        "low": 80000000,
+        "high": 110000000,
+        "certainty": "estimated"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Song dynasty (infobox, checked 6 Nov 2026)"
+    ],
+    "notes": [
+      "Northern Song estimate for the 1120s."
+    ]
   }
 }

@@ -312,5 +312,20 @@
       "year": 1400,
       "note": "The Ming-era novel that made these heroes famous."
     }
-  ]
+  ],
+  "series": {
+    "population": [
+      {
+        "year": 280,
+        "value": 16163863,
+        "certainty": "estimated"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Three Kingdoms (infobox, checked 6 Nov 2026)"
+    ],
+    "notes": [
+      "Registered census (households counted by the state), far below the real population."
+    ]
+  }
 }

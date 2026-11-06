@@ -1,6 +1,7 @@
-import type { EventType, HistoryEvent, Polity, PolityLink } from '../types';
+import type { EventType, HistoryEvent, HistoryRoute, Polity, PolityLink, RouteKind } from '../types';
 import { normaliseChecklist } from './checklistSchema';
 import eventsJson from '../data/events.json';
+import routesJson from '../data/routes.json';
 import linksJson from '../data/links.json';
 
 // Every file in src/data/polities/*.json becomes a polity.
@@ -20,6 +21,20 @@ export const EVENTS: HistoryEvent[] = (eventsJson as HistoryEvent[]).slice().sor
 export const EVENT_BY_ID = new Map(EVENTS.map((e) => [e.id, e]));
 
 export const LINKS: PolityLink[] = linksJson as PolityLink[];
+
+export const ROUTES: HistoryRoute[] = routesJson as unknown as HistoryRoute[];
+export const ROUTE_BY_ID = new Map(ROUTES.map((r) => [r.id, r]));
+
+/**
+ * Route styling. Colours are the first three validated categorical slots (dark steps),
+ * and every kind also has its own dash pattern so identity never relies on colour alone.
+ */
+export const ROUTE_KINDS: Record<RouteKind, { label: string; color: string; dash: number[] | null; sample: string }> = {
+  trade: { label: 'Trade route', color: '#d95926', dash: null, sample: '──────' },
+  voyage: { label: 'Voyage / exploration', color: '#3987e5', dash: [2.5, 1.5], sample: '─ ─ ─ ─' },
+  migration: { label: 'Migration', color: '#199e70', dash: [0.3, 1.8], sample: '· · · · ·' },
+  forced: { label: 'Forced migration', color: '#199e70', dash: [3, 1.2, 0.3, 1.2], sample: '── · ── ·' },
+};
 
 export { MIN_YEAR, MAX_YEAR, ERAS } from './timeScale';
 import { ERAS } from './timeScale';

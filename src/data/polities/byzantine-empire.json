@@ -313,5 +313,39 @@
         "source": "Wikipedia: Byzantine Empire (checked 5 Nov 2026)"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 540,
+        "value": 27000000,
+        "certainty": "estimated"
+      },
+      {
+        "year": 800,
+        "value": 12000000,
+        "certainty": "estimated"
+      },
+      {
+        "year": 1025,
+        "value": 18000000,
+        "certainty": "estimated"
+      },
+      {
+        "year": 1282,
+        "value": 4000000,
+        "low": 3000000,
+        "high": 5000000,
+        "certainty": "estimated"
+      },
+      {
+        "year": 1312,
+        "value": 2000000,
+        "certainty": "estimated"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Byzantine Empire (infobox, checked 6 Nov 2026)"
+    ]
   }
 }

@@ -316,5 +316,17 @@
         "source": "Wikipedia: British Empire (checked 5 Nov 2026)"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 1913,
+        "value": 412000000,
+        "certainty": "confirmed"
+      }
+    ],
+    "sources": [
+      "Wikipedia: British Empire (infobox, checked 6 Nov 2026)"
+    ]
   }
 }

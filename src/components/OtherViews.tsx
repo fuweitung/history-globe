@@ -1,10 +1,75 @@
 import { useMemo, useState } from 'react';
 import { overallCompletion } from '../lib/checklistSchema';
-import { ERAS, EVENT_TYPES, POLITIES, POLITY_BY_ID, formatSpan, formatYear, isActive } from '../lib/data';
+import { ERAS, EVENT_TYPES, POLITIES, POLITY_BY_ID, ROUTE_KINDS, formatSpan, formatYear, isActive } from '../lib/data';
 import type { BorderProps } from '../lib/borders';
-import type { HistoryEvent } from '../types';
+import type { HistoryEvent, HistoryRoute } from '../types';
 import { ProgressBar } from './ChecklistCategory';
 import { norm } from '../lib/search';
+
+// ── Route detail ─────────────────────────────────────────────
+
+export function RouteDetail({
+  route,
+  year,
+  onOpenPolity,
+  onJumpToYear,
+}: {
+  route: HistoryRoute;
+  year: number;
+  onOpenPolity: (id: string) => void;
+  onJumpToYear: (y: number) => void;
+}) {
+  const k = ROUTE_KINDS[route.kind];
+  const active = year >= route.from && year <= route.to;
+  return (
+    <div className="px-5 pt-4 pb-8 md:pt-5">
+      <div className="flex items-center gap-2 pr-10">
+        <svg width="34" height="8" aria-hidden="true">
+          <line x1="1" y1="4" x2="33" y2="4" stroke={k.color} strokeWidth="3" strokeDasharray={k.dash ? k.dash.map((d) => d * 3).join(' ') : undefined} strokeLinecap={route.kind === 'migration' ? 'round' : 'butt'} />
+        </svg>
+        <span className="text-[11px] font-semibold tracking-wider text-parchment-200 uppercase">{k.label}</span>
+      </div>
+      <h2 className="font-display mt-3 text-2xl leading-tight font-bold text-parchment-50">{route.name}</h2>
+      <p className="mt-1 text-sm text-parchment-300 tabular-nums">
+        {route.datesApproximate ? 'c. ' : ''}
+        {formatYear(route.from)} – {formatYear(route.to)}
+        {!active && <span className="ml-2 text-xs text-parchment-400">(not in use in {formatYear(year)})</span>}
+      </p>
+      <div className="mt-3 flex flex-wrap gap-2">
+        <button type="button" onClick={() => onJumpToYear(route.from)} className="rounded-full bg-white/[0.06] px-3 py-1.5 text-xs font-semibold text-parchment-100 ring-1 ring-white/10 hover:bg-white/10">
+          ⏮ Start · {formatYear(route.from)}
+        </button>
+        <button type="button" onClick={() => onJumpToYear(route.to)} className="rounded-full bg-white/[0.06] px-3 py-1.5 text-xs font-semibold text-parchment-100 ring-1 ring-white/10 hover:bg-white/10">
+          ⏭ End · {formatYear(route.to)}
+        </button>
+      </div>
+      <p className="mt-4 text-[13px] leading-relaxed text-parchment-100">{route.description}</p>
+      {route.goods && (
+        <p className="mt-3 text-[13px] text-parchment-200">
+          <span className="font-semibold text-parchment-50">What moved: </span>
+          {route.goods}
+        </p>
+      )}
+      {route.relatedPolityIds.length > 0 && (
+        <>
+          <h3 className="mt-5 text-[11px] font-semibold tracking-wider text-parchment-300 uppercase">Civilisations involved</h3>
+          <div className="mt-2 flex flex-wrap gap-1.5">
+            {route.relatedPolityIds.map((id) => {
+              const p = POLITY_BY_ID.get(id);
+              return p ? (
+                <button key={id} type="button" onClick={() => onOpenPolity(id)} className="inline-flex items-center gap-1.5 rounded-full bg-white/[0.06] px-2.5 py-1 text-xs text-parchment-100 ring-1 ring-white/10 hover:bg-white/10">
+                  <span className="size-2 rounded-full" style={{ background: p.color ?? '#c9844f' }} aria-hidden="true" />
+                  {p.name}
+                </button>
+              ) : null;
+            })}
+          </div>
+        </>
+      )}
+      <p className="mt-5 text-[11px] text-parchment-400">Source: {route.source}. Lines show the general direction of travel through key places, not exact paths.</p>
+    </div>
+  );
+}
 
 // ── Event detail ─────────────────────────────────────────────
 

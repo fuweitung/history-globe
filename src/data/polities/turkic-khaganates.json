@@ -311,5 +311,18 @@
       "kind": "art",
       "note": "Standing stones marking enemies defeated."
     }
-  ]
+  ],
+  "series": {
+    "population": [
+      {
+        "year": 550,
+        "value": 3000000,
+        "certainty": "estimated",
+        "approxYear": true
+      }
+    ],
+    "sources": [
+      "Wikipedia: First Turkic Khaganate (infobox, checked 6 Nov 2026)"
+    ]
+  }
 }

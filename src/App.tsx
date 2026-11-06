@@ -3,12 +3,12 @@ import MapView, { type CameraRequest, type VisibleEvent } from './components/Map
 import TimelineSlider from './components/TimelineSlider';
 import Panel from './components/Panel';
 import PolityDetail from './components/PolityDetail';
-import { EventDetail, PolityBrowser, RegionDetail } from './components/OtherViews';
+import { EventDetail, PolityBrowser, RegionDetail, RouteDetail } from './components/OtherViews';
 import SearchView from './components/SearchView';
 import CompareView, { suggestPartner } from './components/CompareView';
 import { boundsForPolity, loadManifest, loadSnapshot, nearestSnapshot, resolvePolity, type BorderProps, type Snapshot } from './lib/borders';
-import { EVENTS, EVENT_BY_ID, EVENT_TYPES, MAX_YEAR, MIN_YEAR, POLITY_BY_ID, isActive } from './lib/data';
-import type { EventType, Polity } from './types';
+import { EVENTS, EVENT_BY_ID, EVENT_TYPES, MAX_YEAR, MIN_YEAR, POLITY_BY_ID, ROUTES, ROUTE_BY_ID, ROUTE_KINDS, isActive } from './lib/data';
+import type { EventType, Polity, RouteKind } from './types';
 import { eventWindowFor, normaliseYear, stepYear } from './lib/timeScale';
 
 type View =
@@ -19,11 +19,12 @@ type View =
   | { kind: 'about' }
   | { kind: 'polity'; id: string }
   | { kind: 'event'; id: string }
+  | { kind: 'route'; id: string }
   | { kind: 'region'; props: BorderProps };
 
 const clampYear = (y: number) => normaliseYear(y);
 
-function readUrl(): { year: number; polity: string | null; event: string | null; compare: [string | null, string | null] | null } {
+function readUrl(): { year: number; polity: string | null; event: string | null; route: string | null; compare: [string | null, string | null] | null } {
   const sp = new URLSearchParams(window.location.search);
   const y = Number(sp.get('year'));
   const c = sp.get('compare');
@@ -32,6 +33,7 @@ function readUrl(): { year: number; polity: string | null; event: string | null;
     year: Number.isFinite(y) && y ? clampYear(y) : 1600,
     polity: sp.get('polity'),
     event: sp.get('event'),
+    route: sp.get('route'),
     compare: c !== null ? [valid(c.split(',')[0]), valid(c.split(',')[1])] : null,
   };
 }
@@ -50,11 +52,14 @@ export default function App() {
       ? { kind: 'polity', id: initial.polity }
       : initial.event && EVENT_BY_ID.has(initial.event)
         ? { kind: 'event', id: initial.event }
-        : { kind: 'none' },
+        : initial.route && ROUTE_BY_ID.has(initial.route)
+          ? { kind: 'route', id: initial.route }
+          : { kind: 'none' },
   );
   const [playing, setPlaying] = useState(false);
   const [eventWindow, setEventWindow] = useState(25);
   const [hiddenTypes, setHiddenTypes] = useState<Set<EventType>>(new Set());
+  const [showRoutes, setShowRoutes] = useState(true);
   const [camera, setCamera] = useState<CameraRequest | null>(null);
   const pendingFly = useRef<string | null>(initial.polity);
   const nonce = useRef(0);
@@ -142,6 +147,7 @@ export default function App() {
       sp.set('year', String(year));
       if (view.kind === 'polity') sp.set('polity', view.id);
       if (view.kind === 'event') sp.set('event', view.id);
+      if (view.kind === 'route') sp.set('route', view.id);
       if (view.kind === 'compare') sp.set('compare', `${view.a ?? ''},${view.b ?? ''}`);
       window.history.replaceState(null, '', `${window.location.pathname}?${sp}`);
     }, 250);
@@ -160,6 +166,11 @@ export default function App() {
     }
     return out;
   }, [year, eventWindow, hiddenTypes]);
+
+  const visibleRoutes = useMemo(
+    () => (showRoutes ? ROUTES.filter((r) => year >= r.from && year <= r.to) : []),
+    [year, showRoutes],
+  );
 
   // ── Selection handlers ─────────────────────────────────
   const openPolity = useCallback(
@@ -206,6 +217,16 @@ export default function App() {
   );
 
   const jumpToYear = useCallback((y: number) => changeYear(y), [changeYear]);
+  const openRoute = useCallback((id: string) => {
+    const r = ROUTE_BY_ID.get(id);
+    if (!r) return;
+    setView({ kind: 'route', id });
+    const pts = r.paths.flat();
+    const xs = pts.map((p) => p[0]);
+    const ys = pts.map((p) => p[1]);
+    nonce.current += 1;
+    setCamera({ kind: 'bounds', bounds: [Math.min(...xs), Math.min(...ys), Math.max(...xs), Math.max(...ys)], nonce: nonce.current });
+  }, []);
 
   // Search results: events and dated Known-for items also move the timeline.
   const openEventAt = useCallback(
@@ -226,6 +247,12 @@ export default function App() {
     [openPolity, changeYear],
   );
   const openCompare = useCallback((a: string | null) => setView({ kind: 'compare', a, b: a ? suggestPartner(a) : null }), []);
+
+  // A shared ?route= link flies to the route on load.
+  useEffect(() => {
+    if (initial.route) openRoute(initial.route);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   // "/" or Ctrl/⌘+K opens search from anywhere (unless typing).
   useEffect(() => {
@@ -285,6 +312,13 @@ export default function App() {
       panelKey = `event-${e.id}` as typeof panelKey;
       panelBody = <EventDetail event={e} onOpenPolity={openPolity} onJumpToYear={jumpToYear} />;
     }
+  } else if (view.kind === 'route') {
+    const r = ROUTE_BY_ID.get(view.id);
+    if (r) {
+      panelTitle = r.name;
+      panelKey = `route-${r.id}` as typeof panelKey;
+      panelBody = <RouteDetail route={r} year={year} onOpenPolity={openPolity} onJumpToYear={jumpToYear} />;
+    }
   } else if (view.kind === 'region') {
     panelTitle = view.props.NAME ?? 'Region';
     panelKey = `region-${view.props._fid}` as typeof panelKey;
@@ -294,7 +328,18 @@ export default function App() {
     panelBody = <PolityBrowser year={year} onOpenPolity={openPolity} onCompare={() => setView({ kind: 'compare', a: null, b: null })} />;
   } else if (view.kind === 'search') {
     panelTitle = 'Search';
-    panelBody = <SearchView onOpenPolity={openPolity} onOpenEvent={openEventAt} onOpenKnown={openKnown} />;
+    panelBody = (
+      <SearchView
+        onOpenPolity={openPolity}
+        onOpenEvent={openEventAt}
+        onOpenKnown={openKnown}
+        onOpenRoute={(id) => {
+          const r = ROUTE_BY_ID.get(id);
+          if (r && (year < r.from || year > r.to)) changeYear(Math.round((r.from + r.to) / 2));
+          openRoute(id);
+        }}
+      />
+    );
   } else if (view.kind === 'compare') {
     panelTitle = 'Compare';
     panelKey = 'compare' as typeof panelKey;
@@ -322,6 +367,9 @@ export default function App() {
         camera={camera}
         onSelectBorder={onSelectBorder}
         onSelectEvent={openEvent}
+        routes={visibleRoutes}
+        selectedRouteId={view.kind === 'route' ? view.id : null}
+        onSelectRoute={openRoute}
       />
 
       {/* ── Top bar ── */}
@@ -362,6 +410,9 @@ export default function App() {
       <EventLegend
         hidden={hiddenTypes}
         count={visibleEvents.length}
+        showRoutes={showRoutes}
+        routeCount={visibleRoutes.length}
+        onToggleRoutes={() => setShowRoutes((v) => !v)}
         onToggle={(t) =>
           setHiddenTypes((s) => {
             const n = new Set(s);
@@ -401,7 +452,21 @@ export default function App() {
   );
 }
 
-function EventLegend({ hidden, count, onToggle }: { hidden: Set<EventType>; count: number; onToggle: (t: EventType) => void }) {
+function EventLegend({
+  hidden,
+  count,
+  onToggle,
+  showRoutes,
+  routeCount,
+  onToggleRoutes,
+}: {
+  hidden: Set<EventType>;
+  count: number;
+  onToggle: (t: EventType) => void;
+  showRoutes: boolean;
+  routeCount: number;
+  onToggleRoutes: () => void;
+}) {
   const [open, setOpen] = useState(false);
   return (
     <div className="pointer-events-none absolute top-[64px] left-3 z-10 md:top-[68px]">
@@ -446,6 +511,29 @@ function EventLegend({ hidden, count, onToggle }: { hidden: Set<EventType>; coun
                 </li>
               );
             })}
+            <li className="mt-1 border-t border-white/10 pt-1">
+              <button
+                type="button"
+                onClick={onToggleRoutes}
+                aria-pressed={showRoutes}
+                className={`flex w-full items-center gap-2 rounded-lg px-2 py-1.5 text-left transition hover:bg-white/5 ${showRoutes ? 'text-parchment-50' : 'text-parchment-400 line-through'}`}
+              >
+                <span className="grid size-5 place-items-center text-[11px]" aria-hidden="true">🧭</span>
+                Routes &amp; migrations <span className="text-parchment-400 tabular-nums">({routeCount})</span>
+              </button>
+              {showRoutes && (
+                <ul className="mt-0.5 space-y-0.5 pl-9 text-[11px] text-parchment-300">
+                  {(Object.keys(ROUTE_KINDS) as RouteKind[]).map((k) => (
+                    <li key={k} className="flex items-center gap-2">
+                      <svg width="26" height="6" aria-hidden="true">
+                        <line x1="1" y1="3" x2="25" y2="3" stroke={ROUTE_KINDS[k].color} strokeWidth="2.5" strokeDasharray={ROUTE_KINDS[k].dash ? ROUTE_KINDS[k].dash!.map((d) => d * 2.5).join(' ') : undefined} strokeLinecap={k === 'migration' ? 'round' : 'butt'} />
+                      </svg>
+                      {ROUTE_KINDS[k].label}
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </li>
           </ul>
         )}
       </div>

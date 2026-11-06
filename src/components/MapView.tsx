@@ -3,8 +3,8 @@ import maplibregl, { type GeoJSONSource, type MapGeoJSONFeature, type StyleSpeci
 import 'maplibre-gl/dist/maplibre-gl.css';
 import type { FeatureCollection } from 'geojson';
 import type { BorderProps, Snapshot } from '../lib/borders';
-import { EVENT_TYPES } from '../lib/data';
-import type { HistoryEvent } from '../types';
+import { EVENT_TYPES, ROUTE_KINDS, formatYear } from '../lib/data';
+import type { HistoryEvent, HistoryRoute, RouteKind } from '../types';
 
 const BASE = import.meta.env.BASE_URL;
 const EMPTY: FeatureCollection = { type: 'FeatureCollection', features: [] };
@@ -25,9 +25,29 @@ interface Props {
   events: VisibleEvent[];
   selectedEventId: string | null;
   camera: CameraRequest | null;
+  routes: HistoryRoute[];
+  selectedRouteId: string | null;
   onSelectBorder: (props: BorderProps | null) => void;
   onSelectEvent: (id: string) => void;
+  onSelectRoute: (id: string) => void;
 }
+
+const routeLayers = (Object.keys(ROUTE_KINDS) as RouteKind[]).map(
+  (k) =>
+    ({
+      id: `routes-${k}`,
+      type: 'line',
+      source: 'routes',
+      filter: ['==', ['get', 'kind'], k],
+      layout: { 'line-cap': k === 'migration' ? 'round' : 'butt', 'line-join': 'round' },
+      paint: {
+        'line-color': ROUTE_KINDS[k].color,
+        'line-width': ['interpolate', ['linear'], ['zoom'], 1, ['case', ['get', 'selected'], 3.5, 2.2], 6, ['case', ['get', 'selected'], 5, 3]],
+        'line-opacity': ['case', ['get', 'dim'], 0.35, 0.95],
+        ...(ROUTE_KINDS[k].dash ? { 'line-dasharray': ROUTE_KINDS[k].dash } : {}),
+      },
+    }) as maplibregl.LayerSpecification,
+);
 
 /** 30° graticule — gives the globe a sense of shape and scale. */
 function graticule(): FeatureCollection {
@@ -67,6 +87,7 @@ const STYLE: StyleSpecification = {
     graticule: { type: 'geojson', data: graticule() },
     borders: { type: 'geojson', data: EMPTY, promoteId: '_fid' },
     labels: { type: 'geojson', data: EMPTY },
+    routes: { type: 'geojson', data: EMPTY },
   },
   layers: [
     { id: 'ocean', type: 'background', paint: { 'background-color': '#16294a' } },
@@ -117,6 +138,36 @@ const STYLE: StyleSpecification = {
       paint: { 'line-color': '#ffd166', 'line-width': 2.2 },
     },
     {
+      id: 'routes-casing',
+      type: 'line',
+      source: 'routes',
+      layout: { 'line-join': 'round', 'line-cap': 'round' },
+      paint: { 'line-color': '#0d1526', 'line-width': ['interpolate', ['linear'], ['zoom'], 1, 4, 6, 6], 'line-opacity': ['case', ['get', 'dim'], 0.2, 0.55] },
+    },
+    ...routeLayers,
+    {
+      id: 'routes-hit',
+      type: 'line',
+      source: 'routes',
+      paint: { 'line-color': '#000', 'line-width': 16, 'line-opacity': 0 },
+    },
+    {
+      id: 'routes-label',
+      type: 'symbol',
+      source: 'routes',
+      minzoom: 1.2,
+      layout: {
+        'symbol-placement': 'line',
+        'text-field': ['get', 'name'],
+        'text-font': ['Open Sans Semibold'],
+        'text-size': ['interpolate', ['linear'], ['zoom'], 1, 10, 6, 13],
+        'symbol-spacing': 500,
+        'text-max-angle': 30,
+        'text-offset': [0, -0.9],
+      },
+      paint: { 'text-color': '#f4ecd8', 'text-halo-color': 'rgba(13,21,38,0.9)', 'text-halo-width': 1.6, 'text-opacity': ['case', ['get', 'dim'], 0.5, 1] },
+    },
+    {
       id: 'labels',
       type: 'symbol',
       source: 'labels',
@@ -147,6 +198,9 @@ export default function MapView({
   camera,
   onSelectBorder,
   onSelectEvent,
+  routes,
+  selectedRouteId,
+  onSelectRoute,
 }: Props) {
   const containerRef = useRef<HTMLDivElement>(null);
   const mapRef = useRef<maplibregl.Map | null>(null);
@@ -155,8 +209,10 @@ export default function MapView({
   const markersRef = useRef(new Map<string, { marker: maplibregl.Marker; el: HTMLButtonElement }>());
   const snapshotRef = useRef(snapshot);
   snapshotRef.current = snapshot;
-  const handlersRef = useRef({ onSelectBorder, onSelectEvent });
-  handlersRef.current = { onSelectBorder, onSelectEvent };
+  const handlersRef = useRef({ onSelectBorder, onSelectEvent, onSelectRoute });
+  handlersRef.current = { onSelectBorder, onSelectEvent, onSelectRoute };
+  const routesRef = useRef(routes);
+  routesRef.current = routes;
 
   // ── Create the map once ──────────────────────────────────
   useEffect(() => {
@@ -192,9 +248,24 @@ export default function MapView({
       if (mapRef.current === map) setReady(true);
     });
 
+    let overRoute = false;
+    map.on('mousemove', 'routes-hit', (e) => {
+      const f = e.features?.[0];
+      const r = f && routesRef.current.find((x) => x.id === f.properties?.id);
+      if (!r) return;
+      overRoute = true;
+      map.getCanvas().style.cursor = 'pointer';
+      clearHover();
+      setTooltip({ x: e.point.x, y: e.point.y, text: r.name, sub: `${ROUTE_KINDS[r.kind].label} · ${formatYear(r.from)} – ${formatYear(r.to)} · click for details` });
+    });
+    map.on('mouseleave', 'routes-hit', () => {
+      overRoute = false;
+      map.getCanvas().style.cursor = '';
+      setTooltip(null);
+    });
     map.on('mousemove', 'borders-fill', (e) => {
       const f = e.features?.[0] as MapGeoJSONFeature | undefined;
-      if (!f) return;
+      if (!f || overRoute) return;
       map.getCanvas().style.cursor = 'pointer';
       if (hoverId !== f.id) {
         clearHover();
@@ -211,6 +282,11 @@ export default function MapView({
       setTooltip(null);
     });
     map.on('click', (e) => {
+      const route = map.queryRenderedFeatures(e.point, { layers: ['routes-hit'] })[0];
+      if (route?.properties?.id) {
+        handlersRef.current.onSelectRoute(String(route.properties.id));
+        return;
+      }
       const f = map.queryRenderedFeatures(e.point, { layers: ['borders-fill'] })[0];
       const props = f ? (snapshotRef.current?.byFid.get(f.id as number) ?? (f.properties as unknown as BorderProps)) : null;
       handlersRef.current.onSelectBorder(props);
@@ -231,6 +307,21 @@ export default function MapView({
     (map.getSource('borders') as GeoJSONSource | undefined)?.setData(snapshot.borders);
     (map.getSource('labels') as GeoJSONSource | undefined)?.setData(snapshot.labels);
   }, [snapshot, ready]);
+
+  // ── Routes ───────────────────────────────────────────────
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!map || !ready) return;
+    const fc: FeatureCollection = {
+      type: 'FeatureCollection',
+      features: routes.map((r) => ({
+        type: 'Feature',
+        properties: { id: r.id, name: r.name, kind: r.kind, selected: r.id === selectedRouteId, dim: !!selectedRouteId && r.id !== selectedRouteId },
+        geometry: { type: 'MultiLineString', coordinates: r.paths },
+      })),
+    };
+    (map.getSource('routes') as GeoJSONSource | undefined)?.setData(fc);
+  }, [routes, selectedRouteId, ready]);
 
   // ── Selection highlight ──────────────────────────────────
   useEffect(() => {
