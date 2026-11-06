@@ -1,0 +1,310 @@
+{
+  "id": "elam",
+  "name": "Elam",
+  "era": "ancient",
+  "region": "Iran (Middle East)",
+  "startYear": -3200,
+  "endYear": -539,
+  "datesApproximate": true,
+  "capital": "Susa; Anshan",
+  "capitalCoords": [
+    48.25,
+    32.19
+  ],
+  "summary": "An ancient civilisation of south-western Iran, centred on Susa. Its kingdoms were long rivals of Sumer, Babylon and Assyria, and its administration later shaped Persian government.",
+  "borderNames": [
+    "Elam"
+  ],
+  "borderYears": [
+    -4000,
+    -539
+  ],
+  "color": "#5a6a9a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Far west and south-west Iran (Ilam and Khuzestan) and a small part of southern Iraq.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Elam (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "The Khuzestan lowlands and the Zagros mountains.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      },
+      "climate": {
+        "value": "Hot lowlands and cooler highlands.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      },
+      "resources": {
+        "value": "Farmland, timber, stone and metals from the highlands.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      },
+      "disasters": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      },
+      "urbanisation": {
+        "value": "Susa and Anshan were the main centres.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Elam (checked 6 Nov 2026)"
+      },
+      "disease": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      },
+      "migration": {
+        "value": "Persians later settled in Elamite lands.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming and trade between Mesopotamia and the Iranian plateau.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      },
+      "tradeRoutes": {
+        "value": "Trade routes to Mesopotamia and Central Asia.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      },
+      "wealth": {
+        "value": "No estimate is possible.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      },
+      "moneyAndTax": {
+        "value": "No coinage; silver by weight.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      },
+      "inequality": {
+        "value": "Kings and nobles.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy, with an unusual system of shared rule among relatives.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      },
+      "keyRulers": {
+        "value": "Untash-Napirisha (built Chogha Zanbil), Shutruk-Nakhunte (took the Code of Hammurabi stele to Susa).",
+        "year": -1185,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      },
+      "succession": {
+        "value": "Passed among brothers and nephews.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      },
+      "institutions": {
+        "value": "Administrative traditions that became a foundation of the Iranian system.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Elam (checked 6 Nov 2026)"
+      },
+      "stability": {
+        "value": "Repeated conquest by Mesopotamian powers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Archers and chariots.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      },
+      "majorWars": {
+        "value": "Wars with Sumer, Akkad, Babylon; Assyria sacked Susa (647 BCE).",
+        "year": -647,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      },
+      "territoryChange": {
+        "value": "Expanded and shrank many times.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals of the Mesopotamian states.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Elam (checked 6 Nov 2026)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Proto-Elamite writing (undeciphered).",
+        "year": -3100,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      },
+      "scienceEducation": {
+        "value": "Scribes in Elamite and Akkadian.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      },
+      "openness": {
+        "value": "Used Mesopotamian cuneiform.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Elamite gods (Inshushinak).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      },
+      "languageWriting": {
+        "value": "Written records from around 3000 BCE; Elamite language (an isolate).",
+        "year": -3000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Elam (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "The ziggurat of Chogha Zanbil.",
+        "year": -1250,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      },
+      "socialStructure": {
+        "value": "Kings, priests, farmers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      },
+      "sharedIdentity": {
+        "value": "Elamite language and gods.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Sumer, Akkad, Babylon, Assyria, Persia.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      },
+      "ideasReligions": {
+        "value": "Shaped early Iranian civilisation.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Elam (checked 6 Nov 2026)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Early urbanisation in the Chalcolithic.",
+        "year": -3200,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Elam (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "Middle Elamite period (about 1400–1100 BCE).",
+        "year": -1200,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      },
+      "declineSignals": {
+        "value": "Assyrian sack of Susa.",
+        "year": -647,
+        "certainty": "estimated",
+        "source": "Potts, The Archaeology of Elam (2016)"
+      },
+      "outcome": {
+        "value": "Absorbed into the Achaemenid Persian Empire.",
+        "year": -539,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Elam (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Inscriptions, archaeology. Checked against Wikipedia (“Elam”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Elam (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Medium; the writing is only partly understood.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Elam (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Chogha Zanbil ziggurat",
+      "kind": "monument",
+      "year": -1250,
+      "note": "One of the best-preserved ziggurats."
+    },
+    {
+      "label": "Proto-Elamite script",
+      "kind": "idea",
+      "year": -3100,
+      "note": "Still undeciphered."
+    },
+    {
+      "label": "Elamite archers",
+      "kind": "troops",
+      "note": "Famous bowmen."
+    }
+  ]
+}

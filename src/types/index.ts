@@ -4,7 +4,7 @@
 // ─────────────────────────────────────────────────────────────
 
 /** Eras covered (see lib/timeScale.ts for their year ranges). */
-export type Era = 'ancient' | 'medieval' | 'early_modern' | 'modern';
+export type Era = 'prehistory' | 'ancient' | 'medieval' | 'early_modern' | 'modern';
 
 export type Certainty = 'confirmed' | 'estimated' | 'disputed';
 
