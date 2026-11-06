@@ -9,7 +9,8 @@
     "preview": "vite preview",
     "typecheck": "tsc -b",
     "fetch-borders": "node scripts/fetch-borders.mjs",
-    "validate-data": "node scripts/validate-data.mjs"
+    "validate-data": "node scripts/validate-data.mjs",
+    "compute-territory": "node scripts/compute-territory.mjs"
   },
   "dependencies": {
     "maplibre-gl": "^5.24.0",
