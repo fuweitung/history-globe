@@ -1,0 +1,324 @@
+{
+  "id": "early-south-india",
+  "name": "Early peoples of southern India",
+  "era": "ancient",
+  "region": "South Asia",
+  "startYear": -5000,
+  "endYear": -500,
+  "datesApproximate": true,
+  "capital": "None (villages)",
+  "capitalCoords": [
+    78,
+    13
+  ],
+  "summary": "Farming and herding peoples of southern India before its first kingdoms, builders of ash mounds and megalithic tombs. The source maps call them “Dravidians” after the language family most of them likely spoke.",
+  "wikiTitle": "South Indian Neolithic",
+  "borderNames": [
+    "Dravidians"
+  ],
+  "borderYears": [
+    -5000,
+    -500
+  ],
+  "color": "#a07a4a",
+  "knownFor": [
+    {
+      "label": "Ash mounds",
+      "kind": "monument",
+      "year": -2500,
+      "note": "Mounds of burnt cattle dung from Neolithic herding camps."
+    },
+    {
+      "label": "Megalithic burials",
+      "kind": "monument",
+      "year": -800,
+      "note": "Stone circles and dolmens over graves."
+    },
+    {
+      "label": "Iron at Adichanallur",
+      "kind": "tool",
+      "year": -900,
+      "note": "Early iron objects found in burial urns."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Southern India.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "terrain": {
+        "value": "Plateaus, river valleys and coasts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "climate": {
+        "value": "Monsoon.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "resources": {
+        "value": "Cattle, millets, pulses, iron ore.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "disasters": {
+        "value": "Unknown; few records survive.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown; few records survive.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "urbanisation": {
+        "value": "Villages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "disease": {
+        "value": "Unknown; few records survive.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "migration": {
+        "value": "Language history is debated.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Herding cattle and growing millets.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "tradeRoutes": {
+        "value": "Exchange along the coasts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "wealth": {
+        "value": "No estimate is possible.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "moneyAndTax": {
+        "value": "No money.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "inequality": {
+        "value": "Some richer megalithic burials.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Villages and chiefdoms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "keyRulers": {
+        "value": "No rulers are known.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "succession": {
+        "value": "Unknown; few records survive.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "institutions": {
+        "value": "Unknown; few records survive.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "stability": {
+        "value": "Unknown; few records survive.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "eliteConflict": {
+        "value": "Unknown; few records survive.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Iron weapons in later burials.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "majorWars": {
+        "value": "Unknown; few records survive.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "territoryChange": {
+        "value": "Unknown; few records survive.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "alliancesRivals": {
+        "value": "Unknown; few records survive.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Iron working in the late period.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "scienceEducation": {
+        "value": "No writing until Tamil-Brahmi (from about the 3rd century BCE).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "openness": {
+        "value": "Unknown; few records survive.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "communicationTransport": {
+        "value": "Travel on foot and by river.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Burials suggest belief in an afterlife.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "languageWriting": {
+        "value": "Probably Dravidian languages, ancestors of Tamil, Kannada, Telugu and Malayalam.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "artsArchitecture": {
+        "value": "Megaliths and pottery.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "socialStructure": {
+        "value": "Villages and chiefs.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "sharedIdentity": {
+        "value": "Unknown; few records survive.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "dailyLife": {
+        "value": "Thatched huts; millets, pulses, milk.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Northern Indian cultures.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "ideasReligions": {
+        "value": "Later trade with the Roman world.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Farming and herding.",
+        "year": -3000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "peakPeriod": {
+        "value": "Iron Age megalithic period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "declineSignals": {
+        "value": "Not a decline: chiefdoms grew into kingdoms.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "outcome": {
+        "value": "Followed by the Chera, Chola and Pandya kingdoms.",
+        "year": -300,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      },
+      "overallCertainty": {
+        "value": "Known from archaeology.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+      }
+    }
+  }
+}

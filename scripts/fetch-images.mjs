@@ -2,7 +2,7 @@
 // clear match exists) from Wikipedia/Wikimedia Commons, with author and licence for credits.
 // Only files hosted on Commons are used: English-Wikipedia-only files may be non-free.
 // Output: src/data/images.json  →  { polities: {id: Img}, known: {"polityId|label": Img} }
-// Run: npm run fetch-images   (add --known to also look up Known-for items)
+// Run: npm run fetch-images   (add --known to also look up Known-for items, and --retry for a second, wider search)
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -141,6 +141,70 @@ if (withKnown) {
   }
   console.log(`Known-for pictures: ${Object.values(out.known).filter(Boolean).length}`);
   fs.writeFileSync(path.join(root, 'scripts/.known-image-matches.txt'), review.join('\n') + '\n');
+
+  if (process.argv.includes('--retry')) {
+    // Second pass for items still without a picture:
+    //  1. search Wikipedia for the label alone (without the civilisation's name);
+    //  2. otherwise search Wikimedia Commons files directly (good for monuments, art, cloth).
+    // A result is kept only if at least half of the label's words appear in its title.
+    const retryFile = path.join(root, 'scripts/.known-retry-cache.json');
+    const tried = fs.existsSync(retryFile) ? JSON.parse(fs.readFileSync(retryFile, 'utf8')) : {};
+    // Stricter than the first pass: most of the label's words must be in the title AND most of
+    // the title's words must be in the label (rejects e.g. "Butlins Redcoats" for "Redcoats").
+    // Results still need a human look: see scripts/.known-image-matches.txt.
+    const fits = (label, title) => {
+      const l = [...words(label)].filter((w) => !STOP.has(w));
+      const t = [...words(title)].filter((w) => !STOP.has(w));
+      if (!l.length || !t.length) return false;
+      const share = (a, b) => a.filter((w) => b.includes(w)).length / a.length;
+      return share(l, t) >= 0.5 && share(t, l) >= 0.6;
+    };
+    // Commons file names are long descriptions, so only the label's words are checked there.
+    const fitsFile = (label, file) => {
+      const l = [...words(label)].filter((w) => !STOP.has(w));
+      const t = words(file);
+      return l.length > 0 && l.filter((w) => t.has(w)).length / l.length >= 0.5;
+    };
+    const todo = polities.flatMap((p) => (p.knownFor ?? []).map((item) => ({ p, item, key: `${p.id}|${item.label}` })))
+      .filter(({ key }) => !out.known[key] && !(key in tried));
+    console.log(`Retrying ${todo.length} items without a picture…`);
+    let done = 0;
+    for (const { p, item, key } of todo) {
+      const label = item.label.replace(/[“”()]/g, '');
+      try {
+        let found = null;
+        const d = await api('en.wikipedia.org', { action: 'query', list: 'search', srsearch: label, srlimit: '5', srprop: '' });
+        const hit = (d.query?.search ?? []).find((s) => fits(item.label, s.title));
+        if (hit) {
+          const { out: pics } = await picturesFor([hit.title]);
+          if (pics[hit.title]) found = { article: hit.title, pic: pics[hit.title] };
+        }
+        if (!found) {
+          const c = await api('commons.wikimedia.org', { action: 'query', list: 'search', srsearch: `${label} ${p.name}`, srnamespace: '6', srlimit: '5', srprop: '' });
+          for (const s of c.query?.search ?? []) {
+            const file = s.title.replace(/^File:/, '');
+            if (!fitsFile(item.label, file.replace(/\.[a-z0-9]+$/i, '').replace(/[_-]/g, ' '))) continue;
+            const info = (await commonsInfos([file]))[file];
+            if (info) { found = { article: null, pic: { ...info, article: null } }; break; }
+          }
+        }
+        tried[key] = found ? (found.article ?? `File:${found.pic.file}`) : null;
+        if (found) {
+          out.known[key] = found.pic;
+          review.push(`${key} → ${tried[key]} (retry)`);
+        }
+      } catch {
+        // left for a later run
+      }
+      if (++done % 20 === 0) {
+        fs.writeFileSync(retryFile, JSON.stringify(tried));
+        fs.writeFileSync(outFile, JSON.stringify(out, null, 1) + '\n');
+      }
+    }
+    fs.writeFileSync(retryFile, JSON.stringify(tried));
+    fs.writeFileSync(path.join(root, 'scripts/.known-image-matches.txt'), review.join('\n') + '\n');
+    console.log(`Known-for pictures after retry: ${Object.values(out.known).filter(Boolean).length}`);
+  }
 }
 
 fs.writeFileSync(outFile, JSON.stringify(out, null, 1) + '\n');

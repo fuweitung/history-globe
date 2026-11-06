@@ -1,0 +1,321 @@
+{
+  "id": "spain-modern",
+  "name": "Spain (since 1898)",
+  "era": "modern",
+  "region": "Western Europe",
+  "startYear": 1898,
+  "endYear": null,
+  "capital": "Madrid",
+  "capitalCoords": [
+    -3.7,
+    40.42
+  ],
+  "summary": "Spain after losing its last major colonies in 1898: a monarchy, a short republic, civil war (1936–39), Franco’s dictatorship (1939–75) and, since 1978, a parliamentary democracy.",
+  "wikiTitle": "Spain",
+  "borderNames": [
+    "Spain"
+  ],
+  "borderYears": [
+    1899,
+    null
+  ],
+  "color": "#c9a23a",
+  "knownFor": [
+    {
+      "label": "Guernica",
+      "kind": "art",
+      "year": 1937,
+      "note": "Picasso’s painting of the bombing of a Basque town."
+    },
+    {
+      "label": "Sagrada Família",
+      "kind": "monument",
+      "note": "Gaudí’s basilica in Barcelona, still being finished."
+    },
+    {
+      "label": "Flamenco",
+      "kind": "art",
+      "note": "Song, dance and guitar music from Andalusia."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Most of the Iberian Peninsula, the Balearic and Canary Islands, and Ceuta and Melilla in North Africa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "terrain": {
+        "value": "A high central plateau (Meseta), mountains (Pyrenees, Sierra Nevada) and long coasts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "climate": {
+        "value": "Mediterranean in the south and east, wetter in the north, hot dry summers inland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "resources": {
+        "value": "Farmland (olives, wine, citrus), fish, tourism, sun and wind energy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "disasters": {
+        "value": "Droughts, wildfires and the Valencia floods (2024).",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 18.6 million in 1900; about 48 million today.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "urbanisation": {
+        "value": "Madrid and Barcelona are the largest cities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "disease": {
+        "value": "The 1918 influenza (“Spanish flu”, named only because Spain’s press reported it freely).",
+        "year": 1918,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "migration": {
+        "value": "Emigration to Latin America and Europe; large immigration since the 1990s.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming at first; today services, tourism, cars and food exports.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "tradeRoutes": {
+        "value": "Part of the EU single market since 1986.",
+        "year": 1986,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "wealth": {
+        "value": "A high-income economy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "moneyAndTax": {
+        "value": "The peseta, then the euro (2002).",
+        "year": 2002,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "inequality": {
+        "value": "Moderate; high youth unemployment after 2008.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary monarchy since the 1978 constitution.",
+        "year": 1978,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "keyRulers": {
+        "value": "Alfonso XIII. Francisco Franco (1939–75). Juan Carlos I. Adolfo Suárez. Felipe González.",
+        "year": 1939,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "succession": {
+        "value": "Elections to the Cortes; the king is head of state.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "institutions": {
+        "value": "The 1978 constitution, the Cortes and autonomous communities.",
+        "year": 1978,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "stability": {
+        "value": "The Civil War (1936–39) and dictatorship; a failed coup in 1981; ETA violence until 2011.",
+        "year": 1936,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "eliteConflict": {
+        "value": "Tensions over Catalan and Basque independence (Catalan referendum, 2017).",
+        "year": 2017,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "A professional army in NATO.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "majorWars": {
+        "value": "The Rif War in Morocco (1921–26); the Spanish Civil War (1936–39).",
+        "year": 1936,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "territoryChange": {
+        "value": "Gave up its Moroccan protectorate (1956) and Equatorial Guinea (1968).",
+        "year": 1956,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "alliancesRivals": {
+        "value": "Neutral in both World Wars; joined NATO (1982) and the EU (1986).",
+        "year": 1982,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "High-speed rail network (AVE), one of the longest in the world.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "scienceEducation": {
+        "value": "Free public education; universities such as Salamanca (1218).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "openness": {
+        "value": "Isolated under Franco, open since the 1970s.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "communicationTransport": {
+        "value": "AVE high-speed trains (1992) and an extensive motorway network.",
+        "year": 1992,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Catholic by tradition; increasingly secular.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "languageWriting": {
+        "value": "Spanish (Castilian); Catalan, Basque and Galician are co-official in their regions.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "artsArchitecture": {
+        "value": "Picasso, Dalí, Gaudí, Lorca, Almodóvar; flamenco.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "socialStructure": {
+        "value": "A large middle class.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "sharedIdentity": {
+        "value": "Strong regional identities alongside a Spanish one.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "dailyLife": {
+        "value": "City apartments; tapas, paella, olive oil; late meals.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Portugal, France, Andorra, Morocco (across the strait).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "ideasReligions": {
+        "value": "Democracy after Franco.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "colonisation": {
+        "value": "Lost Cuba, Puerto Rico and the Philippines in 1898.",
+        "year": 1898,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "The transition to democracy after 1975.",
+        "year": 1977,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "peakPeriod": {
+        "value": "Growth after joining the EU (1986).",
+        "year": 1986,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "declineSignals": {
+        "value": "The 2008 financial crisis.",
+        "year": 2008,
+        "certainty": "estimated",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Spain; Wikipedia: Spanish Civil War.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spain; Wikipedia: Spanish Civil War"
+      }
+    }
+  }
+}

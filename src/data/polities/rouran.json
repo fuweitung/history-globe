@@ -1,0 +1,323 @@
+{
+  "id": "rouran",
+  "name": "Rouran Khaganate",
+  "era": "ancient",
+  "region": "Central Asia (Mongolian steppe)",
+  "startYear": 330,
+  "endYear": 555,
+  "datesApproximate": true,
+  "capital": "Mobile royal camp",
+  "capitalCoords": [
+    103,
+    47
+  ],
+  "summary": "A nomadic confederation on the Mongolian steppe that rivalled the Northern Wei of China, and the first to use the title khagan, until the Göktürks overthrew it in 552–555.",
+  "wikiTitle": "Rouran Khaganate",
+  "borderNames": [
+    "Ruanruan",
+    "Rouran"
+  ],
+  "borderYears": [
+    330,
+    555
+  ],
+  "color": "#7a6a9a",
+  "knownFor": [
+    {
+      "label": "Title “khagan”",
+      "kind": "idea",
+      "year": 402,
+      "note": "The Rouran were the first to call their ruler khagan, later used by Turks and Mongols."
+    },
+    {
+      "label": "Mounted archers",
+      "kind": "troops",
+      "note": "Steppe cavalry that raided northern China."
+    },
+    {
+      "label": "Yurt camps",
+      "kind": "monument",
+      "note": "Felt tents of a mobile people."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Mongolian steppe and nearby lands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "terrain": {
+        "value": "Grassland, desert (Gobi) and mountains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "climate": {
+        "value": "Very continental: cold winters.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "resources": {
+        "value": "Pasture, horses, iron from subject peoples.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "disasters": {
+        "value": "Unknown; few records survive.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Rouran Khaganate"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown; few records survive.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "urbanisation": {
+        "value": "No towns; mobile camps.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "disease": {
+        "value": "Unknown; few records survive.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "migration": {
+        "value": "Pushed by Northern Wei campaigns.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Rouran Khaganate"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Herding and tribute from subject peoples.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "tradeRoutes": {
+        "value": "Silk Road routes north of China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "wealth": {
+        "value": "Wealth from tribute and raids.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "moneyAndTax": {
+        "value": "No coinage.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "inequality": {
+        "value": "Khagan and nobles above herders and subject peoples.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Rouran Khaganate"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A khaganate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "keyRulers": {
+        "value": "Shelun (first to take the title khagan, 402). Anagui.",
+        "year": 402,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "succession": {
+        "value": "Within the ruling clan; disputed.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "institutions": {
+        "value": "Tribal councils.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "stability": {
+        "value": "Frequent internal conflict.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "eliteConflict": {
+        "value": "Rival royal princes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Rouran Khaganate"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Mounted archers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "majorWars": {
+        "value": "Wars with the Northern Wei.",
+        "year": 429,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "territoryChange": {
+        "value": "Defeated by the Göktürks (552).",
+        "year": 552,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "alliancesRivals": {
+        "value": "Allied at times with southern Chinese dynasties against Wei.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Rouran Khaganate"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few known inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "scienceEducation": {
+        "value": "No writing of their own is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "openness": {
+        "value": "Contacts with China and Central Asia.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "communicationTransport": {
+        "value": "Horses and wagons.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Rouran Khaganate"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Shamanism; some Buddhism.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "languageWriting": {
+        "value": "Their language is uncertain (perhaps Mongolic).",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "artsArchitecture": {
+        "value": "Little survives.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "socialStructure": {
+        "value": "Ruling clan, nobles, herders, subject tribes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the khagan.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "dailyLife": {
+        "value": "Felt tents; meat and milk.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Rouran Khaganate"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Northern Wei, Göktürks, Hephthalites.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "ideasReligions": {
+        "value": "Spread the title khagan.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Rouran Khaganate"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "United steppe tribes in the 4th century.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "peakPeriod": {
+        "value": "Early 5th century.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "declineSignals": {
+        "value": "Revolt of the Göktürks, their former iron-working subjects.",
+        "year": 552,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "outcome": {
+        "value": "Destroyed by the Göktürks (552–555).",
+        "year": 555,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Rouran Khaganate"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Rouran Khaganate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Rouran Khaganate"
+      },
+      "overallCertainty": {
+        "value": "Known mostly from Chinese records.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Rouran Khaganate"
+      }
+    }
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "id": "dutch-colonial-empire",
+  "name": "Dutch colonial empire (1796–1975)",
+  "era": "modern",
+  "region": "Southeast Asia, Caribbean & South America",
+  "startYear": 1796,
+  "endYear": 1975,
+  "capital": "The Hague; Batavia (Jakarta) in the East Indies",
+  "capitalCoords": [
+    106.85,
+    -6.2
+  ],
+  "summary": "The Netherlands’ colonies after the Dutch East India Company: above all the Dutch East Indies (Indonesia), plus Suriname and Caribbean islands. Indonesia won independence in 1945–49.",
+  "wikiTitle": "Dutch East Indies",
+  "borderNames": [
+    "Dutch East Indies",
+    "Netherlands Indies",
+    "Netherlands"
+  ],
+  "borderYears": [
+    1796,
+    1975
+  ],
+  "color": "#e07a2a",
+  "knownFor": [
+    {
+      "label": "Cultivation System",
+      "kind": "idea",
+      "year": 1830,
+      "note": "Javanese farmers were forced to grow export crops for the Dutch."
+    },
+    {
+      "label": "Max Havelaar",
+      "kind": "art",
+      "year": 1860,
+      "note": "A novel by Multatuli criticising colonial abuse."
+    },
+    {
+      "label": "Batik",
+      "kind": "textile",
+      "note": "Javanese wax-resist dyed cloth, traded worldwide."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Indonesian archipelago, Suriname and the Dutch Caribbean.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "terrain": {
+        "value": "Tropical islands and coasts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "resources": {
+        "value": "Spices, coffee, sugar, rubber, tin and oil.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "disasters": {
+        "value": "The Krakatoa eruption (1883) killed about 36,000 people.",
+        "year": 1883,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 60 million in the East Indies in 1930.",
+        "year": 1930,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "urbanisation": {
+        "value": "Batavia was the colonial capital.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "disease": {
+        "value": "Cholera and famine; plantations had harsh conditions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "migration": {
+        "value": "Javanese workers were sent to Suriname.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Export plantations, mining and oil.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "tradeRoutes": {
+        "value": "Shipping between the Netherlands and Asia; the Suez route after 1869.",
+        "year": 1869,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "wealth": {
+        "value": "Colonial profits were a large part of Dutch state income in the 19th century.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "moneyAndTax": {
+        "value": "The guilder.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "inequality": {
+        "value": "A strict racial hierarchy: Europeans, “Foreign Orientals”, and Indigenous people.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Governor-general under the Dutch crown.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "keyRulers": {
+        "value": "Herman Willem Daendels. Johannes van den Bosch.",
+        "year": 1830,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "succession": {
+        "value": "Appointed governors.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "institutions": {
+        "value": "Colonial administration and courts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "stability": {
+        "value": "The Java War (1825–30) and the Aceh War (1873–1904).",
+        "year": 1825,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "eliteConflict": {
+        "value": "Debates in the Netherlands over the “Ethical Policy” (from 1901).",
+        "year": 1901,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Royal Netherlands East Indies Army (KNIL).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "majorWars": {
+        "value": "Java War, Aceh War; Japanese occupation (1942–45); Indonesian War of Independence (1945–49).",
+        "year": 1945,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "territoryChange": {
+        "value": "Lost Indonesia (1949), West New Guinea (1962) and Suriname (1975).",
+        "year": 1949,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "alliancesRivals": {
+        "value": "Allied with Britain in the Napoleonic era.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few inventions; railways and plantations.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "scienceEducation": {
+        "value": "Limited schooling for Indonesians until the 20th century.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "openness": {
+        "value": "Closed.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "communicationTransport": {
+        "value": "Steamships, railways on Java (from 1867) and the Great Post Road (1808).",
+        "year": 1808,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Islam, Christianity and local religions among the colonised.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "languageWriting": {
+        "value": "Dutch and Malay (later Indonesian).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "artsArchitecture": {
+        "value": "Colonial architecture; batik; Multatuli’s novel.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "socialStructure": {
+        "value": "Racial hierarchy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "sharedIdentity": {
+        "value": "Rising Indonesian nationalism.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "dailyLife": {
+        "value": "Colonists in villas; most people in villages; rice and spices.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "British Malaya, Portuguese Timor.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "ideasReligions": {
+        "value": "Nationalist ideas grew in Dutch-run schools.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "colonisation": {
+        "value": "A colonial empire.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Took over the VOC’s possessions (1799).",
+        "year": 1799,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "peakPeriod": {
+        "value": "Around 1900–1930.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "declineSignals": {
+        "value": "Japanese invasion and the Indonesian independence war.",
+        "year": 1942,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "outcome": {
+        "value": "Ended with Indonesian (1949) and Suriname (1975) independence.",
+        "year": 1975,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
+      }
+    }
+  }
+}

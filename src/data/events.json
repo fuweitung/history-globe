@@ -3780,7 +3780,9 @@
     "type": "war",
     "title": "Java War",
     "description": "Prince Diponegoro leads a major uprising against Dutch colonial rule in Java. It ends with his capture.",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "dutch-colonial-empire"
+    ],
     "source": "Wikipedia: Java War"
   },
   {
@@ -3977,7 +3979,9 @@
     "type": "person",
     "title": "Kingdom of Italy proclaimed",
     "description": "Most of the Italian peninsula is unified under the House of Savoy (Rome follows in 1870).",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "italy"
+    ],
     "source": "Wikipedia: Italian unification"
   },
   {
@@ -4004,7 +4008,8 @@
     "title": "Paraguayan War",
     "description": "Paraguay fights Brazil, Argentina and Uruguay. It is among the deadliest wars in Latin American history: an estimated 150,000–500,000 dead in total, and Paraguay lost a very large share of its population (exact numbers are disputed).",
     "relatedPolityIds": [
-      "empire-of-brazil"
+      "empire-of-brazil",
+      "paraguay"
     ],
     "source": "Wikipedia: Paraguayan War (checked 6 Nov 2026)"
   },
@@ -4803,7 +4808,8 @@
     "title": "Indonesian independence",
     "description": "Sukarno and Hatta proclaim independence in Jakarta. The Netherlands recognises Indonesian sovereignty in 1949 after armed and diplomatic struggle.",
     "relatedPolityIds": [
-      "indonesia"
+      "indonesia",
+      "dutch-colonial-empire"
     ]
   },
   {
@@ -5372,7 +5378,8 @@
     "title": "Iranian Revolution",
     "description": "Mass protests end the Pahlavi monarchy, and an Islamic Republic is established.",
     "relatedPolityIds": [
-      "qajar-pahlavi-iran"
+      "qajar-pahlavi-iran",
+      "islamic-republic-of-iran"
     ]
   },
   {
@@ -7369,7 +7376,8 @@
     "title": "Norway leaves the union with Sweden",
     "description": "Norway peacefully ends its union with Sweden.",
     "relatedPolityIds": [
-      "sweden-modern"
+      "sweden-modern",
+      "norway-modern"
     ],
     "source": "Wikipedia: Dissolution of the union between Norway and Sweden"
   },
@@ -7562,5 +7570,206 @@
       "zapotec"
     ],
     "source": "Wikipedia: Monte Albán"
+  },
+  {
+    "id": "spanish-civil-war",
+    "year": 1936,
+    "lat": 40.42,
+    "lng": -3.7,
+    "type": "war",
+    "title": "Spanish Civil War",
+    "description": "Nationalists led by Franco defeat the Republic (1936–39); a dictatorship follows until 1975.",
+    "relatedPolityIds": [
+      "spain-modern"
+    ],
+    "source": "Wikipedia: Spanish Civil War"
+  },
+  {
+    "id": "spanish-transition",
+    "year": 1978,
+    "lat": 40.42,
+    "lng": -3.7,
+    "type": "culture",
+    "title": "Spain becomes a democracy",
+    "description": "A new constitution after Franco’s death makes Spain a parliamentary monarchy.",
+    "relatedPolityIds": [
+      "spain-modern"
+    ],
+    "source": "Wikipedia: Spanish transition to democracy"
+  },
+  {
+    "id": "norway-oil",
+    "year": 1969,
+    "lat": 56.55,
+    "lng": 3.2,
+    "type": "trade",
+    "title": "Oil found in the North Sea",
+    "description": "The Ekofisk oil field is discovered, making Norway rich.",
+    "relatedPolityIds": [
+      "norway-modern"
+    ],
+    "source": "Wikipedia: Ekofisk oil field"
+  },
+  {
+    "id": "march-on-rome",
+    "year": 1922,
+    "lat": 41.9,
+    "lng": 12.5,
+    "type": "war",
+    "title": "March on Rome",
+    "description": "Mussolini’s Fascists take power in Italy.",
+    "relatedPolityIds": [
+      "italy"
+    ],
+    "source": "Wikipedia: March on Rome"
+  },
+  {
+    "id": "libya-independence",
+    "year": 1951,
+    "lat": 32.89,
+    "lng": 13.19,
+    "type": "culture",
+    "title": "Libya becomes independent",
+    "description": "Libya becomes an independent kingdom under King Idris.",
+    "relatedPolityIds": [
+      "libya"
+    ],
+    "source": "Wikipedia: Kingdom of Libya"
+  },
+  {
+    "id": "libyan-civil-war-2011",
+    "year": 2011,
+    "lat": 32.89,
+    "lng": 13.19,
+    "type": "war",
+    "title": "Libyan civil war",
+    "description": "An uprising backed by NATO airstrikes overthrows Muammar Gaddafi.",
+    "relatedPolityIds": [
+      "libya"
+    ],
+    "source": "Wikipedia: Libyan civil war (2011)"
+  },
+  {
+    "id": "kazakhstan-independence",
+    "year": 1991,
+    "lat": 43.24,
+    "lng": 76.89,
+    "type": "culture",
+    "title": "Kazakhstan becomes independent",
+    "description": "Kazakhstan declares independence as the Soviet Union breaks up.",
+    "relatedPolityIds": [
+      "kazakhstan"
+    ],
+    "source": "Wikipedia: Kazakhstan"
+  },
+  {
+    "id": "angola-independence",
+    "year": 1975,
+    "lat": -8.84,
+    "lng": 13.23,
+    "type": "war",
+    "title": "Angola becomes independent",
+    "description": "Angola wins independence from Portugal; a civil war follows until 2002.",
+    "relatedPolityIds": [
+      "angola",
+      "portuguese-empire"
+    ],
+    "source": "Wikipedia: Angolan Civil War"
+  },
+  {
+    "id": "nigeria-independence",
+    "year": 1960,
+    "lat": 6.45,
+    "lng": 3.4,
+    "type": "culture",
+    "title": "Nigeria becomes independent",
+    "description": "Nigeria gains independence from Britain.",
+    "relatedPolityIds": [
+      "nigeria",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Nigeria"
+  },
+  {
+    "id": "biafran-war",
+    "year": 1967,
+    "lat": 6.44,
+    "lng": 7.49,
+    "type": "war",
+    "title": "Nigerian Civil War",
+    "description": "The south-east declares independence as Biafra (1967–70); famine kills hundreds of thousands or more.",
+    "relatedPolityIds": [
+      "nigeria"
+    ],
+    "source": "Wikipedia: Nigerian Civil War"
+  },
+  {
+    "id": "tanganyika-zanzibar-union",
+    "year": 1964,
+    "lat": -6.8,
+    "lng": 39.28,
+    "type": "culture",
+    "title": "Tanganyika and Zanzibar unite",
+    "description": "The two countries form the United Republic of Tanzania.",
+    "relatedPolityIds": [
+      "tanzania"
+    ],
+    "source": "Wikipedia: Tanzania"
+  },
+  {
+    "id": "rouran-khagan-title",
+    "year": 402,
+    "lat": 47,
+    "lng": 103,
+    "type": "culture",
+    "title": "Rouran ruler takes the title khagan",
+    "description": "Shelun of the Rouran becomes the first ruler known to call himself khagan.",
+    "relatedPolityIds": [
+      "rouran"
+    ],
+    "source": "Wikipedia: Rouran Khaganate"
+  },
+  {
+    "id": "altan-khan-dalai-lama",
+    "year": 1578,
+    "lat": 36.9,
+    "lng": 100.2,
+    "type": "culture",
+    "title": "The title “Dalai Lama” is created",
+    "description": "Altan Khan meets Sonam Gyatso and gives him the title Dalai Lama.",
+    "relatedPolityIds": [
+      "northern-yuan",
+      "tibet"
+    ],
+    "source": "Wikipedia: Altan Khan"
+  },
+  {
+    "id": "battle-of-kalka",
+    "year": 1223,
+    "lat": 47.4,
+    "lng": 37.6,
+    "type": "war",
+    "title": "Battle of the Kalka River",
+    "description": "Mongol forces defeat an army of Cumans and Rus’ princes.",
+    "relatedPolityIds": [
+      "cumans",
+      "kievan-rus",
+      "mongol-empire"
+    ],
+    "source": "Wikipedia: Battle of the Kalka River"
+  },
+  {
+    "id": "megalithic-south-india",
+    "year": -800,
+    "yearApproximate": true,
+    "lat": 8.6,
+    "lng": 77.85,
+    "type": "culture",
+    "title": "Megalithic burials in southern India",
+    "description": "Iron Age peoples bury their dead in stone circles and urns, as at Adichanallur.",
+    "relatedPolityIds": [
+      "early-south-india"
+    ],
+    "source": "Wikipedia: Adichanallur"
   }
 ]

@@ -1775,5 +1775,138 @@
     "relation": "conquered",
     "year": 1538,
     "note": "The Ottomans ruled parts of Yemen in the 16th–17th centuries."
+  },
+  {
+    "fromPolityId": "qajar-pahlavi-iran",
+    "toPolityId": "islamic-republic-of-iran",
+    "relation": "succeeded",
+    "year": 1979,
+    "note": "The revolution replaced the monarchy."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "spain-modern",
+    "relation": "succeeded",
+    "year": 1898,
+    "note": "Spain lost its last major colonies in 1898."
+  },
+  {
+    "fromPolityId": "sweden-modern",
+    "toPolityId": "norway-modern",
+    "relation": "succeeded",
+    "year": 1905,
+    "note": "Norway left its union with Sweden."
+  },
+  {
+    "fromPolityId": "habsburg-monarchy",
+    "toPolityId": "italy",
+    "relation": "conquered",
+    "year": 1866,
+    "note": "Italy took Venetia from Austria."
+  },
+  {
+    "fromPolityId": "dutch-republic",
+    "toPolityId": "dutch-colonial-empire",
+    "relation": "succeeded",
+    "year": 1796,
+    "note": "The Dutch state took over the VOC’s colonies."
+  },
+  {
+    "fromPolityId": "dutch-colonial-empire",
+    "toPolityId": "indonesia",
+    "relation": "colonised",
+    "year": 1945,
+    "note": "Indonesia won independence from the Dutch (1945–49)."
+  },
+  {
+    "fromPolityId": "italy",
+    "toPolityId": "libya",
+    "relation": "colonised",
+    "year": 1943,
+    "note": "Libya was an Italian colony (1911–43)."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "kazakhstan",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Kazakhstan became independent when the USSR broke up."
+  },
+  {
+    "fromPolityId": "kazakh-khanate",
+    "toPolityId": "kazakhstan",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Modern Kazakh identity draws on the Kazakh Khanate."
+  },
+  {
+    "fromPolityId": "portuguese-empire",
+    "toPolityId": "angola",
+    "relation": "colonised",
+    "year": 1975,
+    "note": "Angola was a Portuguese colony until 1975."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "nigeria",
+    "relation": "colonised",
+    "year": 1960,
+    "note": "Nigeria was a British colony until 1960."
+  },
+  {
+    "fromPolityId": "sokoto-caliphate",
+    "toPolityId": "nigeria",
+    "relation": "succeeded",
+    "year": 1960,
+    "note": "The caliphate’s lands became northern Nigeria."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "tanzania",
+    "relation": "colonised",
+    "year": 1961,
+    "note": "Tanganyika was a British mandate until 1961."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "paraguay",
+    "relation": "colonised",
+    "year": 1811,
+    "note": "Paraguay was a Spanish colony until 1811."
+  },
+  {
+    "fromPolityId": "rouran",
+    "toPolityId": "turkic-khaganates",
+    "relation": "conquered",
+    "year": 552,
+    "note": "The Göktürks overthrew the Rouran."
+  },
+  {
+    "fromPolityId": "yuan",
+    "toPolityId": "northern-yuan",
+    "relation": "succeeded",
+    "year": 1368,
+    "note": "The Yuan court fled to the steppe."
+  },
+  {
+    "fromPolityId": "ming-china",
+    "toPolityId": "northern-yuan",
+    "relation": "traded_with",
+    "year": 1571,
+    "note": "Peace and horse markets after 1571."
+  },
+  {
+    "fromPolityId": "cumans",
+    "toPolityId": "golden-horde",
+    "relation": "succeeded",
+    "year": 1241,
+    "note": "The Cumans were absorbed into the Golden Horde."
+  },
+  {
+    "fromPolityId": "early-south-india",
+    "toPolityId": "indian-regional-kingdoms",
+    "relation": "succeeded",
+    "year": -500,
+    "note": "The first southern kingdoms grew from these communities."
   }
 ]

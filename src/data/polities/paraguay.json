@@ -1,0 +1,321 @@
+{
+  "id": "paraguay",
+  "name": "Paraguay",
+  "era": "modern",
+  "region": "South America",
+  "startYear": 1811,
+  "endYear": null,
+  "capital": "Asunción",
+  "capitalCoords": [
+    -57.58,
+    -25.26
+  ],
+  "summary": "A landlocked South American country, independent since 1811, devastated by the War of the Triple Alliance (1864–70) and notable for its widespread Guaraní language.",
+  "wikiTitle": "Paraguay",
+  "borderNames": [
+    "Paraguay"
+  ],
+  "borderYears": [
+    1811,
+    null
+  ],
+  "color": "#b03a4a",
+  "knownFor": [
+    {
+      "label": "Itaipu Dam",
+      "kind": "monument",
+      "year": 1984,
+      "note": "One of the world’s largest hydroelectric dams, shared with Brazil."
+    },
+    {
+      "label": "Guaraní language",
+      "kind": "idea",
+      "note": "Spoken by most Paraguayans."
+    },
+    {
+      "label": "Ñandutí lace",
+      "kind": "textile",
+      "note": "Spiderweb-like lace."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Central South America, landlocked; about 407,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      },
+      "terrain": {
+        "value": "Fertile east; the dry Chaco in the west.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      },
+      "climate": {
+        "value": "Subtropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      },
+      "resources": {
+        "value": "Farmland (soy, beef), hydropower.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      },
+      "disasters": {
+        "value": "Floods and droughts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Paraguay"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 7 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      },
+      "urbanisation": {
+        "value": "Asunción.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      },
+      "disease": {
+        "value": "Dengue fever.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Paraguay"
+      },
+      "migration": {
+        "value": "Mennonite and other immigrants settled the Chaco.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming exports and hydropower.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      },
+      "tradeRoutes": {
+        "value": "Rivers to the Atlantic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      },
+      "wealth": {
+        "value": "An upper-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      },
+      "moneyAndTax": {
+        "value": "The guaraní.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      },
+      "inequality": {
+        "value": "Land concentrated in few hands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A presidential republic; dictatorships for long periods.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      },
+      "keyRulers": {
+        "value": "José Gaspar Rodríguez de Francia. Francisco Solano López. Alfredo Stroessner (1954–89).",
+        "year": 1954,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      },
+      "succession": {
+        "value": "Elections since 1989.",
+        "year": 1989,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      },
+      "institutions": {
+        "value": "Congress and courts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      },
+      "stability": {
+        "value": "Stroessner’s dictatorship.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      },
+      "eliteConflict": {
+        "value": "Party politics (Colorado Party).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Paraguay"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Small armed forces.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      },
+      "majorWars": {
+        "value": "War of the Triple Alliance (1864–70) and Chaco War (1932–35).",
+        "year": 1864,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      },
+      "territoryChange": {
+        "value": "Lost land in 1870; gained the Chaco in 1935.",
+        "year": 1870,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      },
+      "alliancesRivals": {
+        "value": "Mercosur member.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Paraguay"
+      },
+      "scienceEducation": {
+        "value": "Rising literacy.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Paraguay"
+      },
+      "openness": {
+        "value": "Isolated under Francia.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Paraguay"
+      },
+      "communicationTransport": {
+        "value": "River transport on the Paraná and Paraguay.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Catholic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      },
+      "languageWriting": {
+        "value": "Spanish and Guaraní (both official).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      },
+      "artsArchitecture": {
+        "value": "Ñandutí lace, harp music.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      },
+      "socialStructure": {
+        "value": "Inequality between landowners and peasants.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Paraguay"
+      },
+      "sharedIdentity": {
+        "value": "Guaraní language as a shared identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      },
+      "dailyLife": {
+        "value": "Houses with patios; chipa, sopa paraguaya, tereré.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Brazil, Argentina, Bolivia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      },
+      "ideasReligions": {
+        "value": "Jesuit mission heritage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Paraguay"
+      },
+      "colonisation": {
+        "value": "A Spanish colony until 1811.",
+        "year": 1811,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence in 1811.",
+        "year": 1811,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      },
+      "peakPeriod": {
+        "value": "Growth from soy and hydropower.",
+        "year": 2010,
+        "certainty": "estimated",
+        "source": "Wikipedia: Paraguay"
+      },
+      "declineSignals": {
+        "value": "War losses (1864–70) killed a large share of the population.",
+        "year": 1870,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Paraguay.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay"
+      },
+      "overallCertainty": {
+        "value": "War death estimates vary widely.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Paraguay"
+      }
+    }
+  }
+}

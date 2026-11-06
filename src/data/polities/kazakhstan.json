@@ -1,0 +1,322 @@
+{
+  "id": "kazakhstan",
+  "name": "Kazakhstan",
+  "era": "modern",
+  "region": "Central Asia",
+  "startYear": 1991,
+  "endYear": null,
+  "capital": "Astana (Almaty until 1997)",
+  "capitalCoords": [
+    71.45,
+    51.17
+  ],
+  "summary": "The world’s largest landlocked country, independent since the Soviet Union broke up in 1991, rich in oil, gas and uranium.",
+  "wikiTitle": "Kazakhstan",
+  "borderNames": [
+    "Kazakhstan"
+  ],
+  "borderYears": [
+    1991,
+    null
+  ],
+  "color": "#4fa3b8",
+  "knownFor": [
+    {
+      "label": "Baikonur Cosmodrome",
+      "kind": "tool",
+      "year": 1957,
+      "note": "Launch site of Sputnik and Gagarin, leased to Russia."
+    },
+    {
+      "label": "Astana",
+      "kind": "monument",
+      "year": 1997,
+      "note": "A new capital with futuristic buildings."
+    },
+    {
+      "label": "Beshbarmak",
+      "kind": "food",
+      "note": "Boiled meat with noodles, the national dish."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Central Asia, from the Caspian Sea to the Altai; about 2.7 million km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "terrain": {
+        "value": "Steppe, semi-desert and mountains in the south-east.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "climate": {
+        "value": "Very continental.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "resources": {
+        "value": "Oil, gas, uranium (largest producer), coal, wheat.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "disasters": {
+        "value": "The shrinking Aral Sea; Soviet nuclear tests at Semipalatinsk.",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 20 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "urbanisation": {
+        "value": "Almaty and Astana.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "disease": {
+        "value": "Health effects from nuclear tests.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "migration": {
+        "value": "Many Russians and Germans left after 1991; ethnic Kazakhs returned.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Oil, gas, mining, wheat.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "tradeRoutes": {
+        "value": "Pipelines to China and Russia; the Caspian Pipeline.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "wealth": {
+        "value": "An upper-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "moneyAndTax": {
+        "value": "The tenge.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "inequality": {
+        "value": "Gaps between oil-rich elites and others.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kazakhstan"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A presidential republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "keyRulers": {
+        "value": "Nursultan Nazarbayev (1990–2019). Kassym-Jomart Tokayev.",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "succession": {
+        "value": "Managed elections.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "institutions": {
+        "value": "Strong presidency.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "stability": {
+        "value": "Unrest in January 2022.",
+        "year": 2022,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "eliteConflict": {
+        "value": "Elite rivalry.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kazakhstan"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "A small army; ties with Russia (CSTO).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "majorWars": {
+        "value": "No wars since independence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "territoryChange": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "alliancesRivals": {
+        "value": "Balances Russia, China and the West.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Baikonur space launches.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "scienceEducation": {
+        "value": "High literacy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "openness": {
+        "value": "Increasingly open.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "communicationTransport": {
+        "value": "Railways linking China and Europe.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sunni Islam and Russian Orthodox Christianity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "languageWriting": {
+        "value": "Kazakh and Russian; Kazakh moving to the Latin alphabet.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "artsArchitecture": {
+        "value": "Modern architecture in Astana; dombra music.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "socialStructure": {
+        "value": "Ethnic diversity.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "sharedIdentity": {
+        "value": "Kazakh identity revived after 1991.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "dailyLife": {
+        "value": "Apartments in cities; meat and dairy dishes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Russia, China, Kyrgyzstan, Uzbekistan, Turkmenistan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "ideasReligions": {
+        "value": "Multi-ethnic policies.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "colonisation": {
+        "value": "Part of the Russian Empire and USSR before 1991.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence on 16 December 1991.",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "peakPeriod": {
+        "value": "Oil boom of the 2000s.",
+        "year": 2005,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "declineSignals": {
+        "value": "Dependence on oil prices.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Kazakhstan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakhstan"
+      }
+    }
+  }
+}

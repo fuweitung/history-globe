@@ -1,0 +1,323 @@
+{
+  "id": "northern-yuan",
+  "name": "Northern Yuan",
+  "era": "medieval",
+  "region": "Central Asia (Mongolian steppe)",
+  "startYear": 1368,
+  "endYear": 1635,
+  "capital": "Karakorum and mobile camps",
+  "capitalCoords": [
+    102.8,
+    47.2
+  ],
+  "summary": "The Mongol state that continued on the steppe after the Yuan dynasty was driven out of China in 1368. Dayan Khan and Altan Khan revived its power; it ended when the Qing’s forerunners took it over in 1635.",
+  "wikiTitle": "Northern Yuan",
+  "borderNames": [
+    "Great Khanate"
+  ],
+  "borderYears": [
+    1369,
+    1635
+  ],
+  "color": "#5a7ab0",
+  "knownFor": [
+    {
+      "label": "Altan Khan and the Dalai Lama title",
+      "kind": "idea",
+      "year": 1578,
+      "note": "Altan Khan gave the title “Dalai Lama” to Sonam Gyatso."
+    },
+    {
+      "label": "Dayan Khan",
+      "kind": "person",
+      "year": 1500,
+      "note": "Reunited the Mongols around 1500."
+    },
+    {
+      "label": "Hohhot",
+      "kind": "monument",
+      "year": 1581,
+      "note": "City founded by Altan Khan."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Mongolia and Inner Mongolia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "terrain": {
+        "value": "Steppe and desert.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "climate": {
+        "value": "Very continental.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "resources": {
+        "value": "Herds of horses, sheep and camels.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "disasters": {
+        "value": "Harsh winters (dzud).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Northern Yuan"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown; few records survive.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "urbanisation": {
+        "value": "Mostly nomadic; a few towns such as Hohhot.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "disease": {
+        "value": "Unknown; few records survive.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "migration": {
+        "value": "Mongols moved back to the steppe after 1368.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Northern Yuan"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Herding; trade with Ming China at border markets.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "tradeRoutes": {
+        "value": "Horse markets with the Ming.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "wealth": {
+        "value": "Wealth in herds.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "moneyAndTax": {
+        "value": "No coinage of their own.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "inequality": {
+        "value": "Nobles of Genghisid descent.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Northern Yuan"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A khanate claiming the Yuan title.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "keyRulers": {
+        "value": "Dayan Khan. Altan Khan. Ligdan Khan.",
+        "year": 1500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "succession": {
+        "value": "Within the Genghisid line, often disputed.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "institutions": {
+        "value": "Tribal assemblies.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "stability": {
+        "value": "Long periods of division between eastern Mongols and Oirats.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "eliteConflict": {
+        "value": "Rivalry with the Oirats.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern Yuan"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Cavalry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "majorWars": {
+        "value": "Wars with the Ming (Tumu Crisis, 1449, when the Oirats captured the Ming emperor).",
+        "year": 1449,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "territoryChange": {
+        "value": "Lost Inner Mongolia to the Later Jin (Qing) in 1635.",
+        "year": 1635,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "alliancesRivals": {
+        "value": "Rival of the Ming.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern Yuan"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "scienceEducation": {
+        "value": "Buddhist texts translated into Mongolian.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "openness": {
+        "value": "Revived Tibetan Buddhism.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "communicationTransport": {
+        "value": "Horses; trade routes to China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern Yuan"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Tibetan Buddhism from 1578, alongside shamanism.",
+        "year": 1578,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "languageWriting": {
+        "value": "Mongolian.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "artsArchitecture": {
+        "value": "Monasteries, Buddhist art.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "socialStructure": {
+        "value": "Nobles and herders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "sharedIdentity": {
+        "value": "Memory of Genghis Khan.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "dailyLife": {
+        "value": "Gers; meat and dairy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern Yuan"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Ming China, Oirats, Tibet, Manchus.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "ideasReligions": {
+        "value": "Spread Tibetan Buddhism among the Mongols.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern Yuan"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Retreat from China in 1368.",
+        "year": 1368,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "peakPeriod": {
+        "value": "Under Dayan Khan and Altan Khan (about 1480–1580).",
+        "year": 1550,
+        "certainty": "estimated",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "declineSignals": {
+        "value": "Division and the rise of the Manchus.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "outcome": {
+        "value": "Absorbed by the Manchu Later Jin in 1635.",
+        "year": 1635,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern Yuan"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Northern Yuan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern Yuan"
+      },
+      "overallCertainty": {
+        "value": "Mostly from Chinese and Mongolian chronicles.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Northern Yuan"
+      }
+    }
+  }
+}
