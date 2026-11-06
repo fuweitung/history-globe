@@ -114,6 +114,11 @@ describe('border matching', () => {
     expect(ids('Sweden', 1900)).not.toContain('swedish-empire');
   });
 
+  it('applies a name’s own date window', () => {
+    expect(ids('Kenya', 1930)).toContain('british-empire');
+    expect(ids('Kenya', 1994)).not.toContain('british-empire');
+  });
+
   it('lets colonies inherit their overlord', () => {
     const r = candidatesFor({ NAME: 'Some colony', SUBJECTO: 'United Kingdom of Great Britain and Ireland' }, 1914);
     expect(r.viaName).toBe(false);

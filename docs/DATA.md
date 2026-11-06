@@ -87,6 +87,7 @@ The border maps use their own names (for example "Manchu Empire" for the Qing). 
 
 - Names are matched against each polygon's own name first, then against its overlord (`SUBJECTO`). That's how colonies get linked to their empire.
 - By default a name only matches snapshots within the civilisation's lifetime, ±10 years.
+- A name can also have **its own date window** with `borderNameYears`, e.g. `"borderNameYears": { "Kenya": [1895, 1963] }` on the British Empire. It overrides `borderYears` for that name only, so a colony links to its empire only while it was a colony.
 - When the same name is used in different eras ("China", "France", "Japan"), set `borderYears: [from, to]` to limit it to a strict window.
 
 ### Add an event

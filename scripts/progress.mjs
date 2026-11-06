@@ -16,15 +16,21 @@ const MAX_YEAR = 2025;
 const norm = (s) => s.trim().toLowerCase();
 const yearsOutside = (p, y) => (y < p.startYear ? p.startYear - y : y > (p.endYear ?? MAX_YEAR) ? y - (p.endYear ?? MAX_YEAR) : 0);
 const tolerance = (y) => (y < 500 ? 50 : y < 1500 ? 25 : 10);
-const distance = (p, y) => {
-  if (p.borderYears) return y >= p.borderYears[0] && y <= (p.borderYears[1] ?? Infinity) ? 0 : Infinity;
+const windowFor = (p, name) => {
+  for (const [n, w] of Object.entries(p.borderNameYears ?? {})) if (name && norm(n) === norm(name)) return w;
+  return p.borderYears;
+};
+const distance = (p, y, name) => {
+  const win = windowFor(p, name);
+  if (win) return y >= win[0] && y <= (win[1] ?? Infinity) ? 0 : Infinity;
   const d = yearsOutside(p, y);
   return d <= tolerance(y) ? d : Infinity;
 };
 const index = new Map();
-for (const p of polities) for (const n of p.borderNames ?? []) index.set(norm(n), [...(index.get(norm(n)) ?? []), p]);
+for (const p of polities)
+  for (const n of [...(p.borderNames ?? []), ...Object.keys(p.borderNameYears ?? {})]) index.set(norm(n), [...(index.get(norm(n)) ?? []), p]);
 const linked = (props, y) =>
-  [props.NAME, props.SUBJECTO].some((k) => k && (index.get(norm(k)) ?? []).some((p) => distance(p, y) !== Infinity));
+  [props.NAME, props.SUBJECTO].some((k) => k && (index.get(norm(k)) ?? []).some((p) => distance(p, y, k) !== Infinity));
 
 // ── Spherical area (km²) ──
 const R = 6378.137;

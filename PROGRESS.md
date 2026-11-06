@@ -47,12 +47,12 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 
 | Area | Progress | Detail |
 |---|---|---|
-| Map coverage (all years) | `█████████████████░░░` 86% | Named land on the border maps that is linked to a civilisation |
+| Map coverage (all years) | `█████████████████░░░` 87% | Named land on the border maps that is linked to a civilisation |
 | · Prehistory | `██████████████████░░` 92% |  |
 | · Ancient | `██████████████████░░` 91% |  |
 | · Medieval | `█████████████████░░░` 85% |  |
 | · Early modern | `████████████████░░░░` 79% |  |
-| · Modern | `█████████████████░░░` 84% |  |
+| · Modern | `██████████████████░░` 88% |  |
 | Civilisations shown on the map | `███████████████████░` 95% | 241 of 253; the rest fly to their capital |
 | Checklist filled in | `████████████████████` 100% | 10879 of 10879 items (253 × 43) |
 | Answers with real detail | `████████████████░░░░` 81% | 1951 answers are still under 40 characters |
@@ -105,21 +105,21 @@ Also in the app: 579 events · 267 people · 18 routes · 11 stories.
 | 1500 | `█████████████████░░░` 83% |
 | 1530 | `███████████████░░░░░` 75% |
 | 1600 | `██████████████░░░░░░` 72% |
-| 1650 | `████████████████░░░░` 78% |
+| 1650 | `████████████████░░░░` 79% |
 | 1700 | `████████████████░░░░` 79% |
-| 1715 | `████████████████░░░░` 80% |
-| 1783 | `████████████████░░░░` 82% |
+| 1715 | `████████████████░░░░` 81% |
+| 1783 | `█████████████████░░░` 83% |
 | 1800 | `█████████████████░░░` 84% |
-| 1815 | `████████████████░░░░` 79% |
-| 1878 | `█████████████████░░░` 87% |
-| 1880 | `█████████████████░░░` 87% |
-| 1900 | `██████████████████░░` 90% |
-| 1914 | `███████████████████░` 95% |
-| 1920 | `█████████████████░░░` 87% |
-| 1930 | `█████████████████░░░` 85% |
-| 1938 | `██████████████████░░` 91% |
-| 1945 | `████████████████░░░░` 81% |
-| 1960 | `███████████████░░░░░` 74% |
+| 1815 | `██████████████████░░` 88% |
+| 1878 | `██████████████████░░` 92% |
+| 1880 | `██████████████████░░` 92% |
+| 1900 | `██████████████████░░` 92% |
+| 1914 | `███████████████████░` 97% |
+| 1920 | `███████████████████░` 95% |
+| 1930 | `███████████████████░` 94% |
+| 1938 | `███████████████████░` 94% |
+| 1945 | `█████████████████░░░` 87% |
+| 1960 | `████████████████░░░░` 79% |
 | 1994 | `████████████████░░░░` 80% |
 | 2000 | `████████████████░░░░` 80% |
 | 2010 | `████████████████░░░░` 80% |
@@ -133,8 +133,6 @@ Areas on the border maps that no civilisation covers yet, largest first (area ad
 | Antarctica | 1945 – 1960 (2 maps) | 24M |
 | 1 | 100 – 100 (1 maps) | 18M |
 | Tibetans | 1500 BCE – 700 BCE (3 maps) | 10M |
-| Canada | 1815 – 1815 (1 maps) | 10M |
-| Sudan | 1920 – 1938 (3 maps) | 8M |
 | Arabia | 1878 – 1900 (3 maps) | 7M |
 | Proto-Altaic pastoralists | 500 BCE – 400 BCE (2 maps) | 6M |
 | Mali | 1000 – 2010 (9 maps) | 6M |
@@ -142,21 +140,23 @@ Areas on the border maps that no civilisation covers yet, largest first (area ad
 | Chad | 1960 – 2010 (4 maps) | 5M |
 | Niger | 1960 – 2010 (4 maps) | 5M |
 | Mongols | 1100 – 1100 (1 maps) | 5M |
-| Mozambique | 1920 – 2010 (6 maps) | 5M |
-| Zambia | 1920 – 2010 (6 maps) | 5M |
 | Vedic Aryans | 1500 BCE – 700 BCE (3 maps) | 5M |
-| Pakistan | 1945 – 2010 (5 maps) | 4M |
 | Kara Khitai Khaganate | 1200 – 1200 (1 maps) | 4M |
 | Buwayhid Emirates | 1000 – 1200 (2 maps) | 4M |
 | Arabs | 1492 – 1500 (2 maps) | 4M |
 | Mauritania | 1960 – 2010 (4 maps) | 4M |
 | Namibia | 1945 – 2010 (5 maps) | 4M |
 | Oghuz Turks | 900 – 900 (1 maps) | 4M |
-| Angola | 1815 – 1960 (5 maps) | 4M |
 | Ecuador | 1878 – 2010 (12 maps) | 4M |
 | Suren Kingdom | 1 BCE – 400 (4 maps) | 4M |
 | Papua New Guinea | 1900 – 2010 (9 maps) | 4M |
 | Emirate of the White Sheep Turks | 1492 – 1500 (2 maps) | 4M |
-| Kenya | 1920 – 2010 (6 maps) | 4M |
-| Botswana | 1920 – 2010 (6 maps) | 4M |
-| Philippines | 1492 – 1945 (15 maps) | 3M |
+| Pakistan | 1960 – 2010 (4 maps) | 4M |
+| Emirate of Bin Shal'an | 1920 – 1938 (3 maps) | 3M |
+| Ethiopia | 1994 – 2010 (3 maps) | 3M |
+| Zhangzhung Kingdom | 400 BCE – 100 BCE (5 maps) | 3M |
+| Poland | 1783 – 2010 (9 maps) | 3M |
+| Nogai Horde | 1530 – 1715 (5 maps) | 3M |
+| Uyghurs | 700 – 900 (2 maps) | 3M |
+| Proto-Tibetan cultures | 400 BCE – 400 BCE (1 maps) | 3M |
+| Magadha | 500 BCE – 200 (4 maps) | 3M |

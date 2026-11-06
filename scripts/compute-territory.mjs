@@ -17,9 +17,15 @@ const MAX_YEAR = 2025;
 const norm = (s) => s.trim().toLowerCase();
 const yearsOutside = (p, y) => (y < p.startYear ? p.startYear - y : y > (p.endYear ?? MAX_YEAR) ? y - (p.endYear ?? MAX_YEAR) : 0);
 const tolerance = (y) => (y < 500 ? 50 : y < 1500 ? 25 : 10);
-function distance(p, y) {
-  if (p.borderYears) {
-    const [from, to] = p.borderYears;
+// A name's own window (borderNameYears) overrides the polity's borderYears.
+const windowFor = (p, name) => {
+  for (const [n, w] of Object.entries(p.borderNameYears ?? {})) if (name && norm(n) === norm(name)) return w;
+  return p.borderYears;
+};
+function distance(p, y, name) {
+  const win = windowFor(p, name);
+  if (win) {
+    const [from, to] = win;
     return y >= from && y <= (to ?? Infinity) ? 0 : Infinity;
   }
   const d = yearsOutside(p, y);
@@ -27,15 +33,16 @@ function distance(p, y) {
 }
 
 const index = new Map();
-for (const p of polities) for (const n of p.borderNames ?? []) index.set(norm(n), [...(index.get(norm(n)) ?? []), p]);
+for (const p of polities)
+  for (const n of [...(p.borderNames ?? []), ...Object.keys(p.borderNameYears ?? {})]) index.set(norm(n), [...(index.get(norm(n)) ?? []), p]);
 
 function owners(props, y) {
   for (const key of [props.NAME, props.SUBJECTO]) {
     if (!key) continue;
-    const near = (index.get(norm(key)) ?? []).filter((p) => distance(p, y) !== Infinity);
+    const near = (index.get(norm(key)) ?? []).filter((p) => distance(p, y, key) !== Infinity);
     if (!near.length) continue;
-    const best = Math.min(...near.map((p) => distance(p, y)));
-    const top = near.filter((p) => distance(p, y) === best);
+    const best = Math.min(...near.map((p) => distance(p, y, key)));
+    const top = near.filter((p) => distance(p, y, key) === best);
     const active = top.filter((p) => yearsOutside(p, y) === 0);
     return active.length ? active : [top[0]];
   }
