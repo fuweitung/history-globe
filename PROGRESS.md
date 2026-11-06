@@ -23,12 +23,14 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 - [x] New checklist items: Communication & transport, Housing & daily life (#5)
 - [x] Search inside checklist text, e.g. “El Niño” finds Valdivia (#9)
 - [x] Map blanks round 2: West Africa, Sahara, subarctic Canada, Finno-Ugric north, North American woodlands and West, Brazilian highlands, Pampas and Patagonia, Peru, Colombia, Mongolia, Sudan, Algeria (#8)
-- [ ] “Known for” pictures (#2), in progress
+- [x] “Known for” pictures, first round: 415 of 693 items (#2)
 
 ### Next
 - [ ] Fact-check the content added on 6 Nov 2026 (REVIEW.md, Priority 0) (#4)
 - [ ] Map blanks round 3: prehistory (lowest at 57%) and the remaining modern countries; see “Biggest map blanks” below
 - [ ] Britannica check of the 20 major civilisations (REVIEW.md, Priority 1)
+
+- [ ] Pictures for the remaining “Known for” items and 5 civilisations without one
 
 ### Later
 - [ ] Quiz mode for students
@@ -50,8 +52,8 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | Checklist filled in | `████████████████████` 100% | 8729 of 8729 items (203 × 43) |
 | Answers with real detail | `██████████████████░░` 92% | 648 answers are still under 40 characters |
 | Fact-checked against a source | `████████░░░░░░░░░░░░` 41% | 3559 items say “(checked …)”; the rest still need a second look |
-| Civilisation pictures | `████████████████░░░░` 81% | 165 of 203 |
-| “Known for” pictures | `░░░░░░░░░░░░░░░░░░░░` 0% | 0 of 669 items |
+| Civilisation pictures | `████████████████████` 98% | 198 of 203 |
+| “Known for” pictures | `████████████░░░░░░░░` 62% | 415 of 669 items |
 
 Certainty of all items: 4230 confirmed · 4134 estimated · 365 disputed.
 Also in the app: 432 events · 115 people · 18 routes · 11 stories.
