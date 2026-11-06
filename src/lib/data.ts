@@ -1,10 +1,11 @@
-import type { EventType, HistoryEvent, HistoryRoute, Person, PersonRole, Polity, PolityLink, RouteKind, WikiImage } from '../types';
+import type { EventType, HistoryEvent, HistoryRoute, Person, PersonRole, Polity, PolityLink, RouteKind, Story, WikiImage } from '../types';
 import { normaliseChecklist } from './checklistSchema';
 import eventsJson from '../data/events.json';
 import routesJson from '../data/routes.json';
 import linksJson from '../data/links.json';
 import imagesJson from '../data/images.json';
 import peopleJson from '../data/people.json';
+import storiesJson from '../data/stories.json';
 
 // Every file in src/data/polities/*.json becomes a polity.
 // To add a civilisation, drop a new JSON file in that folder.
@@ -42,6 +43,9 @@ export const PERSON_ROLES: Record<PersonRole, { label: string; icon: string }> =
   artist: { label: 'Artist', icon: '🎨' },
   explorer: { label: 'Explorer', icon: '🧭' },
 };
+
+export const STORIES: Story[] = storiesJson as unknown as Story[];
+export const STORY_BY_ID = new Map(STORIES.map((s) => [s.id, s]));
 
 export const ROUTES: HistoryRoute[] = routesJson as unknown as HistoryRoute[];
 export const ROUTE_BY_ID = new Map(ROUTES.map((r) => [r.id, r]));

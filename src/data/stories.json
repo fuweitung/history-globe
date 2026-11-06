@@ -1,0 +1,397 @@
+[
+ {
+  "id": "first-civilisations",
+  "title": "Where civilisation began",
+  "summary": "From the first farmers and temples to the first cities and writing, 9500–1250 BCE.",
+  "icon": "🌾",
+  "steps": [
+   {
+    "title": "Temples before towns",
+    "year": -9500,
+    "event": "gobekli-tepe",
+    "text": "Around 9500 BCE, hunter-gatherers in what is now Turkey carved huge stone pillars at Göbekli Tepe. A monument may have come before farming."
+   },
+   {
+    "title": "The first farmers",
+    "year": -9000,
+    "polity": "neolithic-levant",
+    "text": "In the Fertile Crescent, people began planting wheat and barley and herding sheep and goats. Food surpluses let villages grow, Jericho among them."
+   },
+   {
+    "title": "Farming spreads",
+    "year": -7000,
+    "event": "catalhoyuk",
+    "text": "Farming spread from village to village. Çatalhöyük in Anatolia held thousands of people in houses entered through the roof. Rice was being domesticated in China around the same time."
+   },
+   {
+    "title": "Temples on the river plain",
+    "year": -5000,
+    "polity": "ubaid",
+    "text": "Ubaid villages on the Mesopotamian plain dug irrigation canals and built the first temples at Eridu."
+   },
+   {
+    "title": "The first cities",
+    "year": -3800,
+    "event": "uruk-period",
+    "text": "Uruk grew into one of the first true cities, with thousands of people, temples and full-time officials and craftsmen."
+   },
+   {
+    "title": "Writing is invented",
+    "year": -3200,
+    "event": "cuneiform-writing",
+    "text": "Sumerian scribes pressed signs into clay to record goods and debts. This was cuneiform, one of the world’s first writing systems."
+   },
+   {
+    "title": "Egypt unites",
+    "year": -3100,
+    "event": "egypt-unification",
+    "text": "Along the Nile, Upper and Lower Egypt were united under one king, starting 3,000 years of pharaohs."
+   },
+   {
+    "title": "Pyramids in Peru",
+    "year": -2600,
+    "polity": "caral-supe",
+    "text": "In the Americas, Caral–Supe built platform mounds in the Peruvian desert, independently of the Old World."
+   },
+   {
+    "title": "Cities of the Indus",
+    "year": -2500,
+    "event": "mohenjo-daro",
+    "text": "In South Asia, planned cities like Mohenjo-daro had grid streets and covered drains. Their script is still undeciphered."
+   },
+   {
+    "title": "China’s first writing",
+    "year": -1250,
+    "event": "oracle-bones",
+    "text": "Shang kings carved questions to their ancestors on bones. These oracle bones are the oldest Chinese writing and the ancestor of today’s characters."
+   }
+  ]
+ },
+ {
+  "id": "silk-road",
+  "title": "The Silk Road",
+  "summary": "How a web of trade routes linked China and the Mediterranean, 130 BCE–1450.",
+  "icon": "🐫",
+  "steps": [
+   {
+    "title": "An envoy goes west",
+    "year": -130,
+    "event": "zhang-qian",
+    "route": "silk-road",
+    "text": "Han China sent the envoy Zhang Qian into Central Asia. His reports opened regular trade westward."
+   },
+   {
+    "title": "The middlemen",
+    "year": 100,
+    "polity": "parthian-empire",
+    "route": "silk-road",
+    "text": "Goods passed from hand to hand. The Kushans and Parthians in the middle grew rich, and Rome paid in gold for Chinese silk."
+   },
+   {
+    "title": "Ideas travel too",
+    "year": 150,
+    "polity": "kushan-empire",
+    "text": "Buddhism spread from India through Kushan lands into China along the same routes."
+   },
+   {
+    "title": "Tang Chang’an",
+    "year": 700,
+    "polity": "tang",
+    "text": "Under the Tang, Chang’an was one of the largest cities in the world, full of Sogdian, Persian and Arab merchants."
+   },
+   {
+    "title": "Paper reaches the west",
+    "year": 800,
+    "event": "house-of-wisdom",
+    "text": "Papermaking spread from China to Baghdad, where the Abbasid House of Wisdom translated and copied books."
+   },
+   {
+    "title": "The Mongol peace",
+    "year": 1275,
+    "person": "marco-polo",
+    "route": "silk-road",
+    "text": "The Mongol Empire made the whole route safer. Marco Polo travelled to Kublai Khan’s court."
+   },
+   {
+    "title": "Plague on the road",
+    "year": 1347,
+    "event": "black-death",
+    "text": "The Black Death travelled the same routes and killed a huge share of Eurasia’s people."
+   },
+   {
+    "title": "The sea takes over",
+    "year": 1500,
+    "route": "maritime-silk-road",
+    "text": "As empires broke up and ships improved, more trade moved to sea routes across the Indian Ocean."
+   }
+  ]
+ },
+ {
+  "id": "rome",
+  "title": "Rise and fall of Rome",
+  "summary": "From a small city to a Mediterranean empire, and what came after, 753 BCE–1453.",
+  "icon": "🏛️",
+  "steps": [
+   {
+    "title": "A city on seven hills",
+    "year": -753,
+    "center": [
+     12.49,
+     41.89
+    ],
+    "zoom": 4,
+    "text": "By legend Rome was founded in 753 BCE. For centuries it was a small city among many in Italy."
+   },
+   {
+    "title": "The Republic",
+    "year": -509,
+    "polity": "roman-republic",
+    "text": "Romans expelled their king and ruled through elected magistrates and the Senate."
+   },
+   {
+    "title": "Rome against Carthage",
+    "year": -218,
+    "event": "hannibal-crosses-alps",
+    "text": "In the Punic Wars Rome fought Carthage for the western Mediterranean. Hannibal crossed the Alps with elephants, but Rome won."
+   },
+   {
+    "title": "Civil wars",
+    "year": -44,
+    "event": "caesar-assassinated",
+    "text": "Conquests made generals rich and powerful. Julius Caesar seized power and was murdered in 44 BCE."
+   },
+   {
+    "title": "The first emperor",
+    "year": -27,
+    "event": "augustus-emperor",
+    "text": "Augustus ended the civil wars and became the first emperor, beginning two centuries of relative peace."
+   },
+   {
+    "title": "The greatest extent",
+    "year": 117,
+    "event": "trajan-extent",
+    "polity": "roman-empire",
+    "text": "Under Trajan the empire reached its largest size, about 5 million km²."
+   },
+   {
+    "title": "Plague and crisis",
+    "year": 165,
+    "event": "antonine-plague",
+    "text": "The Antonine Plague and later the crisis of the 3rd century brought war, inflation and frequent changes of emperor."
+   },
+   {
+    "title": "A new capital",
+    "year": 330,
+    "event": "constantinople-founded",
+    "text": "Constantine moved the capital to Constantinople, and Christianity became the leading religion."
+   },
+   {
+    "title": "The West falls",
+    "year": 476,
+    "event": "fall-of-western-rome",
+    "text": "The western empire broke apart under pressure from Germanic peoples; the last western emperor was deposed in 476."
+   },
+   {
+    "title": "The East lives on",
+    "year": 1453,
+    "event": "fall-of-constantinople",
+    "polity": "byzantine-empire",
+    "text": "The eastern half, the Byzantine Empire, lasted another thousand years until the Ottomans took Constantinople in 1453."
+   }
+  ]
+ },
+ {
+  "id": "china-cycle",
+  "title": "China’s dynastic cycle",
+  "summary": "Rise, peak, decline and replacement, from the Shang to the Republic.",
+  "icon": "🐉",
+  "steps": [
+   {
+    "title": "Shang bronze and oracle bones",
+    "year": -1250,
+    "polity": "shang",
+    "text": "The Shang left the first Chinese writing and great bronze vessels."
+   },
+   {
+    "title": "The Mandate of Heaven",
+    "year": -1046,
+    "event": "zhou-conquest",
+    "text": "The Zhou overthrew the Shang and claimed Heaven had given them the right to rule, an idea used by later dynasties."
+   },
+   {
+    "title": "The first emperor",
+    "year": -221,
+    "event": "qin-unification",
+    "text": "Qin unified China, standardising writing, money and measures, but collapsed only 15 years later."
+   },
+   {
+    "title": "The Han",
+    "year": -100,
+    "polity": "han-china",
+    "text": "The Han built a lasting model: Confucian officials, the Silk Road and paper."
+   },
+   {
+    "title": "Division",
+    "year": 220,
+    "polity": "three-kingdoms",
+    "text": "When the Han collapsed, China split into three kingdoms and then centuries of division."
+   },
+   {
+    "title": "Reunification",
+    "year": 589,
+    "event": "sui-reunifies",
+    "text": "The Sui reunited China and built the Grand Canal, but fell after costly wars."
+   },
+   {
+    "title": "Tang golden age",
+    "year": 700,
+    "polity": "tang",
+    "text": "The Tang presided over a golden age of poetry, trade and power, until the An Lushan Rebellion."
+   },
+   {
+    "title": "Song inventions",
+    "year": 1050,
+    "polity": "song",
+    "text": "The Song era brought paper money, printing, the compass and gunpowder weapons."
+   },
+   {
+    "title": "Mongol rule",
+    "year": 1279,
+    "event": "kublai-yuan",
+    "text": "Kublai Khan’s Yuan dynasty ruled all of China, the first time foreign conquerors did so."
+   },
+   {
+    "title": "The Ming",
+    "year": 1405,
+    "person": "zheng-he",
+    "polity": "ming-china",
+    "text": "The Ming restored Chinese rule, sent Zheng He’s fleets abroad and built the Forbidden City."
+   },
+   {
+    "title": "The Qing",
+    "year": 1700,
+    "polity": "qing-china",
+    "text": "The Manchu Qing built China’s largest empire, but in the 19th century faced rebellion and foreign pressure."
+   },
+   {
+    "title": "The end of the dynasties",
+    "year": 1912,
+    "polity": "republic-of-china",
+    "text": "Revolution ended 2,000 years of emperors in 1912 and created the Republic of China."
+   }
+  ]
+ },
+ {
+  "id": "southeast-asia",
+  "title": "Kingdoms of Southeast Asia",
+  "summary": "Sea empires, temple cities and trading ports, 680–1963.",
+  "icon": "⛵",
+  "steps": [
+   {
+    "title": "Srivijaya rules the straits",
+    "year": 683,
+    "polity": "srivijaya",
+    "text": "From Sumatra, Srivijaya controlled the sea lanes between India and China and became a centre of Buddhist learning."
+   },
+   {
+    "title": "Borobudur",
+    "year": 800,
+    "event": "borobudur",
+    "text": "In Java, the Sailendra kings built Borobudur, the largest Buddhist monument in the world."
+   },
+   {
+    "title": "Temples of Bagan",
+    "year": 1100,
+    "polity": "pagan-kingdom",
+    "text": "In Myanmar, the Pagan kings built thousands of Buddhist temples on the plain of Bagan."
+   },
+   {
+    "title": "Angkor",
+    "year": 1150,
+    "event": "angkor-wat",
+    "polity": "khmer-empire",
+    "text": "The Khmer Empire built Angkor Wat and a huge city fed by reservoirs and canals."
+   },
+   {
+    "title": "Majapahit",
+    "year": 1350,
+    "polity": "majapahit",
+    "text": "From East Java, Majapahit claimed influence over much of today’s Indonesia, guided by Gajah Mada."
+   },
+   {
+    "title": "Melaka",
+    "year": 1450,
+    "polity": "melaka-sultanate",
+    "text": "Melaka became the great port where traders from China, India and Arabia met, and spread Islam in the region."
+   },
+   {
+    "title": "The Portuguese arrive",
+    "year": 1511,
+    "event": "portuguese-capture-melaka",
+    "text": "The Portuguese captured Melaka in 1511; its royal line moved on to found Johor."
+   },
+   {
+    "title": "Dutch and British",
+    "year": 1824,
+    "event": "anglo-dutch-treaty-1824",
+    "text": "European companies and empires divided the region, drawing borders that still shape Malaysia and Indonesia."
+   },
+   {
+    "title": "Independence",
+    "year": 1963,
+    "event": "malaysia-formed",
+    "text": "After the Second World War the region became independent; Malaysia was formed in 1963."
+   }
+  ]
+ },
+ {
+  "id": "age-of-exploration",
+  "title": "The Age of Exploration",
+  "summary": "Ocean voyages that joined the world together, and the human cost, 1405–1815.",
+  "icon": "🧭",
+  "steps": [
+   {
+    "title": "Zheng He’s fleets",
+    "year": 1405,
+    "route": "zheng-he",
+    "text": "Decades before Europeans, Ming China sent huge fleets across the Indian Ocean as far as East Africa."
+   },
+   {
+    "title": "Columbus crosses the Atlantic",
+    "year": 1492,
+    "route": "columbus",
+    "text": "Sailing for Spain, Columbus reached the Caribbean, beginning lasting contact between Europe and the Americas."
+   },
+   {
+    "title": "Round Africa to India",
+    "year": 1498,
+    "route": "da-gama",
+    "text": "Vasco da Gama sailed around Africa to India, opening a sea route for the spice trade."
+   },
+   {
+    "title": "Conquest in the Americas",
+    "year": 1521,
+    "polity": "aztec-empire",
+    "text": "Spanish conquerors, helped by local allies and epidemics, toppled the Aztec and then the Inca empires."
+   },
+   {
+    "title": "Across the Pacific",
+    "year": 1565,
+    "route": "manila-galleon",
+    "text": "Manila galleons linked Asia and the Americas, swapping American silver for Chinese silk."
+   },
+   {
+    "title": "Companies and empires",
+    "year": 1602,
+    "event": "voc-founded",
+    "text": "The Dutch East India Company, one of the first joint-stock companies, built a trading empire in Asia."
+   },
+   {
+    "title": "The Atlantic slave trade",
+    "year": 1650,
+    "route": "atlantic-slave-trade",
+    "text": "About 12.5 million Africans were forcibly shipped to the Americas to work on plantations."
+   }
+  ]
+ }
+]

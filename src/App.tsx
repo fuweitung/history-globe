@@ -5,9 +5,10 @@ import Panel from './components/Panel';
 import PolityDetail from './components/PolityDetail';
 import { EventDetail, PersonDetail, PolityBrowser, RegionDetail, RouteDetail } from './components/OtherViews';
 import SearchView from './components/SearchView';
+import { StoryList, StoryPlayer } from './components/StoryView';
 import CompareView, { suggestPartner } from './components/CompareView';
 import { boundsForPolity, loadManifest, loadSnapshot, nearestSnapshot, resolvePolity, type BorderProps, type Snapshot } from './lib/borders';
-import { EVENTS, EVENT_BY_ID, EVENT_TYPES, MAX_YEAR, MIN_YEAR, PEOPLE, PERSON_BY_ID, POLITY_BY_ID, ROUTES, ROUTE_BY_ID, ROUTE_KINDS, isActive } from './lib/data';
+import { EVENTS, EVENT_BY_ID, EVENT_TYPES, MAX_YEAR, MIN_YEAR, PEOPLE, PERSON_BY_ID, POLITY_BY_ID, ROUTES, ROUTE_BY_ID, ROUTE_KINDS, STORY_BY_ID, isActive } from './lib/data';
 import type { EventType, Polity, RouteKind } from './types';
 import { eventWindowFor, normaliseYear, stepYear } from './lib/timeScale';
 
@@ -21,11 +22,13 @@ type View =
   | { kind: 'event'; id: string }
   | { kind: 'route'; id: string }
   | { kind: 'person'; id: string }
+  | { kind: 'stories' }
+  | { kind: 'story'; id: string; step: number }
   | { kind: 'region'; props: BorderProps };
 
 const clampYear = (y: number) => normaliseYear(y);
 
-function readUrl(): { year: number; polity: string | null; event: string | null; route: string | null; person: string | null; compare: [string | null, string | null] | null } {
+function readUrl(): { year: number; polity: string | null; event: string | null; route: string | null; person: string | null; story: string | null; step: number; compare: [string | null, string | null] | null } {
   const sp = new URLSearchParams(window.location.search);
   const y = Number(sp.get('year'));
   const c = sp.get('compare');
@@ -36,6 +39,8 @@ function readUrl(): { year: number; polity: string | null; event: string | null;
     event: sp.get('event'),
     route: sp.get('route'),
     person: sp.get('person'),
+    story: sp.get('story'),
+    step: Math.max(0, Number(sp.get('step')) - 1 || 0),
     compare: c !== null ? [valid(c.split(',')[0]), valid(c.split(',')[1])] : null,
   };
 }
@@ -48,7 +53,9 @@ export default function App() {
   const [loading, setLoading] = useState(true);
   const [loadError, setLoadError] = useState<string | null>(null);
   const [view, setView] = useState<View>(() =>
-    initial.compare
+    initial.story && STORY_BY_ID.has(initial.story)
+      ? { kind: 'story', id: initial.story, step: Math.min(initial.step, STORY_BY_ID.get(initial.story)!.steps.length - 1) }
+      : initial.compare
       ? { kind: 'compare', a: initial.compare[0], b: initial.compare[1] }
       : initial.polity && POLITY_BY_ID.has(initial.polity)
       ? { kind: 'polity', id: initial.polity }
@@ -154,6 +161,10 @@ export default function App() {
       if (view.kind === 'event') sp.set('event', view.id);
       if (view.kind === 'route') sp.set('route', view.id);
       if (view.kind === 'person') sp.set('person', view.id);
+      if (view.kind === 'story') {
+        sp.set('story', view.id);
+        sp.set('step', String(view.step + 1));
+      }
       if (view.kind === 'compare') sp.set('compare', `${view.a ?? ''},${view.b ?? ''}`);
       window.history.replaceState(null, '', `${window.location.pathname}?${sp}`);
     }, 250);
@@ -270,6 +281,28 @@ export default function App() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
+  // ── Story mode: each step sets the year and moves the camera ──
+  const storyKey = view.kind === 'story' ? `${view.id}:${view.step}` : null;
+  useEffect(() => {
+    if (!storyStep) return;
+    setPlaying(false);
+    setYear(clampYear(storyStep.year));
+    nonce.current += 1;
+    const r = storyStep.route ? ROUTE_BY_ID.get(storyStep.route) : undefined;
+    const pr = storyStep.person ? PERSON_BY_ID.get(storyStep.person) : undefined;
+    const ev = storyStep.event ? EVENT_BY_ID.get(storyStep.event) : undefined;
+    if (r) {
+      const pts = r.paths.flat();
+      const xs = pts.map((p) => p[0]);
+      const ys = pts.map((p) => p[1]);
+      setCamera({ kind: 'bounds', bounds: [Math.min(...xs), Math.min(...ys), Math.max(...xs), Math.max(...ys)], nonce: nonce.current });
+    } else if (pr) setCamera({ kind: 'point', center: pr.place, zoom: 4, nonce: nonce.current });
+    else if (ev) setCamera({ kind: 'point', center: [ev.lng, ev.lat], zoom: 4, nonce: nonce.current });
+    else if (storyStep.polity) pendingFly.current = storyStep.polity;
+    else if (storyStep.center) setCamera({ kind: 'point', center: storyStep.center, zoom: storyStep.zoom ?? 4, nonce: nonce.current });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [storyKey]);
+
   // "/" or Ctrl/⌘+K opens search from anywhere (unless typing).
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
@@ -285,8 +318,11 @@ export default function App() {
   }, []);
   const closePanel = useCallback(() => setView({ kind: 'none' }), []);
 
+  const storyStep = view.kind === 'story' ? STORY_BY_ID.get(view.id)?.steps[view.step] : undefined;
   const selectedPolity =
-    view.kind === 'polity'
+    storyStep?.polity
+      ? (POLITY_BY_ID.get(storyStep.polity) ?? null)
+      : view.kind === 'polity'
       ? (POLITY_BY_ID.get(view.id) ?? null)
       : view.kind === 'compare' && view.a
         ? (POLITY_BY_ID.get(view.a) ?? null)
@@ -328,6 +364,27 @@ export default function App() {
       panelTitle = e.title;
       panelKey = `event-${e.id}` as typeof panelKey;
       panelBody = <EventDetail event={e} onOpenPolity={openPolity} onJumpToYear={jumpToYear} />;
+    }
+  } else if (view.kind === 'stories') {
+    panelTitle = 'Stories';
+    panelBody = <StoryList onStart={(id) => setView({ kind: 'story', id, step: 0 })} />;
+  } else if (view.kind === 'story') {
+    const st = STORY_BY_ID.get(view.id);
+    if (st) {
+      panelTitle = st.title;
+      panelKey = `story-${st.id}` as typeof panelKey;
+      panelBody = (
+        <StoryPlayer
+          story={st}
+          step={view.step}
+          onStep={(n) => setView({ kind: 'story', id: st.id, step: Math.max(0, Math.min(st.steps.length - 1, n)) })}
+          onExit={() => setView({ kind: 'stories' })}
+          onOpenPolity={openPolity}
+          onOpenEvent={openEvent}
+          onOpenRoute={openRoute}
+          onOpenPerson={openPerson}
+        />
+      );
     }
   } else if (view.kind === 'person') {
     const pr = PERSON_BY_ID.get(view.id);
@@ -392,15 +449,15 @@ export default function App() {
         snapshot={snapshot}
         selectedPolityId={selectedPolity?.id ?? null}
         events={visibleEvents}
-        selectedEventId={view.kind === 'event' ? view.id : null}
+        selectedEventId={view.kind === 'event' ? view.id : (storyStep?.event ?? null)}
         camera={camera}
         onSelectBorder={onSelectBorder}
         onSelectEvent={openEvent}
         routes={visibleRoutes}
-        selectedRouteId={view.kind === 'route' ? view.id : null}
+        selectedRouteId={view.kind === 'route' ? view.id : (storyStep?.route ?? null)}
         onSelectRoute={openRoute}
         people={visiblePeople}
-        selectedPersonId={view.kind === 'person' ? view.id : null}
+        selectedPersonId={view.kind === 'person' ? view.id : (storyStep?.person ?? null)}
         onSelectPerson={openPerson}
       />
 
@@ -408,7 +465,8 @@ export default function App() {
       <div className="pointer-events-none absolute inset-x-0 top-0 z-10 flex items-start gap-2 p-3">
         <div className="pointer-events-auto flex items-center gap-2 rounded-2xl bg-ink-900/85 py-1.5 pr-1.5 pl-3 shadow-xl ring-1 ring-white/10 backdrop-blur-md">
           <span className="text-xl" aria-hidden="true">🌍</span>
-          <h1 className="font-display text-base font-bold tracking-tight whitespace-nowrap text-parchment-50 sm:text-lg">History Globe</h1>
+          <h1 className="font-display hidden text-base font-bold tracking-tight whitespace-nowrap text-parchment-50 min-[400px]:block sm:text-lg">History Globe</h1>
+          <span className="sr-only min-[400px]:hidden">History Globe</span>
           <button
             type="button"
             onClick={() => setView((v) => (v.kind === 'browser' ? { kind: 'none' } : { kind: 'browser' }))}
@@ -416,6 +474,16 @@ export default function App() {
             className="ml-1 rounded-xl bg-gold-400 px-2.5 py-1.5 text-xs font-bold sm:px-3 text-ink-900 transition hover:bg-gold-300 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gold-400"
           >
             Civilisations
+          </button>
+          <button
+            type="button"
+            onClick={() => setView((v) => (v.kind === 'stories' || v.kind === 'story' ? { kind: 'none' } : { kind: 'stories' }))}
+            aria-label="Stories (guided tours)"
+            aria-pressed={view.kind === 'stories' || view.kind === 'story'}
+            title="Stories"
+            className="grid size-8 place-items-center rounded-xl text-parchment-200 transition hover:bg-white/10 aria-pressed:bg-white/10"
+          >
+            <svg viewBox="0 0 24 24" className="size-4" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinejoin="round" aria-hidden="true"><path d="M4 5a2 2 0 0 1 2-2h5v17H6a2 2 0 0 0-2 2zM20 5a2 2 0 0 0-2-2h-5v17h5a2 2 0 0 1 2 2z" /></svg>
           </button>
           <button
             type="button"
@@ -464,7 +532,7 @@ export default function App() {
         </div>
       )}
 
-      <Panel open={view.kind !== 'none' && panelBody !== null} onClose={closePanel} contentKey={panelKey} title={panelTitle} wide={view.kind === 'compare'}>
+      <Panel open={view.kind !== 'none' && panelBody !== null} onClose={closePanel} contentKey={panelKey} title={panelTitle} wide={view.kind === 'compare'} snapOnOpen={view.kind === 'story' ? 'half' : 'peek'}>
         {panelBody}
       </Panel>
 

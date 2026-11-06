@@ -112,6 +112,20 @@ for (const r of routes) {
   for (const pid of r.relatedPolityIds) if (!ids.has(pid)) errors.push(`${where}: unknown polity "${pid}"`);
   for (const line of r.paths) for (const [x, y] of line) if (Math.abs(y) > 90 || Math.abs(x) > 360) errors.push(`${where}: bad coordinate`);
 }
+// ── Stories ──
+const stories = JSON.parse(await readFile(join(root, 'src/data/stories.json'), 'utf8'));
+const routeIds = new Set(routes.map((r) => r.id));
+for (const st of stories) {
+  st.steps.forEach((step, i) => {
+    const where = `stories.json ${st.id} step ${i + 1}`;
+    if (step.polity && !ids.has(step.polity)) errors.push(`${where}: unknown polity "${step.polity}"`);
+    if (step.event && !eids.has(step.event)) errors.push(`${where}: unknown event "${step.event}"`);
+    if (step.route && !routeIds.has(step.route)) errors.push(`${where}: unknown route "${step.route}"`);
+    if (step.person && !pids.has(step.person)) errors.push(`${where}: unknown person "${step.person}"`);
+    if (i > 0 && step.year < st.steps[i - 1].year) errors.push(`${where}: steps should go forward in time`);
+  });
+}
+
 // ── Consistency checks (dates that should line up) ──
 // Older periods are known less precisely, so allow a wider margin.
 const slack = (y) => (y < -1000 ? 300 : y < 500 ? 100 : y < 1500 ? 50 : 15);

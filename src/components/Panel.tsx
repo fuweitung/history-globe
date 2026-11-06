@@ -12,7 +12,7 @@ export function useIsDesktop(): boolean {
   return match;
 }
 
-type Snap = 'peek' | 'half' | 'full';
+export type Snap = 'peek' | 'half' | 'full';
 const SNAP_VH: Record<Snap, number> = { peek: 42, half: 66, full: 94 };
 
 interface Props {
@@ -23,13 +23,15 @@ interface Props {
   title: string;
   /** Wider desktop panel (used by the compare view). */
   wide?: boolean;
+  /** Mobile sheet height when new content opens. */
+  snapOnOpen?: Snap;
   children: ReactNode;
 }
 
 /**
  * Side panel on desktop, draggable bottom sheet on mobile.
  */
-export default function Panel({ open, onClose, contentKey, title, wide = false, children }: Props) {
+export default function Panel({ open, onClose, contentKey, title, wide = false, snapOnOpen = 'peek', children }: Props) {
   const isDesktop = useIsDesktop();
   const scrollRef = useRef<HTMLDivElement>(null);
   const [snap, setSnap] = useState<Snap>('peek');
@@ -44,8 +46,8 @@ export default function Panel({ open, onClose, contentKey, title, wide = false, 
 
   useEffect(() => {
     scrollRef.current?.scrollTo({ top: 0 });
-    // New content opens at "peek" so the map stays visible; drag or tap the handle to expand.
-    if (snap === 'full') setSnap('peek');
+    // New content opens at "peek" so the map stays visible (stories open taller so Next is reachable).
+    setSnap(snapOnOpen);
   }, [contentKey]);
 
   // Escape closes
