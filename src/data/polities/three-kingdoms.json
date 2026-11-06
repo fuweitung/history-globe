@@ -1,0 +1,316 @@
+{
+  "id": "three-kingdoms",
+  "name": "Three Kingdoms (Wei, Shu, Wu)",
+  "era": "ancient",
+  "region": "East Asia",
+  "startYear": 220,
+  "endYear": 280,
+  "capital": "Luoyang (Wei); Chengdu (Shu); Jianye (Wu)",
+  "capitalCoords": [
+    112.45,
+    34.62
+  ],
+  "summary": "The period after the Han dynasty when China split between Cao Wei, Shu Han and Eastern Wu. Its heroes, like Cao Cao, Liu Bei and Zhuge Liang, became legends through the novel Romance of the Three Kingdoms.",
+  "borderNames": [],
+  "color": "#a05a4a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "China divided three ways: Wei in the north, Shu in the south-west (Sichuan), Wu in the south-east.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Three Kingdoms (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "The Yellow River plain (Wei), the Sichuan basin behind mountains (Shu), and the Yangtze valley (Wu).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "de Crespigny, Imperial Warlord: Cao Cao (2010)"
+      },
+      "climate": {
+        "value": "Temperate north, subtropical south.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "de Crespigny, Imperial Warlord: Cao Cao (2010)"
+      },
+      "resources": {
+        "value": "The northern plain held most farmland and people; the south had rice land and rivers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "de Crespigny, Imperial Warlord: Cao Cao (2010)"
+      },
+      "disasters": {
+        "value": "War-caused famine and population collapse.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "de Crespigny, Imperial Warlord: Cao Cao (2010)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "The 280 census counted 16,163,863 people, down from about 56 million under the Han (registered population).",
+        "year": 280,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Three Kingdoms (checked 6 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "Luoyang, Chengdu and Jianye (Nanjing) were the capitals.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "de Crespigny, Imperial Warlord: Cao Cao (2010)"
+      },
+      "disease": {
+        "value": "Epidemics, including disease in Cao Cao’s army at Red Cliffs (208).",
+        "year": 208,
+        "certainty": "estimated",
+        "source": "de Crespigny, Imperial Warlord: Cao Cao (2010)"
+      },
+      "migration": {
+        "value": "People fled the war-torn north for the south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Three Kingdoms (checked 6 Nov 2026)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Military farming colonies (tuntian) in Wei; rice and river trade in Wu.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "de Crespigny, Imperial Warlord: Cao Cao (2010)"
+      },
+      "tradeRoutes": {
+        "value": "Limited by war; Wu traded by sea with Southeast Asia.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "de Crespigny, Imperial Warlord: Cao Cao (2010)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "de Crespigny, Imperial Warlord: Cao Cao (2010)"
+      },
+      "moneyAndTax": {
+        "value": "Wei used silk and grain as currency for a time (221).",
+        "year": 221,
+        "certainty": "estimated",
+        "source": "de Crespigny, Imperial Warlord: Cao Cao (2010)"
+      },
+      "inequality": {
+        "value": "Powerful landowning families and military households.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "de Crespigny, Imperial Warlord: Cao Cao (2010)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Three rival monarchies, each claiming the Han legacy.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "de Crespigny, Imperial Warlord: Cao Cao (2010)"
+      },
+      "keyRulers": {
+        "value": "Cao Cao and Cao Pi (Wei), Liu Bei and chancellor Zhuge Liang (Shu), Sun Quan (Wu).",
+        "year": 220,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Three Kingdoms (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Hereditary within each dynasty; Wei was taken over by the Sima family.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "de Crespigny, Imperial Warlord: Cao Cao (2010)"
+      },
+      "institutions": {
+        "value": "The nine-rank system for selecting officials (Wei).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "de Crespigny, Imperial Warlord: Cao Cao (2010)"
+      },
+      "stability": {
+        "value": "Constant warfare; Shu fell in 263.",
+        "year": 263,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Three Kingdoms (checked 6 Nov 2026)"
+      },
+      "eliteConflict": {
+        "value": "The Sima clan seized power in Wei (249).",
+        "year": 249,
+        "certainty": "estimated",
+        "source": "de Crespigny, Imperial Warlord: Cao Cao (2010)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Zhuge Liang improved the repeating crossbow.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Three Kingdoms (checked 6 Nov 2026)"
+      },
+      "majorWars": {
+        "value": "Battle of Red Cliffs (208), Battle of Xiaoting (221–222), Zhuge Liang’s northern campaigns.",
+        "year": 208,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Three Kingdoms (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "Jin conquered Wu in 280, reuniting China.",
+        "year": 280,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Three Kingdoms (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Shu and Wu allied against the stronger Wei.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "de Crespigny, Imperial Warlord: Cao Cao (2010)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "The wooden ox (a transport device), square-pallet chain pumps and the south-pointing chariot (Ma Jun).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Three Kingdoms (checked 6 Nov 2026)"
+      },
+      "scienceEducation": {
+        "value": "Liu Hui’s commentary on the Nine Chapters of mathematics (263).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "de Crespigny, Imperial Warlord: Cao Cao (2010)"
+      },
+      "openness": {
+        "value": "Wu sent missions to Southeast Asia.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "de Crespigny, Imperial Warlord: Cao Cao (2010)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Confucianism, Daoism and the early spread of Buddhism.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "de Crespigny, Imperial Warlord: Cao Cao (2010)"
+      },
+      "languageWriting": {
+        "value": "Chinese; the classic Records of the Three Kingdoms by Chen Shou (c. 290).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "de Crespigny, Imperial Warlord: Cao Cao (2010)"
+      },
+      "artsArchitecture": {
+        "value": "Calligraphy (Zhong Yao) and poetry (Cao Cao, Cao Zhi).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "de Crespigny, Imperial Warlord: Cao Cao (2010)"
+      },
+      "socialStructure": {
+        "value": "Great families, soldiers, farmers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "de Crespigny, Imperial Warlord: Cao Cao (2010)"
+      },
+      "sharedIdentity": {
+        "value": "Each kingdom claimed to be the rightful heir of the Han.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "de Crespigny, Imperial Warlord: Cao Cao (2010)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Xianbei, Goguryeo, Japan (Wei received envoys from Queen Himiko).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "de Crespigny, Imperial Warlord: Cao Cao (2010)"
+      },
+      "ideasReligions": {
+        "value": "Buddhism and Daoist movements spread.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "de Crespigny, Imperial Warlord: Cao Cao (2010)"
+      },
+      "colonisation": {
+        "value": "Wu expanded into the south; Shu campaigned in the south-west.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "de Crespigny, Imperial Warlord: Cao Cao (2010)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "The end of the Han in 220 when Cao Pi took the throne.",
+        "year": 220,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Three Kingdoms (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "The 220s–230s, a balance of three powers.",
+        "year": 234,
+        "certainty": "estimated",
+        "source": "de Crespigny, Imperial Warlord: Cao Cao (2010)"
+      },
+      "declineSignals": {
+        "value": "Shu conquered by Wei (263); Wei usurped by Jin (266).",
+        "year": 263,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Three Kingdoms (checked 6 Nov 2026)"
+      },
+      "outcome": {
+        "value": "Jin conquered Wu in 280 and reunited China.",
+        "year": 280,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Three Kingdoms (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Chen Shou’s Records of the Three Kingdoms. Checked against Wikipedia (“Three Kingdoms”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Three Kingdoms (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Good for events; the famous novel mixes history with legend.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Three Kingdoms (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Battle of Red Cliffs",
+      "kind": "idea",
+      "year": 208,
+      "note": "A fire attack that stopped Cao Cao from conquering the south."
+    },
+    {
+      "label": "Zhuge Liang",
+      "kind": "person",
+      "year": 227,
+      "note": "Chancellor of Shu, famous strategist and inventor."
+    },
+    {
+      "label": "Repeating crossbow",
+      "kind": "weapon",
+      "year": 230,
+      "note": "A crossbow that fired several bolts quickly."
+    },
+    {
+      "label": "South-pointing chariot",
+      "kind": "tool",
+      "year": 235,
+      "note": "A geared cart with a pointer that always faced south."
+    },
+    {
+      "label": "Romance of the Three Kingdoms",
+      "kind": "art",
+      "year": 1400,
+      "note": "The Ming-era novel that made these heroes famous."
+    }
+  ]
+}

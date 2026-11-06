@@ -1,0 +1,308 @@
+{
+  "id": "wari-empire",
+  "name": "Wari Empire",
+  "era": "medieval",
+  "region": "South America (Andes)",
+  "startYear": 600,
+  "endYear": 1100,
+  "datesApproximate": true,
+  "capital": "Huari (near Ayacucho)",
+  "capitalCoords": [
+    -74.2,
+    -13.06
+  ],
+  "summary": "An Andean state centred near Ayacucho, Peru, often seen as an early empire before the Inca. It built planned administrative centres and roads.",
+  "borderNames": [
+    "Huari Empire"
+  ],
+  "borderYears": [
+    600,
+    1100
+  ],
+  "color": "#9a5a3a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Emerged in Peru’s Ayacucho Basin and spread its influence over much of the Peruvian highlands and coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wari Empire (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Highland valleys and steep mountainsides turned into farmland with terraces.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      },
+      "climate": {
+        "value": "Highland climate with wet and dry seasons; a long drought may have contributed to its decline.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      },
+      "resources": {
+        "value": "Terraced fields of maize and potatoes, llama and alpaca herds, and obsidian.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      },
+      "disasters": {
+        "value": "Drought around the end of the first millennium.",
+        "year": 1000,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate; the capital may have held tens of thousands.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      },
+      "urbanisation": {
+        "value": "The capital Huari covered several square kilometres of walled compounds.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      },
+      "disease": {
+        "value": "No specific epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      },
+      "migration": {
+        "value": "Colonists and officials were sent to new provincial centres.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Terraced, irrigated farming and herding, with state-organised labour.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      },
+      "tradeRoutes": {
+        "value": "A network of roads, many later reused by the Inca.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      },
+      "moneyAndTax": {
+        "value": "No coinage; the state probably collected labour service, as the Inca later did.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      },
+      "inequality": {
+        "value": "Rich elite tombs and palaces show a powerful ruling class.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "An expansionist state, often described as the first Andean empire.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      },
+      "keyRulers": {
+        "value": "No rulers are known by name.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      },
+      "succession": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      },
+      "institutions": {
+        "value": "Planned administrative centres such as Pikillacta and Viracochapampa.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      },
+      "stability": {
+        "value": "Lasted about 500 years (c. 600–1100).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wari Empire (checked 6 Nov 2026)"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Little is known; warrior images appear on pottery.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      },
+      "majorWars": {
+        "value": "No specific wars are known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      },
+      "territoryChange": {
+        "value": "Expanded across much of Peru by about 800.",
+        "year": 800,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      },
+      "alliancesRivals": {
+        "value": "Tiwanaku was a contemporary; Wari was once thought to derive from it.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wari Empire (checked 6 Nov 2026)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Large-scale agricultural terraces and early road systems.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      },
+      "scienceEducation": {
+        "value": "Early khipu (knotted cords) for records.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      },
+      "openness": {
+        "value": "Shared religious imagery with Tiwanaku.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Worship of the Staff God.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wari Empire (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Unknown; Aymara or an early form of Quechua have been suggested.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Wari Empire (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "Fine tapestry tunics and large painted ceramic urns.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      },
+      "socialStructure": {
+        "value": "Rulers and officials, specialists (weavers, potters), farmers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      },
+      "sharedIdentity": {
+        "value": "A shared state religion.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Tiwanaku, Moche, Nazca.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      },
+      "ideasReligions": {
+        "value": "Spread the Staff God imagery across the Andes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      },
+      "colonisation": {
+        "value": "Established provincial centres far from the capital.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Emerged around 600 CE in the Ayacucho Basin.",
+        "year": 600,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wari Empire (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "Around the 8th–9th centuries.",
+        "year": 800,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      },
+      "declineSignals": {
+        "value": "Drought and political breakdown.",
+        "year": 1000,
+        "certainty": "estimated",
+        "source": "Schreiber, Wari Imperialism in Middle Horizon Peru (1992)"
+      },
+      "outcome": {
+        "value": "Ended by about 1100; local kingdoms followed, and later the Inca.",
+        "year": 1100,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wari Empire (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Archaeology. Checked against Wikipedia (“Wari Empire”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wari Empire (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Low to medium. With no writing, its government is inferred from archaeology.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Wari Empire (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Wari tapestry tunics",
+      "kind": "textile",
+      "note": "Very finely woven tunics with bold geometric designs."
+    },
+    {
+      "label": "Early khipu",
+      "kind": "idea",
+      "note": "Knotted-cord records, later used by the Inca."
+    },
+    {
+      "label": "Pikillacta",
+      "kind": "monument",
+      "note": "A planned administrative centre near Cusco."
+    }
+  ]
+}

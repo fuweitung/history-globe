@@ -1,0 +1,311 @@
+{
+  "id": "khazar-khaganate",
+  "name": "Khazar Khaganate",
+  "era": "medieval",
+  "region": "Eastern Europe & Caucasus",
+  "startYear": 650,
+  "endYear": 969,
+  "datesApproximate": true,
+  "capital": "Atil (on the lower Volga)",
+  "capitalCoords": [
+    47.5,
+    46.5
+  ],
+  "summary": "A Turkic trading empire between the Caspian and Black Seas. It stopped Arab advances into the Caucasus, and its ruling elite famously converted to Judaism.",
+  "borderNames": [
+    "Khazars"
+  ],
+  "borderYears": [
+    650,
+    969
+  ],
+  "color": "#8a7a3f",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Volga–Don steppes, eastern Crimea and the North Caucasus.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khazars (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Steppe and the lower Volga delta on the Caspian Sea.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, Ben-Shammai & Róna-Tas (eds), The World of the Khazars (2007)"
+      },
+      "climate": {
+        "value": "Dry steppe climate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, Ben-Shammai & Róna-Tas (eds), The World of the Khazars (2007)"
+      },
+      "resources": {
+        "value": "Pasture, fish, and the tolls of trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, Ben-Shammai & Róna-Tas (eds), The World of the Khazars (2007)"
+      },
+      "disasters": {
+        "value": "No specific disasters are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, Ben-Shammai & Róna-Tas (eds), The World of the Khazars (2007)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, Ben-Shammai & Róna-Tas (eds), The World of the Khazars (2007)"
+      },
+      "urbanisation": {
+        "value": "Capitals at Balanjar, Samandar and Atil.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khazars (checked 6 Nov 2026)"
+      },
+      "disease": {
+        "value": "No specific epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, Ben-Shammai & Róna-Tas (eds), The World of the Khazars (2007)"
+      },
+      "migration": {
+        "value": "Multi-ethnic: Turkic, Alan, Slavic, Jewish and Muslim merchants.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, Ben-Shammai & Róna-Tas (eds), The World of the Khazars (2007)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "One of the foremost trading empires of the early medieval world.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khazars (checked 6 Nov 2026)"
+      },
+      "tradeRoutes": {
+        "value": "A crossroad between China, West Asia and Kievan Rus’.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khazars (checked 6 Nov 2026)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, Ben-Shammai & Róna-Tas (eds), The World of the Khazars (2007)"
+      },
+      "moneyAndTax": {
+        "value": "The yarmaq coin; tolls on trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khazars (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "A ruling elite above tributary peoples.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, Ben-Shammai & Róna-Tas (eds), The World of the Khazars (2007)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A khaganate, with a sacred khagan and a military ruler (the bek).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khazars (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Bulan (8th century, linked to the conversion), Obadiah, Joseph (10th century).",
+        "year": 740,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khazars (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Within the ruling family.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, Ben-Shammai & Róna-Tas (eds), The World of the Khazars (2007)"
+      },
+      "institutions": {
+        "value": "Separate judges for Jews, Christians, Muslims and pagans.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, Ben-Shammai & Róna-Tas (eds), The World of the Khazars (2007)"
+      },
+      "stability": {
+        "value": "Stable for about three centuries.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, Ben-Shammai & Róna-Tas (eds), The World of the Khazars (2007)"
+      },
+      "eliteConflict": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, Ben-Shammai & Róna-Tas (eds), The World of the Khazars (2007)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Cavalry.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, Ben-Shammai & Róna-Tas (eds), The World of the Khazars (2007)"
+      },
+      "majorWars": {
+        "value": "The Arab–Khazar wars in the Caucasus (7th–8th centuries).",
+        "year": 737,
+        "certainty": "estimated",
+        "source": "Golden, Ben-Shammai & Róna-Tas (eds), The World of the Khazars (2007)"
+      },
+      "territoryChange": {
+        "value": "Estimates vary: about 3 million km² (850) or 1 million km² (900).",
+        "year": 850,
+        "certainty": "disputed",
+        "source": "Wikipedia: Khazars (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Ally of Byzantium; rival of the Arab caliphate and later the Rus’.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, Ben-Shammai & Róna-Tas (eds), The World of the Khazars (2007)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, Ben-Shammai & Róna-Tas (eds), The World of the Khazars (2007)"
+      },
+      "scienceEducation": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, Ben-Shammai & Róna-Tas (eds), The World of the Khazars (2007)"
+      },
+      "openness": {
+        "value": "A confederation of many peoples and faiths.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khazars (checked 6 Nov 2026)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Tengrism; the ruling elite converted to Judaism in the 8th century.",
+        "year": 740,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khazars (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Oghuric and Old Turkic; no records survive in the Khazar language.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khazars (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "The fortress of Sarkel.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, Ben-Shammai & Róna-Tas (eds), The World of the Khazars (2007)"
+      },
+      "socialStructure": {
+        "value": "Khagan, bek, nobles, tributary tribes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, Ben-Shammai & Róna-Tas (eds), The World of the Khazars (2007)"
+      },
+      "sharedIdentity": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, Ben-Shammai & Róna-Tas (eds), The World of the Khazars (2007)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Byzantium, the Caliphate, Volga Bulgaria, Kievan Rus’.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khazars (checked 6 Nov 2026)"
+      },
+      "ideasReligions": {
+        "value": "Judaism among the elite.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khazars (checked 6 Nov 2026)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Golden, Ben-Shammai & Róna-Tas (eds), The World of the Khazars (2007)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Emerged after the Western Turkic Khaganate weakened.",
+        "year": 650,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khazars (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "8th–9th centuries.",
+        "year": 850,
+        "certainty": "estimated",
+        "source": "Golden, Ben-Shammai & Róna-Tas (eds), The World of the Khazars (2007)"
+      },
+      "declineSignals": {
+        "value": "Attacks by Sviatoslav I of Kiev.",
+        "year": 965,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khazars (checked 6 Nov 2026)"
+      },
+      "outcome": {
+        "value": "Sviatoslav sacked Atil (c. 965–969); successors included Kievan Rus’ and Volga Bulgaria.",
+        "year": 969,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khazars (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Arabic, Byzantine and Hebrew sources. Checked against Wikipedia (“Khazars”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khazars (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Low to medium. The extent of the conversion is debated.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Khazars (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Jewish ruling elite",
+      "kind": "idea",
+      "year": 740,
+      "note": "A rare case of a steppe empire whose rulers adopted Judaism."
+    },
+    {
+      "label": "Atil",
+      "kind": "monument",
+      "year": 750,
+      "note": "The capital on the Volga."
+    },
+    {
+      "label": "Sarkel fortress",
+      "kind": "monument",
+      "year": 833,
+      "note": "A brick fortress built with Byzantine help."
+    }
+  ]
+}

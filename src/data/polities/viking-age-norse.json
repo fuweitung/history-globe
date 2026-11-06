@@ -1,0 +1,331 @@
+{
+  "id": "viking-age-norse",
+  "name": "Norse (Viking Age)",
+  "era": "medieval",
+  "region": "Northern Europe & North Atlantic",
+  "startYear": 793,
+  "endYear": 1066,
+  "datesApproximate": true,
+  "capital": "No single capital (Hedeby, Birka, Kaupang were key towns)",
+  "capitalCoords": [
+    9.57,
+    54.49
+  ],
+  "summary": "The Scandinavian seafaring peoples of the Viking Age, who raided, traded and settled from North America to the Caspian. They were a culture rather than a single state, and their homelands became Denmark, Norway and Sweden.",
+  "borderNames": [
+    "Danes",
+    "Kingdom of Norway",
+    "Denmark-Norway"
+  ],
+  "borderYears": [
+    793,
+    1066
+  ],
+  "color": "#4a6a8a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Scandinavia (Denmark, Norway, Sweden), with settlements in Britain, Ireland, Normandy, Iceland, Greenland, Rus’ and briefly Newfoundland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Viking Age (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Fjords, long coastlines, islands and forests; rivers in eastern Europe led the Norse inland to Byzantium and the Caliphate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      },
+      "climate": {
+        "value": "The Medieval Warm Period made North Atlantic voyages and settlement in Iceland and Greenland easier.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      },
+      "resources": {
+        "value": "Timber for ships, iron from bogs, furs, walrus ivory, fish and slaves for trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      },
+      "disasters": {
+        "value": "Harsh winters and poor harvests; Greenland settlements later suffered from cooling climate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate for Scandinavia as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      },
+      "urbanisation": {
+        "value": "Trading towns such as Hedeby, Birka, Kaupang and Ribe; Dublin and York grew under Norse rule.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      },
+      "disease": {
+        "value": "No major epidemics are recorded for the period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      },
+      "migration": {
+        "value": "Large-scale settlement abroad: the Danelaw in England, Normandy, Iceland (from c. 870), Greenland and Kievan Rus’.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Viking Age (checked 6 Nov 2026)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming and fishing at home, plus raiding, trading and colonising abroad.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Viking Age (checked 6 Nov 2026)"
+      },
+      "tradeRoutes": {
+        "value": "The route from the Varangians to the Greeks (to Constantinople) and the Volga route to the Caliphate; North Sea and Atlantic routes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Viking Age (checked 6 Nov 2026)"
+      },
+      "wealth": {
+        "value": "No estimate is possible; Arabic silver dirhams found in huge hoards show the scale of trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      },
+      "moneyAndTax": {
+        "value": "Mostly hack-silver weighed on scales; tribute such as the English Danegeld.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      },
+      "inequality": {
+        "value": "Jarls (nobles), free farmers (karls) and slaves (thralls).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Many chiefdoms and petty kingdoms, unified into larger kingdoms (Denmark, Norway, Sweden) by the 11th century.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Viking Age (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Harald Bluetooth (Denmark), Harald Fairhair and Olaf Tryggvason (Norway), Cnut the Great (ruled England, Denmark and Norway from 1016–1028).",
+        "year": 1016,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      },
+      "succession": {
+        "value": "Kingship passed within royal families but was often fought over.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      },
+      "institutions": {
+        "value": "Local assemblies called things; Iceland’s Althing (from 930) is one of the oldest parliaments.",
+        "year": 930,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      },
+      "stability": {
+        "value": "Frequent warfare between chiefs and kings.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      },
+      "eliteConflict": {
+        "value": "Rival claimants and feuds, recorded in the sagas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Fast clinker-built longships that could sail the open sea and go up shallow rivers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Viking Age (checked 6 Nov 2026)"
+      },
+      "majorWars": {
+        "value": "The Great Heathen Army in England (from 865); sieges of Paris (845, 885–86); Battle of Stamford Bridge (1066).",
+        "year": 865,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      },
+      "territoryChange": {
+        "value": "Gained the Danelaw, Normandy (911), Dublin, and the North Atlantic islands; lost England after 1066.",
+        "year": 911,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: Anglo-Saxon England, the Franks, Irish kingdoms; served as the Varangian Guard of Byzantium.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Innovations in sailing and shipbuilding allowed longer voyages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Viking Age (checked 6 Nov 2026)"
+      },
+      "scienceEducation": {
+        "value": "Sun-stone and star navigation are suggested; knowledge passed orally.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      },
+      "openness": {
+        "value": "Absorbed influences from the lands they reached; converted to Christianity in the 10th–11th centuries.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Norse paganism (Odin, Thor, Freyja), gradually replaced by Christianity.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      },
+      "languageWriting": {
+        "value": "Old Norse, written in the Younger Futhark runic alphabet on stones and objects.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      },
+      "artsArchitecture": {
+        "value": "Animal-style carving (Urnes, Borre styles), rune stones, ship burials such as Oseberg.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      },
+      "socialStructure": {
+        "value": "Jarls, karls and thralls; women could own property and run farms.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      },
+      "sharedIdentity": {
+        "value": "A shared language, gods and poetry across Scandinavia.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Anglo-Saxon England, the Franks, Ireland, the Rus’ lands, Byzantium and the Abbasid world.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Viking Age (checked 6 Nov 2026)"
+      },
+      "ideasReligions": {
+        "value": "Christianity spread into Scandinavia; Norse settlers spread their language to Iceland and the Faroes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      },
+      "colonisation": {
+        "value": "Settled Iceland and Greenland and reached North America (L’Anse aux Meadows, dated to 1021).",
+        "year": 1021,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Viking Age (checked 6 Nov 2026)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "The raid on Lindisfarne (793) marks the start of large-scale raiding.",
+        "year": 793,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      },
+      "peakPeriod": {
+        "value": "Around 1000–1030, when Cnut ruled a North Sea empire and the Norse reached America.",
+        "year": 1016,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      },
+      "declineSignals": {
+        "value": "Christianisation and stronger centralised kingdoms ended the raiding era.",
+        "year": 1066,
+        "certainty": "estimated",
+        "source": "Price, Children of Ash and Elm (2020)"
+      },
+      "outcome": {
+        "value": "The Viking Age ended around 1050–1066; its peoples became Norse-Gaels, Normans, Rus’, Faroese and Icelanders.",
+        "year": 1066,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Viking Age (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Accounts by people they met, archaeology and the later Icelandic sagas. Checked against Wikipedia (“Viking Age”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Viking Age (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Medium. Few Norse written sources from the time; sagas were written centuries later.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Viking Age (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Longships",
+      "kind": "tool",
+      "year": 800,
+      "note": "Fast, shallow-draft ships for raiding, trading and ocean voyages."
+    },
+    {
+      "label": "Runestones & runes",
+      "kind": "idea",
+      "year": 965,
+      "note": "The Jelling stones of Harald Bluetooth are famous examples."
+    },
+    {
+      "label": "Althing assembly",
+      "kind": "idea",
+      "year": 930,
+      "note": "Iceland’s assembly, one of the oldest parliaments in the world."
+    },
+    {
+      "label": "Icelandic sagas",
+      "kind": "art",
+      "year": 1200,
+      "note": "Prose stories of Norse families, written down in the 13th century."
+    },
+    {
+      "label": "Varangian Guard",
+      "kind": "troops",
+      "year": 988,
+      "note": "Norse bodyguards of the Byzantine emperors."
+    },
+    {
+      "label": "Reaching North America",
+      "kind": "idea",
+      "year": 1021,
+      "note": "Norse settlers built a camp at L’Anse aux Meadows."
+    }
+  ]
+}

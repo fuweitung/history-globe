@@ -1,0 +1,310 @@
+{
+  "id": "jurchen-jin",
+  "name": "Jin Dynasty (Jurchen, 1115–1234)",
+  "era": "medieval",
+  "region": "East Asia",
+  "startYear": 1115,
+  "endYear": 1234,
+  "capital": "Huining; Zhongdu (Beijing); Kaifeng",
+  "capitalCoords": [
+    116.39,
+    39.91
+  ],
+  "summary": "A dynasty founded by the Jurchen people. It destroyed the Liao, took north China from the Song in 1127, and was finally conquered by the Mongols in 1234.",
+  "borderNames": [
+    "Liao"
+  ],
+  "borderYears": [
+    1126,
+    1234
+  ],
+  "color": "#b08a3a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "From Outer Manchuria in the north to the Qinling–Huai river line in the south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (1115–1234) (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Manchurian forests, the north China plain and the Yellow River valley.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "climate": {
+        "value": "Cold north, temperate plain; Yellow River floods.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "resources": {
+        "value": "North China’s farmland, horses and iron.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "disasters": {
+        "value": "The Yellow River changed course in 1194, causing great floods.",
+        "year": 1194,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 53 million (1186 estimate).",
+        "year": 1186,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (1115–1234) (checked 6 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "Zhongdu (Beijing) became the capital in 1153; Kaifeng was taken from the Song.",
+        "year": 1153,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (1115–1234) (checked 6 Nov 2026)"
+      },
+      "disease": {
+        "value": "An epidemic struck besieged Kaifeng in 1232.",
+        "year": 1232,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "migration": {
+        "value": "Jurchen military households moved into north China.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming in north China, plus tribute from the Southern Song.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "tradeRoutes": {
+        "value": "Border markets with the Song and trade with Xi Xia.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "moneyAndTax": {
+        "value": "Chinese coins and paper money, which later suffered severe inflation.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (1115–1234) (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "The Jurchen Wanyan clan and military households over Chinese farmers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy, increasingly in Chinese style.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (1115–1234) (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Aguda (Taizu, 1115–1123), Taizong, Wanyan Liang, Shizong (1161–1189), Aizong (1224–1234).",
+        "year": 1115,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (1115–1234) (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Often violent: Wanyan Liang murdered his predecessor (1150) and was himself killed (1161).",
+        "year": 1150,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "institutions": {
+        "value": "Chinese-style bureaucracy and exams; the Jurchen meng’an mouke military units.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "stability": {
+        "value": "Stable under Shizong; collapsed under Mongol attack from 1211.",
+        "year": 1211,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "eliteConflict": {
+        "value": "Coups and defections during the Mongol wars.",
+        "year": 1213,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Heavy cavalry; gunpowder weapons such as the “thunder crash bomb” used against the Mongols (1232).",
+        "year": 1232,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "majorWars": {
+        "value": "Conquest of the Liao (1125) and the Northern Song capital Kaifeng (1127); a century of war with the Song; Mongol invasion from 1211.",
+        "year": 1127,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (1115–1234) (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "About 4.75 million km² in 1186.",
+        "year": 1186,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (1115–1234) (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: Song, Xi Xia, the Mongols.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Early gunpowder weapons, including fire lances.",
+        "year": 1232,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "scienceEducation": {
+        "value": "Jurchen script and civil service exams.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "openness": {
+        "value": "Jin emperors gradually adopted Chinese customs; Confucianism revived.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (1115–1234) (checked 6 Nov 2026)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Buddhism, Taoism, Confucianism, folk religion; the Quanzhen school of Taoism began here.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (1115–1234) (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Jurchen (with its own script, from 1119), Chinese and Khitan.",
+        "year": 1119,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "artsArchitecture": {
+        "value": "Zaju drama and the Lugou (Marco Polo) Bridge (1189–1192).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "socialStructure": {
+        "value": "Jurchen military households, Chinese officials, farmers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "sharedIdentity": {
+        "value": "Jurchen identity, which later inspired the Manchus.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Song, Xi Xia, Goryeo, Mongols.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (1115–1234) (checked 6 Nov 2026)"
+      },
+      "ideasReligions": {
+        "value": "Quanzhen Daoism.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Aguda founded the dynasty in 1115.",
+        "year": 1115,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (1115–1234) (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "Under Shizong (1161–1189).",
+        "year": 1186,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (1115–1234) (checked 6 Nov 2026)"
+      },
+      "declineSignals": {
+        "value": "Mongol invasion from 1211.",
+        "year": 1211,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (1115–1234) (checked 6 Nov 2026)"
+      },
+      "outcome": {
+        "value": "Conquered by the Mongols in 1234 (fall of Caizhou).",
+        "year": 1234,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (1115–1234) (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "History of Jin. Checked against Wikipedia (“Jin dynasty (1115–1234)”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (1115–1234) (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Good.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jin dynasty (1115–1234) (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Thunder crash bomb",
+      "kind": "weapon",
+      "year": 1232,
+      "note": "An iron-cased gunpowder bomb used against the Mongols."
+    },
+    {
+      "label": "Jurchen script",
+      "kind": "idea",
+      "year": 1119,
+      "note": "A script made for the Jurchen language."
+    },
+    {
+      "label": "Lugou (Marco Polo) Bridge",
+      "kind": "monument",
+      "year": 1192,
+      "note": "A stone bridge near Beijing."
+    }
+  ]
+}

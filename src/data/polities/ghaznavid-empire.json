@@ -1,0 +1,310 @@
+{
+  "id": "ghaznavid-empire",
+  "name": "Ghaznavid Empire",
+  "era": "medieval",
+  "region": "Central & South Asia",
+  "startYear": 977,
+  "endYear": 1186,
+  "capital": "Ghazni; later Lahore",
+  "capitalCoords": [
+    68.42,
+    33.55
+  ],
+  "summary": "A Persianate Turkic empire based in Ghazni (Afghanistan). Under Mahmud of Ghazni it raided deep into India and patronised the poet Ferdowsi and the scholar al-Biruni.",
+  "borderNames": [
+    "Ghaznavid Emirate"
+  ],
+  "borderYears": [
+    977,
+    1186
+  ],
+  "color": "#3f6a4a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Afghanistan, eastern Iran, Central Asia south of the Amu Darya, and the Punjab.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ghaznavid Empire (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Mountains of Afghanistan, the Iranian plateau and the Indus plain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bosworth, The Ghaznavids (1963)"
+      },
+      "climate": {
+        "value": "Dry mountain and plains climate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bosworth, The Ghaznavids (1963)"
+      },
+      "resources": {
+        "value": "Plunder from India, farmland in Khorasan and the Punjab.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bosworth, The Ghaznavids (1963)"
+      },
+      "disasters": {
+        "value": "No specific disasters are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bosworth, The Ghaznavids (1963)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bosworth, The Ghaznavids (1963)"
+      },
+      "urbanisation": {
+        "value": "Ghazni became a rich capital; later Lahore.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ghaznavid Empire (checked 6 Nov 2026)"
+      },
+      "disease": {
+        "value": "No specific epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bosworth, The Ghaznavids (1963)"
+      },
+      "migration": {
+        "value": "Turkic soldiers and Persian scholars moved into the region.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bosworth, The Ghaznavids (1963)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Taxes on farming and treasure taken in Indian campaigns.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bosworth, The Ghaznavids (1963)"
+      },
+      "tradeRoutes": {
+        "value": "Routes between Khorasan and India.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bosworth, The Ghaznavids (1963)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bosworth, The Ghaznavids (1963)"
+      },
+      "moneyAndTax": {
+        "value": "Gold and silver coins, some with bilingual Arabic and Sanskrit legends.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bosworth, The Ghaznavids (1963)"
+      },
+      "inequality": {
+        "value": "Turkic military elite and Persian officials.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bosworth, The Ghaznavids (1963)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Hereditary monarchy (sultan).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ghaznavid Empire (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Sabuktigin (977–997), Mahmud of Ghazni (998–1030), Mas‘ud I, Khusrau Malik (last).",
+        "year": 998,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ghaznavid Empire (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Hereditary, often contested.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bosworth, The Ghaznavids (1963)"
+      },
+      "institutions": {
+        "value": "A Persian-style bureaucracy and a slave-soldier army.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bosworth, The Ghaznavids (1963)"
+      },
+      "stability": {
+        "value": "Lost the west to the Seljuks after Dandanaqan (1040).",
+        "year": 1040,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ghaznavid Empire (checked 6 Nov 2026)"
+      },
+      "eliteConflict": {
+        "value": "Succession struggles.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bosworth, The Ghaznavids (1963)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Ghulam slave-soldiers, war elephants and horse archers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bosworth, The Ghaznavids (1963)"
+      },
+      "majorWars": {
+        "value": "Campaigns in India (977–1167), the raid on Somnath (1026), the Battle of Dandanaqan (1040).",
+        "year": 1026,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ghaznavid Empire (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "About 3.4 million km² in 1029.",
+        "year": 1029,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ghaznavid Empire (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: Hindu Shahis, Rajput kingdoms, Seljuks, Ghurids.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bosworth, The Ghaznavids (1963)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bosworth, The Ghaznavids (1963)"
+      },
+      "scienceEducation": {
+        "value": "Al-Biruni wrote his study of India; Ferdowsi finished the Shahnameh (1010).",
+        "year": 1030,
+        "certainty": "estimated",
+        "source": "Bosworth, The Ghaznavids (1963)"
+      },
+      "openness": {
+        "value": "Culturally Persianate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ghaznavid Empire (checked 6 Nov 2026)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sunni Islam (Hanafi).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ghaznavid Empire (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Persian (official), Arabic, Turkic; Sanskrit on some coins.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ghaznavid Empire (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "The palace of Lashkari Bazar and the minarets of Ghazni.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bosworth, The Ghaznavids (1963)"
+      },
+      "socialStructure": {
+        "value": "Sultan, Turkic soldiers, Persian scholars, peasants.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bosworth, The Ghaznavids (1963)"
+      },
+      "sharedIdentity": {
+        "value": "Sunni Islam and Persian court culture.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bosworth, The Ghaznavids (1963)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Samanids, Seljuks, Hindu Shahis, Rajputs, Ghurids.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bosworth, The Ghaznavids (1963)"
+      },
+      "ideasReligions": {
+        "value": "Spread Islam and Persian culture into north India.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bosworth, The Ghaznavids (1963)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Bosworth, The Ghaznavids (1963)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Sabuktigin took power in Ghazni.",
+        "year": 977,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ghaznavid Empire (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "Under Mahmud (998–1030).",
+        "year": 1030,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ghaznavid Empire (checked 6 Nov 2026)"
+      },
+      "declineSignals": {
+        "value": "Defeat by the Seljuks at Dandanaqan.",
+        "year": 1040,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ghaznavid Empire (checked 6 Nov 2026)"
+      },
+      "outcome": {
+        "value": "The Ghurids took Lahore in 1186.",
+        "year": 1186,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ghaznavid Empire (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Persian histories (Bayhaqi). Checked against Wikipedia (“Ghaznavid Empire”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ghaznavid Empire (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Good; the start date varies (962–977).",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Ghaznavid Empire (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Shahnameh (Ferdowsi)",
+      "kind": "art",
+      "year": 1010,
+      "note": "The Persian national epic, finished in the Ghaznavid era."
+    },
+    {
+      "label": "Al-Biruni’s India",
+      "kind": "idea",
+      "year": 1030,
+      "note": "A pioneering study of Indian science and culture."
+    },
+    {
+      "label": "War elephants",
+      "kind": "troops",
+      "year": 1001,
+      "note": "Taken from India and used in battle."
+    }
+  ]
+}

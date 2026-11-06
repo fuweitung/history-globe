@@ -1,0 +1,309 @@
+{
+  "id": "seleucid-empire",
+  "name": "Seleucid Empire",
+  "era": "ancient",
+  "region": "Middle East & Central Asia",
+  "startYear": -312,
+  "endYear": -63,
+  "capital": "Seleucia; Antioch",
+  "capitalCoords": [
+    36.16,
+    36.2
+  ],
+  "summary": "The largest Hellenistic kingdom formed from Alexander’s empire, founded by Seleucus I. It spread Greek culture from Syria to Iran until Rome annexed its last lands in 63 BCE.",
+  "borderNames": [
+    "Seleucid Kingdom"
+  ],
+  "borderYears": [
+    -312,
+    -63
+  ],
+  "color": "#8a5ab0",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Syria, Mesopotamia, Iran and at first Central Asia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Seleucid Empire (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Mediterranean coast, river plains and the Iranian plateau.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kosmin, The Land of the Elephant Kings (2014)"
+      },
+      "climate": {
+        "value": "Mediterranean to arid.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kosmin, The Land of the Elephant Kings (2014)"
+      },
+      "resources": {
+        "value": "Rich farmland of Mesopotamia and Syria, and trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kosmin, The Land of the Elephant Kings (2014)"
+      },
+      "disasters": {
+        "value": "No specific disasters are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kosmin, The Land of the Elephant Kings (2014)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "More than 30 million (301 BCE).",
+        "year": -301,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Seleucid Empire (checked 6 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "Founded Greek-style cities: Antioch, Seleucia on the Tigris, and many others.",
+        "year": -300,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Seleucid Empire (checked 6 Nov 2026)"
+      },
+      "disease": {
+        "value": "No specific epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kosmin, The Land of the Elephant Kings (2014)"
+      },
+      "migration": {
+        "value": "Greek and Macedonian settlers came to new cities.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kosmin, The Land of the Elephant Kings (2014)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, taxes and trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kosmin, The Land of the Elephant Kings (2014)"
+      },
+      "tradeRoutes": {
+        "value": "Routes between the Mediterranean, India and Central Asia.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kosmin, The Land of the Elephant Kings (2014)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kosmin, The Land of the Elephant Kings (2014)"
+      },
+      "moneyAndTax": {
+        "value": "Silver tetradrachms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Seleucid Empire (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "Greek elite over local peoples.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kosmin, The Land of the Elephant Kings (2014)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy (basileus).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Seleucid Empire (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Seleucus I (305–281 BCE), Antiochus I, Antiochus III the Great (223–187 BCE), Antiochus IV.",
+        "year": -223,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Seleucid Empire (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Hereditary, with many civil wars.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kosmin, The Land of the Elephant Kings (2014)"
+      },
+      "institutions": {
+        "value": "Satrapies (provinces) inherited from Persia.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kosmin, The Land of the Elephant Kings (2014)"
+      },
+      "stability": {
+        "value": "Frequent dynastic wars between rival members of the royal family.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kosmin, The Land of the Elephant Kings (2014)"
+      },
+      "eliteConflict": {
+        "value": "Rival claimants.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kosmin, The Land of the Elephant Kings (2014)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Macedonian phalanx, war elephants (from the Mauryas), cataphracts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kosmin, The Land of the Elephant Kings (2014)"
+      },
+      "majorWars": {
+        "value": "Battle of Ipsus (301 BCE), Roman–Seleucid War and Magnesia (190 BCE), Maccabean Revolt (167–160 BCE).",
+        "year": -190,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Seleucid Empire (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "About 3.9 million km² in 301 BCE, shrinking to 100,000 km² by 100 BCE.",
+        "year": -301,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Seleucid Empire (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: the Ptolemies, Rome, Parthia, the Mauryas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kosmin, The Land of the Elephant Kings (2014)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kosmin, The Land of the Elephant Kings (2014)"
+      },
+      "scienceEducation": {
+        "value": "Babylonian astronomy continued under Seleucid rule.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kosmin, The Land of the Elephant Kings (2014)"
+      },
+      "openness": {
+        "value": "Greek culture spread among local elites.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Seleucid Empire (checked 6 Nov 2026)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Greek religion, Babylonian religion, Judaism, Zoroastrianism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Seleucid Empire (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Greek (official), Aramaic and Old Persian.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Seleucid Empire (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "Hellenistic cities and temples.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kosmin, The Land of the Elephant Kings (2014)"
+      },
+      "socialStructure": {
+        "value": "Greek settlers, local elites, farmers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kosmin, The Land of the Elephant Kings (2014)"
+      },
+      "sharedIdentity": {
+        "value": "Greek culture and loyalty to the Seleucid royal house.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kosmin, The Land of the Elephant Kings (2014)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Ptolemaic Egypt, Rome, Parthia, Maurya.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Seleucid Empire (checked 6 Nov 2026)"
+      },
+      "ideasReligions": {
+        "value": "Hellenistic culture.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Seleucid Empire (checked 6 Nov 2026)"
+      },
+      "colonisation": {
+        "value": "Founded Greek colonies across Asia.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Kosmin, The Land of the Elephant Kings (2014)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Seleucus I took Babylon in 312 BCE.",
+        "year": -312,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Seleucid Empire (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "Around 301 BCE, after the Battle of Ipsus, and again briefly under Antiochus III.",
+        "year": -301,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Seleucid Empire (checked 6 Nov 2026); Kosmin, The Land of the Elephant Kings (2014)"
+      },
+      "declineSignals": {
+        "value": "Defeat at Magnesia and losses to Parthia.",
+        "year": -190,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Seleucid Empire (checked 6 Nov 2026)"
+      },
+      "outcome": {
+        "value": "Annexed by Rome under Pompey in 63 BCE.",
+        "year": -63,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Seleucid Empire (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Greek historians, inscriptions, coins. Checked against Wikipedia (“Seleucid Empire”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Seleucid Empire (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Good for major events; known mostly from Greek and Roman writers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Seleucid Empire (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "War elephants",
+      "kind": "troops",
+      "year": -301,
+      "note": "Seleucus received 500 elephants from Chandragupta Maurya."
+    },
+    {
+      "label": "Antioch",
+      "kind": "monument",
+      "year": -300,
+      "note": "One of the great cities of the ancient world."
+    },
+    {
+      "label": "Tetradrachm coins",
+      "kind": "tool",
+      "note": "Silver coins with portraits of kings."
+    }
+  ]
+}

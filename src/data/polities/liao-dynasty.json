@@ -1,0 +1,310 @@
+{
+  "id": "liao-dynasty",
+  "name": "Liao Dynasty (Khitan)",
+  "era": "medieval",
+  "region": "East Asia (Manchuria & Mongolia)",
+  "startYear": 916,
+  "endYear": 1125,
+  "capital": "Shangjing",
+  "capitalCoords": [
+    119.38,
+    43.97
+  ],
+  "summary": "A dynasty founded by the Khitan people. It ruled Manchuria, Mongolia and part of north China, and made peace with the Song in 1005.",
+  "borderNames": [
+    "Liao",
+    "Khitans"
+  ],
+  "borderYears": [
+    907,
+    1125
+  ],
+  "color": "#5a7a8a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Manchuria, the Mongolian Plateau and the Sixteen Prefectures of north China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liao dynasty (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Steppe, forest and the northern Chinese plain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "climate": {
+        "value": "Cold continental.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "resources": {
+        "value": "Horses and herds on the steppe, plus the rich farmland of the Sixteen Prefectures.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "disasters": {
+        "value": "No specific disasters are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "urbanisation": {
+        "value": "Five capitals for different regions, with Shangjing (Supreme Capital) as the main one.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "disease": {
+        "value": "No specific epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "migration": {
+        "value": "Chinese farmers and craftsmen were settled in Khitan lands, some as captives.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Herding in the north plus Chinese-style farming in the south, with silk payments from Song.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "tradeRoutes": {
+        "value": "Silk from Song under the Chanyuan Treaty (1005).",
+        "year": 1005,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liao dynasty (checked 6 Nov 2026)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "moneyAndTax": {
+        "value": "Liao coins.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liao dynasty (checked 6 Nov 2026)"
+      },
+      "inequality": {
+        "value": "The Khitan imperial Yelü clan and consort Xiao clan ruled; Chinese and other peoples were subjects.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Absolute monarchy, with separate systems for nomads and Chinese.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liao dynasty (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Abaoji (Taizu, 907–926), Shengzong (982–1031), Tianzuo (last).",
+        "year": 907,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liao dynasty (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Hereditary.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "institutions": {
+        "value": "A dual administration: a Northern Chancellery for nomads and a Southern Chancellery run in Chinese style.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "stability": {
+        "value": "Peace with the Song after 1005.",
+        "year": 1005,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liao dynasty (checked 6 Nov 2026)"
+      },
+      "eliteConflict": {
+        "value": "Rivalry between royal princes and the powerful Xiao consort clan.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Armoured Khitan cavalry organised in ordos (camps).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "majorWars": {
+        "value": "Wars with the Song ending in the Chanyuan Treaty (1005); wars with Goryeo (993–1019); the Jurchen revolt (1114–1125).",
+        "year": 1004,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "territoryChange": {
+        "value": "About 2.6 million km² (947).",
+        "year": 947,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liao dynasty (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: Song China, Goryeo and finally the Jurchen.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Two Khitan scripts, created to write the Khitan language.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "scienceEducation": {
+        "value": "Civil service exams for Chinese subjects; Buddhist printing (the Khitan Tripitaka).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "openness": {
+        "value": "Combined Khitan and Chinese culture.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Buddhism and Khitan animism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liao dynasty (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Khitan large script (920).",
+        "year": 920,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "artsArchitecture": {
+        "value": "The wooden Yingxian Pagoda (1056).",
+        "year": 1056,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "socialStructure": {
+        "value": "Khitan nobles and herders, Chinese farmers and officials, and other tribal peoples.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "sharedIdentity": {
+        "value": "Khitan identity kept alive alongside Chinese culture.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Song, Goryeo, Xi Xia.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "ideasReligions": {
+        "value": "Buddhism flourished, with many pagodas and printed scriptures.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Abaoji united the Khitan tribes and proclaimed himself emperor in 916.",
+        "year": 916,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liao dynasty (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "Under Shengzong (982–1031), after the treaty with the Song.",
+        "year": 1005,
+        "certainty": "estimated",
+        "source": "Twitchett & Tietze, Cambridge History of China vol. 6 (1994)"
+      },
+      "declineSignals": {
+        "value": "The Jurchen revolt under Aguda (1114–1115).",
+        "year": 1114,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liao dynasty (checked 6 Nov 2026)"
+      },
+      "outcome": {
+        "value": "Conquered by the Jurchen Jin in 1125; a branch fled west and founded the Western Liao (Qara Khitai).",
+        "year": 1125,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liao dynasty (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "History of Liao. Checked against Wikipedia (“Liao dynasty”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Liao dynasty (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Medium. The founding is dated 907 or 916.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Liao dynasty (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Yingxian Wooden Pagoda",
+      "kind": "monument",
+      "year": 1056,
+      "note": "The oldest fully wooden pagoda in China."
+    },
+    {
+      "label": "Khitan scripts",
+      "kind": "idea",
+      "year": 920,
+      "note": "Two writing systems made for the Khitan language, still only partly deciphered."
+    },
+    {
+      "label": "“Cathay”",
+      "kind": "idea",
+      "note": "The old European name for China, Cathay, comes from the Khitan."
+    }
+  ]
+}

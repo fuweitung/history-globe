@@ -587,6 +587,20 @@
     ]
   },
   {
+    "id": "battle-of-ipsus",
+    "year": -301,
+    "lat": 38.6,
+    "lng": 31.0,
+    "type": "war",
+    "title": "Battle of Ipsus",
+    "description": "Alexander’s successors fight; Seleucus wins with war elephants and gains Syria.",
+    "relatedPolityIds": [
+      "seleucid-empire",
+      "macedonian-empire"
+    ],
+    "source": "Wikipedia: Seleucid Empire (checked 6 Nov 2026)"
+  },
+  {
     "id": "euclid-elements",
     "year": -300,
     "yearApproximate": true,
@@ -719,6 +733,19 @@
       "han-china"
     ],
     "source": "Wikipedia: Battle of Baideng (checked 6 Nov 2026)"
+  },
+  {
+    "id": "maccabean-revolt",
+    "year": -167,
+    "lat": 31.78,
+    "lng": 35.23,
+    "type": "war",
+    "title": "Maccabean Revolt",
+    "description": "A Jewish revolt against the Seleucid king Antiochus IV, remembered at Hanukkah.",
+    "relatedPolityIds": [
+      "seleucid-empire"
+    ],
+    "source": "Wikipedia: Seleucid Empire (checked 6 Nov 2026)"
   },
   {
     "id": "carthage-destroyed",
@@ -891,6 +918,20 @@
     ]
   },
   {
+    "id": "battle-of-red-cliffs",
+    "year": 208,
+    "lat": 29.88,
+    "lng": 113.62,
+    "type": "war",
+    "title": "Battle of Red Cliffs",
+    "description": "Allied forces of Sun Quan and Liu Bei defeat Cao Cao on the Yangtze.",
+    "relatedPolityIds": [
+      "three-kingdoms",
+      "han-china"
+    ],
+    "source": "Wikipedia: Three Kingdoms (checked 6 Nov 2026)"
+  },
+  {
     "id": "end-of-han",
     "year": 220,
     "lat": 34.62,
@@ -928,6 +969,47 @@
     "relatedPolityIds": [
       "maya"
     ]
+  },
+  {
+    "id": "lord-of-sipan",
+    "year": 250,
+    "yearApproximate": true,
+    "lat": -6.8,
+    "lng": -79.6,
+    "type": "culture",
+    "title": "Lord of Sipán buried",
+    "description": "A Moche ruler is buried with gold and silver treasures; his tomb was found intact in 1987.",
+    "relatedPolityIds": [
+      "moche"
+    ],
+    "source": "Wikipedia: Lord of Sipán (year from general references; not stated in the parts checked checked 6 Nov 2026)"
+  },
+  {
+    "id": "jin-reunifies-china",
+    "year": 280,
+    "lat": 32.06,
+    "lng": 118.78,
+    "type": "war",
+    "title": "Jin reunifies China",
+    "description": "The Jin conquer Eastern Wu, ending the Three Kingdoms period.",
+    "relatedPolityIds": [
+      "jin-dynasty-266",
+      "three-kingdoms"
+    ],
+    "source": "Wikipedia: Jin dynasty (266–420) (checked 6 Nov 2026)"
+  },
+  {
+    "id": "sack-of-luoyang-311",
+    "year": 311,
+    "lat": 34.62,
+    "lng": 112.45,
+    "type": "war",
+    "title": "Sack of Luoyang",
+    "description": "Han-Zhao forces sack the Jin capital; many northerners flee south.",
+    "relatedPolityIds": [
+      "jin-dynasty-266"
+    ],
+    "source": "Wikipedia: Jin dynasty (266–420) (checked 6 Nov 2026)"
   },
   {
     "id": "edict-of-milan",
@@ -998,6 +1080,19 @@
     "source": "Wikipedia: Siyaj K'ak' (year from general references; not stated in the summary checked 6 Nov 2026)"
   },
   {
+    "id": "battle-of-fei-river",
+    "year": 383,
+    "lat": 32.6,
+    "lng": 116.7,
+    "type": "war",
+    "title": "Battle of Fei River",
+    "description": "The Eastern Jin defeat a much larger Former Qin army, keeping the south independent.",
+    "relatedPolityIds": [
+      "jin-dynasty-266"
+    ],
+    "source": "Wikipedia: Jin dynasty (266–420) (checked 6 Nov 2026)"
+  },
+  {
     "id": "sack-of-rome-410",
     "year": 410,
     "lat": 41.9,
@@ -1009,6 +1104,34 @@
       "roman-empire"
     ],
     "source": "Wikipedia: Sack of Rome (410) (checked 6 Nov 2026)"
+  },
+  {
+    "id": "catalaunian-plains",
+    "year": 451,
+    "lat": 48.9,
+    "lng": 4.4,
+    "type": "war",
+    "title": "Battle of the Catalaunian Plains",
+    "description": "Romans and Visigoths stop Attila’s Huns in Gaul.",
+    "relatedPolityIds": [
+      "hunnic-empire",
+      "roman-empire"
+    ],
+    "source": "Wikipedia: Huns (checked 6 Nov 2026)"
+  },
+  {
+    "id": "yungang-grottoes",
+    "year": 460,
+    "yearApproximate": true,
+    "lat": 40.11,
+    "lng": 113.13,
+    "type": "culture",
+    "title": "Yungang Grottoes begun",
+    "description": "The Northern Wei start carving giant Buddhist cave temples near Datong.",
+    "relatedPolityIds": [
+      "northern-southern-dynasties"
+    ],
+    "source": "Wikipedia: Yungang Grottoes (year from general references; not stated in the parts checked checked 6 Nov 2026)"
   },
   {
     "id": "fall-of-western-rome",
@@ -1090,6 +1213,19 @@
     "source": "Wikipedia: Teotihuacan (checked 6 Nov 2026)"
   },
   {
+    "id": "turkic-khaganate-founded",
+    "year": 552,
+    "lat": 47.5,
+    "lng": 102.5,
+    "type": "person",
+    "title": "First Turkic Khaganate founded",
+    "description": "Bumin overthrows the Rouran and founds the Göktürk empire, the first state to use the name “Türk”.",
+    "relatedPolityIds": [
+      "turkic-khaganates"
+    ],
+    "source": "Wikipedia: First Turkic Khaganate (checked 6 Nov 2026)"
+  },
+  {
     "id": "sui-reunifies",
     "year": 589,
     "lat": 34.34,
@@ -1100,6 +1236,20 @@
     "relatedPolityIds": [
       "sui"
     ]
+  },
+  {
+    "id": "wari-expansion",
+    "year": 600,
+    "yearApproximate": true,
+    "lat": -13.06,
+    "lng": -74.2,
+    "type": "war",
+    "title": "Rise of the Wari Empire",
+    "description": "The Wari state emerges in the Ayacucho Basin and spreads across Peru.",
+    "relatedPolityIds": [
+      "wari-empire"
+    ],
+    "source": "Wikipedia: Wari Empire (checked 6 Nov 2026)"
   },
   {
     "id": "grand-canal",
@@ -1152,6 +1302,34 @@
     "relatedPolityIds": [
       "umayyad-caliphate"
     ]
+  },
+  {
+    "id": "rashidun-begins",
+    "year": 632,
+    "lat": 24.47,
+    "lng": 39.61,
+    "type": "person",
+    "title": "Abu Bakr becomes first caliph",
+    "description": "After Muhammad’s death, Abu Bakr becomes the first caliph of the Rashidun Caliphate.",
+    "relatedPolityIds": [
+      "rashidun-caliphate"
+    ],
+    "source": "Wikipedia: Rashidun Caliphate (checked 6 Nov 2026)"
+  },
+  {
+    "id": "battle-of-yarmouk",
+    "year": 636,
+    "yearApproximate": true,
+    "lat": 32.8,
+    "lng": 35.95,
+    "type": "war",
+    "title": "Battle of Yarmouk",
+    "description": "Arab Muslim forces defeat the Byzantine army, opening Syria to conquest.",
+    "relatedPolityIds": [
+      "rashidun-caliphate",
+      "byzantine-empire"
+    ],
+    "source": "Wikipedia: Battle of the Yarmuk (year from general references; not stated in the parts checked checked 6 Nov 2026)"
   },
   {
     "id": "fall-of-sasanians",
@@ -1218,6 +1396,34 @@
     "source": "Wikipedia: Battle of Tours (checked 6 Nov 2026)"
   },
   {
+    "id": "orkhon-inscriptions",
+    "year": 732,
+    "yearApproximate": true,
+    "lat": 47.56,
+    "lng": 102.83,
+    "type": "culture",
+    "title": "Orkhon inscriptions",
+    "description": "Stone monuments to Kül Tegin and Bilge Khagan, the oldest known texts in a Turkic language.",
+    "relatedPolityIds": [
+      "turkic-khaganates"
+    ],
+    "source": "Wikipedia: Orkhon inscriptions (year from general references; not stated in the parts checked checked 6 Nov 2026)"
+  },
+  {
+    "id": "uyghur-khaganate-founded",
+    "year": 744,
+    "lat": 47.43,
+    "lng": 102.66,
+    "type": "person",
+    "title": "Uyghur Khaganate founded",
+    "description": "The Uyghurs overthrow the Second Turkic Khaganate.",
+    "relatedPolityIds": [
+      "uyghur-khaganate",
+      "turkic-khaganates"
+    ],
+    "source": "Wikipedia: Uyghur Khaganate (checked 6 Nov 2026)"
+  },
+  {
     "id": "abbasid-revolution",
     "year": 750,
     "lat": 36.6,
@@ -1279,7 +1485,9 @@
     "type": "war",
     "title": "Viking raid on Lindisfarne",
     "description": "Vikings raid the monastery of Lindisfarne, opening the Viking Age in western Europe.",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "viking-age-norse"
+    ],
     "source": "Wikipedia: Viking raid on Lindisfarne (checked 6 Nov 2026)"
   },
   {
@@ -1330,6 +1538,19 @@
     "relatedPolityIds": [
       "abbasid-caliphate"
     ]
+  },
+  {
+    "id": "fall-of-uyghur-khaganate",
+    "year": 840,
+    "lat": 47.43,
+    "lng": 102.66,
+    "type": "war",
+    "title": "Fall of the Uyghur Khaganate",
+    "description": "The Yenisei Kyrgyz destroy the Uyghur capital; Uyghurs move south-west to Gansu and Turfan.",
+    "relatedPolityIds": [
+      "uyghur-khaganate"
+    ],
+    "source": "Wikipedia: Uyghur Khaganate (checked 6 Nov 2026)"
   },
   {
     "id": "treaty-of-verdun",
@@ -1428,6 +1649,20 @@
     "source": "Wikipedia: Goryeo (checked 6 Nov 2026)"
   },
   {
+    "id": "althing-founded",
+    "year": 930,
+    "yearApproximate": true,
+    "lat": 64.26,
+    "lng": -21.12,
+    "type": "culture",
+    "title": "Althing founded",
+    "description": "Icelanders set up the Althing, an open-air assembly and one of the world’s oldest parliaments.",
+    "relatedPolityIds": [
+      "viking-age-norse"
+    ],
+    "source": "Wikipedia: Althing (year from general references; not stated in the parts checked checked 6 Nov 2026)"
+  },
+  {
     "id": "bach-dang-938",
     "year": 938,
     "lat": 20.9,
@@ -1439,6 +1674,20 @@
       "dai-viet"
     ],
     "source": "Wikipedia: Battle of Bạch Đằng (938) (checked 6 Nov 2026)"
+  },
+  {
+    "id": "tui-tonga-expansion",
+    "year": 950,
+    "yearApproximate": true,
+    "lat": -21.14,
+    "lng": -175.11,
+    "type": "trade",
+    "title": "Tuʻi Tonga expansion begins",
+    "description": "Tongan chiefs begin extending their influence across West Polynesia by sea.",
+    "relatedPolityIds": [
+      "tui-tonga-empire"
+    ],
+    "source": "Wikipedia: Tuʻi Tonga Empire (checked 6 Nov 2026)"
   },
   {
     "id": "otto-crowned",
@@ -1467,6 +1716,21 @@
     "source": "Wikipedia: Cairo (year from general references; not stated in the summary checked 6 Nov 2026)"
   },
   {
+    "id": "sack-of-atil",
+    "year": 969,
+    "yearApproximate": true,
+    "lat": 46.5,
+    "lng": 47.5,
+    "type": "war",
+    "title": "Sviatoslav sacks Atil",
+    "description": "Prince Sviatoslav I of Kiev destroys the Khazar capital, ending Khazar power.",
+    "relatedPolityIds": [
+      "khazar-khaganate",
+      "kievan-rus"
+    ],
+    "source": "Wikipedia: Khazars (checked 6 Nov 2026)"
+  },
+  {
     "id": "baptism-of-rus",
     "year": 988,
     "yearApproximate": true,
@@ -1490,8 +1754,24 @@
     "type": "trade",
     "title": "Norse reach North America",
     "description": "Norse voyagers build a camp at L’Anse aux Meadows in Newfoundland around 1000.",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "viking-age-norse"
+    ],
     "source": "Wikipedia: L'Anse aux Meadows (checked 6 Nov 2026)"
+  },
+  {
+    "id": "treaty-of-chanyuan",
+    "year": 1005,
+    "lat": 35.7,
+    "lng": 115.0,
+    "type": "culture",
+    "title": "Treaty of Chanyuan",
+    "description": "The Song agree to pay silk and silver to the Liao, starting a century of peace.",
+    "relatedPolityIds": [
+      "liao-dynasty",
+      "song"
+    ],
+    "source": "Wikipedia: Liao dynasty (checked 6 Nov 2026)"
   },
   {
     "id": "brihadisvara-temple",
@@ -1532,6 +1812,19 @@
     ]
   },
   {
+    "id": "somnath-raid",
+    "year": 1026,
+    "lat": 20.89,
+    "lng": 70.4,
+    "type": "war",
+    "title": "Mahmud of Ghazni raids Somnath",
+    "description": "Mahmud sacks the Somnath temple in Gujarat, one of many raids into India.",
+    "relatedPolityIds": [
+      "ghaznavid-empire"
+    ],
+    "source": "Wikipedia: Ghaznavid Empire (checked 6 Nov 2026)"
+  },
+  {
     "id": "movable-type",
     "year": 1040,
     "yearApproximate": true,
@@ -1543,6 +1836,20 @@
     "relatedPolityIds": [
       "song"
     ]
+  },
+  {
+    "id": "battle-of-dandanaqan",
+    "year": 1040,
+    "lat": 37.4,
+    "lng": 62.3,
+    "type": "war",
+    "title": "Battle of Dandanaqan",
+    "description": "The Seljuks defeat the Ghaznavids and take over Khorasan.",
+    "relatedPolityIds": [
+      "ghaznavid-empire",
+      "seljuk-empire"
+    ],
+    "source": "Wikipedia: Ghaznavid Empire (checked 6 Nov 2026)"
   },
   {
     "id": "cahokia-founded",
@@ -1580,6 +1887,20 @@
     "description": "William of Normandy defeats Harold II at Hastings.",
     "relatedPolityIds": [],
     "source": "Wikipedia: Norman Conquest (checked 6 Nov 2026)"
+  },
+  {
+    "id": "stamford-bridge",
+    "year": 1066,
+    "yearApproximate": true,
+    "lat": 53.99,
+    "lng": -0.91,
+    "type": "war",
+    "title": "Battle of Stamford Bridge",
+    "description": "Harald Hardrada of Norway is killed invading England, often seen as the end of the Viking Age.",
+    "relatedPolityIds": [
+      "viking-age-norse"
+    ],
+    "source": "Wikipedia: Battle of Stamford Bridge (year from general references; not stated in the parts checked checked 6 Nov 2026)"
   },
   {
     "id": "battle-of-manzikert",
@@ -1650,6 +1971,20 @@
     ]
   },
   {
+    "id": "jingkang-incident",
+    "year": 1127,
+    "lat": 34.8,
+    "lng": 114.31,
+    "type": "war",
+    "title": "Jurchen Jin capture Kaifeng",
+    "description": "The Jin take the Northern Song capital and two emperors; the Song move south.",
+    "relatedPolityIds": [
+      "jurchen-jin",
+      "song"
+    ],
+    "source": "Wikipedia: Jin dynasty (1115–1234) (checked 6 Nov 2026)"
+  },
+  {
     "id": "saladin-ends-fatimids",
     "year": 1171,
     "yearApproximate": true,
@@ -1678,6 +2013,20 @@
       "khmer-empire"
     ],
     "source": "Wikipedia: Khmer–Cham war (1177–1181) (year from general references; not stated in the summary checked 6 Nov 2026)"
+  },
+  {
+    "id": "giralda-built",
+    "year": 1184,
+    "yearApproximate": true,
+    "lat": 37.39,
+    "lng": -5.99,
+    "type": "culture",
+    "title": "Giralda minaret begun",
+    "description": "The Almohads build the Great Mosque of Seville and its minaret, the Giralda.",
+    "relatedPolityIds": [
+      "almohad-caliphate"
+    ],
+    "source": "Wikipedia: Giralda (year from general references; not stated in the parts checked checked 6 Nov 2026)"
   },
   {
     "id": "battle-of-hattin",
@@ -1716,6 +2065,19 @@
     "source": "Wikipedia: Delhi Sultanate (checked 6 Nov 2026)"
   },
   {
+    "id": "las-navas-de-tolosa",
+    "year": 1212,
+    "lat": 38.28,
+    "lng": -3.58,
+    "type": "war",
+    "title": "Battle of Las Navas de Tolosa",
+    "description": "Castile, Aragon and Navarre defeat the Almohads, a turning point in Iberia.",
+    "relatedPolityIds": [
+      "almohad-caliphate"
+    ],
+    "source": "Wikipedia: Almohad Caliphate (checked 6 Nov 2026)"
+  },
+  {
     "id": "magna-carta",
     "year": 1215,
     "lat": 51.44,
@@ -1724,6 +2086,20 @@
     "title": "Magna Carta",
     "description": "English barons force King John to accept limits on royal power.",
     "relatedPolityIds": []
+  },
+  {
+    "id": "fall-of-caizhou",
+    "year": 1234,
+    "lat": 33.0,
+    "lng": 114.36,
+    "type": "war",
+    "title": "Mongols destroy the Jin",
+    "description": "The last Jin emperor dies as Caizhou falls to the Mongols and Song.",
+    "relatedPolityIds": [
+      "jurchen-jin",
+      "mongol-empire"
+    ],
+    "source": "Wikipedia: Jin dynasty (1115–1234) (checked 6 Nov 2026)"
   },
   {
     "id": "mongols-sack-kiev",
@@ -1792,6 +2168,20 @@
       "mongol-empire",
       "abbasid-caliphate"
     ]
+  },
+  {
+    "id": "maragheh-observatory",
+    "year": 1259,
+    "yearApproximate": true,
+    "lat": 37.39,
+    "lng": 46.24,
+    "type": "invention",
+    "title": "Maragheh observatory",
+    "description": "Hulegu founds a great observatory where Nasir al-Din al-Tusi and other scholars work.",
+    "relatedPolityIds": [
+      "ilkhanate"
+    ],
+    "source": "Wikipedia: Maragheh observatory (year from general references; not stated in the parts checked checked 6 Nov 2026)"
   },
   {
     "id": "battle-of-ain-jalut",
@@ -1903,6 +2293,19 @@
       "majapahit",
       "yuan"
     ]
+  },
+  {
+    "id": "ghazan-converts",
+    "year": 1295,
+    "lat": 38.08,
+    "lng": 46.29,
+    "type": "culture",
+    "title": "Ilkhan Ghazan converts to Islam",
+    "description": "Ghazan becomes Muslim; the Mongol rulers of Iran adopt Islam.",
+    "relatedPolityIds": [
+      "ilkhanate"
+    ],
+    "source": "Wikipedia: Ilkhanate (checked 6 Nov 2026)"
   },
   {
     "id": "ottoman-beylik",
@@ -3044,6 +3447,19 @@
     "source": "Wikipedia: Spanish American wars of independence"
   },
   {
+    "id": "hawaii-unified",
+    "year": 1810,
+    "lat": 21.31,
+    "lng": -157.86,
+    "type": "person",
+    "title": "Kamehameha I unifies Hawaiʻi",
+    "description": "Kauaʻi and Niʻihau join the kingdom, completing the unification of the islands.",
+    "relatedPolityIds": [
+      "hawaiian-kingdom"
+    ],
+    "source": "Wikipedia: Hawaiian Kingdom (checked 6 Nov 2026)"
+  },
+  {
     "id": "tambora-eruption",
     "year": 1815,
     "lat": -8.25,
@@ -3561,6 +3977,20 @@
       "french-colonial-empire"
     ],
     "source": "Wikipedia: Franco-Siamese crisis"
+  },
+  {
+    "id": "hawaii-overthrow",
+    "year": 1893,
+    "lat": 21.31,
+    "lng": -157.86,
+    "type": "war",
+    "title": "Overthrow of the Hawaiian Kingdom",
+    "description": "Queen Liliʻuokalani is overthrown by a group backed by US forces; annexation follows in 1898.",
+    "relatedPolityIds": [
+      "hawaiian-kingdom",
+      "united-states"
+    ],
+    "source": "Wikipedia: Hawaiian Kingdom (checked 6 Nov 2026)"
   },
   {
     "id": "sino-japanese-war",

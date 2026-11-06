@@ -1,0 +1,310 @@
+{
+  "id": "ilkhanate",
+  "name": "Ilkhanate",
+  "era": "medieval",
+  "region": "Iran & Middle East",
+  "startYear": 1256,
+  "endYear": 1335,
+  "capital": "Maragheh; Tabriz; Soltaniyeh",
+  "capitalCoords": [
+    46.29,
+    38.08
+  ],
+  "summary": "The Mongol khanate of Iran founded by Hulegu, who sacked Baghdad in 1258. Its rulers converted to Islam in 1295 and sponsored Persian art and science.",
+  "borderNames": [
+    "Ilkhanate"
+  ],
+  "borderYears": [
+    1256,
+    1335
+  ],
+  "color": "#4a5aa0",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Iran, Iraq, the South Caucasus and much of Anatolia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ilkhanate (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "The Iranian plateau, Mesopotamian plains and Anatolian highlands.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Mongols and the Islamic World (2017)"
+      },
+      "climate": {
+        "value": "Mostly arid.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Mongols and the Islamic World (2017)"
+      },
+      "resources": {
+        "value": "Farmland, pasture for Mongol herds, and trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Mongols and the Islamic World (2017)"
+      },
+      "disasters": {
+        "value": "The Black Death ravaged the Ilkhanate in the 1330s.",
+        "year": 1330,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ilkhanate (checked 6 Nov 2026)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Mongols and the Islamic World (2017)"
+      },
+      "urbanisation": {
+        "value": "Capitals at Maragheh, Tabriz and Soltaniyeh.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ilkhanate (checked 6 Nov 2026)"
+      },
+      "disease": {
+        "value": "The Black Death in the 1330s.",
+        "year": 1330,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ilkhanate (checked 6 Nov 2026)"
+      },
+      "migration": {
+        "value": "Mongol and Turkic nomads settled in north-western Iran.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Mongols and the Islamic World (2017)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, taxes and trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Mongols and the Islamic World (2017)"
+      },
+      "tradeRoutes": {
+        "value": "Tabriz was a great trade hub between Europe and China.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Mongols and the Islamic World (2017)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Mongols and the Islamic World (2017)"
+      },
+      "moneyAndTax": {
+        "value": "Silver coins; an attempt at Chinese-style paper money (1294) failed.",
+        "year": 1294,
+        "certainty": "estimated",
+        "source": "Jackson, The Mongols and the Islamic World (2017)"
+      },
+      "inequality": {
+        "value": "Mongol elite and Persian officials over peasants.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Mongols and the Islamic World (2017)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy (khan, later padishah).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ilkhanate (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Hulegu (1256–1265), Abaqa, Ghazan (1295–1304), Öljaitü, Abu Sa‘id (1316–1335).",
+        "year": 1295,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ilkhanate (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Disputed among Hulegu’s descendants.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Mongols and the Islamic World (2017)"
+      },
+      "institutions": {
+        "value": "Ghazan’s reforms of tax and administration, led by vizier Rashid al-Din.",
+        "year": 1295,
+        "certainty": "estimated",
+        "source": "Jackson, The Mongols and the Islamic World (2017)"
+      },
+      "stability": {
+        "value": "Disintegrated after Abu Sa‘id’s death in 1335.",
+        "year": 1335,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ilkhanate (checked 6 Nov 2026)"
+      },
+      "eliteConflict": {
+        "value": "Mongol emirs fought for control.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Mongols and the Islamic World (2017)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Mongol cavalry with siege engineers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Mongols and the Islamic World (2017)"
+      },
+      "majorWars": {
+        "value": "Sack of Baghdad (1258), defeat at Ain Jalut (1260), war with the Golden Horde (1262).",
+        "year": 1260,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ilkhanate (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "About 3.75 million km² in 1310.",
+        "year": 1310,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ilkhanate (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: the Mamluks and the Golden Horde; contacts with European powers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Mongols and the Islamic World (2017)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "The Maragheh observatory.",
+        "year": 1259,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ilkhanate (checked 6 Nov 2026)"
+      },
+      "scienceEducation": {
+        "value": "Rashid al-Din’s “Compendium of Chronicles”, a world history.",
+        "year": 1310,
+        "certainty": "estimated",
+        "source": "Jackson, The Mongols and the Islamic World (2017)"
+      },
+      "openness": {
+        "value": "Brought Chinese astronomers to Hulegu’s court.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ilkhanate (checked 6 Nov 2026)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Buddhism until 1295, then Islam (from Ghazan).",
+        "year": 1295,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ilkhanate (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Middle Mongol and Persian.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ilkhanate (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "The dome of Soltaniyeh and Persian miniature painting with Chinese influences.",
+        "year": 1312,
+        "certainty": "estimated",
+        "source": "Jackson, The Mongols and the Islamic World (2017)"
+      },
+      "socialStructure": {
+        "value": "Mongol nobles, Persian bureaucrats, peasants.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Mongols and the Islamic World (2017)"
+      },
+      "sharedIdentity": {
+        "value": "The idea of “Iranzamin” (Land of Iran).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ilkhanate (checked 6 Nov 2026)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Mamluks, Golden Horde, Byzantium, Chagatai Khanate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Mongols and the Islamic World (2017)"
+      },
+      "ideasReligions": {
+        "value": "Chinese art influenced Persian painting.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Mongols and the Islamic World (2017)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, The Mongols and the Islamic World (2017)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Hulegu’s conquest of Iran and Baghdad.",
+        "year": 1258,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ilkhanate (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "Under Ghazan.",
+        "year": 1304,
+        "certainty": "estimated",
+        "source": "Jackson, The Mongols and the Islamic World (2017)"
+      },
+      "declineSignals": {
+        "value": "No heir after Abu Sa‘id; Black Death.",
+        "year": 1335,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ilkhanate (checked 6 Nov 2026)"
+      },
+      "outcome": {
+        "value": "Disintegrated into regional dynasties (Jalayirids, Chobanids and others); later the Timurids.",
+        "year": 1335,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ilkhanate (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Persian chronicles. Checked against Wikipedia (“Ilkhanate”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ilkhanate (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Good; founding is dated 1256 or 1258.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Ilkhanate (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Maragheh observatory",
+      "kind": "tool",
+      "year": 1259,
+      "note": "A great observatory led by Nasir al-Din al-Tusi."
+    },
+    {
+      "label": "Compendium of Chronicles",
+      "kind": "idea",
+      "year": 1310,
+      "note": "Rashid al-Din’s illustrated world history."
+    },
+    {
+      "label": "Dome of Soltaniyeh",
+      "kind": "monument",
+      "year": 1312,
+      "note": "One of the largest brick domes in the world."
+    }
+  ]
+}
