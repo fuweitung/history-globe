@@ -2657,5 +2657,222 @@
     "relation": "colonised",
     "year": 1983,
     "note": "British colony until 1983."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "iraq",
+    "relation": "succeeded",
+    "year": 1932,
+    "note": "Formed from the Ottoman provinces of Mosul, Baghdad and Basra."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "iraq",
+    "relation": "colonised",
+    "year": 1932,
+    "note": "British mandate until 1932."
+  },
+  {
+    "fromPolityId": "iraq",
+    "toPolityId": "kuwait",
+    "relation": "conquered",
+    "year": 1990,
+    "note": "Iraq occupied Kuwait (1990–91)."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "syria",
+    "relation": "succeeded",
+    "year": 1946,
+    "note": "An Ottoman region until 1918."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "syria",
+    "relation": "colonised",
+    "year": 1946,
+    "note": "French mandate (1920–46)."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "lebanon",
+    "relation": "succeeded",
+    "year": 1943,
+    "note": "Mount Lebanon was an Ottoman province."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "lebanon",
+    "relation": "colonised",
+    "year": 1943,
+    "note": "French mandate until 1943."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "jordan",
+    "relation": "succeeded",
+    "year": 1946,
+    "note": "An Ottoman region until 1918."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "jordan",
+    "relation": "colonised",
+    "year": 1946,
+    "note": "British mandate of Transjordan (1921–46)."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "israel",
+    "relation": "succeeded",
+    "year": 1948,
+    "note": "Ottoman Palestine until 1917."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "israel",
+    "relation": "colonised",
+    "year": 1948,
+    "note": "British mandate of Palestine (1920–48)."
+  },
+  {
+    "fromPolityId": "israel",
+    "toPolityId": "jordan",
+    "relation": "allied_with",
+    "year": 1994,
+    "note": "Peace treaty (1994)."
+  },
+  {
+    "fromPolityId": "israel",
+    "toPolityId": "syria",
+    "relation": "conquered",
+    "year": 1967,
+    "note": "Israel occupied the Golan Heights in 1967."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "kuwait",
+    "relation": "colonised",
+    "year": 1961,
+    "note": "British protectorate (1899–1961)."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "qatar",
+    "relation": "colonised",
+    "year": 1971,
+    "note": "British protectorate (1916–71)."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "united-arab-emirates",
+    "relation": "colonised",
+    "year": 1971,
+    "note": "The Trucial States were British-protected until 1971."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "oman",
+    "relation": "allied_with",
+    "year": 1891,
+    "note": "Treaty ties made Oman a close British partner."
+  },
+  {
+    "fromPolityId": "oman",
+    "toPolityId": "tanzania",
+    "relation": "succeeded",
+    "year": null,
+    "note": "Omani sultans ruled Zanzibar until 1964."
+  },
+  {
+    "fromPolityId": "yemen-states",
+    "toPolityId": "yemen",
+    "relation": "succeeded",
+    "year": 1962,
+    "note": "The Zaydi imamate was overthrown in 1962."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "yemen",
+    "relation": "colonised",
+    "year": 1967,
+    "note": "Aden and South Yemen were British until 1967."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "armenia",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Independent when the USSR collapsed."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "azerbaijan",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Independent when the USSR collapsed."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "uzbekistan",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Independent when the USSR collapsed."
+  },
+  {
+    "fromPolityId": "central-asian-khanates",
+    "toPolityId": "uzbekistan",
+    "relation": "succeeded",
+    "year": null,
+    "note": "Bukhara and Khiva lie in Uzbekistan."
+  },
+  {
+    "fromPolityId": "timurid-empire",
+    "toPolityId": "uzbekistan",
+    "relation": "succeeded",
+    "year": null,
+    "note": "Samarkand was Timur’s capital."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "tajikistan",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Independent when the USSR collapsed."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "kyrgyzstan",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Independent when the USSR collapsed."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "turkmenistan",
+    "relation": "succeeded",
+    "year": 1991,
+    "note": "Independent when the USSR collapsed."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "pakistan",
+    "relation": "colonised",
+    "year": 1947,
+    "note": "Part of British India until 1947."
+  },
+  {
+    "fromPolityId": "mughal-empire",
+    "toPolityId": "pakistan",
+    "relation": "succeeded",
+    "year": null,
+    "note": "Lahore was a Mughal capital."
+  },
+  {
+    "fromPolityId": "indus-valley",
+    "toPolityId": "pakistan",
+    "relation": "succeeded",
+    "year": null,
+    "note": "Harappa and Mohenjo-daro are in Pakistan."
   }
 ]

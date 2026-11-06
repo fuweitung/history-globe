@@ -4897,7 +4897,8 @@
     "description": "The partition of British India displaces 12–20 million people. Estimates of deaths range from 200,000 to 2 million.",
     "relatedPolityIds": [
       "india",
-      "british-empire"
+      "british-empire",
+      "pakistan"
     ],
     "source": "Wikipedia: Partition of India (checked 6 Nov 2026)"
   },
@@ -4938,7 +4939,9 @@
     "type": "war",
     "title": "Founding of Israel and the Nakba",
     "description": "The State of Israel is declared and the first Arab–Israeli war follows. Around 750,000 Palestinians are expelled or flee their homes, known to Palestinians as the Nakba (“catastrophe”).",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "israel"
+    ],
     "source": "Wikipedia: Nakba (checked 6 Nov 2026)"
   },
   {
@@ -5298,7 +5301,11 @@
     "type": "war",
     "title": "Six-Day War",
     "description": "A war between Israel and Egypt, Syria and Jordan (5–10 June 1967); Israel takes the West Bank, Gaza, Sinai and the Golan Heights.",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "israel",
+      "syria",
+      "jordan"
+    ],
     "source": "Wikipedia: Six-Day War (checked 6 Nov 2026)"
   },
   {
@@ -5348,7 +5355,9 @@
     "title": "1973 oil crisis",
     "description": "An Arab oil embargo quadruples oil prices, shaking the world economy.",
     "relatedPolityIds": [
-      "saudi-arabia"
+      "saudi-arabia",
+      "kuwait",
+      "iraq"
     ],
     "source": "Wikipedia: 1973 oil crisis"
   },
@@ -5490,7 +5499,13 @@
     "description": "The Soviet Union dissolves into 15 independent states.",
     "relatedPolityIds": [
       "soviet-union",
-      "russian-federation"
+      "russian-federation",
+      "armenia",
+      "azerbaijan",
+      "uzbekistan",
+      "tajikistan",
+      "kyrgyzstan",
+      "turkmenistan"
     ]
   },
   {
@@ -5512,7 +5527,9 @@
     "type": "culture",
     "title": "Oslo Accords",
     "description": "Israel and the Palestine Liberation Organization sign interim agreements (1993, 1995).",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "israel"
+    ],
     "source": "Wikipedia: Oslo Accords (checked 6 Nov 2026)"
   },
   {
@@ -5605,7 +5622,8 @@
     "title": "Iraq War",
     "description": "A US-led coalition invades Iraq in March 2003; the conflict lasts until 2011.",
     "relatedPolityIds": [
-      "united-states"
+      "united-states",
+      "iraq"
     ],
     "source": "Wikipedia: Iraq War (checked 6 Nov 2026)"
   },
@@ -5671,7 +5689,9 @@
     "title": "Arab Spring",
     "description": "Protests beginning in Tunisia spread across the Arab world, toppling several governments and leading to civil wars in Syria, Libya and Yemen.",
     "relatedPolityIds": [
-      "tunisia"
+      "tunisia",
+      "syria",
+      "yemen"
     ],
     "source": "Wikipedia: Arab Spring"
   },
@@ -5683,7 +5703,9 @@
     "type": "war",
     "title": "Syrian civil war",
     "description": "Protests against the Assad government in 2011 turn into a long civil war (2011–2024).",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "syria"
+    ],
     "source": "Wikipedia: Syrian civil war (checked 6 Nov 2026)"
   },
   {
@@ -5794,7 +5816,9 @@
     "type": "war",
     "title": "Gaza war",
     "description": "The war begins on 7 October 2023 with a Hamas-led attack on Israel, followed by an Israeli military campaign in Gaza; it causes very heavy loss of life and a humanitarian crisis.",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "israel"
+    ],
     "source": "Wikipedia: Gaza war (checked 6 Nov 2026)"
   },
   {
@@ -9414,5 +9438,434 @@
       "british-empire"
     ],
     "source": "Wikipedia: Saint Kitts and Nevis"
+  },
+  {
+    "id": "iraq-independence",
+    "year": 1932,
+    "lat": 33.31,
+    "lng": 44.36,
+    "type": "culture",
+    "title": "Iraq becomes independent",
+    "description": "The British mandate ends and Iraq joins the League of Nations.",
+    "relatedPolityIds": [
+      "iraq",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Kingdom of Iraq"
+  },
+  {
+    "id": "iran-iraq-war",
+    "year": 1980,
+    "lat": 31,
+    "lng": 47.5,
+    "type": "war",
+    "title": "Iran–Iraq War",
+    "description": "Iraq invades Iran; eight years of trench warfare and chemical attacks kill hundreds of thousands.",
+    "relatedPolityIds": [
+      "iraq",
+      "islamic-republic-of-iran"
+    ],
+    "source": "Wikipedia: Iran–Iraq War"
+  },
+  {
+    "id": "gulf-war",
+    "year": 1990,
+    "lat": 29.37,
+    "lng": 47.98,
+    "type": "war",
+    "title": "Gulf War",
+    "description": "Iraq invades Kuwait; a US-led coalition drives it out in early 1991.",
+    "relatedPolityIds": [
+      "iraq",
+      "kuwait",
+      "united-states",
+      "saudi-arabia"
+    ],
+    "source": "Wikipedia: Gulf War"
+  },
+  {
+    "id": "isis-caliphate",
+    "year": 2014,
+    "lat": 36.34,
+    "lng": 43.13,
+    "type": "war",
+    "title": "Islamic State seizes Mosul",
+    "description": "The ISIS group declares a “caliphate” across Iraq and Syria; it is defeated by 2019.",
+    "relatedPolityIds": [
+      "iraq",
+      "syria"
+    ],
+    "source": "Wikipedia: Islamic State"
+  },
+  {
+    "id": "fall-of-assad",
+    "year": 2024,
+    "lat": 33.51,
+    "lng": 36.29,
+    "type": "war",
+    "title": "Fall of the Assad government",
+    "description": "Rebels take Damascus and Bashar al-Assad flees to Russia.",
+    "relatedPolityIds": [
+      "syria"
+    ],
+    "source": "Wikipedia: Fall of the Assad regime"
+  },
+  {
+    "id": "lebanon-independence",
+    "year": 1943,
+    "lat": 33.89,
+    "lng": 35.5,
+    "type": "culture",
+    "title": "Lebanon becomes independent",
+    "description": "The National Pact shares power among religious communities.",
+    "relatedPolityIds": [
+      "lebanon",
+      "french-colonial-empire"
+    ],
+    "source": "Wikipedia: Lebanese independence"
+  },
+  {
+    "id": "lebanese-civil-war",
+    "year": 1975,
+    "lat": 33.89,
+    "lng": 35.5,
+    "type": "war",
+    "title": "Lebanese Civil War",
+    "description": "A war among militias and foreign forces (1975–90) kills about 150,000.",
+    "relatedPolityIds": [
+      "lebanon",
+      "syria",
+      "israel"
+    ],
+    "source": "Wikipedia: Lebanese Civil War"
+  },
+  {
+    "id": "beirut-explosion",
+    "year": 2020,
+    "lat": 33.9,
+    "lng": 35.52,
+    "type": "disaster",
+    "title": "Beirut port explosion",
+    "description": "Stored ammonium nitrate explodes, killing over 200 people.",
+    "relatedPolityIds": [
+      "lebanon"
+    ],
+    "source": "Wikipedia: 2020 Beirut explosion"
+  },
+  {
+    "id": "jordan-independence",
+    "year": 1946,
+    "lat": 31.95,
+    "lng": 35.93,
+    "type": "culture",
+    "title": "Jordan becomes independent",
+    "description": "Transjordan becomes the Hashemite Kingdom of Jordan.",
+    "relatedPolityIds": [
+      "jordan",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Emirate of Transjordan"
+  },
+  {
+    "id": "black-september",
+    "year": 1970,
+    "lat": 31.95,
+    "lng": 35.93,
+    "type": "war",
+    "title": "Black September",
+    "description": "Jordan’s army expels Palestinian armed groups from the country.",
+    "relatedPolityIds": [
+      "jordan"
+    ],
+    "source": "Wikipedia: Black September"
+  },
+  {
+    "id": "yom-kippur-war",
+    "year": 1973,
+    "lat": 30.5,
+    "lng": 32.5,
+    "type": "war",
+    "title": "Yom Kippur War",
+    "description": "Egypt and Syria attack Israel; the war leads to the oil embargo and later peace talks.",
+    "relatedPolityIds": [
+      "israel",
+      "syria",
+      "modern-egypt"
+    ],
+    "source": "Wikipedia: Yom Kippur War"
+  },
+  {
+    "id": "egypt-israel-peace",
+    "year": 1979,
+    "lat": 38.9,
+    "lng": -77.04,
+    "type": "culture",
+    "title": "Egypt–Israel peace treaty",
+    "description": "After the Camp David Accords, Egypt becomes the first Arab state to recognise Israel.",
+    "relatedPolityIds": [
+      "israel",
+      "modern-egypt",
+      "united-states"
+    ],
+    "source": "Wikipedia: Egypt–Israel peace treaty"
+  },
+  {
+    "id": "uae-founded",
+    "year": 1971,
+    "lat": 24.45,
+    "lng": 54.37,
+    "type": "culture",
+    "title": "United Arab Emirates founded",
+    "description": "Six Trucial States unite; Ras al-Khaimah joins in 1972.",
+    "relatedPolityIds": [
+      "united-arab-emirates",
+      "british-empire"
+    ],
+    "source": "Wikipedia: United Arab Emirates"
+  },
+  {
+    "id": "qatar-world-cup",
+    "year": 2022,
+    "lat": 25.29,
+    "lng": 51.53,
+    "type": "culture",
+    "title": "World Cup in Qatar",
+    "description": "The first football World Cup held in the Arab world.",
+    "relatedPolityIds": [
+      "qatar"
+    ],
+    "source": "Wikipedia: 2022 FIFA World Cup"
+  },
+  {
+    "id": "kuwait-independence",
+    "year": 1961,
+    "lat": 29.37,
+    "lng": 47.98,
+    "type": "culture",
+    "title": "Kuwait becomes independent",
+    "description": "The British protectorate ends; British troops deter an Iraqi claim.",
+    "relatedPolityIds": [
+      "kuwait",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Kuwait"
+  },
+  {
+    "id": "qaboos-coup",
+    "year": 1970,
+    "lat": 23.59,
+    "lng": 58.41,
+    "type": "culture",
+    "title": "Qaboos becomes Sultan of Oman",
+    "description": "Qaboos replaces his father and opens and modernises the country.",
+    "relatedPolityIds": [
+      "oman"
+    ],
+    "source": "Wikipedia: Qaboos bin Said"
+  },
+  {
+    "id": "oman-zanzibar-split",
+    "year": 1861,
+    "lat": -6.16,
+    "lng": 39.19,
+    "type": "culture",
+    "title": "Oman and Zanzibar split",
+    "description": "After Said bin Sultan dies, his empire divides between two sons.",
+    "relatedPolityIds": [
+      "oman"
+    ],
+    "source": "Wikipedia: Sultanate of Zanzibar"
+  },
+  {
+    "id": "north-yemen-revolution",
+    "year": 1962,
+    "lat": 15.35,
+    "lng": 44.21,
+    "type": "war",
+    "title": "North Yemen revolution",
+    "description": "Army officers overthrow the Zaydi imam; a civil war follows until 1970.",
+    "relatedPolityIds": [
+      "yemen",
+      "yemen-states",
+      "modern-egypt",
+      "saudi-arabia"
+    ],
+    "source": "Wikipedia: North Yemen Civil War"
+  },
+  {
+    "id": "yemen-unification",
+    "year": 1990,
+    "lat": 12.8,
+    "lng": 45.03,
+    "type": "culture",
+    "title": "Yemen unites",
+    "description": "North and South Yemen join as one republic.",
+    "relatedPolityIds": [
+      "yemen"
+    ],
+    "source": "Wikipedia: Yemeni unification"
+  },
+  {
+    "id": "yemeni-civil-war",
+    "year": 2014,
+    "lat": 15.35,
+    "lng": 44.21,
+    "type": "war",
+    "title": "Yemeni Civil War",
+    "description": "Houthi rebels take Sana’a; a Saudi-led coalition intervenes in 2015.",
+    "relatedPolityIds": [
+      "yemen",
+      "saudi-arabia",
+      "united-arab-emirates"
+    ],
+    "source": "Wikipedia: Yemeni civil war (2014–present)"
+  },
+  {
+    "id": "spitak-earthquake",
+    "year": 1988,
+    "lat": 40.83,
+    "lng": 44.27,
+    "type": "disaster",
+    "title": "Spitak earthquake",
+    "description": "An earthquake in Soviet Armenia kills about 25,000 people.",
+    "relatedPolityIds": [
+      "armenia",
+      "soviet-union"
+    ],
+    "source": "Wikipedia: 1988 Armenian earthquake"
+  },
+  {
+    "id": "karabakh-war-1988",
+    "year": 1988,
+    "lat": 39.82,
+    "lng": 46.75,
+    "type": "war",
+    "title": "First Nagorno-Karabakh War",
+    "description": "Armenians and Azerbaijanis fight over Karabakh (1988–94); hundreds of thousands are displaced.",
+    "relatedPolityIds": [
+      "armenia",
+      "azerbaijan"
+    ],
+    "source": "Wikipedia: First Nagorno-Karabakh War"
+  },
+  {
+    "id": "karabakh-war-2020",
+    "year": 2020,
+    "lat": 39.82,
+    "lng": 46.75,
+    "type": "war",
+    "title": "Second Nagorno-Karabakh War",
+    "description": "Azerbaijan retakes much of the region; in 2023 the remaining Armenian population leaves.",
+    "relatedPolityIds": [
+      "armenia",
+      "azerbaijan"
+    ],
+    "source": "Wikipedia: Second Nagorno-Karabakh War"
+  },
+  {
+    "id": "aral-sea-shrinks",
+    "year": 1960,
+    "lat": 45,
+    "lng": 59.5,
+    "type": "disaster",
+    "title": "The Aral Sea begins to shrink",
+    "description": "Soviet cotton irrigation diverts its rivers; the sea loses most of its water.",
+    "relatedPolityIds": [
+      "soviet-union"
+    ],
+    "source": "Wikipedia: Aral Sea"
+  },
+  {
+    "id": "tajik-civil-war",
+    "year": 1992,
+    "lat": 38.56,
+    "lng": 68.79,
+    "type": "war",
+    "title": "Tajik Civil War",
+    "description": "War between the government and an Islamist–democratic opposition (1992–97).",
+    "relatedPolityIds": [
+      "tajikistan"
+    ],
+    "source": "Wikipedia: Tajikistani Civil War"
+  },
+  {
+    "id": "tulip-revolution",
+    "year": 2005,
+    "lat": 42.87,
+    "lng": 74.59,
+    "type": "culture",
+    "title": "Tulip Revolution",
+    "description": "Protests overthrow Kyrgyz president Askar Akayev.",
+    "relatedPolityIds": [
+      "kyrgyzstan"
+    ],
+    "source": "Wikipedia: Tulip Revolution"
+  },
+  {
+    "id": "turkmen-neutrality",
+    "year": 1995,
+    "lat": 37.95,
+    "lng": 58.38,
+    "type": "culture",
+    "title": "Turkmenistan declares neutrality",
+    "description": "The UN recognises its permanent neutrality.",
+    "relatedPolityIds": [
+      "turkmenistan"
+    ],
+    "source": "Wikipedia: Turkmenistan"
+  },
+  {
+    "id": "indo-pakistani-war-1965",
+    "year": 1965,
+    "lat": 32.5,
+    "lng": 74.5,
+    "type": "war",
+    "title": "Indo-Pakistani War of 1965",
+    "description": "A war over Kashmir ends in a ceasefire.",
+    "relatedPolityIds": [
+      "pakistan",
+      "india"
+    ],
+    "source": "Wikipedia: Indo-Pakistani war of 1965"
+  },
+  {
+    "id": "bangladesh-liberation-war",
+    "year": 1971,
+    "lat": 23.81,
+    "lng": 90.41,
+    "type": "war",
+    "title": "Bangladesh Liberation War",
+    "description": "East Pakistan breaks away with Indian help; the Pakistani army kills hundreds of thousands.",
+    "relatedPolityIds": [
+      "pakistan",
+      "india"
+    ],
+    "source": "Wikipedia: Bangladesh Liberation War"
+  },
+  {
+    "id": "pakistan-nuclear-test",
+    "year": 1998,
+    "lat": 28.8,
+    "lng": 64.9,
+    "type": "culture",
+    "title": "Pakistan tests nuclear weapons",
+    "description": "Tests in the Chagai Hills follow India’s tests.",
+    "relatedPolityIds": [
+      "pakistan"
+    ],
+    "source": "Wikipedia: Chagai-I"
+  },
+  {
+    "id": "pakistan-floods-2022",
+    "year": 2022,
+    "lat": 26,
+    "lng": 68,
+    "type": "disaster",
+    "title": "Pakistan floods",
+    "description": "Record monsoon rains flood a third of the country.",
+    "relatedPolityIds": [
+      "pakistan"
+    ],
+    "source": "Wikipedia: 2022 Pakistan floods"
   }
 ]

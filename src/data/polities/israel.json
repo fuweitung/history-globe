@@ -1,0 +1,320 @@
+{
+  "id": "israel",
+  "name": "Israel",
+  "era": "modern",
+  "region": "Middle East",
+  "startYear": 1948,
+  "endYear": null,
+  "capital": "Jerusalem (disputed)",
+  "capitalCoords": [
+    35.21,
+    31.77
+  ],
+  "summary": "Founded in 1948 as a Jewish state in part of British-mandate Palestine; its founding displaced about 700,000 Palestinians (the Nakba); wars with Arab neighbours and the Israeli–Palestinian conflict continue.",
+  "wikiTitle": "Israel",
+  "borderNames": [
+    "Israel"
+  ],
+  "borderYears": [
+    1948,
+    null
+  ],
+  "color": "#3a6ab0",
+  "knownFor": [
+    {
+      "label": "Western Wall",
+      "kind": "monument",
+      "note": "Holy site of Judaism in Jerusalem."
+    },
+    {
+      "label": "Kibbutz",
+      "kind": "idea",
+      "note": "Collective farming communities."
+    },
+    {
+      "label": "Drip irrigation",
+      "kind": "tool",
+      "note": "Water-saving farming developed here."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Eastern Mediterranean coast; about 22,000 km² (excluding occupied territories).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      },
+      "terrain": {
+        "value": "Coast, hills, Negev desert, Jordan valley.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      },
+      "climate": {
+        "value": "Mediterranean; dry south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      },
+      "resources": {
+        "value": "Technology; natural gas offshore.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      },
+      "disasters": {
+        "value": "Droughts; earthquakes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 10 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      },
+      "urbanisation": {
+        "value": "Tel Aviv, Jerusalem, Haifa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      },
+      "disease": {
+        "value": "Good health care.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      },
+      "migration": {
+        "value": "Jewish immigration from Europe, the Middle East, Ethiopia and the former USSR.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Technology, defence, diamonds.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      },
+      "tradeRoutes": {
+        "value": "Haifa and Ashdod ports.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      },
+      "wealth": {
+        "value": "A high-income economy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      },
+      "moneyAndTax": {
+        "value": "The shekel.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Israel"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary democracy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      },
+      "keyRulers": {
+        "value": "David Ben-Gurion. Golda Meir. Yitzhak Rabin. Benjamin Netanyahu.",
+        "year": 1948,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      },
+      "institutions": {
+        "value": "Knesset; Supreme Court.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      },
+      "stability": {
+        "value": "Rabin assassinated (1995).",
+        "year": 1995,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      },
+      "eliteConflict": {
+        "value": "Competition between political parties and leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Israel"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Israel Defense Forces; conscription.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      },
+      "majorWars": {
+        "value": "Wars of 1948, 1956, 1967, 1973; Lebanon; Gaza wars, including from 2023.",
+        "year": 1967,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      },
+      "territoryChange": {
+        "value": "Occupied the West Bank, Gaza, East Jerusalem and Golan in 1967; their status is disputed.",
+        "year": 1967,
+        "certainty": "disputed",
+        "source": "Wikipedia: Israel"
+      },
+      "alliancesRivals": {
+        "value": "Close to the US; peace with Egypt (1979) and Jordan (1994).",
+        "year": 1979,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are associated with the modern state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Israel"
+      },
+      "scienceEducation": {
+        "value": "Strong universities and research.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      },
+      "openness": {
+        "value": "Open to trade and foreign investment, with periods of restriction.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Israel"
+      },
+      "communicationTransport": {
+        "value": "Roads and railways.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "About 74% Jewish, 18% Muslim; Christian and Druze minorities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      },
+      "languageWriting": {
+        "value": "Hebrew (revived as a spoken language); Arabic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      },
+      "artsArchitecture": {
+        "value": "White City of Tel Aviv (Bauhaus).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      },
+      "socialStructure": {
+        "value": "Jewish and Arab citizens; secular and religious groups.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      },
+      "sharedIdentity": {
+        "value": "Contested between Jewish, Israeli and Palestinian identities.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Israel"
+      },
+      "dailyLife": {
+        "value": "Apartments; falafel, hummus.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Egypt, Jordan, Syria, Lebanon; Palestinian territories.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      },
+      "ideasReligions": {
+        "value": "Zionism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      },
+      "colonisation": {
+        "value": "Ottoman until 1917; British mandate of Palestine (1920–48).",
+        "year": 1920,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Declaration of independence (1948).",
+        "year": 1948,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Israel"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Israel"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Israel.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Israel"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; many events are described differently by Israeli and Palestinian sources.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Israel"
+      }
+    }
+  }
+}
