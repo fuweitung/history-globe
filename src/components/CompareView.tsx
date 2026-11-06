@@ -1,7 +1,8 @@
 import { useState } from 'react';
-import { CHECKLIST_SCHEMA, getItem, isFilled, overallCompletion, type CategoryDef } from '../lib/checklistSchema';
+import { CHECKLIST_SCHEMA, getItem, isFilled, type CategoryDef } from '../lib/checklistSchema';
 import { ERAS, LINKS, MAX_YEAR, POLITIES, POLITY_BY_ID, formatSpan, formatYear } from '../lib/data';
-import type { ChecklistItem, LinkRelation, Polity } from '../types';
+import type { ChecklistItem, FullPolity as Polity, LinkRelation, PolitySummary } from '../types';
+import { usePolity } from '../lib/usePolity';
 import { CertaintyBadge } from './ChecklistCategory';
 import { KIND_META } from './PolityDetail';
 import TerritoryChart, { SERIES_COLORS, TERRITORY, axisPeople, formatPeople, populationOf } from './TerritoryChart';
@@ -30,15 +31,20 @@ export function suggestPartner(id: string): string | null {
   if (!p) return null;
   const link = LINKS.find((l) => l.fromPolityId === id || l.toPolityId === id);
   if (link) return link.fromPolityId === id ? link.toPolityId : link.fromPolityId;
-  const end = (q: Polity) => q.endYear ?? MAX_YEAR;
+  const end = (q: PolitySummary) => q.endYear ?? MAX_YEAR;
   const rival = POLITIES.find((q) => q.id !== id && q.region === p.region && q.startYear < end(p) && end(q) > p.startYear);
   return rival?.id ?? null;
 }
 
 export default function CompareView({ a, b, onChange, onOpenPolity, onJumpToYear }: Props) {
   // Compare uses two fixed, colour-blind-checked colours instead of each civilisation's map colour.
-  const pa = a ? POLITY_BY_ID.get(a) : undefined;
-  const pb = b ? POLITY_BY_ID.get(b) : undefined;
+  // Both civilisations' full checklists are loaded on demand.
+  const la = usePolity(a && POLITY_BY_ID.has(a) ? a : null);
+  const lb = usePolity(b && POLITY_BY_ID.has(b) ? b : null);
+  const pa = la.polity;
+  const pb = lb.polity;
+  const loadError = la.error ?? lb.error;
+  const loading = !!a && !!b && (!pa || !pb) && !loadError;
   const A = pa ? { ...pa, color: SERIES_COLORS[0] } : null;
   const B = pb ? { ...pb, color: SERIES_COLORS[1] } : null;
 
@@ -61,7 +67,16 @@ export default function CompareView({ a, b, onChange, onOpenPolity, onJumpToYear
         </div>
       </div>
 
-      {!A || !B ? (
+      {loadError ? (
+        <p role="alert" className="px-5 pt-6 text-sm text-parchment-300">
+          Couldn’t load the checklists.{' '}
+          <button type="button" onClick={() => (la.error ? la.retry() : lb.retry())} className="font-semibold text-gold-300 underline">
+            Try again
+          </button>
+        </p>
+      ) : loading ? (
+        <p className="animate-pulse px-5 pt-6 text-sm text-parchment-400" aria-busy="true">Loading the two checklists…</p>
+      ) : !A || !B ? (
         <p className="px-5 pt-6 text-sm text-parchment-400">Choose two civilisations above to compare them.</p>
       ) : (
         <>
@@ -125,8 +140,8 @@ function Overview({ A, B, onOpenPolity, onJumpToYear }: { A: Polity; B: Polity; 
     <section className="mt-4 px-5">
       <div className="grid grid-cols-2 gap-2">
         {[A, B].map((p) => {
-          const c = overallCompletion(p.checklist);
-          const peak = p.checklist.riseFall.peakPeriod.year;
+          const c = p.completion;
+          const peak = p.peakYear;
           const life = (p.endYear ?? MAX_YEAR) - p.startYear;
           return (
             <div key={p.id} className="rounded-xl bg-white/[0.04] p-3 ring-1 ring-white/[0.08]" style={{ boxShadow: `inset 3px 0 0 ${p.color ?? '#c9844f'}` }}>

@@ -1,13 +1,14 @@
 import { useState } from 'react';
-import { CHECKLIST_SCHEMA, isFilled, overallCompletion } from '../lib/checklistSchema';
+import { CHECKLIST_SCHEMA, isFilled } from '../lib/checklistSchema';
 import { ERA_LABEL, EVENT_TYPES, PERSON_ROLES, POLITY_BY_ID, eventsForPolity, formatSpan, formatYear, isActive, knownImage, linksForPolity, peopleForPolity, polityImage, wikiUrl } from '../lib/data';
 import WikiPicture from './WikiPicture';
-import type { KnownForKind, LinkRelation, Polity } from '../types';
+import type { FullPolity, KnownForKind, LinkRelation, PolitySummary } from '../types';
+import { useImages, usePolity } from '../lib/usePolity';
 import ChecklistCategory, { CertaintyBadge } from './ChecklistCategory';
 import TerritoryChart, { SERIES_COLORS, TERRITORY, axisPeople, domainFor, formatArea, formatPeople, populationOf } from './TerritoryChart';
 
 interface Props {
-  polity: Polity;
+  polity: PolitySummary;
   year: number;
   onJumpToYear: (y: number) => void;
   onFlyTo: () => void;
@@ -32,7 +33,7 @@ export const KIND_META: Record<KnownForKind, { icon: string; label: string }> = 
   person: { icon: '👤', label: 'People' },
 };
 
-function KnownFor({ polity, onJumpToYear }: { polity: Polity; onJumpToYear: (y: number) => void }) {
+function KnownFor({ polity, onJumpToYear }: { polity: PolitySummary; onJumpToYear: (y: number) => void }) {
   const [open, setOpen] = useState<number | null>(null);
   const items = polity.knownFor ?? [];
   const sel = open !== null ? items[open] : undefined;
@@ -79,7 +80,7 @@ function KnownFor({ polity, onJumpToYear }: { polity: Polity; onJumpToYear: (y: 
   );
 }
 
-function TerritorySection({ polity, year, peak, onJumpToYear }: { polity: Polity; year: number; peak: number | null; onJumpToYear: (y: number) => void }) {
+function TerritorySection({ polity, year, peak, onJumpToYear }: { polity: PolitySummary; year: number; peak: number | null; onJumpToYear: (y: number) => void }) {
   const pts = TERRITORY[polity.id] ?? [];
   const max = pts.reduce((m, p) => (p[1] > m[1] ? p : m), [0, 0] as [number, number]);
   return (
@@ -116,7 +117,7 @@ function TerritorySection({ polity, year, peak, onJumpToYear }: { polity: Polity
   );
 }
 
-function PopulationSection({ polity, year, peak, onJumpToYear }: { polity: Polity; year: number; peak: number | null; onJumpToYear: (y: number) => void }) {
+function PopulationSection({ polity, year, peak, onJumpToYear }: { polity: FullPolity; year: number; peak: number | null; onJumpToYear: (y: number) => void }) {
   const { pts, ranges } = populationOf(polity);
   const src = polity.series?.sources?.[0];
   const notes = polity.series?.notes ?? [];
@@ -171,12 +172,16 @@ const RELATION_TEXT: Record<LinkRelation, [string, string]> = {
 };
 
 export default function PolityDetail({ polity, year, onJumpToYear, onFlyTo, onOpenPolity, onOpenEvent, onCompare, onOpenPerson, focusCategory }: Props) {
-  const overall = overallCompletion(polity.checklist);
+  // The header, known-for and territory come from the startup index; the checklist
+  // and population figures arrive with the full civilisation file.
+  const { polity: full, error, retry } = usePolity(polity.id);
+  useImages();
+  const overall = polity.completion;
   const active = isActive(polity, year);
   const events = eventsForPolity(polity.id);
   const links = linksForPolity(polity.id);
-  const rf = polity.checklist.riseFall;
-  const peakYear = typeof rf.peakPeriod.year === 'number' ? rf.peakPeriod.year : null;
+  const rf = full?.checklist.riseFall;
+  const peakYear = polity.peakYear;
 
   return (
     <div>
@@ -233,7 +238,7 @@ export default function PolityDetail({ polity, year, onJumpToYear, onFlyTo, onOp
       {polity.knownFor && polity.knownFor.length > 0 && <KnownFor polity={polity} onJumpToYear={onJumpToYear} />}
 
       {/* ── Rise & fall at a glance ── */}
-      {(isFilled(rf.riseSignals) || isFilled(rf.declineSignals)) && (
+      {rf && (isFilled(rf.riseSignals) || isFilled(rf.declineSignals)) && (
         <section className="mx-5 mb-4 overflow-hidden rounded-2xl ring-1 ring-white/10">
           <h3 className="bg-white/[0.04] px-4 py-2 text-[11px] font-semibold tracking-wider text-parchment-300 uppercase">Why it rose · why it fell</h3>
           <div className="grid grid-cols-1 divide-y divide-white/5 sm:grid-cols-2 sm:divide-x sm:divide-y-0">
@@ -251,7 +256,7 @@ export default function PolityDetail({ polity, year, onJumpToYear, onFlyTo, onOp
 
       {/* ── Territory over time ── */}
       <TerritorySection polity={polity} year={year} peak={peakYear} onJumpToYear={onJumpToYear} />
-      <PopulationSection polity={polity} year={year} peak={peakYear} onJumpToYear={onJumpToYear} />
+      {full && <PopulationSection polity={full} year={year} peak={peakYear} onJumpToYear={onJumpToYear} />}
 
       {/* ── Checklist ── */}
       <section aria-labelledby="checklist-h">
@@ -265,9 +270,13 @@ export default function PolityDetail({ polity, year, onJumpToYear, onFlyTo, onOp
           <CompletionRing ratio={overall.ratio} />
         </div>
         <div className="mx-3 rounded-2xl bg-ink-800/60 ring-1 ring-white/[0.06]">
-          {CHECKLIST_SCHEMA.map((def) => (
-            <ChecklistCategory key={`${polity.id}-${def.key}-${focusCategory === def.key}`} def={def} checklist={polity.checklist} focus={focusCategory === def.key} onJumpToYear={onJumpToYear} />
-          ))}
+          {full ? (
+            CHECKLIST_SCHEMA.map((def) => (
+              <ChecklistCategory key={`${polity.id}-${def.key}-${focusCategory === def.key}`} def={def} checklist={full.checklist} focus={focusCategory === def.key} onJumpToYear={onJumpToYear} />
+            ))
+          ) : (
+            <LoadingChecklist error={error} onRetry={retry} />
+          )}
         </div>
         <div className="mx-5 mt-2 flex flex-wrap items-center gap-2 text-[10px] text-parchment-400">
           Legend: <CertaintyBadge certainty="confirmed" /> <CertaintyBadge certainty="estimated" /> <CertaintyBadge certainty="disputed" />
@@ -403,3 +412,23 @@ function CompletionRing({ ratio }: { ratio: number }) {
   );
 }
 
+
+function LoadingChecklist({ error, onRetry }: { error: Error | null; onRetry: () => void }) {
+  if (error)
+    return (
+      <div role="alert" className="px-5 py-4 text-xs text-parchment-200">
+        Couldn’t load the checklist. Check your connection and{' '}
+        <button type="button" onClick={onRetry} className="font-semibold text-gold-300 underline">
+          try again
+        </button>
+        .
+      </div>
+    );
+  return (
+    <div className="space-y-2 px-5 py-4" aria-busy="true" aria-label="Loading the checklist">
+      {CHECKLIST_SCHEMA.map((def) => (
+        <div key={def.key} className="h-9 animate-pulse rounded-lg bg-white/[0.04]" />
+      ))}
+    </div>
+  );
+}

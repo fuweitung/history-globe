@@ -9,7 +9,7 @@ import { StoryList, StoryPlayer } from './components/StoryView';
 import CompareView, { suggestPartner } from './components/CompareView';
 import { boundsForPolity, loadManifest, loadSnapshot, nearestSnapshot, resolvePolity, type BorderProps, type Snapshot } from './lib/borders';
 import { EVENTS, EVENT_BY_ID, EVENT_TYPES, MAX_YEAR, MIN_YEAR, PEOPLE, PERSON_BY_ID, POLITY_BY_ID, ROUTES, ROUTE_BY_ID, ROUTE_KINDS, STORY_BY_ID, isActive } from './lib/data';
-import type { EventType, Polity, RouteKind } from './types';
+import type { EventType, PolitySummary as Polity, RouteKind } from './types';
 import { eventWindowFor, normaliseYear, stepYear } from './lib/timeScale';
 
 type View =
@@ -200,8 +200,7 @@ export default function App() {
       if (!opts.fly) return;
       if (!isActive(p, year)) {
         // Move the timeline into the polity's lifetime (its peak if we know it).
-        const peak = p.checklist.riseFall.peakPeriod.year;
-        const target = typeof peak === 'number' ? peak : Math.round((p.startYear + (p.endYear ?? MAX_YEAR)) / 2);
+        const target = p.peakYear ?? Math.round((p.startYear + (p.endYear ?? MAX_YEAR)) / 2);
         pendingFly.current = id;
         changeYear(target);
       } else {

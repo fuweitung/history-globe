@@ -1,6 +1,6 @@
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { useDeferredValue, useEffect, useMemo, useRef, useState } from 'react';
 import { EVENT_TYPES, EVENT_BY_ID, PERSON_BY_ID, PERSON_ROLES, POLITY_BY_ID, ROUTE_BY_ID, ROUTE_KINDS } from '../lib/data';
-import { search, snippet, type SearchHit } from '../lib/search';
+import { factIndexReady, loadFactIndex, search, snippet, type SearchHit } from '../lib/search';
 import { KIND_META } from './PolityDetail';
 import { CHECKLIST_SCHEMA } from '../lib/checklistSchema';
 
@@ -22,7 +22,21 @@ export default function SearchView({ initialQuery = '', onOpenPolity, onOpenEven
   const [q, setQ] = useState(initialQuery);
   const [showAll, setShowAll] = useState<Record<string, boolean>>({});
   const inputRef = useRef<HTMLInputElement>(null);
-  const results = useMemo(() => search(q), [q]);
+  // Checklist answers are searchable once every checklist has loaded (started on open).
+  const [factsReady, setFactsReady] = useState(factIndexReady);
+  useEffect(() => {
+    if (factsReady) return;
+    let cancelled = false;
+    loadFactIndex()
+      .then(() => !cancelled && setFactsReady(true))
+      .catch(() => {});
+    return () => {
+      cancelled = true;
+    };
+  }, [factsReady]);
+  // Typing stays responsive: results for the latest query render when the browser has time.
+  const deferredQ = useDeferredValue(q);
+  const results = useMemo(() => search(deferredQ), [deferredQ, factsReady]); // eslint-disable-line react-hooks/exhaustive-deps
   const total = results.polities.length + results.known.length + results.events.length + results.routes.length + results.people.length + results.facts.length;
 
   useEffect(() => {
@@ -71,7 +85,8 @@ export default function SearchView({ initialQuery = '', onOpenPolity, onOpenEven
         </form>
         {q.trim() && (
           <p className="mt-2 text-[11px] text-parchment-400" aria-live="polite">
-            {total ? `${total} result${total === 1 ? '' : 's'} · press Enter to open the top one` : 'No matches. Try a shorter or different word.'}
+            {total ? `${total} result${total === 1 ? '' : 's'} · press Enter to open the top one` : factsReady ? 'No matches. Try a shorter or different word.' : 'Searching…'}
+            {!factsReady && total > 0 && ' · still loading the checklists'}
           </p>
         )}
       </div>
@@ -100,7 +115,7 @@ export default function SearchView({ initialQuery = '', onOpenPolity, onOpenEven
       <Group title="Known for" hits={results.known} limit={LIMITS.known} all={showAll.k} onMore={() => setShowAll((s) => ({ ...s, k: true }))} onOpen={open} />
       <Group title="Routes & migrations" hits={results.routes} limit={8} all={showAll.r} onMore={() => setShowAll((s) => ({ ...s, r: true }))} onOpen={open} />
       <Group title="Events" hits={results.events} limit={LIMITS.events} all={showAll.e} onMore={() => setShowAll((s) => ({ ...s, e: true }))} onOpen={open} />
-      <Group title="In the checklists" hits={results.facts} limit={8} all={showAll.f} onMore={() => setShowAll((s) => ({ ...s, f: true }))} onOpen={open} query={q} />
+      <Group title="In the checklists" hits={results.facts} limit={8} all={showAll.f} onMore={() => setShowAll((s) => ({ ...s, f: true }))} onOpen={open} query={deferredQ} />
     </div>
   );
 }

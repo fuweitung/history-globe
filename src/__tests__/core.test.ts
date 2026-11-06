@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { ERAS, MAX_YEAR, MIN_YEAR, eraOf, fracToYear, normaliseYear, stepYear, yearToFrac } from '../lib/timeScale';
-import { POLITY_BY_ID, formatYear, isActive } from '../lib/data';
-import { norm, search } from '../lib/search';
+import { POLITY_BY_ID, formatYear, isActive, loadPolity } from '../lib/data';
+import { loadFactIndex, norm, search } from '../lib/search';
 import { candidatesFor, nearestSnapshot } from '../lib/borders';
 import { TERRITORY, niceTicks } from '../components/TerritoryChart';
 
@@ -76,13 +76,26 @@ describe('search', () => {
     expect(search('silk road').routes[0]).toMatchObject({ id: 'silk-road' });
   });
 
-  it('finds words inside checklist answers', () => {
+  it('finds words inside checklist answers', async () => {
+    await loadFactIndex();
     const hit = search('el nino').facts.find((h) => h.kind === 'fact' && h.polityId === 'valdivia');
     expect(hit).toMatchObject({ category: 'geography' });
   });
 
   it('requires every word to match', () => {
     expect(search('rome xyzzyq').polities).toHaveLength(0);
+  });
+});
+
+describe('data loading', () => {
+  it('loads a full civilisation on demand, keeping the startup index fields', async () => {
+    const summary = POLITY_BY_ID.get('roman-empire')!;
+    const full = await loadPolity('roman-empire');
+    expect(full.name).toBe(summary.name);
+    expect(full.checklist.riseFall).toBeDefined();
+    expect(full.completion).toEqual(summary.completion);
+    expect(full.peakYear).toBe(summary.peakYear);
+    await expect(loadPolity('no-such-place')).rejects.toThrow();
   });
 });
 
