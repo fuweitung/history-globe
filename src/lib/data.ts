@@ -1,33 +1,71 @@
-import type { EventType, HistoryEvent, HistoryRoute, Person, PersonRole, Polity, PolityLink, RouteKind, Story, WikiImage } from '../types';
+import type { EventType, FullPolity, HistoryEvent, HistoryRoute, Person, PersonRole, Polity, PolityLink, PolitySummary, RouteKind, Story, WikiImage } from '../types';
 import { normaliseChecklist } from './checklistSchema';
+import polityIndex from 'virtual:polity-index';
 import eventsJson from '../data/events.json';
 import routesJson from '../data/routes.json';
 import linksJson from '../data/links.json';
-import imagesJson from '../data/images.json';
 import peopleJson from '../data/people.json';
 import storiesJson from '../data/stories.json';
 
-// Every file in src/data/polities/*.json becomes a polity.
-// To add a civilisation, drop a new JSON file in that folder.
-const polityModules = import.meta.glob<Polity>('../data/polities/*.json', {
-  eager: true,
-  import: 'default',
-});
+// ── Civilisations ────────────────────────────────────────────
+// Every file in src/data/polities/*.json is a civilisation. To add one, drop a new
+// JSON file in that folder. At startup only a small index of each file is loaded
+// (see the polity-index plugin in vite.config.ts); the full checklist is fetched
+// on demand with loadPolity().
 
-export const POLITIES: Polity[] = Object.values(polityModules)
-  .map((p) => ({ ...p, checklist: normaliseChecklist(p.checklist) }))
+export const POLITIES: PolitySummary[] = (polityIndex as PolitySummary[])
+  .slice()
   .sort((a, b) => a.startYear - b.startYear || a.name.localeCompare(b.name));
 
 export const POLITY_BY_ID = new Map(POLITIES.map((p) => [p.id, p]));
+
+const polityLoaders = import.meta.glob<Polity>('../data/polities/*.json', { import: 'default' });
+const fullPolities = new Map<string, FullPolity>();
+const pendingPolities = new Map<string, Promise<FullPolity>>();
+
+/** The full civilisation if it has already been loaded, else undefined. */
+export const getLoadedPolity = (id: string): FullPolity | undefined => fullPolities.get(id);
+
+/** Loads one civilisation's full checklist and time series (cached). */
+export function loadPolity(id: string): Promise<FullPolity> {
+  const done = fullPolities.get(id);
+  if (done) return Promise.resolve(done);
+  let p = pendingPolities.get(id);
+  if (!p) {
+    const summary = POLITY_BY_ID.get(id);
+    const loader = polityLoaders[`../data/polities/${id}.json`];
+    if (!summary || !loader) return Promise.reject(new Error(`Unknown civilisation "${id}"`));
+    p = loader().then((raw) => {
+      const full: FullPolity = { ...raw, ...summary, checklist: normaliseChecklist(raw.checklist), series: raw.series };
+      fullPolities.set(id, full);
+      return full;
+    });
+    p.finally(() => pendingPolities.delete(id)).catch(() => {});
+    pendingPolities.set(id, p);
+  }
+  return p;
+}
+
+/** Loads every civilisation (used by checklist search). */
+export const loadAllPolities = (): Promise<FullPolity[]> => Promise.all(POLITIES.map((p) => loadPolity(p.id)));
 
 export const EVENTS: HistoryEvent[] = (eventsJson as HistoryEvent[]).slice().sort((a, b) => a.year - b.year);
 export const EVENT_BY_ID = new Map(EVENTS.map((e) => [e.id, e]));
 
 export const LINKS: PolityLink[] = linksJson as PolityLink[];
 
-const IMAGES = imagesJson as unknown as { polities: Record<string, WikiImage>; known: Record<string, WikiImage | null> };
-export const polityImage = (id: string): WikiImage | undefined => IMAGES.polities[id];
-export const knownImage = (polityId: string, label: string): WikiImage | undefined => IMAGES.known[`${polityId}|${label}`] ?? undefined;
+// ── Pictures (loaded on demand: images.json is large) ────────
+type ImageIndex = { polities: Record<string, WikiImage>; known: Record<string, WikiImage | null> };
+let IMAGES: ImageIndex | null = null;
+let imagesPromise: Promise<ImageIndex> | null = null;
+export function loadImages(): Promise<ImageIndex> {
+  imagesPromise ??= import('../data/images.json').then((m) => (IMAGES = m.default as unknown as ImageIndex));
+  imagesPromise.catch(() => (imagesPromise = null));
+  return imagesPromise;
+}
+export const imagesLoaded = () => IMAGES !== null;
+export const polityImage = (id: string): WikiImage | undefined => IMAGES?.polities[id];
+export const knownImage = (polityId: string, label: string): WikiImage | undefined => IMAGES?.known[`${polityId}|${label}`] ?? undefined;
 export const wikiUrl = (title: string) => `https://en.wikipedia.org/wiki/${encodeURIComponent(title.replace(/ /g, '_'))}`;
 
 export const PEOPLE: Person[] = (peopleJson as unknown as Person[]).slice().sort((a, b) => a.born - b.born);
@@ -66,12 +104,12 @@ import { ERAS } from './timeScale';
 
 export const ERA_LABEL: Record<string, string> = Object.fromEntries(ERAS.map((e) => [e.id, e.label]));
 
-export function isActive(p: Polity, year: number): boolean {
+export function isActive(p: Pick<Polity, 'startYear' | 'endYear'>, year: number): boolean {
   return p.startYear <= year && (p.endYear ?? Infinity) >= year;
 }
 
 /** Distance in years from `year` to the polity's lifespan (0 if inside). */
-export function yearsOutside(p: Polity, year: number): number {
+export function yearsOutside(p: Pick<Polity, 'startYear' | 'endYear'>, year: number): number {
   if (year < p.startYear) return p.startYear - year;
   const end = p.endYear ?? Infinity;
   if (year > end) return year - end;

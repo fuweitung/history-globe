@@ -1,7 +1,7 @@
 import polylabel from 'polylabel';
 import type { Feature, FeatureCollection, Geometry, Polygon, Position } from 'geojson';
 import { POLITIES, isActive, yearsOutside } from './data';
-import type { Polity } from '../types';
+import type { PolitySummary as Polity } from '../types';
 
 /**
  * Border snapshots from the open-source historical-basemaps project

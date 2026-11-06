@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef } from 'react';
 import { EVENTS, EVENT_TYPES, formatSpan, formatYear } from '../lib/data';
 import { ERAS, MAX_YEAR, eraOf, eventWindowFor, fracToYear, stepFor, stepYear, yearToFrac } from '../lib/timeScale';
-import type { Polity } from '../types';
+import type { PolitySummary } from '../types';
 
 interface Props {
   year: number;
@@ -11,7 +11,7 @@ interface Props {
   loading: boolean;
   playing: boolean;
   onTogglePlay: () => void;
-  highlight: Polity | null;
+  highlight: PolitySummary | null;
   eventWindow: number;
   onEventWindowChange: (w: number) => void;
 }

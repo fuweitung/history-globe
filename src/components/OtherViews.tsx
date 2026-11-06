@@ -1,5 +1,4 @@
 import { useMemo, useState } from 'react';
-import { overallCompletion } from '../lib/checklistSchema';
 import { ERAS, EVENT_TYPES, PERSON_ROLES, POLITIES, POLITY_BY_ID, ROUTE_KINDS, formatSpan, formatYear, isActive, wikiUrl } from '../lib/data';
 import WikiPicture from './WikiPicture';
 import type { BorderProps } from '../lib/borders';
@@ -290,7 +289,7 @@ export function PolityBrowser({ year, onOpenPolity, onCompare }: { year: number;
             <h3 className="px-5 text-[11px] font-semibold tracking-wider text-parchment-300 uppercase">{g.label}</h3>
             <ul className="mt-1.5 px-2">
               {list.map((p) => {
-                const c = overallCompletion(p.checklist);
+                const c = p.completion;
                 const active = isActive(p, year);
                 return (
                   <li key={p.id}>

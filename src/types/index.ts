@@ -186,6 +186,27 @@ export interface Polity {
   series?: PolitySeries;
 }
 
+/** Completion of a checklist (filled items out of the template's total). */
+export interface ChecklistCompletion {
+  filled: number;
+  total: number;
+  ratio: number;
+}
+
+/**
+ * What the app knows about every civilisation at startup (built by the
+ * `virtual:polity-index` plugin in vite.config.ts): everything except the
+ * checklist and the time series, plus a few values computed from them.
+ */
+export type PolitySummary = Omit<Polity, 'checklist' | 'series'> & {
+  /** Year of the checklist's peak period, if it is a single number. */
+  peakYear: number | null;
+  completion: ChecklistCompletion;
+};
+
+/** A civilisation with its full checklist loaded (see loadPolity). */
+export type FullPolity = PolitySummary & Polity;
+
 // ── Events & Links ───────────────────────────────────────────
 
 export type EventType = 'war' | 'invention' | 'person' | 'disaster' | 'trade' | 'culture';

@@ -1,4 +1,4 @@
-import { EVENTS, PEOPLE, PERSON_ROLES, POLITIES, POLITY_BY_ID, ROUTES, ROUTE_KINDS, formatSpan, formatYear } from './data';
+import { EVENTS, PEOPLE, PERSON_ROLES, POLITIES, POLITY_BY_ID, ROUTES, ROUTE_KINDS, formatSpan, formatYear, loadAllPolities } from './data';
 import type { KnownForKind } from '../types';
 import { CHECKLIST_SCHEMA } from './checklistSchema';
 
@@ -66,24 +66,40 @@ function buildIndex(): Doc[] {
       body: norm(`${r.description} ${r.goods ?? ''} ${ROUTE_KINDS[r.kind].label}`),
     });
   }
-  // Checklist answers (“El Niño” → Valdivia › Disasters). Data-quality notes are left out.
-  for (const p of POLITIES) {
-    for (const cat of CHECKLIST_SCHEMA) {
-      if (cat.key === 'dataQuality') continue;
-      for (const f of cat.fields) {
-        const it = (p.checklist[cat.key] as unknown as Record<string, { value: unknown } | undefined>)[f.key];
-        const text = it?.value == null ? '' : String(it.value);
-        if (!text.trim()) continue;
-        docs.push({
-          hit: { kind: 'fact', polityId: p.id, category: cat.key, title: `${p.name} · ${f.label}`, sub: cat.label, text },
-          title: '',
-          body: norm(text),
-        });
-      }
-    }
-  }
   return docs;
 }
+
+// Checklist answers (“El Niño” → Valdivia › Disasters) need every civilisation's full
+// file, so they are indexed separately once those have loaded. Data-quality notes are left out.
+let FACTS: Doc[] | null = null;
+let factsPromise: Promise<void> | null = null;
+
+/** Loads all checklists and indexes their answers (once). */
+export function loadFactIndex(): Promise<void> {
+  factsPromise ??= loadAllPolities().then((all) => {
+    const docs: Doc[] = [];
+    for (const p of all) {
+      for (const cat of CHECKLIST_SCHEMA) {
+        if (cat.key === 'dataQuality') continue;
+        for (const f of cat.fields) {
+          const it = (p.checklist[cat.key] as unknown as Record<string, { value: unknown } | undefined>)[f.key];
+          const text = it?.value == null ? '' : String(it.value);
+          if (!text.trim()) continue;
+          docs.push({
+            hit: { kind: 'fact', polityId: p.id, category: cat.key, title: `${p.name} · ${f.label}`, sub: cat.label, text },
+            title: '',
+            body: norm(text),
+          });
+        }
+      }
+    }
+    FACTS = docs;
+  });
+  factsPromise.catch(() => (factsPromise = null));
+  return factsPromise;
+}
+
+export const factIndexReady = () => FACTS !== null;
 
 let INDEX: Doc[] | null = null;
 
@@ -93,12 +109,17 @@ export function search(query: string): { polities: SearchHit[]; known: SearchHit
   const out = { polities: [] as SearchHit[], known: [] as SearchHit[], events: [] as SearchHit[], routes: [] as SearchHit[], people: [] as SearchHit[], facts: [] as SearchHit[] };
   if (!words.length) return out;
   INDEX ??= buildIndex();
-  for (const d of INDEX) {
+  // One word-start pattern per query word (not per document).
+  const starts = words.map((w) => new RegExp(`(^|[^a-z0-9])${w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}`));
+  const phrase = words.join(' ');
+  for (const d of FACTS ? [INDEX, FACTS] : [INDEX]) for (const doc of d) scoreDoc(doc);
+  function scoreDoc(d: Doc) {
     let score = 0;
     let all = true;
-    for (const w of words) {
+    for (let i = 0; i < words.length; i++) {
+      const w = words[i];
       if (d.title.startsWith(w)) score += 6;
-      else if (new RegExp(`(^|[^a-z0-9])${w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}`).test(d.title)) score += 4;
+      else if (starts[i].test(d.title)) score += 4;
       else if (d.title.includes(w)) score += 2;
       else if (d.body.includes(w)) score += 1;
       else {
@@ -106,9 +127,9 @@ export function search(query: string): { polities: SearchHit[]; known: SearchHit
         break;
       }
     }
-    if (!all) continue;
+    if (!all) return;
     // Whole phrase found together ranks higher (“el nino” beats “el … nino”).
-    if (words.length > 1 && d.body.includes(words.join(' '))) score += 2;
+    if (words.length > 1 && d.body.includes(phrase)) score += 2;
     const hit = { ...d.hit, score } as SearchHit;
     if (hit.kind === 'polity') out.polities.push(hit);
     else if (hit.kind === 'known') out.known.push(hit);
