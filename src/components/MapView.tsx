@@ -1,10 +1,15 @@
 import { useEffect, useRef, useState } from 'react';
-import maplibregl, { type GeoJSONSource, type MapGeoJSONFeature, type StyleSpecification } from 'maplibre-gl';
+import * as maplibregl from 'maplibre-gl';
+import type { GeoJSONSource, MapGeoJSONFeature, StyleSpecification } from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
+// MapLibre 6 runs its tile work in a separate worker file; tell it where the bundler put that file.
+import workerUrl from 'maplibre-gl/dist/maplibre-gl-worker.mjs?url';
 import type { FeatureCollection } from 'geojson';
 import type { BorderProps, Snapshot } from '../lib/borders';
 import { EVENT_TYPES, PERSON_ROLES, ROUTE_KINDS, formatYear } from '../lib/data';
 import type { HistoryEvent, HistoryRoute, Person, RouteKind } from '../types';
+
+maplibregl.setWorkerUrl(new URL(workerUrl, window.location.href).href);
 
 const BASE = import.meta.env.BASE_URL;
 const EMPTY: FeatureCollection = { type: 'FeatureCollection', features: [] };
