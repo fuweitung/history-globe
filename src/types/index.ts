@@ -268,3 +268,26 @@ export interface Person {
   source: string;
   image?: WikiImage;
 }
+
+// ── Stories (guided tours) ───────────────────────────────────
+
+export interface StoryStep {
+  title: string;
+  year: number;
+  text: string;
+  /** What to show: the map flies to the first of route, person, event, polity, center. */
+  polity?: string;
+  event?: string;
+  route?: string;
+  person?: string;
+  center?: [number, number];
+  zoom?: number;
+}
+
+export interface Story {
+  id: string;
+  title: string;
+  summary: string;
+  icon: string;
+  steps: StoryStep[];
+}

@@ -50,6 +50,7 @@ npm run fetch-borders -- --force # re-downloads everything
 - **Population charts:** dated population figures from each civilisation’s Wikipedia infobox (60 civilisations have them), drawn with ranges as whiskers; overlaid in Compare.
 - **Pictures:** a freely licensed picture for almost every civilisation and person (Known-for pictures can be added with `--known`), taken from the matching Wikipedia article but only if the file is on Wikimedia Commons with a free licence; every picture shows its author and licence and links to its Commons page. Refresh with `npm run fetch-images` (add `--known` for Known-for items). Data: `src/data/images.json`.
 - **People:** 115 famous people (rulers, thinkers, scientists, writers, explorers…) appear on the map while they were alive, with a panel for each (dates checked against Wikipedia; uncertain dates marked “c.”). Civilisation panels list their famous people; search finds them; toggle them in the Events menu. Data: `src/data/people.json`.
+- **Stories:** six guided tours (Where civilisation began, the Silk Road, Rise and fall of Rome, China’s dynastic cycle, Kingdoms of Southeast Asia, the Age of Exploration). Each step sets the year, flies the map and highlights what it talks about; use ← / → or Next. Open them from the book icon. Links like `?story=rome&step=3` open a step. Data: `src/data/stories.json` (easy to add more).
 - **Shareable links:** the URL keeps the year and the selection, e.g. `?year=1760&polity=qing-china`.
 - **Mobile:** the panel becomes a bottom sheet. Drag or tap the handle to resize it.
 
@@ -149,6 +150,11 @@ Each civilisation is described with the same 41 elements in 10 categories (geogr
 - The dataset has some naming quirks (e.g. "Zhoa" for the Shang/Zhou area, "Sui Empire" still used in 700). Strict `borderYears` windows keep these matched to the right civilisation, and map labels show our civilisation names for linked territories.
 
 ---
+
+### Checks
+
+- `npm test` runs the automated tests (time scale, search, border matching, charts).
+- `npm run validate-data` checks every data file, including that events, people, links and stories line up in time; deliberate exceptions are listed with reasons in `scripts/consistency-allow.json`. Add `-- --strict` to fail on any consistency issue.
 
 ## Roadmap (structure already in place)
 
