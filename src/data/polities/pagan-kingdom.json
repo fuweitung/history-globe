@@ -307,5 +307,19 @@
         "source": "Wikipedia: Pagan Kingdom (checked 6 Nov 2026)"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 1210,
+        "value": 1750000,
+        "low": 1500000,
+        "high": 2000000,
+        "certainty": "estimated"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Pagan Kingdom (infobox, checked 6 Nov 2026)"
+    ]
   }
 }

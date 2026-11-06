@@ -308,5 +308,27 @@
         "source": "Wikipedia: Ming dynasty (checked 5 Nov 2026)"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 1393,
+        "value": 65000000,
+        "certainty": "estimated"
+      },
+      {
+        "year": 1500,
+        "value": 125000000,
+        "certainty": "estimated"
+      },
+      {
+        "year": 1600,
+        "value": 160000000,
+        "certainty": "estimated"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Ming dynasty (infobox, checked 6 Nov 2026)"
+    ]
   }
 }

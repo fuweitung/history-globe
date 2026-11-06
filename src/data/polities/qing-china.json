@@ -283,5 +283,17 @@
         "year": null
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 1907,
+        "value": 426000000,
+        "certainty": "confirmed"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Qing dynasty (infobox, checked 6 Nov 2026)"
+    ]
   }
 }

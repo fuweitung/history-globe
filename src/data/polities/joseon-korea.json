@@ -307,5 +307,22 @@
         "source": "Wikipedia: Joseon (checked 6 Nov 2026)"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 1519,
+        "value": 3300000,
+        "certainty": "estimated"
+      },
+      {
+        "year": 1889,
+        "value": 16000000,
+        "certainty": "confirmed"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Joseon (infobox, checked 6 Nov 2026)"
+    ]
   }
 }

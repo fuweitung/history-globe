@@ -310,5 +310,27 @@
       "kind": "textile",
       "note": "Traditional cross-collared robes worn before the later áo dài."
     }
-  ]
+  ],
+  "series": {
+    "population": [
+      {
+        "year": 1200,
+        "value": 1200000,
+        "certainty": "estimated"
+      },
+      {
+        "year": 1400,
+        "value": 1600000,
+        "certainty": "estimated"
+      },
+      {
+        "year": 1539,
+        "value": 5625000,
+        "certainty": "estimated"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Đại Việt (infobox, checked 6 Nov 2026)"
+    ]
+  }
 }

@@ -313,5 +313,19 @@
       "kind": "textile",
       "note": "A rare purple dye from sea snails, a Phoenician speciality."
     }
-  ]
+  ],
+  "series": {
+    "population": [
+      {
+        "year": -222,
+        "value": 4000000,
+        "low": 3700000,
+        "high": 4300000,
+        "certainty": "estimated"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Ancient Carthage (infobox, checked 6 Nov 2026)"
+    ]
+  }
 }

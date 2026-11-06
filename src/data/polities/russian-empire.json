@@ -307,5 +307,22 @@
         "source": "Wikipedia: Russian Empire (checked 5 Nov 2026)"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 1897,
+        "value": 125640021,
+        "certainty": "confirmed"
+      },
+      {
+        "year": 1910,
+        "value": 161000000,
+        "certainty": "confirmed"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Russian Empire (infobox, checked 6 Nov 2026)"
+    ]
   }
 }

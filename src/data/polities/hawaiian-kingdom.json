@@ -311,5 +311,34 @@
         "source": "Wikipedia: Hawaiian Kingdom (checked 6 Nov 2026)"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 1780,
+        "value": 600000,
+        "low": 400000,
+        "high": 800000,
+        "certainty": "estimated"
+      },
+      {
+        "year": 1800,
+        "value": 250000,
+        "certainty": "confirmed"
+      },
+      {
+        "year": 1832,
+        "value": 130313,
+        "certainty": "confirmed"
+      },
+      {
+        "year": 1890,
+        "value": 89990,
+        "certainty": "confirmed"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Hawaiian Kingdom (infobox, checked 6 Nov 2026)"
+    ]
   }
 }

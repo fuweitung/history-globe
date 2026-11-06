@@ -296,5 +296,17 @@
         "source": "—"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": -25,
+        "value": 56800000,
+        "certainty": "estimated"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Roman Empire (infobox, checked 6 Nov 2026)"
+    ]
   }
 }

@@ -289,5 +289,20 @@
         "source": "—"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 2,
+        "value": 57671400,
+        "certainty": "estimated"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Han dynasty (infobox, checked 6 Nov 2026)"
+    ],
+    "notes": [
+      "Registered census of 2 CE."
+    ]
   }
 }

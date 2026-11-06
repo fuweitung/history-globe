@@ -309,5 +309,22 @@
         "source": "Wikipedia: United States (checked 5 Nov 2026)"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 2020,
+        "value": 331449281,
+        "certainty": "confirmed"
+      },
+      {
+        "year": 2025,
+        "value": 341784857,
+        "certainty": "confirmed"
+      }
+    ],
+    "sources": [
+      "Wikipedia: United States (infobox, checked 6 Nov 2026)"
+    ]
   }
 }

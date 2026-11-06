@@ -313,5 +313,27 @@
         "source": "Wikipedia: Polish–Lithuanian Commonwealth (checked 6 Nov 2026)"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 1582,
+        "value": 8000000,
+        "certainty": "estimated"
+      },
+      {
+        "year": 1618,
+        "value": 12000000,
+        "certainty": "estimated"
+      },
+      {
+        "year": 1700,
+        "value": 8000000,
+        "certainty": "estimated"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Polish–Lithuanian Commonwealth (infobox, checked 6 Nov 2026)"
+    ]
   }
 }

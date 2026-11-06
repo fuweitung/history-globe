@@ -312,5 +312,17 @@
       "kind": "art",
       "note": "Beads with coded colours."
     }
-  ]
+  ],
+  "series": {
+    "population": [
+      {
+        "year": 1828,
+        "value": 250000,
+        "certainty": "confirmed"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Zulu Kingdom (infobox, checked 6 Nov 2026)"
+    ]
+  }
 }

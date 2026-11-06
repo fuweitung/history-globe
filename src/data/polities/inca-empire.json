@@ -314,5 +314,18 @@
   "borderYears": [
     1438,
     1535
-  ]
+  ],
+  "series": {
+    "population": [
+      {
+        "year": 1520,
+        "value": 12000000,
+        "certainty": "estimated",
+        "approxYear": true
+      }
+    ],
+    "sources": [
+      "Wikipedia: Inca Empire (infobox, checked 6 Nov 2026)"
+    ]
+  }
 }

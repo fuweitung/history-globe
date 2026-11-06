@@ -306,5 +306,17 @@
         "source": "Wikipedia: China (checked 6 Nov 2026)"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 2025,
+        "value": 1404890000,
+        "certainty": "confirmed"
+      }
+    ],
+    "sources": [
+      "Wikipedia: China (infobox, checked 6 Nov 2026)"
+    ]
   }
 }

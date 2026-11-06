@@ -304,5 +304,22 @@
         "source": "Wikipedia: Tiwanaku (checked 6 Nov 2026)"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 800,
+        "value": 15000,
+        "low": 10000,
+        "high": 20000,
+        "certainty": "estimated"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Tiwanaku (infobox, checked 6 Nov 2026)"
+    ],
+    "notes": [
+      "People living at the main site only."
+    ]
   }
 }

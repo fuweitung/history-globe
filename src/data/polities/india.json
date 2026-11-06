@@ -306,5 +306,27 @@
         "source": "Wikipedia: India (checked 6 Nov 2026)"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 1951,
+        "value": 361000000,
+        "certainty": "confirmed"
+      },
+      {
+        "year": 2011,
+        "value": 1210854977,
+        "certainty": "confirmed"
+      },
+      {
+        "year": 2026,
+        "value": 1480000000,
+        "certainty": "confirmed"
+      }
+    ],
+    "sources": [
+      "Wikipedia: India (infobox, checked 6 Nov 2026)"
+    ]
   }
 }

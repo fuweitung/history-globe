@@ -306,5 +306,20 @@
         "source": "Wikipedia: Maurya Empire (checked 6 Nov 2026)"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": -250,
+        "value": 22500000,
+        "low": 15000000,
+        "high": 30000000,
+        "certainty": "estimated",
+        "approxYear": true
+      }
+    ],
+    "sources": [
+      "Wikipedia: Maurya Empire (infobox, checked 6 Nov 2026)"
+    ]
   }
 }

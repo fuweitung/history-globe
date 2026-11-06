@@ -301,5 +301,19 @@
         "source": "Wikipedia: Safavid Iran (checked 5 Nov 2026)"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 1650,
+        "value": 9000000,
+        "low": 8000000,
+        "high": 10000000,
+        "certainty": "estimated"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Safavid Iran (infobox, checked 6 Nov 2026)"
+    ]
   }
 }

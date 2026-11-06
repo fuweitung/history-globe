@@ -1,0 +1,1120 @@
+[
+ {
+  "id": "silk-road",
+  "name": "Silk Road",
+  "kind": "trade",
+  "from": -130,
+  "to": 1453,
+  "paths": [
+   [
+    [
+     108.94,
+     34.34
+    ],
+    [
+     103.8,
+     36.06
+    ],
+    [
+     100.45,
+     38.93
+    ],
+    [
+     94.66,
+     40.14
+    ],
+    [
+     89.19,
+     42.95
+    ],
+    [
+     82.0,
+     41.7
+    ],
+    [
+     75.99,
+     39.47
+    ],
+    [
+     71.5,
+     40.4
+    ],
+    [
+     66.97,
+     39.65
+    ],
+    [
+     64.42,
+     39.77
+    ],
+    [
+     61.83,
+     37.66
+    ],
+    [
+     59.6,
+     36.3
+    ],
+    [
+     51.4,
+     35.7
+    ],
+    [
+     44.58,
+     33.09
+    ],
+    [
+     38.3,
+     34.55
+    ],
+    [
+     36.16,
+     36.2
+    ],
+    [
+     28.98,
+     41.01
+    ]
+   ]
+  ],
+  "description": "A network of overland routes linking China with Central Asia, Persia and the Mediterranean, opened up by Han envoys from about 130 BCE. Silk, spices, horses and paper moved along it, and so did religions such as Buddhism and diseases such as plague.",
+  "goods": "Silk, horses, spices, paper, glass, silver",
+  "relatedPolityIds": [
+   "han-china",
+   "tang",
+   "parthian-empire",
+   "kushan-empire",
+   "roman-empire",
+   "sasanian",
+   "mongol-empire",
+   "yuan",
+   "timurid-empire",
+   "byzantine-empire"
+  ],
+  "source": "Wikipedia: Silk Road (checked 6 Nov 2026)"
+ },
+ {
+  "id": "maritime-silk-road",
+  "name": "Maritime Silk Road (Indian Ocean)",
+  "kind": "trade",
+  "from": -200,
+  "to": 1499,
+  "paths": [
+   [
+    [
+     113.26,
+     23.13
+    ],
+    [
+     109.2,
+     13.9
+    ],
+    [
+     104.5,
+     8.0
+    ],
+    [
+     101.0,
+     2.6
+    ],
+    [
+     96.0,
+     5.5
+    ],
+    [
+     80.2,
+     6.0
+    ],
+    [
+     75.78,
+     11.25
+    ],
+    [
+     66.0,
+     20.0
+    ],
+    [
+     56.45,
+     27.1
+    ]
+   ],
+   [
+    [
+     75.78,
+     11.25
+    ],
+    [
+     60.0,
+     14.0
+    ],
+    [
+     45.0,
+     12.8
+    ],
+    [
+     43.4,
+     13.0
+    ],
+    [
+     38.5,
+     19.0
+    ],
+    [
+     35.5,
+     23.9
+    ]
+   ],
+   [
+    [
+     45.0,
+     12.8
+    ],
+    [
+     48.0,
+     4.0
+    ],
+    [
+     40.12,
+     -3.22
+    ],
+    [
+     39.3,
+     -6.8
+    ]
+   ]
+  ],
+  "description": "Sea routes across the Indian Ocean and South China Sea, driven by the monsoon winds. They linked China, Southeast Asia, India, Arabia and East Africa from at least the 2nd century BCE.",
+  "goods": "Spices, porcelain, silk, cotton cloth, gold, ivory",
+  "relatedPolityIds": [
+   "srivijaya",
+   "chola-empire",
+   "song",
+   "ming-china",
+   "melaka-sultanate",
+   "abbasid-caliphate",
+   "majapahit"
+  ],
+  "source": "Wikipedia: Maritime Silk Road (checked 6 Nov 2026)"
+ },
+ {
+  "id": "trans-saharan",
+  "name": "Trans-Saharan trade",
+  "kind": "trade",
+  "from": 700,
+  "to": 1620,
+  "paths": [
+   [
+    [
+     -5.0,
+     34.03
+    ],
+    [
+     -4.27,
+     31.28
+    ],
+    [
+     -4.9,
+     23.6
+    ],
+    [
+     -3.0,
+     16.77
+    ],
+    [
+     -0.04,
+     16.27
+    ]
+   ],
+   [
+    [
+     -4.27,
+     31.28
+    ],
+    [
+     -7.0,
+     22.0
+    ],
+    [
+     -7.98,
+     15.66
+    ],
+    [
+     -8.3,
+     11.4
+    ]
+   ]
+  ],
+  "description": "Camel caravans crossed the Sahara between North Africa and West Africa, trading salt and goods for gold and enslaved people. Trade peaked from the 8th to the early 17th century and helped make Ghana, Mali and Songhai rich.",
+  "goods": "Gold, salt, enslaved people, cloth, books",
+  "relatedPolityIds": [
+   "ghana-empire",
+   "mali-empire",
+   "songhai-empire",
+   "almohad-caliphate",
+   "fatimid-caliphate"
+  ],
+  "source": "Wikipedia: Trans-Saharan trade (checked 6 Nov 2026)"
+ },
+ {
+  "id": "incense-route",
+  "name": "Incense Route",
+  "kind": "trade",
+  "from": -300,
+  "to": 200,
+  "paths": [
+   [
+    [
+     45.3,
+     15.4
+    ],
+    [
+     44.2,
+     15.35
+    ],
+    [
+     42.5,
+     17.5
+    ],
+    [
+     40.0,
+     21.4
+    ],
+    [
+     39.6,
+     24.5
+    ],
+    [
+     37.0,
+     27.6
+    ],
+    [
+     35.44,
+     30.33
+    ],
+    [
+     34.45,
+     31.5
+    ]
+   ]
+  ],
+  "description": "Caravan routes carrying frankincense and myrrh from southern Arabia north to the Mediterranean. Petra grew rich on this trade, which flourished from roughly the 3rd century BCE to the 2nd century CE.",
+  "goods": "Frankincense, myrrh, spices",
+  "relatedPolityIds": [
+   "roman-empire",
+   "seleucid-empire"
+  ],
+  "source": "Wikipedia: Incense trade route (checked 6 Nov 2026)"
+ },
+ {
+  "id": "royal-road",
+  "name": "Royal Road (Persia)",
+  "kind": "trade",
+  "from": -500,
+  "to": -330,
+  "paths": [
+   [
+    [
+     28.04,
+     38.48
+    ],
+    [
+     32.86,
+     39.93
+    ],
+    [
+     38.3,
+     37.6
+    ],
+    [
+     43.15,
+     36.36
+    ],
+    [
+     45.5,
+     34.5
+    ],
+    [
+     48.25,
+     32.19
+    ],
+    [
+     52.89,
+     29.93
+    ]
+   ]
+  ],
+  "description": "A road of about 2,500 km built under Darius I, from Sardis to Susa, with relay stations so royal messengers could cross the empire in days.",
+  "goods": "Royal messages, tribute, armies",
+  "relatedPolityIds": [
+   "achaemenid-persia"
+  ],
+  "source": "Wikipedia: Royal Road (checked 6 Nov 2026)"
+ },
+ {
+  "id": "amber-road",
+  "name": "Amber Road",
+  "kind": "trade",
+  "from": -1500,
+  "to": 400,
+  "datesApproximate": true,
+  "paths": [
+   [
+    [
+     21.0,
+     54.9
+    ],
+    [
+     18.6,
+     54.35
+    ],
+    [
+     17.0,
+     51.1
+    ],
+    [
+     16.6,
+     48.15
+    ],
+    [
+     14.5,
+     46.05
+    ],
+    [
+     13.37,
+     45.65
+    ],
+    [
+     12.33,
+     45.44
+    ]
+   ]
+  ],
+  "description": "A trade route carrying amber from the Baltic coast south to the Mediterranean, used from the Bronze Age and busiest in Roman times.",
+  "goods": "Amber, furs, metal goods",
+  "relatedPolityIds": [
+   "roman-empire"
+  ],
+  "source": "Wikipedia: Amber Road (dates from general references; not stated in the summary checked 6 Nov 2026)"
+ },
+ {
+  "id": "varangian-route",
+  "name": "Route from the Varangians to the Greeks",
+  "kind": "trade",
+  "from": 800,
+  "to": 1200,
+  "datesApproximate": true,
+  "paths": [
+   [
+    [
+     17.54,
+     59.33
+    ],
+    [
+     24.0,
+     59.8
+    ],
+    [
+     29.9,
+     60.0
+    ],
+    [
+     31.27,
+     58.52
+    ],
+    [
+     32.05,
+     54.78
+    ],
+    [
+     30.52,
+     50.45
+    ],
+    [
+     32.0,
+     46.6
+    ],
+    [
+     28.98,
+     41.01
+    ]
+   ]
+  ],
+  "description": "A river and portage route from Scandinavia across the lands of the Rus’ to Constantinople, used by Norse traders and warriors.",
+  "goods": "Furs, slaves, silver, silk, wine",
+  "relatedPolityIds": [
+   "viking-age-norse",
+   "kievan-rus",
+   "byzantine-empire"
+  ],
+  "source": "Wikipedia: Trade route from the Varangians to the Greeks (dates from general references; not stated in the summary checked 6 Nov 2026)"
+ },
+ {
+  "id": "norse-atlantic",
+  "name": "Norse voyages across the North Atlantic",
+  "kind": "voyage",
+  "from": 870,
+  "to": 1021,
+  "paths": [
+   [
+    [
+     5.32,
+     60.39
+    ],
+    [
+     -6.9,
+     62.0
+    ],
+    [
+     -21.9,
+     64.15
+    ],
+    [
+     -45.5,
+     61.15
+    ],
+    [
+     -55.5,
+     51.6
+    ]
+   ]
+  ],
+  "description": "Norse settlers reached Iceland (c. 870s), Greenland (late 10th century) and briefly North America at L’Anse aux Meadows (dated to 1021).",
+  "goods": "Walrus ivory, furs, timber",
+  "relatedPolityIds": [
+   "viking-age-norse"
+  ],
+  "source": "Wikipedia: Norse colonization of North America (checked 6 Nov 2026)"
+ },
+ {
+  "id": "austronesian-expansion",
+  "name": "Austronesian expansion",
+  "kind": "migration",
+  "from": -3000,
+  "to": 600,
+  "datesApproximate": true,
+  "paths": [
+   [
+    [
+     121.0,
+     23.7
+    ],
+    [
+     121.0,
+     14.6
+    ],
+    [
+     120.0,
+     -2.0
+    ],
+    [
+     130.0,
+     -3.0
+    ],
+    [
+     150.5,
+     -3.5
+    ],
+    [
+     160.0,
+     -9.5
+    ],
+    [
+     168.0,
+     -17.0
+    ],
+    [
+     178.0,
+     -17.8
+    ],
+    [
+     184.8,
+     -21.1
+    ],
+    [
+     188.2,
+     -13.8
+    ]
+   ],
+   [
+    [
+     120.0,
+     -2.0
+    ],
+    [
+     110.0,
+     -7.0
+    ],
+    [
+     90.0,
+     -10.0
+    ],
+    [
+     70.0,
+     -14.0
+    ],
+    [
+     47.0,
+     -18.9
+    ]
+   ]
+  ],
+  "description": "Seafaring Austronesian peoples spread from Taiwan through the Philippines and Indonesia into the Pacific (reaching Tonga and Samoa) and west across the Indian Ocean to Madagascar, using outrigger canoes.",
+  "goods": "Outrigger canoes, crops, pottery (Lapita)",
+  "relatedPolityIds": [
+   "tui-tonga-empire",
+   "srivijaya"
+  ],
+  "source": "Wikipedia: Austronesian peoples (dates from general references; not stated in the summary checked 6 Nov 2026)"
+ },
+ {
+  "id": "polynesian-settlement",
+  "name": "Polynesian voyages to the far Pacific",
+  "kind": "voyage",
+  "from": 900,
+  "to": 1300,
+  "datesApproximate": true,
+  "paths": [
+   [
+    [
+     188.2,
+     -13.8
+    ],
+    [
+     210.6,
+     -17.65
+    ],
+    [
+     204.5,
+     19.6
+    ]
+   ],
+   [
+    [
+     210.6,
+     -17.65
+    ],
+    [
+     250.65,
+     -27.1
+    ]
+   ],
+   [
+    [
+     210.6,
+     -17.65
+    ],
+    [
+     174.8,
+     -36.8
+    ]
+   ]
+  ],
+  "description": "Polynesian navigators in double-hulled canoes settled the far corners of the Polynesian Triangle: Hawaiʻi, Rapa Nui (Easter Island) and Aotearoa (New Zealand), using stars, swells and birds to find land.",
+  "goods": "Double-hulled canoes, crops, animals",
+  "relatedPolityIds": [
+   "tui-tonga-empire",
+   "hawaiian-kingdom"
+  ],
+  "source": "Wikipedia: Polynesia (dates from general references; not stated in the summary checked 6 Nov 2026)"
+ },
+ {
+  "id": "bantu-expansion",
+  "name": "Bantu expansion",
+  "kind": "migration",
+  "from": -1500,
+  "to": 500,
+  "datesApproximate": true,
+  "paths": [
+   [
+    [
+     11.5,
+     5.5
+    ],
+    [
+     18.0,
+     0.5
+    ],
+    [
+     25.0,
+     -2.0
+    ],
+    [
+     32.0,
+     -1.0
+    ],
+    [
+     35.0,
+     -8.0
+    ],
+    [
+     32.0,
+     -17.0
+    ],
+    [
+     30.0,
+     -24.0
+    ]
+   ],
+   [
+    [
+     18.0,
+     0.5
+    ],
+    [
+     15.0,
+     -8.0
+    ],
+    [
+     15.0,
+     -12.0
+    ],
+    [
+     18.0,
+     -20.0
+    ]
+   ]
+  ],
+  "description": "Over many centuries, Bantu-speaking farmers spread from West-Central Africa across much of central, eastern and southern Africa, bringing farming and ironworking.",
+  "goods": "Farming, ironworking, languages",
+  "relatedPolityIds": [
+   "great-zimbabwe",
+   "kingdom-of-kongo"
+  ],
+  "source": "Wikipedia: Bantu expansion (dates from general references; not stated in the summary checked 6 Nov 2026)"
+ },
+ {
+  "id": "zheng-he",
+  "name": "Zheng He’s treasure voyages",
+  "kind": "voyage",
+  "from": 1405,
+  "to": 1433,
+  "paths": [
+   [
+    [
+     118.78,
+     32.06
+    ],
+    [
+     119.3,
+     26.08
+    ],
+    [
+     109.2,
+     13.9
+    ],
+    [
+     106.8,
+     -6.2
+    ],
+    [
+     102.25,
+     2.2
+    ],
+    [
+     95.3,
+     5.55
+    ],
+    [
+     80.2,
+     6.0
+    ],
+    [
+     75.78,
+     11.25
+    ],
+    [
+     56.45,
+     27.1
+    ]
+   ],
+   [
+    [
+     75.78,
+     11.25
+    ],
+    [
+     50.0,
+     10.0
+    ],
+    [
+     45.3,
+     2.0
+    ],
+    [
+     40.12,
+     -3.22
+    ]
+   ]
+  ],
+  "description": "Seven Ming fleets of huge treasure ships sailed as far as Arabia and East Africa between 1405 and 1433.",
+  "goods": "Silk, porcelain; gifts and tribute (including a giraffe)",
+  "relatedPolityIds": [
+   "ming-china",
+   "melaka-sultanate"
+  ],
+  "source": "Wikipedia: Ming treasure voyages (checked 6 Nov 2026)"
+ },
+ {
+  "id": "da-gama",
+  "name": "Vasco da Gama’s voyage to India",
+  "kind": "voyage",
+  "from": 1497,
+  "to": 1499,
+  "datesApproximate": true,
+  "paths": [
+   [
+    [
+     -9.14,
+     38.72
+    ],
+    [
+     -17.0,
+     28.0
+    ],
+    [
+     -23.5,
+     15.0
+    ],
+    [
+     -20.0,
+     -10.0
+    ],
+    [
+     0.0,
+     -30.0
+    ],
+    [
+     18.47,
+     -34.36
+    ],
+    [
+     32.0,
+     -29.0
+    ],
+    [
+     40.7,
+     -15.0
+    ],
+    [
+     40.12,
+     -3.22
+    ],
+    [
+     60.0,
+     8.0
+    ],
+    [
+     75.78,
+     11.25
+    ]
+   ]
+  ],
+  "description": "Vasco da Gama sailed round the Cape of Good Hope to Calicut, opening a direct sea route from Europe to Asia.",
+  "goods": "Pepper, spices",
+  "relatedPolityIds": [
+   "portuguese-empire"
+  ],
+  "source": "Wikipedia: Vasco da Gama (dates from general references; not stated in the summary checked 6 Nov 2026)"
+ },
+ {
+  "id": "columbus",
+  "name": "Columbus’s voyages",
+  "kind": "voyage",
+  "from": 1492,
+  "to": 1504,
+  "paths": [
+   [
+    [
+     -6.89,
+     37.23
+    ],
+    [
+     -17.3,
+     28.1
+    ],
+    [
+     -40.0,
+     26.0
+    ],
+    [
+     -74.5,
+     24.05
+    ],
+    [
+     -75.8,
+     21.0
+    ],
+    [
+     -72.3,
+     19.7
+    ]
+   ]
+  ],
+  "description": "Columbus crossed the Atlantic for Spain in 1492, reaching the Bahamas and Hispaniola; three more voyages followed to 1504. This began lasting contact between Europe and the Americas.",
+  "goods": "Gold; the start of the “Columbian exchange” of crops, animals and diseases",
+  "relatedPolityIds": [
+   "spanish-empire"
+  ],
+  "source": "Wikipedia: Voyages of Christopher Columbus (checked 6 Nov 2026)"
+ },
+ {
+  "id": "manila-galleon",
+  "name": "Manila galleons",
+  "kind": "trade",
+  "from": 1565,
+  "to": 1815,
+  "paths": [
+   [
+    [
+     120.98,
+     14.6
+    ],
+    [
+     130.0,
+     25.0
+    ],
+    [
+     145.0,
+     35.0
+    ],
+    [
+     180.0,
+     40.0
+    ],
+    [
+     215.0,
+     38.0
+    ],
+    [
+     238.0,
+     34.0
+    ],
+    [
+     250.0,
+     23.0
+    ],
+    [
+     260.1,
+     16.85
+    ]
+   ],
+   [
+    [
+     260.1,
+     16.85
+    ],
+    [
+     220.0,
+     13.0
+    ],
+    [
+     180.0,
+     13.0
+    ],
+    [
+     145.0,
+     13.4
+    ],
+    [
+     120.98,
+     14.6
+    ]
+   ]
+  ],
+  "description": "Spanish galleons crossed the Pacific between Manila and Acapulco once or twice a year for 250 years, swapping American silver for Chinese silk and porcelain: the first lasting trade link across the Pacific.",
+  "goods": "Silver, silk, porcelain, spices",
+  "relatedPolityIds": [
+   "spanish-empire",
+   "ming-china",
+   "qing-china"
+  ],
+  "source": "Wikipedia: Manila galleon (checked 6 Nov 2026)"
+ },
+ {
+  "id": "atlantic-slave-trade",
+  "name": "Atlantic slave trade",
+  "kind": "forced",
+  "from": 1526,
+  "to": 1867,
+  "paths": [
+   [
+    [
+     -2.98,
+     53.4
+    ],
+    [
+     -9.14,
+     38.72
+    ],
+    [
+     -17.0,
+     14.7
+    ],
+    [
+     -1.35,
+     5.08
+    ],
+    [
+     3.4,
+     6.45
+    ],
+    [
+     13.23,
+     -8.84
+    ]
+   ],
+   [
+    [
+     -1.35,
+     5.08
+    ],
+    [
+     -30.0,
+     0.0
+    ],
+    [
+     -38.5,
+     -12.97
+    ]
+   ],
+   [
+    [
+     3.4,
+     6.45
+    ],
+    [
+     -40.0,
+     10.0
+    ],
+    [
+     -76.8,
+     18.0
+    ],
+    [
+     -79.9,
+     32.78
+    ]
+   ]
+  ],
+  "description": "From the 16th to the 19th century about 12.5 million enslaved Africans were forcibly shipped across the Atlantic to the Americas, mostly to Brazil and the Caribbean. Many died on the crossing (the “Middle Passage”).",
+  "goods": "Enslaved people; sugar, tobacco and cotton grown by their forced labour",
+  "relatedPolityIds": [
+   "portuguese-empire",
+   "british-empire",
+   "spanish-empire",
+   "dutch-republic",
+   "kingdom-of-kongo",
+   "kingdom-of-benin",
+   "ashanti-empire"
+  ],
+  "source": "Wikipedia: Atlantic slave trade (checked 6 Nov 2026)"
+ },
+ {
+  "id": "inca-roads",
+  "name": "Qhapaq Ñan (Inca road system)",
+  "kind": "trade",
+  "from": 1438,
+  "to": 1533,
+  "datesApproximate": true,
+  "paths": [
+   [
+    [
+     -78.5,
+     -0.22
+    ],
+    [
+     -78.9,
+     -2.9
+    ],
+    [
+     -78.5,
+     -7.16
+    ],
+    [
+     -77.5,
+     -9.5
+    ],
+    [
+     -74.2,
+     -13.16
+    ],
+    [
+     -71.97,
+     -13.53
+    ],
+    [
+     -69.3,
+     -15.8
+    ],
+    [
+     -68.1,
+     -16.5
+    ],
+    [
+     -66.0,
+     -22.0
+    ],
+    [
+     -68.8,
+     -32.9
+    ],
+    [
+     -70.65,
+     -33.45
+    ]
+   ]
+  ],
+  "description": "About 40,000 km of roads tied the Inca Empire together, with rope bridges, waystations and relay runners (chasquis).",
+  "goods": "Messages, armies, food from state storehouses",
+  "relatedPolityIds": [
+   "inca-empire"
+  ],
+  "source": "Wikipedia: Inca road system (dates from general references; not stated in the summary checked 6 Nov 2026)"
+ },
+ {
+  "id": "hun-migration",
+  "name": "Hun migration into Europe",
+  "kind": "migration",
+  "from": 370,
+  "to": 453,
+  "paths": [
+   [
+    [
+     50.0,
+     47.0
+    ],
+    [
+     45.0,
+     48.0
+    ],
+    [
+     34.0,
+     46.5
+    ],
+    [
+     28.0,
+     46.0
+    ],
+    [
+     19.5,
+     47.0
+    ],
+    [
+     10.0,
+     48.5
+    ],
+    [
+     4.4,
+     48.9
+    ]
+   ]
+  ],
+  "description": "The Huns reached the Volga by 370 and moved west, pushing Goths and other peoples into the Roman Empire; under Attila they invaded Gaul in 451.",
+  "goods": "Raids and tribute",
+  "relatedPolityIds": [
+   "hunnic-empire",
+   "roman-empire"
+  ],
+  "source": "Wikipedia: Huns (checked 6 Nov 2026)"
+ }
+]

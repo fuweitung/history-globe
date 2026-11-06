@@ -111,6 +111,11 @@ export type CategoryKey = keyof Checklist;
 export interface SeriesPoint {
   year: number;
   value: number;
+  /** Range when the source gives one (value is then the midpoint). */
+  low?: number;
+  high?: number;
+  /** True when the source gives only a century, so the year is a midpoint. */
+  approxYear?: boolean;
   certainty?: Certainty;
 }
 export interface PolitySeries {
@@ -118,6 +123,8 @@ export interface PolitySeries {
   territoryKm2?: SeriesPoint[];
   gdpPerCapita?: SeriesPoint[];
   sources?: string[];
+  /** Caveats about what the figures cover. */
+  notes?: string[];
 }
 
 /** Kinds of signature things a civilisation is remembered for. */
@@ -203,4 +210,23 @@ export interface PolityLink {
   relation: LinkRelation;
   year?: number;
   note?: string;
+}
+
+// ── Routes (trade, voyages, migrations) ──────────────────────
+
+export type RouteKind = 'trade' | 'voyage' | 'migration' | 'forced';
+
+export interface HistoryRoute {
+  id: string;
+  name: string;
+  kind: RouteKind;
+  from: number;
+  to: number;
+  datesApproximate?: boolean;
+  /** One or more polylines of [lng, lat]; longitudes may exceed ±180 to cross the Pacific. */
+  paths: [number, number][][];
+  description: string;
+  goods?: string;
+  relatedPolityIds: string[];
+  source: string;
 }

@@ -304,5 +304,22 @@
         "source": "Wikipedia: Malaysia (checked 5 Nov 2026)"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 2020,
+        "value": 32447385,
+        "certainty": "confirmed"
+      },
+      {
+        "year": 2026,
+        "value": 34374300,
+        "certainty": "confirmed"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Malaysia (infobox, checked 6 Nov 2026)"
+    ]
   }
 }

@@ -306,5 +306,32 @@
         "source": "Wikipedia: Nguyễn dynasty (checked 5 Nov 2026)"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 1830,
+        "value": 10500000,
+        "certainty": "confirmed"
+      },
+      {
+        "year": 1858,
+        "value": 12031000,
+        "certainty": "confirmed"
+      },
+      {
+        "year": 1890,
+        "value": 14752000,
+        "certainty": "confirmed"
+      },
+      {
+        "year": 1942,
+        "value": 25552000,
+        "certainty": "confirmed"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Nguyễn dynasty (infobox, checked 6 Nov 2026)"
+    ]
   }
 }

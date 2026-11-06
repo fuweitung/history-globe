@@ -313,5 +313,18 @@
         "source": "Wikipedia: Tibetan Empire (checked 6 Nov 2026)"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 750,
+        "value": 10000000,
+        "certainty": "estimated",
+        "approxYear": true
+      }
+    ],
+    "sources": [
+      "Wikipedia: Tibetan Empire (infobox, checked 6 Nov 2026)"
+    ]
   }
 }

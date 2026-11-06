@@ -306,5 +306,32 @@
         "source": "Wikipedia: Empire of Brazil (checked 6 Nov 2026)"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 1823,
+        "value": 4000000,
+        "certainty": "confirmed"
+      },
+      {
+        "year": 1854,
+        "value": 7000700,
+        "certainty": "confirmed"
+      },
+      {
+        "year": 1872,
+        "value": 9930478,
+        "certainty": "confirmed"
+      },
+      {
+        "year": 1890,
+        "value": 14333915,
+        "certainty": "confirmed"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Empire of Brazil (infobox, checked 6 Nov 2026)"
+    ]
   }
 }

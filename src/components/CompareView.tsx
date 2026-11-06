@@ -4,7 +4,7 @@ import { ERAS, LINKS, MAX_YEAR, POLITIES, POLITY_BY_ID, formatSpan, formatYear }
 import type { ChecklistItem, LinkRelation, Polity } from '../types';
 import { CertaintyBadge } from './ChecklistCategory';
 import { KIND_META } from './PolityDetail';
-import TerritoryChart, { SERIES_COLORS, TERRITORY } from './TerritoryChart';
+import TerritoryChart, { SERIES_COLORS, TERRITORY, axisPeople, formatPeople, populationOf } from './TerritoryChart';
 
 interface Props {
   a: string | null;
@@ -200,6 +200,10 @@ function Overview({ A, B, onOpenPolity, onJumpToYear }: { A: Polity; B: Polity; 
       <h3 className="mt-5 text-[11px] font-semibold tracking-wider text-parchment-300 uppercase">Territory on the map</h3>
       <TerritoryCompare A={A} B={B} lo={lo} hi={hi} onJumpToYear={onJumpToYear} />
 
+      {/* Population */}
+      <h3 className="mt-5 text-[11px] font-semibold tracking-wider text-parchment-300 uppercase">Population</h3>
+      <PopulationCompare A={A} B={B} lo={lo} hi={hi} onJumpToYear={onJumpToYear} />
+
       {/* Known for */}
       <h3 className="mt-5 text-[11px] font-semibold tracking-wider text-parchment-300 uppercase">Known for</h3>
       <div className="mt-2 grid grid-cols-2 gap-2">
@@ -227,14 +231,6 @@ function TerritoryCompare({ A, B, lo, hi, onJumpToYear }: { A: Polity; B: Polity
   const pad = Math.max(5, (hi - lo) * 0.03);
   return (
     <div className="mt-1.5">
-      <ul className="mb-1.5 flex flex-wrap gap-x-4 gap-y-1 text-[11px] text-parchment-200" aria-label="Legend">
-        {[A, B].map((p) => (
-          <li key={p.id} className="flex items-center gap-1.5">
-            <span className="h-0.5 w-4 rounded-full" style={{ background: p.color }} aria-hidden="true" />
-            {p.name}
-          </li>
-        ))}
-      </ul>
       <TerritoryChart
         series={[
           { id: A.id, name: A.name, color: A.color!, points: sA },
@@ -248,6 +244,31 @@ function TerritoryCompare({ A, B, lo, hi, onJumpToYear }: { A: Polity; B: Polity
       />
       {missing.length === 1 && <p className="mt-1 text-[11px] text-parchment-400">{missing[0].name} has no shape in the border maps, so only {missing[0].id === A.id ? B.name : A.name} is drawn.</p>}
       <p className="mt-1 text-[10px] text-parchment-400">Measured from the historical-basemaps snapshots; approximate. Very different time periods share one axis, so a long span compresses each curve.</p>
+    </div>
+  );
+}
+
+function PopulationCompare({ A, B, lo, hi, onJumpToYear }: { A: Polity; B: Polity; lo: number; hi: number; onJumpToYear: (y: number) => void }) {
+  const a = populationOf(A);
+  const b = populationOf(B);
+  if (!a.pts.length && !b.pts.length) return <p className="mt-1.5 text-xs text-parchment-400">Neither has a dated population figure in the sources checked.</p>;
+  const pad = Math.max(5, (hi - lo) * 0.03);
+  return (
+    <div className="mt-1.5">
+      <TerritoryChart
+        series={[
+          { id: A.id, name: A.name, color: A.color!, points: a.pts, ranges: a.ranges },
+          { id: B.id, name: B.name, color: B.color!, points: b.pts, ranges: b.ranges },
+        ]}
+        domain={[lo - pad, Math.min(hi, MAX_YEAR) + pad]}
+        year={NaN}
+        onJumpToYear={onJumpToYear}
+        height={170}
+        label={`Population of ${A.name} and ${B.name}`}
+        formatValue={formatPeople}
+        formatAxis={axisPeople}
+      />
+      <p className="mt-1 text-[10px] text-parchment-400">Dated estimates from Wikipedia infoboxes; whiskers show ranges. A single figure appears as one dot.</p>
     </div>
   );
 }

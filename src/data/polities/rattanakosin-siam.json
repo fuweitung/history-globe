@@ -307,5 +307,27 @@
         "source": "Wikipedia: Rattanakosin Kingdom (checked 5 Nov 2026)"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 1805,
+        "value": 5000000,
+        "certainty": "confirmed"
+      },
+      {
+        "year": 1893,
+        "value": 6000000,
+        "certainty": "confirmed"
+      },
+      {
+        "year": 1929,
+        "value": 11506207,
+        "certainty": "confirmed"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Rattanakosin Kingdom (1782–1932) (infobox, checked 6 Nov 2026)"
+    ]
   }
 }

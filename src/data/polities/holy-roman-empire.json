@@ -312,5 +312,22 @@
         "source": "Wikipedia: Holy Roman Empire (checked 5 Nov 2026)"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 1700,
+        "value": 23000000,
+        "certainty": "estimated"
+      },
+      {
+        "year": 1800,
+        "value": 29000000,
+        "certainty": "confirmed"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Holy Roman Empire (infobox, checked 6 Nov 2026)"
+    ]
   }
 }

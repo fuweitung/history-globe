@@ -305,5 +305,20 @@
       "kind": "troops",
       "note": "Mounted warriors."
     }
-  ]
+  ],
+  "series": {
+    "population": [
+      {
+        "year": 850,
+        "value": 15000000,
+        "low": 10000000,
+        "high": 20000000,
+        "certainty": "estimated",
+        "approxYear": true
+      }
+    ],
+    "sources": [
+      "Wikipedia: Carolingian Empire (infobox, checked 6 Nov 2026)"
+    ]
+  }
 }

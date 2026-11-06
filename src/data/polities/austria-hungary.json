@@ -303,5 +303,17 @@
         "source": "Wikipedia: Austria-Hungary (checked 5 Nov 2026)"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 1910,
+        "value": 51390223,
+        "certainty": "confirmed"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Austria-Hungary (infobox, checked 6 Nov 2026)"
+    ]
   }
 }

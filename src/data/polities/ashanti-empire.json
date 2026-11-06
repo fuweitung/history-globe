@@ -309,5 +309,20 @@
         "source": "Wikipedia: Asante Empire (checked 6 Nov 2026)"
       }
     }
+  },
+  "series": {
+    "population": [
+      {
+        "year": 1850,
+        "value": 3500000,
+        "low": 3000000,
+        "high": 4000000,
+        "certainty": "estimated",
+        "approxYear": true
+      }
+    ],
+    "sources": [
+      "Wikipedia: Asante Empire (infobox, checked 6 Nov 2026)"
+    ]
   }
 }

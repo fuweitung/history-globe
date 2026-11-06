@@ -311,5 +311,17 @@
       "kind": "textile",
       "note": "Fine wool shawls exported to Europe."
     }
-  ]
+  ],
+  "series": {
+    "population": [
+      {
+        "year": 1800,
+        "value": 12000000,
+        "certainty": "confirmed"
+      }
+    ],
+    "sources": [
+      "Wikipedia: Sikh Empire (infobox, checked 6 Nov 2026)"
+    ]
+  }
 }
