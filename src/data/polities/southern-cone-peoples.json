@@ -1,0 +1,324 @@
+{
+  "id": "southern-cone-peoples",
+  "name": "Peoples of the Pampas, Patagonia and the southern Andes",
+  "era": "prehistory",
+  "region": "South America (Southern Cone)",
+  "startYear": -9000,
+  "endYear": null,
+  "datesApproximate": true,
+  "capital": "None (many peoples)",
+  "capitalCoords": [
+    -66,
+    -40
+  ],
+  "summary": "The Mapuche of Chile, who resisted the Inca and the Spanish for centuries, and the peoples of the Pampas and Patagonia, such as the Tehuelche, Selk’nam and Yaghan. Monte Verde in Chile is one of the oldest human sites in the Americas.",
+  "wikiTitle": "Mapuche",
+  "borderNames": [
+    "Pampas cultures",
+    "Andean hunter-gatherers",
+    "Patagonian shellfish and marine mammal hunters"
+  ],
+  "borderYears": [
+    -9000,
+    1885
+  ],
+  "color": "#7e8f9c",
+  "knownFor": [
+    {
+      "label": "Cueva de las Manos",
+      "kind": "art",
+      "year": -7300,
+      "note": "A cave in Patagonia with hundreds of painted hand stencils."
+    },
+    {
+      "label": "Mapuche silverwork",
+      "kind": "art",
+      "note": "Silver jewellery, a symbol of Mapuche identity."
+    },
+    {
+      "label": "Bolas",
+      "kind": "weapon",
+      "note": "Weighted cords thrown to catch guanacos and rheas."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Southern South America: central and southern Chile, the Pampas and Patagonia to Tierra del Fuego.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "terrain": {
+        "value": "Andes mountains, grassland, steppe and cold coasts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "climate": {
+        "value": "Temperate to cold; windy in Patagonia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "resources": {
+        "value": "Guanaco, rhea, shellfish, sea lions, farmland in Chile.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "disasters": {
+        "value": "Earthquakes and volcanoes in Chile.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown; the Mapuche were numerous at contact.",
+        "year": 1550,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "urbanisation": {
+        "value": "Mostly villages and camps.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "disease": {
+        "value": "European diseases after 1550.",
+        "year": 1560,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "migration": {
+        "value": "Mapuche influence spread east into the Pampas (18th century).",
+        "year": 1750,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Mapuche farming and herding; hunting and fishing in the south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "tradeRoutes": {
+        "value": "Exchange across the Andes; later horse and cattle trade.",
+        "year": 1700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "wealth": {
+        "value": "Wealth in horses and cattle after 1600.",
+        "year": 1700,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "moneyAndTax": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "inequality": {
+        "value": "Mostly equal communities; leaders gained wealth through trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Mapuche lineages (lof) led by lonkos; bands in Patagonia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "keyRulers": {
+        "value": "Lautaro and Caupolicán (Mapuche leaders against Spain).",
+        "year": 1553,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "succession": {
+        "value": "Leaders chosen for ability and lineage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "institutions": {
+        "value": "Councils (parlamentos) that made treaties with Spain.",
+        "year": 1641,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "stability": {
+        "value": "Long wars but strong independence.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "eliteConflict": {
+        "value": "Rivalry between lineages.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Mounted warriors with lances after adopting horses.",
+        "year": 1600,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "majorWars": {
+        "value": "The Arauco War against Spain (1550s–17th century); the “Conquest of the Desert” and the Occupation of Araucanía (1860s–1880s).",
+        "year": 1883,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "territoryChange": {
+        "value": "Kept independence south of the Biobío River for about 300 years.",
+        "year": 1641,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "alliancesRivals": {
+        "value": "Treaties with Spain (Parliament of Quillín, 1641).",
+        "year": 1641,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Bolas, guanaco-hide cloaks, canoes in the far south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "scienceEducation": {
+        "value": "Oral knowledge.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "openness": {
+        "value": "Quickly adopted horses and cattle.",
+        "year": 1600,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "communicationTransport": {
+        "value": "On foot, later horses; canoes in the southern channels.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Spiritual beliefs with machi (healers) among the Mapuche.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "languageWriting": {
+        "value": "Mapudungun and other languages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "artsArchitecture": {
+        "value": "Silverwork, textiles, rock art.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "socialStructure": {
+        "value": "Lineages and families.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "sharedIdentity": {
+        "value": "Strong Mapuche identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "dailyLife": {
+        "value": "Mapuche rukas (houses of wood and straw); hide tents (toldos) in Patagonia; potatoes, maize, guanaco meat.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "The Inca, the Spanish, later Chile and Argentina.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "ideasReligions": {
+        "value": "Christian missions.",
+        "year": 1700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "colonisation": {
+        "value": "Conquered by Chile and Argentina in the 1870s–1880s.",
+        "year": 1883,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Adapted to many environments; horses brought new power.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "peakPeriod": {
+        "value": "Mapuche independence in the 17th–18th centuries.",
+        "year": 1700,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "declineSignals": {
+        "value": "Military campaigns by Chile and Argentina.",
+        "year": 1880,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "outcome": {
+        "value": "The Mapuche are the largest Indigenous people of Chile today.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Mapuche; Wikipedia: Tehuelche people.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      },
+      "overallCertainty": {
+        "value": "Known from archaeology and Spanish records.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mapuche; Wikipedia: Tehuelche people"
+      }
+    }
+  }
+}

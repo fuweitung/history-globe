@@ -1,7 +1,8 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { EVENT_TYPES, EVENT_BY_ID, PERSON_BY_ID, PERSON_ROLES, POLITY_BY_ID, ROUTE_BY_ID, ROUTE_KINDS } from '../lib/data';
-import { search, type SearchHit } from '../lib/search';
+import { search, snippet, type SearchHit } from '../lib/search';
 import { KIND_META } from './PolityDetail';
+import { CHECKLIST_SCHEMA } from '../lib/checklistSchema';
 
 interface Props {
   initialQuery?: string;
@@ -10,18 +11,19 @@ interface Props {
   onOpenKnown: (polityId: string, year?: number) => void;
   onOpenRoute: (id: string) => void;
   onOpenPerson: (id: string) => void;
+  onOpenFact: (polityId: string, category: string) => void;
   onQueryChange?: (q: string) => void;
 }
 
 const SUGGESTIONS = ['silk', 'samurai', 'elephants', 'printing', 'Vikings', 'gold', 'plague', 'cavalry', 'alphabet', 'canoes', 'spices', 'migration'];
 const LIMITS = { polities: 8, known: 10, events: 10 };
 
-export default function SearchView({ initialQuery = '', onOpenPolity, onOpenEvent, onOpenKnown, onOpenRoute, onOpenPerson, onQueryChange }: Props) {
+export default function SearchView({ initialQuery = '', onOpenPolity, onOpenEvent, onOpenKnown, onOpenRoute, onOpenPerson, onOpenFact, onQueryChange }: Props) {
   const [q, setQ] = useState(initialQuery);
   const [showAll, setShowAll] = useState<Record<string, boolean>>({});
   const inputRef = useRef<HTMLInputElement>(null);
   const results = useMemo(() => search(q), [q]);
-  const total = results.polities.length + results.known.length + results.events.length + results.routes.length + results.people.length;
+  const total = results.polities.length + results.known.length + results.events.length + results.routes.length + results.people.length + results.facts.length;
 
   useEffect(() => {
     // Focus without scrolling the page (the mobile sheet slides in).
@@ -37,16 +39,17 @@ export default function SearchView({ initialQuery = '', onOpenPolity, onOpenEven
     else if (h.kind === 'event') onOpenEvent(h.id);
     else if (h.kind === 'route') onOpenRoute(h.id);
     else if (h.kind === 'person') onOpenPerson(h.id);
+    else if (h.kind === 'fact') onOpenFact(h.polityId, h.category);
     else onOpenKnown(h.polityId, h.year);
   };
 
-  const first = results.polities[0] ?? results.people[0] ?? results.known[0] ?? results.routes[0] ?? results.events[0];
+  const first = results.polities[0] ?? results.people[0] ?? results.known[0] ?? results.routes[0] ?? results.events[0] ?? results.facts[0];
 
   return (
     <div className="pb-8">
       <div className="px-5 pt-4 md:pt-5">
         <h2 className="font-display pr-10 text-2xl font-bold text-parchment-50">Search</h2>
-        <p className="mt-1 text-xs text-parchment-400">Civilisations, what they’re known for (cloth, troops, tools…), and events.</p>
+        <p className="mt-1 text-xs text-parchment-400">Civilisations, people, what they’re known for, events, and words inside the checklists.</p>
         <form
           className="mt-3"
           role="search"
@@ -97,6 +100,7 @@ export default function SearchView({ initialQuery = '', onOpenPolity, onOpenEven
       <Group title="Known for" hits={results.known} limit={LIMITS.known} all={showAll.k} onMore={() => setShowAll((s) => ({ ...s, k: true }))} onOpen={open} />
       <Group title="Routes & migrations" hits={results.routes} limit={8} all={showAll.r} onMore={() => setShowAll((s) => ({ ...s, r: true }))} onOpen={open} />
       <Group title="Events" hits={results.events} limit={LIMITS.events} all={showAll.e} onMore={() => setShowAll((s) => ({ ...s, e: true }))} onOpen={open} />
+      <Group title="In the checklists" hits={results.facts} limit={8} all={showAll.f} onMore={() => setShowAll((s) => ({ ...s, f: true }))} onOpen={open} query={q} />
     </div>
   );
 }
@@ -108,7 +112,9 @@ function Group({
   all,
   onMore,
   onOpen,
+  query = '',
 }: {
+  query?: string;
   title: string;
   hits: SearchHit[];
   limit: number;
@@ -125,7 +131,7 @@ function Group({
       </h3>
       <ul className="mt-1.5 px-2">
         {shown.map((h) => (
-          <li key={`${h.kind}-${h.kind === 'known' ? `${h.polityId}-${h.title}` : h.id}`}>
+          <li key={`${h.kind}-${h.kind === 'known' || h.kind === 'fact' ? `${h.polityId}-${h.title}` : h.id}`}>
             <button
               type="button"
               onClick={() => onOpen(h)}
@@ -135,6 +141,7 @@ function Group({
               <span className="min-w-0 flex-1">
                 <span className="block truncate text-sm font-medium text-parchment-50">{h.title}</span>
                 <span className="block truncate text-[11px] text-parchment-400 tabular-nums">{h.sub}</span>
+                {h.kind === 'fact' && <span className="mt-0.5 line-clamp-2 block text-xs text-parchment-200">{snippet(h.text, query)}</span>}
               </span>
             </button>
           </li>
@@ -150,6 +157,14 @@ function Group({
 }
 
 function Icon({ hit }: { hit: SearchHit }) {
+  if (hit.kind === 'fact') {
+    const icon = CHECKLIST_SCHEMA.find((c) => c.key === hit.category)?.icon ?? '📄';
+    return (
+      <span className="grid size-6 shrink-0 place-items-center text-sm" aria-hidden="true">
+        {icon}
+      </span>
+    );
+  }
   if (hit.kind === 'polity') {
     const p = POLITY_BY_ID.get(hit.id);
     return (

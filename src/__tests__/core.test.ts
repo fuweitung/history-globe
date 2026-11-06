@@ -76,6 +76,11 @@ describe('search', () => {
     expect(search('silk road').routes[0]).toMatchObject({ id: 'silk-road' });
   });
 
+  it('finds words inside checklist answers', () => {
+    const hit = search('el nino').facts.find((h) => h.kind === 'fact' && h.polityId === 'valdivia');
+    expect(hit).toMatchObject({ category: 'geography' });
+  });
+
   it('requires every word to match', () => {
     expect(search('rome xyzzyq').polities).toHaveLength(0);
   });

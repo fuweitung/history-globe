@@ -1,0 +1,320 @@
+{
+  "id": "algeria",
+  "name": "Algeria",
+  "era": "modern",
+  "region": "North Africa",
+  "startYear": 1962,
+  "endYear": null,
+  "capital": "Algiers",
+  "capitalCoords": [
+    3.06,
+    36.75
+  ],
+  "summary": "The largest country in Africa by area, independent from France since 1962 after a long war of independence.",
+  "wikiTitle": "Algeria",
+  "borderNames": [
+    "Algeria"
+  ],
+  "borderYears": [
+    1962,
+    null
+  ],
+  "color": "#3c8f5a",
+  "knownFor": [
+    {
+      "label": "Raï music",
+      "kind": "art",
+      "note": "Popular music from Oran."
+    },
+    {
+      "label": "Casbah of Algiers",
+      "kind": "monument",
+      "note": "The old walled city, a World Heritage Site."
+    },
+    {
+      "label": "Couscous",
+      "kind": "food",
+      "note": "Steamed semolina, shared across North Africa."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "North Africa, from the Mediterranean deep into the Sahara; about 2.4 million km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      },
+      "terrain": {
+        "value": "A fertile coastal strip, the Atlas Mountains and the Sahara.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      },
+      "climate": {
+        "value": "Mediterranean on the coast, desert inland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      },
+      "resources": {
+        "value": "Oil and natural gas, farmland on the coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      },
+      "disasters": {
+        "value": "Earthquakes (Boumerdès, 2003), floods.",
+        "year": 2003,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 46 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      },
+      "urbanisation": {
+        "value": "Most people live near the coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      },
+      "disease": {
+        "value": "COVID-19; good basic health care.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Algeria"
+      },
+      "migration": {
+        "value": "About a million European settlers left in 1962; Algerians emigrated to France.",
+        "year": 1962,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Oil and gas exports dominate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      },
+      "tradeRoutes": {
+        "value": "Gas pipelines to Europe.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      },
+      "wealth": {
+        "value": "An upper-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      },
+      "moneyAndTax": {
+        "value": "The Algerian dinar.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      },
+      "inequality": {
+        "value": "Youth unemployment is high.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Algeria"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A presidential republic, with a strong role for the army.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      },
+      "keyRulers": {
+        "value": "Ahmed Ben Bella. Houari Boumediène. Abdelaziz Bouteflika. Abdelmadjid Tebboune.",
+        "year": 1962,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      },
+      "succession": {
+        "value": "Elections, often disputed; one party ruled until 1989.",
+        "year": 1989,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      },
+      "institutions": {
+        "value": "The presidency, the army, parliament.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      },
+      "stability": {
+        "value": "Civil war in the 1990s (about 100,000–200,000 deaths); Hirak protests (2019).",
+        "year": 1991,
+        "certainty": "disputed",
+        "source": "Wikipedia: Algeria"
+      },
+      "eliteConflict": {
+        "value": "Power struggles within the army and ruling elite.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Algeria"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "One of Africa’s largest armies.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      },
+      "majorWars": {
+        "value": "War of Independence (1954–62); the 1990s civil war.",
+        "year": 1954,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      },
+      "territoryChange": {
+        "value": "None since independence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      },
+      "alliancesRivals": {
+        "value": "Non-aligned; ties with Russia; rivalry with Morocco.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Algeria"
+      },
+      "scienceEducation": {
+        "value": "Free education; rising literacy.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Algeria"
+      },
+      "openness": {
+        "value": "Mixed; strong state control.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Algeria"
+      },
+      "communicationTransport": {
+        "value": "Railways and roads along the coast; the East–West Highway.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sunni Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      },
+      "languageWriting": {
+        "value": "Arabic and Tamazight (official since 2016); French widely used.",
+        "year": 2016,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      },
+      "artsArchitecture": {
+        "value": "Writers such as Kateb Yacine and Assia Djebar; raï music.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      },
+      "socialStructure": {
+        "value": "Arab and Amazigh communities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      },
+      "sharedIdentity": {
+        "value": "Identity shaped by the independence struggle.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Algeria"
+      },
+      "dailyLife": {
+        "value": "City apartments and village houses; couscous, bread, mint tea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Morocco, Tunisia, Libya, Niger, Mali, Mauritania.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      },
+      "ideasReligions": {
+        "value": "Arab nationalism and socialism after 1962.",
+        "year": 1965,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      },
+      "colonisation": {
+        "value": "A French colony from 1830 to 1962.",
+        "year": 1830,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence after the war, confirmed by referendum in 1962.",
+        "year": 1962,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      },
+      "peakPeriod": {
+        "value": "Oil and gas wealth.",
+        "year": 1970,
+        "certainty": "estimated",
+        "source": "Wikipedia: Algeria"
+      },
+      "declineSignals": {
+        "value": "Falling oil prices and unrest.",
+        "year": 1986,
+        "certainty": "estimated",
+        "source": "Wikipedia: Algeria"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Algeria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Algeria"
+      },
+      "overallCertainty": {
+        "value": "Well documented; civil war casualty figures disputed.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Algeria"
+      }
+    }
+  }
+}

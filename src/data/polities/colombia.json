@@ -1,0 +1,322 @@
+{
+  "id": "colombia",
+  "name": "Colombia",
+  "era": "modern",
+  "region": "South America",
+  "startYear": 1819,
+  "endYear": null,
+  "capital": "Bogotá",
+  "capitalCoords": [
+    -74.07,
+    4.71
+  ],
+  "datesApproximate": true,
+  "summary": "A republic in north-western South America, independent from Spain since 1819 (first as part of Gran Colombia). It is the only South American country with coasts on both the Pacific and the Caribbean.",
+  "wikiTitle": "Colombia",
+  "borderNames": [
+    "Colombia"
+  ],
+  "borderYears": [
+    1819,
+    null
+  ],
+  "color": "#d8b13a",
+  "knownFor": [
+    {
+      "label": "Colombian coffee",
+      "kind": "food",
+      "note": "Mild arabica coffee grown on Andean slopes."
+    },
+    {
+      "label": "Gabriel García Márquez",
+      "kind": "person",
+      "year": 1982,
+      "note": "Writer of One Hundred Years of Solitude; Nobel Prize 1982."
+    },
+    {
+      "label": "Cumbia",
+      "kind": "art",
+      "note": "Music and dance from the Caribbean coast."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "North-western South America; about 1.1 million km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      },
+      "terrain": {
+        "value": "Three Andean ranges, the Caribbean and Pacific coasts, the Llanos plains and the Amazon.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      },
+      "climate": {
+        "value": "Tropical, cooler with altitude.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      },
+      "resources": {
+        "value": "Coffee, oil, coal, emeralds, flowers, bananas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      },
+      "disasters": {
+        "value": "Earthquakes, landslides and the 1985 Armero volcanic mudflow.",
+        "year": 1985,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 53 million today.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      },
+      "urbanisation": {
+        "value": "Bogotá, Medellín and Cali are large cities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      },
+      "disease": {
+        "value": "Malaria and dengue in lowlands.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Colombia"
+      },
+      "migration": {
+        "value": "Millions displaced by conflict; many Venezuelans arrived after 2015.",
+        "year": 2015,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Coffee, oil, mining, flowers and services.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      },
+      "tradeRoutes": {
+        "value": "Exports to the US, China and Europe.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      },
+      "wealth": {
+        "value": "An upper-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      },
+      "moneyAndTax": {
+        "value": "The peso.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      },
+      "inequality": {
+        "value": "High inequality; land concentrated in few hands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A presidential republic (constitution of 1991).",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      },
+      "keyRulers": {
+        "value": "Simón Bolívar and Francisco de Paula Santander. Álvaro Uribe. Juan Manuel Santos (Nobel Peace Prize, 2016).",
+        "year": 1819,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      },
+      "succession": {
+        "value": "Regular elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      },
+      "institutions": {
+        "value": "Congress, Constitutional Court.",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      },
+      "stability": {
+        "value": "La Violencia (1948–58) and armed conflict with guerrillas (FARC) until a peace deal in 2016.",
+        "year": 2016,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      },
+      "eliteConflict": {
+        "value": "Rivalry between Liberal and Conservative parties.",
+        "year": 1948,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "A large army fighting guerrillas and drug cartels.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      },
+      "majorWars": {
+        "value": "The Thousand Days’ War (1899–1902); Korean War troops.",
+        "year": 1899,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      },
+      "territoryChange": {
+        "value": "Lost Panama in 1903.",
+        "year": 1903,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      },
+      "alliancesRivals": {
+        "value": "Close to the United States.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Colombia"
+      },
+      "scienceEducation": {
+        "value": "Public and private universities.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Colombia"
+      },
+      "openness": {
+        "value": "Opened to trade in the 1990s.",
+        "year": 1990,
+        "certainty": "estimated",
+        "source": "Wikipedia: Colombia"
+      },
+      "communicationTransport": {
+        "value": "River steamers on the Magdalena; the Medellín Metro (1995) and cable cars.",
+        "year": 1995,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Catholic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      },
+      "languageWriting": {
+        "value": "Spanish; many Indigenous languages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      },
+      "artsArchitecture": {
+        "value": "Magical realism in literature; Fernando Botero’s art; cumbia and vallenato music.",
+        "year": 1967,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      },
+      "socialStructure": {
+        "value": "Large gaps between rich and poor.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      },
+      "sharedIdentity": {
+        "value": "National pride in coffee, music and football.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Colombia"
+      },
+      "dailyLife": {
+        "value": "City apartments and hillside barrios; arepas, beans, rice and coffee.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Venezuela, Brazil, Peru, Ecuador and Panama.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      },
+      "ideasReligions": {
+        "value": "Liberal and conservative ideas; later peace movements.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Colombia"
+      },
+      "colonisation": {
+        "value": "A former Spanish colony (New Granada).",
+        "year": 1819,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence after the Battle of Boyacá (1819).",
+        "year": 1819,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      },
+      "peakPeriod": {
+        "value": "Improved security and growth after 2002.",
+        "year": 2005,
+        "certainty": "estimated",
+        "source": "Wikipedia: Colombia"
+      },
+      "declineSignals": {
+        "value": "Decades of armed conflict and drug violence.",
+        "year": 1990,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Colombia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Colombia"
+      }
+    }
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "id": "mongolia",
+  "name": "Mongolia",
+  "era": "modern",
+  "region": "Central Asia (Mongolian steppe)",
+  "startYear": 1911,
+  "endYear": null,
+  "capital": "Ulaanbaatar",
+  "capitalCoords": [
+    106.92,
+    47.92
+  ],
+  "summary": "The modern state of Mongolia, which declared independence from the Qing in 1911, became a Soviet-aligned people’s republic (1924–1990) and is now a parliamentary democracy.",
+  "wikiTitle": "Mongolia",
+  "borderNames": [
+    "Mongolia"
+  ],
+  "borderYears": [
+    1911,
+    null
+  ],
+  "color": "#3f7fb3",
+  "knownFor": [
+    {
+      "label": "Naadam festival",
+      "kind": "art",
+      "note": "Wrestling, horse racing and archery each July."
+    },
+    {
+      "label": "Ger (yurt)",
+      "kind": "monument",
+      "note": "Many families still live in round felt tents."
+    },
+    {
+      "label": "Throat singing (khöömii)",
+      "kind": "art",
+      "note": "Singing two notes at once."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Between Russia and China; about 1.56 million km², landlocked.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      },
+      "terrain": {
+        "value": "Steppe, the Gobi Desert, the Altai and Khangai mountains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      },
+      "climate": {
+        "value": "Extremely continental: very cold winters, short summers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      },
+      "resources": {
+        "value": "Grassland for herds, copper, gold, coal.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      },
+      "disasters": {
+        "value": "Dzud: harsh winters that kill millions of animals.",
+        "year": 2010,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 3.5 million today, one of the least densely populated countries.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      },
+      "urbanisation": {
+        "value": "About half live in Ulaanbaatar.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      },
+      "disease": {
+        "value": "Air pollution in winter in Ulaanbaatar.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      },
+      "migration": {
+        "value": "Herders moving to the capital.",
+        "year": 2000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Herding and mining.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      },
+      "tradeRoutes": {
+        "value": "Exports to China (copper, coal).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      },
+      "wealth": {
+        "value": "A lower-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      },
+      "moneyAndTax": {
+        "value": "The tögrög.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      },
+      "inequality": {
+        "value": "Gaps between the capital and the countryside.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mongolia"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A Buddhist theocracy (1911–24), a one-party socialist state (1924–90), now a parliamentary republic.",
+        "year": 1990,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      },
+      "keyRulers": {
+        "value": "Bogd Khan (1911–24). Khorloogiin Choibalsan. Yumjaagiin Tsedenbal.",
+        "year": 1911,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      },
+      "succession": {
+        "value": "Elections since 1990.",
+        "year": 1990,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      },
+      "institutions": {
+        "value": "The State Great Khural (parliament).",
+        "year": 1992,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      },
+      "stability": {
+        "value": "Purges in the 1930s killed tens of thousands, including many monks.",
+        "year": 1937,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      },
+      "eliteConflict": {
+        "value": "Party competition since 1990.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mongolia"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "A small army; Soviet troops were stationed until the early 1990s.",
+        "year": 1990,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      },
+      "majorWars": {
+        "value": "The Battles of Khalkhin Gol (1939) with Soviet forces against Japan.",
+        "year": 1939,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      },
+      "territoryChange": {
+        "value": "Independence recognised by China in 1946 (confirmed 1950s).",
+        "year": 1946,
+        "certainty": "disputed",
+        "source": "Wikipedia: Mongolia"
+      },
+      "alliancesRivals": {
+        "value": "Allied with the Soviet Union until 1990; now balances Russia and China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mongolia"
+      },
+      "scienceEducation": {
+        "value": "High literacy since Soviet times.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      },
+      "openness": {
+        "value": "Closed to the West until 1990.",
+        "year": 1990,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      },
+      "communicationTransport": {
+        "value": "The Trans-Mongolian Railway (1956); long distances by jeep and horse.",
+        "year": 1956,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Tibetan Buddhism revived after 1990; shamanism.",
+        "year": 1990,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      },
+      "languageWriting": {
+        "value": "Mongolian, written in Cyrillic since the 1940s; the traditional script is being revived.",
+        "year": 1941,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      },
+      "artsArchitecture": {
+        "value": "Throat singing, the horse-head fiddle (morin khuur).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      },
+      "socialStructure": {
+        "value": "Herders and city dwellers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mongolia"
+      },
+      "sharedIdentity": {
+        "value": "Strong identity tied to Genghis Khan and nomadic life.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mongolia"
+      },
+      "dailyLife": {
+        "value": "Gers on the steppe and in city ger districts; meat, dairy, milk tea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Russia and China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      },
+      "ideasReligions": {
+        "value": "Communism, then democracy.",
+        "year": 1990,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      },
+      "colonisation": {
+        "value": "Part of the Qing Empire until 1911.",
+        "year": 1911,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence after the fall of the Qing (1911).",
+        "year": 1911,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      },
+      "peakPeriod": {
+        "value": "Mining boom in the 2010s.",
+        "year": 2011,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mongolia"
+      },
+      "declineSignals": {
+        "value": "Dependence on mining and on China.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mongolia"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Mongolia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mongolia"
+      }
+    }
+  }
+}
