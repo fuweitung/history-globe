@@ -4,6 +4,7 @@ import { ERAS, EVENT_TYPES, POLITIES, POLITY_BY_ID, formatSpan, formatYear, isAc
 import type { BorderProps } from '../lib/borders';
 import type { HistoryEvent } from '../types';
 import { ProgressBar } from './ChecklistCategory';
+import { norm } from '../lib/search';
 
 // ── Event detail ─────────────────────────────────────────────
 
@@ -99,13 +100,14 @@ export function RegionDetail({ props, snapshotYear }: { props: BorderProps; snap
 
 // ── Civilisation browser ─────────────────────────────────────
 
-export function PolityBrowser({ year, onOpenPolity }: { year: number; onOpenPolity: (id: string) => void }) {
+export function PolityBrowser({ year, onOpenPolity, onCompare }: { year: number; onOpenPolity: (id: string) => void; onCompare?: () => void }) {
   const [q, setQ] = useState('');
   const [onlyActive, setOnlyActive] = useState(false);
   const filtered = useMemo(() => {
-    const s = q.trim().toLowerCase();
+    const s = norm(q.trim());
     return POLITIES.filter(
-      (p) => (!s || p.name.toLowerCase().includes(s) || p.region.toLowerCase().includes(s)) && (!onlyActive || isActive(p, year)),
+      (p) =>
+        (!s || norm([p.name, p.region, ...(p.knownFor ?? []).map((k) => k.label)].join(' ')).includes(s)) && (!onlyActive || isActive(p, year)),
     );
   }, [q, onlyActive, year]);
 
@@ -118,13 +120,23 @@ export function PolityBrowser({ year, onOpenPolity }: { year: number; onOpenPoli
     <div className="pb-8">
       <div className="px-5 pt-4 md:pt-5">
         <h2 className="font-display pr-10 text-2xl font-bold text-parchment-50">Civilisations</h2>
-        <p className="mt-1 text-xs text-parchment-400">{POLITIES.length} in the study set · tap one to open its checklist</p>
+        <p className="mt-1 text-xs text-parchment-400">
+          {POLITIES.length} in the study set · tap one to open its checklist
+          {onCompare && (
+            <>
+              {' · '}
+              <button type="button" onClick={onCompare} className="font-semibold text-gold-300 hover:underline">
+                ⇄ Compare two
+              </button>
+            </>
+          )}
+        </p>
         <div className="mt-3 flex gap-2">
           <input
             type="search"
             value={q}
             onChange={(e) => setQ(e.target.value)}
-            placeholder="Search name or region…"
+            placeholder="Filter by name, region or known-for…"
             className="min-w-0 flex-1 rounded-xl bg-ink-800 px-3 py-2 text-sm text-parchment-50 ring-1 ring-white/10 placeholder:text-parchment-400 focus:ring-gold-400 focus:outline-none"
             aria-label="Search civilisations"
           />

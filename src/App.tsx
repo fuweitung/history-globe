@@ -4,6 +4,8 @@ import TimelineSlider from './components/TimelineSlider';
 import Panel from './components/Panel';
 import PolityDetail from './components/PolityDetail';
 import { EventDetail, PolityBrowser, RegionDetail } from './components/OtherViews';
+import SearchView from './components/SearchView';
+import CompareView, { suggestPartner } from './components/CompareView';
 import { boundsForPolity, loadManifest, loadSnapshot, nearestSnapshot, resolvePolity, type BorderProps, type Snapshot } from './lib/borders';
 import { EVENTS, EVENT_BY_ID, EVENT_TYPES, MAX_YEAR, MIN_YEAR, POLITY_BY_ID, isActive } from './lib/data';
 import type { EventType, Polity } from './types';
@@ -12,6 +14,8 @@ import { eventWindowFor, normaliseYear, stepYear } from './lib/timeScale';
 type View =
   | { kind: 'none' }
   | { kind: 'browser' }
+  | { kind: 'search' }
+  | { kind: 'compare'; a: string | null; b: string | null }
   | { kind: 'about' }
   | { kind: 'polity'; id: string }
   | { kind: 'event'; id: string }
@@ -19,13 +23,16 @@ type View =
 
 const clampYear = (y: number) => normaliseYear(y);
 
-function readUrl(): { year: number; polity: string | null; event: string | null } {
+function readUrl(): { year: number; polity: string | null; event: string | null; compare: [string | null, string | null] | null } {
   const sp = new URLSearchParams(window.location.search);
   const y = Number(sp.get('year'));
+  const c = sp.get('compare');
+  const valid = (id: string | undefined) => (id && POLITY_BY_ID.has(id) ? id : null);
   return {
     year: Number.isFinite(y) && y ? clampYear(y) : 1600,
     polity: sp.get('polity'),
     event: sp.get('event'),
+    compare: c !== null ? [valid(c.split(',')[0]), valid(c.split(',')[1])] : null,
   };
 }
 
@@ -37,7 +44,9 @@ export default function App() {
   const [loading, setLoading] = useState(true);
   const [loadError, setLoadError] = useState<string | null>(null);
   const [view, setView] = useState<View>(() =>
-    initial.polity && POLITY_BY_ID.has(initial.polity)
+    initial.compare
+      ? { kind: 'compare', a: initial.compare[0], b: initial.compare[1] }
+      : initial.polity && POLITY_BY_ID.has(initial.polity)
       ? { kind: 'polity', id: initial.polity }
       : initial.event && EVENT_BY_ID.has(initial.event)
         ? { kind: 'event', id: initial.event }
@@ -133,6 +142,7 @@ export default function App() {
       sp.set('year', String(year));
       if (view.kind === 'polity') sp.set('polity', view.id);
       if (view.kind === 'event') sp.set('event', view.id);
+      if (view.kind === 'compare') sp.set('compare', `${view.a ?? ''},${view.b ?? ''}`);
       window.history.replaceState(null, '', `${window.location.pathname}?${sp}`);
     }, 250);
     return () => window.clearTimeout(t);
@@ -196,9 +206,48 @@ export default function App() {
   );
 
   const jumpToYear = useCallback((y: number) => changeYear(y), [changeYear]);
+
+  // Search results: events and dated Known-for items also move the timeline.
+  const openEventAt = useCallback(
+    (id: string) => {
+      const e = EVENT_BY_ID.get(id);
+      if (e) changeYear(e.year);
+      openEvent(id);
+    },
+    [changeYear, openEvent],
+  );
+  const openKnown = useCallback(
+    (polityId: string, y?: number) => {
+      if (y === undefined) return openPolity(polityId);
+      setView({ kind: 'polity', id: polityId });
+      pendingFly.current = polityId;
+      changeYear(y);
+    },
+    [openPolity, changeYear],
+  );
+  const openCompare = useCallback((a: string | null) => setView({ kind: 'compare', a, b: a ? suggestPartner(a) : null }), []);
+
+  // "/" or Ctrl/⌘+K opens search from anywhere (unless typing).
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => {
+      const t = e.target as HTMLElement;
+      const typing = !!t.closest('input, textarea, select, [contenteditable]');
+      if ((e.key === '/' && !typing) || (e.key.toLowerCase() === 'k' && (e.metaKey || e.ctrlKey))) {
+        e.preventDefault();
+        setView({ kind: 'search' });
+      }
+    };
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
+  }, []);
   const closePanel = useCallback(() => setView({ kind: 'none' }), []);
 
-  const selectedPolity = view.kind === 'polity' ? (POLITY_BY_ID.get(view.id) ?? null) : null;
+  const selectedPolity =
+    view.kind === 'polity'
+      ? (POLITY_BY_ID.get(view.id) ?? null)
+      : view.kind === 'compare' && view.a
+        ? (POLITY_BY_ID.get(view.a) ?? null)
+        : null;
 
   // ── Publish timeline height for the mobile bottom sheet ─
   const timelineRef = useRef<HTMLDivElement>(null);
@@ -215,6 +264,7 @@ export default function App() {
   let panelKey = view.kind;
   let panelBody: React.ReactNode = null;
   if (view.kind === 'polity' && selectedPolity) {
+    const pid = selectedPolity.id;
     panelTitle = selectedPolity.name;
     panelKey = `polity-${selectedPolity.id}` as typeof panelKey;
     panelBody = (
@@ -225,6 +275,7 @@ export default function App() {
         onFlyTo={() => (isActive(selectedPolity, year) ? flyToPolity(selectedPolity, snapshot) : openPolity(selectedPolity.id))}
         onOpenPolity={openPolity}
         onOpenEvent={openEvent}
+        onCompare={() => openCompare(pid)}
       />
     );
   } else if (view.kind === 'event') {
@@ -240,7 +291,22 @@ export default function App() {
     panelBody = <RegionDetail props={view.props} snapshotYear={snapshot?.year ?? null} />;
   } else if (view.kind === 'browser') {
     panelTitle = 'Civilisations';
-    panelBody = <PolityBrowser year={year} onOpenPolity={openPolity} />;
+    panelBody = <PolityBrowser year={year} onOpenPolity={openPolity} onCompare={() => setView({ kind: 'compare', a: null, b: null })} />;
+  } else if (view.kind === 'search') {
+    panelTitle = 'Search';
+    panelBody = <SearchView onOpenPolity={openPolity} onOpenEvent={openEventAt} onOpenKnown={openKnown} />;
+  } else if (view.kind === 'compare') {
+    panelTitle = 'Compare';
+    panelKey = 'compare' as typeof panelKey;
+    panelBody = (
+      <CompareView
+        a={view.a}
+        b={view.b}
+        onChange={(a, b) => setView({ kind: 'compare', a, b })}
+        onOpenPolity={openPolity}
+        onJumpToYear={jumpToYear}
+      />
+    );
   } else if (view.kind === 'about') {
     panelTitle = 'About';
     panelBody = <About />;
@@ -262,14 +328,24 @@ export default function App() {
       <div className="pointer-events-none absolute inset-x-0 top-0 z-10 flex items-start gap-2 p-3">
         <div className="pointer-events-auto flex items-center gap-2 rounded-2xl bg-ink-900/85 py-1.5 pr-1.5 pl-3 shadow-xl ring-1 ring-white/10 backdrop-blur-md">
           <span className="text-xl" aria-hidden="true">🌍</span>
-          <h1 className="font-display text-lg font-bold tracking-tight text-parchment-50">History Globe</h1>
+          <h1 className="font-display text-base font-bold tracking-tight whitespace-nowrap text-parchment-50 sm:text-lg">History Globe</h1>
           <button
             type="button"
             onClick={() => setView((v) => (v.kind === 'browser' ? { kind: 'none' } : { kind: 'browser' }))}
             aria-pressed={view.kind === 'browser'}
-            className="ml-1 rounded-xl bg-gold-400 px-3 py-1.5 text-xs font-bold text-ink-900 transition hover:bg-gold-300 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gold-400"
+            className="ml-1 rounded-xl bg-gold-400 px-2.5 py-1.5 text-xs font-bold sm:px-3 text-ink-900 transition hover:bg-gold-300 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gold-400"
           >
             Civilisations
+          </button>
+          <button
+            type="button"
+            onClick={() => setView((v) => (v.kind === 'search' ? { kind: 'none' } : { kind: 'search' }))}
+            aria-label="Search (press /)"
+            aria-pressed={view.kind === 'search'}
+            title="Search (/)"
+            className="grid size-8 place-items-center rounded-xl text-parchment-200 transition hover:bg-white/10 aria-pressed:bg-white/10"
+          >
+            <svg viewBox="0 0 24 24" className="size-4" fill="none" stroke="currentColor" strokeWidth="2.4" strokeLinecap="round" aria-hidden="true"><circle cx="11" cy="11" r="6.5" /><path d="M16 16l4.5 4.5" /></svg>
           </button>
           <button
             type="button"
@@ -302,7 +378,7 @@ export default function App() {
         </div>
       )}
 
-      <Panel open={view.kind !== 'none' && panelBody !== null} onClose={closePanel} contentKey={panelKey} title={panelTitle}>
+      <Panel open={view.kind !== 'none' && panelBody !== null} onClose={closePanel} contentKey={panelKey} title={panelTitle} wide={view.kind === 'compare'}>
         {panelBody}
       </Panel>
 

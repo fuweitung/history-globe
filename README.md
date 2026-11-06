@@ -43,6 +43,8 @@ npm run fetch-borders -- --force # re-downloads everything
 - **Civilisations:** click a coloured territory, or use the **Civilisations** list. Colonies take their ruling power's colour, so an empire reads as one block.
 - **Checklist:** 10 categories, each with a completion bar. Every fact shows its year, its certainty (**Confirmed**, **≈ Estimated** or **Disputed**) and its source. Clicking a year chip moves the timeline to that year.
 - **Events:** coloured markers show events within ±25 years (±250 in the Ancient era, ±125 in the Medieval; you can change the window). They fade the further they are from the selected year. Use the **Events** menu to filter by type.
+- **Search:** press `/` (or ⌘/Ctrl+K) or tap the magnifier. Finds civilisations, their “Known for” items (cloth, troops, tools…) and events. Accents and ʻokina are ignored, so “dai viet” finds Đại Việt.
+- **Compare:** open any civilisation and tap **⇄ Compare**, or use “Compare two” in the Civilisations list. You get two civilisations side by side on the same 41 elements, with Rise & fall first. It also shows their lifespans on one scale, how long they overlapped, and any direct links between them. Link format: `?compare=roman-empire,han-china`.
 - **Shareable links:** the URL keeps the year and the selection, e.g. `?year=1760&polity=qing-china`.
 - **Mobile:** the panel becomes a bottom sheet. Drag or tap the handle to resize it.
 

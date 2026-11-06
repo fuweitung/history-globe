@@ -11,10 +11,11 @@ interface Props {
   onFlyTo: () => void;
   onOpenPolity: (id: string) => void;
   onOpenEvent: (id: string) => void;
+  onCompare?: () => void;
 }
 
 
-const KIND_META: Record<KnownForKind, { icon: string; label: string }> = {
+export const KIND_META: Record<KnownForKind, { icon: string; label: string }> = {
   textile: { icon: '🧵', label: 'Cloth & dress' },
   troops: { icon: '🛡️', label: 'Troops' },
   weapon: { icon: '⚔️', label: 'Weapons' },
@@ -81,7 +82,7 @@ const RELATION_TEXT: Record<LinkRelation, [string, string]> = {
   allied_with: ['Allied with', 'Allied with'],
 };
 
-export default function PolityDetail({ polity, year, onJumpToYear, onFlyTo, onOpenPolity, onOpenEvent }: Props) {
+export default function PolityDetail({ polity, year, onJumpToYear, onFlyTo, onOpenPolity, onOpenEvent, onCompare }: Props) {
   const overall = overallCompletion(polity.checklist);
   const active = isActive(polity, year);
   const events = eventsForPolity(polity.id);
@@ -129,6 +130,7 @@ export default function PolityDetail({ polity, year, onJumpToYear, onFlyTo, onOp
           <ActionButton onClick={() => onJumpToYear(polity.startYear)}>⏮ Rise · {formatYear(polity.startYear)}</ActionButton>
           {peakYear !== null && <ActionButton onClick={() => onJumpToYear(peakYear)}>★ Peak · {formatYear(peakYear, true)}</ActionButton>}
           {polity.endYear !== null && <ActionButton onClick={() => onJumpToYear(polity.endYear as number)}>⏭ End · {formatYear(polity.endYear)}</ActionButton>}
+          {onCompare && <ActionButton onClick={onCompare}>⇄ Compare</ActionButton>}
         </div>
       </header>
 
