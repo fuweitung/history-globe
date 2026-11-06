@@ -126,6 +126,19 @@ for (const st of stories) {
   });
 }
 
+// ── Picture links (rendered as <img src> and <a href>, so only allow Wikimedia over https) ──
+const IMG_SRC = /^https:\/\/(upload|thumb)\.wikimedia\.org\//;
+const IMG_PAGE = /^https:\/\/commons\.wikimedia\.org\//;
+const checkImage = (img, where) => {
+  if (!img) return;
+  if (!IMG_SRC.test(img.src ?? '')) errors.push(`${where}: image src must be https://upload.wikimedia.org/ or https://thumb.wikimedia.org/`);
+  if (!IMG_PAGE.test(img.page ?? '')) errors.push(`${where}: image page must start with https://commons.wikimedia.org/`);
+};
+const images = JSON.parse(await readFile(join(dataDir, 'images.json'), 'utf8'));
+for (const [k, img] of Object.entries(images.polities ?? {})) checkImage(img, `images.json polities.${k}`);
+for (const [k, img] of Object.entries(images.known ?? {})) checkImage(img, `images.json known.${k}`);
+for (const person of people) checkImage(person.image, `people.json ${person.id}`);
+
 // ── Consistency checks (dates that should line up) ──
 // Older periods are known less precisely, so allow a wider margin.
 const slack = (y) => (y < -1000 ? 300 : y < 500 ? 100 : y < 1500 ? 50 : 15);
