@@ -1,0 +1,321 @@
+{
+  "id": "central-african-forest-peoples",
+  "name": "Central African forest peoples",
+  "era": "prehistory",
+  "region": "Central Africa",
+  "startYear": -10000,
+  "endYear": null,
+  "datesApproximate": true,
+  "capital": "None (forest camps)",
+  "capitalCoords": [
+    20,
+    0
+  ],
+  "summary": "The hunter-gatherers of the Central African rainforest, ancestors of today’s BaAka, Mbuti and other forest peoples. (The source maps label this area “Bantu” in early times, before Bantu-speaking farmers arrived.)",
+  "wikiTitle": "African Pygmies",
+  "borderNames": [
+    "Bantu"
+  ],
+  "borderYears": [
+    -10000,
+    -3001
+  ],
+  "color": "#5f8f5a",
+  "knownFor": [
+    {
+      "label": "Forest polyphonic singing",
+      "kind": "art",
+      "note": "Complex layered songs, recognised by UNESCO."
+    },
+    {
+      "label": "Net hunting",
+      "kind": "tool",
+      "note": "Groups drive animals into long nets."
+    },
+    {
+      "label": "Honey gathering",
+      "kind": "food",
+      "note": "Climbing tall trees to collect wild honey."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The rainforest of the Congo Basin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "terrain": {
+        "value": "Dense tropical forest and rivers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "climate": {
+        "value": "Hot and wet all year.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "resources": {
+        "value": "Game, honey, nuts, fruits, fish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "disasters": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: African Pygmies"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "urbanisation": {
+        "value": "Small forest camps.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "disease": {
+        "value": "Malaria and other tropical diseases.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "migration": {
+        "value": "Bantu-speaking farmers arrived from about 1000 BCE.",
+        "year": -1000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: African Pygmies"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Hunting and gathering; later trade with farmers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "tradeRoutes": {
+        "value": "Exchange with farming neighbours.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "wealth": {
+        "value": "Little private property; sharing was the rule.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "moneyAndTax": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "inequality": {
+        "value": "Very equal bands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: African Pygmies"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Bands with no chiefs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "keyRulers": {
+        "value": "No rulers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "succession": {
+        "value": "Decisions made together.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "institutions": {
+        "value": "Sharing customs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "stability": {
+        "value": "Bands split when disputes arose.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "eliteConflict": {
+        "value": "None recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: African Pygmies"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Bows, spears, nets.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "majorWars": {
+        "value": "None known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "territoryChange": {
+        "value": "Lost forest land to farmers and logging over time.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "alliancesRivals": {
+        "value": "Partnerships with farming villages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: African Pygmies"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Hunting nets, poison arrows.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "scienceEducation": {
+        "value": "Deep knowledge of the forest, passed on orally.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "openness": {
+        "value": "Adopted farmers’ languages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "communicationTransport": {
+        "value": "Forest paths on foot; canoes on rivers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: African Pygmies"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Spiritual relationship with the forest.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "languageWriting": {
+        "value": "Today they speak languages of their farming neighbours.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "artsArchitecture": {
+        "value": "Polyphonic music and dance.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "socialStructure": {
+        "value": "Equal bands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "sharedIdentity": {
+        "value": "Forest identity.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "dailyLife": {
+        "value": "Dome-shaped huts of branches and leaves; game, honey, nuts and tubers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: African Pygmies"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Bantu-speaking farmers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "ideasReligions": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "colonisation": {
+        "value": "Later affected by colonial logging and conservation areas.",
+        "year": 1900,
+        "certainty": "estimated",
+        "source": "Wikipedia: African Pygmies"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Long adaptation to the rainforest.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "peakPeriod": {
+        "value": "No single peak.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "declineSignals": {
+        "value": "Loss of forest land.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "outcome": {
+        "value": "Forest peoples still live in the Congo Basin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: African Pygmies"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: African Pygmies.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: African Pygmies"
+      },
+      "overallCertainty": {
+        "value": "Mostly known from genetics, linguistics and ethnography.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: African Pygmies"
+      }
+    }
+  }
+}

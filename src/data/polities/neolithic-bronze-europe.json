@@ -1,0 +1,333 @@
+{
+  "id": "neolithic-bronze-europe",
+  "name": "Neolithic and Bronze Age Europe",
+  "era": "prehistory",
+  "region": "Europe",
+  "startYear": -8000,
+  "endYear": -700,
+  "datesApproximate": true,
+  "capital": "None (many cultures)",
+  "capitalCoords": [
+    15,
+    52
+  ],
+  "summary": "Europe’s last hunter-foragers (Mesolithic), its first farmers and its Bronze Age peoples, such as the Funnel Beaker, Corded Ware, Urnfield and Nordic Bronze Age cultures, who built megaliths like Stonehenge.",
+  "wikiTitle": "Neolithic Europe",
+  "borderNames": [
+    "Funnel-Beaker",
+    "Early combware",
+    "Narva",
+    "Volga-Kamm",
+    "Urnfield cultures",
+    "N. European Bronze Age cultures",
+    "Coastal and Woodland Mesolithic Hunter-Foragers",
+    "Steppe Mesolithic Hunter-Foragers",
+    "Alluvial Lowland Mesolithic Hunter-Foragers",
+    "Highland Mesolithic Hunter-Foragers"
+  ],
+  "borderYears": [
+    -8000,
+    -700
+  ],
+  "color": "#8f8a6a",
+  "knownFor": [
+    {
+      "label": "Stonehenge",
+      "kind": "monument",
+      "year": -2500,
+      "note": "A stone circle in England, built in stages."
+    },
+    {
+      "label": "Ötzi the Iceman",
+      "kind": "person",
+      "year": -3300,
+      "note": "A man preserved in Alpine ice with his tools and clothes."
+    },
+    {
+      "label": "Nebra sky disc",
+      "kind": "art",
+      "year": -1600,
+      "note": "A bronze disc showing the sun, moon and stars."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Europe, from the Atlantic to the Volga.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "terrain": {
+        "value": "Forests, river valleys, coasts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "climate": {
+        "value": "Warmer than today in the mid-Holocene, cooling later.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "resources": {
+        "value": "Farmland, flint, copper, tin, amber.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "disasters": {
+        "value": "Floods and climate shifts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "urbanisation": {
+        "value": "Villages; large longhouses; some fortified sites.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "disease": {
+        "value": "Plague bacteria found in some Neolithic and Bronze Age skeletons.",
+        "year": -3000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "migration": {
+        "value": "Farmers arrived from Anatolia (from about 6500 BCE); steppe peoples moved in about 3000 BCE.",
+        "year": -6500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming wheat and barley, herding cattle; metalworking.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "tradeRoutes": {
+        "value": "Amber and tin trade routes across Europe.",
+        "year": -1500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "wealth": {
+        "value": "No estimate is possible.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "moneyAndTax": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "inequality": {
+        "value": "Growing inequality in the Bronze Age, with rich graves.",
+        "year": -2000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Villages and chiefdoms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "keyRulers": {
+        "value": "No rulers are known.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "succession": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "institutions": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "stability": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Flint axes, then bronze swords and shields.",
+        "year": -1500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "majorWars": {
+        "value": "Evidence of violence, such as the Tollense battlefield (about 1250 BCE).",
+        "year": -1250,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "territoryChange": {
+        "value": "Farming spread across Europe.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "alliancesRivals": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Ploughs, wheels, bronze metallurgy.",
+        "year": -3500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "scienceEducation": {
+        "value": "No writing north of the Aegean.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "openness": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "communicationTransport": {
+        "value": "Log boats, ox carts, later horses.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Megaliths and sun symbols suggest sky and ancestor worship.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "languageWriting": {
+        "value": "Unknown; Indo-European languages spread later in the period.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "artsArchitecture": {
+        "value": "Megaliths, painted pottery, bronze work, rock carvings.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "socialStructure": {
+        "value": "From equal villages to chiefly societies.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "sharedIdentity": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "dailyLife": {
+        "value": "Timber longhouses, later roundhouses; bread, porridge, milk and meat.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Steppe peoples, Aegean civilisations.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "ideasReligions": {
+        "value": "Farming from Anatolia; metalwork from the south-east.",
+        "year": -6500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "The spread of farming.",
+        "year": -6500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "peakPeriod": {
+        "value": "The Bronze Age, about 2000–1200 BCE.",
+        "year": -1500,
+        "certainty": "estimated",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "declineSignals": {
+        "value": "Upheavals around 1200 BCE.",
+        "year": -1200,
+        "certainty": "estimated",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "outcome": {
+        "value": "Followed by the Iron Age Celtic, Germanic and other peoples.",
+        "year": -700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      },
+      "overallCertainty": {
+        "value": "Known from archaeology and ancient DNA.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Neolithic Europe; Wikipedia: Bronze Age Europe"
+      }
+    }
+  }
+}

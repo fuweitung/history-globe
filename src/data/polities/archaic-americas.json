@@ -1,0 +1,323 @@
+{
+  "id": "archaic-americas",
+  "name": "Archaic peoples of the Americas",
+  "era": "prehistory",
+  "region": "The Americas",
+  "startYear": -8000,
+  "endYear": -1000,
+  "datesApproximate": true,
+  "capital": "None (many groups)",
+  "capitalCoords": [
+    -95,
+    35
+  ],
+  "summary": "The hunter-gatherer peoples of the Americas in the Archaic period (about 8000–1000 BCE), after the Ice Age big game died out. They adapted to every environment, and some began to plant crops such as squash and maize.",
+  "wikiTitle": "Archaic period (North America)",
+  "borderNames": [
+    "Archaic Amerindian hunter-gatherers"
+  ],
+  "borderYears": [
+    -8000,
+    -1000
+  ],
+  "color": "#a08560",
+  "knownFor": [
+    {
+      "label": "Atlatl (spear-thrower)",
+      "kind": "weapon",
+      "note": "A throwing stick that made spears fly further and faster."
+    },
+    {
+      "label": "Watson Brake mounds",
+      "kind": "monument",
+      "year": -3500,
+      "note": "Earth mounds in Louisiana, among the oldest in the Americas."
+    },
+    {
+      "label": "Squash",
+      "kind": "food",
+      "year": -8000,
+      "note": "One of the first plants domesticated in the Americas."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "North, Central and South America.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "terrain": {
+        "value": "Every landscape, from forests and plains to deserts and coasts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "climate": {
+        "value": "The climate warmed after the Ice Age; big animals such as mammoths had died out.",
+        "year": -8000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "resources": {
+        "value": "Deer, bison, fish, shellfish, nuts and seeds.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "disasters": {
+        "value": "Droughts during the warm mid-Holocene (about 6000–3000 BCE).",
+        "year": -5000,
+        "certainty": "estimated",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown; small, scattered groups.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "urbanisation": {
+        "value": "Seasonal camps; some large shell-mound sites.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "disease": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "migration": {
+        "value": "Groups spread into every region of the Americas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Hunting, fishing and gathering; early gardening.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "tradeRoutes": {
+        "value": "Exchange of copper, shells and stone over long distances.",
+        "year": -3000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "wealth": {
+        "value": "No estimate is possible.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "moneyAndTax": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "inequality": {
+        "value": "Mostly equal bands.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Family bands; no states.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "keyRulers": {
+        "value": "No rulers are known.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "succession": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "institutions": {
+        "value": "Kinship and custom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "stability": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Spear-throwers (atlatl), stone points, nets.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "majorWars": {
+        "value": "None known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "territoryChange": {
+        "value": "Spread across both continents.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "alliancesRivals": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Ground-stone tools, fish weirs, early pottery (from about 3000 BCE in places).",
+        "year": -3000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "scienceEducation": {
+        "value": "No writing; knowledge passed on orally.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "openness": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "communicationTransport": {
+        "value": "Travel on foot and by canoe along rivers and coasts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Unknown; burials suggest belief in an afterlife.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "languageWriting": {
+        "value": "Many languages, no writing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "artsArchitecture": {
+        "value": "Carved stone, bone and shell objects; early earth mounds.",
+        "year": -3500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "socialStructure": {
+        "value": "Families and bands.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "sharedIdentity": {
+        "value": "Many separate groups.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "dailyLife": {
+        "value": "Shelters of poles, brush or hides; pit houses in places; wild plants, fish and game.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Many neighbouring groups.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "ideasReligions": {
+        "value": "Farming spread from Mesoamerica and the Andes.",
+        "year": -3000,
+        "certainty": "estimated",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Adaptation to new environments after the Ice Age.",
+        "year": -8000,
+        "certainty": "estimated",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "peakPeriod": {
+        "value": "No single peak.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "declineSignals": {
+        "value": "Not a decline: farming and villages slowly replaced this way of life.",
+        "year": -1000,
+        "certainty": "estimated",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "outcome": {
+        "value": "Followed by farming and mound-building cultures.",
+        "year": -1000,
+        "certainty": "estimated",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      },
+      "overallCertainty": {
+        "value": "Known only from archaeology; dates are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+      }
+    }
+  }
+}

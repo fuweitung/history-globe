@@ -1,0 +1,323 @@
+{
+  "id": "early-mesoamerican-farmers",
+  "name": "Early farmers of Mesoamerica",
+  "era": "prehistory",
+  "region": "Mesoamerica",
+  "startYear": -8000,
+  "endYear": -200,
+  "datesApproximate": true,
+  "capital": "None (villages)",
+  "capitalCoords": [
+    -97,
+    18
+  ],
+  "summary": "The peoples of Mexico and Central America who domesticated maize, beans, squash and chili, laying the foundations for the Olmec, Maya and later civilisations.",
+  "wikiTitle": "Maize",
+  "borderNames": [
+    "Mesoamerican hunter-gatherers and maïze farmers",
+    "Maize farmers"
+  ],
+  "borderYears": [
+    -8000,
+    -200
+  ],
+  "color": "#c7a948",
+  "knownFor": [
+    {
+      "label": "Maize",
+      "kind": "food",
+      "year": -7000,
+      "note": "Bred from the wild grass teosinte in southern Mexico."
+    },
+    {
+      "label": "Guilá Naquitz cave",
+      "kind": "monument",
+      "note": "A cave in Oaxaca with some of the earliest squash."
+    },
+    {
+      "label": "Nixtamalisation",
+      "kind": "tool",
+      "note": "Cooking maize with lime to make it more nourishing."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Mexico and Central America.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "terrain": {
+        "value": "Highlands, valleys and tropical lowlands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "climate": {
+        "value": "Warm, with wet and dry seasons.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "resources": {
+        "value": "Wild teosinte, beans, squash, chili, avocado.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "urbanisation": {
+        "value": "Small villages appeared by about 2000 BCE.",
+        "year": -2000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "disease": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "migration": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Gathering and hunting, then farming maize, beans and squash.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "tradeRoutes": {
+        "value": "Exchange of obsidian and shells.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "wealth": {
+        "value": "No estimate is possible.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "moneyAndTax": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "inequality": {
+        "value": "Mostly equal villages at first.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Bands, then villages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "keyRulers": {
+        "value": "No rulers are known.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "succession": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "institutions": {
+        "value": "Kinship and custom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "stability": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Spear-throwers, stone tools.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "majorWars": {
+        "value": "None known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "territoryChange": {
+        "value": "Farming spread across the region.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "alliancesRivals": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Domestication of maize (about 7000 BCE), grinding stones (metate), pottery (about 2000 BCE).",
+        "year": -7000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "scienceEducation": {
+        "value": "No writing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "openness": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "communicationTransport": {
+        "value": "Travel on foot; no pack animals or wheels for transport.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Unknown; later traditions grew from these communities.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "languageWriting": {
+        "value": "Many languages, no writing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "artsArchitecture": {
+        "value": "Clay figurines and early pottery.",
+        "year": -1500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "socialStructure": {
+        "value": "Families and villages.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "sharedIdentity": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "dailyLife": {
+        "value": "Pole-and-thatch houses; maize, beans, squash and chili.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Neighbouring groups.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "ideasReligions": {
+        "value": "Maize farming spread north and south through the Americas.",
+        "year": -2000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Domestication of crops.",
+        "year": -7000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "peakPeriod": {
+        "value": "No single peak.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "declineSignals": {
+        "value": "Not a decline: villages grew into the first civilisations.",
+        "year": -1500,
+        "certainty": "estimated",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "outcome": {
+        "value": "Followed by the Olmec and other Mesoamerican cultures.",
+        "year": -1200,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      },
+      "overallCertainty": {
+        "value": "Known from archaeology and plant genetics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Maize; Wikipedia: Mesoamerican chronology"
+      }
+    }
+  }
+}
