@@ -1,0 +1,305 @@
+{
+  "id": "germany-modern",
+  "name": "Germany (since 1949)",
+  "era": "modern",
+  "region": "Central Europe",
+  "startYear": 1949,
+  "endYear": null,
+  "capital": "Bonn (West, 1949–1990); Berlin",
+  "capitalCoords": [
+    13.4,
+    52.52
+  ],
+  "summary": "The Federal Republic of Germany, founded in the West in 1949 and reunified with East Germany in 1990. Today the most populous member of the European Union.",
+  "wikiTitle": "Germany",
+  "borderNames": [
+    "West Germany",
+    "Germany"
+  ],
+  "borderYears": [
+    1949,
+    null
+  ],
+  "color": "#5a5a5a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Western and Central Europe, between the Baltic and North Seas and the Alps; capital Berlin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Germany (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Northern plain, central uplands and the Alps; rivers Rhine, Elbe, Danube.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      },
+      "climate": {
+        "value": "Temperate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      },
+      "resources": {
+        "value": "Coal (now phased down), farmland, timber.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      },
+      "disasters": {
+        "value": "Floods (e.g. 2021).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Over 83 million, the most populous EU member.",
+        "year": 2025,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Germany (checked 6 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "Berlin is the capital and largest city; the Ruhr the largest urban area; Frankfurt the financial centre.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Germany (checked 6 Nov 2026)"
+      },
+      "disease": {
+        "value": "COVID-19.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      },
+      "migration": {
+        "value": "Guest workers from Turkey and southern Europe; refugees in 2015.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Manufacturing (cars, machinery, chemicals) and exports.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      },
+      "tradeRoutes": {
+        "value": "EU single market and world trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      },
+      "wealth": {
+        "value": "A high-income economy; the largest in Europe.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      },
+      "moneyAndTax": {
+        "value": "The Deutsche Mark, then the euro (2002).",
+        "year": 2002,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      },
+      "inequality": {
+        "value": "A strong welfare state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A federal parliamentary republic of 16 states.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      },
+      "keyRulers": {
+        "value": "Chancellors Konrad Adenauer, Willy Brandt, Helmut Kohl (reunification), Angela Merkel.",
+        "year": 1949,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      },
+      "succession": {
+        "value": "Elections to the Bundestag.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      },
+      "institutions": {
+        "value": "The Basic Law (1949) and a constitutional court.",
+        "year": 1949,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      },
+      "stability": {
+        "value": "Stable democracy.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      },
+      "eliteConflict": {
+        "value": "Party politics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "The Bundeswehr in NATO.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      },
+      "majorWars": {
+        "value": "None since 1945.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      },
+      "territoryChange": {
+        "value": "Reunified with East Germany on 3 October 1990.",
+        "year": 1990,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      },
+      "alliancesRivals": {
+        "value": "NATO and the EU.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Engineering and car industry.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      },
+      "scienceEducation": {
+        "value": "Strong universities and vocational training.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      },
+      "openness": {
+        "value": "European integration.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Christian traditions; many non-religious; Muslim minority.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      },
+      "languageWriting": {
+        "value": "German.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      },
+      "artsArchitecture": {
+        "value": "Bauhaus heritage; modern culture.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      },
+      "socialStructure": {
+        "value": "Large middle class.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      },
+      "sharedIdentity": {
+        "value": "Memory of Nazi crimes shapes national culture.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Denmark, Poland, Czechia, Austria, Switzerland, France, Luxembourg, Belgium, Netherlands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Germany (checked 6 Nov 2026)"
+      },
+      "ideasReligions": {
+        "value": "European unity.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      },
+      "colonisation": {
+        "value": "None after 1919.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "The post-war “economic miracle”.",
+        "year": 1950,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      },
+      "peakPeriod": {
+        "value": "Still exists; reunification in 1990 made it the EU’s largest economy.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      },
+      "declineSignals": {
+        "value": "An ageing population and dependence on exports and imported energy.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      },
+      "outcome": {
+        "value": "Continues today as Germany.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Government statistics. Checked against Wikipedia (“Germany”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Germany (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "High.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Germany (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Fall of the Berlin Wall",
+      "kind": "idea",
+      "year": 1989,
+      "note": "Led to reunification."
+    },
+    {
+      "label": "Autobahn and car industry",
+      "kind": "tool",
+      "note": "Cars."
+    }
+  ]
+}

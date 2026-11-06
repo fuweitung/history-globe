@@ -1,0 +1,305 @@
+{
+  "id": "philippines",
+  "name": "Philippines (since 1946)",
+  "era": "modern",
+  "region": "Southeast Asia",
+  "startYear": 1946,
+  "endYear": null,
+  "capital": "Manila",
+  "capitalCoords": [
+    120.98,
+    14.6
+  ],
+  "summary": "The Republic of the Philippines, independent from the United States since 1946: an archipelago of about 7,641 islands with over 114 million people.",
+  "wikiTitle": "Philippines",
+  "borderNames": [
+    "Philippines"
+  ],
+  "borderYears": [
+    1946,
+    null
+  ],
+  "color": "#3a6ac0",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "An archipelago in the western Pacific: Luzon, the Visayas and Mindanao; about 7,641 islands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Philippines (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Volcanic, mountainous islands.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      },
+      "climate": {
+        "value": "Tropical, with many typhoons.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      },
+      "resources": {
+        "value": "Farmland, minerals, fisheries.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      },
+      "disasters": {
+        "value": "Typhoons (e.g. Haiyan, 2013) and volcanic eruptions (Pinatubo, 1991).",
+        "year": 2013,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Over 114 million.",
+        "year": 2025,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Philippines (checked 6 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "Metro Manila is a megacity.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      },
+      "disease": {
+        "value": "COVID-19.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      },
+      "migration": {
+        "value": "Millions work abroad as overseas Filipino workers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Services, remittances, electronics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      },
+      "tradeRoutes": {
+        "value": "Trade with the US, Japan and China.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      },
+      "wealth": {
+        "value": "A lower-middle-income economy.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      },
+      "moneyAndTax": {
+        "value": "The peso.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      },
+      "inequality": {
+        "value": "High inequality.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A presidential republic.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      },
+      "keyRulers": {
+        "value": "Ferdinand Marcos (1965–86), Corazon Aquino.",
+        "year": 1986,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      },
+      "institutions": {
+        "value": "The 1987 constitution.",
+        "year": 1987,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      },
+      "stability": {
+        "value": "Martial law (1972–81); the People Power Revolution (1986).",
+        "year": 1986,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      },
+      "eliteConflict": {
+        "value": "Political dynasties.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Armed Forces; US alliance.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      },
+      "majorWars": {
+        "value": "Insurgencies in Mindanao.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      },
+      "territoryChange": {
+        "value": "South China Sea disputes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      },
+      "alliancesRivals": {
+        "value": "Allied with the US.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      },
+      "scienceEducation": {
+        "value": "High literacy.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      },
+      "openness": {
+        "value": "Strong US influence.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Catholic; Muslim minority.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      },
+      "languageWriting": {
+        "value": "Filipino and English.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      },
+      "artsArchitecture": {
+        "value": "Baroque churches (UNESCO).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      },
+      "socialStructure": {
+        "value": "Large inequality.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      },
+      "sharedIdentity": {
+        "value": "Filipino identity.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Taiwan, Japan, Indonesia, Malaysia, Vietnam, China (maritime).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      },
+      "ideasReligions": {
+        "value": "Catholicism.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      },
+      "colonisation": {
+        "value": "Former Spanish (1565–1898) and US (1898–1946) colony.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence in 1946.",
+        "year": 1946,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Philippines (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "Still exists; strong growth in the 2010s.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      },
+      "declineSignals": {
+        "value": "Not applicable: still exists. Challenges include inequality, insurgency and typhoons.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      },
+      "outcome": {
+        "value": "Continues today as the Philippines.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Abinales & Amoroso, State and Society in the Philippines (2017)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Checked against Wikipedia (“Philippines”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Philippines (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "High.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Philippines (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Jeepney",
+      "kind": "tool",
+      "year": 1945,
+      "note": "Shared transport."
+    },
+    {
+      "label": "People Power",
+      "kind": "idea",
+      "year": 1986,
+      "note": "A peaceful revolution."
+    }
+  ]
+}

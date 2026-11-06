@@ -2996,6 +2996,17 @@
     ]
   },
   {
+    "id": "copernicus-heliocentric",
+    "year": 1543,
+    "lat": 54.35,
+    "lng": 18.65,
+    "type": "invention",
+    "title": "Copernicus: the Sun at the centre",
+    "description": "Nicolaus Copernicus publishes his theory that the Earth moves around the Sun.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: De revolutionibus orbium coelestium (checked 6 Nov 2026)"
+  },
+  {
     "id": "potosi-silver",
     "year": 1545,
     "lat": -19.58,
@@ -3324,6 +3335,17 @@
       "ottoman-empire",
       "habsburg-monarchy"
     ]
+  },
+  {
+    "id": "newton-principia",
+    "year": 1687,
+    "lat": 52.2,
+    "lng": 0.12,
+    "type": "invention",
+    "title": "Newton’s Principia",
+    "description": "Isaac Newton sets out the laws of motion and universal gravitation.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Philosophiæ Naturalis Principia Mathematica (checked 6 Nov 2026)"
   },
   {
     "id": "treaty-of-nerchinsk",
@@ -3978,6 +4000,19 @@
     "source": "Wikipedia: Paraguayan War (checked 6 Nov 2026)"
   },
   {
+    "id": "mendel-genetics",
+    "year": 1866,
+    "lat": 49.19,
+    "lng": 16.61,
+    "type": "invention",
+    "title": "Mendel founds genetics",
+    "description": "Gregor Mendel publishes his pea-plant experiments, the basis of modern genetics.",
+    "relatedPolityIds": [
+      "austria-hungary"
+    ],
+    "source": "Wikipedia: Experiments on Plant Hybridization (checked 6 Nov 2026)"
+  },
+  {
     "id": "austro-hungarian-compromise",
     "year": 1867,
     "lat": 47.5,
@@ -4085,6 +4120,20 @@
       "british-empire"
     ],
     "source": "Wikipedia: Battle of Isandlwana (checked 6 Nov 2026)"
+  },
+  {
+    "id": "electric-light",
+    "year": 1879,
+    "yearApproximate": true,
+    "lat": 40.78,
+    "lng": -74.4,
+    "type": "invention",
+    "title": "Practical electric light",
+    "description": "Thomas Edison’s team and others produce long-lasting incandescent light bulbs.",
+    "relatedPolityIds": [
+      "united-states"
+    ],
+    "source": "Wikipedia: Incandescent light bulb (year from general references; not stated in the summary checked 6 Nov 2026)"
   },
   {
     "id": "krakatoa",
@@ -4196,6 +4245,18 @@
       "malaysia"
     ],
     "source": "Wikipedia: Federated Malay States"
+  },
+  {
+    "id": "radio-marconi",
+    "year": 1895,
+    "yearApproximate": true,
+    "lat": 44.49,
+    "lng": 11.34,
+    "type": "invention",
+    "title": "Radio",
+    "description": "Guglielmo Marconi develops practical radio communication.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Guglielmo Marconi (year from general references; not stated in the summary checked 6 Nov 2026)"
   },
   {
     "id": "battle-of-adwa",
@@ -4767,6 +4828,19 @@
     "source": "Wikipedia: Chinese Civil War"
   },
   {
+    "id": "eniac",
+    "year": 1945,
+    "lat": 39.95,
+    "lng": -75.19,
+    "type": "invention",
+    "title": "ENIAC, an early computer",
+    "description": "The first programmable, electronic, general-purpose digital computer is completed.",
+    "relatedPolityIds": [
+      "united-states"
+    ],
+    "source": "Wikipedia: ENIAC (checked 6 Nov 2026)"
+  },
+  {
     "id": "malayan-union",
     "year": 1946,
     "endYear": 1948,
@@ -4807,6 +4881,20 @@
       "british-empire"
     ],
     "source": "Wikipedia: Partition of India (checked 6 Nov 2026)"
+  },
+  {
+    "id": "transistor",
+    "year": 1947,
+    "yearApproximate": true,
+    "lat": 40.68,
+    "lng": -74.4,
+    "type": "invention",
+    "title": "The transistor",
+    "description": "Scientists at Bell Labs build the first transistor, the building block of modern electronics.",
+    "relatedPolityIds": [
+      "united-states"
+    ],
+    "source": "Wikipedia: Transistor (year from general references; not stated in the summary checked 6 Nov 2026)"
   },
   {
     "id": "malayan-emergency",
@@ -4901,6 +4989,17 @@
       "british-empire"
     ],
     "source": "Wikipedia: 1953 Iranian coup d’état"
+  },
+  {
+    "id": "dna-double-helix",
+    "year": 1953,
+    "lat": 52.2,
+    "lng": 0.12,
+    "type": "invention",
+    "title": "The structure of DNA",
+    "description": "The double-helix structure of DNA is published, using X-ray data from Rosalind Franklin’s group.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Molecular Structure of Nucleic Acids (checked 6 Nov 2026)"
   },
   {
     "id": "bandung-conference",
@@ -5149,6 +5248,17 @@
     "source": "Wikipedia: ASEAN Declaration"
   },
   {
+    "id": "six-day-war",
+    "year": 1967,
+    "lat": 31.0,
+    "lng": 34.0,
+    "type": "war",
+    "title": "Six-Day War",
+    "description": "A war between Israel and Egypt, Syria and Jordan (5–10 June 1967); Israel takes the West Bank, Gaza, Sinai and the Golan Heights.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Six-Day War (checked 6 Nov 2026)"
+  },
+  {
     "id": "apollo-11",
     "year": 1969,
     "lat": 28.57,
@@ -5262,6 +5372,17 @@
     "source": "Wikipedia: Soviet–Afghan War"
   },
   {
+    "id": "smallpox-eradicated",
+    "year": 1980,
+    "lat": 46.2,
+    "lng": 6.14,
+    "type": "disaster",
+    "title": "Smallpox eradicated",
+    "description": "The World Health Organization certifies smallpox eradicated, the first human disease wiped out.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Smallpox (checked 6 Nov 2026)"
+  },
+  {
     "id": "chernobyl",
     "year": 1986,
     "lat": 51.39,
@@ -5331,6 +5452,17 @@
     "description": "The Maastricht Treaty creates the European Union. The euro follows in 1999.",
     "relatedPolityIds": [],
     "source": "Wikipedia: Maastricht Treaty"
+  },
+  {
+    "id": "oslo-accords",
+    "year": 1993,
+    "lat": 38.9,
+    "lng": -77.04,
+    "type": "culture",
+    "title": "Oslo Accords",
+    "description": "Israel and the Palestine Liberation Organization sign interim agreements (1993, 1995).",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Oslo Accords (checked 6 Nov 2026)"
   },
   {
     "id": "end-of-apartheid",
@@ -5409,6 +5541,30 @@
     "source": "Wikipedia: September 11 attacks"
   },
   {
+    "id": "iraq-war",
+    "year": 2003,
+    "lat": 33.31,
+    "lng": 44.36,
+    "type": "war",
+    "title": "Iraq War",
+    "description": "A US-led coalition invades Iraq in March 2003; the conflict lasts until 2011.",
+    "relatedPolityIds": [
+      "united-states"
+    ],
+    "source": "Wikipedia: Iraq War (checked 6 Nov 2026)"
+  },
+  {
+    "id": "human-genome",
+    "year": 2003,
+    "lat": 51.5,
+    "lng": -0.12,
+    "type": "invention",
+    "title": "Human genome sequenced",
+    "description": "The international Human Genome Project completes its map of human DNA.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Human Genome Project (checked 6 Nov 2026)"
+  },
+  {
     "id": "indian-ocean-tsunami",
     "year": 2004,
     "lat": 3.32,
@@ -5462,6 +5618,29 @@
     "source": "Wikipedia: Arab Spring"
   },
   {
+    "id": "syrian-civil-war",
+    "year": 2011,
+    "lat": 33.51,
+    "lng": 36.29,
+    "type": "war",
+    "title": "Syrian civil war",
+    "description": "Protests against the Assad government in 2011 turn into a long civil war (2011–2024).",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Syrian civil war (checked 6 Nov 2026)"
+  },
+  {
+    "id": "higgs-boson",
+    "year": 2012,
+    "yearApproximate": true,
+    "lat": 46.23,
+    "lng": 6.05,
+    "type": "invention",
+    "title": "Higgs boson found",
+    "description": "CERN physicists announce the discovery of the Higgs boson.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Higgs boson (year from general references; not stated in the summary checked 6 Nov 2026)"
+  },
+  {
     "id": "paris-agreement",
     "year": 2015,
     "lat": 48.86,
@@ -5497,6 +5676,17 @@
     "relatedPolityIds": []
   },
   {
+    "id": "brexit",
+    "year": 2020,
+    "lat": 51.5,
+    "lng": -0.12,
+    "type": "culture",
+    "title": "Brexit",
+    "description": "The United Kingdom leaves the European Union on 31 January 2020.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Brexit (checked 6 Nov 2026)"
+  },
+  {
     "id": "russia-ukraine-war",
     "year": 2022,
     "lat": 50.45,
@@ -5506,6 +5696,19 @@
     "description": "Russia launches a full-scale invasion of Ukraine, the largest war in Europe since 1945.",
     "relatedPolityIds": [],
     "source": "Wikipedia: Russian invasion of Ukraine"
+  },
+  {
+    "id": "chatgpt",
+    "year": 2022,
+    "lat": 37.77,
+    "lng": -122.42,
+    "type": "invention",
+    "title": "Generative AI goes mainstream",
+    "description": "ChatGPT is released on 30 November 2022, bringing AI chatbots to hundreds of millions of people.",
+    "relatedPolityIds": [
+      "united-states"
+    ],
+    "source": "Wikipedia: ChatGPT (checked 6 Nov 2026)"
   },
   {
     "id": "turkey-syria-earthquakes",
@@ -5519,5 +5722,16 @@
       "republic-of-turkey"
     ],
     "source": "Wikipedia: 2023 Turkey–Syria earthquakes (checked 6 Nov 2026)"
+  },
+  {
+    "id": "gaza-war",
+    "year": 2023,
+    "lat": 31.5,
+    "lng": 34.45,
+    "type": "war",
+    "title": "Gaza war",
+    "description": "The war begins on 7 October 2023 with a Hamas-led attack on Israel, followed by an Israeli military campaign in Gaza; it causes very heavy loss of life and a humanitarian crisis.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Gaza war (checked 6 Nov 2026)"
   }
 ]

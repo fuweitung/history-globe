@@ -895,5 +895,178 @@
     "fromPolityId": "neolithic-levant",
     "toPolityId": "ubaid",
     "relation": "succeeded"
+  },
+  {
+    "fromPolityId": "goguryeo",
+    "toPolityId": "silla",
+    "relation": "allied_with"
+  },
+  {
+    "fromPolityId": "silla",
+    "toPolityId": "baekje",
+    "relation": "conquered",
+    "year": 660
+  },
+  {
+    "fromPolityId": "silla",
+    "toPolityId": "goguryeo",
+    "relation": "conquered",
+    "year": 668
+  },
+  {
+    "fromPolityId": "tang",
+    "toPolityId": "goguryeo",
+    "relation": "conquered",
+    "year": 668
+  },
+  {
+    "fromPolityId": "silla",
+    "toPolityId": "goryeo",
+    "relation": "succeeded",
+    "year": 935
+  },
+  {
+    "fromPolityId": "funan",
+    "toPolityId": "khmer-empire",
+    "relation": "succeeded"
+  },
+  {
+    "fromPolityId": "toungoo-dynasty",
+    "toPolityId": "konbaung-dynasty",
+    "relation": "succeeded",
+    "year": 1752
+  },
+  {
+    "fromPolityId": "konbaung-dynasty",
+    "toPolityId": "ayutthaya-kingdom",
+    "relation": "conquered",
+    "year": 1767
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "konbaung-dynasty",
+    "relation": "conquered",
+    "year": 1885
+  },
+  {
+    "fromPolityId": "lan-xang",
+    "toPolityId": "ayutthaya-kingdom",
+    "relation": "traded_with"
+  },
+  {
+    "fromPolityId": "bruneian-empire",
+    "toPolityId": "sulu-sultanate",
+    "relation": "allied_with"
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "philippines",
+    "relation": "colonised",
+    "year": 1565
+  },
+  {
+    "fromPolityId": "united-states",
+    "toPolityId": "philippines",
+    "relation": "colonised",
+    "year": 1898
+  },
+  {
+    "fromPolityId": "byzantine-empire",
+    "toPolityId": "first-bulgarian-empire",
+    "relation": "conquered",
+    "year": 1018
+  },
+  {
+    "fromPolityId": "republic-of-venice",
+    "toPolityId": "byzantine-empire",
+    "relation": "traded_with"
+  },
+  {
+    "fromPolityId": "republic-of-venice",
+    "toPolityId": "ottoman-empire",
+    "relation": "traded_with"
+  },
+  {
+    "fromPolityId": "kilwa-sultanate",
+    "toPolityId": "great-zimbabwe",
+    "relation": "traded_with"
+  },
+  {
+    "fromPolityId": "portuguese-empire",
+    "toPolityId": "kilwa-sultanate",
+    "relation": "conquered",
+    "year": 1505
+  },
+  {
+    "fromPolityId": "oyo-empire",
+    "toPolityId": "kingdom-of-benin",
+    "relation": "traded_with"
+  },
+  {
+    "fromPolityId": "sokoto-caliphate",
+    "toPolityId": "oyo-empire",
+    "relation": "conquered",
+    "year": 1836
+  },
+  {
+    "fromPolityId": "kanem-bornu",
+    "toPolityId": "sokoto-caliphate",
+    "relation": "conquered",
+    "year": 1808
+  },
+  {
+    "fromPolityId": "olmec",
+    "toPolityId": "zapotec",
+    "relation": "traded_with"
+  },
+  {
+    "fromPolityId": "zapotec",
+    "toPolityId": "teotihuacan",
+    "relation": "traded_with"
+  },
+  {
+    "fromPolityId": "nazca",
+    "toPolityId": "wari-empire",
+    "relation": "succeeded"
+  },
+  {
+    "fromPolityId": "nara-heian-japan",
+    "toPolityId": "tang",
+    "relation": "traded_with"
+  },
+  {
+    "fromPolityId": "empire-of-japan",
+    "toPolityId": "modern-japan",
+    "relation": "succeeded",
+    "year": 1945
+  },
+  {
+    "fromPolityId": "german-empire",
+    "toPolityId": "germany-modern",
+    "relation": "succeeded"
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "france-republic",
+    "relation": "succeeded",
+    "year": 1962
+  },
+  {
+    "fromPolityId": "nguyen-vietnam",
+    "toPolityId": "vietnam-modern",
+    "relation": "succeeded",
+    "year": 1945
+  },
+  {
+    "fromPolityId": "malaysia",
+    "toPolityId": "singapore",
+    "relation": "succeeded",
+    "year": 1965
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "singapore",
+    "relation": "colonised",
+    "year": 1819
   }
 ]

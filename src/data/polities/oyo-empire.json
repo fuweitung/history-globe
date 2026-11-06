@@ -1,0 +1,310 @@
+{
+  "id": "oyo-empire",
+  "name": "Oyo Empire",
+  "era": "early_modern",
+  "region": "West Africa",
+  "startYear": 1300,
+  "endYear": 1896,
+  "datesApproximate": true,
+  "capital": "Oyo-Ile",
+  "capitalCoords": [
+    4.1,
+    8.95
+  ],
+  "summary": "A Yoruba empire in present-day Nigeria and Benin, built on trade and cavalry. From the late 16th to the early 18th century it was one of the most powerful states in West Africa.",
+  "wikiTitle": "Oyo Empire",
+  "borderNames": [
+    "Oyo"
+  ],
+  "borderYears": [
+    1300,
+    1896
+  ],
+  "color": "#a06a3f",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Western Nigeria and Benin, centred on Oyo-Ile in the savannah north of the forest.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oyo Empire (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Open savannah, which suited cavalry, south of the Niger river.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      },
+      "climate": {
+        "value": "Tropical savannah with a long dry season.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      },
+      "resources": {
+        "value": "Farmland, horses bought from the north, cloth and trade goods.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      },
+      "disasters": {
+        "value": "Drought.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      },
+      "urbanisation": {
+        "value": "Oyo-Ile was a large walled city.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      },
+      "disease": {
+        "value": "Tsetse flies in the forest limited the use of horses further south.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      },
+      "migration": {
+        "value": "Yoruba refugees moved south after the empire’s collapse in the 19th century.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, crafts and trade, including the Atlantic slave trade through the coast.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      },
+      "tradeRoutes": {
+        "value": "Trade with the north (horses) and the Atlantic coast through Porto-Novo.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oyo Empire (checked 6 Nov 2026)"
+      },
+      "wealth": {
+        "value": "No estimate is possible.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      },
+      "moneyAndTax": {
+        "value": "Cowrie shells; tribute from subject kingdoms such as Dahomey.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      },
+      "inequality": {
+        "value": "The Alaafin, nobles and warriors above farmers and slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A monarchy (the Alaafin) checked by a council of nobles, the Oyo Mesi.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      },
+      "keyRulers": {
+        "value": "Oranyan (legendary founder), Abiodun (1770–1789), Bashorun Gaha (powerful chief 1754–1774).",
+        "year": 1754,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      },
+      "succession": {
+        "value": "The Oyo Mesi could force an Alaafin to commit suicide if he lost their confidence.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      },
+      "institutions": {
+        "value": "The Oyo Mesi council and the Ogboni earth cult balanced royal power.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      },
+      "stability": {
+        "value": "Long stable; then a power struggle between chiefs in the 18th century.",
+        "year": 1754,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      },
+      "eliteConflict": {
+        "value": "Bashorun Gaha dominated several kings.",
+        "year": 1754,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Cavalry was a major military strength.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oyo Empire (checked 6 Nov 2026)"
+      },
+      "majorWars": {
+        "value": "Made Dahomey a tributary (from about 1730); the Fulani jihad and the Ilorin revolt.",
+        "year": 1730,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      },
+      "territoryChange": {
+        "value": "At its height it controlled most of Yorubaland and Dahomey.",
+        "year": 1700,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      },
+      "alliancesRivals": {
+        "value": "Held sway over Dahomey; rival of Nupe and later the Sokoto Caliphate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oyo Empire (checked 6 Nov 2026)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      },
+      "scienceEducation": {
+        "value": "Oral history kept by court historians (arokin).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      },
+      "openness": {
+        "value": "Traded with Muslims to the north and Europeans on the coast.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Yoruba religion (orisha); Shango was linked to the Alaafin.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      },
+      "languageWriting": {
+        "value": "Yoruba; oral tradition.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      },
+      "artsArchitecture": {
+        "value": "Palace architecture and Yoruba art.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      },
+      "socialStructure": {
+        "value": "Alaafin, chiefs, warriors, farmers, slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      },
+      "sharedIdentity": {
+        "value": "The largest Yoruba-speaking state.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oyo Empire (checked 6 Nov 2026)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Dahomey, Nupe, Borgu, Benin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oyo Empire (checked 6 Nov 2026)"
+      },
+      "ideasReligions": {
+        "value": "Islam spread in the north.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      },
+      "colonisation": {
+        "value": "Absorbed into British Nigeria.",
+        "year": 1896,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Organisation, trade and cavalry.",
+        "year": 1600,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oyo Empire (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "Late 16th to early 18th century.",
+        "year": 1700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oyo Empire (checked 6 Nov 2026)"
+      },
+      "declineSignals": {
+        "value": "Revolts, the Ilorin rebellion (1817) and the Fulani jihad.",
+        "year": 1817,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      },
+      "outcome": {
+        "value": "Oyo-Ile was abandoned around 1836; a new Oyo was founded further south, later under British rule.",
+        "year": 1836,
+        "certainty": "estimated",
+        "source": "Law, The Oyo Empire c. 1600–c. 1836 (1977)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Oral tradition and European accounts. Checked against Wikipedia (“Oyo Empire”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oyo Empire (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Medium. Early dates rely on oral tradition.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Oyo Empire (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Oyo cavalry",
+      "kind": "troops",
+      "year": 1700,
+      "note": "Horse-mounted armies that dominated the savannah."
+    },
+    {
+      "label": "Oyo Mesi council",
+      "kind": "idea",
+      "note": "A council of nobles that checked the king’s power."
+    },
+    {
+      "label": "Yoruba orisha religion",
+      "kind": "idea",
+      "note": "The religion of the orishas, later carried to the Americas."
+    }
+  ]
+}

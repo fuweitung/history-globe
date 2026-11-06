@@ -1,0 +1,306 @@
+{
+  "id": "kilwa-sultanate",
+  "name": "Kilwa Sultanate",
+  "era": "medieval",
+  "region": "East Africa (Swahili Coast)",
+  "startYear": 957,
+  "endYear": 1513,
+  "datesApproximate": true,
+  "capital": "Kilwa Kisiwani",
+  "capitalCoords": [
+    39.51,
+    -8.96
+  ],
+  "summary": "A Swahili trading state on an island off Tanzania whose authority at its height stretched along the whole Swahili Coast. It grew rich on gold from Great Zimbabwe and Indian Ocean trade.",
+  "wikiTitle": "Kilwa Sultanate",
+  "borderNames": [],
+  "color": "#3f9a8a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Kilwa Kisiwani, an island off southern Tanzania, with authority at its height over the whole Swahili Coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kilwa Sultanate (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Coral islands, mangrove creeks and a monsoon-swept coast facing the Indian Ocean.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      },
+      "climate": {
+        "value": "Tropical, with monsoon winds that set the rhythm of sea trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      },
+      "resources": {
+        "value": "Control of the gold trade from Sofala (from the Great Zimbabwe region), ivory and timber.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      },
+      "disasters": {
+        "value": "No major disasters are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate; Kilwa town may have had around 10,000 people at its height.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      },
+      "urbanisation": {
+        "value": "Stone towns with coral-stone mosques and palaces, such as Husuni Kubwa.",
+        "year": 1300,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      },
+      "disease": {
+        "value": "No specific epidemics are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      },
+      "migration": {
+        "value": "Legend says it was founded by Ali ibn al-Hassan Shirazi, a prince from Shiraz in Persia; historians debate how far this reflects real migration.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Kilwa Sultanate (checked 6 Nov 2026)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Taxing the gold, ivory and slave trade passing between Africa and the Indian Ocean.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      },
+      "tradeRoutes": {
+        "value": "Indian Ocean routes to Arabia, Persia, India and China; gold from Sofala.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      },
+      "wealth": {
+        "value": "No estimate is possible; Kilwa minted its own copper coins and Chinese porcelain has been found there.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      },
+      "moneyAndTax": {
+        "value": "Copper (and some silver) coins minted from about the 11th century; customs duties on gold.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      },
+      "inequality": {
+        "value": "A Muslim merchant aristocracy above townspeople and slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A sultanate ruled by Shirazi and later Mahdali dynasties.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      },
+      "keyRulers": {
+        "value": "Ali ibn al-Hassan Shirazi (legendary founder), al-Hasan ibn Sulaiman (14th century, builder of Husuni Kubwa).",
+        "year": 1310,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      },
+      "succession": {
+        "value": "Hereditary, with disputes between rival branches.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      },
+      "institutions": {
+        "value": "Islamic law and a merchant elite.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      },
+      "stability": {
+        "value": "Prosperous in the 13th–14th centuries; weakened by disputes in the 15th.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      },
+      "eliteConflict": {
+        "value": "Rival claimants and competition with Mombasa.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Small forces; defended by its island position.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      },
+      "majorWars": {
+        "value": "The Portuguese sacked Kilwa in 1505.",
+        "year": 1505,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      },
+      "territoryChange": {
+        "value": "At its height its authority stretched over the entire length of the Swahili Coast.",
+        "year": 1300,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kilwa Sultanate (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rival of Mombasa; attacked by Portugal.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Coral-stone architecture with domes and vaults.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      },
+      "scienceEducation": {
+        "value": "Islamic learning in mosques.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      },
+      "openness": {
+        "value": "A cosmopolitan port where Africans, Arabs and Persians met.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sunni Islam.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      },
+      "languageWriting": {
+        "value": "Swahili, a Bantu language with many Arabic words; Arabic for religion.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      },
+      "artsArchitecture": {
+        "value": "The Great Mosque of Kilwa and the palace of Husuni Kubwa (UNESCO World Heritage Site).",
+        "year": 1350,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      },
+      "socialStructure": {
+        "value": "Sultan, merchant families, townspeople and slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      },
+      "sharedIdentity": {
+        "value": "Swahili and Islamic identity.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Mombasa, Zanzibar, Sofala and inland kingdoms.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      },
+      "ideasReligions": {
+        "value": "Spread Islam along the coast.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      },
+      "colonisation": {
+        "value": "Occupied by the Portuguese (1505–1512).",
+        "year": 1505,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Taking control of the Sofala gold trade in the 12th–13th centuries.",
+        "year": 1200,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      },
+      "peakPeriod": {
+        "value": "The 13th–14th centuries.",
+        "year": 1350,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      },
+      "declineSignals": {
+        "value": "Falling gold trade and the Portuguese attack.",
+        "year": 1505,
+        "certainty": "estimated",
+        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+      },
+      "outcome": {
+        "value": "Never regained its power after the Portuguese sack; dates for its end vary.",
+        "year": 1513,
+        "certainty": "disputed",
+        "source": "Wikipedia: Kilwa Sultanate (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "The Kilwa Chronicle, archaeology, Ibn Battuta’s visit (1331). Checked against Wikipedia (“Kilwa Sultanate”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kilwa Sultanate (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Medium. Its founding legend and early dates are debated.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Kilwa Sultanate (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Husuni Kubwa palace",
+      "kind": "monument",
+      "year": 1320,
+      "note": "A huge coral-stone palace with a pool, overlooking the sea."
+    },
+    {
+      "label": "Great Mosque of Kilwa",
+      "kind": "monument",
+      "year": 1100,
+      "note": "A domed mosque admired by Ibn Battuta."
+    },
+    {
+      "label": "Kilwa copper coins",
+      "kind": "tool",
+      "year": 1100,
+      "note": "Some of the earliest coins minted in sub-Saharan Africa."
+    }
+  ]
+}

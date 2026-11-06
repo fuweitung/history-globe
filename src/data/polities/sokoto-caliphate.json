@@ -1,0 +1,310 @@
+{
+  "id": "sokoto-caliphate",
+  "name": "Sokoto Caliphate",
+  "era": "modern",
+  "region": "West Africa",
+  "startYear": 1804,
+  "endYear": 1903,
+  "capital": "Sokoto",
+  "capitalCoords": [
+    5.24,
+    13.06
+  ],
+  "summary": "A Sunni Muslim caliphate founded by Usman dan Fodio in a jihad against the Hausa kingdoms. By 1837 it was the most populous state in West Africa, until British, French and German conquest in 1903.",
+  "wikiTitle": "Sokoto Caliphate",
+  "borderNames": [
+    "Sokoto Caliphate"
+  ],
+  "borderYears": [
+    1804,
+    1903
+  ],
+  "color": "#3f7a5a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Northern Nigeria and parts of Niger, Cameroon and Burkina Faso.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sokoto Caliphate (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Savannah and the Sahel south of the Sahara.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      },
+      "climate": {
+        "value": "Hot, with a long dry season.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      },
+      "resources": {
+        "value": "Farmland, cotton, cattle and trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "10–20 million by 1837.",
+        "year": 1837,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sokoto Caliphate (checked 6 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "Kano, Sokoto and Zaria were major cities.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      },
+      "disease": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      },
+      "migration": {
+        "value": "Fulani pastoralists and scholars moved across the region.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, textiles (Kano cloth), and trade; slave labour on plantations.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      },
+      "tradeRoutes": {
+        "value": "Trans-Saharan trade and routes south to the coast.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      },
+      "wealth": {
+        "value": "No estimate is possible.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      },
+      "moneyAndTax": {
+        "value": "Cowries; Islamic taxes and tribute from emirates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      },
+      "inequality": {
+        "value": "Fulani rulers and scholars over Hausa farmers and many slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A caliphate made of many emirates under the Sultan of Sokoto.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sokoto Caliphate (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Usman dan Fodio (founder), Muhammad Bello, Nana Asma’u (scholar and poet).",
+        "year": 1804,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sokoto Caliphate (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Within the dan Fodio family.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      },
+      "institutions": {
+        "value": "Emirs governed provinces under Islamic law.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      },
+      "stability": {
+        "value": "Fairly stable for a century.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      },
+      "eliteConflict": {
+        "value": "Rivalries among emirates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Cavalry and infantry.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      },
+      "majorWars": {
+        "value": "The Fulani War (1804–1808) against the Hausa kingdoms.",
+        "year": 1804,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sokoto Caliphate (checked 6 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "Expanded across northern Nigeria.",
+        "year": 1837,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: Bornu, Oyo.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      },
+      "scienceEducation": {
+        "value": "Islamic scholarship and many books in Arabic and Fulfulde.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      },
+      "openness": {
+        "value": "A reform movement.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sunni Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sokoto Caliphate (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Arabic, Fulfulde and Hausa in Ajami script.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      },
+      "artsArchitecture": {
+        "value": "Mosques and mud-brick architecture.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      },
+      "socialStructure": {
+        "value": "Fulani elite, Hausa, slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      },
+      "sharedIdentity": {
+        "value": "Islam.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Bornu, Oyo, Britain, France.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      },
+      "ideasReligions": {
+        "value": "Islamic reform spread.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      },
+      "colonisation": {
+        "value": "Conquered by Britain, France and Germany in 1903.",
+        "year": 1903,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sokoto Caliphate (checked 6 Nov 2026)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Usman dan Fodio’s jihad (1804–1808) against the Hausa kingdoms.",
+        "year": 1804,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sokoto Caliphate (checked 6 Nov 2026); Last, The Sokoto Caliphate (1967)"
+      },
+      "peakPeriod": {
+        "value": "By 1837 the most populous state in West Africa.",
+        "year": 1837,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sokoto Caliphate (checked 6 Nov 2026)"
+      },
+      "declineSignals": {
+        "value": "European colonial expansion at the end of the 19th century.",
+        "year": 1890,
+        "certainty": "estimated",
+        "source": "Last, The Sokoto Caliphate (1967)"
+      },
+      "outcome": {
+        "value": "Annexed into Northern Nigeria and neighbouring colonies; the Sultan of Sokoto remains a religious leader.",
+        "year": 1903,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sokoto Caliphate (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Arabic writings of the jihad leaders. Checked against Wikipedia (“Sokoto Caliphate”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sokoto Caliphate (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Good. Many Arabic writings of its leaders survive.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sokoto Caliphate (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Usman dan Fodio",
+      "kind": "person",
+      "year": 1804,
+      "note": "Scholar and founder of the caliphate."
+    },
+    {
+      "label": "Nana Asma’u",
+      "kind": "person",
+      "year": 1830,
+      "note": "A poet and teacher who educated women."
+    },
+    {
+      "label": "Kano cloth",
+      "kind": "textile",
+      "note": "Indigo-dyed cloth traded across West Africa."
+    }
+  ]
+}

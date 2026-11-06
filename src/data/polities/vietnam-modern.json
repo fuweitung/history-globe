@@ -1,0 +1,304 @@
+{
+  "id": "vietnam-modern",
+  "name": "Vietnam (since 1945)",
+  "era": "modern",
+  "region": "Southeast Asia",
+  "startYear": 1945,
+  "endYear": null,
+  "capital": "Hanoi",
+  "capitalCoords": [
+    105.85,
+    21.03
+  ],
+  "summary": "Modern Vietnam: independence declared in 1945, decades of war against France and the United States, reunification in 1976, and rapid growth after the Đổi Mới reforms of 1986.",
+  "wikiTitle": "Vietnam",
+  "borderNames": [
+    "Vietnam"
+  ],
+  "borderYears": [
+    1945,
+    null
+  ],
+  "color": "#c03a3a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The eastern edge of mainland Southeast Asia; capital Hanoi, largest city Ho Chi Minh City.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vietnam (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "A long S-shaped country with the Red River and Mekong deltas and central mountains.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      },
+      "climate": {
+        "value": "Tropical monsoon; typhoons.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      },
+      "resources": {
+        "value": "Rice, coffee, seafood, oil.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      },
+      "disasters": {
+        "value": "Typhoons and floods.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Over 102 million.",
+        "year": 2025,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vietnam (checked 6 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "Ho Chi Minh City and Hanoi grew rapidly.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      },
+      "disease": {
+        "value": "COVID-19.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      },
+      "migration": {
+        "value": "Many refugees (“boat people”) left after 1975.",
+        "year": 1975,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Manufacturing, exports and agriculture.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      },
+      "tradeRoutes": {
+        "value": "A major exporter to the US, China and the EU.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      },
+      "wealth": {
+        "value": "A lower-middle-income economy growing quickly.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      },
+      "moneyAndTax": {
+        "value": "The đồng.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      },
+      "inequality": {
+        "value": "Rising inequality with growth.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A one-party communist state.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vietnam (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Ho Chi Minh (declared independence 1945).",
+        "year": 1945,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      },
+      "succession": {
+        "value": "Chosen by the Communist Party.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      },
+      "institutions": {
+        "value": "The Communist Party and National Assembly.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      },
+      "stability": {
+        "value": "Stable since 1979.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      },
+      "eliteConflict": {
+        "value": "Party factions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "A large army.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      },
+      "majorWars": {
+        "value": "First Indochina War (1946–54), Vietnam War (1955–75), war with China (1979).",
+        "year": 1955,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      },
+      "territoryChange": {
+        "value": "North and South reunified in 1976.",
+        "year": 1976,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      },
+      "alliancesRivals": {
+        "value": "Historic tensions with China; ties with the US since 1995.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      },
+      "scienceEducation": {
+        "value": "High literacy.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      },
+      "openness": {
+        "value": "Đổi Mới market reforms (1986).",
+        "year": 1986,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Folk religion and Buddhism; many non-religious.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      },
+      "languageWriting": {
+        "value": "Vietnamese in the Latin-based Quốc ngữ script.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      },
+      "artsArchitecture": {
+        "value": "Water puppetry, áo dài.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      },
+      "socialStructure": {
+        "value": "Rapidly growing middle class.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      },
+      "sharedIdentity": {
+        "value": "National independence.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "China, Laos and Cambodia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vietnam (checked 6 Nov 2026)"
+      },
+      "ideasReligions": {
+        "value": "Communism.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      },
+      "colonisation": {
+        "value": "Former French colony.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Đổi Mới reforms.",
+        "year": 1986,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      },
+      "peakPeriod": {
+        "value": "Still exists; fast growth since the 1990s.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      },
+      "declineSignals": {
+        "value": "Not applicable: still exists. Challenges include corruption and environmental stress.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      },
+      "outcome": {
+        "value": "Continues today as Vietnam.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Goscha, Vietnam: A New History (2016)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Checked against Wikipedia (“Vietnam”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vietnam (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "High for statistics; war tolls are estimates.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vietnam (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Đổi Mới",
+      "kind": "idea",
+      "year": 1986,
+      "note": "Market reforms."
+    },
+    {
+      "label": "Quốc ngữ",
+      "kind": "idea",
+      "note": "Latin script."
+    }
+  ]
+}

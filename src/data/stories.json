@@ -393,5 +393,310 @@
     "text": "About 12.5 million Africans were forcibly shipped to the Americas to work on plantations."
    }
   ]
+ },
+ {
+  "id": "mongols",
+  "title": "The Mongol storm",
+  "summary": "How steppe horsemen built the largest land empire in history, 1206–1480.",
+  "icon": "🏇",
+  "steps": [
+   {
+    "title": "Genghis Khan unites the steppe",
+    "year": 1206,
+    "event": "genghis-khan",
+    "person": "genghis-khan",
+    "text": "Temüjin united the Mongol tribes and took the title Genghis Khan in 1206."
+   },
+   {
+    "title": "The empire expands",
+    "year": 1220,
+    "polity": "mongol-empire",
+    "text": "Mongol horse archers conquered northern China and Central Asia, destroying cities that resisted."
+   },
+   {
+    "title": "Rus’ falls",
+    "year": 1240,
+    "event": "mongols-sack-kiev",
+    "text": "Batu’s armies sacked Kiev; the Golden Horde would rule the Rus’ principalities for two centuries."
+   },
+   {
+    "title": "Baghdad is sacked",
+    "year": 1258,
+    "event": "sack-of-baghdad",
+    "text": "Hulegu sacked Baghdad, ending the Abbasid Caliphate, and founded the Ilkhanate in Iran."
+   },
+   {
+    "title": "The Mamluks stop them",
+    "year": 1260,
+    "event": "battle-of-ain-jalut",
+    "text": "At Ain Jalut the Mamluks of Egypt defeated a Mongol army, halting expansion into Africa."
+   },
+   {
+    "title": "Kublai rules China",
+    "year": 1271,
+    "event": "kublai-yuan",
+    "polity": "yuan",
+    "text": "Kublai Khan founded the Yuan dynasty and ruled all of China from Khanbaliq (Beijing)."
+   },
+   {
+    "title": "Trade and plague",
+    "year": 1347,
+    "event": "black-death",
+    "text": "The Mongol peace boosted Silk Road trade, but also helped plague spread across Eurasia."
+   },
+   {
+    "title": "The khanates break up",
+    "year": 1480,
+    "event": "ugra-river",
+    "text": "By 1480 the khanates had split or fallen; Muscovy stopped paying tribute to the Great Horde."
+   }
+  ]
+ },
+ {
+  "id": "islamic-golden-age",
+  "title": "The rise of Islam and its golden age",
+  "summary": "From Mecca to Baghdad and Córdoba: faith, empire and learning, 622–1258.",
+  "icon": "🌙",
+  "steps": [
+   {
+    "title": "The Hijra",
+    "year": 622,
+    "event": "hijra",
+    "text": "Muhammad and his followers moved from Mecca to Medina in 622, year one of the Islamic calendar."
+   },
+   {
+    "title": "Rapid conquests",
+    "year": 636,
+    "polity": "rashidun-caliphate",
+    "event": "battle-of-yarmouk",
+    "text": "Under the first caliphs, Arab armies defeated Byzantium and Persia in a few decades."
+   },
+   {
+    "title": "The Umayyads",
+    "year": 711,
+    "polity": "umayyad-caliphate",
+    "text": "The Umayyad Caliphate ruled from Damascus, from Spain to Central Asia."
+   },
+   {
+    "title": "Baghdad and the House of Wisdom",
+    "year": 830,
+    "event": "house-of-wisdom",
+    "polity": "abbasid-caliphate",
+    "text": "The Abbasids built Baghdad; scholars translated Greek, Persian and Indian works and advanced algebra and astronomy."
+   },
+   {
+    "title": "Cairo and al-Azhar",
+    "year": 970,
+    "polity": "fatimid-caliphate",
+    "text": "The Fatimids founded Cairo and the al-Azhar mosque, one of the oldest universities."
+   },
+   {
+    "title": "Ibn Sina and al-Biruni",
+    "year": 1020,
+    "person": "ibn-sina",
+    "text": "Scholars such as Ibn Sina (medicine) and al-Biruni (science) wrote works used for centuries."
+   },
+   {
+    "title": "Philosophy in Spain",
+    "year": 1180,
+    "person": "ibn-rushd",
+    "text": "In al-Andalus, Ibn Rushd’s commentaries on Aristotle later shaped European universities."
+   },
+   {
+    "title": "The fall of Baghdad",
+    "year": 1258,
+    "event": "sack-of-baghdad",
+    "text": "The Mongol sack of Baghdad in 1258 is often taken as the end of the golden age."
+   }
+  ]
+ },
+ {
+  "id": "african-kingdoms",
+  "title": "Great kingdoms of Africa",
+  "summary": "Gold, trade and empire across Africa, from Kush to the Zulu.",
+  "icon": "👑",
+  "steps": [
+   {
+    "title": "Kush rules Egypt",
+    "year": -744,
+    "event": "kush-rules-egypt",
+    "text": "Kings from Kush, south of Egypt, conquered Egypt and ruled as its 25th Dynasty."
+   },
+   {
+    "title": "Aksum",
+    "year": 340,
+    "event": "aksum-christianity",
+    "text": "Aksum, in Ethiopia and Eritrea, minted coins, raised giant stelae and adopted Christianity."
+   },
+   {
+    "title": "Ghana, land of gold",
+    "year": 1000,
+    "polity": "ghana-empire",
+    "route": "trans-saharan",
+    "text": "Ghana grew rich by taxing gold and salt carried across the Sahara by camel caravans."
+   },
+   {
+    "title": "Great Zimbabwe",
+    "year": 1300,
+    "event": "great-zimbabwe-enclosure",
+    "text": "In southern Africa, Great Zimbabwe built huge dry-stone walls and traded gold to the coast."
+   },
+   {
+    "title": "Mansa Musa",
+    "year": 1324,
+    "event": "mansa-musa",
+    "person": "mansa-musa",
+    "text": "Mali’s ruler made a famous pilgrimage to Mecca in 1324 with so much gold that it changed prices in Cairo."
+   },
+   {
+    "title": "Kilwa and the Swahili Coast",
+    "year": 1330,
+    "polity": "kilwa-sultanate",
+    "text": "Swahili ports like Kilwa linked Africa to Arabia, India and China."
+   },
+   {
+    "title": "Songhai and Timbuktu",
+    "year": 1500,
+    "polity": "songhai-empire",
+    "text": "Songhai controlled the Niger trade, and Timbuktu was a centre of Islamic scholarship."
+   },
+   {
+    "title": "Asante and the Golden Stool",
+    "year": 1701,
+    "polity": "ashanti-empire",
+    "text": "The Asante united under the Golden Stool and grew rich on gold and trade."
+   },
+   {
+    "title": "Resistance and conquest",
+    "year": 1879,
+    "event": "battle-of-isandlwana",
+    "text": "The Zulu defeated a British army at Isandlwana, but by 1900 European powers had conquered most of Africa."
+   },
+   {
+    "title": "Adwa",
+    "year": 1896,
+    "event": "battle-of-adwa",
+    "text": "Ethiopia defeated an Italian invasion at Adwa and stayed independent."
+   }
+  ]
+ },
+ {
+  "id": "colonialism-independence",
+  "title": "Empires and independence",
+  "summary": "How European empires spread across the world, and how colonies won freedom, 1757–1965.",
+  "icon": "🕊️",
+  "steps": [
+   {
+    "title": "The East India Company",
+    "year": 1757,
+    "event": "battle-of-plassey",
+    "text": "Victory at Plassey let the British East India Company take control of Bengal."
+   },
+   {
+    "title": "Opium and treaties",
+    "year": 1839,
+    "event": "first-opium-war",
+    "text": "Britain fought China to protect the opium trade, forcing open Chinese ports."
+   },
+   {
+    "title": "Rebellion in India",
+    "year": 1857,
+    "event": "indian-rebellion-1857",
+    "text": "A great uprising in India led Britain to rule India directly from 1858."
+   },
+   {
+    "title": "The Scramble for Africa",
+    "year": 1884,
+    "event": "berlin-conference",
+    "text": "At the Berlin Conference, European powers set rules for dividing Africa among themselves."
+   },
+   {
+    "title": "Indian independence",
+    "year": 1947,
+    "event": "india-independence",
+    "person": "gandhi",
+    "text": "After decades of mass protest, India and Pakistan became independent in 1947, with a violent partition."
+   },
+   {
+    "title": "Indonesia and Malaya",
+    "year": 1957,
+    "event": "malaya-independence",
+    "text": "Indonesia declared independence in 1945; Malaya became independent in 1957."
+   },
+   {
+    "title": "The Year of Africa",
+    "year": 1960,
+    "event": "year-of-africa",
+    "text": "In 1960 seventeen African countries became independent."
+   },
+   {
+    "title": "Algeria",
+    "year": 1962,
+    "event": "algerian-independence",
+    "text": "After a long war, Algeria won independence from France in 1962."
+   }
+  ]
+ },
+ {
+  "id": "world-wars",
+  "title": "The world wars",
+  "summary": "Two global wars and the world they made, 1914–1945.",
+  "icon": "🎖️",
+  "steps": [
+   {
+    "title": "A shot in Sarajevo",
+    "year": 1914,
+    "event": "sarajevo-assassination",
+    "text": "The assassination of Archduke Franz Ferdinand set off the First World War."
+   },
+   {
+    "title": "The First World War",
+    "year": 1916,
+    "event": "wwi",
+    "text": "Trench warfare, machine guns and gas killed millions."
+   },
+   {
+    "title": "Revolution in Russia",
+    "year": 1917,
+    "event": "russian-revolution",
+    "text": "War and hardship brought revolution; the Bolsheviks took power."
+   },
+   {
+    "title": "The peace",
+    "year": 1919,
+    "event": "treaty-of-versailles",
+    "text": "The Treaty of Versailles redrew the map and punished Germany."
+   },
+   {
+    "title": "The Great Depression",
+    "year": 1929,
+    "event": "great-depression",
+    "text": "A global economic collapse helped extremist movements rise."
+   },
+   {
+    "title": "The Second World War",
+    "year": 1939,
+    "event": "wwii",
+    "text": "Germany, Italy and Japan fought the Allies; the war became the deadliest in history."
+   },
+   {
+    "title": "The Holocaust",
+    "year": 1941,
+    "event": "holocaust",
+    "text": "Nazi Germany murdered around six million Jews and many others."
+   },
+   {
+    "title": "Turning point",
+    "year": 1942,
+    "event": "stalingrad",
+    "text": "The Soviet victory at Stalingrad turned the war in Europe."
+   },
+   {
+    "title": "The atomic age",
+    "year": 1945,
+    "event": "hiroshima",
+    "text": "The atomic bombings of Hiroshima and Nagasaki preceded Japan’s surrender."
+   }
+  ]
  }
 ]

@@ -50,7 +50,7 @@ npm run fetch-borders -- --force # re-downloads everything
 - **Population charts:** dated population figures from each civilisation’s Wikipedia infobox (60 civilisations have them), drawn with ranges as whiskers; overlaid in Compare.
 - **Pictures:** a freely licensed picture for almost every civilisation and person (Known-for pictures can be added with `--known`), taken from the matching Wikipedia article but only if the file is on Wikimedia Commons with a free licence; every picture shows its author and licence and links to its Commons page. Refresh with `npm run fetch-images` (add `--known` for Known-for items). Data: `src/data/images.json`.
 - **People:** 115 famous people (rulers, thinkers, scientists, writers, explorers…) appear on the map while they were alive, with a panel for each (dates checked against Wikipedia; uncertain dates marked “c.”). Civilisation panels list their famous people; search finds them; toggle them in the Events menu. Data: `src/data/people.json`.
-- **Stories:** six guided tours (Where civilisation began, the Silk Road, Rise and fall of Rome, China’s dynastic cycle, Kingdoms of Southeast Asia, the Age of Exploration). Each step sets the year, flies the map and highlights what it talks about; use ← / → or Next. Open them from the book icon. Links like `?story=rome&step=3` open a step. Data: `src/data/stories.json` (easy to add more).
+- **Stories:** 11 guided tours, from the first civilisations to the world wars. Each step sets the year, flies the map and highlights what it talks about; use ← / → or Next. Open them from the book icon. Links like `?story=rome&step=3` open a step. Data: `src/data/stories.json` (easy to add more).
 - **Shareable links:** the URL keeps the year and the selection, e.g. `?year=1760&polity=qing-china`.
 - **Mobile:** the panel becomes a bottom sheet. Drag or tap the handle to resize it.
 
@@ -69,8 +69,8 @@ history-globe/
 └── src/
     ├── types/index.ts      # Polity, Checklist, HistoryEvent, PolityLink (the data contract)
     ├── data/
-    │   ├── polities/*.json # one file per civilisation (143, all with complete checklists and “Known for” items)
-    │   ├── events.json     # 414 events across 12,000 years, each new one with a source
+    │   ├── polities/*.json # one file per civilisation (169, all with complete checklists and “Known for” items)
+    │   ├── events.json     # 432 events across 12,000 years, each new one with a source
     │   └── links.json      #  links: succeeded / conquered / colonised / traded_with / allied_with
     ├── lib/
     │   ├── checklistSchema.ts  # the 10 categories: labels, order, guiding questions, completion maths
@@ -104,7 +104,7 @@ Open `src/data/polities/<id>.json`. Every checklist item has this shape:
 - Keep the wording neutral and descriptive. Where a term is contested, say whose term it is.
 - Run `npm run validate-data` afterwards. It warns about items with a value but no source or certainty.
 
-**All 143 civilisations have complete 41-item checklists.** Each also has a **Known for** list of signature culture: cloth and dress, special troops, weapons, tools and inventions, monuments, art, ideas and laws, food, and people. Tap a chip to read about it and jump to its year. Key dates and figures were checked against the live Wikipedia articles (5–6 Nov 2026). Items marked “checked” were confirmed there; other items cite scholarly works. Conflicting dates are marked Disputed, and politically sensitive topics use the sources’ own neutral wording. A history teacher should still review the content before classroom use.
+**All 169 civilisations have complete 41-item checklists.** Each also has a **Known for** list of signature culture: cloth and dress, special troops, weapons, tools and inventions, monuments, art, ideas and laws, food, and people. Tap a chip to read about it and jump to its year. Key dates and figures were checked against the live Wikipedia articles (5–6 Nov 2026). Items marked “checked” were confirmed there; other items cite scholarly works. Conflicting dates are marked Disputed, and politically sensitive topics use the sources’ own neutral wording. A history teacher should still review the content before classroom use.
 
 The first examples written were:
 
@@ -152,6 +152,9 @@ Each civilisation is described with the same 41 elements in 10 categories (geogr
 ---
 
 ### Checks
+
+- `npm run crosscheck` compares dates and capitals with Wikidata (report in `reports/`). See `REVIEW.md` for a teacher/expert review guide.
+
 
 - `npm test` runs the automated tests (time scale, search, border matching, charts).
 - `npm run validate-data` checks every data file, including that events, people, links and stories line up in time; deliberate exceptions are listed with reasons in `scripts/consistency-allow.json`. Add `-- --strict` to fail on any consistency issue.

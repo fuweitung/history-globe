@@ -1,0 +1,306 @@
+{
+  "id": "first-bulgarian-empire",
+  "name": "First Bulgarian Empire",
+  "era": "medieval",
+  "region": "South-eastern Europe (Balkans)",
+  "startYear": 681,
+  "endYear": 1018,
+  "capital": "Pliska; Preslav; Ohrid",
+  "capitalCoords": [
+    26.91,
+    43.17
+  ],
+  "summary": "A medieval Balkan state founded by the Bulgars under Asparuh. In the 9th–10th centuries it rivalled Byzantium and became a centre of Slavic Christian culture and the Cyrillic script.",
+  "wikiTitle": "First Bulgarian Empire",
+  "borderNames": [
+    "Danube Bulgars",
+    "Bulgars"
+  ],
+  "borderYears": [
+    681,
+    1018
+  ],
+  "color": "#4a8a4a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "South-eastern Europe; at its height from the Danube Bend to the Black Sea and from the Dnieper to the Adriatic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "The lower Danube plain, the Balkan Mountains and Macedonia.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      },
+      "climate": {
+        "value": "Continental.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      },
+      "resources": {
+        "value": "Farmland, pasture, salt.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      },
+      "disasters": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      },
+      "urbanisation": {
+        "value": "Capitals Pliska and Preslav, later Ohrid.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      },
+      "disease": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      },
+      "migration": {
+        "value": "Bulgars led by Asparuh moved south of the Danube and joined with South Slavs.",
+        "year": 681,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 6 Nov 2026)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming and herding; trade with Byzantium.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      },
+      "tradeRoutes": {
+        "value": "Danube and Black Sea trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      },
+      "moneyAndTax": {
+        "value": "Byzantine coins; tribute.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      },
+      "inequality": {
+        "value": "Bulgar aristocrats (boyars) over Slav farmers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy (khan, then tsar from 913).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      },
+      "keyRulers": {
+        "value": "Asparuh (founder), Krum, Boris I (converted, 864), Simeon I the Great (893–927), Samuel.",
+        "year": 893,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      },
+      "succession": {
+        "value": "Hereditary.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      },
+      "institutions": {
+        "value": "Byzantine-style church and court.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      },
+      "stability": {
+        "value": "Civil strife after Simeon.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      },
+      "eliteConflict": {
+        "value": "Boyar revolts against Christianisation.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Cavalry and fortresses.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      },
+      "majorWars": {
+        "value": "Long wars with Byzantium; Battle of Kleidion (1014).",
+        "year": 1014,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      },
+      "territoryChange": {
+        "value": "At its height a major power able to compete with Byzantium.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rival of Byzantium; contacts with the Franks.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      },
+      "scienceEducation": {
+        "value": "Literary schools of Preslav and Ohrid developed Old Church Slavonic literature.",
+        "year": 893,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      },
+      "openness": {
+        "value": "Adopted Byzantine Christianity.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Tengrism, then Orthodox Christianity from 864.",
+        "year": 864,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      },
+      "languageWriting": {
+        "value": "Old Church Slavonic; the Cyrillic script developed here.",
+        "year": 893,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      },
+      "artsArchitecture": {
+        "value": "The Madara Rider rock relief and churches of Preslav.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      },
+      "socialStructure": {
+        "value": "Tsar, boyars, clergy, farmers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      },
+      "sharedIdentity": {
+        "value": "Orthodox Christianity and Slavic literacy.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Byzantium, the Franks, Magyars, Kievan Rus’.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      },
+      "ideasReligions": {
+        "value": "Spread Slavic Christian books to Serbia and Rus’.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Founded 680–681 after defeating a Byzantine army.",
+        "year": 681,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "The 9th and 10th centuries, under Simeon I.",
+        "year": 925,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 6 Nov 2026)"
+      },
+      "declineSignals": {
+        "value": "Rus’ and Byzantine invasions.",
+        "year": 968,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      },
+      "outcome": {
+        "value": "Conquered by Byzantium under Basil II in 1018.",
+        "year": 1018,
+        "certainty": "estimated",
+        "source": "Fine, The Early Medieval Balkans (1983)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Byzantine chronicles and inscriptions. Checked against Wikipedia (“First Bulgarian Empire”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Good.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Cyrillic script",
+      "kind": "idea",
+      "year": 893,
+      "note": "Developed by the Preslav school."
+    },
+    {
+      "label": "Madara Rider",
+      "kind": "art",
+      "year": 710,
+      "note": "A rock relief (UNESCO)."
+    }
+  ]
+}
