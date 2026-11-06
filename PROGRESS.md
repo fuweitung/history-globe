@@ -23,7 +23,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 - [x] New checklist items: Communication & transport, Housing & daily life (#5)
 - [x] Search inside checklist text, e.g. “El Niño” finds Valdivia (#9)
 - [x] Map blanks round 2: West Africa, Sahara, subarctic Canada, Finno-Ugric north, North American woodlands and West, Brazilian highlands, Pampas and Patagonia, Peru, Colombia, Mongolia, Sudan, Algeria (#8)
-- [x] “Known for” pictures, first round: 415 of 693 items (#2)
+- [x] “Known for” pictures: 629 of 819 items after a wider second search, each match reviewed by hand (#2, #33)
 
 ### Next
 - [x] Events for every civilisation (+132), famous people (+141) and links (+67, every civilisation now linked)
@@ -60,8 +60,8 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | Civilisations with events | `████████████████████` 100% | 253 of 253 |
 | Civilisations with famous people | `█████████████████░░░` 85% | 214 of 253; many prehistoric cultures have no known names |
 | Civilisations linked to others | `████████████████████` 100% | 253 of 253 (succeeded, conquered, traded with…) |
-| Civilisation pictures | `██████████████████░░` 91% | 230 of 253 |
-| “Known for” pictures | `██████████░░░░░░░░░░` 51% | 415 of 819 items |
+| Civilisation pictures | `███████████████████░` 96% | 242 of 253 |
+| “Known for” pictures | `███████████████░░░░░` 77% | 629 of 819 items |
 
 Certainty of all items: 5707 confirmed · 4785 estimated · 387 disputed.
 Also in the app: 579 events · 267 people · 18 routes · 11 stories.

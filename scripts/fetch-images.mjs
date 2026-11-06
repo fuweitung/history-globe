@@ -149,9 +149,20 @@ if (withKnown) {
     // A result is kept only if at least half of the label's words appear in its title.
     const retryFile = path.join(root, 'scripts/.known-retry-cache.json');
     const tried = fs.existsSync(retryFile) ? JSON.parse(fs.readFileSync(retryFile, 'utf8')) : {};
+    // Stricter than the first pass: most of the label's words must be in the title AND most of
+    // the title's words must be in the label (rejects e.g. "Butlins Redcoats" for "Redcoats").
+    // Results still need a human look: see scripts/.known-image-matches.txt.
     const fits = (label, title) => {
       const l = [...words(label)].filter((w) => !STOP.has(w));
-      const t = words(title);
+      const t = [...words(title)].filter((w) => !STOP.has(w));
+      if (!l.length || !t.length) return false;
+      const share = (a, b) => a.filter((w) => b.includes(w)).length / a.length;
+      return share(l, t) >= 0.5 && share(t, l) >= 0.6;
+    };
+    // Commons file names are long descriptions, so only the label's words are checked there.
+    const fitsFile = (label, file) => {
+      const l = [...words(label)].filter((w) => !STOP.has(w));
+      const t = words(file);
       return l.length > 0 && l.filter((w) => t.has(w)).length / l.length >= 0.5;
     };
     const todo = polities.flatMap((p) => (p.knownFor ?? []).map((item) => ({ p, item, key: `${p.id}|${item.label}` })))
@@ -172,7 +183,7 @@ if (withKnown) {
           const c = await api('commons.wikimedia.org', { action: 'query', list: 'search', srsearch: `${label} ${p.name}`, srnamespace: '6', srlimit: '5', srprop: '' });
           for (const s of c.query?.search ?? []) {
             const file = s.title.replace(/^File:/, '');
-            if (!fits(item.label, file.replace(/\.[a-z0-9]+$/i, '').replace(/[_-]/g, ' '))) continue;
+            if (!fitsFile(item.label, file.replace(/\.[a-z0-9]+$/i, '').replace(/[_-]/g, ' '))) continue;
             const info = (await commonsInfos([file]))[file];
             if (info) { found = { article: null, pic: { ...info, article: null } }; break; }
           }
