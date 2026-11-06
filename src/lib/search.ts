@@ -151,8 +151,20 @@ export function search(query: string): { polities: SearchHit[]; known: SearchHit
 /** A short piece of `text` around the first query word, for showing a checklist match. */
 export function snippet(text: string, query: string, radius = 60): string {
   const words = norm(query).split(/\s+/).filter(Boolean);
-  const n = norm(text);
-  const at = Math.max(0, Math.min(...words.map((w) => n.indexOf(w)).filter((i) => i >= 0), n.length));
+  // Normalise character by character, remembering where each normalised character
+  // came from: removed marks (ʻ, ’, accents) would otherwise shift the position.
+  let n = '';
+  const origin: number[] = [];
+  for (let i = 0; i < text.length; ) {
+    const ch = String.fromCodePoint(text.codePointAt(i)!);
+    const m = norm(ch);
+    for (let k = 0; k < m.length; k++) origin.push(i);
+    n += m;
+    i += ch.length;
+  }
+  origin.push(text.length);
+  const hitAt = Math.min(...words.map((w) => n.indexOf(w)).filter((i) => i >= 0), n.length);
+  const at = origin[hitAt] ?? 0;
   if (text.length <= radius * 2) return text;
   const from = Math.max(0, at - radius);
   const to = Math.min(text.length, at + radius);
