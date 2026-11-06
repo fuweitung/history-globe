@@ -3,6 +3,7 @@ import { CHECKLIST_SCHEMA, isFilled, overallCompletion } from '../lib/checklistS
 import { ERA_LABEL, EVENT_TYPES, POLITY_BY_ID, eventsForPolity, formatSpan, formatYear, isActive, linksForPolity } from '../lib/data';
 import type { KnownForKind, LinkRelation, Polity } from '../types';
 import ChecklistCategory, { CertaintyBadge } from './ChecklistCategory';
+import TerritoryChart, { SERIES_COLORS, TERRITORY, domainFor, formatArea } from './TerritoryChart';
 
 interface Props {
   polity: Polity;
@@ -69,6 +70,43 @@ function KnownFor({ polity, onJumpToYear }: { polity: Polity; onJumpToYear: (y: 
           )}
         </div>
       )}
+    </section>
+  );
+}
+
+function TerritorySection({ polity, year, peak, onJumpToYear }: { polity: Polity; year: number; peak: number | null; onJumpToYear: (y: number) => void }) {
+  const pts = TERRITORY[polity.id] ?? [];
+  const max = pts.reduce((m, p) => (p[1] > m[1] ? p : m), [0, 0] as [number, number]);
+  return (
+    <section className="mx-5 mb-4" aria-labelledby="territory-h">
+      <h3 id="territory-h" className="text-[11px] font-semibold tracking-wider text-parchment-300 uppercase">
+        Territory on the map
+      </h3>
+      {pts.length === 0 ? (
+        <p className="mt-1.5 text-xs text-parchment-400">The border maps have no shape for this civilisation, so its territory can’t be measured here.</p>
+      ) : pts.length === 1 ? (
+        <p className="mt-1.5 text-xs text-parchment-200">
+          Measured once: <strong className="text-parchment-50">{formatArea(pts[0][1])}</strong> on the {formatYear(pts[0][0])} map. More border snapshots are needed to draw a curve.
+        </p>
+      ) : (
+        <>
+          <p className="mt-1 mb-2 text-xs text-parchment-400">
+            Largest on the maps: <strong className="text-parchment-100">{formatArea(max[1])}</strong> ({formatYear(max[0])}) · hover or tap a point for the year.
+          </p>
+          <TerritoryChart
+            series={[{ id: polity.id, name: polity.name, color: SERIES_COLORS[0], points: pts }]}
+            domain={domainFor(polity.startYear, polity.endYear, pts)}
+            year={year}
+            peak={peak}
+            onJumpToYear={onJumpToYear}
+            label={`Territory of ${polity.name} measured on ${pts.length} border maps, largest ${formatArea(max[1])} in ${formatYear(max[0])}`}
+          />
+        </>
+      )}
+      <p className="mt-1 text-[10px] leading-snug text-parchment-400">
+        Measured from the historical-basemaps border snapshots (colonies and vassals included). Snapshots are years apart and frontiers are approximate, so treat this as a rough
+        shape of rise and fall, not exact figures.
+      </p>
     </section>
   );
 }
@@ -153,6 +191,9 @@ export default function PolityDetail({ polity, year, onJumpToYear, onFlyTo, onOp
           )}
         </section>
       )}
+
+      {/* ── Territory over time ── */}
+      <TerritorySection polity={polity} year={year} peak={peakYear} onJumpToYear={onJumpToYear} />
 
       {/* ── Checklist ── */}
       <section aria-labelledby="checklist-h">

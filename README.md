@@ -45,6 +45,7 @@ npm run fetch-borders -- --force # re-downloads everything
 - **Events:** coloured markers show events within ±25 years (±250 in the Ancient era, ±125 in the Medieval; you can change the window). They fade the further they are from the selected year. Use the **Events** menu to filter by type.
 - **Search:** press `/` (or ⌘/Ctrl+K) or tap the magnifier. Finds civilisations, their “Known for” items (cloth, troops, tools…) and events. Accents and ʻokina are ignored, so “dai viet” finds Đại Việt.
 - **Compare:** open any civilisation and tap **⇄ Compare**, or use “Compare two” in the Civilisations list. You get two civilisations side by side on the same 41 elements, with Rise & fall first. It also shows their lifespans on one scale, how long they overlapped, and any direct links between them. Link format: `?compare=roman-empire,han-china`.
+- **Territory charts:** every civilisation panel shows its territory on each border map (hover or tap for values; click to jump there), with the checklist peak marked and a data table. Compare overlays two civilisations on one axis. Areas are measured from the border snapshots by `npm run compute-territory`, colonies and vassals included, so they are approximate: snapshots are years apart, and a few gaps in the source maps are skipped.
 - **Shareable links:** the URL keeps the year and the selection, e.g. `?year=1760&polity=qing-china`.
 - **Mobile:** the panel becomes a bottom sheet. Drag or tap the handle to resize it.
 

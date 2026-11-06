@@ -4,6 +4,7 @@ import { ERAS, LINKS, MAX_YEAR, POLITIES, POLITY_BY_ID, formatSpan, formatYear }
 import type { ChecklistItem, LinkRelation, Polity } from '../types';
 import { CertaintyBadge } from './ChecklistCategory';
 import { KIND_META } from './PolityDetail';
+import TerritoryChart, { SERIES_COLORS, TERRITORY } from './TerritoryChart';
 
 interface Props {
   a: string | null;
@@ -35,8 +36,11 @@ export function suggestPartner(id: string): string | null {
 }
 
 export default function CompareView({ a, b, onChange, onOpenPolity, onJumpToYear }: Props) {
-  const A = a ? (POLITY_BY_ID.get(a) ?? null) : null;
-  const B = b ? (POLITY_BY_ID.get(b) ?? null) : null;
+  // Compare uses two fixed, colour-blind-checked colours instead of each civilisation's map colour.
+  const pa = a ? POLITY_BY_ID.get(a) : undefined;
+  const pb = b ? POLITY_BY_ID.get(b) : undefined;
+  const A = pa ? { ...pa, color: SERIES_COLORS[0] } : null;
+  const B = pb ? { ...pb, color: SERIES_COLORS[1] } : null;
 
   return (
     <div className="pb-8">
@@ -44,7 +48,7 @@ export default function CompareView({ a, b, onChange, onOpenPolity, onJumpToYear
         <h2 className="font-display pr-10 text-2xl font-bold text-parchment-50">Compare</h2>
         <p className="mt-1 text-xs text-parchment-400">Put two civilisations side by side on the same 41-element template.</p>
         <div className="mt-3 flex items-center gap-2">
-          <Picker value={a} other={b} onChange={(v) => onChange(v, b)} label="First civilisation" />
+          <Picker value={a} other={b} color={SERIES_COLORS[0]} onChange={(v) => onChange(v, b)} label="First civilisation" />
           <button
             type="button"
             onClick={() => onChange(b, a)}
@@ -53,7 +57,7 @@ export default function CompareView({ a, b, onChange, onOpenPolity, onJumpToYear
           >
             ⇄
           </button>
-          <Picker value={b} other={a} onChange={(v) => onChange(a, v)} label="Second civilisation" />
+          <Picker value={b} other={a} color={SERIES_COLORS[1]} onChange={(v) => onChange(a, v)} label="Second civilisation" />
         </div>
       </div>
 
@@ -75,12 +79,11 @@ export default function CompareView({ a, b, onChange, onOpenPolity, onJumpToYear
   );
 }
 
-function Picker({ value, other, onChange, label }: { value: string | null; other: string | null; onChange: (v: string | null) => void; label: string }) {
-  const p = value ? POLITY_BY_ID.get(value) : null;
+function Picker({ value, other, color, onChange, label }: { value: string | null; other: string | null; color: string; onChange: (v: string | null) => void; label: string }) {
   return (
     <label className="relative min-w-0 flex-1">
       <span className="sr-only">{label}</span>
-      <span className="pointer-events-none absolute top-1/2 left-3 size-2.5 -translate-y-1/2 rounded-full" style={{ background: p?.color ?? '#555' }} aria-hidden="true" />
+      <span className="pointer-events-none absolute top-1/2 left-3 size-2.5 -translate-y-1/2 rounded-full" style={{ background: value ? color : '#555' }} aria-hidden="true" />
       <select
         value={value ?? ''}
         onChange={(e) => onChange(e.target.value || null)}
@@ -193,6 +196,10 @@ function Overview({ A, B, onOpenPolity, onJumpToYear }: { A: Polity; B: Polity; 
         })}
       </div>
 
+      {/* Territory */}
+      <h3 className="mt-5 text-[11px] font-semibold tracking-wider text-parchment-300 uppercase">Territory on the map</h3>
+      <TerritoryCompare A={A} B={B} lo={lo} hi={hi} onJumpToYear={onJumpToYear} />
+
       {/* Known for */}
       <h3 className="mt-5 text-[11px] font-semibold tracking-wider text-parchment-300 uppercase">Known for</h3>
       <div className="mt-2 grid grid-cols-2 gap-2">
@@ -209,6 +216,39 @@ function Overview({ A, B, onOpenPolity, onJumpToYear }: { A: Polity; B: Polity; 
         ))}
       </div>
     </section>
+  );
+}
+
+function TerritoryCompare({ A, B, lo, hi, onJumpToYear }: { A: Polity; B: Polity; lo: number; hi: number; onJumpToYear: (y: number) => void }) {
+  const sA = TERRITORY[A.id] ?? [];
+  const sB = TERRITORY[B.id] ?? [];
+  const missing = [A, B].filter((p) => (TERRITORY[p.id] ?? []).length === 0);
+  if (missing.length === 2) return <p className="mt-1.5 text-xs text-parchment-400">Neither has a shape in the border maps, so territory can’t be compared.</p>;
+  const pad = Math.max(5, (hi - lo) * 0.03);
+  return (
+    <div className="mt-1.5">
+      <ul className="mb-1.5 flex flex-wrap gap-x-4 gap-y-1 text-[11px] text-parchment-200" aria-label="Legend">
+        {[A, B].map((p) => (
+          <li key={p.id} className="flex items-center gap-1.5">
+            <span className="h-0.5 w-4 rounded-full" style={{ background: p.color }} aria-hidden="true" />
+            {p.name}
+          </li>
+        ))}
+      </ul>
+      <TerritoryChart
+        series={[
+          { id: A.id, name: A.name, color: A.color!, points: sA },
+          { id: B.id, name: B.name, color: B.color!, points: sB },
+        ]}
+        domain={[lo - pad, Math.min(hi, MAX_YEAR) + pad]}
+        year={NaN}
+        onJumpToYear={onJumpToYear}
+        height={190}
+        label={`Territory of ${A.name} and ${B.name} on the border maps`}
+      />
+      {missing.length === 1 && <p className="mt-1 text-[11px] text-parchment-400">{missing[0].name} has no shape in the border maps, so only {missing[0].id === A.id ? B.name : A.name} is drawn.</p>}
+      <p className="mt-1 text-[10px] text-parchment-400">Measured from the historical-basemaps snapshots; approximate. Very different time periods share one axis, so a long span compresses each curve.</p>
+    </div>
   );
 }
 
