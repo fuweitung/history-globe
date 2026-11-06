@@ -220,6 +220,12 @@
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Roman Republic (checked 6 Nov 2026)"
+      },
+      "communicationTransport": {
+        "value": "Paved roads such as the Via Appia (312 BCE); ships across the Mediterranean; letters carried by slaves and messengers.",
+        "year": -312,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Roman Republic"
       }
     },
     "culture": {
@@ -252,6 +258,12 @@
         "year": null,
         "certainty": "estimated",
         "source": "Beard, SPQR (2015)"
+      },
+      "dailyLife": {
+        "value": "Rich families in houses (domus) around an atrium; most city people in rented flats; bread, porridge, olive oil and wine.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Roman Republic"
       }
     },
     "connections": {

@@ -91,6 +91,7 @@ export const CHECKLIST_SCHEMA: CategoryDef[] = [
       { key: 'inventions', label: 'Key inventions or adoptions', hint: 'Technologies created or borrowed' },
       { key: 'scienceEducation', label: 'Science, education & literacy', hint: 'Schools, scholars, literacy' },
       { key: 'openness', label: 'Openness to outside ideas', hint: 'Receptive or restrictive?' },
+      { key: 'communicationTransport', label: 'Communication & transport', hint: 'Roads, ships, messengers, post, railways, telegraph, internet' },
     ],
   },
   {
@@ -104,6 +105,7 @@ export const CHECKLIST_SCHEMA: CategoryDef[] = [
       { key: 'artsArchitecture', label: 'Art, architecture & literature', hint: 'Signature achievements' },
       { key: 'socialStructure', label: 'Social structure', hint: 'Classes, castes, slavery' },
       { key: 'sharedIdentity', label: 'Shared identity', hint: 'What made people feel they belonged' },
+      { key: 'dailyLife', label: 'Housing & daily life', hint: 'Homes, food, clothing and an ordinary day' },
     ],
   },
   {

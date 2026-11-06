@@ -10,7 +10,7 @@ How the data is organised, and how to add or edit it. For the team workflow see 
 - **Checklist:** 10 categories, each with a completion bar. Every fact shows its year, its certainty (**Confirmed**, **≈ Estimated** or **Disputed**) and its source. Clicking a year chip moves the timeline to that year.
 - **Events:** coloured markers show events within ±25 years (±250 in the Ancient era, ±125 in the Medieval; you can change the window). They fade the further they are from the selected year. Use the **Events** menu to filter by type.
 - **Search:** press `/` (or ⌘/Ctrl+K) or tap the magnifier. Finds civilisations, their “Known for” items (cloth, troops, tools…) and events. Accents and ʻokina are ignored, so “dai viet” finds Đại Việt.
-- **Compare:** open any civilisation and tap **⇄ Compare**, or use “Compare two” in the Civilisations list. You get two civilisations side by side on the same 41 elements, with Rise & fall first. It also shows their lifespans on one scale, how long they overlapped, and any direct links between them. Link format: `?compare=roman-empire,han-china`.
+- **Compare:** open any civilisation and tap **⇄ Compare**, or use “Compare two” in the Civilisations list. You get two civilisations side by side on the same 43 elements, with Rise & fall first. It also shows their lifespans on one scale, how long they overlapped, and any direct links between them. Link format: `?compare=roman-empire,han-china`.
 - **Territory charts:** every civilisation panel shows its territory on each border map (hover or tap for values; click to jump there), with the checklist peak marked and a data table. Compare overlays two civilisations on one axis. Areas are measured from the border snapshots by `npm run compute-territory`, colonies and vassals included, so they are approximate: snapshots are years apart, and a few gaps in the source maps are skipped.
 - **Routes & migrations:** 18 trade routes, voyages and migrations (Silk Road, Indian Ocean, trans-Saharan caravans, Viking and Polynesian voyages, Bantu and Austronesian expansions, Zheng He, the Manila galleons, the Atlantic slave trade…) appear on the map while they were in use. Each kind has its own colour *and* dash pattern; click one for its story, goods and civilisations involved. Toggle them in the Events menu. Lines show the general direction through key places, not exact paths. Data: `src/data/routes.json`.
 - **Population charts:** dated population figures from each civilisation’s Wikipedia infobox (60 civilisations have them), drawn with ranges as whiskers; overlaid in Compare.
@@ -67,7 +67,7 @@ Open `src/data/polities/<id>.json`. Every checklist item has this shape:
 - Keep the wording neutral and descriptive. Where a term is contested, say whose term it is.
 - Run `npm run validate-data` afterwards. It warns about items with a value but no source or certainty.
 
-**All 190 civilisations have complete 41-item checklists.** Each also has a **Known for** list of signature culture: cloth and dress, special troops, weapons, tools and inventions, monuments, art, ideas and laws, food, and people. Tap a chip to read about it and jump to its year. Key dates and figures were checked against the live Wikipedia articles (5–6 Nov 2026). Items marked “checked” were confirmed there; other items cite scholarly works. Conflicting dates are marked Disputed, and politically sensitive topics use the sources’ own neutral wording. A history teacher should still review the content before classroom use.
+**All 190 civilisations have complete 43-item checklists.** Each also has a **Known for** list of signature culture: cloth and dress, special troops, weapons, tools and inventions, monuments, art, ideas and laws, food, and people. Tap a chip to read about it and jump to its year. Key dates and figures were checked against the live Wikipedia articles (5–6 Nov 2026). Items marked “checked” were confirmed there; other items cite scholarly works. Conflicting dates are marked Disputed, and politically sensitive topics use the sources’ own neutral wording. A history teacher should still review the content before classroom use.
 
 The first examples written were:
 
@@ -100,9 +100,9 @@ Add an object to `src/data/events.json`. Allowed `type` values are `war`, `inven
 - **Map engine:** [MapLibre GL JS](https://maplibre.org/) (BSD-3). Label fonts come from MapLibre's free demo font server.
 - **Seed content:** written for this project with a cited source on every item. Figures are scholarly estimates and are labelled as such.
 
-### What the 41/41 means
+### What the 43/43 means
 
-Each civilisation is described with the same 41 elements in 10 categories (geography, population, economy, politics, military, technology, culture, connections, rise & fall, data quality). “41/41” is how many of those elements are documented. It measures how complete the study profile is, not how “great” the civilisation was. Using the same template for every civilisation lets you compare why they rose and fell.
+Each civilisation is described with the same 43 elements in 10 categories (geography, population, economy, politics, military, technology and transport, culture and daily life, connections, rise & fall, data quality). “43/43” is how many of those elements are documented. It measures how complete the study profile is, not how “great” the civilisation was. Using the same template for every civilisation lets you compare why they rose and fell.
 
 ### Known data limitations
 

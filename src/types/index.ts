@@ -62,6 +62,7 @@ export interface TechnologyKnowledge {
   inventions: ChecklistItem; // key inventions or adoptions
   scienceEducation: ChecklistItem; // science / education / literacy
   openness: ChecklistItem; // openness to outside ideas
+  communicationTransport: ChecklistItem; // roads, ships, messengers, post, telegraph
 }
 
 export interface CultureSociety {
@@ -70,6 +71,7 @@ export interface CultureSociety {
   artsArchitecture: ChecklistItem;
   socialStructure: ChecklistItem; // classes, slavery
   sharedIdentity: ChecklistItem;
+  dailyLife: ChecklistItem; // housing, food, clothing, an ordinary day
 }
 
 export interface Connections {
