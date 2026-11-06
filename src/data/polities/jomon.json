@@ -1,0 +1,311 @@
+{
+  "id": "jomon",
+  "name": "Jōmon culture",
+  "era": "prehistory",
+  "region": "East Asia (Japan)",
+  "startYear": -14000,
+  "endYear": -300,
+  "datesApproximate": true,
+  "capital": "No capital (villages such as Sannai-Maruyama)",
+  "capitalCoords": [
+    140.7,
+    40.81
+  ],
+  "summary": "The hunter-gatherer culture of prehistoric Japan, famous for some of the world’s oldest pottery, decorated with cord patterns. It lasted about 13,000 years.",
+  "borderNames": [
+    "Jōmon"
+  ],
+  "borderYears": [
+    -14000,
+    -300
+  ],
+  "color": "#7a8a5a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Japanese archipelago, from Hokkaido to the Ryukyu Islands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jōmon period (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Forested mountains, rivers and long coastlines.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      },
+      "climate": {
+        "value": "A warming climate after the Ice Age brought rich forests and seas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      },
+      "resources": {
+        "value": "Nuts (chestnuts, acorns), fish, shellfish, deer and boar.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      },
+      "disasters": {
+        "value": "Volcanic eruptions and earthquakes (e.g. the Kikai eruption, about 5300 BCE).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Estimates range from about 20,000 to over 250,000 at its height.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      },
+      "urbanisation": {
+        "value": "Large villages such as Sannai-Maruyama (about 3900–2200 BCE).",
+        "year": -3900,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      },
+      "disease": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      },
+      "migration": {
+        "value": "Ancestors migrated from Northeast Asia, Korea, China and Southeast Asia; later mixed with the Yayoi people.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jōmon period (checked 6 Nov 2026)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Hunting, gathering and fishing, with some early plant cultivation.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jōmon period (checked 6 Nov 2026)"
+      },
+      "tradeRoutes": {
+        "value": "Obsidian and jade were traded over long distances.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      },
+      "moneyAndTax": {
+        "value": "No money.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      },
+      "inequality": {
+        "value": "Mostly equal communities, with some richer burials later.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "No states; villages and kin groups.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      },
+      "keyRulers": {
+        "value": "No rulers are known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      },
+      "succession": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      },
+      "institutions": {
+        "value": "Shared village structures and ritual sites (stone circles).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      },
+      "stability": {
+        "value": "A remarkably long-lived culture (about 14,000 to 300 BCE).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jōmon period (checked 6 Nov 2026)"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Bows, spears and fishing tools.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      },
+      "majorWars": {
+        "value": "Little evidence of warfare.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      },
+      "territoryChange": {
+        "value": "Spread throughout Japan.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      },
+      "alliancesRivals": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Some of the world’s oldest pottery; lacquerware.",
+        "year": -14000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jōmon period (checked 6 Nov 2026)"
+      },
+      "scienceEducation": {
+        "value": "No writing.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      },
+      "openness": {
+        "value": "Contact with the mainland.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Clay figurines (dogū) and stone circles suggest rituals.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      },
+      "languageWriting": {
+        "value": "No writing; the language is unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      },
+      "artsArchitecture": {
+        "value": "Cord-marked pottery, clay figurines and lacquerware.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jōmon period (checked 6 Nov 2026)"
+      },
+      "socialStructure": {
+        "value": "Villages of related families.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      },
+      "sharedIdentity": {
+        "value": "A common culture across the archipelago.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jōmon period (checked 6 Nov 2026)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Peoples of Korea and the mainland.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      },
+      "ideasReligions": {
+        "value": "Rituals connected with nature.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Pottery appears around 14,000 BCE.",
+        "year": -14000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jōmon period (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "The Middle Jōmon (about 3500–2500 BCE), with large villages.",
+        "year": -3000,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      },
+      "declineSignals": {
+        "value": "A cooling climate reduced food supplies.",
+        "year": -1000,
+        "certainty": "estimated",
+        "source": "Habu, Ancient Jomon of Japan (2004)"
+      },
+      "outcome": {
+        "value": "Mixed with the rice-farming Yayoi people from about 300 BCE.",
+        "year": -300,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jōmon period (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Archaeology. Checked against Wikipedia (“Jōmon period”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jōmon period (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Medium. Dates and population estimates vary.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Jōmon period (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Jōmon pottery",
+      "kind": "art",
+      "year": -14000,
+      "note": "Pots decorated by pressing cords into wet clay."
+    },
+    {
+      "label": "Dogū clay figurines",
+      "kind": "art",
+      "year": -1000,
+      "note": "Clay figures with large “goggle” eyes."
+    },
+    {
+      "label": "Lacquerware",
+      "kind": "tool",
+      "year": -5000,
+      "note": "Early lacquered objects."
+    }
+  ]
+}

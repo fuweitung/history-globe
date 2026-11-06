@@ -20,7 +20,7 @@ for (const line of schemaSrc.split('\n')) {
 const errors = [];
 const warn = [];
 const CERTAINTY = new Set(['confirmed', 'estimated', 'disputed', null, undefined]);
-const ERAS = new Set(['ancient', 'medieval', 'early_modern', 'modern']);
+const ERAS = new Set(['prehistory', 'ancient', 'medieval', 'early_modern', 'modern']);
 const EVENT_TYPES = new Set(['war', 'invention', 'person', 'disaster', 'trade', 'culture']);
 const RELATIONS = new Set(['succeeded', 'conquered', 'colonised', 'traded_with', 'allied_with']);
 

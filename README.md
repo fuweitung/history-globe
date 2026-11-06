@@ -1,6 +1,6 @@
 # 🌍 History Globe
 
-An interactive globe of world history from **3500 BCE to today**, across four eras: Ancient, Medieval, Early Modern and Modern. You drag the timeline, watch borders change, and open a structured checklist that helps explain **why** civilisations rise, peak and decline.
+An interactive globe of world history from **10,000 BCE to today**, across five eras: Prehistory, Ancient, Medieval, Early Modern and Modern. You drag the timeline, watch borders change, and open a structured checklist that helps explain **why** civilisations rise, peak and decline.
 
 Built with Vite, React, TypeScript, MapLibre GL JS and Tailwind CSS. All data is static JSON. There's no backend and no API keys.
 
@@ -38,7 +38,7 @@ npm run fetch-borders -- --force # re-downloads everything
 
 ## Using the app
 
-- **Timeline:** each era gets its own share of the slider (Ancient 34%, Medieval 20%, Early Modern 22%, Modern 24%), so 5,500 years fit without squeezing recent centuries. Era chips jump to the start of an era. ‹ › and the arrow keys step 10 years in the Ancient era, 5 in the Medieval and 1 after 1500; « » and Shift + arrow step ten times as far. **Space** plays or pauses. BCE years are stored as negative numbers (−1 = 1 BCE), and there is no year 0.
+- **Timeline:** each era gets its own share of the slider (Prehistory 10%, Ancient 28%, Medieval 20%, Early Modern 20%, Modern 22%), so 12,000 years fit without squeezing recent centuries. Era chips jump to the start of an era. ‹ › and the arrow keys step 50 years in Prehistory, 10 in the Ancient era, 5 in the Medieval and 1 after 1500; « » and Shift + arrow step ten times as far. **Space** plays or pauses. BCE years are stored as negative numbers (−1 = 1 BCE), and there is no year 0.
 - **Borders:** dots on the timeline mark the years that have real border maps. Between them, the nearest map is shown, and the header says how far away it is.
 - **Civilisations:** click a coloured territory, or use the **Civilisations** list. Colonies take their ruling power's colour, so an empire reads as one block.
 - **Checklist:** 10 categories, each with a completion bar. Every fact shows its year, its certainty (**Confirmed**, **≈ Estimated** or **Disputed**) and its source. Clicking a year chip moves the timeline to that year.
@@ -66,8 +66,8 @@ history-globe/
 └── src/
     ├── types/index.ts      # Polity, Checklist, HistoryEvent, PolityLink (the data contract)
     ├── data/
-    │   ├── polities/*.json # one file per civilisation (134, all with complete checklists and “Known for” items)
-    │   ├── events.json     # 400 142 events across 5,500 years, each new one with a source
+    │   ├── polities/*.json # one file per civilisation (143, all with complete checklists and “Known for” items)
+    │   ├── events.json     # 414 events across 12,000 years, each new one with a source
     │   └── links.json      #  links: succeeded / conquered / colonised / traded_with / allied_with
     ├── lib/
     │   ├── checklistSchema.ts  # the 10 categories: labels, order, guiding questions, completion maths
@@ -101,7 +101,7 @@ Open `src/data/polities/<id>.json`. Every checklist item has this shape:
 - Keep the wording neutral and descriptive. Where a term is contested, say whose term it is.
 - Run `npm run validate-data` afterwards. It warns about items with a value but no source or certainty.
 
-**All 134 civilisations have complete 41-item checklists.** Each also has a **Known for** list of signature culture: cloth and dress, special troops, weapons, tools and inventions, monuments, art, ideas and laws, food, and people. Tap a chip to read about it and jump to its year. Key dates and figures were checked against the live Wikipedia articles (5–6 Nov 2026). Items marked “checked” were confirmed there; other items cite scholarly works. Conflicting dates are marked Disputed, and politically sensitive topics use the sources’ own neutral wording. A history teacher should still review the content before classroom use.
+**All 143 civilisations have complete 41-item checklists.** Each also has a **Known for** list of signature culture: cloth and dress, special troops, weapons, tools and inventions, monuments, art, ideas and laws, food, and people. Tap a chip to read about it and jump to its year. Key dates and figures were checked against the live Wikipedia articles (5–6 Nov 2026). Items marked “checked” were confirmed there; other items cite scholarly works. Conflicting dates are marked Disputed, and politically sensitive topics use the sources’ own neutral wording. A history teacher should still review the content before classroom use.
 
 The first examples written were:
 

@@ -876,5 +876,35 @@
     "relation": "conquered",
     "year": 1898,
     "note": "Annexation after the 1893 overthrow."
+  },
+  {
+    "fromPolityId": "ubaid",
+    "toPolityId": "sumer",
+    "relation": "succeeded"
+  },
+  {
+    "fromPolityId": "naqada",
+    "toPolityId": "ancient-egypt",
+    "relation": "succeeded"
+  },
+  {
+    "fromPolityId": "elam",
+    "toPolityId": "sumer",
+    "relation": "traded_with"
+  },
+  {
+    "fromPolityId": "achaemenid-persia",
+    "toPolityId": "elam",
+    "relation": "conquered"
+  },
+  {
+    "fromPolityId": "assyria",
+    "toPolityId": "elam",
+    "relation": "conquered"
+  },
+  {
+    "fromPolityId": "neolithic-levant",
+    "toPolityId": "ubaid",
+    "relation": "succeeded"
   }
 ]

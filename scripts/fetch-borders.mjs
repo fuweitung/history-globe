@@ -16,10 +16,10 @@ const outDir = join(root, 'public', 'data', 'borders');
 const force = process.argv.includes('--force');
 
 const REPO = 'https://raw.githubusercontent.com/aourednik/historical-basemaps/master/geojson';
-// Snapshots available upstream from 3000 BCE to today. Negative = BCE (−1 = 1 BCE; there is no year 0).
+// Snapshots used from 10,000 BCE to today. Negative = BCE (−1 = 1 BCE; there is no year 0).
 // Even older maps exist upstream (bc4000 … bc123000) if the timeline is ever extended further back.
 const YEARS = [
-  -3000, -2000, -1500, -1000, -700, -500, -400, -323, -300, -200, -100, -1,
+  -10000, -8000, -5000, -4000, -3000, -2000, -1500, -1000, -700, -500, -400, -323, -300, -200, -100, -1,
   100, 200, 300, 400, 500, 600, 700, 800, 900, 1000, 1100, 1200, 1279, 1300, 1400, 1492,
   1500, 1530, 1600, 1650, 1700, 1715, 1783, 1800, 1815, 1878, 1880, 1900, 1914, 1920, 1930, 1938, 1945, 1960, 1994, 2000, 2010];
 const LAND = 'https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_land.geojson';

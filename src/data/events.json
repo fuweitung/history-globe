@@ -1,5 +1,160 @@
 [
   {
+    "id": "end-of-younger-dryas",
+    "year": -9700,
+    "yearApproximate": true,
+    "lat": 40.0,
+    "lng": 30.0,
+    "type": "disaster",
+    "title": "Ice Age cold snap ends",
+    "description": "The Younger Dryas cold spell ends around 9700 BCE and the warmer Holocene begins, helping the first farmers.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Younger Dryas (checked 6 Nov 2026)"
+  },
+  {
+    "id": "gobekli-tepe",
+    "year": -9500,
+    "yearApproximate": true,
+    "lat": 37.22,
+    "lng": 38.92,
+    "type": "culture",
+    "title": "Göbekli Tepe built",
+    "description": "People build circles of carved stone pillars at Göbekli Tepe, among the world’s oldest known megaliths.",
+    "relatedPolityIds": [
+      "neolithic-levant"
+    ],
+    "source": "Wikipedia: Göbekli Tepe (checked 6 Nov 2026)"
+  },
+  {
+    "id": "jericho-settled",
+    "year": -9000,
+    "yearApproximate": true,
+    "lat": 31.87,
+    "lng": 35.44,
+    "type": "culture",
+    "title": "Jericho settled",
+    "description": "The first settlement at Jericho, one of the oldest towns in the world, later protected by a stone wall and tower.",
+    "relatedPolityIds": [
+      "neolithic-levant"
+    ],
+    "source": "Wikipedia: Jericho (checked 6 Nov 2026)"
+  },
+  {
+    "id": "first-farming",
+    "year": -9000,
+    "yearApproximate": true,
+    "lat": 36.5,
+    "lng": 40.5,
+    "type": "invention",
+    "title": "Farming begins",
+    "description": "In the Fertile Crescent people domesticate wheat, barley, sheep and goats: the start of the Neolithic Revolution.",
+    "relatedPolityIds": [
+      "neolithic-levant"
+    ],
+    "source": "Wikipedia: Neolithic Revolution (date from general references; not stated in the summary checked 6 Nov 2026)"
+  },
+  {
+    "id": "rice-domesticated",
+    "year": -7000,
+    "yearApproximate": true,
+    "lat": 30.5,
+    "lng": 120.0,
+    "type": "invention",
+    "title": "Rice domesticated in China",
+    "description": "Asian rice is domesticated in China, some 13,500 to 8,200 years ago; it later feeds half the world.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Rice (checked 6 Nov 2026)"
+  },
+  {
+    "id": "catalhoyuk",
+    "year": -7000,
+    "yearApproximate": true,
+    "lat": 37.67,
+    "lng": 32.83,
+    "type": "culture",
+    "title": "Çatalhöyük at its height",
+    "description": "A very large Neolithic town in Anatolia, with houses entered through the roof, flourishes around 7000 BCE.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Çatalhöyük (checked 6 Nov 2026)"
+  },
+  {
+    "id": "maize-domesticated",
+    "year": -7000,
+    "yearApproximate": true,
+    "lat": 18.0,
+    "lng": -99.5,
+    "type": "invention",
+    "title": "Maize domesticated in Mexico",
+    "description": "Indigenous peoples in southern Mexico breed maize from the wild grass teosinte.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Maize (date from general references; not stated in the summary checked 6 Nov 2026)"
+  },
+  {
+    "id": "doggerland-flooded",
+    "year": -6200,
+    "yearApproximate": true,
+    "lat": 54.5,
+    "lng": 3.0,
+    "type": "disaster",
+    "title": "Doggerland lost to the sea",
+    "description": "Rising seas drown Doggerland, the land bridge between Britain and Europe.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Doggerland (date from general references; not stated in the summary checked 6 Nov 2026)"
+  },
+  {
+    "id": "8-2-kiloyear-event",
+    "year": -6200,
+    "yearApproximate": true,
+    "lat": 60.0,
+    "lng": -40.0,
+    "type": "disaster",
+    "title": "The 8.2-kiloyear cold event",
+    "description": "A sudden drop in global temperatures around 8,200 years ago lasts two to four centuries.",
+    "relatedPolityIds": [
+      "neolithic-levant"
+    ],
+    "source": "Wikipedia: 8.2-kiloyear event (checked 6 Nov 2026)"
+  },
+  {
+    "id": "varna-gold",
+    "year": -4500,
+    "yearApproximate": true,
+    "lat": 43.21,
+    "lng": 27.91,
+    "type": "culture",
+    "title": "Oldest gold treasure (Varna)",
+    "description": "Graves at Varna in Bulgaria hold the oldest known gold jewellery in the world (4600–4200 BCE).",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Varna Necropolis (checked 6 Nov 2026)"
+  },
+  {
+    "id": "carnac-stones",
+    "year": -4500,
+    "yearApproximate": true,
+    "lat": 47.59,
+    "lng": -3.08,
+    "type": "culture",
+    "title": "Carnac standing stones",
+    "description": "More than 3,000 standing stones are raised in rows in Brittany.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Carnac stones (date from general references; not stated in the summary checked 6 Nov 2026)"
+  },
+  {
+    "id": "uruk-period",
+    "year": -4000,
+    "yearApproximate": true,
+    "lat": 31.32,
+    "lng": 45.64,
+    "type": "culture",
+    "title": "Uruk: the first cities",
+    "description": "Uruk grows into one of the first true cities, leading to writing by the end of the 4th millennium BCE.",
+    "relatedPolityIds": [
+      "sumer",
+      "ubaid"
+    ],
+    "source": "Wikipedia: Uruk period (checked 6 Nov 2026)"
+  },
+  {
     "id": "invention-of-the-wheel",
     "year": -3500,
     "yearApproximate": true,
@@ -12,6 +167,30 @@
       "sumer"
     ],
     "source": "Wikipedia: Wheel (year from general references; not stated in the summary checked 6 Nov 2026)"
+  },
+  {
+    "id": "botai-horses",
+    "year": -3500,
+    "yearApproximate": true,
+    "lat": 53.3,
+    "lng": 67.6,
+    "type": "invention",
+    "title": "Horses at Botai",
+    "description": "The Botai culture of Kazakhstan (c. 3700–3100 BCE) relies heavily on horses; whether they were domesticated is debated.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Botai culture (checked 6 Nov 2026)"
+  },
+  {
+    "id": "otzi",
+    "year": -3250,
+    "yearApproximate": true,
+    "lat": 46.78,
+    "lng": 10.84,
+    "type": "person",
+    "title": "Ötzi the Iceman",
+    "description": "A Copper Age man dies in the Alps; his natural mummy, found in 1991, is Europe’s oldest.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Ötzi (checked 6 Nov 2026)"
   },
   {
     "id": "cuneiform-writing",

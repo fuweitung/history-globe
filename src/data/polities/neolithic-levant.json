@@ -1,0 +1,317 @@
+{
+  "id": "neolithic-levant",
+  "name": "Neolithic Levant",
+  "era": "prehistory",
+  "region": "Fertile Crescent (Middle East)",
+  "startYear": -10000,
+  "endYear": -6500,
+  "datesApproximate": true,
+  "capital": "No capital (sites: Göbekli Tepe, Jericho, Çatalhöyük nearby)",
+  "capitalCoords": [
+    38.92,
+    37.22
+  ],
+  "summary": "The first farming communities of the Fertile Crescent, where people began to grow wheat and barley and herd animals. They built Göbekli Tepe’s carved stone circles and Jericho’s walls, among the oldest monuments and towns on Earth.",
+  "borderNames": [
+    "Levantine Corridor (Neolithic Farmers)"
+  ],
+  "borderYears": [
+    -10000,
+    -6500
+  ],
+  "color": "#8a7a4a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Levant and Upper Mesopotamia in the Fertile Crescent (modern Turkey, Syria, Israel, Palestine, Jordan, Iraq).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Göbekli Tepe (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Hilly flanks and river valleys where wild wheat, barley, sheep and goats lived naturally.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      },
+      "climate": {
+        "value": "The warmer, wetter Holocene began around 9700 BCE after the Younger Dryas cold spell, helping early farming.",
+        "year": -9700,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      },
+      "resources": {
+        "value": "Wild cereals and legumes, flint and obsidian for tools, limestone for building.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      },
+      "disasters": {
+        "value": "A sudden cold, dry event around 6200 BCE (the 8.2-kiloyear event) disrupted many settlements.",
+        "year": -6200,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate; villages grew from dozens to a few thousand people.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      },
+      "urbanisation": {
+        "value": "Jericho was settled by about 9000 BCE and is called the “oldest fortified city in the world”.",
+        "year": -9000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Göbekli Tepe (checked 6 Nov 2026)"
+      },
+      "disease": {
+        "value": "Living close to animals and in crowded villages brought new diseases.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      },
+      "migration": {
+        "value": "Farming spread from here into Anatolia, Europe and Iran over the following millennia.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "The start of farming and herding: domesticated wheat, barley, peas, lentils, sheep and goats (the Neolithic Revolution).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Göbekli Tepe (checked 6 Nov 2026)"
+      },
+      "tradeRoutes": {
+        "value": "Obsidian from Anatolia was traded hundreds of kilometres across the region.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      },
+      "moneyAndTax": {
+        "value": "No money; exchange of goods such as obsidian and shells.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      },
+      "inequality": {
+        "value": "Mostly small-scale and fairly equal communities; special buildings suggest some leaders or ritual specialists.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "No states; villages probably organised by kin groups and elders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      },
+      "keyRulers": {
+        "value": "No rulers are known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      },
+      "succession": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      },
+      "institutions": {
+        "value": "Shared ritual buildings, such as the enclosures at Göbekli Tepe.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      },
+      "stability": {
+        "value": "Settlements lasted centuries, with shifts linked to climate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Flint-tipped arrows and spears; Jericho’s wall and tower may have been for defence or flood protection.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      },
+      "majorWars": {
+        "value": "No wars are known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      },
+      "territoryChange": {
+        "value": "Farming villages spread across the Fertile Crescent.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      },
+      "alliancesRivals": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Plant and animal domestication; some of the world’s oldest known megaliths (Göbekli Tepe pillars).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Göbekli Tepe (checked 6 Nov 2026)"
+      },
+      "scienceEducation": {
+        "value": "No writing; knowledge of plants and seasons passed orally.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      },
+      "openness": {
+        "value": "Ideas and goods moved between villages.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Göbekli Tepe’s carved pillars give insights into prehistoric religion; skull cults (plastered skulls) at Jericho.",
+        "year": -9500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Göbekli Tepe (checked 6 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "No writing.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      },
+      "artsArchitecture": {
+        "value": "Large circular enclosures with T-shaped stone pillars carved with animals (Göbekli Tepe); Jericho’s stone tower.",
+        "year": -9500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Göbekli Tepe (checked 6 Nov 2026)"
+      },
+      "socialStructure": {
+        "value": "Families and kin groups in villages.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      },
+      "sharedIdentity": {
+        "value": "Shared ritual practices across the region.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Hunter-gatherers of the surrounding steppe and mountains.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      },
+      "ideasReligions": {
+        "value": "Farming and village life spread outwards to Anatolia, Europe and South Asia.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      },
+      "colonisation": {
+        "value": "Farmers moved into new lands, gradually replacing or mixing with hunter-gatherers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Göbekli Tepe was used from about 9500 BCE; early cultivation began.",
+        "year": -9500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Göbekli Tepe (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "The PPNB period (8800–6500 BCE), with larger villages and full farming.",
+        "year": -7500,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      },
+      "declineSignals": {
+        "value": "Abandonment of many large sites around 6500 BCE, possibly due to climate and soil exhaustion.",
+        "year": -6500,
+        "certainty": "estimated",
+        "source": "Mithen, After the Ice (2003)"
+      },
+      "outcome": {
+        "value": "Followed by the Pottery Neolithic; farming became the way of life across the region.",
+        "year": -6500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Göbekli Tepe (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Archaeology (Kenyon at Jericho, Schmidt at Göbekli Tepe). Checked against Wikipedia (“Pre-Pottery Neolithic A”, “Pre-Pottery Neolithic B”, “Göbekli Tepe”, “Jericho”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Göbekli Tepe (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Medium. Dates come from radiocarbon dating; the meaning of the monuments is debated.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Göbekli Tepe (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Göbekli Tepe pillars",
+      "kind": "monument",
+      "year": -9500,
+      "note": "Carved T-shaped stone pillars, among the oldest known megaliths."
+    },
+    {
+      "label": "First wheat and barley farms",
+      "kind": "food",
+      "year": -9000,
+      "note": "Domestication of the first cereal crops."
+    },
+    {
+      "label": "Walls and tower of Jericho",
+      "kind": "monument",
+      "year": -8000,
+      "note": "Early stone defences at one of the oldest towns."
+    },
+    {
+      "label": "Plastered skulls",
+      "kind": "art",
+      "year": -7000,
+      "note": "Human skulls modelled with plaster, possibly for ancestor worship."
+    }
+  ]
+}
