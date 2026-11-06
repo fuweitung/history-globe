@@ -15,7 +15,8 @@
     "validate-data": "node scripts/validate-data.mjs",
     "compute-territory": "node scripts/compute-territory.mjs",
     "fetch-images": "node scripts/fetch-images.mjs",
-    "crosscheck": "node scripts/crosscheck-wikidata.mjs"
+    "crosscheck": "node scripts/crosscheck-wikidata.mjs",
+    "progress": "node scripts/progress.mjs"
   },
   "dependencies": {
     "maplibre-gl": "^5.24.0",
