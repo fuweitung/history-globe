@@ -1,0 +1,323 @@
+{
+  "id": "hausa-states",
+  "name": "Hausa city-states",
+  "era": "medieval",
+  "region": "West Africa",
+  "startYear": 1000,
+  "endYear": 1808,
+  "datesApproximate": true,
+  "capital": "Kano, Katsina, Zazzau and others",
+  "capitalCoords": [
+    8.52,
+    12
+  ],
+  "summary": "Walled trading cities of northern Nigeria, such as Kano and Katsina, famous for textiles and leather, until they became part of the Sokoto Caliphate (1804–1808).",
+  "wikiTitle": "Hausa Kingdoms",
+  "borderNames": [
+    "Hausa States",
+    "Hausa"
+  ],
+  "borderYears": [
+    1000,
+    1808
+  ],
+  "color": "#9a6a3a",
+  "knownFor": [
+    {
+      "label": "Kofar Mata dye pits",
+      "kind": "textile",
+      "note": "Indigo dye pits in Kano, said to date from 1498."
+    },
+    {
+      "label": "Queen Amina of Zazzau",
+      "kind": "person",
+      "year": 1576,
+      "note": "A warrior queen remembered in legend."
+    },
+    {
+      "label": "Kano city walls",
+      "kind": "monument",
+      "note": "Earth walls around the ancient city."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Northern Nigeria and southern Niger.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "terrain": {
+        "value": "Savanna plains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "climate": {
+        "value": "Tropical with a long dry season.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "resources": {
+        "value": "Farmland, cotton, indigo, leather.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "disasters": {
+        "value": "Droughts and famines.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hausa Kingdoms"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "urbanisation": {
+        "value": "Walled cities such as Kano and Katsina.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "disease": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "migration": {
+        "value": "Traders and scholars came from North Africa.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hausa Kingdoms"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, crafts (cloth, leather) and trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "tradeRoutes": {
+        "value": "Trans-Saharan trade; kola nuts from the forest.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "wealth": {
+        "value": "Wealthy trading cities.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "moneyAndTax": {
+        "value": "Cowrie shells.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "inequality": {
+        "value": "Rulers, merchants, farmers and slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hausa Kingdoms"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Independent city-states, each ruled by a sarki (king).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "keyRulers": {
+        "value": "Muhammad Rumfa of Kano (1463–99). Queen Amina of Zazzau (legendary).",
+        "year": 1463,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "succession": {
+        "value": "Royal families.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "institutions": {
+        "value": "Islamic law in later centuries; court officials.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "stability": {
+        "value": "Frequent wars between the cities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "eliteConflict": {
+        "value": "Palace rivalries.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hausa Kingdoms"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Cavalry with quilted armour.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "majorWars": {
+        "value": "Wars with Songhai, Bornu and each other.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "territoryChange": {
+        "value": "Conquered by the Fulani jihad (1804–08).",
+        "year": 1808,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "alliancesRivals": {
+        "value": "Paid tribute to Bornu at times.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hausa Kingdoms"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Fine dyeing and leatherwork.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "scienceEducation": {
+        "value": "Islamic scholarship and Ajami writing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "openness": {
+        "value": "Open to traders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "communicationTransport": {
+        "value": "Caravans of donkeys and camels.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hausa Kingdoms"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Islam (from the 14th century) and traditional religion.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "languageWriting": {
+        "value": "Hausa, written in Arabic script (Ajami).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "artsArchitecture": {
+        "value": "Textiles, leatherwork, mud-brick architecture.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "socialStructure": {
+        "value": "Rulers, scholars, craftspeople, farmers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "sharedIdentity": {
+        "value": "A shared Hausa language and culture.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "dailyLife": {
+        "value": "Mud-brick houses within walled compounds; millet and sorghum.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hausa Kingdoms"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Bornu, Songhai, the Jukun.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "ideasReligions": {
+        "value": "Islam spread through traders and scholars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hausa Kingdoms"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Trade and crafts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "peakPeriod": {
+        "value": "15th–16th centuries.",
+        "year": 1500,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "declineSignals": {
+        "value": "Wars and heavy taxes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "outcome": {
+        "value": "Absorbed into the Sokoto Caliphate; Hausa culture continues.",
+        "year": 1808,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hausa Kingdoms"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Hausa Kingdoms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hausa Kingdoms"
+      },
+      "overallCertainty": {
+        "value": "Early history from legends (the Bayajidda story).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hausa Kingdoms"
+      }
+    }
+  }
+}

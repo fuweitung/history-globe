@@ -3,7 +3,7 @@
 Thank you for reviewing History Globe. This guide shows **where to look first** and **how to fix things**.
 
 ## What the app contains
-- 211 civilisations and peoples, each with 43 checklist items in 10 categories, a “Known for” list and (where available) territory and population charts.
+- 222 civilisations and peoples, each with 43 checklist items in 10 categories, a “Known for” list and (where available) territory and population charts.
 - Events, routes, people and stories in `src/data/`.
 - Every checklist item has a **certainty** (confirmed / estimated / disputed) and a **source**.
   Totals: 2853 confirmed, 2693 estimated, 317 disputed.
@@ -19,6 +19,7 @@ These were written from general knowledge (sources named, but no page was re-rea
 - **21 new entries:** Russian Federation, Canada, Brazil (Republic), Australia, Argentina, Mexico, Modern Egypt, Grand Duchy of Moscow & Tsardom of Russia, Kazakh Khanate, Khanates of Bukhara, Khiva and Kokand, Tibet (842–1951), Saudi States & Saudi Arabia, Makuria, Scythians and Saka, Kalmar Union & Denmark–Norway, Khoisan peoples, Bantu-speaking peoples, Inuit and Arctic peoples, Indigenous peoples of Siberia, Peoples of the Great Plains, Indigenous peoples of Amazonia.
 - **About 1,250 short checklist answers were expanded** across 135 older entries (mostly the newer ones such as Valdivia, Nazca, Funan, Goguryeo, Toltec, the Philippines and Singapore). The year, certainty and source of each item were kept.
 - **13 more entries (round 2 of map blanks):** West African farming peoples, First Nations of the Subarctic, Amazigh (Berber) and Saharan peoples, Sámi and Finno-Ugric peoples, Peoples of the Eastern Woodlands, Peoples of the North American West, Peoples of the Brazilian Highlands, Peoples of the Pampas, Patagonia and the southern Andes, Peru, Colombia, Mongolia, Sudan, Algeria.
+- **11 more entries (round 4):** Afghanistan, Morocco (Alaouite), Madagascar, Congo Free State/Belgian Congo/DR Congo, Hausa city-states, Venezuela, Bolivia, Chile, Kingdom of Denmark, Sweden (since 1721), South Africa. Sensitive: Western Sahara, the Congo Free State death toll, apartheid, Venezuela’s disputed elections.
 - **8 more entries (round 3, mostly prehistory):** Archaic peoples of the Americas, Early farmers of Mesoamerica, Austronesian peoples, Early rice farmers of mainland Southeast Asia, Bronze Age steppe peoples, Neolithic and Bronze Age Europe, Peoples of pre-Islamic Arabia, Central African forest peoples.
 - **Two new checklist items for all 190 entries** (380 answers): *Communication & transport* (Technology) and *Housing & daily life* (Culture), sourced to each entry’s Wikipedia article but not re-read.
 - Sensitive: Tibet’s status, Russia’s annexations, the Falklands/Malvinas, and the treatment of Indigenous peoples in Canada, Australia, Brazil and the Plains.

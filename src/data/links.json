@@ -1243,5 +1243,68 @@
     "relation": "colonised",
     "year": 1962,
     "note": "Algeria was ruled by France from 1830 to 1962."
+  },
+  {
+    "fromPolityId": "denmark-norway",
+    "toPolityId": "kingdom-of-denmark",
+    "relation": "succeeded",
+    "year": 1814,
+    "note": "Denmark lost Norway to Sweden in the Treaty of Kiel."
+  },
+  {
+    "fromPolityId": "swedish-empire",
+    "toPolityId": "sweden-modern",
+    "relation": "succeeded",
+    "year": 1721,
+    "note": "The Treaty of Nystad ended Sweden’s time as a great power."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "morocco",
+    "relation": "colonised",
+    "year": 1912,
+    "note": "French protectorate over most of Morocco (1912–56)."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "madagascar",
+    "relation": "colonised",
+    "year": 1896,
+    "note": "Madagascar was a French colony (1896–1960)."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "chile",
+    "relation": "colonised",
+    "year": 1818,
+    "note": "Chile was a Spanish colony until independence."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "bolivia",
+    "relation": "colonised",
+    "year": 1825,
+    "note": "Bolivia was Upper Peru under Spain."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "venezuela",
+    "relation": "colonised",
+    "year": 1821,
+    "note": "Venezuela was a Spanish colony until independence."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "south-africa",
+    "relation": "colonised",
+    "year": 1910,
+    "note": "South Africa was a British dominion."
+  },
+  {
+    "fromPolityId": "hausa-states",
+    "toPolityId": "sokoto-caliphate",
+    "relation": "succeeded",
+    "year": 1808,
+    "note": "The Fulani jihad brought the Hausa cities into the Sokoto Caliphate."
   }
 ]

@@ -1,0 +1,323 @@
+{
+  "id": "south-africa",
+  "name": "South Africa",
+  "era": "modern",
+  "region": "Southern Africa",
+  "startYear": 1910,
+  "endYear": null,
+  "capital": "Pretoria, Cape Town and Bloemfontein",
+  "capitalCoords": [
+    28.19,
+    -25.75
+  ],
+  "summary": "The Union of South Africa (1910), a republic from 1961. Apartheid laws (1948–1994) enforced racial segregation until the first free elections elected Nelson Mandela in 1994.",
+  "wikiTitle": "South Africa",
+  "borderNames": [
+    "South Africa",
+    "Union of South Africa"
+  ],
+  "borderYears": [
+    1910,
+    null
+  ],
+  "color": "#4a8a5a",
+  "knownFor": [
+    {
+      "label": "Nelson Mandela",
+      "kind": "person",
+      "year": 1994,
+      "note": "Anti-apartheid leader and first president elected by all."
+    },
+    {
+      "label": "Truth and Reconciliation Commission",
+      "kind": "idea",
+      "year": 1996,
+      "note": "Heard testimony about apartheid-era crimes."
+    },
+    {
+      "label": "Robben Island",
+      "kind": "monument",
+      "note": "Prison where Mandela was held; a World Heritage Site."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The southern tip of Africa; about 1.2 million km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "terrain": {
+        "value": "A high central plateau, mountains and coasts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "climate": {
+        "value": "Mostly temperate and dry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "resources": {
+        "value": "Gold, diamonds, platinum, coal, farmland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "disasters": {
+        "value": "Droughts and floods.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 63 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "urbanisation": {
+        "value": "Johannesburg, Cape Town, Durban.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "disease": {
+        "value": "One of the largest HIV epidemics.",
+        "year": 2005,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "migration": {
+        "value": "Forced removals under apartheid; migrants from neighbouring countries.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Mining, manufacturing, services.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "tradeRoutes": {
+        "value": "Ports at Durban and Cape Town.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "wealth": {
+        "value": "An upper-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "moneyAndTax": {
+        "value": "The rand.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "inequality": {
+        "value": "Among the highest inequality in the world.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary republic; apartheid state (1948–94).",
+        "year": 1948,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "keyRulers": {
+        "value": "Jan Smuts. Hendrik Verwoerd. F. W. de Klerk. Nelson Mandela. Thabo Mbeki. Cyril Ramaphosa.",
+        "year": 1994,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "succession": {
+        "value": "Universal elections since 1994.",
+        "year": 1994,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "institutions": {
+        "value": "The 1996 constitution and Constitutional Court.",
+        "year": 1996,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "stability": {
+        "value": "Sharpeville (1960) and Soweto (1976) massacres.",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "eliteConflict": {
+        "value": "Party politics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Africa"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "A regional military power.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Africa"
+      },
+      "majorWars": {
+        "value": "World Wars; the Border War in Namibia and Angola (1966–89).",
+        "year": 1966,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "territoryChange": {
+        "value": "Ruled South West Africa (Namibia) until 1990.",
+        "year": 1990,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "alliancesRivals": {
+        "value": "Sanctions during apartheid; BRICS member since 2010.",
+        "year": 2010,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Africa"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "The first human heart transplant (1967).",
+        "year": 1967,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "scienceEducation": {
+        "value": "Unequal schooling under apartheid.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "openness": {
+        "value": "Isolated under apartheid.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Africa"
+      },
+      "communicationTransport": {
+        "value": "Railways and ports.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Christian.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "languageWriting": {
+        "value": "12 official languages, including Zulu, Xhosa, Afrikaans and English.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "artsArchitecture": {
+        "value": "Literature, music (kwaito, jazz), art.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "socialStructure": {
+        "value": "Apartheid classified people by race.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "sharedIdentity": {
+        "value": "The “Rainbow Nation” idea after 1994.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Africa"
+      },
+      "dailyLife": {
+        "value": "Suburban houses and townships; pap (maize porridge), braai.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Namibia, Botswana, Zimbabwe, Mozambique, Lesotho, Eswatini.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "ideasReligions": {
+        "value": "Anti-apartheid ideas spread worldwide.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "colonisation": {
+        "value": "Formed from British colonies and Boer republics.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Union in 1910.",
+        "year": 1910,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "peakPeriod": {
+        "value": "Democracy in 1994.",
+        "year": 1994,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "declineSignals": {
+        "value": "Inequality and power shortages.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: South Africa"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: South Africa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: South Africa"
+      }
+    }
+  }
+}

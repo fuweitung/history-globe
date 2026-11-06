@@ -1,0 +1,323 @@
+{
+  "id": "sweden-modern",
+  "name": "Sweden (since 1721)",
+  "era": "modern",
+  "region": "Northern Europe (Baltic)",
+  "startYear": 1721,
+  "endYear": null,
+  "capital": "Stockholm",
+  "capitalCoords": [
+    18.07,
+    59.33
+  ],
+  "summary": "Sweden after the end of its empire in 1721: in union with Norway (1814–1905), neutral in both World Wars, and a welfare state.",
+  "wikiTitle": "Sweden",
+  "borderNames": [
+    "Sweden",
+    "Sweden–Norway"
+  ],
+  "borderYears": [
+    1722,
+    null
+  ],
+  "color": "#3a6fb0",
+  "knownFor": [
+    {
+      "label": "Nobel Prizes",
+      "kind": "idea",
+      "year": 1901,
+      "note": "Founded by Alfred Nobel’s will."
+    },
+    {
+      "label": "Carl Linnaeus",
+      "kind": "person",
+      "year": 1753,
+      "note": "Created the naming system for plants and animals."
+    },
+    {
+      "label": "Allemansrätten",
+      "kind": "idea",
+      "note": "Everyone’s right to roam in nature."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The eastern Scandinavian Peninsula.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      },
+      "terrain": {
+        "value": "Forests, lakes, mountains in the north.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      },
+      "climate": {
+        "value": "Cold winters.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      },
+      "resources": {
+        "value": "Iron ore, timber, hydropower.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      },
+      "disasters": {
+        "value": "Famine of 1867–69.",
+        "year": 1867,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 10.5 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      },
+      "urbanisation": {
+        "value": "Stockholm, Gothenburg, Malmö.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      },
+      "disease": {
+        "value": "Good public health.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sweden"
+      },
+      "migration": {
+        "value": "About 1.3 million emigrated to America (1850–1930); immigration later.",
+        "year": 1880,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Iron, timber, then industry (Volvo, Ericsson, IKEA).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      },
+      "tradeRoutes": {
+        "value": "Export trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      },
+      "wealth": {
+        "value": "One of the richest countries.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      },
+      "moneyAndTax": {
+        "value": "The krona.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      },
+      "inequality": {
+        "value": "Low inequality.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A constitutional monarchy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      },
+      "keyRulers": {
+        "value": "Gustav III. Charles XIV John (Bernadotte). Olof Palme.",
+        "year": 1818,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      },
+      "institutions": {
+        "value": "Riksdag (parliament).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      },
+      "stability": {
+        "value": "Stable since 1809.",
+        "year": 1809,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      },
+      "eliteConflict": {
+        "value": "Coalition politics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sweden"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Neutral for two centuries; joined NATO in 2024.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      },
+      "majorWars": {
+        "value": "Last war in 1814.",
+        "year": 1814,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      },
+      "territoryChange": {
+        "value": "Lost Finland to Russia (1809); union with Norway ended 1905.",
+        "year": 1809,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      },
+      "alliancesRivals": {
+        "value": "EU (1995), NATO (2024).",
+        "year": 1995,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Dynamite, the safety match, the three-point seatbelt, Spotify.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      },
+      "scienceEducation": {
+        "value": "High literacy since the 18th century.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      },
+      "openness": {
+        "value": "Open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      },
+      "communicationTransport": {
+        "value": "Railways and Stockholm’s metro.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Lutheran tradition; very secular today.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      },
+      "languageWriting": {
+        "value": "Swedish; Sámi and Finnish minorities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      },
+      "artsArchitecture": {
+        "value": "ABBA, Astrid Lindgren, design.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      },
+      "socialStructure": {
+        "value": "Large middle class.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sweden"
+      },
+      "sharedIdentity": {
+        "value": "Strong welfare-state identity.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sweden"
+      },
+      "dailyLife": {
+        "value": "Wooden houses and flats; meatballs, fish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Norway, Finland, Denmark.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      },
+      "ideasReligions": {
+        "value": "Social democracy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      },
+      "colonisation": {
+        "value": "Small colony Saint-Barthélemy (1784–1878).",
+        "year": 1784,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "The Age of Liberty (1719–72).",
+        "year": 1719,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      },
+      "peakPeriod": {
+        "value": "Post-war welfare state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sweden"
+      },
+      "declineSignals": {
+        "value": "Loss of Finland.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sweden"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Sweden.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sweden"
+      }
+    }
+  }
+}

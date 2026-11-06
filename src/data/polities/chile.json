@@ -1,0 +1,321 @@
+{
+  "id": "chile",
+  "name": "Chile",
+  "era": "modern",
+  "region": "South America",
+  "startYear": 1818,
+  "endYear": null,
+  "capital": "Santiago",
+  "capitalCoords": [
+    -70.65,
+    -33.45
+  ],
+  "summary": "A long, narrow republic on the Pacific coast of South America, independent since 1818, with a military dictatorship from 1973 to 1990.",
+  "wikiTitle": "Chile",
+  "borderNames": [
+    "Chile"
+  ],
+  "borderYears": [
+    1818,
+    null
+  ],
+  "color": "#c0443a",
+  "knownFor": [
+    {
+      "label": "Pablo Neruda",
+      "kind": "person",
+      "year": 1971,
+      "note": "Poet and Nobel Prize winner (1971)."
+    },
+    {
+      "label": "Copper mining",
+      "kind": "tool",
+      "note": "Chile is the world’s largest copper producer."
+    },
+    {
+      "label": "Atacama observatories",
+      "kind": "monument",
+      "note": "Some of the world’s largest telescopes."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "A strip of land along the Pacific, about 4,300 km long.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      },
+      "terrain": {
+        "value": "The Atacama Desert, central valleys, the Andes, fjords in the south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      },
+      "climate": {
+        "value": "Desert in the north, Mediterranean in the centre, cold and wet in the south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      },
+      "resources": {
+        "value": "Copper, lithium, nitrates (historically), fish, wine.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      },
+      "disasters": {
+        "value": "Earthquakes, including the strongest ever recorded (Valdivia, 1960).",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 20 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      },
+      "urbanisation": {
+        "value": "About 40% live in Greater Santiago.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      },
+      "disease": {
+        "value": "Good public health compared with the region.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Chile"
+      },
+      "migration": {
+        "value": "Immigrants from Peru, Haiti and Venezuela recently.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Copper mining, farming exports, services.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      },
+      "tradeRoutes": {
+        "value": "Free trade with many countries.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      },
+      "wealth": {
+        "value": "One of the richest countries in Latin America.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      },
+      "moneyAndTax": {
+        "value": "The Chilean peso.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      },
+      "inequality": {
+        "value": "High inequality; large protests in 2019.",
+        "year": 2019,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A presidential republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      },
+      "keyRulers": {
+        "value": "Bernardo O’Higgins. Salvador Allende. Augusto Pinochet. Michelle Bachelet.",
+        "year": 1818,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      },
+      "succession": {
+        "value": "Elections; interrupted by the 1973 coup.",
+        "year": 1973,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      },
+      "institutions": {
+        "value": "Congress, courts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      },
+      "stability": {
+        "value": "Military dictatorship (1973–90), with thousands killed or disappeared.",
+        "year": 1973,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      },
+      "eliteConflict": {
+        "value": "Left–right polarisation.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Chile"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "A professional army and navy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      },
+      "majorWars": {
+        "value": "War of the Pacific (1879–84) against Peru and Bolivia.",
+        "year": 1879,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      },
+      "territoryChange": {
+        "value": "Gained the northern desert in 1884.",
+        "year": 1884,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      },
+      "alliancesRivals": {
+        "value": "Rivalry with Argentina, settled peacefully.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Chile"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Chile"
+      },
+      "scienceEducation": {
+        "value": "Strong universities; astronomy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      },
+      "openness": {
+        "value": "Very open to trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      },
+      "communicationTransport": {
+        "value": "A railway system; the Santiago Metro (1975).",
+        "year": 1975,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Catholic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      },
+      "languageWriting": {
+        "value": "Spanish; Mapudungun.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      },
+      "artsArchitecture": {
+        "value": "Poets Gabriela Mistral and Pablo Neruda.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      },
+      "socialStructure": {
+        "value": "Mestizo majority; Mapuche minority.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Chile"
+      },
+      "sharedIdentity": {
+        "value": "Strong national identity.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Chile"
+      },
+      "dailyLife": {
+        "value": "City apartments and houses; empanadas, cazuela, wine.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Peru, Bolivia, Argentina.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      },
+      "ideasReligions": {
+        "value": "Free-market reforms in the 1970s–80s.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Chile"
+      },
+      "colonisation": {
+        "value": "A former Spanish colony.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence in 1818.",
+        "year": 1818,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      },
+      "peakPeriod": {
+        "value": "Growth after 1990.",
+        "year": 1995,
+        "certainty": "estimated",
+        "source": "Wikipedia: Chile"
+      },
+      "declineSignals": {
+        "value": "Political crises.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Chile"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Chile.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile"
+      }
+    }
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "id": "madagascar",
+  "name": "Madagascar (Malagasy kingdoms and state)",
+  "era": "medieval",
+  "region": "East Africa (Indian Ocean)",
+  "startYear": 500,
+  "endYear": null,
+  "datesApproximate": true,
+  "capital": "Antananarivo",
+  "capitalCoords": [
+    47.52,
+    -18.91
+  ],
+  "summary": "The island settled by Austronesian sailors from Borneo and by Africans, where kingdoms such as Merina united much of the island before French colonisation (1896). Independent since 1960.",
+  "wikiTitle": "Madagascar",
+  "borderNames": [
+    "Madagascar"
+  ],
+  "borderYears": [
+    500,
+    null
+  ],
+  "color": "#4f8a3c",
+  "knownFor": [
+    {
+      "label": "Royal Hill of Ambohimanga",
+      "kind": "monument",
+      "note": "Sacred hill of the Merina kings, a World Heritage Site."
+    },
+    {
+      "label": "Lamba",
+      "kind": "textile",
+      "note": "A wrapped cloth worn by Malagasy people."
+    },
+    {
+      "label": "Vanilla",
+      "kind": "food",
+      "note": "Madagascar grows most of the world’s vanilla."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The large island off south-east Africa; about 587,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "terrain": {
+        "value": "Central highlands, eastern rainforest, dry west and south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "climate": {
+        "value": "Tropical; cyclones on the east coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "resources": {
+        "value": "Rice, cattle (zebu), vanilla, cloves, unique wildlife.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "disasters": {
+        "value": "Cyclones and droughts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 30 million today.",
+        "year": 2024,
+        "certainty": "estimated",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "urbanisation": {
+        "value": "Antananarivo is the largest city.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "disease": {
+        "value": "Plague outbreaks still occur (2017).",
+        "year": 2017,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "migration": {
+        "value": "Settled by Austronesians (about 500 CE or earlier) and Bantu-speaking Africans.",
+        "year": 500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Rice farming and cattle herding.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "tradeRoutes": {
+        "value": "Indian Ocean trade with Arabs and Swahili towns.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "wealth": {
+        "value": "One of the poorest countries today.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "moneyAndTax": {
+        "value": "The ariary.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "inequality": {
+        "value": "Nobles, commoners and slaves in the Merina kingdom.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Kingdoms (Merina, Sakalava), then a French colony, then a republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "keyRulers": {
+        "value": "Andrianampoinimerina (about 1787–1810). Radama I. Queen Ranavalona I. Philibert Tsiranana.",
+        "year": 1787,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "succession": {
+        "value": "Royal succession; elections and coups since 1960.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "institutions": {
+        "value": "The Merina kingdom’s royal court and laws.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "stability": {
+        "value": "Political crises in 1972, 2002 and 2009.",
+        "year": 2009,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "eliteConflict": {
+        "value": "Rivalry between highland and coastal groups.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Merina armies trained with British help under Radama I.",
+        "year": 1817,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "majorWars": {
+        "value": "The French conquest (1895) and the 1947 uprising.",
+        "year": 1947,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "territoryChange": {
+        "value": "Merina unified most of the island in the 19th century.",
+        "year": 1820,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "alliancesRivals": {
+        "value": "Relations with Britain and France.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "scienceEducation": {
+        "value": "Merina schools and Bible translation (1830s).",
+        "year": 1835,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "openness": {
+        "value": "Varied by ruler.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "communicationTransport": {
+        "value": "Outrigger canoes; few roads; a railway from the capital to the coast (1913).",
+        "year": 1913,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Ancestor veneration (famadihana) and Christianity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "languageWriting": {
+        "value": "Malagasy, an Austronesian language related to languages of Borneo.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "artsArchitecture": {
+        "value": "Hira gasy performances, wood carving, silk lamba.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "socialStructure": {
+        "value": "Many ethnic groups.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "sharedIdentity": {
+        "value": "A shared Malagasy language and ancestor traditions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "dailyLife": {
+        "value": "Wooden or brick houses; rice at almost every meal.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Swahili coast, Comoros, Mauritius, Réunion.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "ideasReligions": {
+        "value": "Christianity spread in the 19th century.",
+        "year": 1869,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "colonisation": {
+        "value": "French colony (1896–1960).",
+        "year": 1896,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Rice farming and unification under the Merina.",
+        "year": 1790,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "peakPeriod": {
+        "value": "Merina power in the early 19th century.",
+        "year": 1820,
+        "certainty": "estimated",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "declineSignals": {
+        "value": "French conquest.",
+        "year": 1895,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      },
+      "overallCertainty": {
+        "value": "Early settlement dates are debated.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Madagascar; Wikipedia: Merina Kingdom"
+      }
+    }
+  }
+}
