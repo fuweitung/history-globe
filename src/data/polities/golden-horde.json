@@ -43,25 +43,25 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "The Pontic–Caspian steppe, from Ukraine to Kazakhstan, with its capital at Sarai on the Volga.",
+        "value": "The western steppe from the Danube to Siberia, ruling the Rus’ principalities as tributaries; capital Sarai on the Volga.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Golden Horde (checked 6 Nov 2026)"
+        "source": "Wikipedia: Golden Horde (checked 6 Nov 2026); Favereau, The Horde (2021)"
       },
       "terrain": {
-        "value": "Grassland steppe and river valleys (Volga, Don).",
+        "value": "Open grassland of the Pontic–Caspian steppe and the Volga and Don river valleys.",
         "year": null,
         "certainty": "estimated",
         "source": "Favereau, The Horde (2021)"
       },
       "climate": {
-        "value": "Continental steppe.",
+        "value": "Continental steppe climate with harsh winters.",
         "year": null,
         "certainty": "estimated",
         "source": "Favereau, The Horde (2021)"
       },
       "resources": {
-        "value": "Pasture; control of trade routes.",
+        "value": "Vast pastures for horses and sheep, plus control of trade routes.",
         "year": null,
         "certainty": "estimated",
         "source": "Favereau, The Horde (2021)"
@@ -81,10 +81,10 @@
         "source": "Favereau, The Horde (2021)"
       },
       "urbanisation": {
-        "value": "Sarai became a large city.",
+        "value": "Sarai grew into one of the largest cities of its time; Genoese and Venetian ports lay on the Black Sea.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Golden Horde (checked 6 Nov 2026)"
+        "source": "Wikipedia: Golden Horde (checked 6 Nov 2026); Favereau, The Horde (2021)"
       },
       "disease": {
         "value": "The plague spread from the Horde’s siege of Caffa (1346) to Europe.",
@@ -101,13 +101,13 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Herding, tribute and trade.",
+        "value": "Herding, tribute from Rus’, and taxes on Silk Road and Black Sea trade.",
         "year": null,
         "certainty": "estimated",
         "source": "Favereau, The Horde (2021)"
       },
       "tradeRoutes": {
-        "value": "Silk Road and Black Sea trade with Genoa and Venice.",
+        "value": "Black Sea ports such as Caffa (Genoa) and Tana (Venice), and caravan routes to Central Asia.",
         "year": null,
         "certainty": "estimated",
         "source": "Favereau, The Horde (2021)"
@@ -133,10 +133,10 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Semi-elective, later hereditary nomadic monarchy.",
+        "value": "A nomadic khanate ruled by descendants of Genghis Khan’s son Jochi.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Golden Horde (checked 6 Nov 2026)"
+        "source": "Wikipedia: Golden Horde (checked 6 Nov 2026); Favereau, The Horde (2021)"
       },
       "keyRulers": {
         "value": "Batu Khan, Berke, Özbeg Khan (1313–1341), Tokhtamysh (1379–1395).",
@@ -145,22 +145,22 @@
         "source": "Wikipedia: Golden Horde (checked 6 Nov 2026)"
       },
       "succession": {
-        "value": "Disputed among Jochi’s descendants.",
+        "value": "Among Jochi’s descendants, decided by assemblies and often by force.",
         "year": null,
         "certainty": "estimated",
         "source": "Favereau, The Horde (2021)"
       },
       "institutions": {
-        "value": "Tax collection through Rus’ princes.",
+        "value": "Collected tribute through Rus’ princes, who needed a khan’s patent (yarlyk) to rule.",
         "year": null,
         "certainty": "estimated",
         "source": "Favereau, The Horde (2021)"
       },
       "stability": {
-        "value": "The “Great Troubles” (1359–1381).",
+        "value": "Strong until the “Great Troubles” (1359–1381), when many khans fought for power.",
         "year": 1359,
         "certainty": "confirmed",
-        "source": "Wikipedia: Golden Horde (checked 6 Nov 2026)"
+        "source": "Wikipedia: Golden Horde (checked 6 Nov 2026); Favereau, The Horde (2021)"
       },
       "eliteConflict": {
         "value": "Many rival khans competed for the throne during the Great Troubles.",
@@ -171,13 +171,13 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Mounted archers.",
+        "value": "Mounted archers organised in units of tens, hundreds and thousands.",
         "year": null,
         "certainty": "estimated",
         "source": "Favereau, The Horde (2021)"
       },
       "majorWars": {
-        "value": "Battle of Kulikovo (1380); Timur’s invasion (1395–96).",
+        "value": "Conquest of Rus’ (1237–1241), war with the Ilkhanate, Battle of Kulikovo (1380), Timur’s invasion (1395–96).",
         "year": 1380,
         "certainty": "estimated",
         "source": "Favereau, The Horde (2021)"
@@ -189,7 +189,7 @@
         "source": "Wikipedia: Golden Horde (checked 6 Nov 2026)"
       },
       "alliancesRivals": {
-        "value": "Rivals: Ilkhanate, Timur, Moscow. Ally: Mamluks.",
+        "value": "Allied with the Mamluks against the Ilkhanate; rivals of Timur, Lithuania and later Moscow.",
         "year": null,
         "certainty": "estimated",
         "source": "Favereau, The Horde (2021)"
@@ -203,7 +203,7 @@
         "source": "Favereau, The Horde (2021)"
       },
       "scienceEducation": {
-        "value": "Islamic learning after 1313.",
+        "value": "Islamic scholarship grew after Özbeg Khan’s conversion.",
         "year": null,
         "certainty": "estimated",
         "source": "Favereau, The Horde (2021)"
@@ -217,31 +217,31 @@
     },
     "culture": {
       "religion": {
-        "value": "Tengrism, later Islam (from Özbeg Khan).",
+        "value": "Tengrism and shamanism, then Islam from Özbeg Khan (1313), while tolerating Orthodox Christianity.",
         "year": 1313,
         "certainty": "confirmed",
-        "source": "Wikipedia: Golden Horde (checked 6 Nov 2026)"
+        "source": "Wikipedia: Golden Horde (checked 6 Nov 2026); Favereau, The Horde (2021)"
       },
       "languageWriting": {
-        "value": "Mongol, then Kipchak Turkic.",
+        "value": "Mongol for the court at first, then Kipchak Turkic; Uyghur script and Arabic script.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Golden Horde (checked 6 Nov 2026)"
+        "source": "Wikipedia: Golden Horde (checked 6 Nov 2026); Favereau, The Horde (2021)"
       },
       "artsArchitecture": {
-        "value": "Sarai’s palaces and mosques.",
+        "value": "Palaces, mosques and tiled buildings at Sarai, now mostly lost.",
         "year": null,
         "certainty": "estimated",
         "source": "Favereau, The Horde (2021)"
       },
       "socialStructure": {
-        "value": "Khan, nobles, herders and settled tributaries.",
+        "value": "Khan, Mongol and Turkic nobles, herders, and settled subjects and tributaries.",
         "year": null,
         "certainty": "estimated",
         "source": "Favereau, The Horde (2021)"
       },
       "sharedIdentity": {
-        "value": "Descent from Genghis Khan.",
+        "value": "Descent from Genghis Khan and, later, Islam.",
         "year": null,
         "certainty": "estimated",
         "source": "Favereau, The Horde (2021)"
@@ -249,7 +249,7 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Rus’, Lithuania, Byzantium, Ilkhanate.",
+        "value": "Rus’ principalities, Lithuania, Byzantium, the Ilkhanate, the Chagatai Khanate.",
         "year": null,
         "certainty": "estimated",
         "source": "Favereau, The Horde (2021)"
@@ -269,22 +269,22 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Batu’s conquest of the Rus’ principalities (1237–1241).",
+        "value": "Batu’s conquest of Rus’ and the western steppe (1237–1241).",
         "year": 1240,
         "certainty": "estimated",
         "source": "Favereau, The Horde (2021)"
       },
       "peakPeriod": {
-        "value": "Under Özbeg Khan (1313–1341).",
+        "value": "Under Özbeg Khan (1313–1341), with rich trade and strong central rule.",
         "year": 1340,
         "certainty": "estimated",
         "source": "Favereau, The Horde (2021)"
       },
       "declineSignals": {
-        "value": "Civil war; Timur’s invasion.",
+        "value": "The Black Death, the Great Troubles (1359–1381) and Timur’s invasion.",
         "year": 1359,
         "certainty": "confirmed",
-        "source": "Wikipedia: Golden Horde (checked 6 Nov 2026)"
+        "source": "Wikipedia: Golden Horde (checked 6 Nov 2026); Favereau, The Horde (2021)"
       },
       "outcome": {
         "value": "Broke into khanates (Crimea, Kazan, Astrakhan); Sarai sacked in 1502.",

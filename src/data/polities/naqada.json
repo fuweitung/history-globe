@@ -23,25 +23,25 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Upper Egypt along the Nile, named after the town of Naqada.",
+        "value": "Upper Egypt along the Nile, named after the town of Naqada, later spreading to the delta.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Naqada culture (checked 6 Nov 2026)"
+        "source": "Wikipedia: Naqada culture (checked 6 Nov 2026); Wengrow, The Archaeology of Early Egypt (2006)"
       },
       "terrain": {
-        "value": "The narrow Nile valley between deserts.",
+        "value": "The narrow, fertile Nile valley between dry deserts.",
         "year": null,
         "certainty": "estimated",
         "source": "Wengrow, The Archaeology of Early Egypt (2006)"
       },
       "climate": {
-        "value": "Increasingly dry; people moved closer to the Nile.",
+        "value": "The Sahara was drying, pushing people closer to the Nile.",
         "year": null,
         "certainty": "estimated",
         "source": "Wengrow, The Archaeology of Early Egypt (2006)"
       },
       "resources": {
-        "value": "Nile floodplain soil, stone, gold from the Eastern Desert.",
+        "value": "Nile floodplain soil, flint, stone for vessels and gold from the Eastern Desert.",
         "year": null,
         "certainty": "estimated",
         "source": "Wengrow, The Archaeology of Early Egypt (2006)"
@@ -61,7 +61,7 @@
         "source": "Wengrow, The Archaeology of Early Egypt (2006)"
       },
       "urbanisation": {
-        "value": "Towns such as Hierakonpolis and Naqada grew.",
+        "value": "Towns such as Naqada, Hierakonpolis and Abydos grew with temples and elite cemeteries.",
         "year": null,
         "certainty": "estimated",
         "source": "Wengrow, The Archaeology of Early Egypt (2006)"
@@ -81,13 +81,13 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming of wheat and barley, cattle, crafts.",
+        "value": "Farming of wheat and barley, cattle herding and specialised crafts.",
         "year": null,
         "certainty": "estimated",
         "source": "Wengrow, The Archaeology of Early Egypt (2006)"
       },
       "tradeRoutes": {
-        "value": "Trade with Mesopotamia and the Levant.",
+        "value": "Trade with Nubia, the Levant and Mesopotamia (lapis lazuli from Afghanistan reached Egypt).",
         "year": null,
         "certainty": "estimated",
         "source": "Wengrow, The Archaeology of Early Egypt (2006)"
@@ -105,7 +105,7 @@
         "source": "Wengrow, The Archaeology of Early Egypt (2006)"
       },
       "inequality": {
-        "value": "Rich elite tombs show growing inequality.",
+        "value": "Rich elite tombs with fine goods show growing inequality.",
         "year": null,
         "certainty": "estimated",
         "source": "Wengrow, The Archaeology of Early Egypt (2006)"
@@ -113,13 +113,13 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Chiefdoms and early kingdoms.",
+        "value": "Chiefdoms that grew into small kingdoms, then “Dynasty 0” kings.",
         "year": null,
         "certainty": "estimated",
         "source": "Wengrow, The Archaeology of Early Egypt (2006)"
       },
       "keyRulers": {
-        "value": "“Dynasty 0” rulers such as Scorpion.",
+        "value": "“Dynasty 0” rulers such as Scorpion and Narmer, who is often credited with unifying Egypt.",
         "year": -3150,
         "certainty": "estimated",
         "source": "Wengrow, The Archaeology of Early Egypt (2006)"
@@ -131,7 +131,7 @@
         "source": "Wengrow, The Archaeology of Early Egypt (2006)"
       },
       "institutions": {
-        "value": "Early royal symbols.",
+        "value": "Early royal symbols such as the crowns and the serekh (royal name box).",
         "year": null,
         "certainty": "estimated",
         "source": "Wengrow, The Archaeology of Early Egypt (2006)"
@@ -151,19 +151,19 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Maceheads, flint knives.",
+        "value": "Maceheads, flint knives, bows and arrows.",
         "year": null,
         "certainty": "estimated",
         "source": "Wengrow, The Archaeology of Early Egypt (2006)"
       },
       "majorWars": {
-        "value": "Wars between centres before unification.",
+        "value": "Wars between rival centres before Egypt was unified.",
         "year": -3150,
         "certainty": "estimated",
         "source": "Wengrow, The Archaeology of Early Egypt (2006)"
       },
       "territoryChange": {
-        "value": "Spread to Lower Egypt.",
+        "value": "Naqada culture spread north into Lower Egypt by about 3200 BCE.",
         "year": -3100,
         "certainty": "estimated",
         "source": "Wengrow, The Archaeology of Early Egypt (2006)"
@@ -177,19 +177,19 @@
     },
     "technology": {
       "inventions": {
-        "value": "Early hieroglyphs (Abydos tomb U-j labels).",
+        "value": "Early hieroglyphs on labels from tomb U-j at Abydos (about 3200 BCE).",
         "year": -3200,
         "certainty": "estimated",
         "source": "Wengrow, The Archaeology of Early Egypt (2006)"
       },
       "scienceEducation": {
-        "value": "Early writing.",
+        "value": "The beginnings of writing and record-keeping.",
         "year": null,
         "certainty": "estimated",
         "source": "Wengrow, The Archaeology of Early Egypt (2006)"
       },
       "openness": {
-        "value": "Mesopotamian influences.",
+        "value": "Took ideas from Mesopotamia, such as cylinder seals and some art motifs.",
         "year": null,
         "certainty": "estimated",
         "source": "Wengrow, The Archaeology of Early Egypt (2006)"
@@ -197,25 +197,25 @@
     },
     "culture": {
       "religion": {
-        "value": "Burials with goods.",
+        "value": "Burials with grave goods show belief in an afterlife; early gods appear in art.",
         "year": null,
         "certainty": "estimated",
         "source": "Wengrow, The Archaeology of Early Egypt (2006)"
       },
       "languageWriting": {
-        "value": "Earliest Egyptian writing.",
+        "value": "Early Egyptian, with the first hieroglyphs late in the period.",
         "year": -3200,
         "certainty": "estimated",
         "source": "Wengrow, The Archaeology of Early Egypt (2006)"
       },
       "artsArchitecture": {
-        "value": "Decorated pottery, the Gebel el-Arak knife.",
+        "value": "Painted pottery with boats, the Gebel el-Arak knife, and the Hierakonpolis tomb painting.",
         "year": null,
         "certainty": "estimated",
         "source": "Wengrow, The Archaeology of Early Egypt (2006)"
       },
       "socialStructure": {
-        "value": "Elites, craftsmen, farmers.",
+        "value": "Elite rulers, craftsmen and farmers.",
         "year": null,
         "certainty": "estimated",
         "source": "Wengrow, The Archaeology of Early Egypt (2006)"
@@ -229,7 +229,7 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Lower Egypt, Nubia.",
+        "value": "Lower Egypt, Nubia (the A-Group) and the Levant.",
         "year": null,
         "certainty": "estimated",
         "source": "Wengrow, The Archaeology of Early Egypt (2006)"
@@ -255,13 +255,13 @@
         "source": "Wikipedia: Naqada culture (checked 6 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Naqada III.",
+        "value": "Naqada III (about 3200–3100 BCE), as kingdoms grew.",
         "year": -3200,
         "certainty": "estimated",
         "source": "Wengrow, The Archaeology of Early Egypt (2006)"
       },
       "declineSignals": {
-        "value": "Unification.",
+        "value": "Not a decline: it merged into the first Egyptian dynasty.",
         "year": -3100,
         "certainty": "estimated",
         "source": "Wengrow, The Archaeology of Early Egypt (2006)"

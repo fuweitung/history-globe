@@ -35,19 +35,19 @@
         "source": "Barfield, The Perilous Frontier (1989)"
       },
       "climate": {
-        "value": "Cold, dry steppe.",
+        "value": "Cold, dry steppe with harsh winters.",
         "year": null,
         "certainty": "estimated",
         "source": "Barfield, The Perilous Frontier (1989)"
       },
       "resources": {
-        "value": "Pasture for horses, sheep and cattle.",
+        "value": "Pasture for horses, sheep and cattle; iron.",
         "year": null,
         "certainty": "estimated",
         "source": "Barfield, The Perilous Frontier (1989)"
       },
       "disasters": {
-        "value": "Harsh winters killed livestock.",
+        "value": "Harsh winters (zud) killed livestock and caused famine.",
         "year": null,
         "certainty": "estimated",
         "source": "Barfield, The Perilous Frontier (1989)"
@@ -61,7 +61,7 @@
         "source": "Barfield, The Perilous Frontier (1989)"
       },
       "urbanisation": {
-        "value": "Mostly nomadic, with some fortified sites.",
+        "value": "Mostly nomadic, with some fortified settlements and royal tombs.",
         "year": null,
         "certainty": "estimated",
         "source": "Barfield, The Perilous Frontier (1989)"
@@ -81,13 +81,13 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Herding, raiding and tribute.",
+        "value": "Herding, raiding and tribute from Han China.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Xiongnu (checked 6 Nov 2026)"
+        "source": "Wikipedia: Xiongnu (checked 6 Nov 2026); Barfield, The Perilous Frontier (1989)"
       },
       "tradeRoutes": {
-        "value": "Received Han silk through tribute and markets on the frontier.",
+        "value": "Received Han silk through tribute and border markets; controlled parts of the early Silk Road.",
         "year": null,
         "certainty": "estimated",
         "source": "Barfield, The Perilous Frontier (1989)"
@@ -99,13 +99,13 @@
         "source": "Barfield, The Perilous Frontier (1989)"
       },
       "moneyAndTax": {
-        "value": "No coinage; wealth in livestock and tribute.",
+        "value": "No coinage; wealth was counted in livestock and tribute.",
         "year": null,
         "certainty": "estimated",
         "source": "Barfield, The Perilous Frontier (1989)"
       },
       "inequality": {
-        "value": "The chanyu and aristocratic clans led.",
+        "value": "The chanyu and aristocratic clans led; ordinary herders served as soldiers.",
         "year": null,
         "certainty": "estimated",
         "source": "Barfield, The Perilous Frontier (1989)"
@@ -113,10 +113,10 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A tribal confederation led by the chanyu.",
+        "value": "A tribal confederation under a supreme ruler, the chanyu.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Xiongnu (checked 6 Nov 2026)"
+        "source": "Wikipedia: Xiongnu (checked 6 Nov 2026); Barfield, The Perilous Frontier (1989)"
       },
       "keyRulers": {
         "value": "Touman, Modu (209–174 BCE), Laoshang (174–161 BCE).",
@@ -125,25 +125,25 @@
         "source": "Wikipedia: Xiongnu (checked 6 Nov 2026)"
       },
       "succession": {
-        "value": "Usually within the ruling clan, with frequent disputes.",
+        "value": "Usually within the ruling Luanti clan, often disputed.",
         "year": null,
         "certainty": "estimated",
         "source": "Barfield, The Perilous Frontier (1989)"
       },
       "institutions": {
-        "value": "Left and right wings under princes.",
+        "value": "Left and right wings under senior princes, a model later used by other steppe empires.",
         "year": null,
         "certainty": "estimated",
         "source": "Barfield, The Perilous Frontier (1989)"
       },
       "stability": {
-        "value": "Civil wars between rival chanyu.",
+        "value": "Civil wars between rival chanyu from 57 BCE.",
         "year": -57,
         "certainty": "estimated",
         "source": "Barfield, The Perilous Frontier (1989)"
       },
       "eliteConflict": {
-        "value": "Rival princes (the Worthy Kings of Left and Right) fought over the succession.",
+        "value": "Rival princes fought over the succession.",
         "year": null,
         "certainty": "estimated",
         "source": "Barfield, The Perilous Frontier (1989)"
@@ -151,28 +151,28 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Mounted archers who could field very large cavalry armies.",
+        "value": "Mounted archers able to field very large cavalry armies.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Xiongnu (checked 6 Nov 2026); Barfield, The Perilous Frontier (1989)"
       },
       "majorWars": {
-        "value": "Battle of Baideng (200 BCE); wars with Han China.",
+        "value": "Battle of Baideng (200 BCE); long wars with Han China (from 133 BCE).",
         "year": -200,
         "certainty": "confirmed",
-        "source": "Wikipedia: Xiongnu (checked 6 Nov 2026)"
+        "source": "Wikipedia: Xiongnu (checked 6 Nov 2026); Barfield, The Perilous Frontier (1989)"
       },
       "territoryChange": {
-        "value": "Defeated the Yuezhi and dominated the steppe.",
+        "value": "Defeated the Yuezhi and dominated the eastern steppe.",
         "year": -176,
         "certainty": "confirmed",
-        "source": "Wikipedia: Xiongnu (checked 6 Nov 2026)"
+        "source": "Wikipedia: Xiongnu (checked 6 Nov 2026); Barfield, The Perilous Frontier (1989)"
       },
       "alliancesRivals": {
-        "value": "Rivals: Han China, the Yuezhi, the Xianbei.",
+        "value": "Rivals: Han China, the Yuezhi and the Xianbei.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Xiongnu (checked 6 Nov 2026)"
+        "source": "Wikipedia: Xiongnu (checked 6 Nov 2026); Barfield, The Perilous Frontier (1989)"
       }
     },
     "technology": {
@@ -183,24 +183,24 @@
         "source": "Barfield, The Perilous Frontier (1989)"
       },
       "scienceEducation": {
-        "value": "No known writing.",
+        "value": "No writing of their own is known.",
         "year": null,
         "certainty": "estimated",
         "source": "Barfield, The Perilous Frontier (1989)"
       },
       "openness": {
-        "value": "A multiethnic confederation.",
+        "value": "A multi-ethnic confederation that traded with China and Central Asia.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Xiongnu (checked 6 Nov 2026)"
+        "source": "Wikipedia: Xiongnu (checked 6 Nov 2026); Barfield, The Perilous Frontier (1989)"
       }
     },
     "culture": {
       "religion": {
-        "value": "Shamanism and Tengrism.",
+        "value": "Sky worship (Tengri) and shamanism.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Xiongnu (checked 6 Nov 2026)"
+        "source": "Wikipedia: Xiongnu (checked 6 Nov 2026); Barfield, The Perilous Frontier (1989)"
       },
       "languageWriting": {
         "value": "Language is unknown; links to Turkic, Iranian, Mongolic, Yeniseian and other families are debated.",
@@ -209,19 +209,19 @@
         "source": "Wikipedia: Xiongnu (checked 6 Nov 2026)"
       },
       "artsArchitecture": {
-        "value": "Bronze belt plaques and animal-style art.",
+        "value": "Bronze belt plaques and animal-style art; rich royal tombs at Noin-Ula.",
         "year": null,
         "certainty": "estimated",
         "source": "Barfield, The Perilous Frontier (1989)"
       },
       "socialStructure": {
-        "value": "Aristocrats, commoners, slaves.",
+        "value": "Aristocratic clans, commoners and slaves.",
         "year": null,
         "certainty": "estimated",
         "source": "Barfield, The Perilous Frontier (1989)"
       },
       "sharedIdentity": {
-        "value": "Loyalty to the chanyu and the ruling Luanti clan.",
+        "value": "Loyalty to the chanyu.",
         "year": null,
         "certainty": "estimated",
         "source": "Barfield, The Perilous Frontier (1989)"
@@ -229,13 +229,13 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Han China, the Yuezhi, the Xianbei.",
+        "value": "Han China, the Yuezhi and the Xianbei.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Xiongnu (checked 6 Nov 2026)"
+        "source": "Wikipedia: Xiongnu (checked 6 Nov 2026); Barfield, The Perilous Frontier (1989)"
       },
       "ideasReligions": {
-        "value": "Steppe traditions such as heaven worship influenced later nomadic empires.",
+        "value": "Steppe traditions passed to later nomadic empires.",
         "year": null,
         "certainty": "estimated",
         "source": "Barfield, The Perilous Frontier (1989)"
@@ -255,7 +255,7 @@
         "source": "Wikipedia: Xiongnu (checked 6 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Under Modu Chanyu (209–174 BCE), when the Han paid tribute under the heqin peace treaties.",
+        "value": "Under Modu Chanyu (209–174 BCE), when the Han paid tribute.",
         "year": -176,
         "certainty": "estimated",
         "source": "Barfield, The Perilous Frontier (1989)"
@@ -264,7 +264,7 @@
         "value": "Long wars with the Han and civil wars.",
         "year": -57,
         "certainty": "confirmed",
-        "source": "Wikipedia: Xiongnu (checked 6 Nov 2026)"
+        "source": "Wikipedia: Xiongnu (checked 6 Nov 2026); Barfield, The Perilous Frontier (1989)"
       },
       "outcome": {
         "value": "Defeated by the Han; split. End date differs (late 1st century CE or 2nd century CE).",

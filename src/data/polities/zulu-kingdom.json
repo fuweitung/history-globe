@@ -29,7 +29,7 @@
         "source": "Wikipedia: Zulu Kingdom (checked 6 Nov 2026)"
       },
       "terrain": {
-        "value": "Rolling grassland, river valleys and coastal hills.",
+        "value": "Rolling grassland, river valleys and hills between the Drakensberg and the Indian Ocean.",
         "year": null,
         "certainty": "estimated",
         "source": "Laband, Rope of Sand (1995)"
@@ -47,7 +47,7 @@
         "source": "Laband, Rope of Sand (1995)"
       },
       "disasters": {
-        "value": "Drought in the early 19th century is linked to the conflicts of the period.",
+        "value": "A severe drought around the 1800s is linked to the conflicts that formed the kingdom.",
         "year": null,
         "certainty": "estimated",
         "source": "Laband, Rope of Sand (1995)"
@@ -81,13 +81,13 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Cattle herding and farming.",
+        "value": "Cattle herding and farming of sorghum and maize.",
         "year": null,
         "certainty": "estimated",
         "source": "Laband, Rope of Sand (1995)"
       },
       "tradeRoutes": {
-        "value": "Trade with Portuguese Delagoa Bay and British Natal.",
+        "value": "Trade with Portuguese at Delagoa Bay and British traders at Port Natal.",
         "year": null,
         "certainty": "estimated",
         "source": "Laband, Rope of Sand (1995)"
@@ -99,13 +99,13 @@
         "source": "Laband, Rope of Sand (1995)"
       },
       "moneyAndTax": {
-        "value": "Wealth measured in cattle.",
+        "value": "Wealth was counted in cattle; captured cattle went to the king.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Zulu Kingdom (checked 6 Nov 2026)"
+        "source": "Wikipedia: Zulu Kingdom (checked 6 Nov 2026); Laband, Rope of Sand (1995)"
       },
       "inequality": {
-        "value": "Royal house and chiefs controlled cattle and labour.",
+        "value": "The royal house and chiefs controlled cattle and the labour of the regiments.",
         "year": null,
         "certainty": "estimated",
         "source": "Laband, Rope of Sand (1995)"
@@ -113,10 +113,10 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Absolute monarchy.",
+        "value": "Absolute monarchy, with the king commanding the age-regiments.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Zulu Kingdom (checked 6 Nov 2026)"
+        "source": "Wikipedia: Zulu Kingdom (checked 6 Nov 2026); Laband, Rope of Sand (1995)"
       },
       "keyRulers": {
         "value": "Shaka (1816–1828), Dingane (1828–1840), Mpande (1840–1872), Cetshwayo, Dinuzulu.",
@@ -125,25 +125,25 @@
         "source": "Wikipedia: Zulu Kingdom (checked 6 Nov 2026)"
       },
       "succession": {
-        "value": "Often violent: Shaka was killed by his half-brothers.",
+        "value": "Often violent: Shaka was killed by his half-brothers in 1828.",
         "year": 1828,
         "certainty": "estimated",
         "source": "Laband, Rope of Sand (1995)"
       },
       "institutions": {
-        "value": "Age-grade regiments (amabutho) under royal control.",
+        "value": "Age-grade regiments (amabutho) that served the king and could not marry without permission.",
         "year": null,
         "certainty": "estimated",
         "source": "Laband, Rope of Sand (1995)"
       },
       "stability": {
-        "value": "Civil wars between royal brothers (1840, 1856).",
+        "value": "Civil wars between royal brothers (1840, 1856) and after Britain split the kingdom (1883–84).",
         "year": 1856,
         "certainty": "estimated",
         "source": "Laband, Rope of Sand (1995)"
       },
       "eliteConflict": {
-        "value": "Civil war after Britain divided the kingdom (1883–84).",
+        "value": "Rival royal brothers and chiefs; the British divided the kingdom among chiefs after 1879.",
         "year": 1883,
         "certainty": "estimated",
         "source": "Laband, Rope of Sand (1995)"
@@ -151,10 +151,10 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Standing regiments with the short stabbing spear and the “bull’s horns” encircling tactic.",
+        "value": "Standing regiments with the short stabbing spear (iklwa), large cowhide shields and the “bull’s horns” encircling tactic.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Zulu Kingdom (checked 6 Nov 2026)"
+        "source": "Wikipedia: Zulu Kingdom (checked 6 Nov 2026); Laband, Rope of Sand (1995)"
       },
       "majorWars": {
         "value": "Battle of Blood River (1838); Anglo-Zulu War (1879): Isandlwana (Zulu victory) and Ulundi (British victory).",
@@ -163,16 +163,16 @@
         "source": "Wikipedia: Zulu Kingdom (checked 6 Nov 2026)"
       },
       "territoryChange": {
-        "value": "About 207,000 km² (1822).",
+        "value": "About 207,000 km² in 1822, shrinking after wars with the Voortrekkers and Britain.",
         "year": 1822,
         "certainty": "confirmed",
-        "source": "Wikipedia: Zulu Kingdom (checked 6 Nov 2026)"
+        "source": "Wikipedia: Zulu Kingdom (checked 6 Nov 2026); Laband, Rope of Sand (1995)"
       },
       "alliancesRivals": {
-        "value": "Rivals: Ndwandwe, Voortrekkers, Britain.",
+        "value": "Rivals: the Ndwandwe, the Voortrekkers and Britain.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Zulu Kingdom (checked 6 Nov 2026)"
+        "source": "Wikipedia: Zulu Kingdom (checked 6 Nov 2026); Laband, Rope of Sand (1995)"
       }
     },
     "technology": {
@@ -197,31 +197,31 @@
     },
     "culture": {
       "religion": {
-        "value": "Zulu religion, later Christianity.",
+        "value": "Zulu religion centred on ancestors, later with Christian missions.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Zulu Kingdom (checked 6 Nov 2026)"
+        "source": "Wikipedia: Zulu Kingdom (checked 6 Nov 2026); Laband, Rope of Sand (1995)"
       },
       "languageWriting": {
-        "value": "isiZulu.",
+        "value": "isiZulu; written in Latin script by missionaries.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Zulu Kingdom (checked 6 Nov 2026)"
+        "source": "Wikipedia: Zulu Kingdom (checked 6 Nov 2026); Laband, Rope of Sand (1995)"
       },
       "artsArchitecture": {
-        "value": "Beadwork and beehive-shaped homes.",
+        "value": "Beadwork with coded colours and beehive-shaped homes.",
         "year": null,
         "certainty": "estimated",
         "source": "Laband, Rope of Sand (1995)"
       },
       "socialStructure": {
-        "value": "King, chiefs, regiments, commoners.",
+        "value": "King, chiefs, regiments and commoners.",
         "year": null,
         "certainty": "estimated",
         "source": "Laband, Rope of Sand (1995)"
       },
       "sharedIdentity": {
-        "value": "Loyalty to the king; Zulu identity.",
+        "value": "Loyalty to the king and a growing Zulu identity.",
         "year": null,
         "certainty": "estimated",
         "source": "Laband, Rope of Sand (1995)"
@@ -229,13 +229,13 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Ndwandwe, Swazi, Voortrekkers, British Natal.",
+        "value": "The Ndwandwe, Swazi, Voortrekkers and British Natal.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Zulu Kingdom (checked 6 Nov 2026)"
+        "source": "Wikipedia: Zulu Kingdom (checked 6 Nov 2026); Laband, Rope of Sand (1995)"
       },
       "ideasReligions": {
-        "value": "Missionaries arrived from the 1830s.",
+        "value": "Christian missionaries arrived from the 1830s.",
         "year": null,
         "certainty": "estimated",
         "source": "Laband, Rope of Sand (1995)"
@@ -249,19 +249,19 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Shaka’s military reforms and the defeat of the Ndwandwe (1818–1820).",
+        "value": "Shaka’s military reforms and defeat of the Ndwandwe (1818–1820).",
         "year": 1816,
         "certainty": "confirmed",
         "source": "Wikipedia: Zulu Kingdom (checked 6 Nov 2026); Laband, Rope of Sand (1995)"
       },
       "peakPeriod": {
-        "value": "Under Shaka (1816–1828), at its largest.",
+        "value": "Under Shaka (1816–1828).",
         "year": 1828,
         "certainty": "estimated",
         "source": "Laband, Rope of Sand (1995)"
       },
       "declineSignals": {
-        "value": "Defeat at Ulundi (1879) and Britain’s division of the kingdom.",
+        "value": "Defeat at Ulundi (1879) and the British division of the kingdom.",
         "year": 1879,
         "certainty": "confirmed",
         "source": "Wikipedia: Zulu Kingdom (checked 6 Nov 2026); Laband, Rope of Sand (1995)"

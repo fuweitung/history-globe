@@ -55,25 +55,25 @@
         "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
       },
       "terrain": {
-        "value": "Forests and steppe, linked by rivers (Dnieper, Volkhov, Volga).",
+        "value": "Forest in the north and steppe in the south, linked by great rivers (Dnieper, Volkhov, Western Dvina, Volga).",
         "year": null,
         "certainty": "estimated",
         "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
       },
       "climate": {
-        "value": "Continental, with cold winters.",
+        "value": "Continental, with long cold winters that limited the growing season.",
         "year": null,
         "certainty": "estimated",
         "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
       },
       "resources": {
-        "value": "Furs, wax, honey, timber and slaves for trade.",
+        "value": "Furs, wax, honey and timber from the forests; grain in the south.",
         "year": null,
         "certainty": "estimated",
         "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
       },
       "disasters": {
-        "value": "Famines.",
+        "value": "Famines after poor harvests, recorded in the chronicles.",
         "year": null,
         "certainty": "estimated",
         "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
@@ -87,7 +87,7 @@
         "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
       },
       "urbanisation": {
-        "value": "Kiev and Novgorod were major towns.",
+        "value": "Kiev and Novgorod were large trading towns; the Norse called the land “Garðaríki”, the land of towns.",
         "year": null,
         "certainty": "estimated",
         "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
@@ -107,7 +107,7 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Trade along rivers plus agriculture.",
+        "value": "River trade in furs, wax, honey and slaves, plus farming.",
         "year": null,
         "certainty": "estimated",
         "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
@@ -125,13 +125,13 @@
         "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
       },
       "moneyAndTax": {
-        "value": "The grivna (silver bars).",
+        "value": "Silver grivna bars and Arabic dirhams; princes collected tribute (poliudie) in winter rounds.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
+        "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026); Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
       },
       "inequality": {
-        "value": "Princes, boyars, freemen, slaves.",
+        "value": "Princes and boyars (nobles) at the top, then free townspeople and peasants, with slaves at the bottom.",
         "year": null,
         "certainty": "estimated",
         "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
@@ -139,10 +139,10 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Monarchy (Grand Prince).",
+        "value": "A federation of principalities under the Grand Prince of Kiev, from the Rurik dynasty.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
+        "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026); Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
       },
       "keyRulers": {
         "value": "Oleg, Sviatoslav I, Vladimir the Great (980–1015), Yaroslav the Wise (1019–1054).",
@@ -151,7 +151,7 @@
         "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
       },
       "succession": {
-        "value": "Rotation among brothers led to conflicts.",
+        "value": "A rota system where brothers inherited in turn, which often led to wars between princes.",
         "year": null,
         "certainty": "estimated",
         "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
@@ -163,13 +163,13 @@
         "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
       },
       "stability": {
-        "value": "Frequent wars between princes.",
+        "value": "Strong under Vladimir and Yaroslav, then repeated wars between princes from the late 11th century.",
         "year": null,
         "certainty": "estimated",
         "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
       },
       "eliteConflict": {
-        "value": "Rival princes.",
+        "value": "Princely rivals fought over Kiev; the city was sacked by other Rus’ princes in 1169.",
         "year": null,
         "certainty": "estimated",
         "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
@@ -177,7 +177,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Princely retinues (druzhina).",
+        "value": "Princely retinues (druzhina), Varangian mercenaries and town militias.",
         "year": null,
         "certainty": "estimated",
         "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
@@ -195,7 +195,7 @@
         "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
       },
       "alliancesRivals": {
-        "value": "Byzantium, Khazars, Pechenegs, Cumans.",
+        "value": "Byzantium (trade, marriage and war); nomadic Pechenegs and Cumans; Poland and Hungary.",
         "year": null,
         "certainty": "estimated",
         "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
@@ -209,13 +209,13 @@
         "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
       },
       "scienceEducation": {
-        "value": "Monasteries; the Primary Chronicle.",
+        "value": "Monasteries such as the Kiev Caves Monastery produced the Primary Chronicle.",
         "year": null,
         "certainty": "estimated",
         "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
       },
       "openness": {
-        "value": "Adopted Byzantine Christianity and culture.",
+        "value": "Adopted Byzantine Christianity, art and law; traded with Scandinavia and the Islamic world.",
         "year": null,
         "certainty": "estimated",
         "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
@@ -241,7 +241,7 @@
         "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
       },
       "socialStructure": {
-        "value": "Princes, boyars, freemen, slaves.",
+        "value": "Princes, boyars, clergy, merchants, free peasants (smerdy) and slaves (kholopy).",
         "year": null,
         "certainty": "estimated",
         "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
@@ -255,13 +255,13 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Byzantium, Khazars, Poland, Mongols.",
+        "value": "Byzantium, the Khazars, Volga Bulgaria, Poland, Hungary and the steppe nomads.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
+        "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026); Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
       },
       "ideasReligions": {
-        "value": "Received Christianity from Byzantium.",
+        "value": "Orthodox Christianity and Cyrillic literacy spread from Byzantium.",
         "year": null,
         "certainty": "estimated",
         "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
@@ -281,22 +281,22 @@
         "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026); Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
       },
       "peakPeriod": {
-        "value": "Under Vladimir and Yaroslav.",
+        "value": "Under Vladimir the Great and Yaroslav the Wise (980–1054).",
         "year": 1019,
         "certainty": "estimated",
         "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
       },
       "declineSignals": {
-        "value": "Fragmentation after Yaroslav’s death.",
+        "value": "Fragmentation into rival principalities after Yaroslav’s death and attacks by the Cumans.",
         "year": 1054,
         "certainty": "estimated",
         "source": "Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
       },
       "outcome": {
-        "value": "Fell to the Mongols in 1240.",
+        "value": "Fell to the Mongols in 1240; Ukraine, Belarus and Russia all trace their history to Kievan Rus’.",
         "year": 1240,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026)"
+        "source": "Wikipedia: Kievan Rus' (checked 6 Nov 2026); Franklin & Shepard, The Emergence of Rus 750–1200 (1996)"
       }
     },
     "dataQuality": {

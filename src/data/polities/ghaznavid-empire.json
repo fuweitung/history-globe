@@ -112,10 +112,10 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Hereditary monarchy (sultan).",
+        "value": "Hereditary monarchy under a sultan, with a Persian bureaucracy.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ghaznavid Empire (checked 6 Nov 2026)"
+        "source": "Wikipedia: Ghaznavid Empire (checked 6 Nov 2026); Bosworth, The Ghaznavids (1963)"
       },
       "keyRulers": {
         "value": "Sabuktigin (977–997), Mahmud of Ghazni (998–1030), Mas‘ud I, Khusrau Malik (last).",
@@ -142,7 +142,7 @@
         "source": "Wikipedia: Ghaznavid Empire (checked 6 Nov 2026)"
       },
       "eliteConflict": {
-        "value": "Succession struggles.",
+        "value": "Succession struggles among Mahmud’s sons and grandsons.",
         "year": null,
         "certainty": "estimated",
         "source": "Bosworth, The Ghaznavids (1963)"
@@ -248,10 +248,10 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Sabuktigin took power in Ghazni.",
+        "value": "Sabuktigin took power in Ghazni in 977.",
         "year": 977,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ghaznavid Empire (checked 6 Nov 2026)"
+        "source": "Wikipedia: Ghaznavid Empire (checked 6 Nov 2026); Bosworth, The Ghaznavids (1963)"
       },
       "peakPeriod": {
         "value": "Under Mahmud (998–1030).",
@@ -260,10 +260,10 @@
         "source": "Wikipedia: Ghaznavid Empire (checked 6 Nov 2026)"
       },
       "declineSignals": {
-        "value": "Defeat by the Seljuks at Dandanaqan.",
+        "value": "Defeat by the Seljuks at Dandanaqan (1040) and loss of the Iranian lands.",
         "year": 1040,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ghaznavid Empire (checked 6 Nov 2026)"
+        "source": "Wikipedia: Ghaznavid Empire (checked 6 Nov 2026); Bosworth, The Ghaznavids (1963)"
       },
       "outcome": {
         "value": "The Ghurids took Lahore in 1186.",
