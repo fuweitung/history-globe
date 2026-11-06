@@ -1,0 +1,322 @@
+{
+  "id": "nigeria",
+  "name": "Nigeria",
+  "era": "modern",
+  "region": "West Africa",
+  "startYear": 1960,
+  "endYear": null,
+  "capital": "Abuja (Lagos until 1991)",
+  "capitalCoords": [
+    7.49,
+    9.06
+  ],
+  "summary": "Africa’s most populous country, formed as a British colony in 1914 and independent in 1960, with hundreds of ethnic groups.",
+  "wikiTitle": "Nigeria",
+  "borderNames": [
+    "Nigeria"
+  ],
+  "borderYears": [
+    1960,
+    null
+  ],
+  "color": "#3a8a3a",
+  "knownFor": [
+    {
+      "label": "Nollywood",
+      "kind": "art",
+      "note": "One of the world’s largest film industries."
+    },
+    {
+      "label": "Afrobeat",
+      "kind": "art",
+      "year": 1970,
+      "note": "Music created by Fela Kuti."
+    },
+    {
+      "label": "Chinua Achebe",
+      "kind": "person",
+      "year": 1958,
+      "note": "Author of Things Fall Apart."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "West Africa on the Gulf of Guinea; about 924,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      },
+      "terrain": {
+        "value": "Coastal mangroves, forest, savanna; the Niger and Benue rivers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      },
+      "resources": {
+        "value": "Oil and gas, farmland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      },
+      "disasters": {
+        "value": "Floods and droughts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 45 million in 1960; over 220 million today.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      },
+      "urbanisation": {
+        "value": "Lagos is one of the largest cities in Africa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      },
+      "disease": {
+        "value": "Malaria; Ebola contained in 2014.",
+        "year": 2014,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      },
+      "migration": {
+        "value": "Rapid growth of cities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Oil exports, farming, services.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      },
+      "tradeRoutes": {
+        "value": "Oil exports.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      },
+      "wealth": {
+        "value": "A lower-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      },
+      "moneyAndTax": {
+        "value": "The naira.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      },
+      "inequality": {
+        "value": "High inequality.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A federal presidential republic; military rule (1966–79, 1983–99).",
+        "year": 1999,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      },
+      "keyRulers": {
+        "value": "Nnamdi Azikiwe. Obafemi Awolowo. Olusegun Obasanjo.",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      },
+      "succession": {
+        "value": "Elections since 1999.",
+        "year": 1999,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      },
+      "institutions": {
+        "value": "Federal states; National Assembly.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      },
+      "stability": {
+        "value": "Biafran War (1967–70); Boko Haram insurgency.",
+        "year": 1967,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      },
+      "eliteConflict": {
+        "value": "Regional and ethnic rivalries.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "A large army.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      },
+      "majorWars": {
+        "value": "Nigerian Civil War (1967–70).",
+        "year": 1967,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      },
+      "territoryChange": {
+        "value": "Lost Bakassi to Cameroon (2008).",
+        "year": 2008,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      },
+      "alliancesRivals": {
+        "value": "Leader in ECOWAS.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Fintech and mobile money growth.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nigeria"
+      },
+      "scienceEducation": {
+        "value": "Wole Soyinka won the Nobel Prize in Literature (1986).",
+        "year": 1986,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      },
+      "openness": {
+        "value": "Open.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nigeria"
+      },
+      "communicationTransport": {
+        "value": "Roads; the Lagos–Ibadan railway (2021).",
+        "year": 2021,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "About half Muslim (mostly north), half Christian (mostly south).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      },
+      "languageWriting": {
+        "value": "English official; Hausa, Yoruba, Igbo and hundreds more.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      },
+      "artsArchitecture": {
+        "value": "Nollywood, Afrobeat, Benin and Ife bronzes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      },
+      "socialStructure": {
+        "value": "Large gaps between rich and poor.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nigeria"
+      },
+      "sharedIdentity": {
+        "value": "Strong ethnic and regional identities.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nigeria"
+      },
+      "dailyLife": {
+        "value": "City flats and village compounds; jollof rice, yams.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Benin, Niger, Chad, Cameroon.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      },
+      "ideasReligions": {
+        "value": "Pan-Africanism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      },
+      "colonisation": {
+        "value": "A British colony (1914–60).",
+        "year": 1914,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence on 1 October 1960.",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      },
+      "peakPeriod": {
+        "value": "Oil boom of the 1970s.",
+        "year": 1975,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nigeria"
+      },
+      "declineSignals": {
+        "value": "Corruption and conflict.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nigeria"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Nigeria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nigeria"
+      }
+    }
+  }
+}

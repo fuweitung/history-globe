@@ -1,0 +1,321 @@
+{
+  "id": "libya",
+  "name": "Libya",
+  "era": "modern",
+  "region": "North Africa",
+  "startYear": 1951,
+  "endYear": null,
+  "capital": "Tripoli",
+  "capitalCoords": [
+    13.19,
+    32.89
+  ],
+  "summary": "A North African country, an Italian colony until the Second World War, independent as a kingdom in 1951, ruled by Muammar Gaddafi from 1969 to 2011, and divided by civil war since.",
+  "wikiTitle": "Libya",
+  "borderNames": [
+    "Libya"
+  ],
+  "borderYears": [
+    1951,
+    null
+  ],
+  "color": "#4a8a4a",
+  "knownFor": [
+    {
+      "label": "Leptis Magna",
+      "kind": "monument",
+      "note": "Ruins of a great Roman city on the coast."
+    },
+    {
+      "label": "Great Man-Made River",
+      "kind": "tool",
+      "year": 1991,
+      "note": "Pipelines carrying underground water from the Sahara to the coast."
+    },
+    {
+      "label": "Omar Mukhtar",
+      "kind": "person",
+      "note": "Leader of resistance to Italian rule, executed in 1931; a national hero."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "North Africa between Egypt and Tunisia; about 1.76 million km², mostly Sahara.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      },
+      "terrain": {
+        "value": "A narrow coastal strip and a vast desert.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      },
+      "climate": {
+        "value": "Mediterranean on the coast, extremely dry inland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      },
+      "resources": {
+        "value": "Africa’s largest proven oil reserves; underground fossil water.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      },
+      "disasters": {
+        "value": "The Derna dam collapse after Storm Daniel (2023) killed thousands.",
+        "year": 2023,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 1 million in 1951; about 7 million today.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      },
+      "urbanisation": {
+        "value": "Most people live in Tripoli and Benghazi.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      },
+      "disease": {
+        "value": "Health services damaged by war.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Libya"
+      },
+      "migration": {
+        "value": "Migrant workers from Africa and Asia; a route for migrants to Europe.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Oil exports (discovered 1959).",
+        "year": 1959,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      },
+      "tradeRoutes": {
+        "value": "Oil sold to Europe.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      },
+      "wealth": {
+        "value": "Rich from oil, but damaged by conflict.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      },
+      "moneyAndTax": {
+        "value": "The Libyan dinar.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      },
+      "inequality": {
+        "value": "Oil wealth controlled by those in power.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Libya"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A kingdom (1951–69), Gaddafi’s Jamahiriya (1969–2011), then rival governments.",
+        "year": 1969,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      },
+      "keyRulers": {
+        "value": "King Idris I. Muammar Gaddafi.",
+        "year": 1969,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      },
+      "succession": {
+        "value": "Coups and civil war.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      },
+      "institutions": {
+        "value": "Weak institutions since 2011.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Libya"
+      },
+      "stability": {
+        "value": "Civil wars since 2011.",
+        "year": 2011,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      },
+      "eliteConflict": {
+        "value": "Rival governments in Tripoli and the east.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Rival militias and armed forces.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Libya"
+      },
+      "majorWars": {
+        "value": "The 2011 civil war and NATO intervention; second civil war (2014–20).",
+        "year": 2011,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      },
+      "territoryChange": {
+        "value": "No border changes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      },
+      "alliancesRivals": {
+        "value": "Shifting foreign backers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Libya"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "The Great Man-Made River water project.",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      },
+      "scienceEducation": {
+        "value": "Free education and rising literacy under Gaddafi.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Libya"
+      },
+      "openness": {
+        "value": "Closed under Gaddafi.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Libya"
+      },
+      "communicationTransport": {
+        "value": "Coastal highways; few railways.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sunni Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      },
+      "languageWriting": {
+        "value": "Arabic; Amazigh (Berber) languages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      },
+      "artsArchitecture": {
+        "value": "Roman and Greek ruins; Gaddafi’s Green Book (1975).",
+        "year": 1975,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      },
+      "socialStructure": {
+        "value": "Tribal and regional loyalties.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Libya"
+      },
+      "sharedIdentity": {
+        "value": "Regional identities (Tripolitania, Cyrenaica, Fezzan).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Libya"
+      },
+      "dailyLife": {
+        "value": "City apartments; couscous, bazin, tea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Egypt, Sudan, Chad, Niger, Algeria, Tunisia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      },
+      "ideasReligions": {
+        "value": "Gaddafi’s “Third Universal Theory”.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      },
+      "colonisation": {
+        "value": "An Italian colony (1911–43), then British and French administration.",
+        "year": 1911,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence in 1951.",
+        "year": 1951,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      },
+      "peakPeriod": {
+        "value": "Oil boom of the 1970s.",
+        "year": 1975,
+        "certainty": "estimated",
+        "source": "Wikipedia: Libya"
+      },
+      "declineSignals": {
+        "value": "War since 2011.",
+        "year": 2011,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      },
+      "outcome": {
+        "value": "Still in existence, politically divided.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Libya.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Libya"
+      },
+      "overallCertainty": {
+        "value": "Recent events and figures are disputed.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Libya"
+      }
+    }
+  }
+}

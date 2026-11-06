@@ -1,0 +1,322 @@
+{
+  "id": "tanzania",
+  "name": "Tanzania",
+  "era": "modern",
+  "region": "East Africa",
+  "startYear": 1961,
+  "endYear": null,
+  "capital": "Dodoma (Dar es Salaam is the largest city)",
+  "capitalCoords": [
+    35.74,
+    -6.17
+  ],
+  "summary": "A union (1964) of Tanganyika, independent from Britain in 1961, and Zanzibar. Under Julius Nyerere it followed African socialism (Ujamaa).",
+  "wikiTitle": "Tanzania",
+  "borderNames": [
+    "Tanzania, United Republic of",
+    "Tanganyika"
+  ],
+  "borderYears": [
+    1961,
+    null
+  ],
+  "color": "#3a7ab0",
+  "knownFor": [
+    {
+      "label": "Mount Kilimanjaro",
+      "kind": "monument",
+      "note": "Africa’s highest mountain."
+    },
+    {
+      "label": "Swahili language",
+      "kind": "idea",
+      "note": "Promoted as a national language."
+    },
+    {
+      "label": "Julius Nyerere",
+      "kind": "person",
+      "year": 1961,
+      "note": "Founding president, called Mwalimu (teacher)."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "East Africa, on the Indian Ocean; about 945,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      },
+      "terrain": {
+        "value": "Plateau, Rift Valley lakes, Kilimanjaro, coast and Zanzibar.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      },
+      "resources": {
+        "value": "Farmland, gold, gas, tourism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      },
+      "disasters": {
+        "value": "Droughts and floods.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Tanzania"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 68 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      },
+      "urbanisation": {
+        "value": "Dar es Salaam is the largest city.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      },
+      "disease": {
+        "value": "Malaria and HIV.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      },
+      "migration": {
+        "value": "Rural to urban migration.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Tanzania"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, mining, tourism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      },
+      "tradeRoutes": {
+        "value": "Port of Dar es Salaam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      },
+      "wealth": {
+        "value": "A lower-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      },
+      "moneyAndTax": {
+        "value": "The Tanzanian shilling.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      },
+      "inequality": {
+        "value": "Moderate inequality.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Tanzania"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A presidential republic; one party until 1992.",
+        "year": 1992,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      },
+      "keyRulers": {
+        "value": "Julius Nyerere. Benjamin Mkapa. John Magufuli. Samia Suluhu Hassan (first woman president, 2021).",
+        "year": 1961,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      },
+      "succession": {
+        "value": "Elections; dominant CCM party.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      },
+      "institutions": {
+        "value": "Union government and Zanzibar government.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      },
+      "stability": {
+        "value": "Generally stable; Zanzibar revolution (1964).",
+        "year": 1964,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      },
+      "eliteConflict": {
+        "value": "Party politics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Tanzania"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "A modest army.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      },
+      "majorWars": {
+        "value": "Uganda–Tanzania War (1978–79) ended Idi Amin’s rule.",
+        "year": 1979,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      },
+      "territoryChange": {
+        "value": "Union with Zanzibar (1964).",
+        "year": 1964,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      },
+      "alliancesRivals": {
+        "value": "Supported liberation movements in southern Africa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Tanzania"
+      },
+      "scienceEducation": {
+        "value": "Literacy campaigns under Nyerere.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      },
+      "openness": {
+        "value": "Open.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Tanzania"
+      },
+      "communicationTransport": {
+        "value": "TAZARA railway to Zambia (1975).",
+        "year": 1975,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Christian and Muslim roughly equal; traditional beliefs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      },
+      "languageWriting": {
+        "value": "Swahili and English.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      },
+      "artsArchitecture": {
+        "value": "Tingatinga painting, taarab music.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      },
+      "socialStructure": {
+        "value": "Relatively equal.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Tanzania"
+      },
+      "sharedIdentity": {
+        "value": "Strong national identity across 120+ ethnic groups.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      },
+      "dailyLife": {
+        "value": "Village houses and city homes; ugali, rice, fish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Kenya, Uganda, Rwanda, DR Congo, Zambia, Mozambique.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      },
+      "ideasReligions": {
+        "value": "Ujamaa (African socialism).",
+        "year": 1967,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      },
+      "colonisation": {
+        "value": "A German, then British, territory.",
+        "year": 1919,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1961) and union (1964).",
+        "year": 1961,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      },
+      "peakPeriod": {
+        "value": "Steady growth after 2000.",
+        "year": 2005,
+        "certainty": "estimated",
+        "source": "Wikipedia: Tanzania"
+      },
+      "declineSignals": {
+        "value": "Ujamaa economic problems.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Tanzania"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Tanzania.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tanzania"
+      }
+    }
+  }
+}

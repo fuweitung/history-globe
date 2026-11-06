@@ -1,0 +1,323 @@
+{
+  "id": "cumans",
+  "name": "Cumans and Kipchaks",
+  "era": "medieval",
+  "region": "Eastern Europe & Central Asia",
+  "startYear": 1050,
+  "endYear": 1241,
+  "datesApproximate": true,
+  "capital": "None (tribal confederation)",
+  "capitalCoords": [
+    45,
+    48
+  ],
+  "summary": "Turkic nomads who dominated the steppe from the Danube to Kazakhstan before the Mongol conquest, fighting and allying with Kyivan Rus’, Byzantium, Georgia and Hungary.",
+  "wikiTitle": "Cuman–Kipchak confederation",
+  "borderNames": [
+    "Cuman-Kipchak confederation",
+    "Cuman Khanates",
+    "Kimek-Kipchak khaganate"
+  ],
+  "borderYears": [
+    1000,
+    1241
+  ],
+  "color": "#9a8a5a",
+  "knownFor": [
+    {
+      "label": "Stone baba statues",
+      "kind": "art",
+      "note": "Stone figures placed on steppe burial mounds."
+    },
+    {
+      "label": "Codex Cumanicus",
+      "kind": "idea",
+      "note": "A dictionary of the Cuman language, written around 1300."
+    },
+    {
+      "label": "Horse archers",
+      "kind": "troops",
+      "note": "Fast steppe cavalry."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The steppe from the Danube to Kazakhstan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "terrain": {
+        "value": "Grassland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "climate": {
+        "value": "Continental.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "resources": {
+        "value": "Pasture, horses.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "disasters": {
+        "value": "Unknown; few records survive.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown; few records survive.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "urbanisation": {
+        "value": "Mobile camps.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "disease": {
+        "value": "Unknown; few records survive.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "migration": {
+        "value": "Moved west from Central Asia in the 11th century; after 1241 many fled to Hungary.",
+        "year": 1241,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Herding and raiding.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "tradeRoutes": {
+        "value": "Trade with Crimea and Rus’.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "wealth": {
+        "value": "Wealth in horses.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "moneyAndTax": {
+        "value": "No coinage.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "inequality": {
+        "value": "Khans and warriors.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A confederation of tribes, not one state.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "keyRulers": {
+        "value": "Khan Köten.",
+        "year": 1223,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "succession": {
+        "value": "By clan.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "institutions": {
+        "value": "Tribal custom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "stability": {
+        "value": "Loose and shifting.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "eliteConflict": {
+        "value": "Rival tribes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Horse archers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "majorWars": {
+        "value": "Wars with Rus’; Battle of the Kalka River with the Mongols (1223).",
+        "year": 1223,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "territoryChange": {
+        "value": "Conquered by the Mongols (1236–41).",
+        "year": 1241,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "alliancesRivals": {
+        "value": "Allied with Georgia (David IV) and Hungary.",
+        "year": 1118,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "scienceEducation": {
+        "value": "Little writing.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "openness": {
+        "value": "Open to trade and marriages with neighbours.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "communicationTransport": {
+        "value": "Horses and wagons.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Tengrism; some converted to Christianity or Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "languageWriting": {
+        "value": "Kipchak Turkic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "artsArchitecture": {
+        "value": "Stone statues.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "socialStructure": {
+        "value": "Khans, warriors, herders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "sharedIdentity": {
+        "value": "Kipchak identity.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "dailyLife": {
+        "value": "Felt tents; meat and milk.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Kyivan Rus’, Byzantium, Georgia, Hungary, Volga Bulgaria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "ideasReligions": {
+        "value": "Kipchak words spread across the steppe.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Moved west in the 11th century.",
+        "year": 1050,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "peakPeriod": {
+        "value": "12th century.",
+        "year": 1150,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "declineSignals": {
+        "value": "Mongol invasion.",
+        "year": 1236,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "outcome": {
+        "value": "Absorbed into the Golden Horde; Kipchak became its main language.",
+        "year": 1241,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Cuman–Kipchak confederation.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      },
+      "overallCertainty": {
+        "value": "Known from neighbours’ records.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cuman–Kipchak confederation"
+      }
+    }
+  }
+}

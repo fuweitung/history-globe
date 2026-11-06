@@ -1,0 +1,320 @@
+{
+  "id": "angola",
+  "name": "Angola",
+  "era": "modern",
+  "region": "Southern Africa",
+  "startYear": 1975,
+  "endYear": null,
+  "capital": "Luanda",
+  "capitalCoords": [
+    13.23,
+    -8.84
+  ],
+  "summary": "A country on the Atlantic coast of southern Africa, a Portuguese colony for centuries, independent in 1975 and then torn by civil war until 2002.",
+  "wikiTitle": "Angola",
+  "borderNames": [
+    "Angola"
+  ],
+  "borderYears": [
+    1975,
+    null
+  ],
+  "color": "#b05a3a",
+  "knownFor": [
+    {
+      "label": "Kizomba and semba",
+      "kind": "art",
+      "note": "Popular music and dance."
+    },
+    {
+      "label": "Oil and diamonds",
+      "kind": "tool",
+      "note": "Main sources of export income."
+    },
+    {
+      "label": "Queen Nzinga",
+      "kind": "person",
+      "note": "A 17th-century ruler who resisted the Portuguese, now a national heroine."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "South-west Africa; about 1.25 million km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      },
+      "terrain": {
+        "value": "Coastal plain, central plateau, Namib desert in the south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      },
+      "climate": {
+        "value": "Tropical; drier in the south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      },
+      "resources": {
+        "value": "Oil, diamonds, farmland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Angola"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 37 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      },
+      "urbanisation": {
+        "value": "Luanda is one of Africa’s largest cities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      },
+      "disease": {
+        "value": "Malaria; landmines injured many.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      },
+      "migration": {
+        "value": "Millions displaced in the war.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Oil (Africa’s second-largest producer at times) and diamonds.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      },
+      "tradeRoutes": {
+        "value": "Oil sold to China and others.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      },
+      "wealth": {
+        "value": "Oil wealth unevenly shared.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Angola"
+      },
+      "moneyAndTax": {
+        "value": "The kwanza.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      },
+      "inequality": {
+        "value": "Very high inequality.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A presidential republic; one party ruled until 1991.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      },
+      "keyRulers": {
+        "value": "Agostinho Neto. José Eduardo dos Santos (1979–2017).",
+        "year": 1979,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      },
+      "succession": {
+        "value": "Long rule by the MPLA party.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Angola"
+      },
+      "institutions": {
+        "value": "Strong presidency.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Angola"
+      },
+      "stability": {
+        "value": "Civil war 1975–2002.",
+        "year": 1975,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      },
+      "eliteConflict": {
+        "value": "MPLA versus UNITA.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Cold War outside involvement (Cuba, South Africa, US, USSR).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      },
+      "majorWars": {
+        "value": "Angolan Civil War (1975–2002).",
+        "year": 1975,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      },
+      "territoryChange": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      },
+      "alliancesRivals": {
+        "value": "Ties with China.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Angola"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Angola"
+      },
+      "scienceEducation": {
+        "value": "Education rebuilt after war.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Angola"
+      },
+      "openness": {
+        "value": "Varied.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Angola"
+      },
+      "communicationTransport": {
+        "value": "The Benguela Railway (rebuilt 2015).",
+        "year": 2015,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Christian.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      },
+      "languageWriting": {
+        "value": "Portuguese; Umbundu, Kimbundu, Kikongo.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      },
+      "artsArchitecture": {
+        "value": "Music and dance; sculpture.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      },
+      "socialStructure": {
+        "value": "Gaps between rich elite and poor.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Angola"
+      },
+      "sharedIdentity": {
+        "value": "Shared national identity after war.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Angola"
+      },
+      "dailyLife": {
+        "value": "City apartments and musseques (informal settlements); funge, fish, beans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "DR Congo, Zambia, Namibia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      },
+      "ideasReligions": {
+        "value": "Marxist ideas in the 1970s–80s.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      },
+      "colonisation": {
+        "value": "Portuguese colony from the 16th century until 1975.",
+        "year": 1975,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence on 11 November 1975.",
+        "year": 1975,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      },
+      "peakPeriod": {
+        "value": "Oil boom after 2002.",
+        "year": 2005,
+        "certainty": "estimated",
+        "source": "Wikipedia: Angola"
+      },
+      "declineSignals": {
+        "value": "Falling oil prices.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Angola"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Angola.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola"
+      }
+    }
+  }
+}

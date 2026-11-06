@@ -1,0 +1,323 @@
+{
+  "id": "norway-modern",
+  "name": "Norway (since 1905)",
+  "era": "modern",
+  "region": "Northern Europe",
+  "startYear": 1905,
+  "endYear": null,
+  "capital": "Oslo",
+  "capitalCoords": [
+    10.75,
+    59.91
+  ],
+  "summary": "Norway after it peacefully left its union with Sweden in 1905: occupied by Germany in the Second World War, and rich from North Sea oil since the 1970s.",
+  "wikiTitle": "Norway",
+  "borderNames": [
+    "Norway"
+  ],
+  "borderYears": [
+    1905,
+    null
+  ],
+  "color": "#b84a4a",
+  "knownFor": [
+    {
+      "label": "Roald Amundsen",
+      "kind": "person",
+      "year": 1911,
+      "note": "First to reach the South Pole."
+    },
+    {
+      "label": "The Scream",
+      "kind": "art",
+      "year": 1893,
+      "note": "Edvard Munch’s famous painting."
+    },
+    {
+      "label": "Oil Fund",
+      "kind": "idea",
+      "year": 1990,
+      "note": "One of the world’s largest sovereign wealth funds."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The western Scandinavian Peninsula, plus Svalbard.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      },
+      "terrain": {
+        "value": "Mountains, fjords and a long, rugged coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      },
+      "climate": {
+        "value": "Mild on the coast thanks to the Gulf Stream; cold inland and in the north.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      },
+      "resources": {
+        "value": "Oil and gas, fish, hydropower, timber.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      },
+      "disasters": {
+        "value": "Avalanches and landslides.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 2.3 million in 1905; about 5.5 million today.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      },
+      "urbanisation": {
+        "value": "Oslo, Bergen, Trondheim.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      },
+      "disease": {
+        "value": "Good public health.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Norway"
+      },
+      "migration": {
+        "value": "Many emigrated to America before 1930; immigration since the 1970s.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Shipping, fishing, then oil and gas from 1971.",
+        "year": 1971,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      },
+      "tradeRoutes": {
+        "value": "Exports of oil, gas and fish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      },
+      "wealth": {
+        "value": "One of the richest countries per person.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      },
+      "moneyAndTax": {
+        "value": "The krone; oil income saved in the Government Pension Fund Global.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      },
+      "inequality": {
+        "value": "Low inequality.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A constitutional monarchy (constitution of 1814).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      },
+      "keyRulers": {
+        "value": "Haakon VII. Olav V. Harald V. Gro Harlem Brundtland.",
+        "year": 1905,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      },
+      "succession": {
+        "value": "Elections to the Storting.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      },
+      "institutions": {
+        "value": "The Storting (parliament).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      },
+      "stability": {
+        "value": "German occupation (1940–45); the 2011 Utøya attack.",
+        "year": 1940,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      },
+      "eliteConflict": {
+        "value": "Coalition politics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Norway"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "A small army; NATO founding member (1949).",
+        "year": 1949,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      },
+      "majorWars": {
+        "value": "Invaded by Germany in 1940.",
+        "year": 1940,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      },
+      "territoryChange": {
+        "value": "None since 1905.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      },
+      "alliancesRivals": {
+        "value": "NATO; voted twice not to join the EU (1972, 1994).",
+        "year": 1994,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Leading in electric cars and offshore oil technology.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Norway"
+      },
+      "scienceEducation": {
+        "value": "High education levels.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      },
+      "openness": {
+        "value": "Open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      },
+      "communicationTransport": {
+        "value": "Ferries, tunnels and bridges along the fjords; the Bergen Railway (1909).",
+        "year": 1909,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Lutheran tradition; increasingly secular.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      },
+      "languageWriting": {
+        "value": "Norwegian (two written forms) and Sámi.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      },
+      "artsArchitecture": {
+        "value": "Munch, Ibsen, Grieg.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      },
+      "socialStructure": {
+        "value": "A large middle class.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Norway"
+      },
+      "sharedIdentity": {
+        "value": "Strong national identity and love of nature.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Norway"
+      },
+      "dailyLife": {
+        "value": "Wooden houses; fish, potatoes, brown cheese.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Sweden, Finland, Russia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      },
+      "ideasReligions": {
+        "value": "Peace work (Nobel Peace Prize awarded in Oslo).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence from Sweden (1905).",
+        "year": 1905,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      },
+      "peakPeriod": {
+        "value": "Oil wealth after 1971.",
+        "year": 1971,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      },
+      "declineSignals": {
+        "value": "None major.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Norway"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Norway.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Norway"
+      }
+    }
+  }
+}

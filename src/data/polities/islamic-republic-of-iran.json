@@ -1,0 +1,321 @@
+{
+  "id": "islamic-republic-of-iran",
+  "name": "Islamic Republic of Iran",
+  "era": "modern",
+  "region": "Iran (Middle East)",
+  "startYear": 1979,
+  "endYear": null,
+  "capital": "Tehran",
+  "capitalCoords": [
+    51.39,
+    35.69
+  ],
+  "summary": "The state created by the 1979 revolution that overthrew the Shah: a theocratic republic led by a Supreme Leader, with an elected president and parliament.",
+  "wikiTitle": "Iran",
+  "borderNames": [
+    "Iran"
+  ],
+  "borderYears": [
+    1980,
+    null
+  ],
+  "color": "#3f8f6a",
+  "knownFor": [
+    {
+      "label": "Persian carpets",
+      "kind": "textile",
+      "note": "Hand-knotted carpets, an ancient craft still exported worldwide."
+    },
+    {
+      "label": "Iranian cinema",
+      "kind": "art",
+      "note": "Directors such as Abbas Kiarostami and Asghar Farhadi won top international prizes."
+    },
+    {
+      "label": "Iran–Iraq War",
+      "kind": "troops",
+      "year": 1980,
+      "note": "An eight-year war that killed hundreds of thousands."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "South-west Asia, between the Caspian Sea and the Persian Gulf; about 1.65 million km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "terrain": {
+        "value": "A high central plateau ringed by the Zagros and Alborz mountains; deserts in the east.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "climate": {
+        "value": "Mostly arid; cold winters in the mountains, very hot summers on the Gulf coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "resources": {
+        "value": "Some of the world’s largest oil and gas reserves; farmland in the north-west.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "disasters": {
+        "value": "Earthquakes, such as Bam (2003), which killed about 26,000 people.",
+        "year": 2003,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 37 million in 1979; about 90 million today.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "urbanisation": {
+        "value": "About three-quarters of people live in cities; Tehran has about 9 million.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "disease": {
+        "value": "Heavy COVID-19 losses; air pollution in big cities.",
+        "year": 2020,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "migration": {
+        "value": "Hosted millions of Afghan refugees; many educated Iranians emigrated.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Oil and gas exports, petrochemicals, farming, carpets.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "tradeRoutes": {
+        "value": "Sanctions have limited trade with the West; trade with China, Iraq, the UAE and Turkey.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "wealth": {
+        "value": "An upper-middle-income country hit hard by sanctions and inflation.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "moneyAndTax": {
+        "value": "The rial, which has lost most of its value since 1979.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "inequality": {
+        "value": "Large gaps between rich and poor; high youth unemployment.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "An Islamic republic: a Supreme Leader above an elected president and parliament (Majlis).",
+        "year": 1979,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "keyRulers": {
+        "value": "Ayatollah Ruhollah Khomeini (Supreme Leader 1979–89). Ali Khamenei (since 1989). Presidents such as Mohammad Khatami and Hassan Rouhani.",
+        "year": 1979,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "succession": {
+        "value": "The Assembly of Experts chooses the Supreme Leader; presidents are elected, but candidates are vetted by the Guardian Council.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "institutions": {
+        "value": "The Guardian Council, the Revolutionary Guards (IRGC), and religious courts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "stability": {
+        "value": "Large protests in 2009, 2019 and 2022 (“Woman, Life, Freedom”), met with force.",
+        "year": 2022,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "eliteConflict": {
+        "value": "Rivalry between conservatives and reformists.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Regular army and the Islamic Revolutionary Guard Corps; missiles and drones.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "majorWars": {
+        "value": "Iran–Iraq War (1980–88); involvement in conflicts in Syria, Iraq, Lebanon and Yemen.",
+        "year": 1980,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "territoryChange": {
+        "value": "No major border changes since 1979.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "alliancesRivals": {
+        "value": "Rival of the US, Israel and Saudi Arabia; ties with Russia and China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Drone and missile programmes; a disputed nuclear programme.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "scienceEducation": {
+        "value": "High literacy; more than half of university students are women.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "openness": {
+        "value": "Restricted: internet filtering and limits on foreign media.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "communicationTransport": {
+        "value": "Tehran Metro (1999); highways and railways across the plateau.",
+        "year": 1999,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Shia Islam is the state religion; Sunni, Christian, Jewish, Zoroastrian and Baháʼí minorities (the Baháʼí face persecution).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "languageWriting": {
+        "value": "Persian (Farsi); Azeri, Kurdish, Arabic, Balochi and other languages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "artsArchitecture": {
+        "value": "Persian poetry (Hafez, Rumi), cinema, calligraphy and tilework.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "socialStructure": {
+        "value": "A large educated middle class; strict dress rules for women.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "sharedIdentity": {
+        "value": "A strong Persian identity linked to Shia Islam and ancient history.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "dailyLife": {
+        "value": "City apartments and village houses; rice with stews (khoresh), bread and tea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Iraq, Turkey, Armenia, Azerbaijan, Turkmenistan, Afghanistan and Pakistan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "ideasReligions": {
+        "value": "Spread its revolutionary ideas to Shia groups in the region.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "colonisation": {
+        "value": "Never colonised; the 1953 coup backed by the US and UK still shapes attitudes.",
+        "year": 1953,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "The 1979 revolution ended the monarchy.",
+        "year": 1979,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "peakPeriod": {
+        "value": "Influence in the region grew after 2003.",
+        "year": 2005,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "declineSignals": {
+        "value": "Sanctions, inflation and protests.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Iran; Wikipedia: Iranian revolution.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are documented; election fairness and protest death tolls are disputed.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Iran; Wikipedia: Iranian revolution"
+      }
+    }
+  }
+}

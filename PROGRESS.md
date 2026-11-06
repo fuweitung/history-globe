@@ -31,6 +31,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 - [x] Map blanks round 3: prehistory 57% → 92% (archaic Americas, early Mesoamerican farmers, Austronesians, Southeast Asian rice farmers, Bronze Age steppe, Neolithic and Bronze Age Europe, pre-Islamic Arabia, Central African forest peoples) (#12)
 - [x] Map blanks round 4: Afghanistan, Morocco, Madagascar, DR Congo, Hausa states, Venezuela, Bolivia, Chile, Denmark, Sweden, South Africa; modern era 73% → 80% (#14)
 - [x] Map blanks round 5: 16 medieval and early-modern entries and 11 name links; all years 82% → 84% (#16)
+- [x] Map blanks round 6: Iran (since 1979), Spain, Norway, Italy, Dutch colonial empire, Libya, Kazakhstan, Angola, Nigeria, Tanzania, Paraguay, Rouran, Northern Yuan, Cumans, early South India (#34)
 - [ ] Optional last gaps: one-map oddities (Great Khanate 1400, Canada 1815), Libya, Kazakhstan, Angola, Dutch East Indies, Xinjiang
 - [ ] Britannica check of the 20 major civilisations (REVIEW.md, Priority 1)
 
@@ -46,24 +47,24 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 
 | Area | Progress | Detail |
 |---|---|---|
-| Map coverage (all years) | `█████████████████░░░` 84% | Named land on the border maps that is linked to a civilisation |
+| Map coverage (all years) | `█████████████████░░░` 86% | Named land on the border maps that is linked to a civilisation |
 | · Prehistory | `██████████████████░░` 92% |  |
-| · Ancient | `██████████████████░░` 90% |  |
-| · Medieval | `█████████████████░░░` 83% |  |
+| · Ancient | `██████████████████░░` 91% |  |
+| · Medieval | `█████████████████░░░` 85% |  |
 | · Early modern | `████████████████░░░░` 79% |  |
-| · Modern | `████████████████░░░░` 80% |  |
-| Civilisations shown on the map | `███████████████████░` 95% | 226 of 238; the rest fly to their capital |
-| Checklist filled in | `████████████████████` 100% | 10234 of 10234 items (238 × 43) |
-| Answers with real detail | `█████████████████░░░` 83% | 1672 answers are still under 40 characters |
-| Fact-checked against a source | `███████░░░░░░░░░░░░░` 35% | 3559 items say “(checked …)”; the rest still need a second look |
-| Civilisations with events | `████████████████████` 100% | 238 of 238 |
-| Civilisations with famous people | `█████████████████░░░` 86% | 204 of 238; many prehistoric cultures have no known names |
-| Civilisations linked to others | `████████████████████` 100% | 238 of 238 (succeeded, conquered, traded with…) |
-| Civilisation pictures | `███████████████████░` 97% | 230 of 238 |
-| “Known for” pictures | `███████████░░░░░░░░░` 54% | 415 of 774 items |
+| · Modern | `█████████████████░░░` 84% |  |
+| Civilisations shown on the map | `███████████████████░` 95% | 241 of 253; the rest fly to their capital |
+| Checklist filled in | `████████████████████` 100% | 10879 of 10879 items (253 × 43) |
+| Answers with real detail | `████████████████░░░░` 81% | 1951 answers are still under 40 characters |
+| Fact-checked against a source | `███████░░░░░░░░░░░░░` 33% | 3559 items say “(checked …)”; the rest still need a second look |
+| Civilisations with events | `████████████████████` 100% | 253 of 253 |
+| Civilisations with famous people | `█████████████████░░░` 85% | 214 of 253; many prehistoric cultures have no known names |
+| Civilisations linked to others | `████████████████████` 100% | 253 of 253 (succeeded, conquered, traded with…) |
+| Civilisation pictures | `██████████████████░░` 91% | 230 of 253 |
+| “Known for” pictures | `██████████░░░░░░░░░░` 51% | 415 of 819 items |
 
-Certainty of all items: 5237 confirmed · 4616 estimated · 381 disputed.
-Also in the app: 564 events · 256 people · 18 routes · 11 stories.
+Certainty of all items: 5707 confirmed · 4785 estimated · 387 disputed.
+Also in the app: 579 events · 267 people · 18 routes · 11 stories.
 
 ## Map coverage by year
 
@@ -71,13 +72,13 @@ Also in the app: 564 events · 256 people · 18 routes · 11 stories.
 |---|---|
 | 10000 BCE | `██████████████████░░` 91% |
 | 8000 BCE | `███████████████████░` 97% |
-| 5000 BCE | `██████████████████░░` 88% |
-| 4000 BCE | `██████████████████░░` 92% |
-| 3000 BCE | `██████████████████░░` 91% |
+| 5000 BCE | `██████████████████░░` 89% |
+| 4000 BCE | `███████████████████░` 93% |
+| 3000 BCE | `██████████████████░░` 92% |
 | 2000 BCE | `███████████████████░` 96% |
-| 1500 BCE | `██████████████████░░` 89% |
-| 1000 BCE | `██████████████████░░` 89% |
-| 700 BCE | `██████████████████░░` 88% |
+| 1500 BCE | `██████████████████░░` 91% |
+| 1000 BCE | `██████████████████░░` 91% |
+| 700 BCE | `██████████████████░░` 89% |
 | 500 BCE | `██████████████████░░` 91% |
 | 400 BCE | `██████████████████░░` 90% |
 | 323 BCE | `██████████████████░░` 92% |
@@ -88,18 +89,18 @@ Also in the app: 564 events · 256 people · 18 routes · 11 stories.
 | 100 | `████████████████░░░░` 78% |
 | 200 | `███████████████████░` 93% |
 | 300 | `██████████████████░░` 91% |
-| 400 | `██████████████████░░` 90% |
-| 500 | `██████████████████░░` 90% |
+| 400 | `███████████████████░` 93% |
+| 500 | `███████████████████░` 93% |
 | 600 | `██████████████████░░` 92% |
 | 700 | `█████████████████░░░` 85% |
 | 800 | `█████████████████░░░` 86% |
 | 900 | `███████████████░░░░░` 75% |
-| 1000 | `█████████████████░░░` 85% |
-| 1100 | `████████████████░░░░` 78% |
-| 1200 | `████████████████░░░░` 80% |
+| 1000 | `██████████████████░░` 88% |
+| 1100 | `█████████████████░░░` 84% |
+| 1200 | `████████████████░░░░` 82% |
 | 1279 | `███████████████████░` 94% |
 | 1300 | `██████████████████░░` 91% |
-| 1400 | `████████████████░░░░` 80% |
+| 1400 | `██████████████████░░` 90% |
 | 1492 | `███████████░░░░░░░░░` 55% |
 | 1500 | `█████████████████░░░` 83% |
 | 1530 | `███████████████░░░░░` 75% |
@@ -108,20 +109,20 @@ Also in the app: 564 events · 256 people · 18 routes · 11 stories.
 | 1700 | `████████████████░░░░` 79% |
 | 1715 | `████████████████░░░░` 80% |
 | 1783 | `████████████████░░░░` 82% |
-| 1800 | `████████████████░░░░` 82% |
-| 1815 | `███████████████░░░░░` 77% |
-| 1878 | `█████████████████░░░` 85% |
-| 1880 | `█████████████████░░░` 85% |
-| 1900 | `██████████████████░░` 88% |
-| 1914 | `██████████████████░░` 90% |
-| 1920 | `████████████████░░░░` 82% |
-| 1930 | `████████████████░░░░` 79% |
-| 1938 | `█████████████████░░░` 86% |
-| 1945 | `████████████████░░░░` 79% |
-| 1960 | `██████████████░░░░░░` 71% |
-| 1994 | `██████████████░░░░░░` 72% |
-| 2000 | `██████████████░░░░░░` 72% |
-| 2010 | `██████████████░░░░░░` 72% |
+| 1800 | `█████████████████░░░` 84% |
+| 1815 | `████████████████░░░░` 79% |
+| 1878 | `█████████████████░░░` 87% |
+| 1880 | `█████████████████░░░` 87% |
+| 1900 | `██████████████████░░` 90% |
+| 1914 | `███████████████████░` 95% |
+| 1920 | `█████████████████░░░` 87% |
+| 1930 | `█████████████████░░░` 85% |
+| 1938 | `██████████████████░░` 91% |
+| 1945 | `████████████████░░░░` 81% |
+| 1960 | `███████████████░░░░░` 74% |
+| 1994 | `████████████████░░░░` 80% |
+| 2000 | `████████████████░░░░` 80% |
+| 2010 | `████████████████░░░░` 80% |
 
 ## Biggest map blanks still to fill
 
@@ -131,31 +132,31 @@ Areas on the border maps that no civilisation covers yet, largest first (area ad
 |---|---|---|
 | Antarctica | 1945 – 1960 (2 maps) | 24M |
 | 1 | 100 – 100 (1 maps) | 18M |
-| Great Khanate | 1400 – 1400 (1 maps) | 11M |
 | Tibetans | 1500 BCE – 700 BCE (3 maps) | 10M |
 | Canada | 1815 – 1815 (1 maps) | 10M |
-| Libya | 1914 – 2010 (6 maps) | 9M |
-| Kazakhstan | 1994 – 2010 (3 maps) | 8M |
-| Xinjiang | 1914 – 1945 (5 maps) | 8M |
-| Dravidians | 5000 BCE – 700 BCE (7 maps) | 8M |
-| Dutch East Indies | 1800 – 1938 (5 maps) | 8M |
-| Angola | 1815 – 2010 (8 maps) | 8M |
 | Sudan | 1920 – 1938 (3 maps) | 8M |
-| Netherlands Indies | 1878 – 1914 (4 maps) | 7M |
 | Arabia | 1878 – 1900 (3 maps) | 7M |
-| Cuman-Kipchak confederation | 1100 – 1100 (1 maps) | 6M |
-| Tanzania, United Republic of | 1920 – 2010 (6 maps) | 6M |
 | Proto-Altaic pastoralists | 500 BCE – 400 BCE (2 maps) | 6M |
 | Mali | 1000 – 2010 (9 maps) | 6M |
-| Nigeria | 1920 – 2010 (6 maps) | 5M |
-| Ruanruan | 400 – 500 (2 maps) | 5M |
 | Sinic | 1500 BCE – 700 BCE (3 maps) | 5M |
-| Spain | 1900 – 2010 (10 maps) | 5M |
 | Chad | 1960 – 2010 (4 maps) | 5M |
-| Iran | 1994 – 2010 (3 maps) | 5M |
-| Norway | 1100 – 2010 (13 maps) | 5M |
-| Paraguay | 1815 – 2010 (13 maps) | 5M |
 | Niger | 1960 – 2010 (4 maps) | 5M |
 | Mongols | 1100 – 1100 (1 maps) | 5M |
 | Mozambique | 1920 – 2010 (6 maps) | 5M |
 | Zambia | 1920 – 2010 (6 maps) | 5M |
+| Vedic Aryans | 1500 BCE – 700 BCE (3 maps) | 5M |
+| Pakistan | 1945 – 2010 (5 maps) | 4M |
+| Kara Khitai Khaganate | 1200 – 1200 (1 maps) | 4M |
+| Buwayhid Emirates | 1000 – 1200 (2 maps) | 4M |
+| Arabs | 1492 – 1500 (2 maps) | 4M |
+| Mauritania | 1960 – 2010 (4 maps) | 4M |
+| Namibia | 1945 – 2010 (5 maps) | 4M |
+| Oghuz Turks | 900 – 900 (1 maps) | 4M |
+| Angola | 1815 – 1960 (5 maps) | 4M |
+| Ecuador | 1878 – 2010 (12 maps) | 4M |
+| Suren Kingdom | 1 BCE – 400 (4 maps) | 4M |
+| Papua New Guinea | 1900 – 2010 (9 maps) | 4M |
+| Emirate of the White Sheep Turks | 1492 – 1500 (2 maps) | 4M |
+| Kenya | 1920 – 2010 (6 maps) | 4M |
+| Botswana | 1920 – 2010 (6 maps) | 4M |
+| Philippines | 1492 – 1945 (15 maps) | 3M |

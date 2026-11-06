@@ -1,0 +1,323 @@
+{
+  "id": "italy",
+  "name": "Italy (Kingdom and Republic)",
+  "era": "modern",
+  "region": "Southern Europe",
+  "startYear": 1861,
+  "endYear": null,
+  "capital": "Rome (Turin and Florence until 1871)",
+  "capitalCoords": [
+    12.5,
+    41.9
+  ],
+  "summary": "Italy unified as a kingdom in 1861, ruled by Mussolini’s Fascists (1922–43), and a republic since 1946. It had colonies in Libya, Eritrea, Somalia and, briefly, Ethiopia.",
+  "wikiTitle": "Italy",
+  "borderNames": [
+    "Italy"
+  ],
+  "borderYears": [
+    1861,
+    null
+  ],
+  "color": "#3a9a5a",
+  "knownFor": [
+    {
+      "label": "Giuseppe Garibaldi",
+      "kind": "person",
+      "year": 1860,
+      "note": "Led the “Thousand” that helped unify Italy."
+    },
+    {
+      "label": "Vespa scooter",
+      "kind": "tool",
+      "year": 1946,
+      "note": "A symbol of post-war Italian design."
+    },
+    {
+      "label": "Neorealist cinema",
+      "kind": "art",
+      "year": 1945,
+      "note": "Films such as Bicycle Thieves."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Italian peninsula, Sicily and Sardinia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "terrain": {
+        "value": "The Alps, the Po plain and the Apennine mountains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "climate": {
+        "value": "Mediterranean; colder in the Alps.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "resources": {
+        "value": "Farmland, marble, tourism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "disasters": {
+        "value": "Earthquakes (Messina 1908) and volcanoes (Vesuvius 1944).",
+        "year": 1908,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 22 million in 1861; about 59 million today.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "urbanisation": {
+        "value": "Rome, Milan, Naples, Turin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "disease": {
+        "value": "Malaria in the south until the 1950s; heavy early COVID-19 losses.",
+        "year": 2020,
+        "certainty": "estimated",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "migration": {
+        "value": "Mass emigration (about 15 million, 1876–1914).",
+        "year": 1900,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, then industry in the north (Fiat, Olivetti), fashion and tourism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "tradeRoutes": {
+        "value": "EU single market.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "wealth": {
+        "value": "A high-income economy; the south is poorer.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "moneyAndTax": {
+        "value": "The lira, then the euro (2002).",
+        "year": 2002,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "inequality": {
+        "value": "Large gap between north and south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A kingdom (1861–1946), Fascist dictatorship (1922–43), then a republic.",
+        "year": 1946,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "keyRulers": {
+        "value": "Victor Emmanuel II. Camillo Cavour. Benito Mussolini. Alcide De Gasperi.",
+        "year": 1861,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "succession": {
+        "value": "Elections; frequent changes of government.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "institutions": {
+        "value": "The 1948 constitution, parliament and courts.",
+        "year": 1948,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "stability": {
+        "value": "Fascism; the “Years of Lead” terrorism (1970s).",
+        "year": 1970,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "eliteConflict": {
+        "value": "Many shifting party coalitions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Army, navy and air force; NATO member.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "majorWars": {
+        "value": "Wars of unification, both World Wars, the invasion of Ethiopia (1935).",
+        "year": 1935,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "territoryChange": {
+        "value": "Colonised Libya, Eritrea and Somalia; lost them after 1945.",
+        "year": 1947,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "alliancesRivals": {
+        "value": "NATO and founding member of the European communities (1957).",
+        "year": 1957,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Marconi’s radio; the Vespa; Olivetti typewriters.",
+        "year": 1895,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "scienceEducation": {
+        "value": "Universities such as Bologna (1088).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "openness": {
+        "value": "Open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "communicationTransport": {
+        "value": "Railways, motorways (Autostrada del Sole, 1964) and high-speed trains.",
+        "year": 1964,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Catholic; Vatican City is an independent state (1929).",
+        "year": 1929,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "languageWriting": {
+        "value": "Italian; regional dialects.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "artsArchitecture": {
+        "value": "Opera (Verdi), cinema (Fellini), design and fashion.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "socialStructure": {
+        "value": "Strong family networks.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "sharedIdentity": {
+        "value": "Regional identities alongside an Italian one.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "dailyLife": {
+        "value": "Apartments in historic towns; pasta, pizza, olive oil, coffee.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "France, Switzerland, Austria, Slovenia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "ideasReligions": {
+        "value": "Fascism spread from Italy; later European integration.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "colonisation": {
+        "value": "Colonised Libya (1911), Eritrea, Somalia and Ethiopia (1936–41).",
+        "year": 1911,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Unification (Risorgimento) completed with Rome in 1871.",
+        "year": 1871,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "peakPeriod": {
+        "value": "Economic miracle of the 1950s–60s.",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "declineSignals": {
+        "value": "Slow growth and debt since the 1990s.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Italy; Wikipedia: Italian unification.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italy; Wikipedia: Italian unification"
+      }
+    }
+  }
+}
