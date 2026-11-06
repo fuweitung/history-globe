@@ -1,0 +1,324 @@
+{
+  "id": "west-african-farmers",
+  "name": "West African farming peoples",
+  "era": "ancient",
+  "region": "West Africa",
+  "startYear": -2500,
+  "endYear": null,
+  "datesApproximate": true,
+  "capital": "None (many societies)",
+  "capitalCoords": [
+    5,
+    9.5
+  ],
+  "summary": "The many farming peoples of the West African savannah and forest edge, who domesticated pearl millet, African rice and yams. The Nok culture made some of Africa’s oldest sculptures and smelted iron. On the map, this covers areas not shown as particular kingdoms.",
+  "wikiTitle": "Nok culture",
+  "borderNames": [
+    "West African cereal farmers"
+  ],
+  "borderYears": [
+    -2500,
+    1500
+  ],
+  "color": "#b8863b",
+  "knownFor": [
+    {
+      "label": "Nok terracottas",
+      "kind": "art",
+      "year": -500,
+      "note": "Clay heads and figures made in central Nigeria about 2,500 years ago."
+    },
+    {
+      "label": "African rice",
+      "kind": "food",
+      "year": -1500,
+      "note": "Rice domesticated separately in the inland Niger delta."
+    },
+    {
+      "label": "Pearl millet",
+      "kind": "food",
+      "year": -2500,
+      "note": "A drought-tough grain first grown in the West African Sahel."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The savannah and forest edge of West Africa, from Senegal to Lake Chad. (The source border maps stretch this zone across the whole Sahel belt to the Horn of Africa.)",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "terrain": {
+        "value": "Grassland, river valleys (Niger, Benue, Senegal) and the edge of the rainforest.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "climate": {
+        "value": "Tropical, with one rainy season in the north and two near the coast; the Sahara grew drier after about 3000 BCE.",
+        "year": -3000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "resources": {
+        "value": "Farmland for millet, sorghum, rice and yams; iron ore; shea and oil palms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "disasters": {
+        "value": "Droughts and locusts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown; populations grew as farming spread.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "urbanisation": {
+        "value": "Mostly villages; early towns such as Jenne-Jeno (from about 250 BCE).",
+        "year": -250,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "disease": {
+        "value": "Malaria and sleeping sickness.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "migration": {
+        "value": "Farmers moved south as the Sahara dried; Mande- and Niger-Congo-speaking peoples spread widely.",
+        "year": -2000,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming grains and yams, herding cattle in the north, iron working.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "tradeRoutes": {
+        "value": "Exchange along the Niger River; later the trans-Saharan trade.",
+        "year": 300,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "wealth": {
+        "value": "No estimate is possible.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "moneyAndTax": {
+        "value": "No money in early times; later cowrie shells and iron bars.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "inequality": {
+        "value": "Varied, from equal villages to societies with chiefs and craft castes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Villages led by elders and lineage heads; many later formed chiefdoms and kingdoms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "keyRulers": {
+        "value": "No early rulers are known by name.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "succession": {
+        "value": "Through family lineages; rules varied.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "institutions": {
+        "value": "Councils of elders, age groups and secret societies.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "stability": {
+        "value": "Varied by people and period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "eliteConflict": {
+        "value": "Disputes between lineages.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Bows, spears and iron weapons.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "majorWars": {
+        "value": "None recorded in early times.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "territoryChange": {
+        "value": "Farming spread steadily across the region.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "alliancesRivals": {
+        "value": "Traded with Saharan herders and later with the empires of Ghana and Mali.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Iron smelting (Nok, from about 900–500 BCE), domestication of pearl millet and African rice.",
+        "year": -500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "scienceEducation": {
+        "value": "Knowledge passed on orally; griots (praise singers) kept histories.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "openness": {
+        "value": "Open to new crops and ideas through trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "communicationTransport": {
+        "value": "Footpaths and canoes on the Niger and Benue rivers; donkeys in the north.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Traditional religions with ancestors and nature spirits; Islam spread later.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "languageWriting": {
+        "value": "Many Niger-Congo and Mande languages; no writing in early times.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "artsArchitecture": {
+        "value": "Nok terracotta sculptures; later masks and textiles.",
+        "year": -500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "socialStructure": {
+        "value": "Families, lineages and clans.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "sharedIdentity": {
+        "value": "Many separate peoples.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "dailyLife": {
+        "value": "Round mud houses with thatched roofs in walled family compounds; porridge from millet or sorghum, yams.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Saharan peoples, the forest peoples of the coast, later the Ghana, Mali and Songhai empires.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "ideasReligions": {
+        "value": "Islam spread from about the 11th century through traders.",
+        "year": 1050,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "colonisation": {
+        "value": "Colonised by France and Britain in the late 19th century.",
+        "year": 1890,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Domesticating local crops allowed farming in hot, seasonal climates.",
+        "year": -2500,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "peakPeriod": {
+        "value": "No single peak; kingdoms rose from these farming societies.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "declineSignals": {
+        "value": "Not a single society, so no single decline.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "outcome": {
+        "value": "Their descendants live across West Africa today.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Nok culture; Wikipedia: History of West Africa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      },
+      "overallCertainty": {
+        "value": "Mostly known from archaeology; dates are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+      }
+    }
+  }
+}

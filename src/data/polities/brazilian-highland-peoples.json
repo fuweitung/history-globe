@@ -1,0 +1,322 @@
+{
+  "id": "brazilian-highland-peoples",
+  "name": "Peoples of the Brazilian Highlands",
+  "era": "prehistory",
+  "region": "South America (Brazilian Highlands)",
+  "startYear": -9000,
+  "endYear": null,
+  "datesApproximate": true,
+  "capital": "None (many peoples)",
+  "capitalCoords": [
+    -48,
+    -15
+  ],
+  "summary": "The peoples of the savannas (cerrado) of central Brazil and the Chaco, many speaking Gê languages, such as the Kayapó and Xavante, known for circular villages and seasonal treks.",
+  "wikiTitle": "Gê peoples",
+  "borderNames": [
+    "Savanna hunter-gatherers"
+  ],
+  "borderYears": [
+    -9000,
+    1800
+  ],
+  "color": "#9a8a3c",
+  "knownFor": [
+    {
+      "label": "Circular villages",
+      "kind": "monument",
+      "note": "Houses arranged in a ring around a central plaza."
+    },
+    {
+      "label": "Log races",
+      "kind": "art",
+      "note": "Relay races carrying heavy logs, held by several Gê peoples."
+    },
+    {
+      "label": "Lapa do Santo rock art",
+      "kind": "art",
+      "year": -8000,
+      "note": "Some of the oldest rock art in the Americas, in Minas Gerais."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The central Brazilian plateau and savannas, and the Chaco plains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "terrain": {
+        "value": "Savanna (cerrado), plateaus and gallery forests along rivers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "climate": {
+        "value": "Tropical, with a long dry season.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "resources": {
+        "value": "Game, fish, fruits, farmland in river forests.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "disasters": {
+        "value": "Droughts and fires.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Gê peoples"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "urbanisation": {
+        "value": "Villages, some large and circular.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "disease": {
+        "value": "European diseases after contact.",
+        "year": 1700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "migration": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Gê peoples"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Hunting, gathering, fishing and small gardens.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "tradeRoutes": {
+        "value": "Exchange with neighbouring peoples.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "wealth": {
+        "value": "No estimate is possible.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "moneyAndTax": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "inequality": {
+        "value": "Mostly equal communities.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Gê peoples"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Villages with councils of men and age groups.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "keyRulers": {
+        "value": "No recorded rulers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "succession": {
+        "value": "Varied.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "institutions": {
+        "value": "Age groups and ceremonies organised life.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "stability": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Gê peoples"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Bows and clubs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "majorWars": {
+        "value": "Resisted Portuguese slave raiders (bandeirantes).",
+        "year": 1650,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "territoryChange": {
+        "value": "Lost land to cattle ranchers and settlers.",
+        "year": 1800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "alliancesRivals": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Gê peoples"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Fire management of the savanna.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "scienceEducation": {
+        "value": "Oral knowledge.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "openness": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "communicationTransport": {
+        "value": "Travel on foot; seasonal treks across the savanna.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Gê peoples"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Spiritual beliefs about nature and ancestors.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "languageWriting": {
+        "value": "Macro-Gê languages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "artsArchitecture": {
+        "value": "Body painting, featherwork, rock art.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "socialStructure": {
+        "value": "Moieties and age groups.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "sharedIdentity": {
+        "value": "Separate peoples.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "dailyLife": {
+        "value": "Houses of palm thatch around a circular plaza; game, fish, manioc and fruit.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Gê peoples"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Amazonian and Andean peoples; Portuguese settlers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "ideasReligions": {
+        "value": "Jesuit missions.",
+        "year": 1700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "colonisation": {
+        "value": "Colonised by Portugal and later Brazil.",
+        "year": 1700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Gê peoples"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Long adaptation to the savanna.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "peakPeriod": {
+        "value": "No single peak.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "declineSignals": {
+        "value": "Disease and land loss.",
+        "year": 1800,
+        "certainty": "estimated",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "outcome": {
+        "value": "Kayapó, Xavante and other peoples live in Brazil today.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Gê peoples"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Gê peoples.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Gê peoples"
+      },
+      "overallCertainty": {
+        "value": "Mostly known from archaeology and ethnography.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Gê peoples"
+      }
+    }
+  }
+}
