@@ -1,0 +1,324 @@
+{
+  "id": "subarctic-peoples",
+  "name": "First Nations of the Subarctic",
+  "era": "prehistory",
+  "region": "North America (Subarctic)",
+  "startYear": -6000,
+  "endYear": null,
+  "datesApproximate": true,
+  "capital": "None (many nations)",
+  "capitalCoords": [
+    -100,
+    56
+  ],
+  "summary": "The Cree, Dene (Athabaskan), Ojibwe, Innu and other nations of the northern forests of Canada and Alaska, who lived by hunting, fishing and trapping for thousands of years and were central to the fur trade.",
+  "wikiTitle": "Subarctic peoples",
+  "borderNames": [
+    "Subarctic forest hunter-gatherers",
+    "Athabaskan",
+    "Cree",
+    "T'atsaot'ine"
+  ],
+  "borderYears": [
+    -6000,
+    1820
+  ],
+  "color": "#5e8c6a",
+  "knownFor": [
+    {
+      "label": "Birchbark canoe",
+      "kind": "tool",
+      "note": "Light canoes that could be carried between lakes and rivers."
+    },
+    {
+      "label": "Snowshoes",
+      "kind": "tool",
+      "note": "Wide frames of wood and hide for walking on deep snow."
+    },
+    {
+      "label": "Toboggan",
+      "kind": "tool",
+      "note": "A flat sled for pulling loads over snow; the word comes from Mi’kmaq."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The northern forest (boreal) belt of Canada and interior Alaska, south of the Arctic tundra.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "terrain": {
+        "value": "Forests of spruce and pine, many lakes and rivers, the Canadian Shield.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "climate": {
+        "value": "Long, very cold winters and short summers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "resources": {
+        "value": "Moose, caribou, beaver, fish, berries, birch bark.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "disasters": {
+        "value": "Hard winters and food shortages when animals were scarce.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Subarctic peoples"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Small; perhaps tens of thousands of people.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "urbanisation": {
+        "value": "Seasonal camps; larger summer gatherings at lakes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "disease": {
+        "value": "Smallpox and other epidemics after European contact.",
+        "year": 1780,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "migration": {
+        "value": "Dene peoples moved south (the Navajo and Apache are related Athabaskan peoples).",
+        "year": 1400,
+        "certainty": "estimated",
+        "source": "Wikipedia: Subarctic peoples"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Hunting, fishing, trapping; later the fur trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "tradeRoutes": {
+        "value": "Exchange networks; from 1670 trade with the Hudson’s Bay Company.",
+        "year": 1670,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "wealth": {
+        "value": "Wealth meant skill and sharing.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "moneyAndTax": {
+        "value": "None; later furs were traded for goods.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "inequality": {
+        "value": "Mostly equal bands.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Subarctic peoples"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "No state; family bands led by respected hunters and elders.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "keyRulers": {
+        "value": "No recorded rulers in early times.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "succession": {
+        "value": "Leadership by ability and respect.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "institutions": {
+        "value": "Kinship and customary law.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "stability": {
+        "value": "Bands moved with the seasons.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "eliteConflict": {
+        "value": "Disputes settled within kin groups.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Subarctic peoples"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Bows, spears, traps.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "majorWars": {
+        "value": "Conflicts between nations; later the North-West Rebellion (1885) involved some Cree.",
+        "year": 1885,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "territoryChange": {
+        "value": "Signed the Numbered Treaties with Canada (1871–1921).",
+        "year": 1871,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "alliancesRivals": {
+        "value": "Allied as trade partners with the Hudson’s Bay Company.",
+        "year": 1700,
+        "certainty": "estimated",
+        "source": "Wikipedia: Subarctic peoples"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Birchbark canoes, snowshoes, toboggans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "scienceEducation": {
+        "value": "Knowledge of land and animals passed on orally; Cree syllabics invented in the 1840s.",
+        "year": 1840,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "openness": {
+        "value": "Adopted guns, metal tools and trade goods.",
+        "year": 1700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "communicationTransport": {
+        "value": "Canoes in summer, snowshoes and toboggans in winter.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Subarctic peoples"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Spiritual beliefs about animal spirits; later Christianity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "languageWriting": {
+        "value": "Algonquian (Cree, Ojibwe, Innu) and Athabaskan (Dene) languages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "artsArchitecture": {
+        "value": "Beadwork, quillwork and birchbark baskets.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "socialStructure": {
+        "value": "Families and bands.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "sharedIdentity": {
+        "value": "Separate nations with their own identities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "dailyLife": {
+        "value": "Cone-shaped lodges of poles covered with birch bark or hides; moose meat, fish and pemmican.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Subarctic peoples"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Inuit to the north, Plains peoples to the south, later fur traders.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "ideasReligions": {
+        "value": "Christian missions in the 19th century.",
+        "year": 1840,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "colonisation": {
+        "value": "Lands came under Canada; residential schools caused lasting harm.",
+        "year": 1880,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Subarctic peoples"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Skilled adaptation to the northern forest.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "peakPeriod": {
+        "value": "No single peak.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "declineSignals": {
+        "value": "Epidemics and loss of land.",
+        "year": 1800,
+        "certainty": "estimated",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "outcome": {
+        "value": "Cree, Dene and other nations live in Canada and Alaska today.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Subarctic peoples"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Subarctic peoples.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Subarctic peoples"
+      },
+      "overallCertainty": {
+        "value": "Known from archaeology, oral history and fur-trade records.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Subarctic peoples"
+      }
+    }
+  }
+}

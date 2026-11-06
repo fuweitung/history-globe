@@ -1208,5 +1208,40 @@
     "relation": "traded_with",
     "year": 1650,
     "note": "Neighbours and frequent enemies in the Baltic."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "peru",
+    "relation": "colonised",
+    "year": 1821,
+    "note": "Peru was the centre of the Spanish Viceroyalty of Peru until independence."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "colombia",
+    "relation": "colonised",
+    "year": 1819,
+    "note": "Colombia was the Spanish colony of New Granada until independence."
+  },
+  {
+    "fromPolityId": "qing-china",
+    "toPolityId": "mongolia",
+    "relation": "succeeded",
+    "year": 1911,
+    "note": "Outer Mongolia declared independence when the Qing dynasty fell."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "sudan",
+    "relation": "colonised",
+    "year": 1956,
+    "note": "Sudan was ruled jointly by Britain and Egypt (1899–1956)."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "algeria",
+    "relation": "colonised",
+    "year": 1962,
+    "note": "Algeria was ruled by France from 1830 to 1962."
   }
 ]

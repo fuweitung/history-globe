@@ -1,0 +1,322 @@
+{
+  "id": "finno-ugric-peoples",
+  "name": "Sámi and Finno-Ugric peoples of the north",
+  "era": "ancient",
+  "region": "Northern Europe & North Asia",
+  "startYear": -3000,
+  "endYear": null,
+  "datesApproximate": true,
+  "capital": "None (many peoples)",
+  "capitalCoords": [
+    60,
+    64
+  ],
+  "summary": "The Sámi of northern Scandinavia and the Finno-Ugric peoples of the northern forests, such as the Khanty, Mansi and Komi, who lived by hunting, fishing and reindeer herding.",
+  "wikiTitle": "Finno-Ugric peoples",
+  "borderNames": [
+    "Finno-Ugric taiga hunter-gatherers",
+    "Saami"
+  ],
+  "borderYears": [
+    -3000,
+    1300
+  ],
+  "color": "#7a9cb0",
+  "knownFor": [
+    {
+      "label": "Joik",
+      "kind": "art",
+      "note": "A Sámi song form that “sings” a person, animal or place."
+    },
+    {
+      "label": "Gákti",
+      "kind": "textile",
+      "note": "Colourful traditional Sámi clothing."
+    },
+    {
+      "label": "Reindeer herding",
+      "kind": "tool",
+      "note": "Herding reindeer for meat, milk, hides and transport."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Northern Scandinavia, Finland and the forests of northern Russia to the Urals and beyond.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "terrain": {
+        "value": "Taiga forest, tundra, lakes and rivers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "climate": {
+        "value": "Long cold winters, short summers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "resources": {
+        "value": "Reindeer, fish, fur animals, forests.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "disasters": {
+        "value": "Hard winters and poor hunting years.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Small and scattered.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "urbanisation": {
+        "value": "Seasonal camps and villages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "disease": {
+        "value": "Epidemics after contact with farming peoples.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "migration": {
+        "value": "Finnish and Estonian ancestors moved west to the Baltic; Hungarians’ ancestors moved to Central Europe (9th century).",
+        "year": 895,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Hunting, fishing, trapping and reindeer herding.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "tradeRoutes": {
+        "value": "Traded furs with Norse, Novgorod and Volga Bulgar merchants.",
+        "year": 900,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "wealth": {
+        "value": "Wealth in reindeer and furs.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "moneyAndTax": {
+        "value": "Paid fur tribute to Norse, Novgorod and later Russian rulers.",
+        "year": 1000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "inequality": {
+        "value": "Mostly equal communities.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "No state; family groups and villages (siida among the Sámi).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "keyRulers": {
+        "value": "No recorded rulers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "succession": {
+        "value": "Elders and family heads.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "institutions": {
+        "value": "The siida system shared hunting and grazing lands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "stability": {
+        "value": "Moved with seasons and herds.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "eliteConflict": {
+        "value": "Little recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Bows, spears, skis.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "majorWars": {
+        "value": "Few recorded wars; pressure from expanding states.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "territoryChange": {
+        "value": "Lands taken over gradually by Scandinavian and Russian states.",
+        "year": 1600,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "alliancesRivals": {
+        "value": "Traded with neighbours.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Skis (some of the oldest known skis come from this region), sleds, fish traps.",
+        "year": -6000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "scienceEducation": {
+        "value": "Oral knowledge; shamans (noaidi).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "openness": {
+        "value": "Adopted metal tools from traders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "communicationTransport": {
+        "value": "Skis and reindeer sleds in winter, boats in summer.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Nature spirits and shamanism; Christianity from the 17th–18th centuries.",
+        "year": 1700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "languageWriting": {
+        "value": "Sámi and other Uralic languages (related to Finnish, Estonian and Hungarian).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "artsArchitecture": {
+        "value": "Joik singing, drums, duodji crafts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "socialStructure": {
+        "value": "Families and siida groups.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "sharedIdentity": {
+        "value": "Separate peoples with their own languages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "dailyLife": {
+        "value": "Cone tents (lavvu) and turf huts (goahti); reindeer meat, fish and berries.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Norse, Novgorod, Volga Bulgaria, later Sweden, Norway and Russia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "ideasReligions": {
+        "value": "Christian missions; Lutheran in Scandinavia, Orthodox in Russia.",
+        "year": 1700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "colonisation": {
+        "value": "Lands divided between Norway, Sweden, Finland and Russia.",
+        "year": 1751,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Adapted to northern forests and tundra.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "peakPeriod": {
+        "value": "No single peak.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "declineSignals": {
+        "value": "Pressure from expanding states and settlers.",
+        "year": 1600,
+        "certainty": "estimated",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "outcome": {
+        "value": "Sámi and other Finno-Ugric peoples live in these lands today; Sámi parliaments exist in Norway, Sweden and Finland.",
+        "year": 1989,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      },
+      "overallCertainty": {
+        "value": "Mostly known from archaeology and later records.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Finno-Ugric peoples; Wikipedia: Sámi people"
+      }
+    }
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "id": "western-north-american-peoples",
+  "name": "Peoples of the North American West",
+  "era": "prehistory",
+  "region": "North America (West)",
+  "startYear": -9000,
+  "endYear": null,
+  "datesApproximate": true,
+  "capital": "None (many nations)",
+  "capitalCoords": [
+    -118,
+    42
+  ],
+  "summary": "The peoples of the Great Basin, the Plateau and the Pacific Northwest coast, from desert foragers to salmon-fishing nations whose totem poles and potlatch feasts are famous.",
+  "wikiTitle": "Indigenous peoples of the Pacific Northwest Coast",
+  "borderNames": [
+    "Desert hunter-gatherers",
+    "Plateau fichers and hunter gatherers",
+    "North American Pacific foraging, hunting and fishing peoples"
+  ],
+  "borderYears": [
+    -9000,
+    1800
+  ],
+  "color": "#8a7a4f",
+  "knownFor": [
+    {
+      "label": "Totem poles",
+      "kind": "monument",
+      "note": "Carved cedar poles showing family histories and crests."
+    },
+    {
+      "label": "Potlatch",
+      "kind": "idea",
+      "note": "Feasts where hosts gave away goods to show status."
+    },
+    {
+      "label": "Cedar plank houses",
+      "kind": "monument",
+      "note": "Large houses of red cedar on the Northwest Coast."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Western North America: the Pacific Northwest coast, the Columbia Plateau and the Great Basin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "terrain": {
+        "value": "Rainforest coasts, river valleys, plateaus and deserts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "climate": {
+        "value": "Wet and mild on the coast; dry in the Great Basin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "resources": {
+        "value": "Salmon, cedar, shellfish, pine nuts, seeds.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "disasters": {
+        "value": "Earthquakes (the 1700 Cascadia earthquake), droughts.",
+        "year": 1700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown; the Northwest Coast was densely populated for foragers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "urbanisation": {
+        "value": "Permanent villages on the coast; mobile camps in the Great Basin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "disease": {
+        "value": "Smallpox epidemics in the 18th–19th centuries.",
+        "year": 1780,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "migration": {
+        "value": "Shifting groups over thousands of years.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Fishing (especially salmon), hunting and gathering.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "tradeRoutes": {
+        "value": "Trade along rivers; the Chinook Jargon trade language.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "wealth": {
+        "value": "Wealth in goods shown at potlatches on the coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "moneyAndTax": {
+        "value": "Dentalium shells used as currency.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "inequality": {
+        "value": "Ranked societies on the coast, with nobles, commoners and slaves.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Villages and chiefdoms; mobile family bands in the desert.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "keyRulers": {
+        "value": "Later leaders include Chief Joseph (Nez Perce) and Chief Seattle.",
+        "year": 1877,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "succession": {
+        "value": "Through family lineages.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "institutions": {
+        "value": "Potlatch, clan crests and customary law.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "stability": {
+        "value": "Varied.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "eliteConflict": {
+        "value": "Competition for status through potlatches.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Bows, armour of wooden slats on the coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "majorWars": {
+        "value": "The Nez Perce War (1877) and other wars with the US.",
+        "year": 1877,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "territoryChange": {
+        "value": "Lost most land to the US and Canada in the 19th century.",
+        "year": 1855,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "alliancesRivals": {
+        "value": "Trade partnerships along rivers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Dugout cedar canoes, fish weirs, woven baskets.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "scienceEducation": {
+        "value": "Oral knowledge and crests.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "openness": {
+        "value": "Traded with Russian, British and American fur traders.",
+        "year": 1790,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "communicationTransport": {
+        "value": "Large dugout canoes on the coast; travel on foot inland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Spirits of animals and ancestors.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "languageWriting": {
+        "value": "Many language families (Salishan, Wakashan, Uto-Aztecan and others).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "artsArchitecture": {
+        "value": "Totem poles, masks, woven Chilkat blankets, baskets.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "socialStructure": {
+        "value": "Ranked on the coast; equal in the desert.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "sharedIdentity": {
+        "value": "Separate nations.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "dailyLife": {
+        "value": "Cedar plank houses on the coast, pit houses on the Plateau, brush shelters in the Great Basin; salmon, roots, pine nuts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Plains and Southwest peoples, later Europeans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "ideasReligions": {
+        "value": "Christian missions; the potlatch was banned in Canada (1885–1951).",
+        "year": 1885,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "colonisation": {
+        "value": "Colonised by the US and Canada.",
+        "year": 1850,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Rich fisheries supported large settled communities.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "peakPeriod": {
+        "value": "No single peak.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "declineSignals": {
+        "value": "Epidemics and land loss.",
+        "year": 1800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "outcome": {
+        "value": "Many nations continue today.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      },
+      "overallCertainty": {
+        "value": "Known from archaeology, oral history and later records.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of the Pacific Northwest Coast; Wikipedia: Great Basin tribes"
+      }
+    }
+  }
+}
