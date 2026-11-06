@@ -240,7 +240,7 @@ export default function TerritoryChart({
             {xs.map((x) => (
               <tr key={x} className="border-t border-white/5">
                 <td className="py-0.5">
-                  <button type="button" onClick={() => onJumpToYear(x)} className="text-gold-300 hover:underline">
+                  <button type="button" onClick={() => onJumpToYear(x)} className="inline-block min-h-6 min-w-6 text-gold-300 hover:underline">
                     {formatYear(x)}
                   </button>
                 </td>

@@ -8,7 +8,7 @@ import SearchView from './components/SearchView';
 import { StoryList, StoryPlayer } from './components/StoryView';
 import CompareView, { suggestPartner } from './components/CompareView';
 import { boundsForPolity, loadManifest, loadSnapshot, nearestSnapshot, resolvePolity, type BorderProps, type Snapshot } from './lib/borders';
-import { EVENTS, EVENT_BY_ID, EVENT_TYPES, MAX_YEAR, MIN_YEAR, PEOPLE, PERSON_BY_ID, POLITY_BY_ID, ROUTES, ROUTE_BY_ID, ROUTE_KINDS, STORY_BY_ID, isActive } from './lib/data';
+import { EVENTS, EVENT_BY_ID, EVENT_TYPES, MAX_YEAR, MIN_YEAR, PEOPLE, PERSON_BY_ID, POLITY_BY_ID, ROUTES, ROUTE_BY_ID, ROUTE_KINDS, STORY_BY_ID, formatYear, isActive } from './lib/data';
 import type { EventType, PolitySummary as Polity, RouteKind } from './types';
 import { eventWindowFor, normaliseYear, stepYear } from './lib/timeScale';
 
@@ -52,6 +52,7 @@ export default function App() {
   const [snapshot, setSnapshot] = useState<Snapshot | null>(null);
   const [loading, setLoading] = useState(true);
   const [loadError, setLoadError] = useState<string | null>(null);
+  const [retryKey, setRetryKey] = useState(0);
   const [view, setView] = useState<View>(() =>
     initial.story && STORY_BY_ID.has(initial.story)
       ? { kind: 'story', id: initial.story, step: Math.min(initial.step, STORY_BY_ID.get(initial.story)!.steps.length - 1) }
@@ -79,12 +80,16 @@ export default function App() {
   // ── Border manifest & snapshots ─────────────────────────
   useEffect(() => {
     loadManifest()
-      .then(setSnapshotYears)
+      .then((ys) => {
+        setSnapshotYears(ys);
+        setLoadError(null);
+      })
       .catch((e: Error) => {
-        setLoadError(`${e.message}. Run "npm run fetch-borders" to download the border data.`);
+        console.error(e);
+        setLoadError('The border maps could not be loaded.');
         setLoading(false);
       });
-  }, []);
+  }, [retryKey]);
 
   const snapYear = snapshotYears.length ? nearestSnapshot(year, snapshotYears) : null;
 
@@ -101,12 +106,15 @@ export default function App() {
         const i = snapshotYears.indexOf(snapYear);
         [snapshotYears[i - 1], snapshotYears[i + 1]].forEach((y) => y !== undefined && loadSnapshot(y).catch(() => {}));
       })
-      .catch((e: Error) => !cancelled && setLoadError(e.message))
+      .catch((e: Error) => {
+        console.error(e);
+        if (!cancelled) setLoadError(`The ${formatYear(snapYear)} border map could not be loaded.`);
+      })
       .finally(() => !cancelled && setLoading(false));
     return () => {
       cancelled = true;
     };
-  }, [snapYear, snapshotYears]);
+  }, [snapYear, snapshotYears, retryKey]);
 
   // ── Camera: fly to a polity once the right snapshot is on screen ──
   const flyToPolity = useCallback((p: Polity, snap: Snapshot | null) => {
@@ -447,6 +455,11 @@ export default function App() {
     panelBody = <About />;
   }
 
+  // Tab title follows what's open, so history entries and shared tabs make sense.
+  useEffect(() => {
+    document.title = panelTitle ? `${panelTitle} · History Globe` : 'History Globe';
+  }, [panelTitle]);
+
   return (
     <div className="relative h-full w-full overflow-clip">
       <MapView
@@ -532,7 +545,11 @@ export default function App() {
 
       {loadError && (
         <div role="alert" className="absolute top-20 left-1/2 z-40 max-w-md -translate-x-1/2 rounded-xl bg-dispute/90 px-4 py-3 text-sm text-white shadow-xl">
-          Couldn't load border data: {loadError}
+          {loadError} Check your connection and{' '}
+          <button type="button" onClick={() => { setLoadError(null); setLoading(true); setRetryKey((k) => k + 1); }} className="font-semibold underline">
+            try again
+          </button>
+          .
         </div>
       )}
 
