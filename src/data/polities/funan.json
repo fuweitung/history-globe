@@ -1,0 +1,305 @@
+{
+  "id": "funan",
+  "name": "Funan",
+  "era": "ancient",
+  "region": "Southeast Asia (Mekong)",
+  "startYear": 50,
+  "endYear": 627,
+  "datesApproximate": true,
+  "capital": "Vyadhapura (near Ba Phnom)",
+  "capitalCoords": [
+    105.1,
+    11.4
+  ],
+  "summary": "Generally considered the first known kingdom in Southeast Asia: a network of Indianised states around the Mekong delta that traded between India and China.",
+  "wikiTitle": "Funan",
+  "borderNames": [
+    "Funan"
+  ],
+  "borderYears": [
+    50,
+    650
+  ],
+  "color": "#b08a5a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Parts of present-day Cambodia, Thailand and Vietnam, around the lower Mekong.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funan (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "The low, flooded Mekong delta and the coast of the Gulf of Thailand.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      },
+      "climate": {
+        "value": "Tropical monsoon.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      },
+      "resources": {
+        "value": "Rice, gold.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      },
+      "disasters": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "No reliable estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      },
+      "urbanisation": {
+        "value": "The port of Óc Eo, where Roman coins and Indian goods have been found, and the capital near Ba Phnom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      },
+      "disease": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      },
+      "migration": {
+        "value": "Indian traders and priests settled.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Trade and rice farming with canals.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      },
+      "tradeRoutes": {
+        "value": "Sea route between India and China.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      },
+      "wealth": {
+        "value": "No estimate is possible.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      },
+      "moneyAndTax": {
+        "value": "Gold and silver.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      },
+      "inequality": {
+        "value": "Rulers and elites.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A loose network of Indianised states (mandalas).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funan (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Kaundinya (legendary founder), Fan Shiman.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      },
+      "succession": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      },
+      "institutions": {
+        "value": "Indian-style Hindu kingship with Sanskrit titles.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      },
+      "stability": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      },
+      "majorWars": {
+        "value": "Conflicts with neighbours; finally absorbed by Chenla.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      },
+      "territoryChange": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      },
+      "alliancesRivals": {
+        "value": "Linyi (Champa), Chenla.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Canals linking the delta towns.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      },
+      "scienceEducation": {
+        "value": "Sanskrit.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      },
+      "openness": {
+        "value": "Indian influence.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Hinduism and Buddhism.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      },
+      "languageWriting": {
+        "value": "Sanskrit inscriptions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      },
+      "artsArchitecture": {
+        "value": "Statues of Vishnu.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      },
+      "socialStructure": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      },
+      "sharedIdentity": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Linyi (Champa), China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funan (checked 6 Nov 2026)"
+      },
+      "ideasReligions": {
+        "value": "Spread Indian culture.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Ports grew in the 1st century CE on the sea route between India and China.",
+        "year": 50,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funan (checked 6 Nov 2026); Coedès, The Indianized States of Southeast Asia (1968)"
+      },
+      "peakPeriod": {
+        "value": "The 3rd century, when Chinese envoys described a rich trading kingdom.",
+        "year": 250,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      },
+      "declineSignals": {
+        "value": "Trade shifted south to the Strait of Malacca and Chenla rose inland.",
+        "year": 550,
+        "certainty": "estimated",
+        "source": "Coedès, The Indianized States of Southeast Asia (1968)"
+      },
+      "outcome": {
+        "value": "Absorbed by Chenla by the 7th century.",
+        "year": 627,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funan (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Chinese records. Checked against Wikipedia (“Funan”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funan (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Low. Known mostly from Chinese records; the name Funan appears only in Chinese texts.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Funan (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Port of Óc Eo",
+      "kind": "monument",
+      "year": 200,
+      "note": "Roman coins found."
+    },
+    {
+      "label": "Indianised kingship",
+      "kind": "idea",
+      "note": "Hindu kings."
+    }
+  ]
+}

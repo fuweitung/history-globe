@@ -1,0 +1,311 @@
+{
+  "id": "goguryeo",
+  "name": "Goguryeo",
+  "era": "ancient",
+  "region": "East Asia (Korea & Manchuria)",
+  "startYear": -37,
+  "endYear": 668,
+  "datesApproximate": true,
+  "capital": "Jolbon; Gungnae; Pyongyang (from 427)",
+  "capitalCoords": [
+    125.75,
+    39.03
+  ],
+  "summary": "One of the Three Kingdoms of Korea, ruling northern Korea and much of Manchuria. It fought off huge Sui and Tang invasions before falling to a Silla–Tang alliance in 668.",
+  "wikiTitle": "Goguryeo",
+  "borderNames": [
+    "Koguryo"
+  ],
+  "borderYears": [
+    -37,
+    668
+  ],
+  "color": "#5a7aa0",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Northern and central Korea and much of Manchuria, possibly reaching eastern Mongolia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Goguryeo (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Mountains and river valleys (Yalu, Liao), ideal for fortresses.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "climate": {
+        "value": "Cold continental winters.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "resources": {
+        "value": "Iron, horses, farmland.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "disasters": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 3.5 million (Wikipedia comparison with Baekje and Silla).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Goguryeo (checked 6 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "Pyongyang became the capital in 427.",
+        "year": 427,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "disease": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "migration": {
+        "value": "Refugees went to Balhae and Silla after its fall.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, hunting and tribute.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "tradeRoutes": {
+        "value": "Contact with China and the steppe.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "wealth": {
+        "value": "No estimate is possible.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "moneyAndTax": {
+        "value": "Taxes in grain and cloth.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "inequality": {
+        "value": "Aristocratic clans.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy with powerful aristocrats.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "keyRulers": {
+        "value": "Jumong (legendary founder), Gwanggaeto the Great (391–413), Jangsu (413–491).",
+        "year": 391,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "succession": {
+        "value": "Hereditary.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "institutions": {
+        "value": "Aristocratic council.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "stability": {
+        "value": "Strong until civil strife in the 660s.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "eliteConflict": {
+        "value": "Sons of Yeon Gaesomun quarrelled.",
+        "year": 666,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Mountain fortresses and armoured cavalry.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "majorWars": {
+        "value": "Defeated a huge Sui invasion at the Battle of Salsu (612).",
+        "year": 612,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "territoryChange": {
+        "value": "At its peak most of Korea and large parts of Manchuria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Goguryeo (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: Baekje, Silla, Sui and Tang China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Goguryeo (checked 6 Nov 2026)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Ondol underfloor heating is linked to the region.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "scienceEducation": {
+        "value": "A national academy (Taehak, 372).",
+        "year": 372,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "openness": {
+        "value": "Adopted Buddhism in 372.",
+        "year": 372,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Buddhism and native beliefs.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "languageWriting": {
+        "value": "Goguryeo language; Chinese characters.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "artsArchitecture": {
+        "value": "Tomb murals (UNESCO).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "socialStructure": {
+        "value": "Aristocrats, commoners, slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "sharedIdentity": {
+        "value": "Descent from Buyeo.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Baekje, Silla, China.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "ideasReligions": {
+        "value": "Buddhism.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Founded 37 BCE.",
+        "year": -37,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Goguryeo (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "Under Gwanggaeto and Jangsu.",
+        "year": 413,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "declineSignals": {
+        "value": "Wars with Tang.",
+        "year": 645,
+        "certainty": "estimated",
+        "source": "Seth, A History of Korea (2010)"
+      },
+      "outcome": {
+        "value": "Fell to Silla and Tang in 668.",
+        "year": 668,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Goguryeo (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Samguk sagi. Checked against Wikipedia (“Goguryeo”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Goguryeo (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Medium.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Goguryeo (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Gwanggaeto Stele",
+      "kind": "monument",
+      "year": 414,
+      "note": "A huge stone recording his conquests."
+    },
+    {
+      "label": "Tomb murals",
+      "kind": "art",
+      "year": 400,
+      "note": "Painted tombs (UNESCO)."
+    },
+    {
+      "label": "Mountain fortresses",
+      "kind": "monument",
+      "note": "Stone forts that held off Sui and Tang."
+    }
+  ]
+}

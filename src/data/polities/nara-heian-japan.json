@@ -1,0 +1,313 @@
+{
+  "id": "nara-heian-japan",
+  "name": "Nara and Heian Japan",
+  "era": "medieval",
+  "region": "East Asia (Japan)",
+  "startYear": 710,
+  "endYear": 1185,
+  "capital": "Nara (710–784); Heian-kyō (Kyoto, from 794)",
+  "capitalCoords": [
+    135.76,
+    35.01
+  ],
+  "summary": "Classical Japan under the imperial court, first at Nara and then Heian-kyō (Kyoto). The Heian era saw the birth of kana writing and great literature such as The Tale of Genji.",
+  "wikiTitle": "Heian period",
+  "borderNames": [
+    "Yamato",
+    "Imperial Japan (Fujiwara)",
+    "Japan"
+  ],
+  "borderYears": [
+    710,
+    1185
+  ],
+  "color": "#c06a8a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Japan, ruled from Nara (710–784) and then Heian-kyō, modern Kyoto (from 794).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Heian period (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Mountainous islands with small fertile plains.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      },
+      "climate": {
+        "value": "Temperate with monsoon rains.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      },
+      "resources": {
+        "value": "Rice, timber, silk.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      },
+      "disasters": {
+        "value": "A smallpox epidemic (735–737) killed perhaps a third of the population.",
+        "year": 735,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Perhaps 5–6 million.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      },
+      "urbanisation": {
+        "value": "Heian-kyō, planned on a grid like Chang’an, became the capital in 794.",
+        "year": 794,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Heian period (checked 6 Nov 2026)"
+      },
+      "disease": {
+        "value": "Smallpox epidemic of 735–737.",
+        "year": 735,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      },
+      "migration": {
+        "value": "Scholars and monks travelled to Tang China.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Rice farming on public and later private estates (shōen).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      },
+      "tradeRoutes": {
+        "value": "Missions to Tang China until 894.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      },
+      "wealth": {
+        "value": "No estimate is possible.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      },
+      "moneyAndTax": {
+        "value": "Early copper coins (Wadō kaichin, 708); taxes in rice and cloth.",
+        "year": 708,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      },
+      "inequality": {
+        "value": "Court aristocrats and estate owners above peasants.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Emperors reigned, but real power lay with the Fujiwara clan as regents.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Heian period (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Emperor Kammu (moved the capital, 794), Fujiwara no Michinaga (regent, early 11th century).",
+        "year": 794,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Heian period (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Imperial line, controlled through Fujiwara marriages.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      },
+      "institutions": {
+        "value": "The ritsuryō legal codes copied from Tang China.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      },
+      "stability": {
+        "value": "Peaceful at court; provinces grew lawless later.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      },
+      "eliteConflict": {
+        "value": "The Genpei War (1180–1185) between the Taira and Minamoto.",
+        "year": 1180,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Provincial warrior bands that became the samurai.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      },
+      "majorWars": {
+        "value": "The Genpei War ended the period.",
+        "year": 1180,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      },
+      "territoryChange": {
+        "value": "Expanded north against the Emishi.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      },
+      "alliancesRivals": {
+        "value": "Contact with Tang and Silla.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Two Japanese syllabaries, katakana and hiragana, emerged.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Heian period (checked 6 Nov 2026)"
+      },
+      "scienceEducation": {
+        "value": "A court university and Buddhist schools.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      },
+      "openness": {
+        "value": "Chinese influence declined and a national culture matured.",
+        "year": 894,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Heian period (checked 6 Nov 2026)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Buddhism (Tendai, Shingon) and Shinto.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      },
+      "languageWriting": {
+        "value": "Japanese written in kana; Chinese for official texts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Heian period (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "The Tale of Genji by Murasaki Shikibu; the Byōdō-in temple.",
+        "year": 1008,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Heian period (checked 6 Nov 2026)"
+      },
+      "socialStructure": {
+        "value": "Court nobles, monks, warriors, peasants.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      },
+      "sharedIdentity": {
+        "value": "The imperial court.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Tang China, Silla.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      },
+      "ideasReligions": {
+        "value": "Buddhism spread widely.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Nara became the first permanent capital.",
+        "year": 710,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      },
+      "peakPeriod": {
+        "value": "The peak of the imperial court around 1000.",
+        "year": 1000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Heian period (checked 6 Nov 2026)"
+      },
+      "declineSignals": {
+        "value": "Rise of warrior clans.",
+        "year": 1156,
+        "certainty": "estimated",
+        "source": "Totman, A History of Japan (2005)"
+      },
+      "outcome": {
+        "value": "Ended with the Genpei War; the Kamakura shogunate followed.",
+        "year": 1185,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Heian period (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Court chronicles and diaries. Checked against Wikipedia (“Heian period”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Heian period (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Good.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Heian period (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "The Tale of Genji",
+      "kind": "art",
+      "year": 1008,
+      "note": "Often called the world’s first novel."
+    },
+    {
+      "label": "Kana writing",
+      "kind": "idea",
+      "year": 900,
+      "note": "Hiragana and katakana."
+    },
+    {
+      "label": "Jūnihitoe robes",
+      "kind": "textile",
+      "year": 1000,
+      "note": "Twelve-layered court robes."
+    }
+  ]
+}

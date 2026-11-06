@@ -1,0 +1,311 @@
+{
+  "id": "modern-japan",
+  "name": "Japan (since 1945)",
+  "era": "modern",
+  "region": "East Asia",
+  "startYear": 1945,
+  "endYear": null,
+  "capital": "Tokyo",
+  "capitalCoords": [
+    139.69,
+    35.69
+  ],
+  "summary": "Post-war Japan: occupied by the Allies until 1952, then a democratic constitutional monarchy that became one of the world’s largest economies.",
+  "wikiTitle": "Japan",
+  "borderNames": [
+    "Japan",
+    "Japan (USA)"
+  ],
+  "borderYears": [
+    1945,
+    null
+  ],
+  "color": "#c04a5a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "An island country in East Asia: four main islands and over 14,000 smaller ones; capital Tokyo.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Japan (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "About 75% mountainous and forested, so people and farms crowd the eastern coastal plains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Japan (checked 6 Nov 2026)"
+      },
+      "climate": {
+        "value": "Temperate to subtropical, with typhoons.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      },
+      "resources": {
+        "value": "Few natural resources; imports most energy and raw materials.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      },
+      "disasters": {
+        "value": "Earthquakes and tsunamis, including Kobe (1995) and the 2011 Tōhoku earthquake and Fukushima nuclear disaster.",
+        "year": 2011,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Almost 123 million (2026), shrinking and ageing.",
+        "year": 2026,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Japan (checked 6 Nov 2026)"
+      },
+      "urbanisation": {
+        "value": "Greater Tokyo is the world’s largest metropolitan area.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      },
+      "disease": {
+        "value": "COVID-19 (2020–23).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      },
+      "migration": {
+        "value": "Low immigration; rural-to-urban migration.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Manufacturing (cars, electronics), services and technology.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      },
+      "tradeRoutes": {
+        "value": "Global exporter, especially to the US and China.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      },
+      "wealth": {
+        "value": "A high-income economy; one of the largest in the world.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      },
+      "moneyAndTax": {
+        "value": "The yen; an asset bubble burst in 1990, followed by the “lost decades”.",
+        "year": 1990,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      },
+      "inequality": {
+        "value": "Relatively equal by rich-country standards.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary constitutional monarchy; the emperor is head of state, the prime minister heads the government.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Japan (checked 6 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Emperors Hirohito, Akihito and Naruhito; prime ministers such as Yoshida Shigeru and Abe Shinzō.",
+        "year": 1946,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      },
+      "succession": {
+        "value": "Elections to the National Diet; dominant Liberal Democratic Party since 1955.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      },
+      "institutions": {
+        "value": "The 1947 constitution, including Article 9 renouncing war.",
+        "year": 1947,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      },
+      "stability": {
+        "value": "Stable democracy.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      },
+      "eliteConflict": {
+        "value": "Factions within the ruling party.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "The Self-Defense Forces; a US alliance.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      },
+      "majorWars": {
+        "value": "None since 1945.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      },
+      "territoryChange": {
+        "value": "Regained independence in 1952; Okinawa returned in 1972; territorial disputes with Russia, China and Korea.",
+        "year": 1972,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      },
+      "alliancesRivals": {
+        "value": "Allied with the United States (security treaty, 1951/1960).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "The Shinkansen bullet train (1964), consumer electronics, robotics.",
+        "year": 1964,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      },
+      "scienceEducation": {
+        "value": "Near-universal education; many Nobel laureates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      },
+      "openness": {
+        "value": "Absorbs foreign ideas; limited immigration.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Shinto and Buddhism, often both.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      },
+      "languageWriting": {
+        "value": "Japanese, written in kanji and kana.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      },
+      "artsArchitecture": {
+        "value": "Film, anime and manga, modern architecture.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      },
+      "socialStructure": {
+        "value": "Large middle class; ageing society.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      },
+      "sharedIdentity": {
+        "value": "Japanese culture and pacifism.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "China, South Korea, Russia, the US.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      },
+      "ideasReligions": {
+        "value": "Popular culture spread worldwide.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      },
+      "colonisation": {
+        "value": "Lost its empire in 1945.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "The post-war economic miracle (1955–1973).",
+        "year": 1955,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      },
+      "peakPeriod": {
+        "value": "Still exists; its economic peak relative to the world was around 1990.",
+        "year": 1989,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      },
+      "declineSignals": {
+        "value": "Slow growth since 1990 and a shrinking, ageing population.",
+        "year": 1990,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      },
+      "outcome": {
+        "value": "Continues today as Japan.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Gordon, A Modern History of Japan (2003)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Government statistics. Checked against Wikipedia (“Japan”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Japan (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "High.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Japan (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Shinkansen",
+      "kind": "tool",
+      "year": 1964,
+      "note": "The first high-speed rail line."
+    },
+    {
+      "label": "Anime and manga",
+      "kind": "art",
+      "note": "Popular worldwide."
+    },
+    {
+      "label": "Article 9",
+      "kind": "idea",
+      "year": 1947,
+      "note": "Renounces war."
+    }
+  ]
+}

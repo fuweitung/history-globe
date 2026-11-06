@@ -1,0 +1,310 @@
+{
+  "id": "republic-of-venice",
+  "name": "Republic of Venice",
+  "era": "medieval",
+  "region": "Southern Europe & Mediterranean",
+  "startYear": 697,
+  "endYear": 1797,
+  "capital": "Venice",
+  "capitalCoords": [
+    12.33,
+    45.44
+  ],
+  "summary": "A maritime republic, La Serenissima, that became one of Europe’s great commercial and naval powers. For 1,100 years it traded between Europe and the East until Napoleon ended it in 1797.",
+  "wikiTitle": "Republic of Venice",
+  "borderNames": [
+    "Venice"
+  ],
+  "borderYears": [
+    697,
+    1797
+  ],
+  "color": "#a03f4a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Venice in north-east Italy, with lands in Istria, Dalmatia, the Adriatic and Ionian islands, and at times Crete and Cyprus.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Venice (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "A lagoon city on islands, protected by water.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      },
+      "climate": {
+        "value": "Humid subtropical.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      },
+      "resources": {
+        "value": "Salt, glass sand, timber from the mainland.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      },
+      "disasters": {
+        "value": "The Black Death (1348) and later plagues.",
+        "year": 1348,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 100,000–180,000 in the city at its height.",
+        "year": 1500,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      },
+      "urbanisation": {
+        "value": "Venice was one of Europe’s largest cities.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      },
+      "disease": {
+        "value": "Plague of 1575–1577 killed about a third of the city.",
+        "year": 1576,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      },
+      "migration": {
+        "value": "Merchants from across the Mediterranean.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Maritime trade, banking, glass and shipbuilding.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      },
+      "tradeRoutes": {
+        "value": "Trade with Constantinople, Alexandria and the Levant in spices and silk.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      },
+      "wealth": {
+        "value": "No estimate is possible for this period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      },
+      "moneyAndTax": {
+        "value": "The gold ducat (from 1284), trusted across Europe.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      },
+      "inequality": {
+        "value": "A closed noble class ruled.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "An aristocratic republic led by an elected Doge.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      },
+      "keyRulers": {
+        "value": "Doge Enrico Dandolo (Fourth Crusade, 1204).",
+        "year": 1204,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      },
+      "succession": {
+        "value": "Doges elected for life by a complex process.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      },
+      "institutions": {
+        "value": "The Great Council and Council of Ten.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      },
+      "stability": {
+        "value": "Remarkably stable for 1,100 years.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      },
+      "eliteConflict": {
+        "value": "Factional rivalry within the nobility.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "The Arsenal could build a galley in a day.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      },
+      "majorWars": {
+        "value": "Fourth Crusade (1204), wars with Genoa and the Ottomans; Lepanto (1571).",
+        "year": 1571,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      },
+      "territoryChange": {
+        "value": "Gained a large part of north-east Italy and the eastern Adriatic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Venice (checked 6 Nov 2026)"
+      },
+      "alliancesRivals": {
+        "value": "Rivals: Genoa, the Ottomans.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Mass shipbuilding at the Arsenal; early patents (1474).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      },
+      "scienceEducation": {
+        "value": "Book printing centre (Aldine Press).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      },
+      "openness": {
+        "value": "Open to trade with the Islamic world.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Catholic Christianity.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      },
+      "languageWriting": {
+        "value": "Venetian and Italian; Latin.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      },
+      "artsArchitecture": {
+        "value": "St Mark’s Basilica, Doge’s Palace; Titian, Tintoretto.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      },
+      "socialStructure": {
+        "value": "Nobles, citizens, commoners.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to “the Most Serene Republic”.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Byzantium, the Ottomans, the Holy Roman Empire.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      },
+      "ideasReligions": {
+        "value": "Renaissance art.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      },
+      "colonisation": {
+        "value": "Overseas colonies (Stato da Mar).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Founded in 697 by tradition.",
+        "year": 697,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Venice (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "13th–16th centuries.",
+        "year": 1450,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Venice (checked 6 Nov 2026)"
+      },
+      "declineSignals": {
+        "value": "Ottoman wars and Atlantic trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      },
+      "outcome": {
+        "value": "Ended by Napoleon in 1797.",
+        "year": 1797,
+        "certainty": "estimated",
+        "source": "Lane, Venice: A Maritime Republic (1973)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "State archives. Checked against Wikipedia (“Republic of Venice”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Venice (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Good.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Venice (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Gold ducat",
+      "kind": "tool",
+      "year": 1284,
+      "note": "A trusted coin."
+    },
+    {
+      "label": "Venetian glass",
+      "kind": "art",
+      "note": "Murano glass."
+    },
+    {
+      "label": "The Arsenal",
+      "kind": "tool",
+      "year": 1104,
+      "note": "A shipyard."
+    }
+  ]
+}

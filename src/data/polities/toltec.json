@@ -1,0 +1,310 @@
+{
+  "id": "toltec",
+  "name": "Toltec",
+  "era": "medieval",
+  "region": "Mesoamerica (central Mexico)",
+  "startYear": 950,
+  "endYear": 1150,
+  "datesApproximate": true,
+  "capital": "Tula (Tollan)",
+  "capitalCoords": [
+    -99.34,
+    20.06
+  ],
+  "summary": "A Mesoamerican culture centred on Tula in central Mexico, at its height from 950 to 1150. The later Aztecs saw the Toltecs as their cultural ancestors.",
+  "wikiTitle": "Toltec",
+  "borderNames": [
+    "Toltec Empire"
+  ],
+  "borderYears": [
+    900,
+    1200
+  ],
+  "color": "#8a6a5a",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Central Mexico, centred on Tula (Tollan) in Hidalgo.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toltec (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Highland valleys north of the Valley of Mexico.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      },
+      "climate": {
+        "value": "Semi-arid highland climate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      },
+      "resources": {
+        "value": "Maize farming and obsidian.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      },
+      "disasters": {
+        "value": "Drought may have contributed to its decline.",
+        "year": 1150,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Tula may have had 30,000–60,000 people.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      },
+      "urbanisation": {
+        "value": "Tula was a large planned city.",
+        "year": 1000,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      },
+      "disease": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      },
+      "migration": {
+        "value": "Northern peoples moved into central Mexico.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming and obsidian craft.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      },
+      "tradeRoutes": {
+        "value": "Trade reaching as far as Chichén Itzá.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      },
+      "wealth": {
+        "value": "No estimate is possible.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      },
+      "moneyAndTax": {
+        "value": "Tribute.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      },
+      "inequality": {
+        "value": "Warrior elite.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A state ruled from Tula; its organisation is debated.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      },
+      "keyRulers": {
+        "value": "Aztec accounts name Topiltzin Quetzalcoatl, but scholars debate how historical these accounts are.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Toltec (checked 6 Nov 2026)"
+      },
+      "succession": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      },
+      "institutions": {
+        "value": "Military orders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      },
+      "stability": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      },
+      "eliteConflict": {
+        "value": "Legends of conflict between factions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Warrior orders (eagles, jaguars).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      },
+      "majorWars": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      },
+      "territoryChange": {
+        "value": "Influence across central Mexico.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      },
+      "alliancesRivals": {
+        "value": "Links with Chichén Itzá.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Little is known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      },
+      "scienceEducation": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      },
+      "openness": {
+        "value": "Contact with the Maya.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "The feathered serpent (Quetzalcoatl).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      },
+      "languageWriting": {
+        "value": "Nahuatl; the word Toltec came to mean “artisan”.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toltec (checked 6 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "The Atlantean warrior columns at Tula.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      },
+      "socialStructure": {
+        "value": "Warriors, priests, farmers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      },
+      "sharedIdentity": {
+        "value": "Later seen by the Aztecs as the epitome of civilisation.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toltec (checked 6 Nov 2026)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Maya, Huastec.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      },
+      "ideasReligions": {
+        "value": "Quetzalcoatl cult.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Rose to prominence around 950.",
+        "year": 950,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toltec (checked 6 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "950–1150, when Tula was a major city.",
+        "year": 1050,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toltec (checked 6 Nov 2026); Davies, The Toltecs (1977)"
+      },
+      "declineSignals": {
+        "value": "Drought, internal conflict and pressure from northern peoples.",
+        "year": 1150,
+        "certainty": "estimated",
+        "source": "Davies, The Toltecs (1977)"
+      },
+      "outcome": {
+        "value": "Declined; later peoples, including the Aztecs, claimed Toltec heritage.",
+        "year": 1150,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toltec (checked 6 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Archaeology and Aztec traditions. Checked against Wikipedia (“Toltec”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toltec (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "Low to medium. Scholars debate how far Aztec accounts are historical.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Toltec (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "Atlantean figures of Tula",
+      "kind": "monument",
+      "year": 1000,
+      "note": "Giant stone warrior columns."
+    },
+    {
+      "label": "Quetzalcoatl legend",
+      "kind": "idea",
+      "note": "The feathered serpent and the priest-king."
+    },
+    {
+      "label": "“Toltec” = artisan",
+      "kind": "idea",
+      "note": "In Nahuatl the name came to mean skilled craftsman."
+    }
+  ]
+}

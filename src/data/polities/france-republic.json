@@ -1,0 +1,305 @@
+{
+  "id": "france-republic",
+  "name": "France (Fifth Republic)",
+  "era": "modern",
+  "region": "Western Europe",
+  "startYear": 1958,
+  "endYear": null,
+  "capital": "Paris",
+  "capitalCoords": [
+    2.35,
+    48.86
+  ],
+  "summary": "France under the Fifth Republic, founded by Charles de Gaulle in 1958. After decolonisation it became a founding power of European integration.",
+  "wikiTitle": "France",
+  "borderNames": [
+    "France"
+  ],
+  "borderYears": [
+    1962,
+    null
+  ],
+  "color": "#4a6ab0",
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Western Europe, from the Rhine to the Atlantic, plus overseas regions and territories.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 6 Nov 2026)"
+      },
+      "terrain": {
+        "value": "Plains, the Alps, Pyrenees and Massif Central.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "climate": {
+        "value": "Temperate and Mediterranean.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "resources": {
+        "value": "Farmland, wine, nuclear power.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "disasters": {
+        "value": "Heatwaves (2003).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 68 million.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "urbanisation": {
+        "value": "Paris is the largest city.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "disease": {
+        "value": "COVID-19.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "migration": {
+        "value": "Migration from North Africa and elsewhere.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Services, industry, tourism, agriculture.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "tradeRoutes": {
+        "value": "EU and global trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "wealth": {
+        "value": "A high-income economy.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "moneyAndTax": {
+        "value": "The franc, then the euro (2002).",
+        "year": 2002,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "inequality": {
+        "value": "Strong welfare state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A semi-presidential republic.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "keyRulers": {
+        "value": "Charles de Gaulle, François Mitterrand, Jacques Chirac.",
+        "year": 1958,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "institutions": {
+        "value": "The 1958 constitution.",
+        "year": 1958,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "stability": {
+        "value": "The May 1968 protests.",
+        "year": 1968,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "eliteConflict": {
+        "value": "Party politics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "A nuclear power with a permanent UN Security Council seat.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "majorWars": {
+        "value": "The Algerian War ended in 1962.",
+        "year": 1962,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "territoryChange": {
+        "value": "Algeria became independent in 1962.",
+        "year": 1962,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "alliancesRivals": {
+        "value": "EU and NATO.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "TGV, Concorde, Ariane rockets.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "scienceEducation": {
+        "value": "Free public education.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "openness": {
+        "value": "European integration.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Secular state; Catholic tradition.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "languageWriting": {
+        "value": "French.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "artsArchitecture": {
+        "value": "Cinema, fashion, modern architecture.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "socialStructure": {
+        "value": "Large middle class.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "sharedIdentity": {
+        "value": "Liberty, equality, fraternity.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Belgium, Germany, Switzerland, Italy, Spain, UK.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "ideasReligions": {
+        "value": "Laïcité.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "colonisation": {
+        "value": "Decolonisation by 1962; overseas territories remain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "De Gaulle’s new constitution.",
+        "year": 1958,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "peakPeriod": {
+        "value": "Still exists; the “Trente Glorieuses” boom (1945–1975) was a high point of growth.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "declineSignals": {
+        "value": "Not applicable: still exists. Debates over debt, protests and social cohesion.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      },
+      "outcome": {
+        "value": "Continues today as France.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Jackson, De Gaulle (2018)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Checked against Wikipedia (“France”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 6 Nov 2026)"
+      },
+      "overallCertainty": {
+        "value": "High.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 6 Nov 2026)"
+      }
+    }
+  },
+  "knownFor": [
+    {
+      "label": "TGV high-speed train",
+      "kind": "tool",
+      "year": 1981,
+      "note": "Fast trains."
+    },
+    {
+      "label": "Laïcité",
+      "kind": "idea",
+      "year": 1905,
+      "note": "Secularism."
+    }
+  ]
+}
