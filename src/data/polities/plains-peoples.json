@@ -1,0 +1,321 @@
+{
+  "id": "plains-peoples",
+  "name": "Peoples of the Great Plains",
+  "era": "prehistory",
+  "region": "North America (Great Plains)",
+  "startYear": -9000,
+  "endYear": null,
+  "datesApproximate": true,
+  "capital": "None (many nations)",
+  "capitalCoords": [
+    -101,
+    42
+  ],
+  "summary": "The peoples of the North American Great Plains, who hunted bison for more than 10,000 years. After horses arrived from Spanish colonies in the 1600s, nations such as the Lakota, Comanche, Cheyenne and Blackfoot became mounted bison hunters.",
+  "wikiTitle": "Plains Indians",
+  "borderNames": [
+    "Plain bison hunters"
+  ],
+  "borderYears": [
+    -9000,
+    1600
+  ],
+  "color": "#b5793a",
+  "knownFor": [
+    {
+      "label": "Tipi",
+      "kind": "monument",
+      "note": "A cone-shaped tent of bison hide that could be moved quickly."
+    },
+    {
+      "label": "Buffalo jumps",
+      "kind": "tool",
+      "note": "Herds were driven over cliffs, as at Head-Smashed-In (Alberta), used for about 6,000 years."
+    },
+    {
+      "label": "Plains sign language",
+      "kind": "idea",
+      "note": "Hand signs used to talk between nations with different languages."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Great Plains of North America, from Alberta and Saskatchewan to Texas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "terrain": {
+        "value": "Flat or rolling grassland, with river valleys (Missouri, Platte, Arkansas).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "climate": {
+        "value": "Continental: hot summers, cold winters, dry winds.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "resources": {
+        "value": "Huge herds of bison; river-valley farmland used by some nations.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "disasters": {
+        "value": "Droughts, blizzards and prairie fires.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown before contact; perhaps a few hundred thousand around 1800.",
+        "year": 1800,
+        "certainty": "estimated",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "urbanisation": {
+        "value": "Camps; some nations (Mandan, Pawnee) lived in earth-lodge villages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "disease": {
+        "value": "Smallpox epidemics, such as 1837, devastated the Mandan.",
+        "year": 1837,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "migration": {
+        "value": "Many nations moved onto the Plains from the east and north after getting horses (Lakota, Cheyenne).",
+        "year": 1700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Bison hunting; farming of maize, beans and squash in river valleys.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "tradeRoutes": {
+        "value": "Trade networks linking the Plains with the Southwest and the Mississippi; later the fur trade.",
+        "year": 1700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "wealth": {
+        "value": "Wealth measured in horses.",
+        "year": 1750,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "moneyAndTax": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "inequality": {
+        "value": "Fairly equal; generosity brought respect.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Plains Indians"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Independent nations with chiefs, councils and warrior societies.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "keyRulers": {
+        "value": "Red Cloud, Sitting Bull, Crazy Horse (Lakota); Quanah Parker (Comanche).",
+        "year": 1870,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "succession": {
+        "value": "Chiefs chosen for skill and generosity.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "institutions": {
+        "value": "Councils, warrior societies and religious leaders.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "stability": {
+        "value": "Shifting alliances between nations.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "eliteConflict": {
+        "value": "Rivalries between bands and nations.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Plains Indians"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Bows, lances; horses from about 1680 and guns from traders.",
+        "year": 1680,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "majorWars": {
+        "value": "Wars between nations; wars with the US Army (Battle of the Little Bighorn, 1876; Wounded Knee, 1890).",
+        "year": 1876,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "territoryChange": {
+        "value": "Lost the Plains to US and Canadian expansion in the late 19th century.",
+        "year": 1880,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "alliancesRivals": {
+        "value": "Alliances such as the Lakota–Cheyenne–Arapaho alliance.",
+        "year": 1860,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Travois for dragging loads; hide tipis; pemmican (dried meat).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "scienceEducation": {
+        "value": "Winter counts: painted calendars of events on hides.",
+        "year": 1700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "openness": {
+        "value": "Quickly adopted horses and guns.",
+        "year": 1700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "communicationTransport": {
+        "value": "On foot with dogs pulling the travois; from about 1700 horses made travel far faster. Smoke signals and Plains sign language helped across language barriers.",
+        "year": 1700,
+        "certainty": "estimated",
+        "source": "Wikipedia: Plains Indians"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Spiritual ceremonies such as the Sun Dance and vision quests.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "languageWriting": {
+        "value": "Many languages (Siouan, Algonquian, Uto-Aztecan and others) and Plains sign language.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "artsArchitecture": {
+        "value": "Beadwork and quillwork, painted hides, feathered headdresses.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "socialStructure": {
+        "value": "Bands and families; warrior societies.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "sharedIdentity": {
+        "value": "Separate nations with their own identities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "dailyLife": {
+        "value": "Bison-hide tipis that could be moved quickly, or earth lodges in river villages; bison meat, dried as pemmican; clothes of tanned hide.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Pueblo peoples, Woodland peoples, Spanish, French, British and Americans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "ideasReligions": {
+        "value": "The Ghost Dance movement (1889–90).",
+        "year": 1890,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "colonisation": {
+        "value": "Forced onto reservations by the US and Canada; the bison were nearly wiped out (about 1870–1885).",
+        "year": 1880,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "The horse transformed Plains life from about 1700.",
+        "year": 1700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "peakPeriod": {
+        "value": "The horse culture of about 1750–1850.",
+        "year": 1800,
+        "certainty": "estimated",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "declineSignals": {
+        "value": "Disease, the destruction of the bison and military conquest.",
+        "year": 1880,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "outcome": {
+        "value": "Plains nations continue today, many on reservations and reserves.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Plains Indians; Hämäläinen, The Comanche Empire (2008).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Plains Indians"
+      },
+      "overallCertainty": {
+        "value": "Well documented after contact; earlier history known from archaeology.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Plains Indians"
+      }
+    }
+  }
+}

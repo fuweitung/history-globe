@@ -60,7 +60,7 @@
         "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
       },
       "climate": {
-        "value": "Tropical, with trade winds.",
+        "value": "Tropical, cooled by trade winds; wet on the windward side of the islands.",
         "year": null,
         "certainty": "estimated",
         "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
@@ -124,7 +124,7 @@
         "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
       },
       "moneyAndTax": {
-        "value": "The Hawaiian dollar (from 1847).",
+        "value": "The US dollar circulated; Hawaiian coins were struck in 1847 and 1883.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Hawaiian Kingdom (checked 6 Nov 2026); Kuykendall, The Hawaiian Kingdom (1938–67)"
@@ -202,7 +202,7 @@
     },
     "technology": {
       "inventions": {
-        "value": "Little is known.",
+        "value": "Little is known; it had one of the highest literacy rates in the world in the 1800s.",
         "year": null,
         "certainty": "estimated",
         "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
@@ -218,6 +218,12 @@
         "year": null,
         "certainty": "estimated",
         "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
+      },
+      "communicationTransport": {
+        "value": "Canoes between islands, later steamships; a postal service (1850) and newspapers in Hawaiian.",
+        "year": 1850,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hawaiian Kingdom"
       }
     },
     "culture": {
@@ -250,6 +256,12 @@
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Hawaiian Kingdom (checked 6 Nov 2026)"
+      },
+      "dailyLife": {
+        "value": "Grass houses (hale), later wooden houses; poi made from taro, fish and sweet potato.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hawaiian Kingdom"
       }
     },
     "connections": {
@@ -266,7 +278,7 @@
         "source": "Kuykendall, The Hawaiian Kingdom (1938–67)"
       },
       "colonisation": {
-        "value": "Annexed by the United States in 1898.",
+        "value": "The monarchy was overthrown in 1893; the islands were annexed by the United States in 1898.",
         "year": 1898,
         "certainty": "confirmed",
         "source": "Wikipedia: Hawaiian Kingdom (checked 6 Nov 2026); Kuykendall, The Hawaiian Kingdom (1938–67)"

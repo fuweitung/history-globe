@@ -60,7 +60,7 @@
         "source": "—"
       },
       "resources": {
-        "value": "Gold, cattle, and farmland for grain.",
+        "value": "Gold, cattle, and farmland for sorghum and millet.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Great Zimbabwe (checked 6 Nov 2026)"
@@ -112,7 +112,7 @@
         "source": "Wikipedia: Kingdom of Great Zimbabwe (checked 6 Nov 2026)"
       },
       "wealth": {
-        "value": "No estimate is possible.",
+        "value": "No estimate is possible; finds include Chinese pottery and Persian glass.",
         "year": null,
         "certainty": "disputed",
         "source": "—"
@@ -156,7 +156,7 @@
         "source": "Wikipedia: Kingdom of Great Zimbabwe (checked 6 Nov 2026)"
       },
       "stability": {
-        "value": "Not well documented.",
+        "value": "Not well documented; the city was used for about 200–300 years.",
         "year": null,
         "certainty": "disputed",
         "source": "—"
@@ -212,6 +212,12 @@
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Great Zimbabwe (checked 6 Nov 2026)"
+      },
+      "communicationTransport": {
+        "value": "Travel on foot; trade routes to the Swahili coast at Sofala.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Great Zimbabwe"
       }
     },
     "culture": {
@@ -244,6 +250,12 @@
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Great Zimbabwe (checked 6 Nov 2026)"
+      },
+      "dailyLife": {
+        "value": "Round daga (clay) houses with thatched roofs, within stone enclosures for the elite; sorghum, millet and cattle.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Great Zimbabwe"
       }
     },
     "connections": {
@@ -274,7 +286,7 @@
         "source": "Wikipedia: Kingdom of Great Zimbabwe (checked 6 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "The 14th century.",
+        "value": "The 14th century, when the Great Enclosure was built.",
         "year": 1350,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Great Zimbabwe (checked 6 Nov 2026)"

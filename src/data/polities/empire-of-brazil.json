@@ -55,7 +55,7 @@
         "source": "—"
       },
       "climate": {
-        "value": "Tropical to subtropical.",
+        "value": "Tropical in the north and centre, subtropical in the south.",
         "year": null,
         "certainty": "estimated",
         "source": "—"
@@ -213,6 +213,12 @@
         "year": null,
         "certainty": "estimated",
         "source": "Barman, Citizen Emperor: Pedro II and the Making of Brazil (1999)"
+      },
+      "communicationTransport": {
+        "value": "Ships along the coast; the first railway (1854) and the telegraph.",
+        "year": 1854,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Empire of Brazil"
       }
     },
     "culture": {
@@ -223,7 +229,7 @@
         "source": "Wikipedia: Empire of Brazil (checked 6 Nov 2026) (infobox)"
       },
       "languageWriting": {
-        "value": "Portuguese.",
+        "value": "Portuguese; many Indigenous and African languages were also spoken.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Empire of Brazil (checked 6 Nov 2026) (infobox)"
@@ -245,6 +251,12 @@
         "year": 1822,
         "certainty": "confirmed",
         "source": "Wikipedia: Empire of Brazil (checked 6 Nov 2026) (infobox)"
+      },
+      "dailyLife": {
+        "value": "Plantation “big houses” and slave quarters; city houses in Rio; rice, beans and manioc flour.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Empire of Brazil"
       }
     },
     "connections": {

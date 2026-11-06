@@ -120,7 +120,7 @@
         "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
       },
       "keyRulers": {
-        "value": "No rulers are known by name.",
+        "value": "No rulers are known by name; there was no writing.",
         "year": null,
         "certainty": "estimated",
         "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
@@ -158,7 +158,7 @@
         "source": "Wikipedia: Caral–Supe civilization (checked 6 Nov 2026)"
       },
       "majorWars": {
-        "value": "None known.",
+        "value": "None known; no defensive walls or weapons have been found.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Caral–Supe civilization (checked 6 Nov 2026)"
@@ -190,10 +190,16 @@
         "source": "Wikipedia: Caral–Supe civilization (checked 6 Nov 2026)"
       },
       "openness": {
-        "value": "Unknown.",
+        "value": "Unknown; it exchanged goods with fishing villages on the coast.",
         "year": null,
         "certainty": "estimated",
         "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
+      },
+      "communicationTransport": {
+        "value": "Travel on foot along the coast and up river valleys; quipu-like knotted cords may have recorded information.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Caral–Supe civilization"
       }
     },
     "culture": {
@@ -226,6 +232,12 @@
         "year": null,
         "certainty": "estimated",
         "source": "Shady Solís et al., Science 292 (2001); Mann, 1491 (2005)"
+      },
+      "dailyLife": {
+        "value": "Stone and mud houses near large platform mounds; diets of anchovies and sardines from the coast, plus squash, beans and cotton grown inland.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Caral–Supe civilization"
       }
     },
     "connections": {

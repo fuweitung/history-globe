@@ -1,0 +1,323 @@
+{
+  "id": "kazakh-khanate",
+  "name": "Kazakh Khanate",
+  "era": "early_modern",
+  "region": "Central Asia (steppe)",
+  "startYear": 1465,
+  "endYear": 1847,
+  "datesApproximate": true,
+  "capital": "Turkistan (and others)",
+  "capitalCoords": [
+    68.25,
+    43.3
+  ],
+  "summary": "A nomadic state on the Central Asian steppe, founded around 1465 by Kerei and Janibek, who broke away from the Uzbek Khanate. It split into three hordes (zhuz) and came under Russian rule step by step until 1847.",
+  "wikiTitle": "Kazakh Khanate",
+  "borderNames": [
+    "Quazaq Khanate",
+    "Kazakh Khanate"
+  ],
+  "borderYears": [
+    1465,
+    1847
+  ],
+  "color": "#4fa3b8",
+  "knownFor": [
+    {
+      "label": "Yurt",
+      "kind": "tool",
+      "note": "A portable round felt house that could be packed onto camels and horses."
+    },
+    {
+      "label": "Three zhuz (hordes)",
+      "kind": "idea",
+      "year": 1700,
+      "note": "The Senior, Middle and Junior hordes that organised Kazakh tribes."
+    },
+    {
+      "label": "Dombra",
+      "kind": "art",
+      "note": "A two-stringed lute used to play epic songs and kuy melodies."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The steppes of present-day Kazakhstan, from the Caspian Sea to the Altai Mountains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "terrain": {
+        "value": "Flat grassland, semi-desert and some mountains in the south-east.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "climate": {
+        "value": "Very continental: hot summers and very cold winters.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "resources": {
+        "value": "Grazing for horses, sheep and camels; salt; trade cities on the Syr Darya.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "disasters": {
+        "value": "Zhut: winters when ice covered the grass and animals starved.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kazakh Khanate"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Perhaps about 1 million people in the 16th century.",
+        "year": 1550,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "urbanisation": {
+        "value": "Mostly nomadic; a few oasis towns such as Turkistan and Sayram.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "disease": {
+        "value": "Little is recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "migration": {
+        "value": "Seasonal migration between summer and winter pastures; Kazakhs fled west during Dzungar invasions (the “Great Disaster”, 1723).",
+        "year": 1723,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakh Khanate"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Pastoral nomadism: herding horses, sheep, goats and camels.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "tradeRoutes": {
+        "value": "Traded animals with Bukhara, Khiva and Russian frontier towns for grain, cloth and metal goods.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "wealth": {
+        "value": "Wealth was counted in livestock.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "moneyAndTax": {
+        "value": "Tribute and gifts to khans and sultans; no coinage of its own.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "inequality": {
+        "value": "Descendants of Genghis Khan (the “white bone”) ranked above commoners (the “black bone”).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakh Khanate"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A khanate led by Genghisid khans, with tribal chiefs (biys) and assemblies.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "keyRulers": {
+        "value": "Kerei and Janibek (founders). Kasym Khan (1511–1521). Tauke Khan (law code, about 1680–1715). Ablai Khan (1771–1781). Kenesary Kasymov (revolt, 1837–1847).",
+        "year": 1511,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "succession": {
+        "value": "Khans were chosen from Genghisid families by the leaders of the tribes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "institutions": {
+        "value": "Customary law (adat); Tauke Khan’s code “Zheti Zhargy” (the Seven Charters).",
+        "year": 1700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "stability": {
+        "value": "Often divided into rival hordes, each with its own khan.",
+        "year": 1700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "eliteConflict": {
+        "value": "Rivalry between sultans of different Genghisid lines.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kazakh Khanate"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Mounted archers; later firearms bought from Russia and Central Asia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "majorWars": {
+        "value": "Long wars against the Dzungar (Oirat) Khanate (1643–1756), including the Battle of Anrakay (about 1729).",
+        "year": 1729,
+        "certainty": "disputed",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "territoryChange": {
+        "value": "Russia absorbed the Junior (1731), Middle and Senior hordes gradually, abolishing the khans by 1847.",
+        "year": 1731,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "alliancesRivals": {
+        "value": "Sought Russian protection against the Dzungars; relations with Qing China after 1757.",
+        "year": 1731,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakh Khanate"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Felt-making, portable homes, horse breeding.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "scienceEducation": {
+        "value": "Oral epics and poetry passed on by singers (akyn and zhyrau).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "openness": {
+        "value": "Open trade with neighbours; a mobile, tribal society.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "communicationTransport": {
+        "value": "Horses and camels; whole camps moved with the seasons.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakh Khanate"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sunni Islam mixed with older steppe beliefs (Tengrism, shamans).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "languageWriting": {
+        "value": "Kazakh, a Turkic language; Chagatai Turkic or Persian in writing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "artsArchitecture": {
+        "value": "Epic poetry, felt carpets, decorated harness and jewellery; the Mausoleum of Khoja Ahmed Yasawi in Turkistan.",
+        "year": 1400,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "socialStructure": {
+        "value": "Clans and tribes grouped into three hordes; khans and sultans above commoners.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "sharedIdentity": {
+        "value": "Kazakh identity formed through the shared hordes, language and epics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "dailyLife": {
+        "value": "Felt yurts; meat, milk, kumis and cheese (kurt).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakh Khanate"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "The Dzungars, Uzbek khanates, Siberian Khanate, the Nogai Horde, Russia and Qing China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "ideasReligions": {
+        "value": "Islam spread through Sufi orders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "colonisation": {
+        "value": "Absorbed into the Russian Empire; Russian forts and settlers followed.",
+        "year": 1847,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakh Khanate"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "The breakaway from Abu’l-Khayr’s Uzbek Khanate attracted many tribes to Kerei and Janibek.",
+        "year": 1465,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "peakPeriod": {
+        "value": "Strongest under Kasym Khan in the early 16th century.",
+        "year": 1520,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "declineSignals": {
+        "value": "Divisions between the hordes and the Dzungar invasions weakened it.",
+        "year": 1723,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "outcome": {
+        "value": "Annexed by the Russian Empire after the defeat of Kenesary’s revolt (1847).",
+        "year": 1847,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakh Khanate"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Kazakh Khanate; Olcott, The Kazakhs (1995).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kazakh Khanate"
+      },
+      "overallCertainty": {
+        "value": "The founding date and many events are known mainly from later chronicles and are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kazakh Khanate"
+      }
+    }
+  }
+}

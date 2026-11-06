@@ -32,7 +32,7 @@
         "source": "Wikipedia: Māori people (checked 6 Nov 2026)"
       },
       "terrain": {
-        "value": "Mountains, forests and coasts.",
+        "value": "Mountains, volcanic plateaus, dense forests and long coasts on two main islands.",
         "year": null,
         "certainty": "estimated",
         "source": "King, The Penguin History of New Zealand (2003)"
@@ -44,13 +44,13 @@
         "source": "King, The Penguin History of New Zealand (2003)"
       },
       "resources": {
-        "value": "Kūmara, fish, birds (moa), pounamu.",
+        "value": "Kūmara (sweet potato), fish and shellfish, birds (including the moa until it died out), and pounamu (greenstone).",
         "year": null,
         "certainty": "estimated",
         "source": "King, The Penguin History of New Zealand (2003)"
       },
       "disasters": {
-        "value": "Volcanic eruptions.",
+        "value": "Volcanic eruptions (such as Tarawera, 1886) and earthquakes.",
         "year": null,
         "certainty": "estimated",
         "source": "King, The Penguin History of New Zealand (2003)"
@@ -58,13 +58,13 @@
     },
     "population": {
       "population": {
-        "value": "About 100,000 at European contact.",
+        "value": "About 100,000 at the time of Cook’s visit (1769), by many estimates.",
         "year": 1769,
         "certainty": "estimated",
         "source": "King, The Penguin History of New Zealand (2003)"
       },
       "urbanisation": {
-        "value": "Fortified villages (pā).",
+        "value": "Fortified hilltop villages (pā), some very large, and open villages (kāinga).",
         "year": null,
         "certainty": "estimated",
         "source": "King, The Penguin History of New Zealand (2003)"
@@ -84,13 +84,13 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming kūmara, fishing and hunting.",
+        "value": "Growing kūmara in the warmer north, fishing, hunting birds and gathering fern root.",
         "year": null,
         "certainty": "estimated",
         "source": "King, The Penguin History of New Zealand (2003)"
       },
       "tradeRoutes": {
-        "value": "Pounamu traded across the islands.",
+        "value": "Pounamu from the South Island and obsidian were traded across both islands.",
         "year": null,
         "certainty": "estimated",
         "source": "King, The Penguin History of New Zealand (2003)"
@@ -102,13 +102,13 @@
         "source": "King, The Penguin History of New Zealand (2003)"
       },
       "moneyAndTax": {
-        "value": "No money; gift exchange.",
+        "value": "No money; gifts and exchange between kin groups.",
         "year": null,
         "certainty": "estimated",
         "source": "King, The Penguin History of New Zealand (2003)"
       },
       "inequality": {
-        "value": "Chiefs (rangatira) and commoners.",
+        "value": "Chiefs (rangatira) and commoners; captives taken in war became slaves.",
         "year": null,
         "certainty": "estimated",
         "source": "King, The Penguin History of New Zealand (2003)"
@@ -128,25 +128,25 @@
         "source": "King, The Penguin History of New Zealand (2003)"
       },
       "succession": {
-        "value": "Through genealogy (whakapapa).",
+        "value": "Leadership passed through genealogy (whakapapa), usually to senior lines, but ability mattered too.",
         "year": null,
         "certainty": "estimated",
         "source": "King, The Penguin History of New Zealand (2003)"
       },
       "institutions": {
-        "value": "Tapu and mana.",
+        "value": "Tapu (sacredness) and mana (authority and prestige) governed social life.",
         "year": null,
         "certainty": "estimated",
         "source": "King, The Penguin History of New Zealand (2003)"
       },
       "stability": {
-        "value": "The Musket Wars (1807–1842).",
+        "value": "The Musket Wars (about 1807–1842) between iwi killed thousands after muskets arrived.",
         "year": 1807,
         "certainty": "estimated",
         "source": "King, The Penguin History of New Zealand (2003)"
       },
       "eliteConflict": {
-        "value": "Inter-tribal warfare.",
+        "value": "Warfare between iwi (tribes) and hapū (sub-tribes) over land and honour.",
         "year": null,
         "certainty": "estimated",
         "source": "King, The Penguin History of New Zealand (2003)"
@@ -166,13 +166,13 @@
         "source": "King, The Penguin History of New Zealand (2003)"
       },
       "territoryChange": {
-        "value": "Lost much land after 1840.",
+        "value": "Lost most land after 1840 through sales, confiscation and wars.",
         "year": null,
         "certainty": "estimated",
         "source": "King, The Penguin History of New Zealand (2003)"
       },
       "alliancesRivals": {
-        "value": "Rival iwi.",
+        "value": "Iwi allied and fought with each other; some fought on the Crown’s side in the New Zealand Wars.",
         "year": null,
         "certainty": "estimated",
         "source": "King, The Penguin History of New Zealand (2003)"
@@ -186,7 +186,7 @@
         "source": "Wikipedia: Māori people (checked 6 Nov 2026)"
       },
       "scienceEducation": {
-        "value": "Oral knowledge in whare wānanga.",
+        "value": "Knowledge passed on orally in houses of learning (whare wānanga), including navigation and genealogy.",
         "year": null,
         "certainty": "estimated",
         "source": "King, The Penguin History of New Zealand (2003)"
@@ -196,55 +196,67 @@
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Māori people (checked 6 Nov 2026)"
+      },
+      "communicationTransport": {
+        "value": "Waka (canoes) on rivers, lakes and the sea; walking tracks over mountain passes to reach pounamu.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Māori people"
       }
     },
     "culture": {
       "religion": {
-        "value": "Māori religion, later Christianity.",
+        "value": "Māori religion with gods such as Tāne and Tangaroa; most Māori became Christian in the 19th century.",
         "year": null,
         "certainty": "estimated",
         "source": "King, The Penguin History of New Zealand (2003)"
       },
       "languageWriting": {
-        "value": "Te reo Māori.",
+        "value": "Te reo Māori, an oral language until missionaries wrote it in the Latin alphabet (1810s–20s).",
         "year": null,
         "certainty": "estimated",
         "source": "King, The Penguin History of New Zealand (2003)"
       },
       "artsArchitecture": {
-        "value": "Carved meeting houses, tā moko.",
+        "value": "Carved meeting houses (wharenui), tā moko (tattoo), weaving and the haka.",
         "year": null,
         "certainty": "estimated",
         "source": "King, The Penguin History of New Zealand (2003)"
       },
       "socialStructure": {
-        "value": "Rangatira, commoners, slaves.",
+        "value": "Rangatira (chiefs), commoners and slaves, within whānau, hapū and iwi.",
         "year": null,
         "certainty": "estimated",
         "source": "King, The Penguin History of New Zealand (2003)"
       },
       "sharedIdentity": {
-        "value": "Whakapapa.",
+        "value": "Identity based on whakapapa (genealogy) linking people to ancestors, canoes and land.",
         "year": null,
         "certainty": "estimated",
         "source": "King, The Penguin History of New Zealand (2003)"
+      },
+      "dailyLife": {
+        "value": "Whare (houses) of wood and raupō reeds; kūmara, fern root, fish and birds; cooking in earth ovens (hāngī).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Māori people"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "Moriori; Europeans.",
+        "value": "The Moriori of the Chatham Islands; later European and American traders and settlers.",
         "year": null,
         "certainty": "estimated",
         "source": "King, The Penguin History of New Zealand (2003)"
       },
       "ideasReligions": {
-        "value": "Christianity.",
+        "value": "Christianity spread through missions from 1814; the Kīngitanga (King Movement) began in 1858.",
         "year": null,
         "certainty": "estimated",
         "source": "King, The Penguin History of New Zealand (2003)"
       },
       "colonisation": {
-        "value": "The Treaty of Waitangi (1840).",
+        "value": "The Treaty of Waitangi (1840) between the British Crown and Māori chiefs; its meaning is still debated.",
         "year": 1840,
         "certainty": "confirmed",
         "source": "Wikipedia: Māori people (checked 6 Nov 2026)"
@@ -252,7 +264,7 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Arrival 1320–1350.",
+        "value": "Polynesian voyagers settled Aotearoa around 1320–1350.",
         "year": 1320,
         "certainty": "confirmed",
         "source": "Wikipedia: Māori people (checked 6 Nov 2026)"
@@ -264,13 +276,13 @@
         "source": "King, The Penguin History of New Zealand (2003)"
       },
       "declineSignals": {
-        "value": "Colonisation and land loss.",
+        "value": "Colonisation, land loss and disease reduced the population to about 42,000 by 1896.",
         "year": 1840,
         "certainty": "estimated",
         "source": "King, The Penguin History of New Zealand (2003)"
       },
       "outcome": {
-        "value": "Māori culture continues today.",
+        "value": "Māori culture continues today; about 900,000 people identify as Māori.",
         "year": null,
         "certainty": "estimated",
         "source": "King, The Penguin History of New Zealand (2003)"

@@ -44,7 +44,7 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "The Irrawaddy valley of Myanmar.",
+        "value": "The Irrawaddy valley of central Myanmar, centred on the city of Pagan (Bagan).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Pagan Kingdom (checked 6 Nov 2026)"
@@ -76,7 +76,7 @@
     },
     "population": {
       "population": {
-        "value": "About 1.5–2 million around 1210.",
+        "value": "Perhaps about 1.5–2 million around 1210.",
         "year": 1210,
         "certainty": "confirmed",
         "source": "Wikipedia: Pagan Kingdom (checked 6 Nov 2026)"
@@ -120,7 +120,7 @@
         "source": "Lieberman, Strange Parallels vol. 1 (2003)"
       },
       "moneyAndTax": {
-        "value": "Silver by weight (kyat).",
+        "value": "Silver used by weight (the kyat), and rice; land given to temples was tax-free.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Pagan Kingdom (checked 6 Nov 2026)"
@@ -158,13 +158,13 @@
         "source": "Lieberman, Strange Parallels vol. 1 (2003)"
       },
       "stability": {
-        "value": "Stable at its peak (1174–1250).",
+        "value": "Stable at its height (about 1174–1250).",
         "year": null,
         "certainty": "estimated",
         "source": "Lieberman, Strange Parallels vol. 1 (2003)"
       },
       "eliteConflict": {
-        "value": "Monastic land drained royal revenue.",
+        "value": "Large gifts of tax-free land to monasteries drained royal revenue.",
         "year": null,
         "certainty": "estimated",
         "source": "Lieberman, Strange Parallels vol. 1 (2003)"
@@ -178,7 +178,7 @@
         "source": "Lieberman, Strange Parallels vol. 1 (2003)"
       },
       "majorWars": {
-        "value": "Mongol invasions (1277–1287).",
+        "value": "The Mongol invasions (1277–1287) broke the kingdom’s power.",
         "year": 1287,
         "certainty": "confirmed",
         "source": "Wikipedia: Pagan Kingdom (checked 6 Nov 2026)"
@@ -198,7 +198,7 @@
     },
     "technology": {
       "inventions": {
-        "value": "Irrigation works and weirs.",
+        "value": "Irrigation works, weirs and canals in the dry zone.",
         "year": null,
         "certainty": "estimated",
         "source": "Lieberman, Strange Parallels vol. 1 (2003)"
@@ -210,10 +210,16 @@
         "source": "Lieberman, Strange Parallels vol. 1 (2003)"
       },
       "openness": {
-        "value": "Close religious contact with Sri Lanka.",
+        "value": "Close religious contact with Sri Lanka, the source of its Theravada Buddhism.",
         "year": null,
         "certainty": "estimated",
         "source": "Lieberman, Strange Parallels vol. 1 (2003)"
+      },
+      "communicationTransport": {
+        "value": "Boats on the Irrawaddy River; roads to irrigated rice lands.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pagan Kingdom"
       }
     },
     "culture": {
@@ -246,6 +252,12 @@
         "year": null,
         "certainty": "estimated",
         "source": "Lieberman, Strange Parallels vol. 1 (2003)"
+      },
+      "dailyLife": {
+        "value": "Wooden houses (only temples were brick); rice, fish paste and vegetables.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pagan Kingdom"
       }
     },
     "connections": {

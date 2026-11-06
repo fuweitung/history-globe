@@ -36,19 +36,19 @@
         "source": "Seth, A History of Korea (2010)"
       },
       "climate": {
-        "value": "Cold continental winters.",
+        "value": "Cold continental: long, cold winters and warm summers.",
         "year": null,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
       },
       "resources": {
-        "value": "Iron, horses, farmland.",
+        "value": "Iron, horses, timber and farmland in the river valleys.",
         "year": null,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
       },
       "disasters": {
-        "value": "Unknown.",
+        "value": "Unknown in detail; the Samguk sagi mentions droughts, locusts and famines.",
         "year": null,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
@@ -62,13 +62,13 @@
         "source": "Wikipedia: Goguryeo (checked 6 Nov 2026)"
       },
       "urbanisation": {
-        "value": "Pyongyang became the capital in 427.",
+        "value": "Pyongyang became the capital in 427; earlier capitals were in the mountains along the Yalu River.",
         "year": 427,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
       },
       "disease": {
-        "value": "Unknown.",
+        "value": "Unknown; chronicles mention epidemics.",
         "year": null,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
@@ -82,31 +82,31 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming, hunting and tribute.",
+        "value": "Farming, hunting and tribute taken from neighbouring peoples.",
         "year": null,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
       },
       "tradeRoutes": {
-        "value": "Contact with China and the steppe.",
+        "value": "Contact with Chinese states, the northern steppe and the other Korean kingdoms.",
         "year": null,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
       },
       "wealth": {
-        "value": "No estimate is possible.",
+        "value": "No estimate is possible; royal tombs show great wealth.",
         "year": null,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
       },
       "moneyAndTax": {
-        "value": "Taxes in grain and cloth.",
+        "value": "Taxes paid in grain and cloth; no coinage of its own is known.",
         "year": null,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
       },
       "inequality": {
-        "value": "Aristocratic clans.",
+        "value": "Ruled by aristocratic clans; slaves and commoners at the bottom.",
         "year": null,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
@@ -114,7 +114,7 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Monarchy with powerful aristocrats.",
+        "value": "A monarchy with powerful aristocrats, centralised over time.",
         "year": null,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
@@ -126,25 +126,25 @@
         "source": "Seth, A History of Korea (2010)"
       },
       "succession": {
-        "value": "Hereditary.",
+        "value": "Hereditary in the royal Go family; at first sometimes brother to brother, later father to son.",
         "year": null,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
       },
       "institutions": {
-        "value": "Aristocratic council.",
+        "value": "An aristocratic council and ranks of officials; the Taehak academy (372).",
         "year": null,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
       },
       "stability": {
-        "value": "Strong until civil strife in the 660s.",
+        "value": "Strong for centuries, until internal strife and Tang–Silla attacks in the 660s.",
         "year": null,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
       },
       "eliteConflict": {
-        "value": "Sons of Yeon Gaesomun quarrelled.",
+        "value": "After Yeon Gaesomun died (about 666), his sons fought each other, weakening the state.",
         "year": 666,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
@@ -184,65 +184,77 @@
         "source": "Seth, A History of Korea (2010)"
       },
       "scienceEducation": {
-        "value": "A national academy (Taehak, 372).",
+        "value": "A national academy (Taehak) was founded in 372 to teach Confucian classics.",
         "year": 372,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
       },
       "openness": {
-        "value": "Adopted Buddhism in 372.",
+        "value": "Adopted Buddhism from China in 372 and borrowed Chinese writing and law.",
         "year": 372,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
+      },
+      "communicationTransport": {
+        "value": "Horses for travel and war; mountain fortresses guarding routes; roads to China.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Goguryeo"
       }
     },
     "culture": {
       "religion": {
-        "value": "Buddhism and native beliefs.",
+        "value": "Buddhism (from 372) and native beliefs in heaven and ancestor spirits.",
         "year": null,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
       },
       "languageWriting": {
-        "value": "Goguryeo language; Chinese characters.",
+        "value": "The Goguryeo language (little is known); records were written in Chinese characters.",
         "year": null,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
       },
       "artsArchitecture": {
-        "value": "Tomb murals (UNESCO).",
+        "value": "Painted tomb murals of hunters, dancers and the four guardian animals (World Heritage Sites).",
         "year": null,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
       },
       "socialStructure": {
-        "value": "Aristocrats, commoners, slaves.",
+        "value": "Royal family, aristocrats, commoners and slaves.",
         "year": null,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
       },
       "sharedIdentity": {
-        "value": "Descent from Buyeo.",
+        "value": "Claimed descent from the Buyeo people and the founder Jumong.",
         "year": null,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
+      },
+      "dailyLife": {
+        "value": "Houses with ondol (under-floor heating); millet, beans and meat; tomb murals show kitchens and stables.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Goguryeo"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "Baekje, Silla, China.",
+        "value": "Baekje, Silla, Buyeo, Chinese dynasties and steppe peoples.",
         "year": null,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
       },
       "ideasReligions": {
-        "value": "Buddhism.",
+        "value": "Passed Buddhism and Chinese learning on to Japan (for example the monk Hyeja).",
         "year": null,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
       },
       "colonisation": {
-        "value": "None.",
+        "value": "None overseas; it expanded on land into Manchuria.",
         "year": null,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
@@ -250,25 +262,25 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Founded 37 BCE.",
+        "value": "Founded in 37 BCE according to tradition, near the Yalu River.",
         "year": -37,
         "certainty": "confirmed",
         "source": "Wikipedia: Goguryeo (checked 6 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Under Gwanggaeto and Jangsu.",
+        "value": "Under King Gwanggaeto (391–413) and King Jangsu (413–491), when it ruled much of Manchuria and northern Korea.",
         "year": 413,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
       },
       "declineSignals": {
-        "value": "Wars with Tang.",
+        "value": "Long wars with the Sui and Tang (598–668) drained its strength.",
         "year": 645,
         "certainty": "estimated",
         "source": "Seth, A History of Korea (2010)"
       },
       "outcome": {
-        "value": "Fell to Silla and Tang in 668.",
+        "value": "Fell to an alliance of Silla and Tang China in 668; refugees later helped found Balhae (698).",
         "year": 668,
         "certainty": "confirmed",
         "source": "Wikipedia: Goguryeo (checked 6 Nov 2026)"

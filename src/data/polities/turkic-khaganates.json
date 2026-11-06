@@ -194,6 +194,12 @@
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: First Turkic Khaganate (checked 6 Nov 2026); Golden, An Introduction to the History of the Turkic Peoples (1992)"
+      },
+      "communicationTransport": {
+        "value": "Horses and camels; control of Silk Road routes; messages written in the Old Turkic runic script.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Turkic Khaganate"
       }
     },
     "culture": {
@@ -226,6 +232,12 @@
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: First Turkic Khaganate (checked 6 Nov 2026)"
+      },
+      "dailyLife": {
+        "value": "Felt yurts that moved with the herds; meat, milk and kumis (fermented mare’s milk).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Turkic Khaganate"
       }
     },
     "connections": {
@@ -250,7 +262,7 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Bumin overthrew the Rouran in 552.",
+        "value": "Bumin Qaghan overthrew the Rouran Khaganate in 552.",
         "year": 552,
         "certainty": "confirmed",
         "source": "Wikipedia: First Turkic Khaganate (checked 6 Nov 2026); Golden, An Introduction to the History of the Turkic Peoples (1992)"

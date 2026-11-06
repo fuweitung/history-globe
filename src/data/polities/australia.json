@@ -1,0 +1,323 @@
+{
+  "id": "australia",
+  "name": "Australia",
+  "era": "modern",
+  "region": "Oceania (Australia)",
+  "startYear": 1901,
+  "endYear": null,
+  "capital": "Canberra (Melbourne until 1927)",
+  "capitalCoords": [
+    149.13,
+    -35.28
+  ],
+  "summary": "A federation formed in 1901 from six British colonies on the continent of Australia, where Aboriginal and Torres Strait Islander peoples have lived for at least 50,000 years.",
+  "wikiTitle": "Australia",
+  "borderNames": [
+    "Australia"
+  ],
+  "borderYears": [
+    1901,
+    null
+  ],
+  "color": "#d8892f",
+  "knownFor": [
+    {
+      "label": "Sydney Opera House",
+      "kind": "monument",
+      "year": 1973,
+      "note": "Designed by Jørn Utzon; a World Heritage Site."
+    },
+    {
+      "label": "Secret ballot",
+      "kind": "idea",
+      "year": 1856,
+      "note": "Developed in the Australian colonies and often called the “Australian ballot”."
+    },
+    {
+      "label": "ANZAC",
+      "kind": "troops",
+      "year": 1915,
+      "note": "The Australian and New Zealand Army Corps, remembered on Anzac Day."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The continent of Australia, Tasmania and nearby islands; about 7.7 million km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      },
+      "terrain": {
+        "value": "A dry interior (the Outback) with deserts; the Great Dividing Range along the east coast; the Great Barrier Reef.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      },
+      "climate": {
+        "value": "Mostly arid or semi-arid; tropical in the north; temperate in the south-east and south-west.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      },
+      "resources": {
+        "value": "Iron ore, coal, gold, natural gas, wool, wheat and beef.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      },
+      "disasters": {
+        "value": "Bushfires (Black Saturday 2009; the 2019–20 fires), droughts, floods and cyclones.",
+        "year": 2019,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 3.8 million in 1901; about 27 million today.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      },
+      "urbanisation": {
+        "value": "One of the most urbanised countries; most people live in coastal cities such as Sydney and Melbourne.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      },
+      "disease": {
+        "value": "The 1918–19 influenza; strict quarantine laws; a public health system (Medicare, 1984).",
+        "year": 1984,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      },
+      "migration": {
+        "value": "British and Irish settlers, then post-war European migrants; Asian immigration since the end of the White Australia policy (1966–73).",
+        "year": 1973,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Wool and gold at first; today mining, farming exports, education and services.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      },
+      "tradeRoutes": {
+        "value": "Shipping to Britain at first; today mostly trade with China, Japan and the rest of Asia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      },
+      "wealth": {
+        "value": "One of the world’s richest countries per person; long periods of growth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      },
+      "moneyAndTax": {
+        "value": "The pound until 1966, then the Australian dollar; income tax and a goods and services tax (2000).",
+        "year": 1966,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      },
+      "inequality": {
+        "value": "Aboriginal and Torres Strait Islander peoples were excluded from many rights; the Stolen Generations of removed children.",
+        "year": 1967,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A federal parliamentary democracy and constitutional monarchy.",
+        "year": 1901,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      },
+      "keyRulers": {
+        "value": "Edmund Barton (first prime minister, 1901). John Curtin. Robert Menzies. Gough Whitlam. Bob Hawke. John Howard. Anthony Albanese.",
+        "year": 1901,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      },
+      "succession": {
+        "value": "Elections with compulsory voting (since 1924); the leader of the majority in the House of Representatives becomes prime minister.",
+        "year": 1924,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      },
+      "institutions": {
+        "value": "Federal Parliament, the High Court, six states and two main territories.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      },
+      "stability": {
+        "value": "Very stable; the dismissal of Whitlam’s government in 1975 caused a constitutional crisis.",
+        "year": 1975,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      },
+      "eliteConflict": {
+        "value": "Tensions between federal and state governments.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Australia"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Small professional forces; large volunteer armies in the World Wars.",
+        "year": 1915,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      },
+      "majorWars": {
+        "value": "First World War (Gallipoli, 1915), Second World War, Korea, Vietnam, Iraq and Afghanistan.",
+        "year": 1915,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      },
+      "territoryChange": {
+        "value": "Took over Papua (1906) and German New Guinea (1920 mandate) until Papua New Guinea’s independence in 1975.",
+        "year": 1975,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      },
+      "alliancesRivals": {
+        "value": "Close to Britain, then to the United States (ANZUS treaty, 1951).",
+        "year": 1951,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "The black box flight recorder, Wi-Fi research (CSIRO), the cochlear implant.",
+        "year": 1978,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      },
+      "scienceEducation": {
+        "value": "Public universities and schools; strong research in medicine and science.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Australia"
+      },
+      "openness": {
+        "value": "Restricted Asian immigration (White Australia policy) until the 1970s; now very multicultural.",
+        "year": 1973,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      },
+      "communicationTransport": {
+        "value": "Railways (with different track widths in each colony), flying doctors, and long highways across the outback.",
+        "year": 1928,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Christian historically; now the largest group says it has no religion.",
+        "year": 2021,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      },
+      "languageWriting": {
+        "value": "English; more than 100 Aboriginal languages survive, many endangered.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      },
+      "artsArchitecture": {
+        "value": "Aboriginal art (including dot painting), the Sydney Opera House, film and literature.",
+        "year": 1973,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      },
+      "socialStructure": {
+        "value": "Egalitarian ideals (“a fair go”); Aboriginal people gained the vote nationally in 1962 and the 1967 referendum counted them in the census.",
+        "year": 1967,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      },
+      "sharedIdentity": {
+        "value": "National identity often linked to the ANZAC story, sport and the outdoors; reconciliation with First Nations is ongoing.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Australia"
+      },
+      "dailyLife": {
+        "value": "Detached suburban houses with gardens; meat, bread, tea; outdoor life and beaches.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Indonesia, Papua New Guinea and New Zealand across the sea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      },
+      "ideasReligions": {
+        "value": "British law and parliamentary traditions; later Asian influences.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Australia"
+      },
+      "colonisation": {
+        "value": "British colonisation from 1788 took Aboriginal land without treaties; the High Court recognised native title in 1992 (Mabo).",
+        "year": 1992,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "The colonies federated in 1901 for common defence, trade and immigration control.",
+        "year": 1901,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      },
+      "peakPeriod": {
+        "value": "Long post-war boom; decades of growth without recession (1991–2020).",
+        "year": 1991,
+        "certainty": "estimated",
+        "source": "Wikipedia: Australia"
+      },
+      "declineSignals": {
+        "value": "Droughts and climate risks; debates about reconciliation.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Australia"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Australia; Wikipedia: History of Australia (1901–1945) and (since 1945); ABS census.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Australia"
+      }
+    }
+  }
+}

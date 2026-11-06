@@ -117,7 +117,7 @@
         "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       },
       "wealth": {
-        "value": "No estimate is possible.",
+        "value": "No estimate is possible; gold and silver were used for temples and the ruler, not as money.",
         "year": null,
         "certainty": "disputed",
         "source": "—"
@@ -217,6 +217,12 @@
         "year": null,
         "certainty": "estimated",
         "source": "D’Altroy, The Incas (2nd ed., 2014)"
+      },
+      "communicationTransport": {
+        "value": "About 40,000 km of roads (Qhapaq Ñan), rope bridges, and relay runners (chasqui) who carried messages and quipu.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire"
       }
     },
     "culture": {
@@ -249,6 +255,12 @@
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
+      },
+      "dailyLife": {
+        "value": "Stone houses with thatched roofs around courtyards; potatoes, maize, quinoa, llama meat and chicha beer.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inca Empire"
       }
     },
     "connections": {
@@ -279,7 +291,7 @@
         "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "The reign of Huayna Capac (1493–1525).",
+        "value": "The reign of Huayna Capac (about 1493–1525), when the empire reached its largest size.",
         "year": 1510,
         "certainty": "confirmed",
         "source": "Wikipedia: Inca Empire (checked 6 Nov 2026)"

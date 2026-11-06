@@ -55,7 +55,7 @@
     },
     "population": {
       "population": {
-        "value": "More than 30 million (301 BCE).",
+        "value": "Perhaps more than 30 million people around 301 BCE (a rough estimate).",
         "year": -301,
         "certainty": "confirmed",
         "source": "Wikipedia: Seleucid Empire (checked 6 Nov 2026)"
@@ -81,7 +81,7 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming, royal taxes and trade.",
+        "value": "Farming, royal taxes and trade between the Mediterranean and Asia.",
         "year": null,
         "certainty": "estimated",
         "source": "Kosmin, The Land of the Elephant Kings (2014)"
@@ -143,7 +143,7 @@
         "source": "Kosmin, The Land of the Elephant Kings (2014)"
       },
       "eliteConflict": {
-        "value": "Rival claimants to the throne.",
+        "value": "Rival claimants to the throne fought frequent civil wars.",
         "year": null,
         "certainty": "estimated",
         "source": "Kosmin, The Land of the Elephant Kings (2014)"
@@ -177,7 +177,7 @@
     },
     "technology": {
       "inventions": {
-        "value": "Little is known.",
+        "value": "Little is known; Babylonian astronomers continued their work under Seleucid rule.",
         "year": null,
         "certainty": "estimated",
         "source": "Kosmin, The Land of the Elephant Kings (2014)"
@@ -193,6 +193,12 @@
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Seleucid Empire (checked 6 Nov 2026); Kosmin, The Land of the Elephant Kings (2014)"
+      },
+      "communicationTransport": {
+        "value": "Used the old Persian roads; Greek-style ports; trade caravans to India.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Seleucid Empire"
       }
     },
     "culture": {
@@ -209,7 +215,7 @@
         "source": "Wikipedia: Seleucid Empire (checked 6 Nov 2026); Kosmin, The Land of the Elephant Kings (2014)"
       },
       "artsArchitecture": {
-        "value": "Hellenistic cities, temples and coins.",
+        "value": "Hellenistic cities such as Antioch and Seleucia, Greek temples and fine coins.",
         "year": null,
         "certainty": "estimated",
         "source": "Kosmin, The Land of the Elephant Kings (2014)"
@@ -225,6 +231,12 @@
         "year": null,
         "certainty": "estimated",
         "source": "Kosmin, The Land of the Elephant Kings (2014)"
+      },
+      "dailyLife": {
+        "value": "Greek-style houses in new cities like Antioch; local mud-brick houses elsewhere; bread, wine, olive oil, dates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Seleucid Empire"
       }
     },
     "connections": {
@@ -241,7 +253,7 @@
         "source": "Wikipedia: Seleucid Empire (checked 6 Nov 2026); Kosmin, The Land of the Elephant Kings (2014)"
       },
       "colonisation": {
-        "value": "Founded Greek colonies across Asia.",
+        "value": "Founded Greek colonies and cities across Asia.",
         "year": null,
         "certainty": "estimated",
         "source": "Kosmin, The Land of the Elephant Kings (2014)"

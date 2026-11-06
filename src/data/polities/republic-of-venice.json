@@ -35,7 +35,7 @@
         "source": "Lane, Venice: A Maritime Republic (1973)"
       },
       "climate": {
-        "value": "Humid subtropical.",
+        "value": "Humid subtropical, with foggy winters and occasional floods (acqua alta).",
         "year": null,
         "certainty": "estimated",
         "source": "Lane, Venice: A Maritime Republic (1973)"
@@ -105,7 +105,7 @@
         "source": "Lane, Venice: A Maritime Republic (1973)"
       },
       "inequality": {
-        "value": "A closed noble class ruled.",
+        "value": "A closed noble class ruled after the “Closing of the Great Council” (1297).",
         "year": null,
         "certainty": "estimated",
         "source": "Lane, Venice: A Maritime Republic (1973)"
@@ -131,19 +131,19 @@
         "source": "Lane, Venice: A Maritime Republic (1973)"
       },
       "institutions": {
-        "value": "The Great Council and Council of Ten.",
+        "value": "The Doge, the Great Council, the Senate and the secretive Council of Ten.",
         "year": null,
         "certainty": "estimated",
         "source": "Lane, Venice: A Maritime Republic (1973)"
       },
       "stability": {
-        "value": "Remarkably stable for 1,100 years.",
+        "value": "Remarkably stable for about 1,100 years, with no successful revolution.",
         "year": null,
         "certainty": "estimated",
         "source": "Lane, Venice: A Maritime Republic (1973)"
       },
       "eliteConflict": {
-        "value": "Factional rivalry within the nobility.",
+        "value": "Rivalry between noble families, kept in check by complex voting rules.",
         "year": null,
         "certainty": "estimated",
         "source": "Lane, Venice: A Maritime Republic (1973)"
@@ -169,7 +169,7 @@
         "source": "Wikipedia: Republic of Venice (checked 6 Nov 2026)"
       },
       "alliancesRivals": {
-        "value": "Rivals: Genoa, the Ottomans.",
+        "value": "Rivals included Genoa (four wars) and the Ottoman Empire.",
         "year": null,
         "certainty": "estimated",
         "source": "Lane, Venice: A Maritime Republic (1973)"
@@ -183,27 +183,33 @@
         "source": "Lane, Venice: A Maritime Republic (1973)"
       },
       "scienceEducation": {
-        "value": "Book printing centre (Aldine Press).",
+        "value": "A leading centre of book printing (Aldus Manutius’s Aldine Press, 1494); the University of Padua.",
         "year": null,
         "certainty": "estimated",
         "source": "Lane, Venice: A Maritime Republic (1973)"
       },
       "openness": {
-        "value": "Open to trade with the Islamic world.",
+        "value": "Open to trade with the Islamic world and Asia, while defending its Catholic identity.",
         "year": null,
         "certainty": "estimated",
         "source": "Lane, Venice: A Maritime Republic (1973)"
+      },
+      "communicationTransport": {
+        "value": "Gondolas and boats on the canals; state-built galleys sailed in convoys (the muda) to the eastern Mediterranean.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Venice"
       }
     },
     "culture": {
       "religion": {
-        "value": "Catholic Christianity.",
+        "value": "Catholic Christianity, with a strong independent streak towards the Pope.",
         "year": null,
         "certainty": "estimated",
         "source": "Lane, Venice: A Maritime Republic (1973)"
       },
       "languageWriting": {
-        "value": "Venetian and Italian; Latin.",
+        "value": "Venetian and Italian; Latin for law and learning.",
         "year": null,
         "certainty": "estimated",
         "source": "Lane, Venice: A Maritime Republic (1973)"
@@ -215,16 +221,22 @@
         "source": "Lane, Venice: A Maritime Republic (1973)"
       },
       "socialStructure": {
-        "value": "Nobles, citizens, commoners.",
+        "value": "Nobles (patricians), citizens (cittadini) and commoners (popolani).",
         "year": null,
         "certainty": "estimated",
         "source": "Lane, Venice: A Maritime Republic (1973)"
       },
       "sharedIdentity": {
-        "value": "Loyalty to “the Most Serene Republic”.",
+        "value": "Loyalty to “the Most Serene Republic” and its patron saint, Mark.",
         "year": null,
         "certainty": "estimated",
         "source": "Lane, Venice: A Maritime Republic (1973)"
+      },
+      "dailyLife": {
+        "value": "Houses on wooden piles in the lagoon; fish, bread, rice and wine; spices from the East for the rich.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Republic of Venice"
       }
     },
     "connections": {
@@ -235,13 +247,13 @@
         "source": "Lane, Venice: A Maritime Republic (1973)"
       },
       "ideasReligions": {
-        "value": "Renaissance art.",
+        "value": "Renaissance painting (Titian, Tintoretto) and music (Vivaldi).",
         "year": null,
         "certainty": "estimated",
         "source": "Lane, Venice: A Maritime Republic (1973)"
       },
       "colonisation": {
-        "value": "Overseas colonies (Stato da Mar).",
+        "value": "Overseas colonies (the Stato da Mar) such as Crete, Cyprus and Dalmatian ports.",
         "year": null,
         "certainty": "estimated",
         "source": "Lane, Venice: A Maritime Republic (1973)"
@@ -249,25 +261,25 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Founded in 697 by tradition.",
+        "value": "By tradition its first doge was elected in 697; it grew as a trading port between Byzantium and the West.",
         "year": 697,
         "certainty": "confirmed",
         "source": "Wikipedia: Republic of Venice (checked 6 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "13th–16th centuries.",
+        "value": "The 13th–16th centuries, when it dominated trade in the eastern Mediterranean.",
         "year": 1450,
         "certainty": "confirmed",
         "source": "Wikipedia: Republic of Venice (checked 6 Nov 2026)"
       },
       "declineSignals": {
-        "value": "Ottoman wars and Atlantic trade.",
+        "value": "Wars with the Ottomans and the shift of trade to the Atlantic.",
         "year": null,
         "certainty": "estimated",
         "source": "Lane, Venice: A Maritime Republic (1973)"
       },
       "outcome": {
-        "value": "Ended by Napoleon in 1797.",
+        "value": "Ended by Napoleon in 1797 and handed to Austria.",
         "year": 1797,
         "certainty": "estimated",
         "source": "Lane, Venice: A Maritime Republic (1973)"

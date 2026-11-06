@@ -94,7 +94,7 @@
         "source": "Wikipedia: Indus Valley Civilisation (checked 6 Nov 2026)"
       },
       "disease": {
-        "value": "Not documented in the sources checked.",
+        "value": "Not documented in the sources checked; some skeletons show leprosy and tuberculosis.",
         "year": null,
         "certainty": "estimated",
         "source": "—"
@@ -164,7 +164,7 @@
         "source": "Wikipedia: Indus Valley Civilisation (checked 6 Nov 2026)"
       },
       "stability": {
-        "value": "Little evidence of large-scale warfare.",
+        "value": "Little evidence of large-scale warfare during the mature period.",
         "year": null,
         "certainty": "estimated",
         "source": "Possehl, The Indus Civilization (2002)"
@@ -196,7 +196,7 @@
         "source": "Wikipedia: Indus Valley Civilisation (checked 6 Nov 2026)"
       },
       "alliancesRivals": {
-        "value": "Unknown.",
+        "value": "Unknown; traded with Mesopotamia (Meluhha in Mesopotamian texts).",
         "year": null,
         "certainty": "disputed",
         "source": "—"
@@ -220,6 +220,12 @@
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Indus Valley Civilisation (checked 6 Nov 2026)"
+      },
+      "communicationTransport": {
+        "value": "Ox carts with solid wheels, river boats, and sea trade to Mesopotamia; standard weights and seals marked goods.",
+        "year": -2500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indus Valley Civilisation"
       }
     },
     "culture": {
@@ -252,6 +258,12 @@
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Indus Valley Civilisation (checked 6 Nov 2026)"
+      },
+      "dailyLife": {
+        "value": "Baked-brick houses with private bathrooms and covered drains, on gridded streets; wheat, barley, peas, dates; cotton cloth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indus Valley Civilisation"
       }
     },
     "connections": {

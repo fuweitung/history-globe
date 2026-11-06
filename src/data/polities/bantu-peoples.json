@@ -1,0 +1,323 @@
+{
+  "id": "bantu-peoples",
+  "name": "Bantu-speaking peoples",
+  "era": "ancient",
+  "region": "Central, East & Southern Africa",
+  "startYear": -3000,
+  "endYear": null,
+  "datesApproximate": true,
+  "capital": "None (many societies)",
+  "capitalCoords": [
+    23.5,
+    -5.5
+  ],
+  "summary": "Hundreds of peoples speaking related Bantu languages, who spread from the area of today’s Cameroon and Nigeria across central, eastern and southern Africa over about 3,000 years, bringing farming and iron working. On the map, this covers the areas not shown as particular kingdoms.",
+  "wikiTitle": "Bantu peoples",
+  "borderNames": [
+    "Bantu peoples",
+    "Bantu"
+  ],
+  "borderYears": [
+    -3000,
+    1500
+  ],
+  "color": "#9c6b3c",
+  "knownFor": [
+    {
+      "label": "Iron smelting",
+      "kind": "tool",
+      "year": -500,
+      "note": "Furnaces for making iron tools and weapons spread with Bantu-speaking farmers."
+    },
+    {
+      "label": "Talking drums",
+      "kind": "art",
+      "note": "Drums that copy the tones of speech to send messages."
+    },
+    {
+      "label": "Ubuntu",
+      "kind": "idea",
+      "note": "The idea that a person is a person through other people."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Most of Africa south of the equator, from Cameroon to South Africa and Kenya.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "terrain": {
+        "value": "Rainforest, savannah, highlands and great lakes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "climate": {
+        "value": "Tropical: wet in the rainforest, with wet and dry seasons on the savannah.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "resources": {
+        "value": "Farmland, iron ore, copper, cattle pasture, ivory.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "disasters": {
+        "value": "Droughts and locusts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown; grew with the spread of farming.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "urbanisation": {
+        "value": "Mostly villages; later towns and capitals of kingdoms (Mbanza Kongo, Great Zimbabwe).",
+        "year": 1200,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "disease": {
+        "value": "Malaria and sleeping sickness limited cattle in some areas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "migration": {
+        "value": "The Bantu expansion: a long, slow movement of farming peoples east and south, roughly 1500 BCE–500 CE.",
+        "year": -1000,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming yams, millet and sorghum; later bananas and cattle; iron tools.",
+        "year": -500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "tradeRoutes": {
+        "value": "Trade in salt, iron, copper and cloth; later links to the Indian Ocean coast (Swahili towns).",
+        "year": 900,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "wealth": {
+        "value": "Wealth in cattle, people and iron.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "moneyAndTax": {
+        "value": "Cowrie shells, copper crosses and cloth as currency in some regions.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "inequality": {
+        "value": "From fairly equal villages to kingdoms with ruling families.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Many forms: village councils, chiefdoms and kingdoms (such as Kongo, Luba, Lunda, Buganda, Mutapa).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "keyRulers": {
+        "value": "Too many to list; see the separate kingdoms (Kongo, Great Zimbabwe, Zulu Kingdom).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "succession": {
+        "value": "Often through the mother’s or the father’s family line, depending on the people.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "institutions": {
+        "value": "Councils of elders, age groups and kinship.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "stability": {
+        "value": "Varied greatly by region and period.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "eliteConflict": {
+        "value": "Disputes between lineages and rival heirs.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Iron spears and shields.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "majorWars": {
+        "value": "Wars between kingdoms; resistance to colonisers in the 19th century.",
+        "year": 1880,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "territoryChange": {
+        "value": "Spread over about 9 million km² over many centuries.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "alliancesRivals": {
+        "value": "Traded and mixed with hunter-gatherers (Batwa, Khoisan) and with Swahili and Arab traders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Iron smelting furnaces, new crops and farming methods for tropical soils.",
+        "year": -500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "scienceEducation": {
+        "value": "Knowledge passed on orally by elders and praise singers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "openness": {
+        "value": "Adopted new crops (bananas from Asia, maize from the Americas).",
+        "year": 1600,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "communicationTransport": {
+        "value": "Travel on foot along rivers and paths; dugout canoes on the Congo and the great lakes; talking drums sent messages between villages.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bantu peoples"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Ancestor spirits and a creator god; later Christianity and Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "languageWriting": {
+        "value": "Over 500 related Bantu languages, including Swahili, Zulu, Xhosa, Shona, Kikongo and Lingala.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "artsArchitecture": {
+        "value": "Sculpture, masks, music and dance; stone towns in Zimbabwe.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "socialStructure": {
+        "value": "Kinship groups and clans; kings and commoners in larger states.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "sharedIdentity": {
+        "value": "Shared language family rather than one people.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "dailyLife": {
+        "value": "Villages of round houses with mud walls and thatched roofs; meals of porridge from millet or sorghum, later cassava and bananas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bantu peoples"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Hunter-gatherers, Nilotic and Cushitic peoples, Swahili and Arab traders, later Europeans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "ideasReligions": {
+        "value": "Islam on the coast, Christianity in Kongo (1491) and later missions.",
+        "year": 1491,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "colonisation": {
+        "value": "Colonised by European powers in the late 19th century.",
+        "year": 1885,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Farming and iron allowed populations to grow and spread.",
+        "year": -1000,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "peakPeriod": {
+        "value": "No single peak; kingdoms rose and fell in different centuries.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "declineSignals": {
+        "value": "The Atlantic slave trade and colonisation caused great losses.",
+        "year": 1700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "outcome": {
+        "value": "Today about 350 million people speak Bantu languages.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion; Vansina, How Societies Are Born (2004).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      },
+      "overallCertainty": {
+        "value": "Known mostly from linguistics, archaeology and genetics; the timing of the expansion is debated.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+      }
+    }
+  }
+}

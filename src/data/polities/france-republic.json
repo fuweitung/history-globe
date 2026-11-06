@@ -35,19 +35,19 @@
         "source": "Jackson, De Gaulle (2018)"
       },
       "climate": {
-        "value": "Temperate and Mediterranean.",
+        "value": "Temperate in the north and west, continental in the east, Mediterranean in the south.",
         "year": null,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"
       },
       "resources": {
-        "value": "Farmland, wine, nuclear power.",
+        "value": "Rich farmland, wine regions, forests and a large nuclear power industry (about 70% of electricity).",
         "year": null,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"
       },
       "disasters": {
-        "value": "Heatwaves (2003).",
+        "value": "The 2003 heatwave killed about 15,000 people; floods and storms.",
         "year": null,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"
@@ -55,19 +55,19 @@
     },
     "population": {
       "population": {
-        "value": "About 68 million.",
-        "year": null,
+        "value": "About 68 million, including overseas departments.",
+        "year": 2024,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"
       },
       "urbanisation": {
-        "value": "Paris is the largest city.",
+        "value": "About 80% urban; Paris is by far the largest city, with over 12 million in its metropolitan area.",
         "year": null,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"
       },
       "disease": {
-        "value": "COVID-19.",
+        "value": "AIDS from the 1980s; COVID-19. A universal public health system.",
         "year": null,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"
@@ -87,25 +87,25 @@
         "source": "Jackson, De Gaulle (2018)"
       },
       "tradeRoutes": {
-        "value": "EU and global trade.",
+        "value": "Part of the EU single market; global trade through ports such as Le Havre and Marseille.",
         "year": null,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"
       },
       "wealth": {
-        "value": "A high-income economy.",
+        "value": "A high-income economy; one of the largest in the world.",
         "year": null,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"
       },
       "moneyAndTax": {
-        "value": "The franc, then the euro (2002).",
+        "value": "The new franc (1960), then the euro (2002); high taxes pay for social services.",
         "year": 2002,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"
       },
       "inequality": {
-        "value": "Strong welfare state.",
+        "value": "A strong welfare state keeps inequality lower than in many rich countries; tensions in poorer suburbs.",
         "year": null,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"
@@ -113,7 +113,7 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A semi-presidential republic.",
+        "value": "A semi-presidential republic: a powerful elected president and a prime minister responsible to parliament.",
         "year": null,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"
@@ -125,25 +125,25 @@
         "source": "Jackson, De Gaulle (2018)"
       },
       "succession": {
-        "value": "Elections.",
+        "value": "Direct presidential elections (since 1962) and parliamentary elections.",
         "year": null,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"
       },
       "institutions": {
-        "value": "The 1958 constitution.",
+        "value": "The 1958 constitution of the Fifth Republic, the Constitutional Council, and a centralised civil service.",
         "year": 1958,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"
       },
       "stability": {
-        "value": "The May 1968 protests.",
+        "value": "Generally stable; the May 1968 protests and strikes shook the government.",
         "year": 1968,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"
       },
       "eliteConflict": {
-        "value": "Party politics.",
+        "value": "Competition between left- and right-wing parties, and since 2017 new centrist and populist parties.",
         "year": null,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"
@@ -157,19 +157,19 @@
         "source": "Jackson, De Gaulle (2018)"
       },
       "majorWars": {
-        "value": "The Algerian War ended in 1962.",
+        "value": "The Algerian War ended in 1962; later military operations in Africa and the Middle East.",
         "year": 1962,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"
       },
       "territoryChange": {
-        "value": "Algeria became independent in 1962.",
+        "value": "Algeria and most African colonies became independent around 1960–62.",
         "year": 1962,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"
       },
       "alliancesRivals": {
-        "value": "EU and NATO.",
+        "value": "Founding member of the European Union; a NATO member (left its command 1966–2009).",
         "year": null,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"
@@ -177,54 +177,66 @@
     },
     "technology": {
       "inventions": {
-        "value": "TGV, Concorde, Ariane rockets.",
+        "value": "The TGV high-speed train, Concorde (with Britain), Ariane rockets, the Minitel.",
         "year": null,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"
       },
       "scienceEducation": {
-        "value": "Free public education.",
+        "value": "Free public education; elite grandes écoles; strong research in physics and mathematics.",
         "year": null,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"
       },
       "openness": {
-        "value": "European integration.",
+        "value": "Leading role in European integration; open to world culture while protecting French language and film.",
         "year": null,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"
+      },
+      "communicationTransport": {
+        "value": "The TGV high-speed train (1981), the Paris Métro, motorways and the Channel Tunnel (1994).",
+        "year": 1981,
+        "certainty": "confirmed",
+        "source": "Wikipedia: France"
       }
     },
     "culture": {
       "religion": {
-        "value": "Secular state; Catholic tradition.",
+        "value": "A secular state (laïcité); mostly Catholic tradition; a large Muslim minority.",
         "year": null,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"
       },
       "languageWriting": {
-        "value": "French.",
+        "value": "French, protected by law; regional languages such as Breton and Occitan.",
         "year": null,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"
       },
       "artsArchitecture": {
-        "value": "Cinema, fashion, modern architecture.",
+        "value": "New Wave cinema, fashion houses, the Pompidou Centre and the Louvre Pyramid.",
         "year": null,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"
       },
       "socialStructure": {
-        "value": "Large middle class.",
+        "value": "A large middle class; debates about immigration and integration.",
         "year": null,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"
       },
       "sharedIdentity": {
-        "value": "Liberty, equality, fraternity.",
+        "value": "Republican values of “Liberty, Equality, Fraternity” and a strong national culture.",
         "year": null,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"
+      },
+      "dailyLife": {
+        "value": "Apartments in cities, houses in the countryside; bread, cheese, wine; long family lunches.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: France"
       }
     },
     "connections": {
@@ -235,7 +247,7 @@
         "source": "Jackson, De Gaulle (2018)"
       },
       "ideasReligions": {
-        "value": "Laïcité.",
+        "value": "Laïcité (strict separation of religion and state) and existentialist philosophy.",
         "year": null,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"
@@ -249,7 +261,7 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "De Gaulle’s new constitution.",
+        "value": "Charles de Gaulle’s new constitution (1958) gave the government more stability than the Fourth Republic.",
         "year": 1958,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"
@@ -267,7 +279,7 @@
         "source": "Jackson, De Gaulle (2018)"
       },
       "outcome": {
-        "value": "Continues today as France.",
+        "value": "Continues today as the French Republic.",
         "year": null,
         "certainty": "estimated",
         "source": "Jackson, De Gaulle (2018)"

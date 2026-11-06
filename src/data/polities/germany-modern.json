@@ -36,7 +36,7 @@
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
       },
       "climate": {
-        "value": "Temperate.",
+        "value": "Temperate, with mild summers and cool winters.",
         "year": null,
         "certainty": "estimated",
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
@@ -48,7 +48,7 @@
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
       },
       "disasters": {
-        "value": "Floods (e.g. 2021).",
+        "value": "Floods (the Elbe in 2002 and the Ahr valley in 2021).",
         "year": null,
         "certainty": "estimated",
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
@@ -68,7 +68,7 @@
         "source": "Wikipedia: Germany (checked 6 Nov 2026)"
       },
       "disease": {
-        "value": "COVID-19.",
+        "value": "COVID-19; a universal health insurance system.",
         "year": null,
         "certainty": "estimated",
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
@@ -88,7 +88,7 @@
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
       },
       "tradeRoutes": {
-        "value": "EU single market and world trade.",
+        "value": "The EU single market and world trade; one of the world’s largest exporters.",
         "year": null,
         "certainty": "estimated",
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
@@ -106,7 +106,7 @@
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
       },
       "inequality": {
-        "value": "A strong welfare state.",
+        "value": "A strong welfare state; gaps between former East and West Germany.",
         "year": null,
         "certainty": "estimated",
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
@@ -126,7 +126,7 @@
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
       },
       "succession": {
-        "value": "Elections to the Bundestag.",
+        "value": "Elections to the Bundestag; the chancellor is elected by parliament.",
         "year": null,
         "certainty": "estimated",
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
@@ -138,13 +138,13 @@
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
       },
       "stability": {
-        "value": "Stable democracy.",
+        "value": "A stable democracy since 1949.",
         "year": null,
         "certainty": "estimated",
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
       },
       "eliteConflict": {
-        "value": "Party politics.",
+        "value": "Competition between parties, often governing in coalitions.",
         "year": null,
         "certainty": "estimated",
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
@@ -152,13 +152,13 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "The Bundeswehr in NATO.",
+        "value": "The Bundeswehr, part of NATO since 1955.",
         "year": null,
         "certainty": "estimated",
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
       },
       "majorWars": {
-        "value": "None since 1945.",
+        "value": "No wars since 1945; troops served in Kosovo and Afghanistan.",
         "year": null,
         "certainty": "estimated",
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
@@ -170,7 +170,7 @@
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
       },
       "alliancesRivals": {
-        "value": "NATO and the EU.",
+        "value": "Member of NATO and a founding member of the European communities.",
         "year": null,
         "certainty": "estimated",
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
@@ -178,7 +178,7 @@
     },
     "technology": {
       "inventions": {
-        "value": "Engineering and car industry.",
+        "value": "The MP3 audio format (Fraunhofer), chip cards, and leading car and machine engineering.",
         "year": null,
         "certainty": "estimated",
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
@@ -190,10 +190,16 @@
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
       },
       "openness": {
-        "value": "European integration.",
+        "value": "Strongly committed to European integration and world trade.",
         "year": null,
         "certainty": "estimated",
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      },
+      "communicationTransport": {
+        "value": "The Autobahn network, high-speed ICE trains (1991) and busy airports.",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Germany"
       }
     },
     "culture": {
@@ -210,13 +216,13 @@
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
       },
       "artsArchitecture": {
-        "value": "Bauhaus heritage; modern culture.",
+        "value": "Bauhaus heritage, the rebuilt Reichstag dome, film and music.",
         "year": null,
         "certainty": "estimated",
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
       },
       "socialStructure": {
-        "value": "Large middle class.",
+        "value": "A large middle class; many immigrants since the 1960s.",
         "year": null,
         "certainty": "estimated",
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
@@ -226,6 +232,12 @@
         "year": null,
         "certainty": "estimated",
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
+      },
+      "dailyLife": {
+        "value": "Most people rent apartments; bread, potatoes, sausages and beer; strong recycling habits.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Germany"
       }
     },
     "connections": {
@@ -236,13 +248,13 @@
         "source": "Wikipedia: Germany (checked 6 Nov 2026)"
       },
       "ideasReligions": {
-        "value": "European unity.",
+        "value": "European unity, the social market economy, and remembrance of the Holocaust.",
         "year": null,
         "certainty": "estimated",
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
       },
       "colonisation": {
-        "value": "None after 1919.",
+        "value": "None after 1919, when Germany lost its colonies.",
         "year": null,
         "certainty": "estimated",
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
@@ -250,7 +262,7 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "The post-war “economic miracle”.",
+        "value": "The post-war “economic miracle” of the 1950s.",
         "year": 1950,
         "certainty": "estimated",
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
@@ -268,7 +280,7 @@
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"
       },
       "outcome": {
-        "value": "Continues today as Germany.",
+        "value": "Reunified in 1990; continues today as the Federal Republic of Germany.",
         "year": null,
         "certainty": "estimated",
         "source": "Fulbrook, A History of Germany 1918–2020 (2021)"

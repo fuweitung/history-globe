@@ -36,7 +36,7 @@
         "source": "Potts, The Archaeology of Elam (2016)"
       },
       "climate": {
-        "value": "Hot lowlands and cooler highlands.",
+        "value": "Hot lowlands in Khuzestan and cooler highlands in the Zagros Mountains.",
         "year": null,
         "certainty": "estimated",
         "source": "Potts, The Archaeology of Elam (2016)"
@@ -48,7 +48,7 @@
         "source": "Potts, The Archaeology of Elam (2016)"
       },
       "disasters": {
-        "value": "Unknown.",
+        "value": "Unknown in detail; river floods.",
         "year": null,
         "certainty": "estimated",
         "source": "Potts, The Archaeology of Elam (2016)"
@@ -62,7 +62,7 @@
         "source": "Potts, The Archaeology of Elam (2016)"
       },
       "urbanisation": {
-        "value": "Susa and Anshan were the main centres.",
+        "value": "Susa in the lowlands and Anshan in the highlands were the main cities.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Elam (checked 6 Nov 2026)"
@@ -100,7 +100,7 @@
         "source": "Potts, The Archaeology of Elam (2016)"
       },
       "moneyAndTax": {
-        "value": "No coinage; silver by weight.",
+        "value": "No coinage; silver was used by weight.",
         "year": null,
         "certainty": "estimated",
         "source": "Potts, The Archaeology of Elam (2016)"
@@ -126,7 +126,7 @@
         "source": "Potts, The Archaeology of Elam (2016)"
       },
       "succession": {
-        "value": "Passed among brothers and nephews.",
+        "value": "Power often passed among brothers and nephews rather than from father to son.",
         "year": null,
         "certainty": "estimated",
         "source": "Potts, The Archaeology of Elam (2016)"
@@ -138,13 +138,13 @@
         "source": "Wikipedia: Elam (checked 6 Nov 2026)"
       },
       "stability": {
-        "value": "Repeatedly conquered and revived.",
+        "value": "Conquered and revived several times over more than 2,000 years.",
         "year": null,
         "certainty": "estimated",
         "source": "Potts, The Archaeology of Elam (2016)"
       },
       "eliteConflict": {
-        "value": "Unknown.",
+        "value": "Unknown in detail.",
         "year": null,
         "certainty": "estimated",
         "source": "Potts, The Archaeology of Elam (2016)"
@@ -170,7 +170,7 @@
         "source": "Potts, The Archaeology of Elam (2016)"
       },
       "alliancesRivals": {
-        "value": "Rivals of the Mesopotamian states.",
+        "value": "Rivals of the Mesopotamian states (Sumer, Akkad, Babylon, Assyria).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Elam (checked 6 Nov 2026)"
@@ -178,7 +178,7 @@
     },
     "technology": {
       "inventions": {
-        "value": "Proto-Elamite writing (undeciphered).",
+        "value": "Proto-Elamite writing (about 3100 BCE), one of the oldest scripts, still undeciphered.",
         "year": -3100,
         "certainty": "estimated",
         "source": "Potts, The Archaeology of Elam (2016)"
@@ -194,6 +194,12 @@
         "year": null,
         "certainty": "estimated",
         "source": "Potts, The Archaeology of Elam (2016)"
+      },
+      "communicationTransport": {
+        "value": "Roads linking Susa with the Iranian highlands; donkeys and pack animals; river transport in the lowlands.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Elam"
       }
     },
     "culture": {
@@ -210,22 +216,28 @@
         "source": "Wikipedia: Elam (checked 6 Nov 2026)"
       },
       "artsArchitecture": {
-        "value": "The ziggurat of Chogha Zanbil.",
+        "value": "The ziggurat of Chogha Zanbil (about 1250 BCE), a World Heritage Site.",
         "year": -1250,
         "certainty": "estimated",
         "source": "Potts, The Archaeology of Elam (2016)"
       },
       "socialStructure": {
-        "value": "Kings, priests and farmers.",
+        "value": "Kings, priests, scribes, craftspeople and farmers.",
         "year": null,
         "certainty": "estimated",
         "source": "Potts, The Archaeology of Elam (2016)"
       },
       "sharedIdentity": {
-        "value": "The Elamite language and gods.",
+        "value": "The Elamite language and gods such as Inshushinak.",
         "year": null,
         "certainty": "estimated",
         "source": "Potts, The Archaeology of Elam (2016)"
+      },
+      "dailyLife": {
+        "value": "Mud-brick houses in towns; farming of barley and wheat in the lowlands, herding in the highlands.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Elam"
       }
     },
     "connections": {
@@ -250,7 +262,7 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Early urbanisation in the Chalcolithic.",
+        "value": "Early towns appeared in Khuzestan in the 4th millennium BCE.",
         "year": -3200,
         "certainty": "confirmed",
         "source": "Wikipedia: Elam (checked 6 Nov 2026)"
@@ -262,7 +274,7 @@
         "source": "Potts, The Archaeology of Elam (2016)"
       },
       "declineSignals": {
-        "value": "The Assyrian sack of Susa (647 BCE).",
+        "value": "The Assyrian king Ashurbanipal sacked Susa (647 BCE).",
         "year": -647,
         "certainty": "estimated",
         "source": "Potts, The Archaeology of Elam (2016)"

@@ -93,7 +93,7 @@
         "source": "Wikipedia: Kingdom of France (checked 5 Nov 2026) (infobox)"
       },
       "disease": {
-        "value": "The Black Death and recurring plague.",
+        "value": "The Black Death (1348) killed perhaps a third of the people; plague returned often until 1720 (Marseille).",
         "year": 1348,
         "certainty": "estimated",
         "source": "Jones, The Cambridge Illustrated History of France (1994)"
@@ -219,6 +219,12 @@
         "year": 1685,
         "certainty": "estimated",
         "source": "Jones, The Cambridge Illustrated History of France (1994)"
+      },
+      "communicationTransport": {
+        "value": "Rivers and royal roads; the royal post (from 1477) and later canals such as the Canal du Midi (1681).",
+        "year": 1681,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of France"
       }
     },
     "culture": {
@@ -251,6 +257,12 @@
         "year": 1429,
         "certainty": "estimated",
         "source": "Jones, The Cambridge Illustrated History of France (1994)"
+      },
+      "dailyLife": {
+        "value": "Peasants in timber or stone cottages; bread was the main food, with soup and wine; nobles in châteaux.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of France"
       }
     },
     "connections": {

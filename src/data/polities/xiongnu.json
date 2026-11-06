@@ -36,7 +36,7 @@
         "source": "Barfield, The Perilous Frontier (1989)"
       },
       "climate": {
-        "value": "Cold, dry steppe with harsh winters.",
+        "value": "Cold, dry steppe with harsh winters and short summers.",
         "year": null,
         "certainty": "estimated",
         "source": "Barfield, The Perilous Frontier (1989)"
@@ -56,7 +56,7 @@
     },
     "population": {
       "population": {
-        "value": "No reliable estimate.",
+        "value": "No reliable estimate; Chinese sources suggest perhaps about 1–2 million people.",
         "year": null,
         "certainty": "estimated",
         "source": "Barfield, The Perilous Frontier (1989)"
@@ -178,13 +178,13 @@
     },
     "technology": {
       "inventions": {
-        "value": "Little is known.",
+        "value": "Little is known; skilled in metalwork and horse gear.",
         "year": null,
         "certainty": "estimated",
         "source": "Barfield, The Perilous Frontier (1989)"
       },
       "scienceEducation": {
-        "value": "No writing of their own is known.",
+        "value": "No writing of their own is known; Chinese defectors served as scribes.",
         "year": null,
         "certainty": "estimated",
         "source": "Barfield, The Perilous Frontier (1989)"
@@ -194,11 +194,17 @@
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Xiongnu (checked 6 Nov 2026); Barfield, The Perilous Frontier (1989)"
+      },
+      "communicationTransport": {
+        "value": "Horses for riding and wagons for moving camps; messengers on horseback.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xiongnu"
       }
     },
     "culture": {
       "religion": {
-        "value": "Sky worship (Tengri) and shamanism.",
+        "value": "Worship of the sky (Tengri), ancestors and sacred places; shamans.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Xiongnu (checked 6 Nov 2026); Barfield, The Perilous Frontier (1989)"
@@ -222,15 +228,21 @@
         "source": "Barfield, The Perilous Frontier (1989)"
       },
       "sharedIdentity": {
-        "value": "Loyalty to the chanyu.",
+        "value": "Loyalty to the chanyu (supreme ruler) and his clan.",
         "year": null,
         "certainty": "estimated",
         "source": "Barfield, The Perilous Frontier (1989)"
+      },
+      "dailyLife": {
+        "value": "Felt tents (forerunners of the yurt); meat, milk and cheese from herds; fur and leather clothing.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Xiongnu"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "Han China, the Yuezhi and the Xianbei.",
+        "value": "Han China, the Yuezhi, the Wusun and the Xianbei.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Xiongnu (checked 6 Nov 2026); Barfield, The Perilous Frontier (1989)"
@@ -242,7 +254,7 @@
         "source": "Barfield, The Perilous Frontier (1989)"
       },
       "colonisation": {
-        "value": "None.",
+        "value": "None; took tribute from China and neighbouring peoples.",
         "year": null,
         "certainty": "estimated",
         "source": "Barfield, The Perilous Frontier (1989)"
@@ -250,7 +262,7 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Modu Chanyu united the tribes.",
+        "value": "Modu Chanyu united the steppe tribes in 209 BCE.",
         "year": -209,
         "certainty": "confirmed",
         "source": "Wikipedia: Xiongnu (checked 6 Nov 2026)"
@@ -262,7 +274,7 @@
         "source": "Barfield, The Perilous Frontier (1989)"
       },
       "declineSignals": {
-        "value": "Long wars with the Han and civil wars.",
+        "value": "Long wars with the Han and civil wars that split the Xiongnu (from 57 BCE).",
         "year": -57,
         "certainty": "confirmed",
         "source": "Wikipedia: Xiongnu (checked 6 Nov 2026); Barfield, The Perilous Frontier (1989)"
