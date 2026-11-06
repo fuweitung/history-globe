@@ -1,5 +1,6 @@
 import { EVENTS, PEOPLE, PERSON_ROLES, POLITIES, POLITY_BY_ID, ROUTES, ROUTE_KINDS, formatSpan, formatYear } from './data';
 import type { KnownForKind } from '../types';
+import { CHECKLIST_SCHEMA } from './checklistSchema';
 
 /** Lower-case, strip accents and Polynesian/okina marks so "dai viet" finds "Đại Việt" and "tui tonga" finds "Tuʻi Tonga". */
 export function norm(s: string): string {
@@ -16,7 +17,8 @@ export type SearchHit =
   | { kind: 'known'; polityId: string; kfKind: KnownForKind; title: string; sub: string; year?: number; score: number }
   | { kind: 'event'; id: string; title: string; sub: string; year: number; score: number }
   | { kind: 'route'; id: string; title: string; sub: string; year: number; score: number }
-  | { kind: 'person'; id: string; title: string; sub: string; year: number; score: number };
+  | { kind: 'person'; id: string; title: string; sub: string; year: number; score: number }
+  | { kind: 'fact'; polityId: string; category: string; title: string; sub: string; text: string; score: number };
 
 type DistributiveOmit<T, K extends keyof T> = T extends unknown ? Omit<T, K> : never;
 
@@ -64,15 +66,31 @@ function buildIndex(): Doc[] {
       body: norm(`${r.description} ${r.goods ?? ''} ${ROUTE_KINDS[r.kind].label}`),
     });
   }
+  // Checklist answers (“El Niño” → Valdivia › Disasters). Data-quality notes are left out.
+  for (const p of POLITIES) {
+    for (const cat of CHECKLIST_SCHEMA) {
+      if (cat.key === 'dataQuality') continue;
+      for (const f of cat.fields) {
+        const it = (p.checklist[cat.key] as unknown as Record<string, { value: unknown } | undefined>)[f.key];
+        const text = it?.value == null ? '' : String(it.value);
+        if (!text.trim()) continue;
+        docs.push({
+          hit: { kind: 'fact', polityId: p.id, category: cat.key, title: `${p.name} · ${f.label}`, sub: cat.label, text },
+          title: '',
+          body: norm(text),
+        });
+      }
+    }
+  }
   return docs;
 }
 
 let INDEX: Doc[] | null = null;
 
 /** Every word of the query must appear somewhere; title matches rank higher. */
-export function search(query: string): { polities: SearchHit[]; known: SearchHit[]; events: SearchHit[]; routes: SearchHit[]; people: SearchHit[] } {
+export function search(query: string): { polities: SearchHit[]; known: SearchHit[]; events: SearchHit[]; routes: SearchHit[]; people: SearchHit[]; facts: SearchHit[] } {
   const words = norm(query).split(/\s+/).filter(Boolean);
-  const out = { polities: [] as SearchHit[], known: [] as SearchHit[], events: [] as SearchHit[], routes: [] as SearchHit[], people: [] as SearchHit[] };
+  const out = { polities: [] as SearchHit[], known: [] as SearchHit[], events: [] as SearchHit[], routes: [] as SearchHit[], people: [] as SearchHit[], facts: [] as SearchHit[] };
   if (!words.length) return out;
   INDEX ??= buildIndex();
   for (const d of INDEX) {
@@ -89,11 +107,14 @@ export function search(query: string): { polities: SearchHit[]; known: SearchHit
       }
     }
     if (!all) continue;
+    // Whole phrase found together ranks higher (“el nino” beats “el … nino”).
+    if (words.length > 1 && d.body.includes(words.join(' '))) score += 2;
     const hit = { ...d.hit, score } as SearchHit;
     if (hit.kind === 'polity') out.polities.push(hit);
     else if (hit.kind === 'known') out.known.push(hit);
     else if (hit.kind === 'route') out.routes.push(hit);
     else if (hit.kind === 'person') out.people.push(hit);
+    else if (hit.kind === 'fact') out.facts.push(hit);
     else out.events.push(hit);
   }
   const by = (a: SearchHit, b: SearchHit) => b.score - a.score || a.title.localeCompare(b.title);
@@ -102,5 +123,17 @@ export function search(query: string): { polities: SearchHit[]; known: SearchHit
   out.events.sort(by);
   out.routes.sort(by);
   out.people.sort(by);
+  out.facts.sort(by);
   return out;
+}
+
+/** A short piece of `text` around the first query word, for showing a checklist match. */
+export function snippet(text: string, query: string, radius = 60): string {
+  const words = norm(query).split(/\s+/).filter(Boolean);
+  const n = norm(text);
+  const at = Math.max(0, Math.min(...words.map((w) => n.indexOf(w)).filter((i) => i >= 0), n.length));
+  if (text.length <= radius * 2) return text;
+  const from = Math.max(0, at - radius);
+  const to = Math.min(text.length, at + radius);
+  return `${from > 0 ? '…' : ''}${text.slice(from, to).trim()}${to < text.length ? '…' : ''}`;
 }

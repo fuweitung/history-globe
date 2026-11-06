@@ -1,4 +1,4 @@
-import { useId, useState } from 'react';
+import { useEffect, useId, useRef, useState } from 'react';
 import { categoryCompletion, getItem, isFilled, type CategoryDef } from '../lib/checklistSchema';
 import type { Certainty, Checklist, ChecklistItem } from '../types';
 import { formatYear } from '../lib/data';
@@ -32,17 +32,23 @@ interface Props {
   def: CategoryDef;
   checklist: Checklist;
   defaultOpen?: boolean;
+  /** Open this category and scroll it into view (e.g. after a search). */
+  focus?: boolean;
   onJumpToYear?: (year: number) => void;
 }
 
-export default function ChecklistCategory({ def, checklist, defaultOpen = false, onJumpToYear }: Props) {
-  const [open, setOpen] = useState(defaultOpen);
+export default function ChecklistCategory({ def, checklist, defaultOpen = false, focus = false, onJumpToYear }: Props) {
+  const [open, setOpen] = useState(defaultOpen || focus);
+  const ref = useRef<HTMLDivElement>(null);
+  useEffect(() => {
+    if (focus) ref.current?.scrollIntoView({ block: 'start', behavior: 'smooth' });
+  }, [focus]);
   const id = useId();
   const c = categoryCompletion(checklist, def);
   const complete = c.filled === c.total;
 
   return (
-    <div className="border-b border-white/5 last:border-b-0">
+    <div ref={ref} className="scroll-mt-4 border-b border-white/5 last:border-b-0">
       <button
         type="button"
         onClick={() => setOpen((o) => !o)}

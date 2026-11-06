@@ -15,6 +15,8 @@ interface Props {
   onOpenEvent: (id: string) => void;
   onCompare?: () => void;
   onOpenPerson?: (id: string) => void;
+  /** Checklist category to open and scroll to. */
+  focusCategory?: string;
 }
 
 
@@ -168,7 +170,7 @@ const RELATION_TEXT: Record<LinkRelation, [string, string]> = {
   allied_with: ['Allied with', 'Allied with'],
 };
 
-export default function PolityDetail({ polity, year, onJumpToYear, onFlyTo, onOpenPolity, onOpenEvent, onCompare, onOpenPerson }: Props) {
+export default function PolityDetail({ polity, year, onJumpToYear, onFlyTo, onOpenPolity, onOpenEvent, onCompare, onOpenPerson, focusCategory }: Props) {
   const overall = overallCompletion(polity.checklist);
   const active = isActive(polity, year);
   const events = eventsForPolity(polity.id);
@@ -264,7 +266,7 @@ export default function PolityDetail({ polity, year, onJumpToYear, onFlyTo, onOp
         </div>
         <div className="mx-3 rounded-2xl bg-ink-800/60 ring-1 ring-white/[0.06]">
           {CHECKLIST_SCHEMA.map((def) => (
-            <ChecklistCategory key={`${polity.id}-${def.key}`} def={def} checklist={polity.checklist} onJumpToYear={onJumpToYear} />
+            <ChecklistCategory key={`${polity.id}-${def.key}-${focusCategory === def.key}`} def={def} checklist={polity.checklist} focus={focusCategory === def.key} onJumpToYear={onJumpToYear} />
           ))}
         </div>
         <div className="mx-5 mt-2 flex flex-wrap items-center gap-2 text-[10px] text-parchment-400">
