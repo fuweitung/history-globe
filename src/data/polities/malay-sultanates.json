@@ -1,0 +1,322 @@
+{
+  "id": "malay-sultanates",
+  "name": "Sultanates of the Malay world",
+  "era": "early_modern",
+  "region": "Southeast Asia",
+  "startYear": 1400,
+  "endYear": 1650,
+  "datesApproximate": true,
+  "capital": "Many ports",
+  "capitalCoords": [
+    115,
+    -2
+  ],
+  "summary": "The Muslim port sultanates of the Malay world, such as Demak, Ternate, Tidore and Banten, that controlled the spice trade before Dutch dominance.",
+  "wikiTitle": "Islam in Indonesia",
+  "borderNames": [
+    "Malaysian Islamic states",
+    "Malay"
+  ],
+  "borderYears": [
+    1400,
+    1650
+  ],
+  "color": "#3a8a6a",
+  "knownFor": [
+    {
+      "label": "Cloves of Ternate",
+      "kind": "food",
+      "note": "The Maluku islands were the only source of cloves."
+    },
+    {
+      "label": "Great Mosque of Demak",
+      "kind": "monument",
+      "note": "One of the oldest mosques in Java."
+    },
+    {
+      "label": "Kris dagger",
+      "kind": "weapon",
+      "note": "A wavy-bladed dagger."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Indonesia and the Malay world.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "terrain": {
+        "value": "Islands and coasts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "resources": {
+        "value": "Spices: cloves, nutmeg, pepper.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "disasters": {
+        "value": "Volcanoes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "urbanisation": {
+        "value": "Port cities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "disease": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "migration": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Spice trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "tradeRoutes": {
+        "value": "Indian Ocean and China trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "wealth": {
+        "value": "Rich ports.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "moneyAndTax": {
+        "value": "Coins and cloth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "inequality": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Sultanates.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "keyRulers": {
+        "value": "Sultan Baabullah of Ternate.",
+        "year": 1575,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "succession": {
+        "value": "Hereditary.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "institutions": {
+        "value": "Islamic law and adat.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "stability": {
+        "value": "Rivalries.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Warships.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "majorWars": {
+        "value": "Wars with Portugal.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "territoryChange": {
+        "value": "Lost to the Dutch.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "alliancesRivals": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "scienceEducation": {
+        "value": "Islamic schools.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "openness": {
+        "value": "Very open to trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "communicationTransport": {
+        "value": "Ships.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "languageWriting": {
+        "value": "Malay and others.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "artsArchitecture": {
+        "value": "Mosques.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "socialStructure": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "sharedIdentity": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "dailyLife": {
+        "value": "Stilt houses; rice, sago, fish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Portuguese, Dutch, Javanese states.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "ideasReligions": {
+        "value": "Spread Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "colonisation": {
+        "value": "Colonised by the Dutch.",
+        "year": 1650,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Spice trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "peakPeriod": {
+        "value": "16th century.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "declineSignals": {
+        "value": "Dutch East India Company.",
+        "year": 1605,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "outcome": {
+        "value": "Became part of Dutch Indonesia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Spread of Islam in Indonesia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      },
+      "overallCertainty": {
+        "value": "General.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Spread of Islam in Indonesia"
+      }
+    }
+  }
+}

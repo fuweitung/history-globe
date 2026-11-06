@@ -1,0 +1,323 @@
+{
+  "id": "nanzhao-dali",
+  "name": "Nanzhao and Dali kingdoms",
+  "era": "medieval",
+  "region": "East Asia (Yunnan)",
+  "startYear": 738,
+  "endYear": 1253,
+  "capital": "Taihe, later Dali",
+  "capitalCoords": [
+    100.23,
+    25.6
+  ],
+  "summary": "Kingdoms in Yunnan, south-west China: Nanzhao (738–902) and the Kingdom of Dali (937–1253), conquered by the Mongols.",
+  "wikiTitle": "Nanzhao",
+  "borderNames": [
+    "Nan Chao",
+    "Nanzhao",
+    "Dali"
+  ],
+  "borderYears": [
+    738,
+    1253
+  ],
+  "color": "#b05a6a",
+  "knownFor": [
+    {
+      "label": "Three Pagodas of Dali",
+      "kind": "monument",
+      "year": 840,
+      "note": "Buddhist pagodas."
+    },
+    {
+      "label": "Tea Horse Road",
+      "kind": "tool",
+      "note": "Trade route through Yunnan to Tibet."
+    },
+    {
+      "label": "Erhai Lake",
+      "kind": "monument",
+      "note": "Lake beside the capital."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Yunnan, south-west China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "terrain": {
+        "value": "Mountains and lake basins.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "climate": {
+        "value": "Mild highland climate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "resources": {
+        "value": "Farmland, horses, salt.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "disasters": {
+        "value": "Earthquakes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "urbanisation": {
+        "value": "Dali.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "disease": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "migration": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming and trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "tradeRoutes": {
+        "value": "Tea Horse Road; routes to Burma.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "wealth": {
+        "value": "No estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "moneyAndTax": {
+        "value": "Cowrie shells.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "inequality": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Kingdom.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "keyRulers": {
+        "value": "Piluoge (Nanzhao). Duan Siping (Dali).",
+        "year": 937,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "succession": {
+        "value": "Hereditary.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "institutions": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "stability": {
+        "value": "Changes of dynasty.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Strong armies.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "majorWars": {
+        "value": "Wars with Tang; attacked the Pyu (832).",
+        "year": 832,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "territoryChange": {
+        "value": "Conquered by the Mongols (1253).",
+        "year": 1253,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "alliancesRivals": {
+        "value": "Allied with Tibet at times.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "scienceEducation": {
+        "value": "Buddhist learning.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "openness": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "communicationTransport": {
+        "value": "Mountain trails, horses.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Buddhism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "languageWriting": {
+        "value": "Bai and Yi languages; Chinese characters.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "artsArchitecture": {
+        "value": "Pagodas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "socialStructure": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "sharedIdentity": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "dailyLife": {
+        "value": "Wood and stone houses; rice.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Tang, Tibet, Pyu.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "ideasReligions": {
+        "value": "Buddhism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Unification of six kingdoms (738).",
+        "year": 738,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "peakPeriod": {
+        "value": "9th century.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "declineSignals": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "outcome": {
+        "value": "Mongol conquest (1253).",
+        "year": 1253,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      },
+      "overallCertainty": {
+        "value": "Partly known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+      }
+    }
+  }
+}
