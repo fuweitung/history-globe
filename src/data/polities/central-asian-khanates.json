@@ -1,0 +1,313 @@
+{
+  "id": "central-asian-khanates",
+  "name": "Khanates of Bukhara, Khiva and Kokand",
+  "era": "early_modern",
+  "region": "Central Asia",
+  "startYear": 1500,
+  "endYear": 1920,
+  "datesApproximate": true,
+  "capital": "Bukhara, Khiva, Kokand",
+  "capitalCoords": [
+    64.42,
+    39.77
+  ],
+  "summary": "The Uzbek-ruled states of the Central Asian oases, founded after Muhammad Shaybani took the region around 1500. They kept trade and Islamic learning alive until the Russian Empire conquered or protected them (1860s–1870s); the last were ended in 1920.",
+  "wikiTitle": "Khanate of Bukhara",
+  "borderNames": [
+    "central Asian khanates",
+    "Khiva Khanate",
+    "Bukara Khanate",
+    "Bokhara Khanate",
+    "Khanate of Kokand"
+  ],
+  "borderYears": [
+    1500,
+    1920
+  ],
+  "color": "#4f7fbf",
+  "knownFor": [
+    {
+      "label": "Ark of Bukhara",
+      "kind": "monument",
+      "note": "The fortress-palace of the rulers of Bukhara."
+    },
+    {
+      "label": "Itchan Kala",
+      "kind": "monument",
+      "note": "The walled inner town of Khiva, a World Heritage Site."
+    },
+    {
+      "label": "Ikat silk",
+      "kind": "textile",
+      "note": "Silk with patterns dyed into the threads before weaving."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The river oases of present-day Uzbekistan, Turkmenistan and Tajikistan, along the Amu Darya and Syr Darya.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "terrain": {
+        "value": "Irrigated oases surrounded by the Kyzylkum and Karakum deserts; the Fergana Valley.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "climate": {
+        "value": "Dry continental climate: hot summers, cold winters.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "resources": {
+        "value": "Irrigated farmland, cotton, silk, fruit, and caravan trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "disasters": {
+        "value": "Droughts and shifting rivers (the Amu Darya changed course).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Perhaps 2–3 million in the 19th century in all three states.",
+        "year": 1850,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "urbanisation": {
+        "value": "Ancient cities: Bukhara, Samarkand, Khiva, Kokand, Tashkent.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "disease": {
+        "value": "Plague and cholera outbreaks.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "migration": {
+        "value": "Turkmen and Kazakh nomads moved around the oases; captives taken in raids were sold in slave markets.",
+        "year": 1800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Irrigated farming and handicrafts; caravan trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "tradeRoutes": {
+        "value": "Caravan routes to Russia (Orenburg), Persia, India and China; the old Silk Road had declined.",
+        "year": 1700,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "wealth": {
+        "value": "Rich cities but a smaller share of world trade than in earlier centuries.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "moneyAndTax": {
+        "value": "Silver tanga and gold coins; taxes on land and trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "inequality": {
+        "value": "Large gaps between rulers, landowners and peasants; slavery existed until the Russian conquest.",
+        "year": 1873,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Hereditary monarchies (khans or emirs) ruling through tribal and religious elites.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "keyRulers": {
+        "value": "Muhammad Shaybani (about 1500). Abdullah Khan II of Bukhara (1583–1598). Emir Nasrullah. Muhammad Rahim Khan II of Khiva. Khudayar Khan of Kokand.",
+        "year": 1583,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "succession": {
+        "value": "Dynasties changed: Shaybanids, Janids, then Manghits in Bukhara (1785–1920); Qungrats in Khiva.",
+        "year": 1785,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "institutions": {
+        "value": "Islamic law and courts; madrasas; emirs ruled through officials (begs).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "stability": {
+        "value": "Frequent wars between the three states and with nomads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "eliteConflict": {
+        "value": "Conflicts between tribal Uzbek clans and the rulers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Cavalry; few modern firearms, which left them weak against Russia.",
+        "year": 1865,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "majorWars": {
+        "value": "Wars with Persia (Nader Shah took Bukhara and Khiva, 1740); Russian conquest of Tashkent (1865), Samarkand (1868), Khiva (1873) and Kokand (1876).",
+        "year": 1865,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "territoryChange": {
+        "value": "Kokand was annexed in 1876; Bukhara and Khiva became Russian protectorates.",
+        "year": 1876,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "alliancesRivals": {
+        "value": "Rivals of Safavid and Qajar Persia; caught between Russia and Britain in the “Great Game”.",
+        "year": 1840,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few new inventions; traditional irrigation and crafts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "scienceEducation": {
+        "value": "Bukhara was a major centre of Islamic scholarship with hundreds of madrasas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "openness": {
+        "value": "Relatively closed and suspicious of outsiders; British officers were executed in Bukhara (1842).",
+        "year": 1842,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sunni Islam, with strong Sufi orders (Naqshbandi).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "languageWriting": {
+        "value": "Uzbek and Persian (Tajik); Chagatai Turkic literature.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "artsArchitecture": {
+        "value": "Blue-tiled madrasas and mosques, suzani embroidery, ikat silk.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "socialStructure": {
+        "value": "Rulers, clan leaders, religious scholars, merchants, peasants and slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "sharedIdentity": {
+        "value": "Identity based more on religion and city than on nation.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Persia, Afghanistan, the Kazakh steppe, Russia, Qing China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "ideasReligions": {
+        "value": "Islamic learning from Persia and the wider Muslim world; Jadid reformers in the early 20th century.",
+        "year": 1900,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "colonisation": {
+        "value": "Conquered or controlled by Russia.",
+        "year": 1868,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Muhammad Shaybani’s Uzbeks took Samarkand and Bukhara from the Timurids around 1500.",
+        "year": 1500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "peakPeriod": {
+        "value": "Bukhara under Abdullah Khan II in the late 16th century.",
+        "year": 1590,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "declineSignals": {
+        "value": "Divided into rival states and weakened by decline of overland trade.",
+        "year": 1700,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "outcome": {
+        "value": "Russian conquest (1865–76); the Red Army ended Khiva and Bukhara in 1920. Today they are part of Uzbekistan, Turkmenistan and Tajikistan.",
+        "year": 1920,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Khanate of Bukhara; Khanate of Khiva; Kokand Khanate. Soucek, A History of Inner Asia (2000).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      },
+      "overallCertainty": {
+        "value": "Mostly well documented in the 19th century; earlier figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khanate of Bukhara; Wikipedia: Khanate of Khiva; Wikipedia: Kokand Khanate"
+      }
+    }
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "id": "makuria",
+  "name": "Makuria",
+  "era": "medieval",
+  "region": "Northeast Africa (Nile)",
+  "startYear": 340,
+  "endYear": 1500,
+  "datesApproximate": true,
+  "capital": "Old Dongola",
+  "capitalCoords": [
+    30.74,
+    18.22
+  ],
+  "summary": "A Christian Nubian kingdom on the middle Nile, in present-day Sudan. It held off the Arab armies in 652, kept a treaty (the baqt) with Egypt for about 600 years, and faded in the 14th and 15th centuries.",
+  "wikiTitle": "Makuria",
+  "borderNames": [
+    "Makkura",
+    "Makuria"
+  ],
+  "borderYears": [
+    340,
+    1500
+  ],
+  "color": "#8f6bb3",
+  "knownFor": [
+    {
+      "label": "Faras cathedral paintings",
+      "kind": "art",
+      "year": 900,
+      "note": "Wall paintings of saints and bishops, now in Warsaw and Khartoum."
+    },
+    {
+      "label": "Nubian archers",
+      "kind": "troops",
+      "year": 652,
+      "note": "Called the “pupil-smiters” by Arab writers for their accuracy."
+    },
+    {
+      "label": "Baqt treaty",
+      "kind": "idea",
+      "year": 652,
+      "note": "A peace and trade agreement with Muslim Egypt that lasted centuries."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Along the Nile in northern Sudan, between the Third and Fifth Cataracts; later including Nobadia to the north.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Makuria"
+      },
+      "terrain": {
+        "value": "A narrow green river valley crossed by rocky cataracts and surrounded by desert.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Makuria"
+      },
+      "climate": {
+        "value": "Very hot and dry; farming depended on the Nile flood.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Makuria"
+      },
+      "resources": {
+        "value": "Farmland on the riverbanks, dates, cattle, gold and trade goods from Africa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Makuria"
+      },
+      "disasters": {
+        "value": "Low Nile floods caused famines.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Makuria"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown; perhaps a few hundred thousand.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Makuria"
+      },
+      "urbanisation": {
+        "value": "Old Dongola was the main town, with churches and a palace.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Makuria"
+      },
+      "disease": {
+        "value": "Plague (the Black Death reached the Nile valley in the 1340s).",
+        "year": 1348,
+        "certainty": "estimated",
+        "source": "Wikipedia: Makuria"
+      },
+      "migration": {
+        "value": "Arab nomads moved in from the 13th century.",
+        "year": 1300,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Makuria"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming irrigated with the saqiya waterwheel; herding; trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Makuria"
+      },
+      "tradeRoutes": {
+        "value": "Traded with Egypt under the baqt: Nubian slaves and goods for grain, wine and cloth.",
+        "year": 652,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Makuria"
+      },
+      "wealth": {
+        "value": "Prospered from trade along the Nile.",
+        "year": 900,
+        "certainty": "estimated",
+        "source": "Wikipedia: Makuria"
+      },
+      "moneyAndTax": {
+        "value": "Mostly barter; few coins.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Makuria"
+      },
+      "inequality": {
+        "value": "Kings and bishops at the top; farmers and slaves at the bottom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Makuria"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A Christian monarchy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Makuria"
+      },
+      "keyRulers": {
+        "value": "King Qalidurut (652). King Merkurios (about 700). King George I (9th century).",
+        "year": 652,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Makuria"
+      },
+      "succession": {
+        "value": "Succession sometimes passed through the king’s sister’s son (matrilineal), according to Arab sources.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Makuria"
+      },
+      "institutions": {
+        "value": "The Church, with bishops at Faras, Dongola and elsewhere; officials with Byzantine titles.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Makuria"
+      },
+      "stability": {
+        "value": "Stable for centuries; civil wars and Mamluk interference from the 13th century.",
+        "year": 1270,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Makuria"
+      },
+      "eliteConflict": {
+        "value": "Rival claimants to the throne asked Egypt’s Mamluks for help.",
+        "year": 1276,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Makuria"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Skilled archers.",
+        "year": 652,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Makuria"
+      },
+      "majorWars": {
+        "value": "Defeated Arab invasions in 642 and 652; later wars with Mamluk Egypt (1270s–1310s).",
+        "year": 652,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Makuria"
+      },
+      "territoryChange": {
+        "value": "United with Nobadia to the north (7th century).",
+        "year": 700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Makuria"
+      },
+      "alliancesRivals": {
+        "value": "Ties to the Christian Church of Alexandria and Ethiopia; treaty partner of Muslim Egypt.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Makuria"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Saqiya waterwheels for irrigation.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Makuria"
+      },
+      "scienceEducation": {
+        "value": "Churches and monasteries kept Greek, Coptic and Old Nubian texts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Makuria"
+      },
+      "openness": {
+        "value": "Long open to trade, but defended its independence.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Makuria"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Christianity from the 6th century; Islam slowly spread later.",
+        "year": 543,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Makuria"
+      },
+      "languageWriting": {
+        "value": "Old Nubian, Greek and Coptic, written in Greek-based scripts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Makuria"
+      },
+      "artsArchitecture": {
+        "value": "Churches with wall paintings (Faras), decorated pottery.",
+        "year": 900,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Makuria"
+      },
+      "socialStructure": {
+        "value": "King, nobles, clergy, farmers, slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Makuria"
+      },
+      "sharedIdentity": {
+        "value": "A Christian Nubian identity.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Makuria"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Egypt, Alodia (another Nubian kingdom to the south), Beja nomads of the eastern desert.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Makuria"
+      },
+      "ideasReligions": {
+        "value": "Christianity from Byzantium and Egypt; later Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Makuria"
+      },
+      "colonisation": {
+        "value": "Not a coloniser.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Makuria"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Conversion and the defeat of Arab armies in 652 secured its independence.",
+        "year": 652,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Makuria"
+      },
+      "peakPeriod": {
+        "value": "About the 9th–11th centuries.",
+        "year": 950,
+        "certainty": "estimated",
+        "source": "Wikipedia: Makuria"
+      },
+      "declineSignals": {
+        "value": "Mamluk interventions, Arab migration and plague.",
+        "year": 1300,
+        "certainty": "estimated",
+        "source": "Wikipedia: Makuria"
+      },
+      "outcome": {
+        "value": "Dongola’s throne room became a mosque in 1317; the kingdom disappeared by about 1500.",
+        "year": 1317,
+        "certainty": "estimated",
+        "source": "Wikipedia: Makuria"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Makuria; Welsby, The Medieval Kingdoms of Nubia (2002).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Makuria"
+      },
+      "overallCertainty": {
+        "value": "Known from archaeology and Arab writers; many dates are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Makuria"
+      }
+    }
+  }
+}

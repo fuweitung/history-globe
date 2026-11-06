@@ -1,0 +1,310 @@
+{
+  "id": "brazil",
+  "name": "Brazil (Republic)",
+  "era": "modern",
+  "region": "South America",
+  "startYear": 1889,
+  "endYear": null,
+  "capital": "Brasília (Rio de Janeiro until 1960)",
+  "capitalCoords": [
+    -47.88,
+    -15.79
+  ],
+  "summary": "The largest country in South America, a republic since the monarchy was overthrown in 1889. It has had long periods of democracy and of military rule (1964–1985).",
+  "wikiTitle": "Brazil",
+  "borderNames": [
+    "Brazil"
+  ],
+  "borderYears": [
+    1889,
+    null
+  ],
+  "color": "#3d9a4b",
+  "knownFor": [
+    {
+      "label": "Brasília",
+      "kind": "monument",
+      "year": 1960,
+      "note": "A planned capital built in about four years, designed by Lúcio Costa and Oscar Niemeyer."
+    },
+    {
+      "label": "Samba and Carnival",
+      "kind": "art",
+      "note": "Music and street festivals with African, Portuguese and Indigenous roots."
+    },
+    {
+      "label": "Coffee",
+      "kind": "food",
+      "year": 1900,
+      "note": "Brazil has been the world’s largest coffee producer since the 19th century."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Eastern South America; about 8.5 million km², almost half of the continent.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      },
+      "terrain": {
+        "value": "The Amazon basin in the north, the Brazilian Highlands, the Pantanal wetlands and a long Atlantic coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      },
+      "climate": {
+        "value": "Mostly tropical; hot and wet in the Amazon, drier in the north-east (the sertão), milder in the south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      },
+      "resources": {
+        "value": "Farmland, rainforest, iron ore, oil (offshore since the 2000s), hydroelectric power and huge rivers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      },
+      "disasters": {
+        "value": "Droughts in the north-east, floods and landslides, and deforestation fires in the Amazon.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 14 million in 1890; about 203 million in the 2022 census.",
+        "year": 2022,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      },
+      "urbanisation": {
+        "value": "Rapid move to cities after 1950; São Paulo and Rio de Janeiro are among the largest cities in the Americas.",
+        "year": 1950,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      },
+      "disease": {
+        "value": "Yellow fever and smallpox campaigns (Oswaldo Cruz, 1904); Zika (2015); very high COVID-19 deaths.",
+        "year": 1904,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      },
+      "migration": {
+        "value": "Large European immigration (Italians, Portuguese, Germans) and Japanese immigration (from 1908); internal migration from the north-east to the south-east.",
+        "year": 1908,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Coffee and rubber at first; later industry, soybeans, beef, iron ore and oil.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      },
+      "tradeRoutes": {
+        "value": "Atlantic shipping; today large exports to China, the US and Europe; a member of Mercosur (1991).",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      },
+      "wealth": {
+        "value": "One of the ten largest economies, but with very uneven wealth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      },
+      "moneyAndTax": {
+        "value": "Several currencies until the real (1994) ended very high inflation.",
+        "year": 1994,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      },
+      "inequality": {
+        "value": "One of the most unequal countries in the world; slavery was abolished only in 1888, and Black Brazilians remain poorer on average.",
+        "year": 1888,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A federal presidential republic; military dictatorship 1964–1985; current constitution from 1988.",
+        "year": 1988,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      },
+      "keyRulers": {
+        "value": "Getúlio Vargas (1930–1945, 1951–1954). Juscelino Kubitschek. Fernando Henrique Cardoso. Luiz Inácio Lula da Silva. Dilma Rousseff. Jair Bolsonaro.",
+        "year": 1930,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      },
+      "succession": {
+        "value": "Direct presidential elections since 1989, with electronic voting.",
+        "year": 1989,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      },
+      "institutions": {
+        "value": "The National Congress, the Supreme Federal Court, 26 states and the Federal District.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      },
+      "stability": {
+        "value": "Coups in 1930 and 1964; the impeachment of presidents in 1992 and 2016; the 2023 attack on government buildings in Brasília.",
+        "year": 1964,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      },
+      "eliteConflict": {
+        "value": "Power struggles between coffee-growing elites, the army and urban politicians in the early republic.",
+        "year": 1930,
+        "certainty": "estimated",
+        "source": "Wikipedia: Brazil"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "The largest army in Latin America; a growing arms industry (Embraer aircraft).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Brazil"
+      },
+      "majorWars": {
+        "value": "The War of Canudos (1896–97); sent troops to Italy in the Second World War (1944–45).",
+        "year": 1944,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      },
+      "territoryChange": {
+        "value": "Acquired Acre from Bolivia (1903); borders mostly settled by diplomacy (Rio Branco).",
+        "year": 1903,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      },
+      "alliancesRivals": {
+        "value": "Joined the Allies in both World Wars; a member of BRICS; a regional leader in South America.",
+        "year": 1942,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Ethanol fuel from sugar cane (Proálcool programme, 1975); deep-water oil drilling; Embraer passenger jets.",
+        "year": 1975,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      },
+      "scienceEducation": {
+        "value": "Public universities; the Oswaldo Cruz Foundation in medicine; Embrapa farming research.",
+        "year": 1973,
+        "certainty": "estimated",
+        "source": "Wikipedia: Brazil"
+      },
+      "openness": {
+        "value": "Protected industry for decades (to the 1990s), then opened to trade.",
+        "year": 1990,
+        "certainty": "estimated",
+        "source": "Wikipedia: Brazil"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "The largest Catholic population in the world; fast-growing Evangelical churches; Afro-Brazilian religions such as Candomblé.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      },
+      "languageWriting": {
+        "value": "Portuguese (the only Portuguese-speaking country in the Americas); many Indigenous languages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      },
+      "artsArchitecture": {
+        "value": "Modernist architecture (Niemeyer), bossa nova, samba, telenovelas and football culture.",
+        "year": 1958,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      },
+      "socialStructure": {
+        "value": "Large gaps between rich and poor and between white and Black or mixed-race Brazilians; favelas in big cities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      },
+      "sharedIdentity": {
+        "value": "A mixed national identity drawing on African, Portuguese, Indigenous and immigrant roots, and football.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Brazil"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Borders ten countries: every South American country except Chile and Ecuador.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      },
+      "ideasReligions": {
+        "value": "Positivism shaped the early republic (the flag’s motto “Ordem e Progresso”).",
+        "year": 1889,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      },
+      "colonisation": {
+        "value": "A former Portuguese colony; it expanded into the Amazon, clashing with Indigenous peoples.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "The end of slavery (1888) and the army’s discontent led to the overthrow of Emperor Pedro II in 1889.",
+        "year": 1889,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      },
+      "peakPeriod": {
+        "value": "The “Brazilian miracle” of fast growth (1968–73) and the 2000s commodity boom.",
+        "year": 1970,
+        "certainty": "estimated",
+        "source": "Wikipedia: Brazil"
+      },
+      "declineSignals": {
+        "value": "Debt crises in the 1980s and recessions in 2015–16; political polarisation.",
+        "year": 2015,
+        "certainty": "estimated",
+        "source": "Wikipedia: Brazil"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Brazil; Wikipedia: History of Brazil (1889–present); IBGE census figures.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brazil"
+      }
+    }
+  }
+}

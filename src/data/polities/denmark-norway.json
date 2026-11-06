@@ -1,0 +1,312 @@
+{
+  "id": "denmark-norway",
+  "name": "Kalmar Union & Denmark–Norway",
+  "era": "early_modern",
+  "region": "Northern Europe & North Atlantic",
+  "startYear": 1397,
+  "endYear": 1814,
+  "capital": "Copenhagen",
+  "capitalCoords": [
+    12.57,
+    55.68
+  ],
+  "summary": "The Kalmar Union (1397–1523) joined Denmark, Norway and Sweden under one monarch. After Sweden left, Denmark and Norway stayed united until 1814, ruling Iceland, Greenland and the Faroes, with small colonies in India, Africa and the Caribbean.",
+  "wikiTitle": "Denmark–Norway",
+  "borderNames": [
+    "Kalmar Union",
+    "Denmark-Norway"
+  ],
+  "borderYears": [
+    1397,
+    1814
+  ],
+  "color": "#c43a4a",
+  "knownFor": [
+    {
+      "label": "Kronborg Castle",
+      "kind": "monument",
+      "year": 1585,
+      "note": "Castle at Helsingør where ships paid the Sound Dues; the setting of Hamlet."
+    },
+    {
+      "label": "Tycho Brahe’s observatory",
+      "kind": "tool",
+      "year": 1576,
+      "note": "Uraniborg, on the island of Hven, made the most accurate observations before telescopes."
+    },
+    {
+      "label": "Margaret I",
+      "kind": "person",
+      "year": 1397,
+      "note": "The queen who created the Kalmar Union."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Denmark (including Schleswig-Holstein and, until 1658, today’s southern Sweden), Norway, Iceland, the Faroes and Greenland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "terrain": {
+        "value": "Flat Danish islands and peninsula; Norway’s mountains and fjords; Atlantic islands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "climate": {
+        "value": "Mild and wet in Denmark; colder in Norway; Arctic in Greenland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "resources": {
+        "value": "Farmland, fish (cod), timber and iron from Norway, and tolls from ships in the Øresund.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "disasters": {
+        "value": "Storm floods on the North Sea coast; the Little Ice Age; Iceland’s Laki eruption (1783) caused a famine.",
+        "year": 1783,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 1.5 million in total around 1600.",
+        "year": 1600,
+        "certainty": "estimated",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "urbanisation": {
+        "value": "Copenhagen was the largest city; Bergen and Christiania (Oslo) in Norway.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "disease": {
+        "value": "Plague; smallpox in Iceland (1707) killed about a quarter of the people.",
+        "year": 1707,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "migration": {
+        "value": "Migration to Copenhagen; Danish colonists to the Caribbean and Greenland.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, fishing, timber exports, and the Sound Dues paid by ships passing Helsingør (1429–1857).",
+        "year": 1429,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "tradeRoutes": {
+        "value": "Baltic and North Sea trade; East India and West India companies.",
+        "year": 1616,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "wealth": {
+        "value": "The Sound Dues made the crown rich.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "moneyAndTax": {
+        "value": "Danish rigsdaler; customs and land taxes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "inequality": {
+        "value": "Nobles owned much land; Danish peasants were tied to estates (stavnsbånd, 1733–1788).",
+        "year": 1733,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "An elected monarchy limited by the nobles until 1660; then absolute monarchy (King’s Law, 1665).",
+        "year": 1660,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "keyRulers": {
+        "value": "Margaret I. Christian II. Christian IV (1588–1648). Frederick III. Christian VII (with Struensee). Frederick VI.",
+        "year": 1588,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "succession": {
+        "value": "Kings were elected by the nobles until 1660, then hereditary.",
+        "year": 1660,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "institutions": {
+        "value": "The Rigsråd (council of nobles) until 1660; then the king’s administration in Copenhagen.",
+        "year": 1660,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "stability": {
+        "value": "Sweden left the union in 1523 after the Stockholm Bloodbath (1520); a civil war (the Count’s Feud) in 1534–36.",
+        "year": 1523,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "eliteConflict": {
+        "value": "Conflict between the crown and the nobility, ended by absolutism in 1660.",
+        "year": 1660,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "A strong navy; the Norwegian admiral Tordenskjold.",
+        "year": 1716,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "majorWars": {
+        "value": "Many wars with Sweden (Northern Seven Years’ War, Torstenson War, Great Northern War); bombardment of Copenhagen by Britain (1807).",
+        "year": 1807,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "territoryChange": {
+        "value": "Lost Scania, Halland and Blekinge to Sweden (1658); lost Norway to Sweden in 1814.",
+        "year": 1658,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "alliancesRivals": {
+        "value": "Rivalry with Sweden; allied with Napoleon’s France after 1807.",
+        "year": 1807,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Tycho Brahe’s observations; Ole Rømer measured the speed of light (1676).",
+        "year": 1676,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "scienceEducation": {
+        "value": "Universities of Copenhagen (1479) and Kiel; Norway’s first university opened in 1811.",
+        "year": 1479,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "openness": {
+        "value": "Part of European Protestant trade and learning; strict censorship except briefly under Struensee (1770–72).",
+        "year": 1770,
+        "certainty": "estimated",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Catholic until the Lutheran Reformation (1536); then Lutheran.",
+        "year": 1536,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "languageWriting": {
+        "value": "Danish was the written language in Norway too; Icelandic, Norwegian dialects and Sámi were also spoken.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "artsArchitecture": {
+        "value": "Renaissance castles (Frederiksborg, Rosenborg), Ludvig Holberg’s comedies.",
+        "year": 1720,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "socialStructure": {
+        "value": "King, nobles, clergy, burghers and peasants; Norwegian peasants were freer than Danish ones.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the king united the two kingdoms; Norwegian identity grew in the 18th century.",
+        "year": 1800,
+        "certainty": "estimated",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Sweden, the German states, Britain, the Netherlands, Russia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "ideasReligions": {
+        "value": "Lutheranism; the Enlightenment.",
+        "year": 1536,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "colonisation": {
+        "value": "Colonies at Tranquebar (India, 1620), the Gold Coast, and the Danish West Indies (St Thomas, St John, St Croix) with enslaved African labour; Denmark banned the slave trade from 1803.",
+        "year": 1792,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Queen Margaret I united the three crowns at Kalmar (1397).",
+        "year": 1397,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "peakPeriod": {
+        "value": "Under Christian IV in the early 17th century.",
+        "year": 1620,
+        "certainty": "estimated",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "declineSignals": {
+        "value": "Losses to Sweden in 1658 and defeat on Napoleon’s side.",
+        "year": 1814,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "outcome": {
+        "value": "The Treaty of Kiel (1814) gave Norway to Sweden; Denmark kept Iceland, Greenland and the Faroes.",
+        "year": 1814,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark–Norway; Wikipedia: Kalmar Union"
+      }
+    }
+  }
+}

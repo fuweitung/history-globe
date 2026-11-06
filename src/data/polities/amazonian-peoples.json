@@ -1,0 +1,313 @@
+{
+  "id": "amazonian-peoples",
+  "name": "Indigenous peoples of Amazonia",
+  "era": "prehistory",
+  "region": "South America (Amazon)",
+  "startYear": -9000,
+  "endYear": null,
+  "datesApproximate": true,
+  "capital": "None (many peoples)",
+  "capitalCoords": [
+    -60,
+    -4
+  ],
+  "summary": "The peoples of the Amazon rainforest, who have lived there for over 11,000 years. Archaeology shows that some built large settlements, earthworks and fertile “dark earth” soils, larger and more complex than once believed.",
+  "wikiTitle": "Indigenous peoples in Brazil",
+  "borderNames": [
+    "Amazon hunter-gatherers",
+    "Manioc farmers",
+    "Tupis"
+  ],
+  "borderYears": [
+    -9000,
+    1800
+  ],
+  "color": "#4d8a4a",
+  "knownFor": [
+    {
+      "label": "Terra preta",
+      "kind": "tool",
+      "note": "Fertile “dark earth” made by people with charcoal and waste."
+    },
+    {
+      "label": "Manioc (cassava)",
+      "kind": "food",
+      "year": -6000,
+      "note": "A root crop first domesticated in the southern Amazon."
+    },
+    {
+      "label": "Marajoara pottery",
+      "kind": "art",
+      "year": 800,
+      "note": "Painted pottery from Marajó Island at the mouth of the Amazon."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Amazon basin: Brazil, Peru, Colombia, Ecuador, Bolivia, Venezuela and the Guianas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "terrain": {
+        "value": "Tropical rainforest with huge rivers and seasonally flooded forest.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "climate": {
+        "value": "Hot and wet all year.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "resources": {
+        "value": "Fish, turtles, game, fruit, nuts and forest plants; manioc gardens.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "disasters": {
+        "value": "Floods and droughts in some years.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Estimates for 1492 range from about 2 million to over 8 million.",
+        "year": 1492,
+        "certainty": "disputed",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "urbanisation": {
+        "value": "Some large settlements along rivers (Marajó Island, Upper Xingu, Llanos de Mojos).",
+        "year": 800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "disease": {
+        "value": "European diseases after 1500 killed most of the population.",
+        "year": 1550,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "migration": {
+        "value": "Tupi-speaking peoples spread along the Atlantic coast before 1500.",
+        "year": 1000,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming manioc and other crops in forest gardens; fishing and hunting.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "tradeRoutes": {
+        "value": "River trade networks.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "wealth": {
+        "value": "Wealth in food and shared goods.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "moneyAndTax": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "inequality": {
+        "value": "Varied: some groups were equal, others had chiefs and ranked lineages.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "No single state; villages and regional chiefdoms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "keyRulers": {
+        "value": "No recorded rulers in early times.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "succession": {
+        "value": "Varied by people.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "institutions": {
+        "value": "Village councils, chiefs and shamans.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "stability": {
+        "value": "Unknown before contact.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Bows, blowguns with curare poison, clubs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "majorWars": {
+        "value": "Resistance to Portuguese and Spanish slave raids.",
+        "year": 1600,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "territoryChange": {
+        "value": "Lost land to colonists, rubber tappers and later ranchers.",
+        "year": 1890,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "alliancesRivals": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Curare poison, rubber (used for balls and waterproofing), hammocks.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "scienceEducation": {
+        "value": "Knowledge of hundreds of medicinal plants.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "openness": {
+        "value": "Adopted metal tools from Europeans.",
+        "year": 1600,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Animist beliefs and shamans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "languageWriting": {
+        "value": "Hundreds of languages (Tupi-Guarani, Arawak, Carib and others).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "artsArchitecture": {
+        "value": "Pottery, featherwork and body painting.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "socialStructure": {
+        "value": "Varied.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "sharedIdentity": {
+        "value": "Many separate peoples.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Andean peoples; Portuguese and Spanish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "ideasReligions": {
+        "value": "Jesuit missions (17th–18th centuries).",
+        "year": 1650,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "colonisation": {
+        "value": "Colonised from the 16th century; the rubber boom (1879–1912) brought great violence.",
+        "year": 1900,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Managed forests and soils over thousands of years.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "peakPeriod": {
+        "value": "Possibly around 500–1500 CE, when large settlements existed.",
+        "year": 1000,
+        "certainty": "disputed",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "declineSignals": {
+        "value": "Disease after 1500 and colonisation.",
+        "year": 1550,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "outcome": {
+        "value": "Hundreds of peoples still live in the Amazon, including some with little outside contact.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Indigenous peoples in Brazil; Terra preta; Heckenberger, The Ecology of Power (2005).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      },
+      "overallCertainty": {
+        "value": "Mostly known from archaeology; population size is strongly debated.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Indigenous peoples of the Americas; Wikipedia: Terra preta"
+      }
+    }
+  }
+}

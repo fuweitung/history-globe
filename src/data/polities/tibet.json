@@ -1,0 +1,312 @@
+{
+  "id": "tibet",
+  "name": "Tibet (842–1951)",
+  "era": "medieval",
+  "region": "East Asia (Tibetan Plateau)",
+  "startYear": 842,
+  "endYear": 1951,
+  "datesApproximate": true,
+  "capital": "Lhasa",
+  "capitalCoords": [
+    91.17,
+    29.65
+  ],
+  "summary": "Tibet after the fall of the Tibetan Empire: a land of rival lords and monasteries, later governed by the Dalai Lamas from Lhasa (from 1642). Its relationship with Mongol, Qing and Republican Chinese rulers and its status before 1951 are disputed.",
+  "wikiTitle": "History of Tibet",
+  "borderNames": [
+    "Tibet",
+    "Tibetan Empire"
+  ],
+  "borderYears": [
+    849,
+    1951
+  ],
+  "color": "#c4793a",
+  "knownFor": [
+    {
+      "label": "Potala Palace",
+      "kind": "monument",
+      "year": 1649,
+      "note": "The Dalai Lamas’ palace in Lhasa, begun under the Fifth Dalai Lama."
+    },
+    {
+      "label": "Thangka",
+      "kind": "art",
+      "note": "Painted Buddhist scrolls on cloth."
+    },
+    {
+      "label": "Dalai Lama",
+      "kind": "idea",
+      "year": 1578,
+      "note": "Title of the leading lamas of the Gelug school, first given in 1578."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Tibetan Plateau north of the Himalayas, centred on Lhasa and the Yarlung Tsangpo valley.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "terrain": {
+        "value": "The highest large plateau on Earth (average over 4,000 m), surrounded by the Himalayas and Kunlun mountains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "climate": {
+        "value": "Cold and dry, with strong sun; farming only in the lower valleys.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "resources": {
+        "value": "Barley, yaks, salt, wool and gold; trade in tea and horses.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "disasters": {
+        "value": "Earthquakes (1950 Assam–Tibet earthquake) and harsh winters.",
+        "year": 1950,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Perhaps about 1 million in central Tibet in the early 20th century; estimates for wider Tibet vary greatly.",
+        "year": 1950,
+        "certainty": "disputed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "urbanisation": {
+        "value": "Mostly rural; Lhasa, Shigatse and Gyantse were the main towns.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "disease": {
+        "value": "Smallpox epidemics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "migration": {
+        "value": "Pilgrims, traders and monks travelled widely across the Himalayas and to Mongolia.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Barley farming, yak herding and trade; monasteries owned large estates.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "tradeRoutes": {
+        "value": "Tea-horse trade with China; trade with India, Nepal and Ladakh across Himalayan passes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "wealth": {
+        "value": "Wealth was held by monasteries and noble families.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "moneyAndTax": {
+        "value": "Silver coins (tangka, from the 18th century); taxes in labour and goods.",
+        "year": 1763,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "inequality": {
+        "value": "Most peasants owed labour and goods to estates of monasteries, nobles or the government; how to describe this system is debated.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "After 1642, the Ganden Phodrang government led by the Dalai Lamas, ruling through monks and lay officials.",
+        "year": 1642,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "keyRulers": {
+        "value": "Atisha (teacher, 11th century). Sakya Pandita. Tsongkhapa (founder of the Gelug school). The 5th Dalai Lama (1617–1682). The 13th Dalai Lama (1876–1933).",
+        "year": 1642,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "succession": {
+        "value": "Dalai Lamas were found as reincarnations; regents ruled in between; the Qing introduced the Golden Urn (1793) to choose them.",
+        "year": 1793,
+        "certainty": "disputed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "institutions": {
+        "value": "Monasteries, the Kashag cabinet and noble families.",
+        "year": 1751,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "stability": {
+        "value": "Long periods of division (842–1240s); civil wars between religious schools and princes.",
+        "year": 1600,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "eliteConflict": {
+        "value": "Rivalry between Buddhist schools (Sakya, Kagyu, Gelug) and their noble patrons.",
+        "year": 1600,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Small armies; Mongol and Qing forces intervened at times.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "majorWars": {
+        "value": "Dzungar invasion (1717); wars with Nepal (1788–92); British expedition to Lhasa (1903–04); Chinese People’s Liberation Army entered in 1950.",
+        "year": 1904,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "territoryChange": {
+        "value": "Under Mongol Yuan influence (from 1240s), then Qing influence (1720–1912); governed itself in practice 1913–1950.",
+        "year": 1913,
+        "certainty": "disputed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "alliancesRivals": {
+        "value": "Patron–priest relationships with Mongol and Manchu rulers; how these relate to sovereignty is disputed between Chinese and Tibetan views.",
+        "year": 1720,
+        "certainty": "disputed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Woodblock printing of Buddhist scriptures; Tibetan medicine (Sowa Rigpa).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "scienceEducation": {
+        "value": "Large monastic universities (Drepung, Sera, Ganden) trained thousands of monks.",
+        "year": 1416,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "openness": {
+        "value": "Isolated by geography; restricted foreign visitors in the 19th century.",
+        "year": 1850,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Tibetan Buddhism, with the Bön tradition.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "languageWriting": {
+        "value": "Tibetan, with its own script (from the 7th century); a huge Buddhist literature (the Kangyur and Tengyur).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "artsArchitecture": {
+        "value": "Monasteries, the Potala Palace, thangka painting, sand mandalas, ritual dance.",
+        "year": 1649,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "socialStructure": {
+        "value": "Monks, nobles and peasants; a large share of men became monks.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "sharedIdentity": {
+        "value": "A shared Buddhist culture across Tibet, Mongolia and the Himalayas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "China, the Mongols, Nepal, Bhutan, Ladakh and British India.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "ideasReligions": {
+        "value": "Buddhism from India (the second spread from the 10th century); Tibetan Buddhism spread to the Mongols.",
+        "year": 1578,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "colonisation": {
+        "value": "Not a coloniser; the subject of rival claims by neighbours.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Revival of Buddhism and monastic schools after the empire’s fall.",
+        "year": 1000,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "peakPeriod": {
+        "value": "The 5th Dalai Lama unified Tibet with Mongol help (1642).",
+        "year": 1642,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "declineSignals": {
+        "value": "Political weakness against stronger neighbours.",
+        "year": 1903,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "outcome": {
+        "value": "Incorporated into the People’s Republic of China (1950–51); the 14th Dalai Lama went into exile in 1959. China calls this a peaceful liberation; the Tibetan government in exile calls it an invasion.",
+        "year": 1951,
+        "certainty": "disputed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: History of Tibet; Kapstein, The Tibetans (2006); Goldstein, A History of Modern Tibet (1989).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      },
+      "overallCertainty": {
+        "value": "Religious history is well recorded; political status and population figures are strongly disputed.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+      }
+    }
+  }
+}

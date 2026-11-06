@@ -1,0 +1,313 @@
+{
+  "id": "arctic-peoples",
+  "name": "Inuit and Arctic peoples",
+  "era": "ancient",
+  "region": "North America (Arctic)",
+  "startYear": -2500,
+  "endYear": null,
+  "datesApproximate": true,
+  "capital": "None (seasonal camps)",
+  "capitalCoords": [
+    -95,
+    68
+  ],
+  "summary": "The peoples of the North American Arctic and Greenland: the Paleo-Inuit (including the Dorset culture) from about 2500 BCE, and the Thule people, ancestors of today’s Inuit, who spread east from Alaska around 1000–1300 CE.",
+  "wikiTitle": "Inuit",
+  "borderNames": [
+    "Arctic marine mammal hunters",
+    "Paleo-Inuit",
+    "Dorset",
+    "Thule",
+    "Inuit"
+  ],
+  "borderYears": [
+    -2500,
+    1600
+  ],
+  "color": "#6aa8c9",
+  "knownFor": [
+    {
+      "label": "Kayak and umiak",
+      "kind": "tool",
+      "note": "Skin-covered boats for hunting and travel."
+    },
+    {
+      "label": "Igloo",
+      "kind": "monument",
+      "note": "Snow houses built for winter hunting trips."
+    },
+    {
+      "label": "Toggling harpoon",
+      "kind": "weapon",
+      "note": "A harpoon head that turns sideways inside the animal so it cannot slip out."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Arctic coasts and islands from Alaska across northern Canada to Greenland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "terrain": {
+        "value": "Tundra, sea ice and rocky coasts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "climate": {
+        "value": "Very cold; long dark winters and short summers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "resources": {
+        "value": "Seals, whales, walrus, caribou, fish, driftwood, soapstone.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "disasters": {
+        "value": "Changes in sea ice; colder periods made hunting harder.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Small; probably tens of thousands at most.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "urbanisation": {
+        "value": "Small camps and winter houses.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "disease": {
+        "value": "European diseases after contact.",
+        "year": 1800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "migration": {
+        "value": "The Thule migration from Alaska to Greenland in about 1000–1300 CE replaced the Dorset people.",
+        "year": 1250,
+        "certainty": "estimated",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Hunting sea mammals and caribou; fishing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "tradeRoutes": {
+        "value": "Traded meteorite iron, copper and soapstone; met Norse Greenlanders (about 1000–1400).",
+        "year": 1200,
+        "certainty": "estimated",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "wealth": {
+        "value": "Wealth meant skill and food shared within the group.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "moneyAndTax": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "inequality": {
+        "value": "Mostly equal; successful hunters had influence.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "No state; extended families and bands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "keyRulers": {
+        "value": "No recorded rulers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "succession": {
+        "value": "Leadership by experienced hunters and elders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "institutions": {
+        "value": "Sharing customs and shamans (angakkuq).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "stability": {
+        "value": "Groups moved with the seasons and animals.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "eliteConflict": {
+        "value": "Disputes were settled by song duels and community pressure.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Bows, harpoons, spears; bone and stone tools.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "majorWars": {
+        "value": "Occasional conflicts with Norse settlers in Greenland and with neighbouring First Nations.",
+        "year": 1300,
+        "certainty": "estimated",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "territoryChange": {
+        "value": "Spread across the whole North American Arctic.",
+        "year": 1300,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "alliancesRivals": {
+        "value": "Traded with Dene and Cree peoples to the south.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Kayaks, dog sleds, snow goggles, tailored fur clothing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "scienceEducation": {
+        "value": "Detailed knowledge of ice, weather and animals passed on orally.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "openness": {
+        "value": "Adopted metal tools from Norse and later European traders.",
+        "year": 1600,
+        "certainty": "estimated",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Spirits of animals and the sea (Sedna); shamans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "languageWriting": {
+        "value": "Inuit languages (Inuktitut, Kalaallisut and others); syllabic writing introduced in the 19th century.",
+        "year": 1850,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "artsArchitecture": {
+        "value": "Carving in ivory, bone and soapstone; throat singing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "socialStructure": {
+        "value": "Families and kin groups.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "sharedIdentity": {
+        "value": "A shared Inuit identity across countries.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Norse Greenlanders, Dene, Cree, later Europeans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "ideasReligions": {
+        "value": "Christianity spread through missions in Greenland (from 1721) and Canada.",
+        "year": 1721,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "colonisation": {
+        "value": "Came under Danish, British/Canadian, American and Russian rule.",
+        "year": 1721,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Thule whaling technology allowed rapid expansion.",
+        "year": 1000,
+        "certainty": "estimated",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "peakPeriod": {
+        "value": "Thule expansion around 1200–1400.",
+        "year": 1300,
+        "certainty": "estimated",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "declineSignals": {
+        "value": "The Dorset culture disappeared around 1300–1500.",
+        "year": 1400,
+        "certainty": "estimated",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "outcome": {
+        "value": "Inuit live today in Greenland, Canada (Nunavut, created 1999), Alaska and Chukotka.",
+        "year": 1999,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Inuit; Thule people; Dorset culture.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      },
+      "overallCertainty": {
+        "value": "Mostly known from archaeology and oral history; dates are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Inuit; Wikipedia: Thule people; Wikipedia: Dorset culture"
+      }
+    }
+  }
+}
