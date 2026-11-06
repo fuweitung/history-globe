@@ -15,6 +15,13 @@ This guide is for the project team. The repository is private: only invited coll
    ```
    Open http://localhost:5173.
 
+## Seeing your changes
+
+- **On your computer:** `npm run dev`, then open http://localhost:5173. The page updates as you save files.
+- **On your phone or tablet:** connect it to the same Wi-Fi as your computer and run `npm run dev:phone`. Vite prints a “Network” address such as `http://192.168.1.23:5173`; open that on the phone.
+- **The finished version:** `npm run preview:build` builds the site exactly as it would be published and serves it (also reachable from your phone).
+- **Your partner’s work:** run `git fetch` and `git checkout <their-branch>`, then `npm run dev`, to try a pull request before merging it.
+
 ## Everyday workflow
 
 Each piece of work happens on its own **branch**, and joins the main version through a **pull request** that the other person reviews. This way nobody overwrites anyone else’s work.
