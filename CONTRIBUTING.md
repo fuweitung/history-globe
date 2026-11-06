@@ -22,6 +22,32 @@ This guide is for the project team. The repository is private: only invited coll
 - **The finished version:** `npm run preview:build` builds the site exactly as it would be published and serves it (also reachable from your phone).
 - **Your partner’s work:** run `git fetch` and `git checkout <their-branch>`, then `npm run dev`, to try a pull request before merging it.
 
+## Private online preview (Cloudflare Pages)
+
+The site is built online after every push, behind a login only the team can pass.
+
+- **Main version:** `https://history-globe.pages.dev` (updated when a pull request is merged).
+- **Each branch:** `https://<branch-name>.history-globe.pages.dev`; the link also appears in the pull request.
+- Opening either asks for your email and sends a one-time code. Only team emails are allowed.
+
+One-time setup (owner):
+1. Sign up at dash.cloudflare.com (free plan).
+2. **Workers & Pages → Create → Pages → Connect to Git**, authorise GitHub for **only** `fuweitung/history-globe`.
+3. Build settings: framework **Vite**, build command `npm run build`, output directory `dist`, production branch `main`. Node 20 is picked up from `.nvmrc`.
+4. After the first build: project **Settings → General → Access policy → Enable**. This creates a Cloudflare Access app; edit its policy to **Include → Emails** with both team emails. Login method: One-time PIN.
+5. Open the site in a private window to check that it asks for a code.
+
+## Who works on what
+
+We use **GitHub Issues** as a shared to-do list, so we never do the same job twice:
+
+1. Before starting, look at the issues (github.com/fuweitung/history-globe/issues). If yours isn't there, create it.
+2. **Claim it:** assign yourself and add the `in-progress` label. Anything already assigned belongs to the other person: ask before touching it.
+3. Work on a branch named `<initials>/<issue-number>-<short-name>`, e.g. `fw/3-oyo-details`.
+4. Open a pull request with `Closes #3` in the description; merging closes the issue.
+
+Both of our Claude Code sessions read `CLAUDE.md`, which tells them to follow these steps automatically. Tell your Claude “pick up issue #3” and it will pull, claim, branch, check and open the pull request.
+
 ## Everyday workflow
 
 Each piece of work happens on its own **branch**, and joins the main version through a **pull request** that the other person reviews. This way nobody overwrites anyone else’s work.
