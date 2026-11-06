@@ -30,8 +30,9 @@ function polityIndex(): Plugin {
     resolveId: (id) => (id === INDEX_ID ? RESOLVED_INDEX_ID : null),
     load(id) {
       if (id !== RESOLVED_INDEX_ID) return null;
-      this.addWatchFile(POLITY_DIR);
-      for (const f of readdirSync(POLITY_DIR)) this.addWatchFile(join(POLITY_DIR, f));
+      // Watch each file (not the folder itself: in dev, Vite treats watched paths as imports
+      // and a folder cannot be resolved). New files are picked up by handleHotUpdate below.
+      for (const f of readdirSync(POLITY_DIR)) if (f.endsWith('.json')) this.addWatchFile(join(POLITY_DIR, f));
       return `export default ${JSON.stringify(build())};`;
     },
     // In dev, editing (or adding) a civilisation file rebuilds the index.
