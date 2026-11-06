@@ -1,0 +1,321 @@
+{
+  "id": "bolivia",
+  "name": "Bolivia",
+  "era": "modern",
+  "region": "South America (Andes)",
+  "startYear": 1825,
+  "endYear": null,
+  "capital": "Sucre (constitutional), La Paz (seat of government)",
+  "capitalCoords": [
+    -68.15,
+    -16.5
+  ],
+  "summary": "A landlocked Andean republic named after Simón Bolívar, independent since 1825, with a large Indigenous population.",
+  "wikiTitle": "Bolivia",
+  "borderNames": [
+    "Bolivia"
+  ],
+  "borderYears": [
+    1825,
+    null
+  ],
+  "color": "#4f9a6a",
+  "knownFor": [
+    {
+      "label": "Potosí silver",
+      "kind": "tool",
+      "note": "The Cerro Rico mine made Potosí one of the richest colonial cities."
+    },
+    {
+      "label": "Salar de Uyuni",
+      "kind": "monument",
+      "note": "The world’s largest salt flat."
+    },
+    {
+      "label": "Mi Teleférico",
+      "kind": "tool",
+      "year": 2014,
+      "note": "The world’s largest urban cable-car network, in La Paz."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Central South America, landlocked; about 1.1 million km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      },
+      "terrain": {
+        "value": "The high Altiplano, the Andes, and eastern lowlands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      },
+      "climate": {
+        "value": "Cold on the Altiplano, tropical in the lowlands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      },
+      "resources": {
+        "value": "Silver, tin, natural gas, lithium.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      },
+      "disasters": {
+        "value": "Droughts and floods.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bolivia"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 12 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      },
+      "urbanisation": {
+        "value": "La Paz–El Alto and Santa Cruz.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      },
+      "disease": {
+        "value": "Chagas disease in rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bolivia"
+      },
+      "migration": {
+        "value": "Migration from the highlands to Santa Cruz and abroad.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Mining, gas, farming.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      },
+      "tradeRoutes": {
+        "value": "Exports through Chilean and Peruvian ports.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      },
+      "wealth": {
+        "value": "A lower-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      },
+      "moneyAndTax": {
+        "value": "The boliviano.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      },
+      "inequality": {
+        "value": "Historic inequality between elites and Indigenous people.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A presidential republic; “Plurinational State” since 2009.",
+        "year": 2009,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      },
+      "keyRulers": {
+        "value": "Simón Bolívar and Antonio José de Sucre (founders). Víctor Paz Estenssoro. Evo Morales (first Indigenous president, 2006).",
+        "year": 2006,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      },
+      "succession": {
+        "value": "Many coups in the 20th century.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bolivia"
+      },
+      "institutions": {
+        "value": "The 2009 constitution recognises 36 Indigenous languages.",
+        "year": 2009,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      },
+      "stability": {
+        "value": "Very many coups; the 1952 revolution.",
+        "year": 1952,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      },
+      "eliteConflict": {
+        "value": "Rivalries between regions and parties.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "A small army.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bolivia"
+      },
+      "majorWars": {
+        "value": "War of the Pacific (1879–84) and Chaco War (1932–35).",
+        "year": 1932,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      },
+      "territoryChange": {
+        "value": "Lost its coast to Chile (1884) and land to Brazil and Paraguay.",
+        "year": 1884,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      },
+      "alliancesRivals": {
+        "value": "Seeks sea access from Chile.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bolivia"
+      },
+      "scienceEducation": {
+        "value": "San Francisco Xavier University in Sucre (1624).",
+        "year": 1624,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      },
+      "openness": {
+        "value": "Varied.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bolivia"
+      },
+      "communicationTransport": {
+        "value": "Cable cars in La Paz; few railways.",
+        "year": 2014,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Catholic, mixed with Andean beliefs (Pachamama).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      },
+      "languageWriting": {
+        "value": "Spanish, Quechua, Aymara, Guaraní and others.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      },
+      "artsArchitecture": {
+        "value": "Andean textiles and music; colonial baroque churches.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      },
+      "socialStructure": {
+        "value": "Indigenous majority or large minority.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      },
+      "sharedIdentity": {
+        "value": "Strong Indigenous identity.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bolivia"
+      },
+      "dailyLife": {
+        "value": "Adobe houses on the Altiplano; potatoes, quinoa, salteñas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Brazil, Argentina, Paraguay, Chile, Peru.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      },
+      "ideasReligions": {
+        "value": "Indigenous movements.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      },
+      "colonisation": {
+        "value": "A former Spanish colony (Upper Peru).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence in 1825.",
+        "year": 1825,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      },
+      "peakPeriod": {
+        "value": "Gas boom of the 2000s.",
+        "year": 2008,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bolivia"
+      },
+      "declineSignals": {
+        "value": "Loss of the coast and instability.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Bolivia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bolivia"
+      }
+    }
+  }
+}

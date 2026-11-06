@@ -1,0 +1,321 @@
+{
+  "id": "morocco",
+  "name": "Morocco (Alaouite dynasty)",
+  "era": "early_modern",
+  "region": "North Africa",
+  "startYear": 1631,
+  "endYear": null,
+  "capital": "Rabat (earlier Fez, Meknes, Marrakesh)",
+  "capitalCoords": [
+    -6.84,
+    34.02
+  ],
+  "summary": "The kingdom of Morocco under the Alaouite dynasty, which has ruled since the 1630s–1660s. It was a French and Spanish protectorate from 1912 to 1956.",
+  "wikiTitle": "Morocco",
+  "borderNames": [
+    "Morocco"
+  ],
+  "borderYears": [
+    1631,
+    null
+  ],
+  "color": "#b0403a",
+  "knownFor": [
+    {
+      "label": "Meknes under Moulay Ismail",
+      "kind": "monument",
+      "year": 1690,
+      "note": "A walled imperial city built by Moulay Ismail."
+    },
+    {
+      "label": "Tagine",
+      "kind": "food",
+      "note": "Slow-cooked stew in a cone-lidded pot."
+    },
+    {
+      "label": "Zellige tilework",
+      "kind": "art",
+      "note": "Mosaics of small cut tiles."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "North-west Africa, on the Atlantic and Mediterranean.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      },
+      "terrain": {
+        "value": "Atlas and Rif mountains, Atlantic plains, the Sahara in the south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      },
+      "climate": {
+        "value": "Mediterranean in the north, desert in the south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      },
+      "resources": {
+        "value": "Phosphates (the largest reserves in the world), farmland, fish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      },
+      "disasters": {
+        "value": "Earthquakes (Agadir 1960, Al Haouz 2023).",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 37 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      },
+      "urbanisation": {
+        "value": "Casablanca is the largest city.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      },
+      "disease": {
+        "value": "Plague outbreaks in the 18th–19th centuries.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Morocco"
+      },
+      "migration": {
+        "value": "Emigration to Europe since the 1960s.",
+        "year": 1965,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, phosphates, tourism, car manufacturing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      },
+      "tradeRoutes": {
+        "value": "Trade with Europe across the Strait of Gibraltar.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      },
+      "wealth": {
+        "value": "A lower-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      },
+      "moneyAndTax": {
+        "value": "The dirham.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      },
+      "inequality": {
+        "value": "Gaps between cities and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Morocco"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A monarchy; constitutional monarchy with a strong king since 1962 (new constitution 2011).",
+        "year": 2011,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      },
+      "keyRulers": {
+        "value": "Moulay Rashid. Moulay Ismail (1672–1727). Mohammed V. Hassan II. Mohammed VI.",
+        "year": 1672,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      },
+      "succession": {
+        "value": "Hereditary in the Alaouite family.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      },
+      "institutions": {
+        "value": "The palace (Makhzen) and an elected parliament.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      },
+      "stability": {
+        "value": "“Years of Lead” repression under Hassan II (1960s–80s).",
+        "year": 1975,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      },
+      "eliteConflict": {
+        "value": "Rivalries within the elite and with tribes in earlier centuries.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Morocco"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Moulay Ismail’s Black Guard army of enslaved soldiers.",
+        "year": 1690,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      },
+      "majorWars": {
+        "value": "Wars with Spain (1859–60), the Rif War (1921–26), the Western Sahara conflict.",
+        "year": 1921,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      },
+      "territoryChange": {
+        "value": "Controls most of Western Sahara since 1975; its status is disputed.",
+        "year": 1975,
+        "certainty": "disputed",
+        "source": "Wikipedia: Morocco"
+      },
+      "alliancesRivals": {
+        "value": "Rival of Algeria; close to France and the US.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Morocco"
+      },
+      "scienceEducation": {
+        "value": "Al-Qarawiyyin in Fez, founded 859, is often called the oldest existing university.",
+        "year": 859,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      },
+      "openness": {
+        "value": "Open to trade with Europe.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Morocco"
+      },
+      "communicationTransport": {
+        "value": "Africa’s first high-speed railway (Al Boraq, 2018).",
+        "year": 2018,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sunni Islam; the king is “Commander of the Faithful”.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      },
+      "languageWriting": {
+        "value": "Arabic and Tamazight (official); French widely used.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      },
+      "artsArchitecture": {
+        "value": "Zellige, carved plaster, riads, gnawa music.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      },
+      "socialStructure": {
+        "value": "Arab and Amazigh communities.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Morocco"
+      },
+      "sharedIdentity": {
+        "value": "Monarchy and Islam unite the country.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Morocco"
+      },
+      "dailyLife": {
+        "value": "Riad houses around courtyards; couscous, tagine, mint tea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Algeria, Spain, Mauritania.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      },
+      "ideasReligions": {
+        "value": "Islam; later Arab nationalism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      },
+      "colonisation": {
+        "value": "French and Spanish protectorate (1912–56).",
+        "year": 1912,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "The Alaouites took Fez and Marrakesh in the 1660s.",
+        "year": 1666,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      },
+      "peakPeriod": {
+        "value": "Moulay Ismail’s reign.",
+        "year": 1700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      },
+      "declineSignals": {
+        "value": "European pressure in the 19th century.",
+        "year": 1860,
+        "certainty": "estimated",
+        "source": "Wikipedia: Morocco"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Morocco.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Morocco"
+      }
+    }
+  }
+}

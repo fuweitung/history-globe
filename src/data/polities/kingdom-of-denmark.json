@@ -1,0 +1,323 @@
+{
+  "id": "kingdom-of-denmark",
+  "name": "Kingdom of Denmark (since 1814)",
+  "era": "modern",
+  "region": "Northern Europe & North Atlantic",
+  "startYear": 1814,
+  "endYear": null,
+  "capital": "Copenhagen",
+  "capitalCoords": [
+    12.57,
+    55.68
+  ],
+  "summary": "Denmark after it lost Norway in 1814: a small kingdom that became a constitutional monarchy (1849) and welfare state, still including Greenland and the Faroe Islands.",
+  "wikiTitle": "Denmark",
+  "borderNames": [
+    "Denmark",
+    "Greenland"
+  ],
+  "borderYears": [
+    1814,
+    null
+  ],
+  "color": "#c43a4a",
+  "knownFor": [
+    {
+      "label": "LEGO",
+      "kind": "tool",
+      "year": 1958,
+      "note": "The interlocking brick, patented in 1958."
+    },
+    {
+      "label": "Hans Christian Andersen",
+      "kind": "person",
+      "year": 1835,
+      "note": "Writer of fairy tales."
+    },
+    {
+      "label": "Wind turbines",
+      "kind": "tool",
+      "note": "A pioneer of wind power."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Jutland and islands; plus Greenland and the Faroe Islands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "terrain": {
+        "value": "Flat farmland and coasts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "climate": {
+        "value": "Mild and wet.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "resources": {
+        "value": "Farmland, fish, North Sea oil and gas, wind.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "disasters": {
+        "value": "Storm floods.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 6 million (Denmark itself).",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "urbanisation": {
+        "value": "Copenhagen is the largest city.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "disease": {
+        "value": "Good public health.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Denmark"
+      },
+      "migration": {
+        "value": "Emigration to America in the 19th century.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming (dairy, pork), shipping, pharmaceuticals, wind energy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "tradeRoutes": {
+        "value": "Shipping (Maersk) and EU trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "wealth": {
+        "value": "One of the richest countries.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "moneyAndTax": {
+        "value": "The krone (not the euro).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "inequality": {
+        "value": "Low inequality.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A constitutional monarchy since 1849.",
+        "year": 1849,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "keyRulers": {
+        "value": "Frederick VII. Christian X. Margrethe II. Frederik X.",
+        "year": 1849,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "succession": {
+        "value": "Parliamentary elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "institutions": {
+        "value": "Parliament (Folketing).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "stability": {
+        "value": "Stable; occupied by Germany (1940–45).",
+        "year": 1940,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "eliteConflict": {
+        "value": "Coalition politics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Denmark"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "A small army; NATO member.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "majorWars": {
+        "value": "Schleswig Wars (1848–51, 1864).",
+        "year": 1864,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "territoryChange": {
+        "value": "Lost Schleswig-Holstein (1864); regained North Schleswig (1920); Iceland independent (1944).",
+        "year": 1864,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "alliancesRivals": {
+        "value": "NATO (1949), EU (1973).",
+        "year": 1949,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "LEGO, insulin production, loudspeaker technology.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "scienceEducation": {
+        "value": "Niels Bohr’s physics institute.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "openness": {
+        "value": "Open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "communicationTransport": {
+        "value": "Bridges (Øresund Bridge, 2000) and cycling.",
+        "year": 2000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Lutheran Church.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "languageWriting": {
+        "value": "Danish; Greenlandic and Faroese.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "artsArchitecture": {
+        "value": "Design (Arne Jacobsen), fairy tales, film.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "socialStructure": {
+        "value": "Large middle class.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Denmark"
+      },
+      "sharedIdentity": {
+        "value": "“Hygge” cosiness.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Denmark"
+      },
+      "dailyLife": {
+        "value": "Brick houses and city flats; rye bread, smørrebrød.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Germany, Sweden, Norway.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "ideasReligions": {
+        "value": "Folk high schools (Grundtvig).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "colonisation": {
+        "value": "Sold the Danish West Indies to the US (1917).",
+        "year": 1917,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Constitution of 1849.",
+        "year": 1849,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "peakPeriod": {
+        "value": "Welfare state after 1945.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Denmark"
+      },
+      "declineSignals": {
+        "value": "Loss of territory in the 19th century.",
+        "year": 1864,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Denmark.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Denmark"
+      }
+    }
+  }
+}

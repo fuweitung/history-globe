@@ -1,0 +1,321 @@
+{
+  "id": "venezuela",
+  "name": "Venezuela",
+  "era": "modern",
+  "region": "South America",
+  "startYear": 1830,
+  "endYear": null,
+  "capital": "Caracas",
+  "capitalCoords": [
+    -66.9,
+    10.48
+  ],
+  "summary": "A republic on the Caribbean coast of South America, separate from Gran Colombia since 1830, birthplace of Simón Bolívar and home to the world’s largest proven oil reserves.",
+  "wikiTitle": "Venezuela",
+  "borderNames": [
+    "Venezuela"
+  ],
+  "borderYears": [
+    1830,
+    null
+  ],
+  "color": "#c9a33a",
+  "knownFor": [
+    {
+      "label": "Angel Falls",
+      "kind": "monument",
+      "note": "The world’s highest uninterrupted waterfall."
+    },
+    {
+      "label": "Arepa",
+      "kind": "food",
+      "note": "Maize flatbread eaten every day."
+    },
+    {
+      "label": "El Sistema",
+      "kind": "art",
+      "year": 1975,
+      "note": "A free youth orchestra programme copied worldwide."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Northern South America on the Caribbean; about 916,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      },
+      "terrain": {
+        "value": "Andes in the west, the Llanos plains, the Orinoco River and the Guiana Highlands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      },
+      "resources": {
+        "value": "Oil (largest proven reserves), gold, iron, farmland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      },
+      "disasters": {
+        "value": "The Vargas mudslides (1999).",
+        "year": 1999,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 28 million, after millions emigrated.",
+        "year": 2024,
+        "certainty": "estimated",
+        "source": "Wikipedia: Venezuela"
+      },
+      "urbanisation": {
+        "value": "Caracas, Maracaibo, Valencia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      },
+      "disease": {
+        "value": "Malaria returned during the economic crisis.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Venezuela"
+      },
+      "migration": {
+        "value": "About 7–8 million people have left since 2015.",
+        "year": 2015,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Oil exports dominate (since the 1920s).",
+        "year": 1922,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      },
+      "tradeRoutes": {
+        "value": "Oil exports to the US, later China and others.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      },
+      "wealth": {
+        "value": "Rich in the 1970s; severe crisis since 2014.",
+        "year": 2014,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      },
+      "moneyAndTax": {
+        "value": "The bolívar; hyperinflation (2016–21).",
+        "year": 2017,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      },
+      "inequality": {
+        "value": "High inequality.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Venezuela"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A presidential republic; long periods of military rule.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      },
+      "keyRulers": {
+        "value": "José Antonio Páez. Juan Vicente Gómez. Rómulo Betancourt. Hugo Chávez. Nicolás Maduro.",
+        "year": 1830,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      },
+      "succession": {
+        "value": "Elections; recent results are disputed.",
+        "year": 2024,
+        "certainty": "disputed",
+        "source": "Wikipedia: Venezuela"
+      },
+      "institutions": {
+        "value": "Institutions weakened since the 2000s.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Venezuela"
+      },
+      "stability": {
+        "value": "Civil wars in the 19th century; coup attempts (1992); political crisis since 2013.",
+        "year": 1992,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      },
+      "eliteConflict": {
+        "value": "Struggles between government and opposition.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Armed forces closely tied to politics.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      },
+      "majorWars": {
+        "value": "The Federal War (1859–63).",
+        "year": 1859,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      },
+      "territoryChange": {
+        "value": "Claims the Essequibo region of Guyana.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Venezuela"
+      },
+      "alliancesRivals": {
+        "value": "Allied with Cuba, Russia and China recently.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Venezuela"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Venezuela"
+      },
+      "scienceEducation": {
+        "value": "Universities; El Sistema music education.",
+        "year": 1975,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      },
+      "openness": {
+        "value": "Varied.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Venezuela"
+      },
+      "communicationTransport": {
+        "value": "Roads and the Caracas Metro (1983).",
+        "year": 1983,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Catholic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      },
+      "languageWriting": {
+        "value": "Spanish; many Indigenous languages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      },
+      "artsArchitecture": {
+        "value": "Music (joropo), El Sistema, painting.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      },
+      "socialStructure": {
+        "value": "Mixed-race majority.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Venezuela"
+      },
+      "sharedIdentity": {
+        "value": "Bolívar is a national symbol.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Venezuela"
+      },
+      "dailyLife": {
+        "value": "City apartments and hillside barrios; arepas, black beans, plantain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Colombia, Brazil, Guyana.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      },
+      "ideasReligions": {
+        "value": "Bolivarian socialism under Chávez.",
+        "year": 1999,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      },
+      "colonisation": {
+        "value": "A former Spanish colony.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Left Gran Colombia in 1830.",
+        "year": 1830,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      },
+      "peakPeriod": {
+        "value": "Oil boom of the 1970s.",
+        "year": 1975,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      },
+      "declineSignals": {
+        "value": "Economic collapse after 2014.",
+        "year": 2014,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Venezuela.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Venezuela"
+      },
+      "overallCertainty": {
+        "value": "Recent figures are disputed.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Venezuela"
+      }
+    }
+  }
+}

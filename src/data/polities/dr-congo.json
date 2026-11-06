@@ -1,0 +1,323 @@
+{
+  "id": "dr-congo",
+  "name": "Congo Free State, Belgian Congo and DR Congo",
+  "era": "modern",
+  "region": "Central Africa",
+  "startYear": 1885,
+  "endYear": null,
+  "capital": "Kinshasa (Léopoldville)",
+  "capitalCoords": [
+    15.31,
+    -4.32
+  ],
+  "summary": "The Congo basin under Belgian king Leopold II’s Congo Free State (1885–1908), notorious for forced labour and atrocities, then the Belgian Congo, and independent since 1960 (called Zaire 1971–97).",
+  "wikiTitle": "Democratic Republic of the Congo",
+  "borderNames": [
+    "Zaire",
+    "Belgian Congo",
+    "Zaire (Belgium)",
+    "Congo Free State"
+  ],
+  "borderYears": [
+    1885,
+    null
+  ],
+  "color": "#3f78a8",
+  "knownFor": [
+    {
+      "label": "Congolese rumba",
+      "kind": "art",
+      "note": "Music recognised by UNESCO, popular across Africa."
+    },
+    {
+      "label": "Inga dams",
+      "kind": "monument",
+      "note": "Hydroelectric dams on the Congo River."
+    },
+    {
+      "label": "Cobalt",
+      "kind": "tool",
+      "note": "The DRC mines most of the world’s cobalt, used in batteries."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Central Africa, around the Congo River; about 2.3 million km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "terrain": {
+        "value": "Rainforest basin, savanna, and mountains in the east.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "climate": {
+        "value": "Tropical and humid.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "resources": {
+        "value": "Copper, cobalt, diamonds, coltan, rubber (historically), hydroelectric potential.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "disasters": {
+        "value": "Volcanic eruptions (Nyiragongo), floods.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Over 100 million.",
+        "year": 2024,
+        "certainty": "estimated",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "urbanisation": {
+        "value": "Kinshasa is one of Africa’s largest cities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "disease": {
+        "value": "Ebola outbreaks (first identified in 1976), malaria.",
+        "year": 1976,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "migration": {
+        "value": "Millions displaced by conflict in the east.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Mining and farming.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "tradeRoutes": {
+        "value": "Exports of minerals through ports and rail.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "wealth": {
+        "value": "One of the poorest countries despite great resources.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "moneyAndTax": {
+        "value": "The Congolese franc.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "inequality": {
+        "value": "Extreme inequality; mineral wealth controlled by few.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Leopold II’s private colony, a Belgian colony, then a republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "keyRulers": {
+        "value": "Leopold II. Patrice Lumumba. Mobutu Sese Seko (1965–97). Laurent-Désiré Kabila. Joseph Kabila. Félix Tshisekedi.",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "succession": {
+        "value": "Coups and disputed elections.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "institutions": {
+        "value": "Weak state institutions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "stability": {
+        "value": "The Congo Crisis (1960–65) and the Congo Wars (1996–2003), among the deadliest since 1945.",
+        "year": 1998,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "eliteConflict": {
+        "value": "Rivalries between armed groups.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Colonial Force Publique; today a large but weak army.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "majorWars": {
+        "value": "First and Second Congo Wars.",
+        "year": 1996,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "territoryChange": {
+        "value": "Borders unchanged since independence.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "alliancesRivals": {
+        "value": "Neighbours such as Rwanda and Uganda intervened in its wars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "scienceEducation": {
+        "value": "Low funding for schools.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "openness": {
+        "value": "Varied.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "communicationTransport": {
+        "value": "River boats on the Congo; colonial railways built with forced labour.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Christian; Kimbanguist church.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "languageWriting": {
+        "value": "French official; Lingala, Swahili, Kikongo, Tshiluba national languages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "artsArchitecture": {
+        "value": "Rumba music, painting, sculpture.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "socialStructure": {
+        "value": "Many ethnic groups.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "sharedIdentity": {
+        "value": "Shared music and language across regions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "dailyLife": {
+        "value": "Brick and mud houses; cassava (fufu), fish and greens.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Nine neighbours, including Angola, Rwanda, Uganda and Zambia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "ideasReligions": {
+        "value": "Christianity spread through missions.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "colonisation": {
+        "value": "A Belgian colony until 1960; up to millions died in the Congo Free State (estimates vary).",
+        "year": 1908,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence in 1960.",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "peakPeriod": {
+        "value": "Mining wealth in the 1960s–70s.",
+        "year": 1970,
+        "certainty": "estimated",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "declineSignals": {
+        "value": "War and corruption.",
+        "year": 1996,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Democratic Republic of the Congo.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      },
+      "overallCertainty": {
+        "value": "Death tolls of the Free State and the wars are disputed.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Democratic Republic of the Congo"
+      }
+    }
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "id": "afghanistan",
+  "name": "Afghanistan",
+  "era": "early_modern",
+  "region": "Central & South Asia",
+  "startYear": 1747,
+  "endYear": null,
+  "capital": "Kabul (Kandahar until 1776)",
+  "capitalCoords": [
+    69.17,
+    34.53
+  ],
+  "summary": "A mountainous state founded as the Durrani Empire by Ahmad Shah Durrani in 1747. It was a buffer between the Russian and British empires, then went through monarchy, Soviet war, civil war and Taliban rule.",
+  "wikiTitle": "Afghanistan",
+  "borderNames": [
+    "Afghanistan"
+  ],
+  "borderYears": [
+    1747,
+    null
+  ],
+  "color": "#8a6d4a",
+  "knownFor": [
+    {
+      "label": "Afghan carpets",
+      "kind": "textile",
+      "note": "Hand-knotted wool carpets, often deep red."
+    },
+    {
+      "label": "Buzkashi",
+      "kind": "art",
+      "note": "A horseback game where riders fight for a goat carcass."
+    },
+    {
+      "label": "Ahmad Shah Durrani",
+      "kind": "person",
+      "year": 1747,
+      "note": "Founder of the Durrani Empire, seen as the father of Afghanistan."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Landlocked in Central and South Asia, between Iran, Pakistan and Central Asia; about 650,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "terrain": {
+        "value": "The Hindu Kush mountains, high valleys and deserts in the south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "climate": {
+        "value": "Dry, with cold winters and hot summers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "resources": {
+        "value": "Farmland in valleys, lapis lazuli, copper and lithium deposits.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "disasters": {
+        "value": "Earthquakes (Herat, 2023) and droughts.",
+        "year": 2023,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 40 million.",
+        "year": 2024,
+        "certainty": "estimated",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "urbanisation": {
+        "value": "Kabul, Kandahar, Herat and Mazar-i-Sharif are the main cities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "disease": {
+        "value": "High child mortality; polio still present.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "migration": {
+        "value": "Millions of refugees fled to Pakistan and Iran after 1979.",
+        "year": 1979,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming and herding; opium poppy was a major crop.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "tradeRoutes": {
+        "value": "Old caravan routes between Central Asia, Iran and India.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "wealth": {
+        "value": "One of the poorest countries.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "moneyAndTax": {
+        "value": "The afghani.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "inequality": {
+        "value": "Large gaps between cities and the countryside, and between men and women.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Afghanistan"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy (1747–1973), republic, communist government, Islamic Emirate (1996–2001, and again since 2021).",
+        "year": 1973,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "keyRulers": {
+        "value": "Ahmad Shah Durrani. Dost Mohammad Khan. Amanullah Khan. Zahir Shah. Hamid Karzai.",
+        "year": 1747,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "succession": {
+        "value": "Royal succession, then coups, elections (2004–2019) and Taliban rule.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "institutions": {
+        "value": "Tribal councils (jirga) remain important.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "stability": {
+        "value": "Very unstable since 1973: coups, the Soviet war (1979–89), civil war and the US-led war (2001–21).",
+        "year": 1979,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "eliteConflict": {
+        "value": "Rivalries between ethnic and political factions.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Armies changed with each government.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "majorWars": {
+        "value": "Anglo-Afghan Wars (1839–42, 1878–80, 1919); Soviet–Afghan War; War in Afghanistan (2001–21).",
+        "year": 1839,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "territoryChange": {
+        "value": "The Durand Line (1893) set the border with British India; still disputed by Afghanistan.",
+        "year": 1893,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "alliancesRivals": {
+        "value": "A buffer state in the “Great Game” between Russia and Britain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few modern inventions; traditional irrigation (karez).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "scienceEducation": {
+        "value": "Low literacy; girls are banned from secondary school and university since 2021–22.",
+        "year": 2022,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "openness": {
+        "value": "Opened under Amanullah Khan (1920s), closed again in later periods.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "communicationTransport": {
+        "value": "The Salang Tunnel (1964) through the Hindu Kush; few railways.",
+        "year": 1964,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sunni Islam (majority), Shia minority.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "languageWriting": {
+        "value": "Pashto and Dari (Persian) are official.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "artsArchitecture": {
+        "value": "Carpets, Herat miniatures, the destroyed Buddhas of Bamiyan (2001).",
+        "year": 2001,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "socialStructure": {
+        "value": "Pashtun, Tajik, Hazara, Uzbek and other peoples.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "sharedIdentity": {
+        "value": "Strong local and tribal loyalties.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "dailyLife": {
+        "value": "Mud-brick houses in villages; bread (naan), rice (pulao), tea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Iran, Pakistan, Turkmenistan, Uzbekistan, Tajikistan, China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "ideasReligions": {
+        "value": "Islam; communism in 1978–92.",
+        "year": 1978,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "colonisation": {
+        "value": "Never formally colonised, though Britain controlled its foreign affairs until 1919.",
+        "year": 1919,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Ahmad Shah Durrani united Afghan tribes after Nader Shah’s death (1747).",
+        "year": 1747,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "peakPeriod": {
+        "value": "The Durrani Empire in the 1750s–60s reached India.",
+        "year": 1760,
+        "certainty": "estimated",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "declineSignals": {
+        "value": "Decades of war since 1978.",
+        "year": 1978,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "outcome": {
+        "value": "Still in existence; the Taliban government is not widely recognised.",
+        "year": 2021,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Afghanistan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Afghanistan"
+      },
+      "overallCertainty": {
+        "value": "Basic facts documented; population and war figures are uncertain.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Afghanistan"
+      }
+    }
+  }
+}
