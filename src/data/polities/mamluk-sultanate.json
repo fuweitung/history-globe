@@ -46,25 +46,25 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Egypt, Syria and the Hejaz.",
+        "value": "Egypt, Syria, Palestine and the Hejaz (including Mecca and Medina).",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026)"
+        "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026); Irwin, The Middle East in the Middle Ages (1986)"
       },
       "terrain": {
-        "value": "The Nile valley, Levant coast and deserts.",
+        "value": "The Nile valley, the Levant coast and the Syrian desert.",
         "year": null,
         "certainty": "estimated",
         "source": "Irwin, The Middle East in the Middle Ages (1986)"
       },
       "climate": {
-        "value": "Arid.",
+        "value": "Arid; Egypt depended on the Nile flood.",
         "year": null,
         "certainty": "estimated",
         "source": "Irwin, The Middle East in the Middle Ages (1986)"
       },
       "resources": {
-        "value": "Egyptian grain, and trade revenue.",
+        "value": "Egyptian grain and the revenues of the spice trade.",
         "year": null,
         "certainty": "estimated",
         "source": "Irwin, The Middle East in the Middle Ages (1986)"
@@ -96,7 +96,7 @@
         "source": "Irwin, The Middle East in the Middle Ages (1986)"
       },
       "migration": {
-        "value": "Mamluks were brought in from the steppe and the Caucasus.",
+        "value": "Mamluk soldiers were bought as boys from the steppe and the Caucasus.",
         "year": null,
         "certainty": "estimated",
         "source": "Irwin, The Middle East in the Middle Ages (1986)"
@@ -104,16 +104,16 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Mainly agrarian.",
+        "value": "Mainly agrarian, with large revenue from trade between Europe and the Indian Ocean.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026)"
+        "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026); Irwin, The Middle East in the Middle Ages (1986)"
       },
       "tradeRoutes": {
-        "value": "The spice trade between Europe and the Indian Ocean.",
+        "value": "The spice trade from the Red Sea through Cairo and Alexandria to Venice and Genoa.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026)"
+        "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026); Irwin, The Middle East in the Middle Ages (1986)"
       },
       "wealth": {
         "value": "No estimate is possible for this period.",
@@ -122,7 +122,7 @@
         "source": "Irwin, The Middle East in the Middle Ages (1986)"
       },
       "moneyAndTax": {
-        "value": "Gold dinars; spice monopolies under Barsbay.",
+        "value": "Gold dinars and silver dirhams; Sultan Barsbay made the spice trade a state monopoly.",
         "year": null,
         "certainty": "estimated",
         "source": "Irwin, The Middle East in the Middle Ages (1986)"
@@ -136,10 +136,10 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Military rule (stratocracy) under an elected sultan.",
+        "value": "Rule by a military caste of freed slave soldiers (mamluks) under a sultan, with a ceremonial Abbasid caliph.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026)"
+        "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026); Irwin, The Middle East in the Middle Ages (1986)"
       },
       "keyRulers": {
         "value": "Baybars (1260–1277), Qalawun, al-Nasir Muhammad, Qaitbay, Qansuh al-Ghuri.",
@@ -148,13 +148,13 @@
         "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026)"
       },
       "succession": {
-        "value": "Usually by the strongest commander.",
+        "value": "Usually by the strongest commander rather than by birth.",
         "year": null,
         "certainty": "estimated",
         "source": "Irwin, The Middle East in the Middle Ages (1986)"
       },
       "institutions": {
-        "value": "A ceremonial Abbasid caliph; a postal system (barid).",
+        "value": "The iqta‘ revenue system and a postal relay system (barid).",
         "year": null,
         "certainty": "estimated",
         "source": "Irwin, The Middle East in the Middle Ages (1986)"
@@ -174,7 +174,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Elite cavalry trained from childhood.",
+        "value": "Elite cavalry trained from childhood in archery and horsemanship.",
         "year": null,
         "certainty": "estimated",
         "source": "Irwin, The Middle East in the Middle Ages (1986)"
@@ -192,7 +192,7 @@
         "source": "Irwin, The Middle East in the Middle Ages (1986)"
       },
       "alliancesRivals": {
-        "value": "Rivals: Mongols, Crusaders, Ottomans.",
+        "value": "Allied with the Golden Horde; rivals of the Ilkhanate, the Crusaders and later the Ottomans.",
         "year": null,
         "certainty": "estimated",
         "source": "Irwin, The Middle East in the Middle Ages (1986)"
@@ -206,13 +206,13 @@
         "source": "Irwin, The Middle East in the Middle Ages (1986)"
       },
       "scienceEducation": {
-        "value": "Madrasas.",
+        "value": "Madrasas, hospitals and scholars such as Ibn Khaldun (who worked in Cairo).",
         "year": null,
         "certainty": "estimated",
         "source": "Irwin, The Middle East in the Middle Ages (1986)"
       },
       "openness": {
-        "value": "Reluctant to adopt firearms.",
+        "value": "Reluctant to adopt firearms, which hurt them against the Ottomans.",
         "year": null,
         "certainty": "estimated",
         "source": "Irwin, The Middle East in the Middle Ages (1986)"
@@ -220,16 +220,16 @@
     },
     "culture": {
       "religion": {
-        "value": "Sunni Islam.",
+        "value": "Sunni Islam, with Christian and Jewish minorities.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026)"
+        "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026); Irwin, The Middle East in the Middle Ages (1986)"
       },
       "languageWriting": {
-        "value": "Arabic, Kipchak Turkic, Circassian.",
+        "value": "Arabic, with Kipchak Turkic and Circassian among the mamluks.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026)"
+        "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026); Irwin, The Middle East in the Middle Ages (1986)"
       },
       "artsArchitecture": {
         "value": "Inlaid metalwork, enamelled glass, illuminated Qur’ans and Cairo’s Mamluk architecture.",
@@ -238,7 +238,7 @@
         "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026)"
       },
       "socialStructure": {
-        "value": "Mamluks, scholars, merchants, peasants.",
+        "value": "Mamluk elite, scholars, merchants, townspeople and peasants.",
         "year": null,
         "certainty": "estimated",
         "source": "Irwin, The Middle East in the Middle Ages (1986)"
@@ -252,7 +252,7 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Mongols, Crusaders, Ottomans.",
+        "value": "The Ilkhanate, the Crusader states, the Ottomans and Ethiopia.",
         "year": null,
         "certainty": "estimated",
         "source": "Irwin, The Middle East in the Middle Ages (1986)"
