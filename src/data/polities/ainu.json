@@ -1,0 +1,322 @@
+{
+  "id": "ainu",
+  "name": "Ainu and their ancestors",
+  "era": "medieval",
+  "region": "East Asia (Japan & Sakhalin)",
+  "startYear": -300,
+  "endYear": null,
+  "datesApproximate": true,
+  "capital": "None (villages)",
+  "capitalCoords": [
+    142.5,
+    43.5
+  ],
+  "summary": "The Indigenous people of Hokkaido, Sakhalin and the Kuril Islands, whose culture grew from the Epi-Jōmon and Satsumon cultures. Japan absorbed Hokkaido in 1869.",
+  "wikiTitle": "Ainu people",
+  "borderNames": [
+    "Ainu",
+    "Okhotsk culture"
+  ],
+  "borderYears": [
+    -300,
+    1869
+  ],
+  "color": "#7a8ab0",
+  "knownFor": [
+    {
+      "label": "Attus robes",
+      "kind": "textile",
+      "note": "Cloth woven from elm bark, with bold patterns."
+    },
+    {
+      "label": "Iyomante",
+      "kind": "idea",
+      "note": "A ceremony sending a bear spirit back to the gods."
+    },
+    {
+      "label": "Yukar epics",
+      "kind": "art",
+      "note": "Long sung stories."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Hokkaido, Sakhalin, the Kuril Islands and northern Honshu.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      },
+      "terrain": {
+        "value": "Forests, rivers and coasts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      },
+      "climate": {
+        "value": "Cold winters, deep snow.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      },
+      "resources": {
+        "value": "Salmon, deer, bears, forest plants.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      },
+      "disasters": {
+        "value": "Hard winters.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ainu people"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Perhaps 20,000–30,000 in the 19th century.",
+        "year": 1850,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ainu people"
+      },
+      "urbanisation": {
+        "value": "Villages (kotan).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      },
+      "disease": {
+        "value": "Smallpox brought by Japanese traders.",
+        "year": 1850,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      },
+      "migration": {
+        "value": "Pushed north by Japanese settlement.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Hunting, fishing, gathering, small farming.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      },
+      "tradeRoutes": {
+        "value": "Trade with Japan (Matsumae clan) and China via Sakhalin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      },
+      "wealth": {
+        "value": "Wealth in trade goods.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ainu people"
+      },
+      "moneyAndTax": {
+        "value": "Trade under Matsumae control.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      },
+      "inequality": {
+        "value": "Village chiefs.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ainu people"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Villages led by chiefs; no state.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      },
+      "keyRulers": {
+        "value": "Shakushain, who led a revolt in 1669.",
+        "year": 1669,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      },
+      "succession": {
+        "value": "Family lines.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ainu people"
+      },
+      "institutions": {
+        "value": "Custom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ainu people"
+      },
+      "stability": {
+        "value": "Revolts against the Matsumae (1669, 1789).",
+        "year": 1669,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ainu people"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Bows with poison arrows.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      },
+      "majorWars": {
+        "value": "Shakushain’s revolt (1669).",
+        "year": 1669,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      },
+      "territoryChange": {
+        "value": "Lost land to Japan (1869) and Russia.",
+        "year": 1869,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      },
+      "alliancesRivals": {
+        "value": "Trade partners of Japan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Bark-cloth weaving, poison arrows.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ainu people"
+      },
+      "scienceEducation": {
+        "value": "Oral epics.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      },
+      "openness": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ainu people"
+      },
+      "communicationTransport": {
+        "value": "Dugout canoes and walking.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Kamuy (spirits) in animals and nature.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      },
+      "languageWriting": {
+        "value": "Ainu, a language isolate, now endangered.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      },
+      "artsArchitecture": {
+        "value": "Carving, embroidery, bark cloth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      },
+      "socialStructure": {
+        "value": "Villages and families.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ainu people"
+      },
+      "sharedIdentity": {
+        "value": "Shared Ainu identity.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ainu people"
+      },
+      "dailyLife": {
+        "value": "Thatched houses (chise); salmon, venison, wild plants.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Japanese and Russians.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      },
+      "ideasReligions": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ainu people"
+      },
+      "colonisation": {
+        "value": "Hokkaido annexed by Japan in 1869; assimilation policies followed.",
+        "year": 1869,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Ainu culture formed around the 13th century.",
+        "year": 1200,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      },
+      "peakPeriod": {
+        "value": "Before Japanese expansion.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ainu people"
+      },
+      "declineSignals": {
+        "value": "Japanese settlement and assimilation.",
+        "year": 1869,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      },
+      "outcome": {
+        "value": "Recognised as Indigenous by Japan in 2019.",
+        "year": 2019,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Ainu people.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people"
+      },
+      "overallCertainty": {
+        "value": "Early history known from archaeology.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ainu people"
+      }
+    }
+  }
+}

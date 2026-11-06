@@ -1,0 +1,322 @@
+{
+  "id": "hafsid-sultanate",
+  "name": "Hafsid Sultanate",
+  "era": "medieval",
+  "region": "North Africa",
+  "startYear": 1229,
+  "endYear": 1574,
+  "capital": "Tunis",
+  "capitalCoords": [
+    10.17,
+    36.8
+  ],
+  "summary": "A Berber dynasty ruling Tunisia and eastern Algeria from Tunis after breaking from the Almohads, until the Ottoman conquest of 1574.",
+  "wikiTitle": "Hafsid dynasty",
+  "borderNames": [
+    "Hafsid Caliphate",
+    "Hafsids"
+  ],
+  "borderYears": [
+    1229,
+    1574
+  ],
+  "color": "#b07a3a",
+  "knownFor": [
+    {
+      "label": "Ibn Khaldun",
+      "kind": "person",
+      "year": 1377,
+      "note": "Historian born in Tunis, author of the Muqaddimah."
+    },
+    {
+      "label": "Zitouna Mosque",
+      "kind": "monument",
+      "note": "Great mosque and centre of learning in Tunis."
+    },
+    {
+      "label": "Medina of Tunis",
+      "kind": "monument",
+      "note": "The old city, a World Heritage Site."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Tunisia and eastern Algeria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "terrain": {
+        "value": "Mediterranean coast and plains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "climate": {
+        "value": "Mediterranean.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "resources": {
+        "value": "Olive oil, grain, trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "disasters": {
+        "value": "The Black Death (1348).",
+        "year": 1348,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "urbanisation": {
+        "value": "Tunis was a major city.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "disease": {
+        "value": "Plague.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "migration": {
+        "value": "Andalusi refugees from Spain.",
+        "year": 1492,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming and Mediterranean trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "tradeRoutes": {
+        "value": "Trade with Italian cities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "wealth": {
+        "value": "No estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "moneyAndTax": {
+        "value": "Gold and silver coins.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "inequality": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hafsid dynasty"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Sultanate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "keyRulers": {
+        "value": "Abu Zakariya Yahya. Abu Abdallah al-Mustansir.",
+        "year": 1229,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "succession": {
+        "value": "Hereditary.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "institutions": {
+        "value": "Maliki Islamic law.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "stability": {
+        "value": "Civil wars in the 14th century.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "eliteConflict": {
+        "value": "Rival princes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hafsid dynasty"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Army and corsairs.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "majorWars": {
+        "value": "The Eighth Crusade attacked Tunis (1270).",
+        "year": 1270,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "territoryChange": {
+        "value": "Lost to the Ottomans and Spain.",
+        "year": 1574,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "alliancesRivals": {
+        "value": "Trade with Venice, Genoa and Aragon.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "scienceEducation": {
+        "value": "Zitouna Mosque university.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "openness": {
+        "value": "Open to Mediterranean trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "communicationTransport": {
+        "value": "Ships and caravans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sunni Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "languageWriting": {
+        "value": "Arabic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "artsArchitecture": {
+        "value": "Mosques and madrasas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "socialStructure": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "sharedIdentity": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "dailyLife": {
+        "value": "Courtyard houses; couscous, bread, olive oil.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Marinids, Zayyanids, Italian states.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "ideasReligions": {
+        "value": "Islamic learning.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence from the Almohads (1229).",
+        "year": 1229,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "peakPeriod": {
+        "value": "13th century.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "declineSignals": {
+        "value": "Internal strife.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "outcome": {
+        "value": "Conquered by the Ottomans (1574).",
+        "year": 1574,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Hafsid dynasty.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty"
+      }
+    }
+  }
+}

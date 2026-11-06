@@ -1,0 +1,323 @@
+{
+  "id": "pala-empire",
+  "name": "Pala Empire",
+  "era": "medieval",
+  "region": "South Asia (Bengal)",
+  "startYear": 750,
+  "endYear": 1161,
+  "capital": "Pataliputra and others",
+  "capitalCoords": [
+    85.14,
+    25.6
+  ],
+  "summary": "A Buddhist empire in Bengal and Bihar, patron of the great monastic universities of Nalanda and Vikramashila.",
+  "wikiTitle": "Pala Empire",
+  "borderNames": [
+    "Palas",
+    "Pala Empire"
+  ],
+  "borderYears": [
+    750,
+    1161
+  ],
+  "color": "#c49a3a",
+  "knownFor": [
+    {
+      "label": "Vikramashila",
+      "kind": "monument",
+      "year": 800,
+      "note": "A great Buddhist university."
+    },
+    {
+      "label": "Somapura Mahavihara",
+      "kind": "monument",
+      "note": "Huge monastery, a World Heritage Site."
+    },
+    {
+      "label": "Atisha",
+      "kind": "person",
+      "year": 1042,
+      "note": "Monk who travelled to Tibet."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Bengal and Bihar.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "terrain": {
+        "value": "Ganges plain and delta.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "climate": {
+        "value": "Monsoon.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "resources": {
+        "value": "Rice, rivers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "disasters": {
+        "value": "Floods.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pala Empire"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "urbanisation": {
+        "value": "Pataliputra and monastery towns.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "disease": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "migration": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pala Empire"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Rice farming and trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "tradeRoutes": {
+        "value": "Trade with Southeast Asia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "wealth": {
+        "value": "No estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "moneyAndTax": {
+        "value": "Coins.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "inequality": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pala Empire"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "keyRulers": {
+        "value": "Gopala. Dharmapala. Devapala.",
+        "year": 770,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "succession": {
+        "value": "Hereditary.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "institutions": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "stability": {
+        "value": "Long-lived.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pala Empire"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "majorWars": {
+        "value": "Tripartite struggle with the Pratiharas and Rashtrakutas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "territoryChange": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "alliancesRivals": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pala Empire"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "scienceEducation": {
+        "value": "Nalanda and Vikramashila universities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "openness": {
+        "value": "Ties to Tibet and Southeast Asia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "communicationTransport": {
+        "value": "Rivers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pala Empire"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mahayana and Vajrayana Buddhism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "languageWriting": {
+        "value": "Sanskrit, early Bengali.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "artsArchitecture": {
+        "value": "Pala sculpture.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "socialStructure": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "sharedIdentity": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "dailyLife": {
+        "value": "Brick and thatch houses; rice and fish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pala Empire"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Pratiharas, Rashtrakutas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "ideasReligions": {
+        "value": "Spread Buddhism to Tibet.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pala Empire"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Election of Gopala (about 750).",
+        "year": 750,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "peakPeriod": {
+        "value": "Under Dharmapala and Devapala.",
+        "year": 820,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "declineSignals": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "outcome": {
+        "value": "Replaced by the Sena dynasty.",
+        "year": 1161,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pala Empire"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Pala Empire.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pala Empire"
+      },
+      "overallCertainty": {
+        "value": "Partly known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pala Empire"
+      }
+    }
+  }
+}

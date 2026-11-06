@@ -1,0 +1,324 @@
+{
+  "id": "poland-lithuania-medieval",
+  "name": "Kingdom of Poland and Grand Duchy of Lithuania",
+  "era": "medieval",
+  "region": "Central & Eastern Europe",
+  "startYear": 1025,
+  "endYear": 1569,
+  "capital": "Kraków; Vilnius",
+  "capitalCoords": [
+    19.94,
+    50.06
+  ],
+  "summary": "The medieval Kingdom of Poland and the Grand Duchy of Lithuania, joined by a personal union in 1386 under the Jagiellonian dynasty, before forming the Commonwealth in 1569.",
+  "wikiTitle": "Kingdom of Poland (1385–1569)",
+  "borderNames": [
+    "Poland",
+    "Poland-Lithuania",
+    "Lithuania"
+  ],
+  "borderYears": [
+    1000,
+    1568
+  ],
+  "color": "#c45050",
+  "knownFor": [
+    {
+      "label": "Battle of Grunwald",
+      "kind": "monument",
+      "year": 1410,
+      "note": "Poland and Lithuania defeated the Teutonic Knights."
+    },
+    {
+      "label": "Jagiellonian University",
+      "kind": "idea",
+      "year": 1364,
+      "note": "Founded in Kraków; Copernicus studied there."
+    },
+    {
+      "label": "Wawel Castle",
+      "kind": "monument",
+      "note": "Royal castle in Kraków."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Poland, Lithuania, Belarus and much of Ukraine.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "terrain": {
+        "value": "Plains, forests, rivers (Vistula, Dnieper).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "climate": {
+        "value": "Continental.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "resources": {
+        "value": "Grain, timber, salt (Wieliczka mine).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "disasters": {
+        "value": "The Black Death was relatively mild in Poland.",
+        "year": 1348,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Several million.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "urbanisation": {
+        "value": "Kraków, Vilnius, Gdańsk.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "disease": {
+        "value": "Plague outbreaks.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "migration": {
+        "value": "Jewish and German settlers welcomed.",
+        "year": 1264,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming and the grain trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "tradeRoutes": {
+        "value": "Baltic grain exports through Gdańsk.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "wealth": {
+        "value": "Growing wealth from grain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "moneyAndTax": {
+        "value": "Coins (grosz).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "inequality": {
+        "value": "Nobles gained privileges; peasants increasingly bound to land.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy (Poland) and grand duchy (Lithuania), united in 1386.",
+        "year": 1386,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "keyRulers": {
+        "value": "Bolesław I the Brave. Casimir III the Great. Jadwiga and Władysław II Jagiełło. Vytautas the Great.",
+        "year": 1386,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "succession": {
+        "value": "Hereditary, increasingly elected by nobles.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "institutions": {
+        "value": "Statute of Kalisz (1264) protected Jews.",
+        "year": 1264,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "stability": {
+        "value": "Generally stable.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "eliteConflict": {
+        "value": "Nobles vs kings.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Heavy cavalry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "majorWars": {
+        "value": "Wars with the Teutonic Knights, Muscovy and the Tatars.",
+        "year": 1410,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "territoryChange": {
+        "value": "Lithuania stretched to the Black Sea under Vytautas.",
+        "year": 1430,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "alliancesRivals": {
+        "value": "Union of Krewo (1385).",
+        "year": 1385,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "scienceEducation": {
+        "value": "Kraków Academy (1364).",
+        "year": 1364,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "openness": {
+        "value": "Religious tolerance relatively high.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "communicationTransport": {
+        "value": "Rivers and trade roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Catholic; Orthodox in Lithuanian lands; Jewish communities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "languageWriting": {
+        "value": "Polish, Lithuanian, Ruthenian; Latin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "artsArchitecture": {
+        "value": "Gothic churches, Wawel.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "socialStructure": {
+        "value": "Nobles (szlachta), townspeople, peasants, Jews.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the dynasty and nobility.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "dailyLife": {
+        "value": "Wooden village houses; bread, kasha, beer.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Teutonic Order, Muscovy, Hungary, Tatars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "ideasReligions": {
+        "value": "Lithuania converted to Christianity (1387).",
+        "year": 1387,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Unification of Poland (1320).",
+        "year": 1320,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "peakPeriod": {
+        "value": "The Jagiellonian age (15th–16th centuries).",
+        "year": 1500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "declineSignals": {
+        "value": "None; it became the Commonwealth.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "outcome": {
+        "value": "Formed the Polish–Lithuanian Commonwealth (1569).",
+        "year": 1569,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      },
+      "overallCertainty": {
+        "value": "Well documented.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+      }
+    }
+  }
+}

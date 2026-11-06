@@ -1,0 +1,322 @@
+{
+  "id": "yemen-states",
+  "name": "Yemeni states (Zaydi imamate and others)",
+  "era": "medieval",
+  "region": "Middle East (Yemen)",
+  "startYear": 897,
+  "endYear": 1962,
+  "datesApproximate": true,
+  "capital": "Sanaa and others",
+  "capitalCoords": [
+    44.21,
+    15.35
+  ],
+  "summary": "The states of Yemen and Hadramaut, including the Zaydi imamate (897–1962) and dynasties such as the Rasulids, famous for coffee and tall mud-brick towns.",
+  "wikiTitle": "Zaydi imams of Yemen",
+  "borderNames": [
+    "Yemen",
+    "Hadramaut"
+  ],
+  "borderYears": [
+    897,
+    1815
+  ],
+  "color": "#a85a4a",
+  "knownFor": [
+    {
+      "label": "Mocha coffee",
+      "kind": "food",
+      "note": "Coffee traded through the port of Mocha."
+    },
+    {
+      "label": "Shibam",
+      "kind": "monument",
+      "note": "The “Manhattan of the desert”, mud-brick towers."
+    },
+    {
+      "label": "Old City of Sanaa",
+      "kind": "monument",
+      "note": "Decorated tower houses."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Yemen and Hadramaut.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "terrain": {
+        "value": "Mountains and valleys.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "climate": {
+        "value": "Monsoon rains in the mountains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "resources": {
+        "value": "Coffee, frankincense, terrace farming.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Yemen"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "urbanisation": {
+        "value": "Sanaa, Shibam, Zabid.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "disease": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "migration": {
+        "value": "Hadramis traded and settled across the Indian Ocean.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Yemen"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Terrace farming and trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "tradeRoutes": {
+        "value": "Coffee exports from Mocha.",
+        "year": 1600,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "wealth": {
+        "value": "No estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "moneyAndTax": {
+        "value": "Coins.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "inequality": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Yemen"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Imamate and sultanates.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "keyRulers": {
+        "value": "Al-Hadi ila’l-Haqq (founder, 897).",
+        "year": 897,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "succession": {
+        "value": "Imams chosen from the Prophet’s descendants.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "institutions": {
+        "value": "Zaydi law.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "stability": {
+        "value": "Often divided.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Yemen"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "majorWars": {
+        "value": "Wars with the Ottomans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "territoryChange": {
+        "value": "Ottoman rule at times.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "alliancesRivals": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Yemen"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "scienceEducation": {
+        "value": "Zabid was a centre of learning.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "openness": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "communicationTransport": {
+        "value": "Camels and ships.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Yemen"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Zaydi Shia and Sunni Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "languageWriting": {
+        "value": "Arabic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "artsArchitecture": {
+        "value": "Tower houses.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "socialStructure": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "sharedIdentity": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "dailyLife": {
+        "value": "Multi-storey mud-brick houses; bread, honey, coffee.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Yemen"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Ottomans, Hejaz, Oman.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "ideasReligions": {
+        "value": "Islam to Southeast Asia via Hadrami traders.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "colonisation": {
+        "value": "Ottomans and British (Aden).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Yemen"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Founding of the imamate (897).",
+        "year": 897,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "peakPeriod": {
+        "value": "Rasulid period (13th–15th centuries).",
+        "year": 1300,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "declineSignals": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "outcome": {
+        "value": "The imamate ended in 1962.",
+        "year": 1962,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Yemen"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: History of Yemen.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Yemen"
+      },
+      "overallCertainty": {
+        "value": "General.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Yemen"
+      }
+    }
+  }
+}

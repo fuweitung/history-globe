@@ -1,0 +1,322 @@
+{
+  "id": "darfur-sultanate",
+  "name": "Sultanate of Darfur",
+  "era": "early_modern",
+  "region": "Northeast Africa (Sahel)",
+  "startYear": 1603,
+  "endYear": 1916,
+  "datesApproximate": true,
+  "capital": "El Fasher",
+  "capitalCoords": [
+    25.35,
+    13.63
+  ],
+  "summary": "A Fur sultanate in western Sudan, a trading state on the Forty Days Road to Egypt, ended by Britain in 1916.",
+  "wikiTitle": "Sultanate of Darfur",
+  "borderNames": [
+    "Darfur"
+  ],
+  "borderYears": [
+    1603,
+    1916
+  ],
+  "color": "#a87a4a",
+  "knownFor": [
+    {
+      "label": "Forty Days Road",
+      "kind": "tool",
+      "note": "A caravan route to Egypt."
+    },
+    {
+      "label": "Ali Dinar",
+      "kind": "person",
+      "year": 1916,
+      "note": "The last sultan."
+    },
+    {
+      "label": "Jebel Marra",
+      "kind": "monument",
+      "note": "Volcanic mountains at the heart of Fur land."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Western Sudan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "terrain": {
+        "value": "Savanna, desert, Jebel Marra mountains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "climate": {
+        "value": "Hot and dry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "resources": {
+        "value": "Farmland, cattle, trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Darfur"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "urbanisation": {
+        "value": "El Fasher.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "disease": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "migration": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sultanate of Darfur"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, herding, trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "tradeRoutes": {
+        "value": "Caravans to Egypt.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "wealth": {
+        "value": "No estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "moneyAndTax": {
+        "value": "Trade goods.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "inequality": {
+        "value": "Sultan and nobles.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sultanate of Darfur"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Sultanate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "keyRulers": {
+        "value": "Sulayman Solongdungu. Ali Dinar.",
+        "year": 1898,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "succession": {
+        "value": "Royal family.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "institutions": {
+        "value": "Islamic law.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "stability": {
+        "value": "Wars with neighbours.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sultanate of Darfur"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Cavalry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "majorWars": {
+        "value": "Wars with Wadai and Egypt.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "territoryChange": {
+        "value": "Conquered by Egypt (1874), restored (1898), taken by Britain (1916).",
+        "year": 1874,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "alliancesRivals": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sultanate of Darfur"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "scienceEducation": {
+        "value": "Islamic learning.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "openness": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "communicationTransport": {
+        "value": "Camel caravans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Darfur"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sunni Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "languageWriting": {
+        "value": "Fur and Arabic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "artsArchitecture": {
+        "value": "Palace architecture.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "socialStructure": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "sharedIdentity": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "dailyLife": {
+        "value": "Mud houses; millet.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Darfur"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Wadai, Kordofan, Egypt.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "ideasReligions": {
+        "value": "Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "colonisation": {
+        "value": "Annexed by Britain (1916).",
+        "year": 1916,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Darfur"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Trade wealth.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "peakPeriod": {
+        "value": "18th century.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "declineSignals": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "outcome": {
+        "value": "Part of Sudan today.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Darfur"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Sultanate of Darfur.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Darfur"
+      },
+      "overallCertainty": {
+        "value": "Partly known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sultanate of Darfur"
+      }
+    }
+  }
+}

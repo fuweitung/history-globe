@@ -1,0 +1,321 @@
+{
+  "id": "taino-caribbean",
+  "name": "Taíno and Caribbean peoples",
+  "era": "medieval",
+  "region": "Caribbean",
+  "startYear": -4000,
+  "endYear": 1650,
+  "datesApproximate": true,
+  "capital": "None (chiefdoms)",
+  "capitalCoords": [
+    -72,
+    19
+  ],
+  "summary": "The peoples of the Caribbean islands, especially the Taíno of the Greater Antilles, the first Americans to meet Columbus in 1492. Their population collapsed under Spanish rule.",
+  "wikiTitle": "Taíno",
+  "borderNames": [
+    "Caribbean hunter-gatherers"
+  ],
+  "borderYears": [
+    -4000,
+    1650
+  ],
+  "color": "#4fa39a",
+  "knownFor": [
+    {
+      "label": "Hammock",
+      "kind": "tool",
+      "note": "The word comes from Taíno “hamaca”."
+    },
+    {
+      "label": "Cassava bread",
+      "kind": "food",
+      "note": "Flatbread made from grated cassava."
+    },
+    {
+      "label": "Batey ball game",
+      "kind": "art",
+      "note": "A ball game played on courts."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Caribbean islands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      },
+      "terrain": {
+        "value": "Islands with mountains, forests and coasts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      },
+      "resources": {
+        "value": "Cassava, fish, cotton.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      },
+      "disasters": {
+        "value": "Hurricanes (a Taíno word).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Hispaniola alone may have had hundreds of thousands to over a million people in 1492.",
+        "year": 1492,
+        "certainty": "disputed",
+        "source": "Wikipedia: Taíno"
+      },
+      "urbanisation": {
+        "value": "Villages of a few hundred to a few thousand.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      },
+      "disease": {
+        "value": "European diseases killed most Taíno after 1492.",
+        "year": 1518,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      },
+      "migration": {
+        "value": "Arawakan peoples arrived from South America.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming cassava in mounds (conucos), fishing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      },
+      "tradeRoutes": {
+        "value": "Canoe trade between islands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      },
+      "wealth": {
+        "value": "No estimate is possible.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Taíno"
+      },
+      "moneyAndTax": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      },
+      "inequality": {
+        "value": "Caciques (chiefs) and nobles above commoners.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Chiefdoms led by caciques.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      },
+      "keyRulers": {
+        "value": "Anacaona, Hatuey, Guarionex.",
+        "year": 1500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      },
+      "succession": {
+        "value": "Often through the mother’s line.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Taíno"
+      },
+      "institutions": {
+        "value": "Councils and religion.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Taíno"
+      },
+      "stability": {
+        "value": "Rivalry between chiefdoms.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Taíno"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Taíno"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Wooden clubs, bows.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      },
+      "majorWars": {
+        "value": "Resistance to Spanish conquest (Hatuey, 1512).",
+        "year": 1512,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      },
+      "territoryChange": {
+        "value": "Lost their islands to Spain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      },
+      "alliancesRivals": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Taíno"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Hammocks, canoes, cassava processing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      },
+      "scienceEducation": {
+        "value": "Oral knowledge.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      },
+      "openness": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Taíno"
+      },
+      "communicationTransport": {
+        "value": "Dugout canoes between islands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Zemí spirits and ancestors.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      },
+      "languageWriting": {
+        "value": "Taíno (Arawakan); words like hurricane, canoe, barbecue.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      },
+      "artsArchitecture": {
+        "value": "Zemí carvings, ball courts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      },
+      "socialStructure": {
+        "value": "Caciques, nobles, commoners.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      },
+      "sharedIdentity": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Taíno"
+      },
+      "dailyLife": {
+        "value": "Round houses (bohío) of wood and thatch; cassava bread, fish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Kalinago (Island Caribs).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      },
+      "ideasReligions": {
+        "value": "Christianity forced by Spain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      },
+      "colonisation": {
+        "value": "Colonised by Spain from 1492.",
+        "year": 1492,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Farming villages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      },
+      "peakPeriod": {
+        "value": "About 1200–1500.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Taíno"
+      },
+      "declineSignals": {
+        "value": "Conquest and disease after 1492.",
+        "year": 1492,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      },
+      "outcome": {
+        "value": "Descendants survive in Caribbean populations today.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Taíno.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Taíno"
+      },
+      "overallCertainty": {
+        "value": "Population figures are strongly disputed.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Taíno"
+      }
+    }
+  }
+}

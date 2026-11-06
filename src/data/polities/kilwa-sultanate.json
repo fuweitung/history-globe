@@ -13,7 +13,9 @@
   ],
   "summary": "A Swahili trading state on an island off Tanzania whose authority at its height stretched along the whole Swahili Coast. It grew rich on gold from Great Zimbabwe and Indian Ocean trade.",
   "wikiTitle": "Kilwa Sultanate",
-  "borderNames": [],
+  "borderNames": [
+    "Islamic city-states"
+  ],
   "color": "#3f9a8a",
   "checklist": {
     "geography": {
@@ -314,5 +316,9 @@
       "year": 1100,
       "note": "Some of the earliest coins minted in sub-Saharan Africa."
     }
+  ],
+  "borderYears": [
+    957,
+    1513
   ]
 }

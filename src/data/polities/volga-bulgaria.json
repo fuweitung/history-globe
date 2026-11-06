@@ -1,0 +1,323 @@
+{
+  "id": "volga-bulgaria",
+  "name": "Volga Bulgaria",
+  "era": "medieval",
+  "region": "Eastern Europe (Volga)",
+  "startYear": 700,
+  "endYear": 1240,
+  "datesApproximate": true,
+  "capital": "Bolghar",
+  "capitalCoords": [
+    49.08,
+    54.98
+  ],
+  "summary": "A Turkic state on the middle Volga that converted to Islam in 922 and grew rich from the fur trade, until the Mongols conquered it.",
+  "wikiTitle": "Volga Bulgaria",
+  "borderNames": [
+    "Volga Bulgars",
+    "Bulgar Khanate"
+  ],
+  "borderYears": [
+    700,
+    1300
+  ],
+  "color": "#5a8aa0",
+  "knownFor": [
+    {
+      "label": "Ibn Fadlan’s journey",
+      "kind": "person",
+      "year": 922,
+      "note": "An Abbasid envoy who described the Volga Bulgars."
+    },
+    {
+      "label": "Bolghar",
+      "kind": "monument",
+      "note": "Ruined city, a World Heritage Site."
+    },
+    {
+      "label": "Fur trade",
+      "kind": "tool",
+      "note": "Furs from the north sold south."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The middle Volga and Kama rivers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "terrain": {
+        "value": "Forest-steppe and rivers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "climate": {
+        "value": "Cold winters.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "resources": {
+        "value": "Furs, grain, honey.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "disasters": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Volga Bulgaria"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "urbanisation": {
+        "value": "Bolghar and Bilär were large towns.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "disease": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "migration": {
+        "value": "Bulgars moved north from the Black Sea steppe (7th century).",
+        "year": 670,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Trade, farming.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "tradeRoutes": {
+        "value": "Furs and slaves traded to the Abbasid world.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "wealth": {
+        "value": "Rich trading centre.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "moneyAndTax": {
+        "value": "Coins from the 10th century.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "inequality": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Volga Bulgaria"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Khanate under an emir.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "keyRulers": {
+        "value": "Almış (converted 922).",
+        "year": 922,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "succession": {
+        "value": "Hereditary.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "institutions": {
+        "value": "Islamic law.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "stability": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Volga Bulgaria"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "majorWars": {
+        "value": "Wars with Kievan Rus’ and the Mongols.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "territoryChange": {
+        "value": "Conquered by the Mongols (1236).",
+        "year": 1236,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "alliancesRivals": {
+        "value": "Ties to the Abbasid Caliphate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "scienceEducation": {
+        "value": "Islamic learning.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "openness": {
+        "value": "Open to trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "communicationTransport": {
+        "value": "River boats on the Volga.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Islam from 922.",
+        "year": 922,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "languageWriting": {
+        "value": "Bulgar Turkic; Arabic script.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "artsArchitecture": {
+        "value": "Mosques, mausoleums.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "socialStructure": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "sharedIdentity": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "dailyLife": {
+        "value": "Wooden and brick houses; bread, meat, fish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Khazars, Rus’, Mongols.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "ideasReligions": {
+        "value": "Spread Islam north.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Fur trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "peakPeriod": {
+        "value": "10th–12th centuries.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "declineSignals": {
+        "value": "Mongol invasion.",
+        "year": 1236,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "outcome": {
+        "value": "Part of the Golden Horde; ancestors of the Volga Tatars and Chuvash.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Volga Bulgaria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Volga Bulgaria"
+      },
+      "overallCertainty": {
+        "value": "Partly known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Volga Bulgaria"
+      }
+    }
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "id": "western-xia",
+  "name": "Western Xia (Tangut Empire)",
+  "era": "medieval",
+  "region": "East Asia (north-west China)",
+  "startYear": 1038,
+  "endYear": 1227,
+  "capital": "Xingqing (Yinchuan)",
+  "capitalCoords": [
+    106.27,
+    38.47
+  ],
+  "summary": "An empire of the Tangut people in north-west China, with its own script, destroyed by Genghis Khan in 1227.",
+  "wikiTitle": "Western Xia",
+  "borderNames": [
+    "Xixia",
+    "Western Xia",
+    "Hsi Hsia"
+  ],
+  "borderYears": [
+    1000,
+    1227
+  ],
+  "color": "#9a7a4a",
+  "knownFor": [
+    {
+      "label": "Tangut script",
+      "kind": "idea",
+      "year": 1036,
+      "note": "A complex script of about 6,000 characters."
+    },
+    {
+      "label": "Western Xia tombs",
+      "kind": "monument",
+      "note": "Royal tombs near Yinchuan."
+    },
+    {
+      "label": "Buddhist printing",
+      "kind": "tool",
+      "note": "Printed many Buddhist texts."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Ningxia, Gansu and parts of Inner Mongolia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Western Xia"
+      },
+      "terrain": {
+        "value": "Yellow River valley and deserts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Western Xia"
+      },
+      "climate": {
+        "value": "Dry continental.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Western Xia"
+      },
+      "resources": {
+        "value": "Irrigated farmland, horses, salt.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Western Xia"
+      },
+      "disasters": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Western Xia"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 3 million.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Western Xia"
+      },
+      "urbanisation": {
+        "value": "Xingqing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Western Xia"
+      },
+      "disease": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Western Xia"
+      },
+      "migration": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Western Xia"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming and herding.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Western Xia"
+      },
+      "tradeRoutes": {
+        "value": "Silk Road routes (Hexi Corridor).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Western Xia"
+      },
+      "wealth": {
+        "value": "No estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Western Xia"
+      },
+      "moneyAndTax": {
+        "value": "Coins.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Western Xia"
+      },
+      "inequality": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Western Xia"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Empire.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Western Xia"
+      },
+      "keyRulers": {
+        "value": "Li Yuanhao (founder, 1038).",
+        "year": 1038,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Western Xia"
+      },
+      "succession": {
+        "value": "Hereditary.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Western Xia"
+      },
+      "institutions": {
+        "value": "Chinese-style law code.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Western Xia"
+      },
+      "stability": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Western Xia"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Western Xia"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Cavalry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Western Xia"
+      },
+      "majorWars": {
+        "value": "Wars with the Song and Liao; destroyed by the Mongols (1227).",
+        "year": 1227,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Western Xia"
+      },
+      "territoryChange": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Western Xia"
+      },
+      "alliancesRivals": {
+        "value": "Rival of Song.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Western Xia"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Movable-type printing in Tangut.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Western Xia"
+      },
+      "scienceEducation": {
+        "value": "Buddhist scholarship.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Western Xia"
+      },
+      "openness": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Western Xia"
+      },
+      "communicationTransport": {
+        "value": "Horses and camels.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Western Xia"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Buddhism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Western Xia"
+      },
+      "languageWriting": {
+        "value": "Tangut, with its own script.",
+        "year": 1036,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Western Xia"
+      },
+      "artsArchitecture": {
+        "value": "Buddhist art, pagodas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Western Xia"
+      },
+      "socialStructure": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Western Xia"
+      },
+      "sharedIdentity": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Western Xia"
+      },
+      "dailyLife": {
+        "value": "Rammed-earth houses and tents.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Western Xia"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Song, Liao, Jin, Mongols.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Western Xia"
+      },
+      "ideasReligions": {
+        "value": "Buddhism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Western Xia"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Western Xia"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Founded 1038.",
+        "year": 1038,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Western Xia"
+      },
+      "peakPeriod": {
+        "value": "11th–12th centuries.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Western Xia"
+      },
+      "declineSignals": {
+        "value": "Mongol invasions.",
+        "year": 1205,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Western Xia"
+      },
+      "outcome": {
+        "value": "Destroyed by the Mongols (1227).",
+        "year": 1227,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Western Xia"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Western Xia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Western Xia"
+      },
+      "overallCertainty": {
+        "value": "Script long undeciphered; history partly known.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Western Xia"
+      }
+    }
+  }
+}

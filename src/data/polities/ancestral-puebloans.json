@@ -1,0 +1,325 @@
+{
+  "id": "ancestral-puebloans",
+  "name": "Ancestral Puebloans and Mogollon",
+  "era": "medieval",
+  "region": "North America (Southwest)",
+  "startYear": 200,
+  "endYear": null,
+  "datesApproximate": true,
+  "capital": "Chaco Canyon (centre around 1050)",
+  "capitalCoords": [
+    -107.96,
+    36.06
+  ],
+  "summary": "Farming peoples of the American Southwest who built great houses at Chaco Canyon and cliff dwellings at Mesa Verde. Their descendants include the Hopi and other Pueblo peoples.",
+  "wikiTitle": "Ancestral Puebloans",
+  "borderNames": [
+    "Anasazi",
+    "Mogollon"
+  ],
+  "borderYears": [
+    200,
+    1600
+  ],
+  "color": "#c08a5a",
+  "knownFor": [
+    {
+      "label": "Chaco Canyon great houses",
+      "kind": "monument",
+      "year": 1050,
+      "note": "Multi-storey stone buildings; a World Heritage Site."
+    },
+    {
+      "label": "Mesa Verde cliff dwellings",
+      "kind": "monument",
+      "year": 1250,
+      "note": "Homes built in cliff alcoves."
+    },
+    {
+      "label": "Mimbres pottery",
+      "kind": "art",
+      "year": 1100,
+      "note": "Black-on-white bowls from the Mogollon region."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Four Corners region of the US Southwest and northern Mexico.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "terrain": {
+        "value": "Canyons, mesas and deserts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "climate": {
+        "value": "Dry, with hot summers and cold winters.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "resources": {
+        "value": "Maize, beans, squash; turquoise.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "disasters": {
+        "value": "A great drought (1276–1299) helped cause sites to be abandoned.",
+        "year": 1276,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Tens of thousands.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "urbanisation": {
+        "value": "Great houses and pueblos with hundreds of rooms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "disease": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "migration": {
+        "value": "Moved south and east around 1300.",
+        "year": 1300,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Dry farming of maize with water control.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "tradeRoutes": {
+        "value": "Turquoise traded to Mesoamerica; macaws brought north.",
+        "year": 1050,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "wealth": {
+        "value": "No estimate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "moneyAndTax": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "inequality": {
+        "value": "Some elite burials at Chaco.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ancestral Puebloans"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Communities led by religious leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "keyRulers": {
+        "value": "No rulers are known.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "succession": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "institutions": {
+        "value": "Kivas (round ceremonial rooms).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "stability": {
+        "value": "Abandonment of large centres around 1300.",
+        "year": 1300,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "eliteConflict": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ancestral Puebloans"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Bows and arrows.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "majorWars": {
+        "value": "Little evidence of war until about 1250.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "territoryChange": {
+        "value": "Moved to the Rio Grande and Hopi mesas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "alliancesRivals": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ancestral Puebloans"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Water-control systems, multi-storey masonry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "scienceEducation": {
+        "value": "Astronomical alignments (Sun Dagger).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "openness": {
+        "value": "Unknown.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "communicationTransport": {
+        "value": "Straight roads radiating from Chaco.",
+        "year": 1050,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Kachina beliefs (later Pueblo religion).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "languageWriting": {
+        "value": "Ancestors of Hopi, Zuni and Keresan speakers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "artsArchitecture": {
+        "value": "Pottery, masonry, rock art.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "socialStructure": {
+        "value": "Mostly communal.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "sharedIdentity": {
+        "value": "Shared pueblo culture.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "dailyLife": {
+        "value": "Stone and adobe apartment pueblos; maize, beans, squash.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Hohokam, Fremont, later Navajo and Apache.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "ideasReligions": {
+        "value": "Exchange with Mesoamerica.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "colonisation": {
+        "value": "Spanish colonisation from 1598.",
+        "year": 1598,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Farming villages grew from about 700.",
+        "year": 700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "peakPeriod": {
+        "value": "Chaco Canyon, about 900–1150.",
+        "year": 1050,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "declineSignals": {
+        "value": "Long droughts.",
+        "year": 1276,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "outcome": {
+        "value": "Pueblo peoples continue today.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Ancestral Puebloans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancestral Puebloans"
+      },
+      "overallCertainty": {
+        "value": "Known from archaeology and tree-ring dating.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ancestral Puebloans"
+      }
+    }
+  }
+}
