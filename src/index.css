@@ -90,6 +90,28 @@ body,
   .event-marker.is-now .event-dot { animation: none; }
 }
 
+/* Declutter (MapView.declutter): overlapping events become one bubble with a count;
+   the rest of the group is hidden until the map is zoomed in. */
+.event-marker.is-grouped,
+.person-marker.is-grouped { visibility: hidden; pointer-events: none; }
+.event-marker.has-group::after {
+  content: attr(data-count);
+  position: absolute;
+  top: -7px;
+  right: -9px;
+  min-width: 17px;
+  height: 17px;
+  padding: 0 4px;
+  border-radius: 999px;
+  background: var(--color-gold-400);
+  color: #14161c;
+  font: 700 10px/17px system-ui, sans-serif;
+  text-align: center;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.5);
+  pointer-events: none;
+}
+.event-marker.has-group .event-dot { box-shadow: 0 0 0 3px color-mix(in srgb, var(--c) 35%, transparent), 0 2px 8px rgba(0, 0, 0, 0.45); }
+
 /* ── MapLibre control theming ──────────────────────────────── */
 .maplibregl-ctrl-group {
   background: rgba(18, 26, 51, 0.85) !important;
@@ -173,6 +195,9 @@ body,
   outline: none;
   z-index: 5;
 }
+/* No room for the name here: show the icon only (the name is in the tooltip). */
+.person-marker.name-hidden:not(:hover):not(:focus-visible):not(.is-selected) .person-name { display: none; }
+.person-marker.name-hidden:not(:hover):not(:focus-visible):not(.is-selected) { min-width: 24px; justify-content: center; padding: 3px; }
 @media (max-width: 640px) {
   .person-marker .person-name { display: none; }
   .person-marker { min-width: 24px; justify-content: center; padding: 3px; }
