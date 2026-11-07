@@ -46,25 +46,25 @@
         "source": "Wikipedia: Albania"
       },
       "terrain": {
-        "value": "Mountains and coastal plains.",
+        "value": "Mountainous, with coastal plains.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Albania"
       },
       "climate": {
-        "value": "Mediterranean.",
+        "value": "Mediterranean on the coast, colder in the mountains.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Albania"
       },
       "resources": {
-        "value": "Oil, chrome, hydropower.",
+        "value": "Oil, chrome, hydropower, farmland and beaches.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Albania"
       },
       "disasters": {
-        "value": "Earthquake (2019).",
+        "value": "Earthquake (2019), 51 dead.",
         "year": 2019,
         "certainty": "confirmed",
         "source": "Wikipedia: Albania"
@@ -72,25 +72,25 @@
     },
     "population": {
       "population": {
-        "value": "About 2.4 million.",
+        "value": "About 2.4 million at home and as many abroad.",
         "year": 2024,
         "certainty": "confirmed",
         "source": "Wikipedia: Albania"
       },
       "urbanisation": {
-        "value": "Tirana, Durrës.",
+        "value": "About 64% urban; Tirana has about 900,000 people.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Albania"
       },
       "disease": {
-        "value": "Moderate.",
+        "value": "Life expectancy around 79 years.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Albania"
       },
       "migration": {
-        "value": "Large emigration since 1991.",
+        "value": "Mass emigration to Italy and Greece after 1991.",
         "year": 1991,
         "certainty": "confirmed",
         "source": "Wikipedia: Albania"
@@ -98,13 +98,13 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming, tourism, remittances.",
+        "value": "Tourism, farming, remittances and energy.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Albania"
       },
       "tradeRoutes": {
-        "value": "Trade with Italy.",
+        "value": "Port of Durrës.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Albania"
@@ -122,7 +122,7 @@
         "source": "Wikipedia: Albania"
       },
       "inequality": {
-        "value": "Moderate.",
+        "value": "Rural poverty.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Albania"
@@ -136,7 +136,7 @@
         "source": "Wikipedia: Albania"
       },
       "keyRulers": {
-        "value": "King Zog. Enver Hoxha.",
+        "value": "King Zog. Enver Hoxha (communist leader, 1944–85). Edi Rama.",
         "year": 1944,
         "certainty": "confirmed",
         "source": "Wikipedia: Albania"
@@ -148,7 +148,7 @@
         "source": "Wikipedia: Albania"
       },
       "institutions": {
-        "value": "Parliament.",
+        "value": "Parliament; justice reform since 2016.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Albania"
@@ -160,7 +160,7 @@
         "source": "Wikipedia: Albania"
       },
       "eliteConflict": {
-        "value": "Party politics.",
+        "value": "Socialist and Democratic party rivalry.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Albania"
@@ -168,25 +168,25 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "NATO member (2009).",
+        "value": "NATO member since 2009.",
         "year": 2009,
         "certainty": "confirmed",
         "source": "Wikipedia: Albania"
       },
       "majorWars": {
-        "value": "Occupied by Italy (1939).",
+        "value": "Italian invasion (1939); partisan war (1943–44).",
         "year": 1939,
         "certainty": "confirmed",
         "source": "Wikipedia: Albania"
       },
       "territoryChange": {
-        "value": "Borders set in 1913.",
+        "value": "Independence (1912).",
         "year": 1913,
         "certainty": "confirmed",
         "source": "Wikipedia: Albania"
       },
       "alliancesRivals": {
-        "value": "NATO; EU candidate.",
+        "value": "EU candidate; NATO.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Albania"
@@ -200,7 +200,7 @@
         "source": "Wikipedia: Albania"
       },
       "scienceEducation": {
-        "value": "Literacy campaigns.",
+        "value": "University of Tirana (1957).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Albania"
@@ -212,7 +212,7 @@
         "source": "Wikipedia: Albania"
       },
       "communicationTransport": {
-        "value": "Roads.",
+        "value": "Roads; few railways.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Albania"
@@ -226,31 +226,31 @@
         "source": "Wikipedia: Albania"
       },
       "languageWriting": {
-        "value": "Albanian.",
+        "value": "Albanian, written in the Latin alphabet since 1908.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Albania"
       },
       "artsArchitecture": {
-        "value": "Iso-polyphonic singing.",
+        "value": "Ottoman towns of Berat and Gjirokastër; concrete bunkers.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Albania"
       },
       "socialStructure": {
-        "value": "Moderate.",
+        "value": "Mostly Albanian; Greek minority.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Albania"
       },
       "sharedIdentity": {
-        "value": "Albanian identity across religions.",
+        "value": "Language and the national hero Skanderbeg.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Albania"
       },
       "dailyLife": {
-        "value": "Houses and flats; byrek.",
+        "value": "Byrek, fërgesë, coffee culture.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Albania"
@@ -270,8 +270,8 @@
         "source": "Wikipedia: Albania"
       },
       "colonisation": {
-        "value": "None.",
-        "year": null,
+        "value": "Under Ottoman rule (1400s–1912).",
+        "year": 1479,
         "certainty": "confirmed",
         "source": "Wikipedia: Albania"
       }
@@ -284,7 +284,7 @@
         "source": "Wikipedia: Albania"
       },
       "peakPeriod": {
-        "value": "Varied.",
+        "value": "Recent growth in tourism.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Albania"

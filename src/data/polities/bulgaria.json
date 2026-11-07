@@ -40,7 +40,7 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "South-east Europe on the Black Sea.",
+        "value": "South-eastern Europe on the Black Sea; about 111,000 km².",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bulgaria"
@@ -52,19 +52,19 @@
         "source": "Wikipedia: Bulgaria"
       },
       "climate": {
-        "value": "Continental.",
+        "value": "Continental, milder near the Black Sea.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bulgaria"
       },
       "resources": {
-        "value": "Farmland, roses.",
+        "value": "Farmland, roses (rose oil), copper, coal and Black Sea tourism.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bulgaria"
       },
       "disasters": {
-        "value": "Earthquakes.",
+        "value": "Earthquakes and floods.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bulgaria"
@@ -72,25 +72,25 @@
     },
     "population": {
       "population": {
-        "value": "About 6.4 million.",
+        "value": "About 6.4 million, falling fast because of emigration and low birth rates.",
         "year": 2024,
         "certainty": "confirmed",
         "source": "Wikipedia: Bulgaria"
       },
       "urbanisation": {
-        "value": "Sofia, Plovdiv, Varna.",
+        "value": "About 75% urban; Sofia has about 1.3 million people.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bulgaria"
       },
       "disease": {
-        "value": "Moderate.",
+        "value": "Life expectancy around 75 years, among the lowest in the EU.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Bulgaria"
       },
       "migration": {
-        "value": "Population falling through emigration.",
+        "value": "Hundreds of thousands have left since 1989; ethnic Turks were forced out in 1989.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bulgaria"
@@ -98,31 +98,31 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Industry, farming, tourism.",
+        "value": "Services, IT outsourcing, farming, mining and tourism.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bulgaria"
       },
       "tradeRoutes": {
-        "value": "EU since 2007.",
+        "value": "Black Sea ports of Varna and Burgas; EU single market since 2007.",
         "year": 2007,
         "certainty": "confirmed",
         "source": "Wikipedia: Bulgaria"
       },
       "wealth": {
-        "value": "An upper-middle-income country.",
+        "value": "The poorest EU country per person, though growing.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bulgaria"
       },
       "moneyAndTax": {
-        "value": "The lev.",
-        "year": null,
+        "value": "The lev (joining the euro from 2026); a 10% flat tax.",
+        "year": 2026,
         "certainty": "confirmed",
         "source": "Wikipedia: Bulgaria"
       },
       "inequality": {
-        "value": "Moderate inequality.",
+        "value": "High inequality for the EU; poor rural areas and Roma communities.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Bulgaria"
@@ -136,19 +136,19 @@
         "source": "Wikipedia: Bulgaria"
       },
       "keyRulers": {
-        "value": "Tsar Ferdinand. Todor Zhivkov.",
+        "value": "Tsar Ferdinand. Todor Zhivkov (communist leader, 1954–89).",
         "year": 1954,
         "certainty": "confirmed",
         "source": "Wikipedia: Bulgaria"
       },
       "succession": {
-        "value": "Elections.",
+        "value": "Monarchy until 1946; communist rule until 1989; elections since.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bulgaria"
       },
       "institutions": {
-        "value": "National Assembly.",
+        "value": "National Assembly and Constitutional Court.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bulgaria"
@@ -160,7 +160,7 @@
         "source": "Wikipedia: Bulgaria"
       },
       "eliteConflict": {
-        "value": "Frequent elections recently.",
+        "value": "Frequent party splits; anti-corruption protests.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Bulgaria"
@@ -168,25 +168,25 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "NATO member.",
+        "value": "NATO member since 2004.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bulgaria"
       },
       "majorWars": {
-        "value": "Balkan Wars and both World Wars.",
+        "value": "Russo-Turkish War leading to autonomy (1877–78); Balkan Wars (1912–13); both world wars on the losing side.",
         "year": 1912,
         "certainty": "confirmed",
         "source": "Wikipedia: Bulgaria"
       },
       "territoryChange": {
-        "value": "Borders changed after the Balkan Wars.",
+        "value": "Lost land after the Second Balkan War and the First World War.",
         "year": 1913,
         "certainty": "confirmed",
         "source": "Wikipedia: Bulgaria"
       },
       "alliancesRivals": {
-        "value": "NATO (2004), EU (2007).",
+        "value": "EU and NATO; historic ties with Russia.",
         "year": 2007,
         "certainty": "confirmed",
         "source": "Wikipedia: Bulgaria"
@@ -212,7 +212,7 @@
         "source": "Wikipedia: Bulgaria"
       },
       "communicationTransport": {
-        "value": "Roads and railways.",
+        "value": "Railways and motorways; Black Sea ports.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bulgaria"
@@ -220,37 +220,37 @@
     },
     "culture": {
       "religion": {
-        "value": "Bulgarian Orthodox.",
+        "value": "Mostly Bulgarian Orthodox; about 10% Muslim (Turks and Pomaks).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bulgaria"
       },
       "languageWriting": {
-        "value": "Bulgarian.",
-        "year": null,
+        "value": "Bulgarian, written in Cyrillic, which was developed in the First Bulgarian Empire (900s).",
+        "year": 893,
         "certainty": "confirmed",
         "source": "Wikipedia: Bulgaria"
       },
       "artsArchitecture": {
-        "value": "Monasteries, folk music.",
+        "value": "Rila Monastery, Orthodox icons and polyphonic folk singing.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bulgaria"
       },
       "socialStructure": {
-        "value": "Moderate.",
+        "value": "Bulgarian majority; Turkish (about 8%) and Roma minorities.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Bulgaria"
       },
       "sharedIdentity": {
-        "value": "National identity.",
+        "value": "Pride in the medieval empires and the Cyrillic alphabet.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bulgaria"
       },
       "dailyLife": {
-        "value": "Houses and flats; yoghurt, banitsa.",
+        "value": "Apartments and village houses; banitsa, yoghurt, shopska salad.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bulgaria"
@@ -264,34 +264,34 @@
         "source": "Wikipedia: Bulgaria"
       },
       "ideasReligions": {
-        "value": "Orthodoxy.",
+        "value": "Orthodox Christianity; Cyrillic spread to Russia and Serbia.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Bulgaria"
       },
       "colonisation": {
-        "value": "None.",
-        "year": null,
+        "value": "Under Ottoman rule for nearly 500 years (1396–1878).",
+        "year": 1396,
         "certainty": "confirmed",
         "source": "Wikipedia: Bulgaria"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Liberation (1878).",
-        "year": 1878,
+        "value": "Autonomy (1878); independence (1908).",
+        "year": 1908,
         "certainty": "confirmed",
         "source": "Wikipedia: Bulgaria"
       },
       "peakPeriod": {
-        "value": "Interwar period.",
+        "value": "The medieval First and Second Bulgarian Empires; the modern state grew most after 2007.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Bulgaria"
       },
       "declineSignals": {
-        "value": "Communist era.",
-        "year": null,
+        "value": "Economic collapse in the 1990s.",
+        "year": 1996,
         "certainty": "estimated",
         "source": "Wikipedia: Bulgaria"
       },

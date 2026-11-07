@@ -63,7 +63,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | · Modern | `███████████████████░` 97% |  |
 | Civilisations shown on the map | `██████████████████░░` 92% | 380 of 413; the rest fly to their capital |
 | Checklist filled in | `████████████████████` 100% | 17759 of 17759 items (413 × 43) |
-| Answers with real detail | `████████████░░░░░░░░` 60% | 6839 answers are still under 40 characters |
+| Answers with real detail | `████████████░░░░░░░░` 61% | 6597 answers are still under 40 characters |
 | Fact-checked against a source | `████░░░░░░░░░░░░░░░░` 20% | 3559 items say “(checked …)”; the rest still need a second look |
 | Civilisations with events | `████████████████████` 100% | 413 of 413 |
 | Civilisations with famous people | `███████████████░░░░░` 73% | 303 of 413; many prehistoric cultures have no known names |
