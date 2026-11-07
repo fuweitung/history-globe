@@ -40,57 +40,57 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Shan plateau, eastern Myanmar.",
+        "value": "The Shan plateau of eastern Myanmar, between the Irrawaddy valley, Yunnan (China), Laos and Thailand.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
       },
       "terrain": {
-        "value": "Hills and valleys.",
+        "value": "A high plateau (about 1,000 m) cut by the Salween River, with valleys, lakes such as Inle and steep hills.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
       },
       "climate": {
-        "value": "Cooler highlands.",
+        "value": "Cooler than lowland Burma, with a monsoon rainy season and dry winters.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
       },
       "resources": {
-        "value": "Rice, tea, timber, silver.",
+        "value": "Rice in the valleys, tea, teak forests and silver and lead at Bawdwin.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
       },
       "disasters": {
-        "value": "Floods.",
+        "value": "Floods, landslides and wars that burned towns.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Shan States"
       }
     },
     "population": {
       "population": {
-        "value": "Uncertain.",
+        "value": "Perhaps 1–1.5 million in the 1800s, many of them hill peoples rather than Shan.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Shan States"
       },
       "urbanisation": {
-        "value": "Small princely towns.",
+        "value": "Small walled princely capitals such as Hsipaw, Kengtung, Yawnghwe and Hsenwi.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
       },
       "disease": {
-        "value": "Malaria and smallpox.",
+        "value": "Malaria in the valleys; smallpox.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Shan States"
       },
       "migration": {
-        "value": "Tai peoples moved in after 1200.",
+        "value": "Tai-speaking Shan settled the valleys after about 1200; Kachin, Palaung, Wa and other peoples lived in the hills.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
@@ -98,31 +98,31 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Rice farming, trade.",
+        "value": "Wet-rice farming in valleys, tea and forest products in the hills.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
       },
       "tradeRoutes": {
-        "value": "Routes to China and Siam.",
+        "value": "Mule caravans linked Burma with Yunnan and northern Thailand.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
       },
       "wealth": {
-        "value": "Modest.",
+        "value": "Modest; princes taxed rice and caravans.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
       },
       "moneyAndTax": {
-        "value": "Tribute.",
+        "value": "Silver, rice and tribute paid to the saopha and to the Burmese king.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
       },
       "inequality": {
-        "value": "Princely families above farmers.",
+        "value": "Princely families (saophas) and officials above farmers; hill peoples were often subordinate.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
@@ -130,37 +130,37 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Hereditary principalities.",
+        "value": "About 30–40 principalities, each under a hereditary saopha (“lord of the sky”).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
       },
       "keyRulers": {
-        "value": "Saophas of Hsenwi, Mong Mao and others.",
-        "year": null,
+        "value": "Saophas of Mong Mao, Hsenwi and Kengtung; Sao Shwe Thaik of Yawnghwe (first president of Burma, 1948).",
+        "year": 1948,
         "certainty": "estimated",
         "source": "Wikipedia: Shan States"
       },
       "succession": {
-        "value": "Hereditary.",
+        "value": "Hereditary within princely families, confirmed by the Burmese king or later the British.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
       },
       "institutions": {
-        "value": "Princely courts.",
+        "value": "Princely courts with ministers; Buddhist monasteries.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
       },
       "stability": {
-        "value": "Frequent wars between states.",
+        "value": "Frequent wars between principalities and with Burmese kings.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
       },
       "eliteConflict": {
-        "value": "Rival princes.",
+        "value": "Rival saophas and succession disputes.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
@@ -168,25 +168,25 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Infantry.",
+        "value": "Infantry and cavalry levies; later muskets.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
       },
       "majorWars": {
-        "value": "Shan raids on Ava (1527).",
+        "value": "A Shan confederation took Ava and ruled Upper Burma (1527–55); Toungoo conquest (1557).",
         "year": 1527,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
       },
       "territoryChange": {
-        "value": "Under Toungoo and Konbaung Burma.",
-        "year": null,
+        "value": "Under Toungoo and Konbaung Burma; British protectorate from 1887; Federated Shan States (1922).",
+        "year": 1887,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
       },
       "alliancesRivals": {
-        "value": "Burma, China, Siam.",
+        "value": "Burmese kings, Chinese frontier officials and Lan Na.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
@@ -194,25 +194,25 @@
     },
     "technology": {
       "inventions": {
-        "value": "No major inventions are recorded.",
+        "value": "No major inventions; Shan paper (from mulberry bark) and lacquerware.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Shan States"
       },
       "scienceEducation": {
-        "value": "Monastery schools.",
+        "value": "Monastery schools taught reading and Buddhist texts.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
       },
       "openness": {
-        "value": "Open to trade.",
+        "value": "Open to caravan trade with China and Siam.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Shan States"
       },
       "communicationTransport": {
-        "value": "Mountain trails.",
+        "value": "Mule and pony caravans; boats on Inle Lake.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
@@ -220,37 +220,37 @@
     },
     "culture": {
       "religion": {
-        "value": "Theravada Buddhism.",
+        "value": "Theravada Buddhism; spirit (nat) beliefs.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
       },
       "languageWriting": {
-        "value": "Shan script.",
+        "value": "Shan (a Tai language) in its own script.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
       },
       "artsArchitecture": {
-        "value": "Pagodas.",
+        "value": "Pagodas, monasteries and haw (princely palaces).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
       },
       "socialStructure": {
-        "value": "Princes and villagers; hill peoples.",
+        "value": "Princes, officials, monks, farmers; hill peoples.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
       },
       "sharedIdentity": {
-        "value": "Shan (Tai) identity.",
+        "value": "A Tai (Shan) identity distinct from the Burmese.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
       },
       "dailyLife": {
-        "value": "Rice and tea.",
+        "value": "Rice, Shan noodles, tea; houses on stilts.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
@@ -258,13 +258,13 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Burma, Yunnan, Lan Na.",
+        "value": "Burma, Yunnan (China), Lan Na, Lao kingdoms.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
       },
       "ideasReligions": {
-        "value": "Buddhism.",
+        "value": "Buddhist kingship shared with Burma and Siam.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
@@ -278,26 +278,26 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "After Pagan fell (1287).",
+        "value": "Tai principalities grew after Pagan fell (1287).",
         "year": 1287,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
       },
       "peakPeriod": {
-        "value": "Uncertain.",
-        "year": null,
+        "value": "Shan rule over Ava (1527–55).",
+        "year": 1540,
         "certainty": "estimated",
         "source": "Wikipedia: Shan States"
       },
       "declineSignals": {
-        "value": "Burmese and British control.",
-        "year": null,
+        "value": "Conquered by Bayinnaung (1557).",
+        "year": 1557,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
       },
       "outcome": {
-        "value": "Joined Burma (1948).",
-        "year": 1948,
+        "value": "Joined independent Burma (1948); the saophas gave up their powers in 1959.",
+        "year": 1959,
         "certainty": "confirmed",
         "source": "Wikipedia: Shan States"
       }

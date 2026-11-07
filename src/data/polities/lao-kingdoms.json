@@ -50,39 +50,39 @@
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "terrain": {
-        "value": "Mountains and river valleys.",
+        "value": "Mountains and plateaus around the Mekong valley, with fertile river plains near Vientiane.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "climate": {
-        "value": "Tropical monsoon.",
+        "value": "Tropical monsoon: wet summers, dry and cooler winters.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "resources": {
-        "value": "Rice, forest goods.",
+        "value": "Rice, forest products (cardamom, benzoin, ivory) and river fish.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "disasters": {
-        "value": "Floods.",
+        "value": "Floods on the Mekong and wars that emptied towns.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       }
     },
     "population": {
       "population": {
-        "value": "Uncertain.",
+        "value": "Perhaps several hundred thousand in each kingdom.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "urbanisation": {
-        "value": "Small royal towns.",
+        "value": "Royal towns of Luang Prabang, Vientiane and Champasak, with temples and markets.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
@@ -94,7 +94,7 @@
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "migration": {
-        "value": "Siam moved many Lao people west (1828).",
+        "value": "After 1828 Siam moved tens of thousands of Lao people to the Khorat plateau (north-east Thailand).",
         "year": 1828,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
@@ -102,31 +102,31 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Rice farming, forest products.",
+        "value": "Wet-rice farming and forest products sold to Siam and China.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "tradeRoutes": {
-        "value": "Mekong trade.",
+        "value": "Mekong river trade and caravans to Yunnan and Siam.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "wealth": {
-        "value": "Modest.",
+        "value": "Modest; royal wealth from tribute.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "moneyAndTax": {
-        "value": "Tribute and labour.",
+        "value": "Silver and tribute in kind; corvée labour.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "inequality": {
-        "value": "Nobles and villagers.",
+        "value": "Royalty and nobles above farmers; hill peoples treated as inferior; some slavery.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
@@ -134,37 +134,37 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Buddhist monarchies.",
+        "value": "Buddhist monarchies, vassals of Siam from 1779 (and partly of Vietnam).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "keyRulers": {
-        "value": "Anouvong of Vientiane.",
+        "value": "Anouvong of Vientiane (1805–28); Oun Kham of Luang Prabang.",
         "year": 1805,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "succession": {
-        "value": "Royal families.",
+        "value": "Royal families, with Siamese approval.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "institutions": {
-        "value": "Monkhood.",
+        "value": "Courts with noble officials (chao); the Buddhist monkhood.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "stability": {
-        "value": "Vassals of Siam from 1779.",
+        "value": "Weak after 1779; Vientiane was destroyed in 1828.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "eliteConflict": {
-        "value": "Rival kingdoms.",
+        "value": "Rivalry between Luang Prabang and Vientiane.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
@@ -172,25 +172,25 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Infantry and elephants.",
+        "value": "Infantry, elephants and some firearms.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "majorWars": {
-        "value": "Lao rebellion (1826–28).",
-        "year": 1826,
+        "value": "Siamese conquest (1779); Anouvong’s rebellion (1826–28); Haw (Chinese) raids (1870s–80s).",
+        "year": 1779,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "territoryChange": {
-        "value": "Siam took the Emerald Buddha (1779).",
+        "value": "Siam took the Emerald Buddha to Bangkok (1779) and annexed the west bank of the Mekong.",
         "year": 1779,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "alliancesRivals": {
-        "value": "Siam and Vietnam overlords.",
+        "value": "Siam and Vietnam as overlords; rivals of each other.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
@@ -198,25 +198,25 @@
     },
     "technology": {
       "inventions": {
-        "value": "No major inventions are recorded.",
+        "value": "No major inventions.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "scienceEducation": {
-        "value": "Temple schools.",
+        "value": "Temple schools; palm-leaf manuscripts.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "openness": {
-        "value": "Open to trade.",
+        "value": "Open to river trade.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "communicationTransport": {
-        "value": "River boats.",
+        "value": "River boats on the Mekong; elephants and footpaths.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
@@ -224,37 +224,37 @@
     },
     "culture": {
       "religion": {
-        "value": "Theravada Buddhism.",
+        "value": "Theravada Buddhism with spirit (phi) beliefs.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "languageWriting": {
-        "value": "Lao script.",
+        "value": "Lao in its own script; Tai Tham for religious texts.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "artsArchitecture": {
-        "value": "Luang Prabang temples.",
+        "value": "Temples with sweeping roofs such as Wat Xieng Thong (1560) and That Luang.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "socialStructure": {
-        "value": "Royalty, monks, farmers; hill peoples.",
+        "value": "Royal family, nobles, monks, villagers and hill peoples.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "sharedIdentity": {
-        "value": "Lao Buddhist identity.",
+        "value": "Lao Buddhist identity inherited from Lan Xang.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "dailyLife": {
-        "value": "Sticky rice.",
+        "value": "Sticky rice, fish and herbs; houses on stilts.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
@@ -262,13 +262,13 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Siam, Vietnam, Burma.",
+        "value": "Siam, Vietnam, Burma, the Shan states and Cambodia.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "ideasReligions": {
-        "value": "Theravada Buddhism.",
+        "value": "Buddhist kingship.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
@@ -288,19 +288,19 @@
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "peakPeriod": {
-        "value": "Uncertain.",
-        "year": null,
+        "value": "Anouvong’s Vientiane before 1826.",
+        "year": 1820,
         "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "declineSignals": {
-        "value": "Vientiane destroyed (1828).",
+        "value": "Destruction of Vientiane (1828).",
         "year": 1828,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"
       },
       "outcome": {
-        "value": "French Laos; later independent Laos.",
+        "value": "Became French Laos (1893); the Luang Prabang royal family ruled independent Laos until 1975.",
         "year": 1893,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Luang Phrabang"

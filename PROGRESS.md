@@ -64,7 +64,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | · Modern | `████████████████████` 98% |  |
 | Civilisations shown on the map | `███████████████████░` 93% | 454 of 487; the rest fly to their capital |
 | Checklist filled in | `████████████████████` 100% | 20941 of 20941 items (487 × 43) |
-| Answers with real detail | `███████████░░░░░░░░░` 57% | 8556 answers are still under 40 characters |
+| Answers with real detail | `████████████░░░░░░░░` 58% | 8405 answers are still under 40 characters |
 | Fact-checked against a source | `███░░░░░░░░░░░░░░░░░` 17% | 3559 items say “(checked …)”; the rest still need a second look |
 | Civilisations with events | `████████████████████` 100% | 487 of 487 |
 | Civilisations with famous people | `██████████████░░░░░░` 72% | 350 of 487; many prehistoric cultures have no known names |
@@ -74,7 +74,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | People pictures | `██████████████████░░` 91% | 406 of 444 |
 | Event pictures | `████████████████░░░░` 78% | 742 of 947 |
 
-Certainty of all items: 13956 confirmed · 6515 estimated · 470 disputed.
+Certainty of all items: 13954 confirmed · 6517 estimated · 470 disputed.
 Also in the app: 947 events · 444 people · 18 routes · 11 stories.
 
 ## Map coverage by year
