@@ -1,0 +1,320 @@
+{
+  "id": "borgu-states",
+  "name": "Borgu kingdoms (Nikki, Bussa)",
+  "era": "early_modern",
+  "region": "West Africa",
+  "startYear": 1400,
+  "endYear": 1898,
+  "capital": "Nikki and Bussa",
+  "capitalCoords": [
+    3.2,
+    9.9
+  ],
+  "summary": "Bariba kingdoms between the Niger and today’s Benin, famous for their horsemen and the Gaani festival; the French and British divided them in 1898.",
+  "wikiTitle": "Borgu",
+  "borderNames": [],
+  "borderNameYears": {
+    "Borgu States": [
+      1400,
+      1898
+    ]
+  },
+  "color": "#9a8a3a",
+  "knownFor": [
+    {
+      "label": "Gaani festival",
+      "kind": "art",
+      "note": "Royal horse festival."
+    },
+    {
+      "label": "Cavalry",
+      "kind": "troops",
+      "note": "Feared horsemen."
+    },
+    {
+      "label": "Bussa rapids",
+      "kind": "monument",
+      "note": "Where Mungo Park died (1806)."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Northern Benin and western Nigeria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Borgu"
+      },
+      "terrain": {
+        "value": "Savanna.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Borgu"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Borgu"
+      },
+      "resources": {
+        "value": "Yams, horses, shea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Borgu"
+      },
+      "disasters": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Borgu"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Borgu"
+      },
+      "urbanisation": {
+        "value": "Mostly villages; a royal or market town.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Borgu"
+      },
+      "disease": {
+        "value": "Malaria, sleeping sickness and smallpox.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Borgu"
+      },
+      "migration": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Borgu"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, horses, trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Borgu"
+      },
+      "tradeRoutes": {
+        "value": "Routes between Hausa and the coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Borgu"
+      },
+      "wealth": {
+        "value": "Modest.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Borgu"
+      },
+      "moneyAndTax": {
+        "value": "Tribute, cloth, cowries and trade goods.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Borgu"
+      },
+      "inequality": {
+        "value": "Rulers and nobles above farmers; captives and slaves at the bottom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Borgu"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Kingdoms ruled by Wasangari nobles.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Borgu"
+      },
+      "keyRulers": {
+        "value": "Kings of Nikki and Bussa.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Borgu"
+      },
+      "succession": {
+        "value": "Rotating royal lines.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Borgu"
+      },
+      "institutions": {
+        "value": "Councils.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Borgu"
+      },
+      "stability": {
+        "value": "Loose confederation.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Borgu"
+      },
+      "eliteConflict": {
+        "value": "Royal lines.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Borgu"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Cavalry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Borgu"
+      },
+      "majorWars": {
+        "value": "Resisted Oyo and Sokoto.",
+        "year": 1820,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Borgu"
+      },
+      "territoryChange": {
+        "value": "Split between France and Britain (1898).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Borgu"
+      },
+      "alliancesRivals": {
+        "value": "Oyo, Sokoto.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Borgu"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Borgu"
+      },
+      "scienceEducation": {
+        "value": "Oral learning; Qur’anic schools where Islam spread.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Borgu"
+      },
+      "openness": {
+        "value": "Open to trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Borgu"
+      },
+      "communicationTransport": {
+        "value": "Footpaths, rivers and porters.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Borgu"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Traditional religion; some Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Borgu"
+      },
+      "languageWriting": {
+        "value": "Baatonum.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Borgu"
+      },
+      "artsArchitecture": {
+        "value": "Earth buildings.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Borgu"
+      },
+      "socialStructure": {
+        "value": "Nobles and farmers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Borgu"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler and lineage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Borgu"
+      },
+      "dailyLife": {
+        "value": "Village farming; cassava, millet or sorghum.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Borgu"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Oyo, Nupe, Sokoto, Dahomey.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Borgu"
+      },
+      "ideasReligions": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Borgu"
+      },
+      "colonisation": {
+        "value": "Divided between France and Britain (1898).",
+        "year": 1898,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Borgu"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "About 1400s.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Borgu"
+      },
+      "peakPeriod": {
+        "value": "1700s.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Borgu"
+      },
+      "declineSignals": {
+        "value": "Colonial division.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Borgu"
+      },
+      "outcome": {
+        "value": "Part of French Dahomey and British Nigeria.",
+        "year": 1898,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Borgu"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Borgu.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Borgu"
+      },
+      "overallCertainty": {
+        "value": "Known from oral traditions, travellers and colonial records; many dates are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Borgu"
+      }
+    }
+  }
+}

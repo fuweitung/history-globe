@@ -1,0 +1,320 @@
+{
+  "id": "xhosa-kingdom",
+  "name": "Xhosa kingdom",
+  "era": "early_modern",
+  "region": "Southern Africa",
+  "startYear": 1600,
+  "endYear": 1878,
+  "capital": "Great Place of the king",
+  "capitalCoords": [
+    27,
+    -32.5
+  ],
+  "summary": "Xhosa chiefdoms of the Eastern Cape, which fought nine frontier wars against Cape settlers and Britain (1779–1879) and suffered the cattle-killing famine of 1856–57.",
+  "wikiTitle": "Xhosa people",
+  "borderNames": [],
+  "borderNameYears": {
+    "Xhosa": [
+      1600,
+      1878
+    ]
+  },
+  "color": "#8a6a3a",
+  "knownFor": [
+    {
+      "label": "Nongqawuse",
+      "kind": "person",
+      "note": "Prophet of the cattle-killing (1856)."
+    },
+    {
+      "label": "Frontier wars",
+      "kind": "idea",
+      "note": "Nine wars (1779–1879)."
+    },
+    {
+      "label": "Click consonants",
+      "kind": "idea",
+      "note": "Feature of isiXhosa."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Eastern Cape, South Africa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "terrain": {
+        "value": "Grassland and coastal hills.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "climate": {
+        "value": "Mild.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "resources": {
+        "value": "Cattle, grazing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "disasters": {
+        "value": "Cattle-killing famine (1856–57).",
+        "year": 1856,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "urbanisation": {
+        "value": "Mostly villages; a royal or market town.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "disease": {
+        "value": "Malaria, sleeping sickness and smallpox.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "migration": {
+        "value": "Pushed east by settlers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Cattle herding and farming.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "tradeRoutes": {
+        "value": "Trade with the Cape.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "wealth": {
+        "value": "Cattle wealth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "moneyAndTax": {
+        "value": "Tribute, cloth, cowries and trade goods.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "inequality": {
+        "value": "Rulers and nobles above farmers; captives and slaves at the bottom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Xhosa people"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Chiefdoms under a paramount king.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "keyRulers": {
+        "value": "Hintsa. Sandile. Sarhili.",
+        "year": 1820,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "succession": {
+        "value": "Royal lineage.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "institutions": {
+        "value": "Chiefs’ councils.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "stability": {
+        "value": "Frontier wars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "eliteConflict": {
+        "value": "Gcaleka and Rharhabe branches.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Spears; later guns.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "majorWars": {
+        "value": "Xhosa Wars (1779–1879).",
+        "year": 1779,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "territoryChange": {
+        "value": "Lost land to the Cape Colony.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "alliancesRivals": {
+        "value": "Fought Britain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "scienceEducation": {
+        "value": "Oral learning; Qur’anic schools where Islam spread.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "openness": {
+        "value": "Open to trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "communicationTransport": {
+        "value": "Footpaths, rivers and porters.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Xhosa people"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Traditional religion; missions.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "languageWriting": {
+        "value": "isiXhosa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "artsArchitecture": {
+        "value": "Beadwork.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "socialStructure": {
+        "value": "Chiefs, homesteads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler and lineage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "dailyLife": {
+        "value": "Village farming; cassava, millet or sorghum.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Xhosa people"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Cape Colony, Thembu, Mpondo.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "ideasReligions": {
+        "value": "Prophets (Nxele, Nongqawuse).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "colonisation": {
+        "value": "British annexation (to 1894).",
+        "year": 1879,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Before 1600.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "peakPeriod": {
+        "value": "Before 1800.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "declineSignals": {
+        "value": "Cattle-killing (1856).",
+        "year": 1856,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "outcome": {
+        "value": "Part of the Cape Colony.",
+        "year": 1878,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Xhosa people.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Xhosa people"
+      },
+      "overallCertainty": {
+        "value": "Known from oral traditions, travellers and colonial records; many dates are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Xhosa people"
+      }
+    }
+  }
+}

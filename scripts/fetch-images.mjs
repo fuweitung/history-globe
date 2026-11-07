@@ -99,7 +99,8 @@ const polities = fs.readdirSync(polDir).filter((f) => f.endsWith('.json')).map((
 const out = fs.existsSync(outFile) ? JSON.parse(fs.readFileSync(outFile, 'utf8')) : { polities: {}, known: {} };
 const withKnown = process.argv.includes('--known');
 
-const todo = polities.filter((p) => p.wikiTitle && !out.polities[p.id]);
+const rejectedPolities = new Set(JSON.parse(fs.readFileSync(path.join(root, 'scripts/image-rejects.json'), 'utf8')).polities ?? []);
+const todo = polities.filter((p) => p.wikiTitle && !out.polities[p.id] && !rejectedPolities.has(p.id));
 const { out: pics, files } = await picturesFor([...new Set(todo.map((p) => p.wikiTitle))]);
 const skipped = [];
 for (const p of todo) {
@@ -235,5 +236,5 @@ if (reviewPE.length) fs.appendFileSync(path.join(root, 'scripts/.people-event-im
 // Hand-checked rejections always win (scripts/image-rejects.json).
 const rejects = JSON.parse(fs.readFileSync(path.join(root, 'scripts/image-rejects.json'), 'utf8'));
 for (const k of rejects.known ?? []) if (k in out.known) out.known[k] = null;
-for (const s of ['people', 'events']) for (const k of rejects[s] ?? []) if (out[s]) delete out[s][k];
+for (const s of ['polities', 'people', 'events']) for (const k of rejects[s] ?? []) if (out[s]) delete out[s][k];
 fs.writeFileSync(outFile, JSON.stringify(out, null, 1) + '\n');

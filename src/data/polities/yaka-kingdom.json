@@ -1,0 +1,320 @@
+{
+  "id": "yaka-kingdom",
+  "name": "Yaka Kingdom",
+  "era": "early_modern",
+  "region": "Central Africa",
+  "startYear": 1600,
+  "endYear": 1906,
+  "capital": "Kasongo Lunda",
+  "capitalCoords": [
+    16.8,
+    -6
+  ],
+  "summary": "A kingdom on the Kwango River formed under Lunda influence; its people traded with Kongo and the Portuguese coast until Congo Free State conquest.",
+  "wikiTitle": "Yaka people",
+  "borderNames": [],
+  "borderNameYears": {
+    "Yaka": [
+      1600,
+      1906
+    ]
+  },
+  "color": "#8a7a3a",
+  "knownFor": [
+    {
+      "label": "Kiamfu",
+      "kind": "person",
+      "note": "Title of the Yaka king."
+    },
+    {
+      "label": "Yaka masks",
+      "kind": "art",
+      "note": "Initiation masks."
+    },
+    {
+      "label": "Kwango River",
+      "kind": "monument",
+      "note": "Heartland."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Kwango River, DR Congo and Angola.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yaka people"
+      },
+      "terrain": {
+        "value": "Savanna and river valleys.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yaka people"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yaka people"
+      },
+      "resources": {
+        "value": "Cassava, palm products.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yaka people"
+      },
+      "disasters": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yaka people"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yaka people"
+      },
+      "urbanisation": {
+        "value": "Mostly villages; a royal or market town.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yaka people"
+      },
+      "disease": {
+        "value": "Malaria, sleeping sickness and smallpox.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yaka people"
+      },
+      "migration": {
+        "value": "Lunda influence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yaka people"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yaka people"
+      },
+      "tradeRoutes": {
+        "value": "To Kongo and the coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yaka people"
+      },
+      "wealth": {
+        "value": "Modest.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yaka people"
+      },
+      "moneyAndTax": {
+        "value": "Tribute, cloth, cowries and trade goods.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yaka people"
+      },
+      "inequality": {
+        "value": "Rulers and nobles above farmers; captives and slaves at the bottom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yaka people"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy (Kiamfu).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yaka people"
+      },
+      "keyRulers": {
+        "value": "Kiamfu kings.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yaka people"
+      },
+      "succession": {
+        "value": "Royal lineage.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yaka people"
+      },
+      "institutions": {
+        "value": "Chiefs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yaka people"
+      },
+      "stability": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yaka people"
+      },
+      "eliteConflict": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yaka people"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Spears and guns.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yaka people"
+      },
+      "majorWars": {
+        "value": "Congo Free State campaigns (1890s–1906).",
+        "year": 1895,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yaka people"
+      },
+      "territoryChange": {
+        "value": "Conquered.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yaka people"
+      },
+      "alliancesRivals": {
+        "value": "Lunda, Kongo.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yaka people"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yaka people"
+      },
+      "scienceEducation": {
+        "value": "Oral learning; Qur’anic schools where Islam spread.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yaka people"
+      },
+      "openness": {
+        "value": "Open to trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yaka people"
+      },
+      "communicationTransport": {
+        "value": "Footpaths, rivers and porters.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yaka people"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Traditional religion.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yaka people"
+      },
+      "languageWriting": {
+        "value": "Kiyaka.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yaka people"
+      },
+      "artsArchitecture": {
+        "value": "Masks.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yaka people"
+      },
+      "socialStructure": {
+        "value": "King, chiefs, villagers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yaka people"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler and lineage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yaka people"
+      },
+      "dailyLife": {
+        "value": "Village farming; cassava, millet or sorghum.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yaka people"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Kongo, Lunda, Portuguese Angola.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yaka people"
+      },
+      "ideasReligions": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yaka people"
+      },
+      "colonisation": {
+        "value": "Congo Free State (1906).",
+        "year": 1906,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yaka people"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Lunda-linked chiefs (1600s).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yaka people"
+      },
+      "peakPeriod": {
+        "value": "1700s.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yaka people"
+      },
+      "declineSignals": {
+        "value": "Colonial conquest.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yaka people"
+      },
+      "outcome": {
+        "value": "Part of the Belgian Congo.",
+        "year": 1908,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yaka people"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Yaka people.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Yaka people"
+      },
+      "overallCertainty": {
+        "value": "Known from oral traditions, travellers and colonial records; many dates are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Yaka people"
+      }
+    }
+  }
+}

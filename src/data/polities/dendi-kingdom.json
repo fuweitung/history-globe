@@ -1,0 +1,324 @@
+{
+  "id": "dendi-kingdom",
+  "name": "Dendi Kingdom (Songhai successor)",
+  "era": "early_modern",
+  "region": "West Africa",
+  "startYear": 1591,
+  "endYear": 1901,
+  "capital": "Lulami, Say",
+  "capitalCoords": [
+    3.2,
+    12.5
+  ],
+  "summary": "The Songhai who refused Moroccan rule after 1591 held out downriver on the Niger in the Dendi kingdom, until French conquest around 1900.",
+  "wikiTitle": "Dendi Kingdom",
+  "borderNames": [],
+  "borderNameYears": {
+    "Songhai": [
+      1591,
+      1800
+    ],
+    "Dendi Kingdom": [
+      1591,
+      1901
+    ]
+  },
+  "color": "#b08a3a",
+  "knownFor": [
+    {
+      "label": "Askia Nuh",
+      "kind": "person",
+      "note": "Led resistance to Morocco."
+    },
+    {
+      "label": "Niger River",
+      "kind": "monument",
+      "note": "Life of the kingdom."
+    },
+    {
+      "label": "Songhai cavalry",
+      "kind": "troops",
+      "note": "Tradition of horsemen."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Niger River in south-west Niger and northern Benin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "terrain": {
+        "value": "River valley and savanna.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "climate": {
+        "value": "Sahel.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "resources": {
+        "value": "Fish, millet, rice.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "urbanisation": {
+        "value": "Mostly villages; a royal or market town.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "disease": {
+        "value": "Malaria, sleeping sickness and smallpox.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "migration": {
+        "value": "Songhai refugees moved south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, fishing, trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "tradeRoutes": {
+        "value": "Niger river trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "wealth": {
+        "value": "Modest.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "moneyAndTax": {
+        "value": "Tribute, cloth, cowries and trade goods.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "inequality": {
+        "value": "Rulers and nobles above farmers; captives and slaves at the bottom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dendi Kingdom"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Askia kings.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "keyRulers": {
+        "value": "Askia Nuh.",
+        "year": 1592,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "succession": {
+        "value": "Askia family; disputes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "institutions": {
+        "value": "Royal court.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "stability": {
+        "value": "Splintered into small states.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "eliteConflict": {
+        "value": "Princes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Cavalry and archers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "majorWars": {
+        "value": "War with Morocco (1590s).",
+        "year": 1592,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "territoryChange": {
+        "value": "Shrank to the Dendi region.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "alliancesRivals": {
+        "value": "Morocco’s pashas in Timbuktu, Tuareg.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "scienceEducation": {
+        "value": "Oral learning; Qur’anic schools where Islam spread.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "openness": {
+        "value": "Open to trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "communicationTransport": {
+        "value": "Footpaths, rivers and porters.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dendi Kingdom"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Islam and Songhai religion.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "languageWriting": {
+        "value": "Songhai (Zarma-Dendi).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "artsArchitecture": {
+        "value": "Mud-brick buildings.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "socialStructure": {
+        "value": "Royal families, farmers, captives.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler and lineage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "dailyLife": {
+        "value": "Village farming; cassava, millet or sorghum.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dendi Kingdom"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Pashalik of Timbuktu, Borgu, Hausa states.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "ideasReligions": {
+        "value": "Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "colonisation": {
+        "value": "French conquest (about 1900).",
+        "year": 1899,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Battle of Tondibi (1591).",
+        "year": 1591,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "peakPeriod": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "declineSignals": {
+        "value": "Fragmentation.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "outcome": {
+        "value": "Part of French West Africa.",
+        "year": 1901,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Dendi Kingdom.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dendi Kingdom"
+      },
+      "overallCertainty": {
+        "value": "Known from oral traditions, travellers and colonial records; many dates are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dendi Kingdom"
+      }
+    }
+  }
+}
