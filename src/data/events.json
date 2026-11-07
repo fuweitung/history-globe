@@ -4615,7 +4615,10 @@
     "title": "Great Depression",
     "description": "The Wall Street Crash begins a worldwide economic slump that hits trade, commodity prices and employment.",
     "relatedPolityIds": [
-      "united-states"
+      "united-states",
+      "germany-1918-1945",
+      "british-empire",
+      "french-colonial-empire"
     ]
   },
   {
@@ -5703,7 +5706,9 @@
     "title": "Global financial crisis",
     "description": "The collapse of the US housing bubble and of Lehman Brothers triggers the worst global recession since the 1930s.",
     "relatedPolityIds": [
-      "united-states"
+      "united-states",
+      "united-kingdom",
+      "iceland"
     ],
     "source": "Wikipedia: 2008 financial crisis"
   },
@@ -11164,5 +11169,279 @@
       "vatican-city"
     ],
     "source": "Wikipedia: Second Vatican Council"
+  },
+  {
+    "id": "third-century-currency-crisis",
+    "year": 260,
+    "yearApproximate": true,
+    "lat": 41.9,
+    "lng": 12.5,
+    "type": "trade",
+    "title": "Roman currency collapses",
+    "description": "During the Crisis of the Third Century, emperors cut the silver in the denarius to pay soldiers; prices soar and trade falls back on barter. Diocletian’s price edict (301) fails to stop it.",
+    "relatedPolityIds": [
+      "roman-empire"
+    ],
+    "source": "Wikipedia: Crisis of the Third Century"
+  },
+  {
+    "id": "yuan-paper-money-inflation",
+    "year": 1350,
+    "yearApproximate": true,
+    "lat": 39.9,
+    "lng": 116.4,
+    "type": "trade",
+    "title": "Yuan paper money loses its value",
+    "description": "The Mongol Yuan government prints ever more paper money to pay its debts; inflation helps bring on the revolts that end the dynasty in 1368.",
+    "relatedPolityIds": [
+      "yuan"
+    ],
+    "source": "Wikipedia: Chao (currency)"
+  },
+  {
+    "id": "spanish-bankruptcy-1557",
+    "year": 1557,
+    "lat": 40.42,
+    "lng": -3.7,
+    "type": "trade",
+    "title": "Spain’s first state bankruptcy",
+    "description": "Despite American silver, Philip II stops paying his bankers; Spain defaults again in 1560, 1575, 1596 and later.",
+    "relatedPolityIds": [
+      "spanish-empire"
+    ],
+    "source": "Wikipedia: Spanish government defaults"
+  },
+  {
+    "id": "voc-stock-exchange",
+    "year": 1602,
+    "lat": 52.37,
+    "lng": 4.9,
+    "type": "trade",
+    "title": "First publicly traded company",
+    "description": "The Dutch East India Company (VOC) sells shares to the public; Amsterdam becomes the first modern stock market.",
+    "relatedPolityIds": [
+      "dutch-republic"
+    ],
+    "source": "Wikipedia: Dutch East India Company"
+  },
+  {
+    "id": "tulip-mania",
+    "year": 1637,
+    "lat": 52.37,
+    "lng": 4.9,
+    "type": "trade",
+    "title": "Tulip mania",
+    "description": "Prices for rare tulip bulbs in the Dutch Republic rise to the cost of a house, then crash in February 1637.",
+    "relatedPolityIds": [
+      "dutch-republic"
+    ],
+    "source": "Wikipedia: Tulip mania"
+  },
+  {
+    "id": "ming-silver-crisis",
+    "year": 1640,
+    "yearApproximate": true,
+    "lat": 39.9,
+    "lng": 116.4,
+    "type": "trade",
+    "title": "Ming China’s silver crisis",
+    "description": "Less silver arrives from Japan and the Americas just as harvests fail; taxes paid in silver become crushing, feeding the revolts that topple the Ming in 1644.",
+    "relatedPolityIds": [
+      "ming-china"
+    ],
+    "source": "Wikipedia: Ming dynasty"
+  },
+  {
+    "id": "south-sea-bubble",
+    "year": 1720,
+    "lat": 51.51,
+    "lng": -0.09,
+    "type": "trade",
+    "title": "South Sea Bubble",
+    "description": "Shares of the South Sea Company soar and crash, ruining many investors in Britain.",
+    "relatedPolityIds": [
+      "great-britain"
+    ],
+    "source": "Wikipedia: South Sea Company"
+  },
+  {
+    "id": "mississippi-bubble",
+    "year": 1720,
+    "lat": 48.86,
+    "lng": 2.35,
+    "type": "trade",
+    "title": "Mississippi Bubble",
+    "description": "John Law’s paper-money and Louisiana company scheme collapses in France, making the French wary of banks and paper money for generations.",
+    "relatedPolityIds": [
+      "kingdom-of-france"
+    ],
+    "source": "Wikipedia: Mississippi Company"
+  },
+  {
+    "id": "french-royal-bankruptcy",
+    "year": 1788,
+    "lat": 48.8,
+    "lng": 2.12,
+    "type": "trade",
+    "title": "French crown runs out of money",
+    "description": "War debts leave the crown unable to borrow; Louis XVI calls the Estates-General, which leads to the Revolution in 1789.",
+    "relatedPolityIds": [
+      "kingdom-of-france"
+    ],
+    "source": "Wikipedia: Causes of the French Revolution"
+  },
+  {
+    "id": "panic-of-1873",
+    "year": 1873,
+    "lat": 48.21,
+    "lng": 16.37,
+    "type": "trade",
+    "title": "Panic of 1873",
+    "description": "The Vienna stock market crashes in May and New York in September, starting the Long Depression in Europe and North America.",
+    "relatedPolityIds": [
+      "austria-hungary",
+      "united-states",
+      "german-empire"
+    ],
+    "source": "Wikipedia: Panic of 1873"
+  },
+  {
+    "id": "bretton-woods",
+    "year": 1944,
+    "lat": 44.26,
+    "lng": -71.44,
+    "type": "trade",
+    "title": "Bretton Woods conference",
+    "description": "Allied countries agree a post-war money system tied to the US dollar and create the IMF and World Bank.",
+    "relatedPolityIds": [
+      "united-states",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Bretton Woods Conference"
+  },
+  {
+    "id": "nixon-shock",
+    "year": 1971,
+    "lat": 38.9,
+    "lng": -77.04,
+    "type": "trade",
+    "title": "End of the gold standard",
+    "description": "The US stops exchanging dollars for gold; the world moves to floating currencies.",
+    "relatedPolityIds": [
+      "united-states"
+    ],
+    "source": "Wikipedia: Nixon shock"
+  },
+  {
+    "id": "latin-american-debt-crisis",
+    "year": 1982,
+    "lat": 19.43,
+    "lng": -99.13,
+    "type": "trade",
+    "title": "Latin American debt crisis",
+    "description": "Mexico cannot pay its foreign debts; a “lost decade” of slow growth follows across Latin America.",
+    "relatedPolityIds": [
+      "mexico",
+      "brazil",
+      "argentina"
+    ],
+    "source": "Wikipedia: Latin American debt crisis"
+  },
+  {
+    "id": "japan-bubble-burst",
+    "year": 1990,
+    "lat": 35.68,
+    "lng": 139.77,
+    "type": "trade",
+    "title": "Japan’s bubble bursts",
+    "description": "Japanese share and land prices collapse, beginning the “lost decades” of slow growth.",
+    "relatedPolityIds": [
+      "modern-japan"
+    ],
+    "source": "Wikipedia: Japanese asset price bubble"
+  },
+  {
+    "id": "russian-shock-therapy",
+    "year": 1992,
+    "lat": 55.75,
+    "lng": 37.62,
+    "type": "trade",
+    "title": "Russia’s economic collapse",
+    "description": "Prices are freed after the Soviet Union ends; inflation passes 2,000% and the economy shrinks sharply; Russia defaults in 1998.",
+    "relatedPolityIds": [
+      "russian-federation"
+    ],
+    "source": "Wikipedia: Economy of Russia"
+  },
+  {
+    "id": "argentine-crisis-2001",
+    "year": 2001,
+    "lat": -34.6,
+    "lng": -58.38,
+    "type": "trade",
+    "title": "Argentine economic crisis",
+    "description": "Bank accounts are frozen, riots topple the government and Argentina makes the largest debt default of its time.",
+    "relatedPolityIds": [
+      "argentina"
+    ],
+    "source": "Wikipedia: 1998–2002 Argentine great depression"
+  },
+  {
+    "id": "zimbabwe-hyperinflation",
+    "year": 2008,
+    "lat": -17.83,
+    "lng": 31.05,
+    "type": "trade",
+    "title": "Zimbabwe’s hyperinflation",
+    "description": "Prices double every day at the peak; a 100-trillion-dollar note is printed and the currency is abandoned in 2009.",
+    "relatedPolityIds": [
+      "zimbabwe"
+    ],
+    "source": "Wikipedia: Hyperinflation in Zimbabwe"
+  },
+  {
+    "id": "eurozone-debt-crisis",
+    "year": 2010,
+    "lat": 37.98,
+    "lng": 23.73,
+    "type": "trade",
+    "title": "Greek and eurozone debt crisis",
+    "description": "Greece cannot pay its debts; bailouts come with deep cuts, and the crisis spreads to Ireland, Portugal, Spain and Cyprus.",
+    "relatedPolityIds": [
+      "greece-modern",
+      "ireland",
+      "portugal-modern",
+      "spain-modern",
+      "cyprus"
+    ],
+    "source": "Wikipedia: European debt crisis"
+  },
+  {
+    "id": "covid-recession",
+    "year": 2020,
+    "lat": 46.2,
+    "lng": 6.14,
+    "type": "trade",
+    "title": "COVID-19 recession",
+    "description": "Lockdowns cause the sharpest fall in world output since the Great Depression; governments spend on a huge scale.",
+    "relatedPolityIds": [
+      "united-states",
+      "united-kingdom",
+      "peoples-republic-of-china"
+    ],
+    "source": "Wikipedia: COVID-19 recession"
+  },
+  {
+    "id": "sri-lanka-default",
+    "year": 2022,
+    "lat": 6.93,
+    "lng": 79.86,
+    "type": "trade",
+    "title": "Sri Lanka defaults",
+    "description": "Sri Lanka runs out of foreign currency for fuel and food; protests force the president to flee.",
+    "relatedPolityIds": [
+      "sri-lanka"
+    ],
+    "source": "Wikipedia: 2019–present Sri Lankan economic crisis"
   }
 ]
