@@ -5886,7 +5886,7 @@
     "lng": 151.21,
     "type": "war",
     "title": "First Fleet arrives at Sydney Cove",
-    "description": "British ships land convicts and marines at Sydney Cove, beginning the colonisation of Aboriginal Australia.",
+    "description": "British ships land convicts and marines at Sydney Cove, beginning the colonisation of Aboriginal Australia. Governor Phillip claims everything east of 135°E as New South Wales, though settlers only held the area around Sydney and Aboriginal nations still lived across almost all of it.",
     "relatedPolityIds": [
       "aboriginal-australians",
       "great-britain"
@@ -12051,5 +12051,19 @@
       "zand-persia"
     ],
     "source": "Wikipedia: Karim Khan Zand"
+  },
+  {
+    "id": "australian-frontier-wars",
+    "year": 1790,
+    "lat": -33.8,
+    "lng": 151,
+    "type": "war",
+    "title": "Australian Frontier Wars",
+    "description": "Aboriginal nations resist British settlement, starting with Pemulwuy near Sydney (1790); fighting and massacres continue on the frontier into the 1930s.",
+    "relatedPolityIds": [
+      "aboriginal-australians",
+      "great-britain"
+    ],
+    "source": "Wikipedia: Australian frontier wars"
   }
 ]
