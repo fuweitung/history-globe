@@ -102,6 +102,9 @@ body,
 .maplibregl-ctrl-attrib { background: rgba(11, 16, 32, 0.7) !important; color: #cdbd9a; }
 .maplibregl-ctrl-attrib a { color: #f4ecda !important; }
 .maplibregl-ctrl-attrib-button { filter: invert(1); background-color: transparent !important; }
+/* Markers on the far side of the globe are hidden by MapLibre (opacityWhenCovered: 0) but would still
+   catch clicks and hovers through the sphere; make them non-interactive too. */
+.maplibregl-marker-covered { pointer-events: none !important; visibility: hidden; }
 @media (max-width: 767px) {
   .maplibregl-ctrl-top-right { top: 64px; }
 }
