@@ -35,6 +35,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 - [x] Map blanks round 7: 129 modern countries with full 43-item entries (Europe 36, Africa 37, Americas 24, Middle East and Central Asia 17, Asia 10, Oceania 5); colonies and territories linked to their rulers by date; modern era now 95% (#37)
 - [x] Map gaps round 8: Germany 1918–45, East Germany, Napoleonic France, Prussia, Old Swiss Confederacy, German and Italian states; about 90 colonies and territories linked by date; modern era 95% → 97%
 - [x] Map gaps round 9: 28 kingdoms and states (1800s African kingdoms, Hejaz, Ha’il, England, Scotland, Ireland, post-Angkor Cambodia, Lao and Shan states, Mrauk U, Zand Persia); 1878 → 98%, 1900 → 99%
+- [x] 1492 Indigenous nations: 180 linked by their own Wikipedia article’s culture-area category (evidence in scripts/indigenous-links-1492.tsv); 1492 map 57% → 69%
 - [x] Map gaps round 10: 24 medieval and early-modern states (Castile, Aragon, Hungary, Sweden, Norway, Novgorod, Teutonic Order, Tatar khanates, Japan 1185–1603, Deccan and Bengal sultanates, Iranian and Turkic dynasties, Visigoths, Franks, Córdoba, Maghreb dynasties, Alwa, Jolof); all years 91% → 93%
 - [x] Small countries as map dots, 21 new entries, finer coastline (#42); economic crisis events (#43)
 - [ ] Map gaps still open: small 1800s African states (Utetera, Yeke, Nyamwezi, Borgu, Dendi, Rabih, Teke, Yaka, Kuba, Ovimbundu), Castile and Aragon before 1492, Hungary 1400, Novgorod, the Blue Horde; about 1,400 Indigenous nations on the 1492–1900 maps (link each only after checking it in a source). Western Sahara and Antarctica stay unlinked on purpose.
@@ -56,7 +57,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | Map coverage (all years) | `███████████████████░` 93% | Named land on the border maps that is linked to a civilisation |
 | · Prehistory | `██████████████████░░` 92% |  |
 | · Ancient | `██████████████████░░` 91% |  |
-| · Medieval | `██████████████████░░` 89% |  |
+| · Medieval | `██████████████████░░` 90% |  |
 | · Early modern | `██████████████████░░` 91% |  |
 | · Modern | `████████████████████` 98% |  |
 | Civilisations shown on the map | `███████████████████░` 93% | 432 of 465; the rest fly to their capital |
@@ -108,11 +109,11 @@ Also in the app: 917 events · 429 people · 18 routes · 11 stories.
 | 1200 | `█████████████████░░░` 87% |
 | 1279 | `███████████████████░` 97% |
 | 1300 | `███████████████████░` 96% |
-| 1400 | `███████████████████░` 95% |
-| 1492 | `████████████░░░░░░░░` 62% |
-| 1500 | `██████████████████░░` 90% |
+| 1400 | `███████████████████░` 96% |
+| 1492 | `██████████████░░░░░░` 69% |
+| 1500 | `██████████████████░░` 91% |
 | 1530 | `█████████████████░░░` 85% |
-| 1600 | `█████████████████░░░` 87% |
+| 1600 | `██████████████████░░` 88% |
 | 1650 | `██████████████████░░` 91% |
 | 1700 | `██████████████████░░` 91% |
 | 1715 | `███████████████████░` 94% |
