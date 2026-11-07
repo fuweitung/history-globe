@@ -200,92 +200,44 @@ const STYLE: StyleSpecification = {
 };
 
 // ── Declutter helpers ─────────────────────────────────────
-/** Events closer than this on screen (px) are shown as one numbered bubble. */
-const GROUP_RADIUS = 24;
-/** Past this zoom a click on a bubble opens its top event instead of zooming further. */
-const GROUP_MAX_ZOOM = 7;
-
 type Rect = { x: number; y: number; w: number; h: number };
 const overlaps = (a: Rect, b: Rect) => a.x < b.x + b.w && b.x < a.x + a.w && a.y < b.y + b.h && b.y < a.y + a.h;
-
-function zoomToGroup(map: maplibregl.Map, pts: [number, number][]) {
-  const lngs = pts.map((p) => p[0]), lats = pts.map((p) => p[1]);
-  const [w, s, e, n] = [Math.min(...lngs), Math.min(...lats), Math.max(...lngs), Math.max(...lats)];
-  const target = Math.min(GROUP_MAX_ZOOM + 0.5, map.getZoom() + 2);
-  if (e - w < 0.01 && n - s < 0.01) map.flyTo({ center: [w, s], zoom: target, duration: 900 });
-  else map.fitBounds([[w, s], [e, n]], { padding: 120, maxZoom: target, duration: 900 });
-}
 
 type MarkerEntry = { marker: maplibregl.Marker; el: HTMLButtonElement };
 
 function declutter(
   map: maplibregl.Map,
-  eventMarkers: Map<string, MarkerEntry>,
-  personMarkers: Map<string, MarkerEntry & { fullW?: number }>,
-  events: VisibleEvent[],
+  personMarkers: Map<string, MarkerEntry & { fullW?: number; narrow?: boolean }>,
   people: Person[],
-  sel: { selectedEventId: string | null; selectedPersonId: string | null; selectedPolityId: string | null },
-  groups: Map<string, [number, number][]>,
+  sel: { selectedPersonId: string | null; selectedPolityId: string | null },
 ) {
   const covered = (el: HTMLElement) => el.classList.contains('maplibregl-marker-covered');
-  const placed: Rect[] = [];
-  groups.clear();
-
-  // Events: most relevant first (selected, then closest in time); others within reach join its group.
-  const order = [...events].sort((a, b) => Number(b.event.id === sel.selectedEventId) - Number(a.event.id === sel.selectedEventId) || b.weight - a.weight);
-  const leaders: { id: string; x: number; y: number }[] = [];
-  for (const { event } of order) {
-    const entry = eventMarkers.get(event.id);
-    if (!entry) continue;
-    const { x, y } = map.project([event.lng, event.lat]);
-    const lead = covered(entry.el) ? undefined : leaders.find((l) => Math.hypot(l.x - x, l.y - y) < GROUP_RADIUS);
-    if (lead) {
-      groups.get(lead.id)!.push([event.lng, event.lat]);
-      entry.el.classList.add('is-grouped');
-      continue;
-    }
-    entry.el.classList.remove('is-grouped');
-    groups.set(event.id, [[event.lng, event.lat]]);
-    if (!covered(entry.el)) {
-      leaders.push({ id: event.id, x, y });
-      placed.push({ x: x - 14, y: y - 14, w: 28, h: 28 });
-    }
-  }
-  for (const [id, pts] of groups) {
-    const entry = eventMarkers.get(id);
-    if (!entry) continue;
-    const n = pts.length;
-    entry.el.classList.toggle('has-group', n > 1);
-    if (n > 1) entry.el.dataset.count = String(n);
-    else delete entry.el.dataset.count;
-    const base = entry.el.getAttribute('aria-label')?.replace(/ \(and \d+ more nearby.*\)$/, '') ?? '';
-    const label = n > 1 ? `${base} (and ${n - 1} more nearby, click to zoom in)` : base;
-    entry.el.setAttribute('aria-label', label);
-    entry.el.title = label;
-  }
+  const placed: Rect[] = []; // people already shown
+  const narrow = window.matchMedia('(max-width: 640px)').matches; // phones show icons only (index.css)
 
   // People: selected first, then those linked to the selected civilisation; a name shows only where it fits.
   const rank = (p: Person) => (p.id === sel.selectedPersonId ? 2 : sel.selectedPolityId && p.polityIds.includes(sel.selectedPolityId) ? 1 : 0);
   for (const p of [...people].sort((a, b) => rank(b) - rank(a))) {
     const entry = personMarkers.get(p.id);
     if (!entry || covered(entry.el)) continue;
-    if (entry.fullW === undefined) {
-      entry.el.classList.remove('name-hidden', 'is-grouped');
+    if (entry.fullW === undefined || entry.narrow !== narrow) {
+      entry.el.classList.remove('name-hidden', 'no-room');
       entry.fullW = entry.el.offsetWidth || 24;
+      entry.narrow = narrow;
     }
     const { x, y } = map.project(p.place as [number, number]);
     const full: Rect = { x: x + 6, y: y - 12, w: entry.fullW, h: 24 };
     const icon: Rect = { x: x + 6, y: y - 12, w: 24, h: 24 };
     const must = rank(p) === 2;
     if (must || !placed.some((r) => overlaps(r, full))) {
-      entry.el.classList.remove('name-hidden', 'is-grouped');
+      entry.el.classList.remove('name-hidden', 'no-room');
       placed.push(full);
     } else if (!placed.some((r) => overlaps(r, icon))) {
       entry.el.classList.add('name-hidden');
-      entry.el.classList.remove('is-grouped');
+      entry.el.classList.remove('no-room');
       placed.push(icon);
     } else {
-      entry.el.classList.add('is-grouped');
+      entry.el.classList.add('no-room');
     }
   }
 }
@@ -317,14 +269,11 @@ export default function MapView({
   const peopleMarkersRef = useRef(new Map<string, { marker: maplibregl.Marker; el: HTMLButtonElement }>());
   const routesRef = useRef(routes);
   routesRef.current = routes;
-  // Declutter state: which events are grouped under which leader, and what to prioritise.
-  const groupsRef = useRef(new Map<string, [number, number][]>());
-  const eventsRef = useRef(events);
-  eventsRef.current = events;
+  // Declutter state: what is on the map and what to prioritise.
   const peopleRef = useRef(people);
   peopleRef.current = people;
-  const selectionRef = useRef({ selectedEventId, selectedPersonId, selectedPolityId });
-  selectionRef.current = { selectedEventId, selectedPersonId, selectedPolityId };
+  const selectionRef = useRef({ selectedPersonId, selectedPolityId });
+  selectionRef.current = { selectedPersonId, selectedPolityId };
   const declutterRef = useRef<() => void>(() => {});
 
   // ── Create the map once ──────────────────────────────────
@@ -406,6 +355,7 @@ export default function MapView({
     });
     map.on('movestart', () => setTooltip(null));
     map.on('moveend', () => declutterRef.current());
+    map.on('resize', () => declutterRef.current());
 
     return () => {
       setReady(false);
@@ -482,11 +432,6 @@ export default function MapView({
         el.title = `${when} · ${event.title}`;
         el.addEventListener('click', (ev) => {
           ev.stopPropagation();
-          const group = groupsRef.current.get(event.id);
-          if (group && group.length > 1 && map.getZoom() < GROUP_MAX_ZOOM) {
-            zoomToGroup(map, group);
-            return;
-          }
           handlersRef.current.onSelectEvent(event.id);
         });
         const marker = new maplibregl.Marker({ element: el, opacityWhenCovered: '0' })
@@ -541,7 +486,7 @@ export default function MapView({
     declutterRef.current();
   }, [people, selectedPersonId, selectedPolityId, ready]);
 
-  // ── Declutter: group overlapping events, give people names only where they fit ──
+  // ── Declutter: give people names only where they fit ──
   useEffect(() => {
     const map = mapRef.current;
     if (!map || !ready) return;
@@ -549,7 +494,7 @@ export default function MapView({
     const run = () => {
       cancelAnimationFrame(frame);
       frame = requestAnimationFrame(() =>
-        declutter(map, markersRef.current, peopleMarkersRef.current, eventsRef.current, peopleRef.current, selectionRef.current, groupsRef.current),
+        declutter(map, peopleMarkersRef.current, peopleRef.current, selectionRef.current),
       );
     };
     declutterRef.current = run;
