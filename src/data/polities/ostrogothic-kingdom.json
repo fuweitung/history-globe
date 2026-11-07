@@ -1,0 +1,320 @@
+{
+  "id": "ostrogothic-kingdom",
+  "name": "Ostrogothic Kingdom",
+  "era": "ancient",
+  "region": "Southern Europe",
+  "startYear": 493,
+  "endYear": 553,
+  "capital": "Ravenna",
+  "capitalCoords": [
+    12.2,
+    44.42
+  ],
+  "summary": "A Gothic kingdom in Italy founded by Theodoric the Great, who ruled Goths and Romans side by side from Ravenna; Byzantium destroyed it in the Gothic War (535–554).",
+  "wikiTitle": "Ostrogothic Kingdom",
+  "borderNames": [],
+  "borderNameYears": {
+    "Ostrogoths": [
+      400,
+      553
+    ]
+  },
+  "color": "#8a5a8a",
+  "knownFor": [
+    {
+      "label": "Theodoric the Great",
+      "kind": "person",
+      "note": "King of Italy (493–526)."
+    },
+    {
+      "label": "Mausoleum of Theodoric",
+      "kind": "monument",
+      "note": "In Ravenna."
+    },
+    {
+      "label": "Boethius",
+      "kind": "person",
+      "note": "Wrote the Consolation of Philosophy in prison."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Italy and the Balkans’ west.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "terrain": {
+        "value": "Peninsula, plains and mountains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "climate": {
+        "value": "Mediterranean.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "resources": {
+        "value": "Grain, wine, olive oil.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "disasters": {
+        "value": "Plague of Justinian (541).",
+        "year": 541,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Several million Romans and about 100,000 Goths.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "urbanisation": {
+        "value": "Roman cities such as Ravenna, Rome, Verona.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "disease": {
+        "value": "Plague (541).",
+        "year": 541,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "migration": {
+        "value": "Goths moved from the Balkans to Italy (489).",
+        "year": 489,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Roman-style farming estates.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "tradeRoutes": {
+        "value": "Mediterranean trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "wealth": {
+        "value": "Rich Roman estates.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "moneyAndTax": {
+        "value": "Roman coins and taxes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "inequality": {
+        "value": "Gothic warriors, Roman senators, peasants.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy keeping Roman administration.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "keyRulers": {
+        "value": "Theodoric the Great. Amalasuintha. Totila.",
+        "year": 493,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "succession": {
+        "value": "Royal Amal family, then elected kings.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "institutions": {
+        "value": "Roman Senate and officials.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "stability": {
+        "value": "Stable under Theodoric, then war.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "eliteConflict": {
+        "value": "Pro- and anti-Byzantine Goths.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Gothic cavalry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "majorWars": {
+        "value": "Gothic War (535–554).",
+        "year": 535,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "territoryChange": {
+        "value": "Conquered by Byzantium.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "alliancesRivals": {
+        "value": "Byzantium, Franks, Visigoths.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "scienceEducation": {
+        "value": "Boethius and Cassiodorus kept classical learning alive.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "openness": {
+        "value": "Roman and Gothic cultures side by side.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "communicationTransport": {
+        "value": "Roman roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Arian Christian Goths; Catholic Romans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "languageWriting": {
+        "value": "Latin and Gothic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "artsArchitecture": {
+        "value": "Mosaics of Ravenna (Sant’Apollinare Nuovo).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "socialStructure": {
+        "value": "Goths and Romans with separate roles.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "sharedIdentity": {
+        "value": "Separate Gothic and Roman identities.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "dailyLife": {
+        "value": "Roman-style life continued.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Byzantium, Franks, Burgundians, Vandals.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "ideasReligions": {
+        "value": "Classical learning.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "colonisation": {
+        "value": "Took over Roman Italy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Theodoric takes Ravenna (493).",
+        "year": 493,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "peakPeriod": {
+        "value": "Theodoric’s reign (493–526).",
+        "year": 510,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "declineSignals": {
+        "value": "Byzantine invasion (535).",
+        "year": 535,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "outcome": {
+        "value": "Conquered by Byzantium (553); Lombards followed (568).",
+        "year": 553,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Ostrogothic Kingdom.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      },
+      "overallCertainty": {
+        "value": "Well documented by Procopius and Cassiodorus.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ostrogothic Kingdom"
+      }
+    }
+  }
+}

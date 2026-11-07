@@ -34,7 +34,7 @@ history-globe/
 └── src/
     ├── types/index.ts      # Polity, Checklist, HistoryEvent, PolityLink (the data contract)
     ├── data/
-    │   ├── polities/*.json # one file per civilisation (487, all with complete checklists and “Known for” items)
+    │   ├── polities/*.json # one file per civilisation (499, all with complete checklists and “Known for” items)
     │   ├── events.json     # 935 events across 12,000 years, each new one with a source
     │   └── links.json      #  links: succeeded / conquered / colonised / traded_with / allied_with
     ├── lib/
@@ -67,7 +67,7 @@ Open `src/data/polities/<id>.json`. Every checklist item has this shape:
 - Keep the wording neutral and descriptive. Where a term is contested, say whose term it is.
 - Run `npm run validate-data` afterwards. It warns about items with a value but no source or certainty.
 
-**All 487 civilisations have complete 43-item checklists.** Each also has a **Known for** list of signature culture: cloth and dress, special troops, weapons, tools and inventions, monuments, art, ideas and laws, food, and people. Tap a chip to read about it and jump to its year. Key dates and figures were checked against the live Wikipedia articles (5–6 Nov 2026). Items marked “checked” were confirmed there; other items cite scholarly works. Conflicting dates are marked Disputed, and politically sensitive topics use the sources’ own neutral wording. A history teacher should still review the content before classroom use.
+**All 499 civilisations have complete 43-item checklists.** Each also has a **Known for** list of signature culture: cloth and dress, special troops, weapons, tools and inventions, monuments, art, ideas and laws, food, and people. Tap a chip to read about it and jump to its year. Key dates and figures were checked against the live Wikipedia articles (5–6 Nov 2026). Items marked “checked” were confirmed there; other items cite scholarly works. Conflicting dates are marked Disputed, and politically sensitive topics use the sources’ own neutral wording. A history teacher should still review the content before classroom use.
 
 The first examples written were:
 

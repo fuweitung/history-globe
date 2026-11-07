@@ -1,0 +1,320 @@
+{
+  "id": "mongol-tribes",
+  "name": "Mongol tribes before Genghis Khan",
+  "era": "medieval",
+  "region": "Central Asia (Mongolian steppe)",
+  "startYear": 900,
+  "endYear": 1206,
+  "capital": "No capital (tribal confederations)",
+  "capitalCoords": [
+    107,
+    47.5
+  ],
+  "summary": "The Mongol, Tatar, Kereit, Naiman, Merkit and other tribes of the steppe after the Liao, including the short-lived Khamag Mongol confederation (about 1130–60); Temüjin united them and was proclaimed Genghis Khan in 1206.",
+  "wikiTitle": "Khamag Mongol",
+  "borderNames": [],
+  "borderNameYears": {
+    "Mongols": [
+      900,
+      1205
+    ]
+  },
+  "color": "#7a8a5a",
+  "knownFor": [
+    {
+      "label": "Temüjin",
+      "kind": "person",
+      "note": "Future Genghis Khan (born about 1162)."
+    },
+    {
+      "label": "Khamag Mongol",
+      "kind": "idea",
+      "note": "First Mongol confederation."
+    },
+    {
+      "label": "Ger tents",
+      "kind": "tool",
+      "note": "Felt tents."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Mongolian plateau.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "terrain": {
+        "value": "Open grassland steppe with river valleys.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "climate": {
+        "value": "Continental: hot summers and very cold winters.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "resources": {
+        "value": "Pasture for horses, sheep and cattle.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "disasters": {
+        "value": "Harsh winters (dzud) that killed herds; droughts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khamag Mongol"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Perhaps 700,000–1 million.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "urbanisation": {
+        "value": "Mostly nomadic camps; a few trading towns.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "disease": {
+        "value": "Plague and epidemics carried along trade routes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "migration": {
+        "value": "Seasonal herding movements.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khamag Mongol"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Herding horses, sheep and cattle; tribute and raiding.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "tradeRoutes": {
+        "value": "Trade and tribute with the Jin and Western Xia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "wealth": {
+        "value": "Wealth in herds, tribute and plunder.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "moneyAndTax": {
+        "value": "Tribute from settled neighbours; little coinage of their own.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "inequality": {
+        "value": "Ruling clans above commoner herders and slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khamag Mongol"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Tribal confederations under khans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "keyRulers": {
+        "value": "Khabul Khan. Ambaghai. Temüjin.",
+        "year": 1130,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "succession": {
+        "value": "Elected or seized by strong leaders.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "institutions": {
+        "value": "Clan assemblies and the khan’s household.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "stability": {
+        "value": "Constant feuds.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "eliteConflict": {
+        "value": "Tribes and clans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khamag Mongol"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Mounted archers with composite bows.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "majorWars": {
+        "value": "Wars between tribes; Temüjin’s unification (1180s–1206).",
+        "year": 1190,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "territoryChange": {
+        "value": "United under Temüjin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "alliancesRivals": {
+        "value": "Jin dynasty played tribes against each other.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khamag Mongol"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded; skilled horsemanship and metalwork.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "scienceEducation": {
+        "value": "Oral learning.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "openness": {
+        "value": "Open to trade and alliances with settled empires.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "communicationTransport": {
+        "value": "Horses and wagons.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khamag Mongol"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Tengrism; Nestorian Christianity among the Kereit and Naiman.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "languageWriting": {
+        "value": "Mongolic languages; no script until 1204.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "artsArchitecture": {
+        "value": "Little survives.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "socialStructure": {
+        "value": "Clans, nobles, commoners, slaves.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to clan and khan.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "dailyLife": {
+        "value": "Felt tents; meat, milk and fermented mare’s milk.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khamag Mongol"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Jin, Western Xia, Qara Khitai, Uyghurs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "ideasReligions": {
+        "value": "Tengri worship.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khamag Mongol"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "After the fall of the Liao (1125).",
+        "year": 1125,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "peakPeriod": {
+        "value": "Khamag Mongol (about 1130–60).",
+        "year": 1140,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "declineSignals": {
+        "value": "Jin-backed Tatars broke the Khamag Mongol.",
+        "year": 1161,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "outcome": {
+        "value": "United as the Mongol Empire (1206).",
+        "year": 1206,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khamag Mongol"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Khamag Mongol.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khamag Mongol"
+      },
+      "overallCertainty": {
+        "value": "Known mostly from Byzantine, Chinese, Arab and Persian writers and from archaeology; numbers are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khamag Mongol"
+      }
+    }
+  }
+}

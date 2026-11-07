@@ -1,0 +1,326 @@
+{
+  "id": "pechenegs",
+  "name": "Pechenegs",
+  "era": "medieval",
+  "region": "Eastern Europe (steppe)",
+  "startYear": 850,
+  "endYear": 1091,
+  "capital": "No capital (nomadic tribes)",
+  "capitalCoords": [
+    33,
+    47
+  ],
+  "summary": "Turkic nomads who drove the Magyars west (around 895) and ruled the steppe north of the Black Sea, sometimes allied with Byzantium; they killed Prince Sviatoslav of Kiev (972) and were crushed by Byzantium at Levounion (1091).",
+  "wikiTitle": "Pechenegs",
+  "borderNames": [],
+  "borderNameYears": {
+    "Peshemegs": [
+      850,
+      1091
+    ],
+    "Pechenegs": [
+      850,
+      1091
+    ]
+  },
+  "color": "#a07a4a",
+  "knownFor": [
+    {
+      "label": "Skull cup of Sviatoslav",
+      "kind": "idea",
+      "year": 972,
+      "note": "Made from the skull of the Kievan prince."
+    },
+    {
+      "label": "Battle of Levounion",
+      "kind": "idea",
+      "year": 1091,
+      "note": "Their destruction."
+    },
+    {
+      "label": "Horse archers",
+      "kind": "troops",
+      "note": "Feared raiders."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Pontic steppe (Ukraine and southern Russia).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "terrain": {
+        "value": "Open grassland steppe with river valleys.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "climate": {
+        "value": "Continental: hot summers and very cold winters.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "resources": {
+        "value": "Pasture for horses, sheep and cattle.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "disasters": {
+        "value": "Harsh winters (dzud) that killed herds; droughts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pechenegs"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain; eight tribes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "urbanisation": {
+        "value": "Mostly nomadic camps; a few trading towns.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "disease": {
+        "value": "Plague and epidemics carried along trade routes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "migration": {
+        "value": "Moved west and pushed the Magyars into the Carpathian basin (about 895).",
+        "year": 895,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pechenegs"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Herding horses, sheep and cattle; tribute and raiding.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "tradeRoutes": {
+        "value": "Controlled the Dnieper route between Kiev and Constantinople.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "wealth": {
+        "value": "Wealth in herds, tribute and plunder.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "moneyAndTax": {
+        "value": "Tribute from settled neighbours; little coinage of their own.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "inequality": {
+        "value": "Ruling clans above commoner herders and slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pechenegs"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Confederation of eight tribes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "keyRulers": {
+        "value": "Tribal chiefs, such as Kurya (killed Sviatoslav).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "succession": {
+        "value": "Tribal leaders.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "institutions": {
+        "value": "Clan assemblies and the khan’s household.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "stability": {
+        "value": "Shifting alliances.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "eliteConflict": {
+        "value": "Rival tribes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pechenegs"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Mounted archers with composite bows.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "majorWars": {
+        "value": "Wars with Kievan Rus’; Battle of Levounion (1091).",
+        "year": 972,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "territoryChange": {
+        "value": "Pushed west by the Cumans (1000s).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "alliancesRivals": {
+        "value": "Byzantium, Kievan Rus’, Hungary.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pechenegs"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded; skilled horsemanship and metalwork.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "scienceEducation": {
+        "value": "Oral learning.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "openness": {
+        "value": "Open to trade and alliances with settled empires.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "communicationTransport": {
+        "value": "Horses and wagons.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pechenegs"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Steppe religion; some converted to Islam or Christianity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "languageWriting": {
+        "value": "A Turkic language.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "artsArchitecture": {
+        "value": "Little survives.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "socialStructure": {
+        "value": "Tribes and clans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to clan and khan.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "dailyLife": {
+        "value": "Felt tents; meat, milk and fermented mare’s milk.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pechenegs"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Kievan Rus’, Byzantium, Bulgaria, Khazars, Magyars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "ideasReligions": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pechenegs"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Moved west after the Khazars weakened (800s).",
+        "year": 850,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "peakPeriod": {
+        "value": "900s.",
+        "year": 950,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "declineSignals": {
+        "value": "Pressure from the Cumans (1000s).",
+        "year": 1050,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "outcome": {
+        "value": "Destroyed at Levounion (1091); survivors absorbed by Hungary and Byzantium.",
+        "year": 1091,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pechenegs"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Pechenegs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pechenegs"
+      },
+      "overallCertainty": {
+        "value": "Known mostly from Byzantine, Chinese, Arab and Persian writers and from archaeology; numbers are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pechenegs"
+      }
+    }
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "id": "yamato-japan",
+  "name": "Yamato Japan (Kofun and Asuka periods)",
+  "era": "ancient",
+  "region": "East Asia (Japan)",
+  "startYear": 250,
+  "endYear": 710,
+  "capital": "Asuka (Nara basin)",
+  "capitalCoords": [
+    135.82,
+    34.47
+  ],
+  "summary": "The first Japanese state, led by the Yamato kings (later emperors) from the Nara basin; they built giant keyhole-shaped tombs (kofun), adopted Buddhism and Chinese writing, and introduced Chinese-style laws in the Taika reforms (645).",
+  "wikiTitle": "Kofun period",
+  "borderNames": [],
+  "borderNameYears": {
+    "Yamato": [
+      250,
+      709
+    ]
+  },
+  "color": "#c04a3a",
+  "knownFor": [
+    {
+      "label": "Kofun tombs",
+      "kind": "monument",
+      "note": "Keyhole-shaped burial mounds, such as Daisen Kofun."
+    },
+    {
+      "label": "Hōryū-ji",
+      "kind": "monument",
+      "year": 607,
+      "note": "One of the oldest wooden buildings in the world."
+    },
+    {
+      "label": "Prince Shōtoku",
+      "kind": "person",
+      "note": "Promoted Buddhism; Seventeen-article constitution."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Central and western Japan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      },
+      "terrain": {
+        "value": "Mountainous islands with small plains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      },
+      "climate": {
+        "value": "Temperate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      },
+      "resources": {
+        "value": "Rice, iron (imported from Korea), forests.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      },
+      "disasters": {
+        "value": "Earthquakes and epidemics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kofun period"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Perhaps 3–5 million by 700.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kofun period"
+      },
+      "urbanisation": {
+        "value": "Palace sites in the Asuka area.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      },
+      "disease": {
+        "value": "Smallpox epidemics (from the 500s).",
+        "year": 585,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      },
+      "migration": {
+        "value": "Craftsmen and scholars from Korea and China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Rice farming.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      },
+      "tradeRoutes": {
+        "value": "Trade and embassies with Korea and China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      },
+      "wealth": {
+        "value": "Elite wealth in iron, mirrors and tombs.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kofun period"
+      },
+      "moneyAndTax": {
+        "value": "Taxes in rice and labour; first coins (Fuhonsen, about 683).",
+        "year": 683,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      },
+      "inequality": {
+        "value": "Clans (uji) and the royal family above farmers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Kingdom ruled by the Yamato great kings, later emperors.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      },
+      "keyRulers": {
+        "value": "Empress Suiko. Prince Shōtoku. Emperor Tenji. Emperor Tenmu.",
+        "year": 593,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      },
+      "succession": {
+        "value": "Within the royal family, often disputed.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      },
+      "institutions": {
+        "value": "Taika reforms (645); Taihō Code (701).",
+        "year": 645,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      },
+      "stability": {
+        "value": "Jinshin War (672).",
+        "year": 672,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      },
+      "eliteConflict": {
+        "value": "Soga and Mononobe clans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Armoured cavalry and iron weapons.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      },
+      "majorWars": {
+        "value": "Battle of Baekgang (663) in Korea.",
+        "year": 663,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      },
+      "territoryChange": {
+        "value": "Expanded control over Kyushu and eastern Japan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      },
+      "alliancesRivals": {
+        "value": "Allied with Baekje; rival of Silla and Tang.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kofun period"
+      },
+      "scienceEducation": {
+        "value": "Chinese writing and Buddhist learning.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      },
+      "openness": {
+        "value": "Open to trade and new ideas from abroad.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kofun period"
+      },
+      "communicationTransport": {
+        "value": "Roads and ships.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Shinto and Buddhism (from 552/538).",
+        "year": 552,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      },
+      "languageWriting": {
+        "value": "Old Japanese written with Chinese characters.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      },
+      "artsArchitecture": {
+        "value": "Kofun tombs, haniwa figures, Buddhist temples.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      },
+      "socialStructure": {
+        "value": "Clans, farmers and craftsmen guilds (be).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler and lineage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kofun period"
+      },
+      "dailyLife": {
+        "value": "Pit and raised-floor houses; rice.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Baekje, Silla, Goguryeo, Sui and Tang China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      },
+      "ideasReligions": {
+        "value": "Buddhism and Confucian ideas from China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Kofun tombs appear (about 250).",
+        "year": 250,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      },
+      "peakPeriod": {
+        "value": "Asuka period (538–710).",
+        "year": 600,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      },
+      "declineSignals": {
+        "value": "None; it became the Nara state.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      },
+      "outcome": {
+        "value": "Capital moved to Nara (710).",
+        "year": 710,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Kofun period.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kofun period"
+      },
+      "overallCertainty": {
+        "value": "Known from chronicles, inscriptions and archaeology; dates and numbers are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kofun period"
+      }
+    }
+  }
+}

@@ -4442,5 +4442,180 @@
     "relation": "succeeded",
     "year": 1810,
     "note": "Muisca and other peoples of Colombia."
+  },
+  {
+    "fromPolityId": "avar-khaganate",
+    "toPolityId": "byzantine-empire",
+    "relation": "conquered",
+    "year": 626,
+    "note": "Siege of Constantinople."
+  },
+  {
+    "fromPolityId": "carolingian-empire",
+    "toPolityId": "avar-khaganate",
+    "relation": "conquered",
+    "year": 803,
+    "note": "Frankish conquest."
+  },
+  {
+    "fromPolityId": "avar-khaganate",
+    "toPolityId": "early-slavs",
+    "relation": "conquered",
+    "year": 600,
+    "note": "Ruled many Slavic tribes."
+  },
+  {
+    "fromPolityId": "khazar-khaganate",
+    "toPolityId": "pechenegs",
+    "relation": "traded_with",
+    "year": 900,
+    "note": "Neighbours and rivals on the steppe."
+  },
+  {
+    "fromPolityId": "pechenegs",
+    "toPolityId": "magyar-principality",
+    "relation": "conquered",
+    "year": 895,
+    "note": "Pushed the Magyars west."
+  },
+  {
+    "fromPolityId": "magyar-principality",
+    "toPolityId": "kingdom-of-hungary-medieval",
+    "relation": "succeeded",
+    "year": 1000,
+    "note": "Kingdom of Hungary (1000)."
+  },
+  {
+    "fromPolityId": "turkic-khaganates",
+    "toPolityId": "oghuz-yabgu",
+    "relation": "succeeded",
+    "year": 750,
+    "note": "Oghuz tribes after the Turkic khaganates."
+  },
+  {
+    "fromPolityId": "oghuz-yabgu",
+    "toPolityId": "seljuk-empire",
+    "relation": "succeeded",
+    "year": 1037,
+    "note": "The Seljuks were Oghuz Turks."
+  },
+  {
+    "fromPolityId": "uyghur-khaganate",
+    "toPolityId": "uyghur-kingdoms",
+    "relation": "succeeded",
+    "year": 848,
+    "note": "Refugees after 840."
+  },
+  {
+    "fromPolityId": "uyghur-kingdoms",
+    "toPolityId": "mongol-empire",
+    "relation": "allied_with",
+    "year": 1209,
+    "note": "Submitted to Genghis Khan."
+  },
+  {
+    "fromPolityId": "liao-dynasty",
+    "toPolityId": "mongol-tribes",
+    "relation": "conquered",
+    "year": 1000,
+    "note": "The Liao dominated the Mongol tribes."
+  },
+  {
+    "fromPolityId": "mongol-tribes",
+    "toPolityId": "mongol-empire",
+    "relation": "succeeded",
+    "year": 1206,
+    "note": "United by Genghis Khan."
+  },
+  {
+    "fromPolityId": "early-slavs",
+    "toPolityId": "kievan-rus",
+    "relation": "succeeded",
+    "year": 882,
+    "note": "East Slavic tribes formed Kievan Rus’."
+  },
+  {
+    "fromPolityId": "early-slavs",
+    "toPolityId": "first-bulgarian-empire",
+    "relation": "succeeded",
+    "year": 681,
+    "note": "Slavs and Bulgars formed Bulgaria."
+  },
+  {
+    "fromPolityId": "roman-empire",
+    "toPolityId": "ostrogothic-kingdom",
+    "relation": "succeeded",
+    "year": 493,
+    "note": "Ruled Roman Italy."
+  },
+  {
+    "fromPolityId": "byzantine-empire",
+    "toPolityId": "ostrogothic-kingdom",
+    "relation": "conquered",
+    "year": 553,
+    "note": "Gothic War."
+  },
+  {
+    "fromPolityId": "yamato-japan",
+    "toPolityId": "nara-heian-japan",
+    "relation": "succeeded",
+    "year": 710,
+    "note": "Capital moved to Nara."
+  },
+  {
+    "fromPolityId": "baekje",
+    "toPolityId": "yamato-japan",
+    "relation": "allied_with",
+    "year": 600,
+    "note": "Close ally; sent Buddhism and craftsmen."
+  },
+  {
+    "fromPolityId": "funan",
+    "toPolityId": "chenla",
+    "relation": "succeeded",
+    "year": 550,
+    "note": "Chenla replaced Funan."
+  },
+  {
+    "fromPolityId": "chenla",
+    "toPolityId": "khmer-empire",
+    "relation": "succeeded",
+    "year": 802,
+    "note": "Jayavarman II founded Angkor."
+  },
+  {
+    "fromPolityId": "east-java-kingdoms",
+    "toPolityId": "majapahit",
+    "relation": "succeeded",
+    "year": 1293,
+    "note": "Majapahit rose after Singhasari."
+  },
+  {
+    "fromPolityId": "srivijaya",
+    "toPolityId": "east-java-kingdoms",
+    "relation": "traded_with",
+    "year": 1000,
+    "note": "Rivals for sea trade."
+  },
+  {
+    "fromPolityId": "jin-dynasty-266",
+    "toPolityId": "sixteen-kingdoms",
+    "relation": "succeeded",
+    "year": 316,
+    "note": "The north was lost to the Sixteen Kingdoms."
+  },
+  {
+    "fromPolityId": "sixteen-kingdoms",
+    "toPolityId": "northern-southern-dynasties",
+    "relation": "succeeded",
+    "year": 439,
+    "note": "Northern Wei reunited the north."
+  },
+  {
+    "fromPolityId": "xiongnu",
+    "toPolityId": "sixteen-kingdoms",
+    "relation": "succeeded",
+    "year": 304,
+    "note": "Xiongnu leaders founded the first of the kingdoms."
   }
 ]
