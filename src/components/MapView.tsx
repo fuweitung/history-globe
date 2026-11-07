@@ -115,14 +115,29 @@ const STYLE: StyleSpecification = {
         'fill-opacity-transition': { duration: 300 },
       },
     },
+    // Borders the source marks as precise (BORDERPRECISION ≥ 2, mostly 1800 onwards): solid lines.
     {
       id: 'borders-line',
       type: 'line',
       source: 'borders',
+      filter: ['>=', ['coalesce', ['get', 'BORDERPRECISION'], 1], 2],
       paint: {
         'line-color': '#5b4a33',
         'line-opacity': 0.55,
         'line-width': ['interpolate', ['linear'], ['zoom'], 1, 0.3, 5, 1],
+      },
+    },
+    // Approximate borders (most maps before 1800): softer dashed lines, so they don't look exact.
+    {
+      id: 'borders-line-approx',
+      type: 'line',
+      source: 'borders',
+      filter: ['<', ['coalesce', ['get', 'BORDERPRECISION'], 1], 2],
+      paint: {
+        'line-color': '#5b4a33',
+        'line-opacity': 0.4,
+        'line-width': ['interpolate', ['linear'], ['zoom'], 1, 0.4, 5, 1.1],
+        'line-dasharray': [3, 2],
       },
     },
     {
@@ -388,8 +403,12 @@ export default function MapView({
         map.setFeatureState({ source: 'borders', id: hoverId }, { hover: true });
       }
       const p = snapshotRef.current?.byFid.get(f.id as number) ?? (f.properties as unknown as BorderProps);
-      const sub = p.SUBJECTO && p.SUBJECTO !== p.NAME ? `under ${p.SUBJECTO}` : undefined;
-      setTooltip({ x: e.point.x, y: e.point.y, text: p.NAME ?? 'Unnamed', sub: p._linked ? `${sub ? sub + ' · ' : ''}click for checklist` : sub });
+      const parts = [
+        p.SUBJECTO && p.SUBJECTO !== p.NAME ? `under ${p.SUBJECTO}` : '',
+        (p.BORDERPRECISION ?? 1) < 2 ? 'approximate border' : '',
+        p._linked ? 'click for checklist' : '',
+      ].filter(Boolean);
+      setTooltip({ x: e.point.x, y: e.point.y, text: p.NAME ?? 'Unnamed', sub: parts.join(' · ') || undefined });
     });
     map.on('mouseleave', 'borders-fill', () => {
       map.getCanvas().style.cursor = '';
