@@ -42,51 +42,51 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "On the eastern Baltic Sea.",
+        "value": "The northernmost Baltic state, on the Gulf of Finland and the Baltic Sea; about 45,300 km² with over 2,000 islands.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Estonia"
       },
       "terrain": {
-        "value": "Low plains, forests, lakes and coast.",
+        "value": "Low and flat, with forests (about half the land), bogs, lakes and islands such as Saaremaa.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Estonia"
       },
       "climate": {
-        "value": "Cool, with cold winters.",
+        "value": "Cool and damp, with cold, snowy winters.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Estonia"
       },
       "resources": {
-        "value": "Forests, farmland, Baltic ports.",
+        "value": "Oil shale (main energy source until recently), timber and farmland.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Estonia"
       },
       "disasters": {
-        "value": "Harsh winters and storms.",
-        "year": null,
+        "value": "Sinking of the ferry Estonia (1994), 852 dead.",
+        "year": 1994,
         "certainty": "confirmed",
         "source": "Wikipedia: Estonia"
       }
     },
     "population": {
       "population": {
-        "value": "About 1.4 million.",
+        "value": "About 1.37 million.",
         "year": 2024,
         "certainty": "confirmed",
         "source": "Wikipedia: Estonia"
       },
       "urbanisation": {
-        "value": "Tallinn is the largest city.",
+        "value": "About 69% urban; Tallinn has about 450,000 people.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Estonia"
       },
       "disease": {
-        "value": "Good public health.",
+        "value": "Life expectancy about 79 years.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Estonia"
@@ -100,13 +100,13 @@
     },
     "economy": {
       "economicBase": {
-        "value": "IT services, timber, manufacturing.",
+        "value": "IT and digital services, timber, electronics and logistics.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Estonia"
       },
       "tradeRoutes": {
-        "value": "EU single market since 2004.",
+        "value": "Port of Tallinn; EU single market since 2004.",
         "year": 2004,
         "certainty": "confirmed",
         "source": "Wikipedia: Estonia"
@@ -118,7 +118,7 @@
         "source": "Wikipedia: Estonia"
       },
       "moneyAndTax": {
-        "value": "The kroon, then the euro (2011).",
+        "value": "The kroon (1992), then the euro (2011); a flat income tax.",
         "year": 2011,
         "certainty": "confirmed",
         "source": "Wikipedia: Estonia"
@@ -138,19 +138,19 @@
         "source": "Wikipedia: Estonia"
       },
       "keyRulers": {
-        "value": "Konstantin Päts. Lennart Meri.",
+        "value": "Konstantin Päts (interwar). Lennart Meri (president 1992–2001).",
         "year": 1992,
         "certainty": "confirmed",
         "source": "Wikipedia: Estonia"
       },
       "succession": {
-        "value": "Elections.",
+        "value": "Elections; the parliament elects the president.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Estonia"
       },
       "institutions": {
-        "value": "Parliament and courts.",
+        "value": "Riigikogu (parliament) and an advanced e-government system.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Estonia"
@@ -162,7 +162,7 @@
         "source": "Wikipedia: Estonia"
       },
       "eliteConflict": {
-        "value": "Party politics.",
+        "value": "Party politics; tensions over the Russian-speaking minority.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Estonia"
@@ -170,8 +170,8 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "NATO member since 2004.",
-        "year": 2004,
+        "value": "NATO member since 2004; hosts NATO’s cyber defence centre (2008).",
+        "year": 2008,
         "certainty": "confirmed",
         "source": "Wikipedia: Estonia"
       },
@@ -188,7 +188,7 @@
         "source": "Wikipedia: Estonia"
       },
       "alliancesRivals": {
-        "value": "NATO and EU.",
+        "value": "NATO and EU; tense relations with Russia.",
         "year": 2004,
         "certainty": "confirmed",
         "source": "Wikipedia: Estonia"
@@ -196,19 +196,19 @@
     },
     "technology": {
       "inventions": {
-        "value": "Skype; digital ID and online voting.",
+        "value": "Skype (2003); digital ID cards (2002) and online voting (2005).",
         "year": 2003,
         "certainty": "confirmed",
         "source": "Wikipedia: Estonia"
       },
       "scienceEducation": {
-        "value": "High literacy.",
+        "value": "University of Tartu (1632); top results in international school tests.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Estonia"
       },
       "openness": {
-        "value": "Very open.",
+        "value": "Very open digital economy; “e-residency” for foreigners.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Estonia"
@@ -234,13 +234,13 @@
         "source": "Wikipedia: Estonia"
       },
       "artsArchitecture": {
-        "value": "Song festivals, composer Arvo Pärt.",
+        "value": "Medieval Tallinn old town; Song Festivals; composer Arvo Pärt.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Estonia"
       },
       "socialStructure": {
-        "value": "Moderate.",
+        "value": "Estonians (about 69%) and Russian speakers (about 25%).",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Estonia"
@@ -266,7 +266,7 @@
         "source": "Wikipedia: Estonia"
       },
       "ideasReligions": {
-        "value": "The Baltic Way human chain (1989).",
+        "value": "The Baltic Way human chain (1989) and the Singing Revolution.",
         "year": 1989,
         "certainty": "confirmed",
         "source": "Wikipedia: Estonia"
@@ -280,19 +280,19 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Independence declared in 1918.",
+        "value": "Independence declared in 1918; restored in 1991.",
         "year": 1918,
         "certainty": "confirmed",
         "source": "Wikipedia: Estonia"
       },
       "peakPeriod": {
-        "value": "Growth after 2004.",
+        "value": "Rapid growth after 1991, the “Baltic Tiger”.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Estonia"
       },
       "declineSignals": {
-        "value": "Soviet occupation.",
+        "value": "Soviet occupation (1940–91).",
         "year": 1940,
         "certainty": "confirmed",
         "source": "Wikipedia: Estonia"

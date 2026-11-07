@@ -41,31 +41,31 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Islands south of Sicily.",
+        "value": "Three inhabited islands (Malta, Gozo, Comino) in the central Mediterranean, 93 km south of Sicily; about 316 km², the smallest EU country.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
       },
       "terrain": {
-        "value": "Low limestone islands.",
+        "value": "Low limestone hills and cliffs, with natural harbours such as Valletta’s Grand Harbour; no rivers or lakes.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
       },
       "climate": {
-        "value": "Mediterranean.",
+        "value": "Hot, dry summers and mild, wet winters; very little fresh water, so most drinking water comes from desalination.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
       },
       "resources": {
-        "value": "Harbours, tourism.",
+        "value": "Few natural resources apart from limestone and sea salt; its deep harbours made it a prize for every Mediterranean power.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
       },
       "disasters": {
-        "value": "No major natural disasters recorded.",
+        "value": "No major natural disasters in modern times; droughts and water shortage are the main environmental problems.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Malta"
@@ -73,19 +73,19 @@
     },
     "population": {
       "population": {
-        "value": "About 560,000.",
+        "value": "About 560,000, making it one of the most densely populated countries in the world.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
       },
       "urbanisation": {
-        "value": "Valletta is the main town.",
+        "value": "Almost entirely urban; towns around the Grand Harbour merge into one built-up area. Valletta itself has only about 6,000 residents.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
       },
       "disease": {
-        "value": "Very good public health.",
+        "value": "Life expectancy over 82 years and a free public health service.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Malta"
@@ -99,31 +99,31 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Tourism, gaming, finance.",
+        "value": "Tourism, online gaming, financial services, shipping and ship registration, and a growing pharmaceutical sector.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
       },
       "tradeRoutes": {
-        "value": "EU since 2004.",
-        "year": null,
+        "value": "On the main east–west Mediterranean shipping lane; Malta Freeport is a big container hub. EU member since 2004.",
+        "year": 2004,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
       },
       "wealth": {
-        "value": "A high-income economy.",
+        "value": "A high-income economy that grew fast after joining the EU.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
       },
       "moneyAndTax": {
-        "value": "The euro (2008).",
-        "year": null,
+        "value": "The Maltese lira until the euro arrived in 2008; low effective company taxes attracted foreign firms.",
+        "year": 2008,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
       },
       "inequality": {
-        "value": "Low inequality.",
+        "value": "Fairly low inequality, though housing costs have risen sharply.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Malta"
@@ -131,63 +131,63 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A parliamentary republic (since 1974).",
-        "year": null,
+        "value": "A parliamentary republic since 1974; the British monarch was head of state from 1964 to 1974.",
+        "year": 1974,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
       },
       "keyRulers": {
-        "value": "Dom Mintoff. Eddie Fenech Adami.",
-        "year": null,
+        "value": "Dom Mintoff (Labour, closed the British bases in 1979); Eddie Fenech Adami (took Malta into the EU).",
+        "year": 1971,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
       },
       "succession": {
-        "value": "Elections.",
+        "value": "Elections every five years using the single transferable vote; politics is dominated by Labour and the Nationalist Party.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
       },
       "institutions": {
-        "value": "House of Representatives.",
+        "value": "House of Representatives, an elected president with mainly ceremonial powers, and courts based on mixed civil and common law.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
       },
       "stability": {
-        "value": "Heavily bombed in the Second World War.",
-        "year": null,
+        "value": "Heavily bombed in the Second World War; the whole island was awarded the George Cross (1942).",
+        "year": 1942,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
       },
       "eliteConflict": {
-        "value": "Little conflict among leaders.",
-        "year": null,
+        "value": "Fierce rivalry between Labour and the Nationalists; the murder of journalist Daphne Caruana Galizia (2017) led to a government crisis.",
+        "year": 2017,
         "certainty": "estimated",
         "source": "Wikipedia: Malta"
       }
     },
     "military": {
       "armyAndTech": {
-        "value": "Small armed forces; neutral.",
+        "value": "Small Armed Forces of Malta, mostly maritime patrol; neutrality is written into the constitution.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
       },
       "majorWars": {
-        "value": "Siege of Malta (1940–42).",
-        "year": null,
+        "value": "Great Siege by the Ottomans (1565); siege by Germany and Italy (1940–42).",
+        "year": 1940,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
       },
       "territoryChange": {
-        "value": "No territorial change in modern times.",
+        "value": "No territorial changes since independence.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
       },
       "alliancesRivals": {
-        "value": "EU member; neutral.",
+        "value": "EU member, neutral and not in NATO; hosted the 1989 Bush–Gorbachev summit.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
@@ -195,25 +195,25 @@
     },
     "technology": {
       "inventions": {
-        "value": "Few major inventions.",
+        "value": "No major inventions; known for its skilled shipbuilding and dockyards.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Malta"
       },
       "scienceEducation": {
-        "value": "High education levels.",
+        "value": "University of Malta (roots in 1592); free education up to university.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
       },
       "openness": {
-        "value": "Very open.",
+        "value": "Very open, trading and tourist economy.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
       },
       "communicationTransport": {
-        "value": "Ferries and buses.",
+        "value": "Buses, ferries between Malta and Gozo, and an international airport; no railway since 1931.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
@@ -221,37 +221,37 @@
     },
     "culture": {
       "religion": {
-        "value": "Catholic.",
+        "value": "Catholic Christianity is the state religion; Malta was the last EU country to legalise divorce (2011).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
       },
       "languageWriting": {
-        "value": "Maltese and English.",
+        "value": "Maltese, the only Semitic language written in the Latin alphabet and an official EU language, and English.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
       },
       "artsArchitecture": {
-        "value": "Temples, baroque churches.",
+        "value": "Megalithic temples (Ġgantija, about 3600 BCE) older than the pyramids, and Baroque Valletta built by the Knights of St John.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
       },
       "socialStructure": {
-        "value": "Prosperous society.",
+        "value": "A prosperous society with strong family ties and a large foreign workforce.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Malta"
       },
       "sharedIdentity": {
-        "value": "A Mediterranean island identity.",
+        "value": "Maltese language, Catholic faith and village festas.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
       },
       "dailyLife": {
-        "value": "Stone houses; pastizzi, rabbit stew.",
+        "value": "Limestone houses and flats; pastizzi (pastry), rabbit stew, the evening passeggiata.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
@@ -259,39 +259,39 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Italy (Sicily), Libya, Tunisia.",
+        "value": "Italy (Sicily) to the north, Libya and Tunisia to the south.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
       },
       "ideasReligions": {
-        "value": "Shares the culture of its neighbours.",
+        "value": "Mixed Arab, Italian and British influences in language and customs.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Malta"
       },
       "colonisation": {
-        "value": "None.",
-        "year": null,
+        "value": "Ruled by Arabs, Normans, the Knights of St John (1530–1798), France (1798–1800) and Britain (1800–1964).",
+        "year": 1800,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Independence from Britain (1964).",
-        "year": null,
+        "value": "Independence from Britain (1964); British bases closed (1979).",
+        "year": 1964,
         "certainty": "confirmed",
         "source": "Wikipedia: Malta"
       },
       "peakPeriod": {
-        "value": "Modern prosperity.",
+        "value": "Fast growth after EU membership (2004) and the euro (2008).",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Malta"
       },
       "declineSignals": {
-        "value": "None major.",
+        "value": "No general decline; concerns over corruption and overbuilding.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Malta"
