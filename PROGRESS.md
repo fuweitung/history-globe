@@ -52,12 +52,12 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 
 | Area | Progress | Detail |
 |---|---|---|
-| Map coverage (all years) | `██████████████████░░` 90% | Named land on the border maps that is linked to a civilisation |
+| Map coverage (all years) | `██████████████████░░` 91% | Named land on the border maps that is linked to a civilisation |
 | · Prehistory | `██████████████████░░` 92% |  |
 | · Ancient | `██████████████████░░` 91% |  |
 | · Medieval | `█████████████████░░░` 85% |  |
-| · Early modern | `████████████████░░░░` 82% |  |
-| · Modern | `███████████████████░` 97% |  |
+| · Early modern | `██████████████████░░` 88% |  |
+| · Modern | `████████████████████` 98% |  |
 | Civilisations shown on the map | `███████████████████░` 93% | 408 of 441; the rest fly to their capital |
 | Checklist filled in | `████████████████████` 100% | 18963 of 18963 items (441 × 43) |
 | Answers with real detail | `████████████░░░░░░░░` 58% | 7530 answers are still under 40 characters |
@@ -69,7 +69,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | “Known for” pictures | `█████████░░░░░░░░░░░` 45% | 629 of 1383 items |
 
 Certainty of all items: 12493 confirmed · 6003 estimated · 467 disputed.
-Also in the app: 883 events · 408 people · 18 routes · 11 stories.
+Also in the app: 884 events · 408 people · 18 routes · 11 stories.
 
 ## Map coverage by year
 
@@ -109,13 +109,13 @@ Also in the app: 883 events · 408 people · 18 routes · 11 stories.
 | 1492 | `███████████░░░░░░░░░` 57% |
 | 1500 | `█████████████████░░░` 84% |
 | 1530 | `███████████████░░░░░` 77% |
-| 1600 | `███████████████░░░░░` 75% |
-| 1650 | `████████████████░░░░` 81% |
-| 1700 | `████████████████░░░░` 82% |
-| 1715 | `█████████████████░░░` 85% |
-| 1783 | `██████████████████░░` 92% |
-| 1800 | `██████████████████░░` 92% |
-| 1815 | `███████████████████░` 94% |
+| 1600 | `█████████████████░░░` 83% |
+| 1650 | `██████████████████░░` 90% |
+| 1700 | `██████████████████░░` 90% |
+| 1715 | `███████████████████░` 93% |
+| 1783 | `████████████████████` 99% |
+| 1800 | `████████████████████` 99% |
+| 1815 | `████████████████████` 98% |
 | 1878 | `████████████████████` 98% |
 | 1880 | `████████████████████` 98% |
 | 1900 | `████████████████████` 99% |
