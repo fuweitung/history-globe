@@ -1,0 +1,320 @@
+{
+  "id": "uyghur-kingdoms",
+  "name": "Uyghur kingdoms of Qocho and Ganzhou",
+  "era": "medieval",
+  "region": "East Asia (north-west China)",
+  "startYear": 848,
+  "endYear": 1335,
+  "capital": "Qocho (Gaochang) and Ganzhou",
+  "capitalCoords": [
+    89.53,
+    42.85
+  ],
+  "summary": "Kingdoms founded by Uyghurs who fled after their steppe khaganate fell (840); in the Turfan oases they built a Buddhist and Manichaean culture of wall paintings and manuscripts, later submitting to the Mongols (1209).",
+  "wikiTitle": "Kingdom of Qocho",
+  "borderNames": [],
+  "borderNameYears": {
+    "Uyghurs": [
+      848,
+      1335
+    ]
+  },
+  "color": "#5a9a8a",
+  "knownFor": [
+    {
+      "label": "Bezeklik murals",
+      "kind": "art",
+      "note": "Buddhist cave paintings."
+    },
+    {
+      "label": "Old Uyghur script",
+      "kind": "idea",
+      "note": "Later used for Mongolian."
+    },
+    {
+      "label": "Manichaean texts",
+      "kind": "idea",
+      "note": "Rare surviving manuscripts."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Turfan oasis and the Gansu corridor (north-west China).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "terrain": {
+        "value": "Desert oases below mountains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "climate": {
+        "value": "Very dry and hot in summer.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "resources": {
+        "value": "Irrigated grapes, cotton, grain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "urbanisation": {
+        "value": "Oasis towns: Qocho, Beshbalik.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "disease": {
+        "value": "Plague and epidemics carried along trade routes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "migration": {
+        "value": "Uyghurs fled from Mongolia after 840.",
+        "year": 840,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Oasis farming and Silk Road trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "tradeRoutes": {
+        "value": "Silk Road.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "wealth": {
+        "value": "Trade wealth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "moneyAndTax": {
+        "value": "Coins and cloth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "inequality": {
+        "value": "Ruling clans above commoner herders and slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Qocho"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Kingdoms under an idiqut (king).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "keyRulers": {
+        "value": "Idiquts of Qocho; Barchuq submitted to Genghis Khan (1209).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "succession": {
+        "value": "Royal family.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "institutions": {
+        "value": "Buddhist monasteries.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "stability": {
+        "value": "Long-lasting.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "eliteConflict": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Qocho"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Cavalry and fortified oases.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "majorWars": {
+        "value": "Ganzhou taken by the Tangut Western Xia (1028).",
+        "year": 1028,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "territoryChange": {
+        "value": "Absorbed into the Mongol Empire.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "alliancesRivals": {
+        "value": "Song China, Western Xia, Qara Khitai, Mongols.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded; skilled horsemanship and metalwork.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "scienceEducation": {
+        "value": "Monastic learning and translation.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "openness": {
+        "value": "Open to trade and alliances with settled empires.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "communicationTransport": {
+        "value": "Caravans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Buddhism, Manichaeism and Church of the East Christianity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "languageWriting": {
+        "value": "Old Uyghur.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "artsArchitecture": {
+        "value": "Cave temples and murals.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "socialStructure": {
+        "value": "Uyghur elite, farmers, monks, merchants.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to clan and khan.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "dailyLife": {
+        "value": "Oasis houses; grapes and bread.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "China, Tibet, Western Xia, Karakhanids.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "ideasReligions": {
+        "value": "Religious tolerance.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Fall of the Uyghur Khaganate (840).",
+        "year": 848,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "peakPeriod": {
+        "value": "900s–1000s.",
+        "year": 1000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "declineSignals": {
+        "value": "Submission to the Mongols (1209).",
+        "year": 1209,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "outcome": {
+        "value": "Absorbed by the Mongols; later Islamised.",
+        "year": 1335,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Kingdom of Qocho.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Qocho"
+      },
+      "overallCertainty": {
+        "value": "Known mostly from Byzantine, Chinese, Arab and Persian writers and from archaeology; numbers are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Qocho"
+      }
+    }
+  }
+}

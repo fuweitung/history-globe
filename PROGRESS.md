@@ -38,6 +38,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 - [x] Map gaps round 11: 16 entries (Southern Ming, Burma before Toungoo, pre-colonial Philippines, Malla Nepal, Oman’s imamate, and 11 Central, East, West and Southern African states)
 - [x] Americas round 12: 6 regional entries (California, Southwest, Postclassic Maya, Mesoamerica, Aridoamerica, Isthmo-Colombian) and 178 more source-checked 1492 links; 1492 map 70% → 77%
 - [x] 1492 Indigenous nations: 180 linked by their own Wikipedia article’s culture-area category (evidence in scripts/indigenous-links-1492.tsv); 1492 map 57% → 69%
+- [x] Medieval map gaps round 13: 12 entries (Avars, Pechenegs, Magyars, Oghuz, Uyghur kingdoms, Mongol tribes, Early Slavs, Ostrogoths, Yamato, Chenla, East Java, Sixteen Kingdoms) and name windows; 900 map 82% → 89%, 1100 map 90% → 95%
 - [x] Map gaps round 10: 24 medieval and early-modern states (Castile, Aragon, Hungary, Sweden, Norway, Novgorod, Teutonic Order, Tatar khanates, Japan 1185–1603, Deccan and Bengal sultanates, Iranian and Turkic dynasties, Visigoths, Franks, Córdoba, Maghreb dynasties, Alwa, Jolof); all years 91% → 93%
 - [x] Small countries as map dots, 21 new entries, finer coastline (#42); economic crisis events (#43)
 - [ ] Map gaps still open: small 1800s African states (Utetera, Yeke, Nyamwezi, Borgu, Dendi, Rabih, Teke, Yaka, Kuba, Ovimbundu), Castile and Aragon before 1492, Hungary 1400, Novgorod, the Blue Horde; about 1,400 Indigenous nations on the 1492–1900 maps (link each only after checking it in a source). Western Sahara and Antarctica stay unlinked on purpose.
@@ -56,26 +57,26 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 
 | Area | Progress | Detail |
 |---|---|---|
-| Map coverage (all years) | `███████████████████░` 93% | Named land on the border maps that is linked to a civilisation |
+| Map coverage (all years) | `███████████████████░` 94% | Named land on the border maps that is linked to a civilisation |
 | · Prehistory | `██████████████████░░` 92% |  |
 | · Ancient | `██████████████████░░` 91% |  |
-| · Medieval | `██████████████████░░` 91% |  |
+| · Medieval | `███████████████████░` 93% |  |
 | · Early modern | `██████████████████░░` 92% |  |
 | · Modern | `████████████████████` 98% |  |
-| Civilisations shown on the map | `███████████████████░` 93% | 454 of 487; the rest fly to their capital |
-| Checklist filled in | `████████████████████` 100% | 20941 of 20941 items (487 × 43) |
-| Answers with real detail | `████████████░░░░░░░░` 58% | 8405 answers are still under 40 characters |
+| Civilisations shown on the map | `███████████████████░` 93% | 466 of 499; the rest fly to their capital |
+| Checklist filled in | `████████████████████` 100% | 21457 of 21457 items (499 × 43) |
+| Answers with real detail | `███████████░░░░░░░░░` 57% | 8742 answers are still under 40 characters |
 | Fact-checked against a source | `███░░░░░░░░░░░░░░░░░` 17% | 3559 items say “(checked …)”; the rest still need a second look |
-| Civilisations with events | `████████████████████` 100% | 487 of 487 |
-| Civilisations with famous people | `██████████████░░░░░░` 72% | 350 of 487; many prehistoric cultures have no known names |
-| Civilisations linked to others | `████████████████████` 100% | 487 of 487 (succeeded, conquered, traded with…) |
-| Civilisation pictures | `███████████████████░` 96% | 469 of 487 |
-| “Known for” pictures | `███████████░░░░░░░░░` 54% | 820 of 1521 items |
-| People pictures | `██████████████████░░` 91% | 406 of 444 |
-| Event pictures | `████████████████░░░░` 78% | 742 of 947 |
+| Civilisations with events | `████████████████████` 100% | 499 of 499 |
+| Civilisations with famous people | `██████████████░░░░░░` 72% | 357 of 499; many prehistoric cultures have no known names |
+| Civilisations linked to others | `████████████████████` 100% | 499 of 499 (succeeded, conquered, traded with…) |
+| Civilisation pictures | `███████████████████░` 96% | 478 of 499 |
+| “Known for” pictures | `███████████░░░░░░░░░` 53% | 820 of 1557 items |
+| People pictures | `██████████████████░░` 91% | 412 of 451 |
+| Event pictures | `████████████████░░░░` 78% | 753 of 962 |
 
-Certainty of all items: 13954 confirmed · 6517 estimated · 470 disputed.
-Also in the app: 947 events · 444 people · 18 routes · 11 stories.
+Certainty of all items: 14336 confirmed · 6651 estimated · 470 disputed.
+Also in the app: 962 events · 451 people · 18 routes · 11 stories.
 
 ## Map coverage by year
 
@@ -100,17 +101,17 @@ Also in the app: 947 events · 444 people · 18 routes · 11 stories.
 | 100 | `████████████████░░░░` 78% |
 | 200 | `███████████████████░` 94% |
 | 300 | `██████████████████░░` 91% |
-| 400 | `███████████████████░` 94% |
-| 500 | `███████████████████░` 94% |
-| 600 | `███████████████████░` 96% |
-| 700 | `██████████████████░░` 89% |
-| 800 | `██████████████████░░` 92% |
-| 900 | `████████████████░░░░` 82% |
-| 1000 | `███████████████████░` 93% |
-| 1100 | `██████████████████░░` 90% |
-| 1200 | `█████████████████░░░` 87% |
+| 400 | `███████████████████░` 96% |
+| 500 | `███████████████████░` 96% |
+| 600 | `███████████████████░` 97% |
+| 700 | `██████████████████░░` 90% |
+| 800 | `███████████████████░` 95% |
+| 900 | `██████████████████░░` 89% |
+| 1000 | `███████████████████░` 96% |
+| 1100 | `███████████████████░` 95% |
+| 1200 | `██████████████████░░` 88% |
 | 1279 | `███████████████████░` 97% |
-| 1300 | `███████████████████░` 96% |
+| 1300 | `███████████████████░` 97% |
 | 1400 | `███████████████████░` 96% |
 | 1492 | `███████████████░░░░░` 77% |
 | 1500 | `███████████████████░` 93% |
@@ -146,13 +147,10 @@ Areas on the border maps that no civilisation covers yet, largest first (area ad
 | Tibetans | 1500 BCE – 700 BCE (3 maps) | 10M |
 | Proto-Altaic pastoralists | 500 BCE – 400 BCE (2 maps) | 6M |
 | Sinic | 1500 BCE – 700 BCE (3 maps) | 5M |
-| Mongols | 1100 – 1100 (1 maps) | 5M |
 | Vedic Aryans | 1500 BCE – 700 BCE (3 maps) | 5M |
 | Arabs | 1492 – 1500 (2 maps) | 4M |
-| Oghuz Turks | 900 – 900 (1 maps) | 4M |
 | Suren Kingdom | 1 BCE – 400 (4 maps) | 4M |
 | Zhangzhung Kingdom | 400 BCE – 100 BCE (5 maps) | 3M |
-| Uyghurs | 700 – 900 (2 maps) | 3M |
 | Proto-Tibetan cultures | 400 BCE – 400 BCE (1 maps) | 3M |
 | Magadha | 500 BCE – 200 (4 maps) | 3M |
 | Satavahanihara | 1 BCE – 400 (5 maps) | 3M |
@@ -171,3 +169,6 @@ Areas on the border maps that no civilisation covers yet, largest first (area ad
 | Obiwa | 1530 – 1700 (4 maps) | 2M |
 | Ethiopian highland farmers | 1500 BCE – 323 BCE (6 maps) | 2M |
 | Turcik tribes | 200 BCE – 200 BCE (1 maps) | 2M |
+| Maya chiefdoms and states | 323 BCE – 100 (6 maps) | 2M |
+| Buwayhid Emirates | 1200 – 1200 (1 maps) | 2M |
+| Plain-Pottery culture | 500 BCE – 100 (8 maps) | 2M |

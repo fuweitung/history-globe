@@ -1,0 +1,321 @@
+{
+  "id": "avar-khaganate",
+  "name": "Avar Khaganate",
+  "era": "medieval",
+  "region": "Central & Eastern Europe (steppe)",
+  "startYear": 567,
+  "endYear": 822,
+  "capital": "The Ring (Pannonian plain)",
+  "capitalCoords": [
+    19.5,
+    46.9
+  ],
+  "summary": "A nomadic empire on the Hungarian plain founded by the Pannonian Avars, who besieged Constantinople with the Persians (626) and ruled many Slavs, until Charlemagne’s Franks destroyed it in the 790s.",
+  "wikiTitle": "Pannonian Avars",
+  "borderNames": [],
+  "borderNameYears": {
+    "Avars": [
+      567,
+      822
+    ]
+  },
+  "color": "#8a6aa0",
+  "knownFor": [
+    {
+      "label": "Siege of Constantinople",
+      "kind": "idea",
+      "year": 626,
+      "note": "With Persian allies."
+    },
+    {
+      "label": "Stirrups",
+      "kind": "tool",
+      "note": "Helped spread iron stirrups in Europe."
+    },
+    {
+      "label": "Avar treasure",
+      "kind": "art",
+      "note": "Gold belts and the Nagyszentmiklós treasure."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Carpathian basin (Hungary) and neighbouring lands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "terrain": {
+        "value": "Open grassland steppe with river valleys.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "climate": {
+        "value": "Continental: hot summers and very cold winters.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "resources": {
+        "value": "Pasture for horses, sheep and cattle.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "disasters": {
+        "value": "Harsh winters (dzud) that killed herds; droughts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pannonian Avars"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "urbanisation": {
+        "value": "Mostly nomadic camps; a few trading towns.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "disease": {
+        "value": "Plague and epidemics carried along trade routes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "migration": {
+        "value": "Arrived from the east about 558; Slavs settled under their rule.",
+        "year": 558,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Herding horses, sheep and cattle; tribute and raiding.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "tradeRoutes": {
+        "value": "Received Byzantine gold as tribute.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "wealth": {
+        "value": "Wealth in herds, tribute and plunder.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "moneyAndTax": {
+        "value": "Tribute from settled neighbours; little coinage of their own.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "inequality": {
+        "value": "Ruling clans above commoner herders and slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pannonian Avars"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Khaganate under a khagan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "keyRulers": {
+        "value": "Bayan I (founder).",
+        "year": 567,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "succession": {
+        "value": "Khagan’s family; civil war in the 790s.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "institutions": {
+        "value": "Clan assemblies and the khan’s household.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "stability": {
+        "value": "Defeat at Constantinople (626) weakened it.",
+        "year": 626,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "eliteConflict": {
+        "value": "Civil war between leaders (796).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Mounted archers with composite bows.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "majorWars": {
+        "value": "Wars with Byzantium; Frankish conquest (791–803).",
+        "year": 791,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "territoryChange": {
+        "value": "Lost all lands to the Franks and Bulgars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "alliancesRivals": {
+        "value": "Byzantium, Persians, Franks, Lombards.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded; skilled horsemanship and metalwork.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "scienceEducation": {
+        "value": "Oral learning.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "openness": {
+        "value": "Open to trade and alliances with settled empires.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "communicationTransport": {
+        "value": "Horses and wagons.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Steppe religion (Tengri).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "languageWriting": {
+        "value": "Unknown; probably a Turkic or Mongolic language.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "artsArchitecture": {
+        "value": "Gold and bronze belt fittings.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "socialStructure": {
+        "value": "Avar elite over Slavs and other subjects.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to clan and khan.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "dailyLife": {
+        "value": "Felt tents; meat, milk and fermented mare’s milk.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Byzantine Empire, Franks, Lombards, Slavs, Bulgars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "ideasReligions": {
+        "value": "Brought steppe culture to central Europe.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Defeat of the Gepids (567).",
+        "year": 567,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "peakPeriod": {
+        "value": "About 600.",
+        "year": 600,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "declineSignals": {
+        "value": "Defeat at Constantinople (626).",
+        "year": 626,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "outcome": {
+        "value": "Destroyed by Charlemagne’s Franks; its lands taken by Franks and Bulgars.",
+        "year": 803,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Pannonian Avars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pannonian Avars"
+      },
+      "overallCertainty": {
+        "value": "Known mostly from Byzantine, Chinese, Arab and Persian writers and from archaeology; numbers are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pannonian Avars"
+      }
+    }
+  }
+}

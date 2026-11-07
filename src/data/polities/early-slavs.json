@@ -1,0 +1,329 @@
+{
+  "id": "early-slavs",
+  "name": "Early Slavs",
+  "era": "medieval",
+  "region": "Eastern Europe",
+  "startYear": 500,
+  "endYear": 1000,
+  "capital": "No capital (tribes)",
+  "capitalCoords": [
+    27,
+    52
+  ],
+  "summary": "Slavic-speaking tribes who spread from eastern Europe after about 500 into the Balkans, central Europe and Russia, farming in forest clearings; their tribes later formed states such as Great Moravia, Kievan Rus’, Poland and Croatia.",
+  "wikiTitle": "Early Slavs",
+  "borderNames": [],
+  "borderNameYears": {
+    "Proto-Slavs": [
+      500,
+      1000
+    ],
+    "Slavonic tribes": [
+      500,
+      1000
+    ],
+    "Slavic tribes": [
+      500,
+      1000
+    ]
+  },
+  "color": "#8a7a5a",
+  "knownFor": [
+    {
+      "label": "Glagolitic script",
+      "kind": "idea",
+      "year": 863,
+      "note": "Created by Cyril and Methodius."
+    },
+    {
+      "label": "Wooden hill forts",
+      "kind": "monument",
+      "note": "Gord settlements."
+    },
+    {
+      "label": "Perun",
+      "kind": "idea",
+      "note": "Thunder god."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Eastern Europe, spreading to the Balkans and central Europe.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "terrain": {
+        "value": "Forests, rivers and plains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "climate": {
+        "value": "Continental.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "resources": {
+        "value": "Farmland, forests, furs, honey.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "disasters": {
+        "value": "Plague and famine.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Early Slavs"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "urbanisation": {
+        "value": "Villages and hill forts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "disease": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "migration": {
+        "value": "Great expansion (500s–600s).",
+        "year": 550,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Early Slavs"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, herding, hunting.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "tradeRoutes": {
+        "value": "River routes; trade with Vikings and Byzantium.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "wealth": {
+        "value": "Small-scale.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "moneyAndTax": {
+        "value": "Barter; silver later.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "inequality": {
+        "value": "Chiefs and free farmers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Early Slavs"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Tribes under chiefs (knyaz).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "keyRulers": {
+        "value": "Tribal leaders; few names recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "succession": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "institutions": {
+        "value": "Assemblies (veche).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "stability": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "eliteConflict": {
+        "value": "Tribal wars.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Early Slavs"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Infantry with spears and shields.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "majorWars": {
+        "value": "Raids on Byzantium (500s–600s).",
+        "year": 580,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "territoryChange": {
+        "value": "Spread across much of Europe.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "alliancesRivals": {
+        "value": "Avars, Byzantium, Franks, Khazars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Early Slavs"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "scienceEducation": {
+        "value": "Oral learning until Christian writing (800s).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "openness": {
+        "value": "Open to trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "communicationTransport": {
+        "value": "Rivers and boats.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Early Slavs"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Slavic paganism, then Christianity (800s–900s).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "languageWriting": {
+        "value": "Proto-Slavic and early Slavic languages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "artsArchitecture": {
+        "value": "Wooden buildings; temple of Arkona.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "socialStructure": {
+        "value": "Families and clans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "sharedIdentity": {
+        "value": "Tribal identities.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "dailyLife": {
+        "value": "Wooden houses; grain, porridge.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Early Slavs"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Byzantium, Avars, Franks, Khazars, Balts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "ideasReligions": {
+        "value": "Conversion to Christianity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Early Slavs"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Expansion after 500.",
+        "year": 500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "peakPeriod": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "declineSignals": {
+        "value": "Became organised states.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "outcome": {
+        "value": "Formed Great Moravia, Kievan Rus’, Poland, Bohemia, Serbia, Croatia and Bulgaria.",
+        "year": 1000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Early Slavs"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Early Slavs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Early Slavs"
+      },
+      "overallCertainty": {
+        "value": "Known mostly from Byzantine writers and archaeology.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Early Slavs"
+      }
+    }
+  }
+}
