@@ -1,0 +1,409 @@
+{
+  "id": "aridoamerica-peoples",
+  "name": "Peoples of northern Mexico (Aridoamerica)",
+  "era": "prehistory",
+  "region": "North America (Southwest)",
+  "startYear": -8000,
+  "endYear": null,
+  "capital": "No capital (many peoples)",
+  "capitalCoords": [
+    -105,
+    27
+  ],
+  "summary": "Hunting, gathering and farming peoples of the deserts of northern Mexico, such as the Rarámuri, Yaqui, Seri, Guachichil and Coahuiltecans, called “Chichimecas” by the Aztecs; many resisted Spain in the Chichimeca War (1550–90).",
+  "wikiTitle": "Aridoamerica",
+  "borderNames": [],
+  "borderNameYears": {
+    "Caxcan": [
+      1400,
+      1600
+    ],
+    "Coahuiltecan": [
+      1400,
+      1600
+    ],
+    "Cochimí": [
+      1400,
+      1600
+    ],
+    "Guachichil": [
+      1400,
+      1600
+    ],
+    "Guamares": [
+      1400,
+      1600
+    ],
+    "Guaycura": [
+      1400,
+      1600
+    ],
+    "Hi Ui (Pame/Chichimeco Jonaz)": [
+      1400,
+      1600
+    ],
+    "Hia-Ced O'odham": [
+      1400,
+      1600
+    ],
+    "Hñähñu (Otomí)": [
+      1400,
+      1600
+    ],
+    "Jumanos": [
+      1400,
+      1600
+    ],
+    "Kiliwa": [
+      1400,
+      1600
+    ],
+    "Lower Tohono O’odham (Lower Pima)": [
+      1400,
+      1600
+    ],
+    "Monqui": [
+      1400,
+      1600
+    ],
+    "Pericú": [
+      1400,
+      1600
+    ],
+    "Rarámuri (Tarahumara-Guarijio)": [
+      1400,
+      1600
+    ],
+    "Tecuexe": [
+      1400,
+      1600
+    ],
+    "Tepehuán": [
+      1400,
+      1600
+    ],
+    "Wixárika (Huichol)": [
+      1400,
+      1600
+    ],
+    "Xawiƚƚ kwñchawaay (Cocopah)": [
+      1400,
+      1600
+    ],
+    "Xixime": [
+      1400,
+      1600
+    ],
+    "Yoeme (Yaqui)": [
+      1400,
+      1600
+    ],
+    "Yoreme (Mayo)": [
+      1400,
+      1600
+    ],
+    "Zacateco ": [
+      1400,
+      1600
+    ]
+  },
+  "color": "#b07a4a",
+  "knownFor": [
+    {
+      "label": "Chichimeca War",
+      "kind": "idea",
+      "year": 1550,
+      "note": "Long resistance to Spain."
+    },
+    {
+      "label": "Rarámuri runners",
+      "kind": "idea",
+      "note": "Long-distance running."
+    },
+    {
+      "label": "Yaqui Deer Dance",
+      "kind": "art",
+      "note": "Ceremonial dance."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Northern Mexico and south Texas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "terrain": {
+        "value": "Deserts and Sierra Madre mountains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "climate": {
+        "value": "Dry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "resources": {
+        "value": "Mesquite, agave, game.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "urbanisation": {
+        "value": "Camps and small villages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "disease": {
+        "value": "Epidemics from the 1500s.",
+        "year": 1576,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "migration": {
+        "value": "Seasonal movement.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Hunting, gathering, some farming.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "tradeRoutes": {
+        "value": "Exchange with Mesoamerica and the Southwest.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "wealth": {
+        "value": "Small-scale.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "moneyAndTax": {
+        "value": "Barter.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "inequality": {
+        "value": "Mostly small-scale societies; some ranked chiefs and families.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aridoamerica"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Bands and villages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "keyRulers": {
+        "value": "Band leaders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "succession": {
+        "value": "Leaders chosen by ability.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "institutions": {
+        "value": "Councils.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "stability": {
+        "value": "Mobile societies.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "eliteConflict": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aridoamerica"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Bows and arrows.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "majorWars": {
+        "value": "Chichimeca War (1550–90); Yaqui wars (1500s–1900s).",
+        "year": 1550,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "territoryChange": {
+        "value": "Spanish missions and mines.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "alliancesRivals": {
+        "value": "Fought Spain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded; skilled local technologies.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "scienceEducation": {
+        "value": "Desert plant knowledge.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "openness": {
+        "value": "Trade and exchange with neighbours.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "communicationTransport": {
+        "value": "On foot.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Traditional religions.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "languageWriting": {
+        "value": "Uto-Aztecan and other languages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "artsArchitecture": {
+        "value": "Rock art.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "socialStructure": {
+        "value": "Bands and families.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "sharedIdentity": {
+        "value": "Identity rested on each people, village and language rather than one state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "dailyLife": {
+        "value": "Mesquite and agave foods.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Mesoamerican peoples, Southwest peoples.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "ideasReligions": {
+        "value": "Peyote ceremonies (Huichol).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "colonisation": {
+        "value": "Spanish advance north (1546 silver at Zacatecas).",
+        "year": 1546,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Ancient settlement.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "peakPeriod": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "declineSignals": {
+        "value": "Mining frontier (1546).",
+        "year": 1546,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "outcome": {
+        "value": "Many of these peoples survive today, some with their own governments.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Aridoamerica.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aridoamerica"
+      },
+      "overallCertainty": {
+        "value": "Known from archaeology, oral history and Spanish and later records; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aridoamerica"
+      }
+    }
+  }
+}

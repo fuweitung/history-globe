@@ -1,0 +1,373 @@
+{
+  "id": "southwest-peoples",
+  "name": "Peoples of the Southwest (Pueblo, Diné, Apache, O’odham)",
+  "era": "prehistory",
+  "region": "North America (Southwest)",
+  "startYear": -1000,
+  "endYear": null,
+  "capital": "No capital (many peoples)",
+  "capitalCoords": [
+    -108,
+    35
+  ],
+  "summary": "The peoples of the American Southwest and north-west Mexico: the Pueblo farmers such as the Hopi and Zuni, the Diné (Navajo) and Apache, and the O’odham; the Pueblo Revolt of 1680 drove out the Spanish for 12 years.",
+  "wikiTitle": "Southwestern Native Americans",
+  "borderNames": [],
+  "borderNameYears": {
+    "Akimel O'odham (Upper Pima)": [
+      1400,
+      1600
+    ],
+    "Apache": [
+      1400,
+      1600
+    ],
+    "Chiricahua Apache": [
+      1400,
+      1600
+    ],
+    "Hopi": [
+      1400,
+      1600
+    ],
+    "Jicarilla Apache": [
+      1400,
+      1600
+    ],
+    "Mescalero Apache": [
+      1400,
+      1600
+    ],
+    "Ndee/Nnēē: (Western Apache)": [
+      1400,
+      1600
+    ],
+    "O'odham Jeweḍ": [
+      1400,
+      1600
+    ],
+    "San Carlos Apache": [
+      1400,
+      1600
+    ],
+    "Sobaipuri": [
+      1400,
+      1600
+    ],
+    "Taos Pueblo": [
+      1400,
+      1600
+    ],
+    "Tigua": [
+      1400,
+      1600
+    ],
+    "Tohono O'odham": [
+      1400,
+      1600
+    ],
+    "White Mountain Apache": [
+      1400,
+      1600
+    ]
+  },
+  "color": "#c07a3a",
+  "knownFor": [
+    {
+      "label": "Pueblo Revolt",
+      "kind": "idea",
+      "year": 1680,
+      "note": "Spanish expelled for 12 years."
+    },
+    {
+      "label": "Navajo weaving",
+      "kind": "textile",
+      "note": "Famous wool rugs and blankets."
+    },
+    {
+      "label": "Kachina dolls",
+      "kind": "art",
+      "note": "Hopi carved figures."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Arizona, New Mexico and north-west Mexico.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "terrain": {
+        "value": "Deserts, mesas and canyons.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "climate": {
+        "value": "Dry and hot, with cold winters on the plateau.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "resources": {
+        "value": "Maize, beans, squash, cotton, turquoise.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": 1276,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Perhaps 100,000–200,000 in 1500.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "urbanisation": {
+        "value": "Adobe and stone pueblos, some lived in for 900 years (Acoma, Taos).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "disease": {
+        "value": "Smallpox after Spanish contact.",
+        "year": 1540,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "migration": {
+        "value": "Diné and Apache arrived about 1400.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Irrigated maize farming (Pueblo, O’odham); hunting, raiding and herding (Apache, Diné).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "tradeRoutes": {
+        "value": "Trade with the Plains and Mexico (turquoise, macaws).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "wealth": {
+        "value": "Turquoise, cotton cloth; later sheep.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "moneyAndTax": {
+        "value": "Barter.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "inequality": {
+        "value": "Mostly small-scale societies; some ranked chiefs and families.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Southwestern Native Americans"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Village councils (Pueblo); bands led by headmen (Apache, Diné).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "keyRulers": {
+        "value": "Popé (leader of the Pueblo Revolt). Geronimo. Manuelito.",
+        "year": 1680,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "succession": {
+        "value": "Religious leaders and elders.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "institutions": {
+        "value": "Kiva societies.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "stability": {
+        "value": "Long-lasting villages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "eliteConflict": {
+        "value": "Local disputes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Southwestern Native Americans"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Bows; horses from the Spanish after 1600.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "majorWars": {
+        "value": "Pueblo Revolt (1680); Apache Wars (1849–86); Long Walk of the Navajo (1864).",
+        "year": 1680,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "territoryChange": {
+        "value": "Reservations after 1860s.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "alliancesRivals": {
+        "value": "Spanish, Comanche, Mexico, US.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded; skilled local technologies.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "scienceEducation": {
+        "value": "Calendars and farming knowledge.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "openness": {
+        "value": "Trade and exchange with neighbours.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "communicationTransport": {
+        "value": "Trails; horses later.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Kachina religion; Diné ceremonies; Catholic influence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "languageWriting": {
+        "value": "Keresan, Tanoan, Hopi, Zuni, Navajo, Apache, O’odham.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "artsArchitecture": {
+        "value": "Pueblo architecture, pottery, sand paintings.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "socialStructure": {
+        "value": "Clans; matrilineal in many peoples.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "sharedIdentity": {
+        "value": "Identity rested on each people, village and language rather than one state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "dailyLife": {
+        "value": "Maize, beans and squash; adobe houses or hogans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Plains peoples, Comanche, Spanish New Mexico.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "ideasReligions": {
+        "value": "Ceremonial cycles tied to farming.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "colonisation": {
+        "value": "Spanish colonisation from the 1500s; later Mexico and the United States.",
+        "year": 1519,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Ancestral Puebloans and Hohokam before 1300.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "peakPeriod": {
+        "value": "Before 1540.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "declineSignals": {
+        "value": "Spanish conquest (1598).",
+        "year": 1598,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "outcome": {
+        "value": "Many of these peoples survive today, some with their own governments.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Southwestern Native Americans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southwestern Native Americans"
+      },
+      "overallCertainty": {
+        "value": "Known from archaeology, oral history and Spanish and later records; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Southwestern Native Americans"
+      }
+    }
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "id": "isthmo-colombian-peoples",
+  "name": "Isthmo-Colombian peoples (Central America and northern Colombia)",
+  "era": "prehistory",
+  "region": "Central America",
+  "startYear": -3000,
+  "endYear": null,
+  "capital": "No capital (chiefdoms)",
+  "capitalCoords": [
+    -80,
+    9
+  ],
+  "summary": "The Chibchan-speaking and related peoples of lower Central America and northern Colombia, such as the Bribri, Guna, Ngäbe, Miskito, Tairona and Muisca, known for goldwork, stone spheres and chiefdoms.",
+  "wikiTitle": "Isthmo-Colombian Area",
+  "borderNames": [],
+  "borderNameYears": {
+    "Bribri": [
+      1400,
+      1600
+    ],
+    "Emberá": [
+      1400,
+      1600
+    ],
+    "Emberá Dobidá": [
+      1400,
+      1600
+    ],
+    "Emberá Katío/Eyabida": [
+      1400,
+      1600
+    ],
+    "Garífuna": [
+      1400,
+      1600
+    ],
+    "Guna of Madugandí": [
+      1400,
+      1600
+    ],
+    "Gunadule (Kuna-Tule)": [
+      1400,
+      1600
+    ],
+    "Mayangna": [
+      1400,
+      1600
+    ],
+    "Miskito": [
+      1400,
+      1600
+    ],
+    "Tolupan": [
+      1400,
+      1600
+    ],
+    "Wounaan": [
+      1400,
+      1600
+    ],
+    "Xinca": [
+      1400,
+      1600
+    ]
+  },
+  "color": "#d0a03a",
+  "knownFor": [
+    {
+      "label": "Stone spheres of Costa Rica",
+      "kind": "monument",
+      "note": "Diquís spheres."
+    },
+    {
+      "label": "Muisca goldwork",
+      "kind": "art",
+      "note": "Inspired the El Dorado legend."
+    },
+    {
+      "label": "Mola textiles",
+      "kind": "textile",
+      "note": "Guna panels."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Honduras to northern Colombia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "terrain": {
+        "value": "Rainforest, mountains, coasts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "resources": {
+        "value": "Gold, maize, cacao.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "disasters": {
+        "value": "Earthquakes, hurricanes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "urbanisation": {
+        "value": "Chiefdom centres (Ciudad Perdida).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "disease": {
+        "value": "Epidemics after 1500.",
+        "year": 1510,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "migration": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, fishing, crafts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "tradeRoutes": {
+        "value": "Gold and shell trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "wealth": {
+        "value": "Goldwork.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "moneyAndTax": {
+        "value": "Tribute.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "inequality": {
+        "value": "Mostly small-scale societies; some ranked chiefs and families.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Chiefdoms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "keyRulers": {
+        "value": "Muisca zipa and zaque.",
+        "year": 1500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "succession": {
+        "value": "Matrilineal in some groups.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "institutions": {
+        "value": "Chiefs and priests.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "stability": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "eliteConflict": {
+        "value": "Rival chiefs.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Spears and darts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "majorWars": {
+        "value": "Spanish conquest of the Muisca (1537–40).",
+        "year": 1537,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "territoryChange": {
+        "value": "Spanish conquest.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "alliancesRivals": {
+        "value": "Neighbouring chiefdoms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded; skilled local technologies.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "scienceEducation": {
+        "value": "Calendars (Muisca).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "openness": {
+        "value": "Trade and exchange with neighbours.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "communicationTransport": {
+        "value": "Trails and canoes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Traditional religions.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "languageWriting": {
+        "value": "Chibchan languages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "artsArchitecture": {
+        "value": "Goldwork, stone spheres, terraces.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "socialStructure": {
+        "value": "Chiefs, priests, commoners.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "sharedIdentity": {
+        "value": "Identity rested on each people, village and language rather than one state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "dailyLife": {
+        "value": "Maize, cassava, fish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Mesoamerica, Andes, Amazonia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "ideasReligions": {
+        "value": "El Dorado ceremony (Lake Guatavita).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "colonisation": {
+        "value": "Spanish conquest (1500s).",
+        "year": 1510,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Ancient chiefdoms.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "peakPeriod": {
+        "value": "Muisca Confederation (1400s–1537).",
+        "year": 1450,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "declineSignals": {
+        "value": "Spanish conquest.",
+        "year": 1537,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "outcome": {
+        "value": "Many of these peoples survive today, some with their own governments.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Isthmo-Colombian Area.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      },
+      "overallCertainty": {
+        "value": "Known from archaeology, oral history and Spanish and later records; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Isthmo-Colombian Area"
+      }
+    }
+  }
+}

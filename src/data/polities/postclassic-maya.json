@@ -1,0 +1,352 @@
+{
+  "id": "postclassic-maya",
+  "name": "Postclassic Maya states",
+  "era": "medieval",
+  "region": "Mesoamerica",
+  "startYear": 950,
+  "endYear": 1697,
+  "capital": "Mayapan, Q’umarkaj, Iximche, Nojpetén",
+  "capitalCoords": [
+    -89.6,
+    20.63
+  ],
+  "summary": "Maya kingdoms after the Classic collapse: Chichén Itzá and Mayapan in Yucatán, the K’iche’ and Kaqchikel in highland Guatemala, and the Itza of Nojpetén, the last independent Maya kingdom, conquered by Spain in 1697.",
+  "wikiTitle": "Postclassic Maya",
+  "borderNames": [],
+  "borderNameYears": {
+    "Batsil Winik' Otik (Tzotzil)": [
+      1400,
+      1600
+    ],
+    "Ixil": [
+      1400,
+      1600
+    ],
+    "K'iche'": [
+      1400,
+      1600
+    ],
+    "Kaqchikel": [
+      1400,
+      1600
+    ],
+    "Mopan": [
+      1400,
+      1600
+    ],
+    "Poqomchi’": [
+      1400,
+      1600
+    ],
+    "Q'eqchi'": [
+      1400,
+      1600
+    ],
+    "Tojolwinik’otik (Tojolabal)": [
+      1400,
+      1600
+    ],
+    "Winik Atel (Tzeltal)": [
+      1400,
+      1600
+    ]
+  },
+  "color": "#3a8a6a",
+  "knownFor": [
+    {
+      "label": "Popol Vuh",
+      "kind": "art",
+      "note": "K’iche’ book of creation."
+    },
+    {
+      "label": "Chichén Itzá",
+      "kind": "monument",
+      "note": "El Castillo pyramid."
+    },
+    {
+      "label": "Dresden Codex",
+      "kind": "idea",
+      "note": "One of four surviving Maya books."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Yucatán, highland Guatemala, Petén.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "terrain": {
+        "value": "Limestone lowlands and volcanic highlands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "resources": {
+        "value": "Maize, cacao, salt, obsidian.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "disasters": {
+        "value": "Droughts and hurricanes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Postclassic Maya"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Several million.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "urbanisation": {
+        "value": "Towns such as Mayapan (about 15,000).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "disease": {
+        "value": "Smallpox (about 1520).",
+        "year": 1520,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "migration": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Postclassic Maya"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Maize farming and trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "tradeRoutes": {
+        "value": "Canoe trade around Yucatán.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "wealth": {
+        "value": "Cacao and salt trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "moneyAndTax": {
+        "value": "Cacao beans as money; tribute.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "inequality": {
+        "value": "Mostly small-scale societies; some ranked chiefs and families.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Postclassic Maya"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Rival kingdoms and city-states.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "keyRulers": {
+        "value": "K’iche’ king K’iq’ab. Kan Ek’ (Itza).",
+        "year": 1450,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "succession": {
+        "value": "Lineages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "institutions": {
+        "value": "Councils of lords.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "stability": {
+        "value": "Mayapan fell (about 1441); many small states.",
+        "year": 1441,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "eliteConflict": {
+        "value": "Lineage rivalry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Spears, atlatls, cotton armour.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "majorWars": {
+        "value": "Spanish conquest of Yucatán (1527–46) and Guatemala (1524).",
+        "year": 1524,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "territoryChange": {
+        "value": "Conquered by Spain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "alliancesRivals": {
+        "value": "Kaqchikel against K’iche’.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded; skilled local technologies.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "scienceEducation": {
+        "value": "Writing, calendars and astronomy continued.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "openness": {
+        "value": "Trade and exchange with neighbours.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "communicationTransport": {
+        "value": "Canoes and roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Maya religion.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "languageWriting": {
+        "value": "Maya languages; glyphs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "artsArchitecture": {
+        "value": "Temples and murals (Tulum).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "socialStructure": {
+        "value": "Lords, priests, commoners, slaves.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "sharedIdentity": {
+        "value": "Identity rested on each people, village and language rather than one state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "dailyLife": {
+        "value": "Maize, beans, chocolate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Aztec traders; Spanish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "ideasReligions": {
+        "value": "Maya calendar.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "colonisation": {
+        "value": "Spanish conquest (1524–1697).",
+        "year": 1524,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "After the Classic collapse.",
+        "year": 950,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "peakPeriod": {
+        "value": "Mayapan (1220–1440).",
+        "year": 1300,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "declineSignals": {
+        "value": "Spanish conquest.",
+        "year": 1524,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "outcome": {
+        "value": "Nojpetén fell (1697); Maya peoples remain the majority in parts of Guatemala.",
+        "year": 1697,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Postclassic Maya.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Postclassic Maya"
+      },
+      "overallCertainty": {
+        "value": "Known from archaeology, oral history and Spanish and later records; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Postclassic Maya"
+      }
+    }
+  }
+}
