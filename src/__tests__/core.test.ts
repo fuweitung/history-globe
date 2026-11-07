@@ -131,9 +131,11 @@ describe('border matching', () => {
     expect(horde.list.map((p) => p.id)).toEqual(['golden-horde', 'mongol-empire']);
     const congo = candidatesFor({ NAME: 'Belgian Congo', SUBJECTO: 'Belgium' }, 1914);
     expect(congo.list.map((p) => p.id)).toEqual(['dr-congo', 'belgium']);
+    const hk = candidatesFor({ NAME: 'Hong Kong', SUBJECTO: 'United Kingdom' }, 1914);
+    expect(hk.list.map((p) => p.id)).toEqual(['hong-kong', 'british-empire']);
     // Overlords without includesSubjects keep the old behaviour.
-    const hk = candidatesFor({ NAME: 'Hong Kong', SUBJECTO: 'United Kingdom of Great Britain and Ireland' }, 1914);
-    expect(hk.list.map((p) => p.id)).not.toContain('british-empire');
+    const parma = candidatesFor({ NAME: 'Parma', SUBJECTO: 'Austrian Empire' }, 1815);
+    expect(parma.list.map((p) => p.id)).toEqual(['italian-states']);
   });
 
   it('opens the shape\'s own civilisation, not the including overlord', () => {
