@@ -1,0 +1,324 @@
+{
+  "id": "oghuz-yabgu",
+  "name": "Oghuz Yabgu State",
+  "era": "medieval",
+  "region": "Central Asia (steppe)",
+  "startYear": 750,
+  "endYear": 1055,
+  "capital": "Yangikent",
+  "capitalCoords": [
+    65,
+    45.5
+  ],
+  "summary": "A state of the Oghuz Turks on the steppes north of the Aral Sea; Oghuz groups later became the Seljuks and the ancestors of the Turkmen, Turks of Turkey and Azerbaijanis.",
+  "wikiTitle": "Oghuz Yabgu State",
+  "borderNames": [],
+  "borderNameYears": {
+    "Oghuz Turks": [
+      750,
+      1055
+    ],
+    "Oghuz": [
+      750,
+      1100
+    ]
+  },
+  "color": "#5a8aa0",
+  "knownFor": [
+    {
+      "label": "Book of Dede Korkut",
+      "kind": "art",
+      "note": "Oghuz epic tales."
+    },
+    {
+      "label": "Seljuk origins",
+      "kind": "idea",
+      "note": "The Seljuks came from the Oghuz."
+    },
+    {
+      "label": "Yangikent",
+      "kind": "monument",
+      "note": "Capital on the Syr Darya."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Steppes between the Caspian, the Aral Sea and the Syr Darya (Kazakhstan).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "terrain": {
+        "value": "Open grassland steppe with river valleys.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "climate": {
+        "value": "Continental: hot summers and very cold winters.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "resources": {
+        "value": "Pasture for horses, sheep and cattle.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "disasters": {
+        "value": "Harsh winters (dzud) that killed herds; droughts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "urbanisation": {
+        "value": "Mostly nomadic camps; a few trading towns.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "disease": {
+        "value": "Plague and epidemics carried along trade routes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "migration": {
+        "value": "Oghuz groups moved into Iran and Anatolia (1000s).",
+        "year": 1040,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Herding horses, sheep and cattle; tribute and raiding.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "tradeRoutes": {
+        "value": "Trade with Khwarazm and the Samanids.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "wealth": {
+        "value": "Wealth in herds, tribute and plunder.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "moneyAndTax": {
+        "value": "Tribute from settled neighbours; little coinage of their own.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "inequality": {
+        "value": "Ruling clans above commoner herders and slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Confederation under a yabgu.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "keyRulers": {
+        "value": "The yabgus; Seljuk was an Oghuz commander.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "succession": {
+        "value": "Ruling clan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "institutions": {
+        "value": "Clan assemblies and the khan’s household.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "stability": {
+        "value": "Broke up in the 1000s.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "eliteConflict": {
+        "value": "Seljuk breakaway.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Mounted archers with composite bows.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "majorWars": {
+        "value": "Wars with the Khazars and Pechenegs.",
+        "year": 965,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "territoryChange": {
+        "value": "Pushed out by the Kipchaks.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "alliancesRivals": {
+        "value": "Khazars, Pechenegs, Samanids.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded; skilled horsemanship and metalwork.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "scienceEducation": {
+        "value": "Oral learning.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "openness": {
+        "value": "Open to trade and alliances with settled empires.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "communicationTransport": {
+        "value": "Horses and wagons.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Steppe religion; Islam spread from the 900s.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "languageWriting": {
+        "value": "Oghuz Turkic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "artsArchitecture": {
+        "value": "Little survives.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "socialStructure": {
+        "value": "24 Oghuz tribes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to clan and khan.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "dailyLife": {
+        "value": "Felt tents; meat, milk and fermented mare’s milk.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Khazars, Pechenegs, Samanids, Kipchaks.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "ideasReligions": {
+        "value": "Conversion to Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "After the Turkic khaganates (mid-700s).",
+        "year": 750,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "peakPeriod": {
+        "value": "900s.",
+        "year": 950,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "declineSignals": {
+        "value": "Kipchak pressure and Seljuk departure.",
+        "year": 1035,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "outcome": {
+        "value": "Broke up; Oghuz groups became the Seljuks and Turkmen.",
+        "year": 1055,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Oghuz Yabgu State.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      },
+      "overallCertainty": {
+        "value": "Known mostly from Byzantine, Chinese, Arab and Persian writers and from archaeology; numbers are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Oghuz Yabgu State"
+      }
+    }
+  }
+}

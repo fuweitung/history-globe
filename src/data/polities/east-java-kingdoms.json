@@ -1,0 +1,324 @@
+{
+  "id": "east-java-kingdoms",
+  "name": "East Javanese kingdoms (Medang, Kahuripan, Kediri, Singhasari)",
+  "era": "medieval",
+  "region": "Southeast Asia",
+  "startYear": 929,
+  "endYear": 1292,
+  "capital": "Kahuripan, Daha (Kediri), Singhasari",
+  "capitalCoords": [
+    112,
+    -7.82
+  ],
+  "summary": "Hindu-Buddhist kingdoms of East Java after the court moved east from central Java (929): King Airlangga’s Kahuripan, Kediri with its poetry, and Singhasari, whose fall led to Majapahit (1293).",
+  "wikiTitle": "Kediri Kingdom",
+  "borderNames": [],
+  "borderNameYears": {
+    "East Java": [
+      929,
+      1222
+    ],
+    "Kediri": [
+      1042,
+      1292
+    ]
+  },
+  "color": "#c08a3a",
+  "knownFor": [
+    {
+      "label": "Kakawin poetry",
+      "kind": "art",
+      "note": "Old Javanese epic poems."
+    },
+    {
+      "label": "Airlangga",
+      "kind": "person",
+      "note": "Reunited East Java (1019–42)."
+    },
+    {
+      "label": "Singhasari temples",
+      "kind": "monument",
+      "note": "Candi Singhasari and Jago."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "East Java, Indonesia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "terrain": {
+        "value": "Volcanic plains and the Brantas River valley.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "resources": {
+        "value": "Rice, spices trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "disasters": {
+        "value": "Merapi eruption may have caused the move east (929).",
+        "year": 929,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "urbanisation": {
+        "value": "Royal capitals.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "disease": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "migration": {
+        "value": "Court moved from central Java.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Wet-rice farming and trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "tradeRoutes": {
+        "value": "Spice trade with China and India.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "wealth": {
+        "value": "Trade wealth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "moneyAndTax": {
+        "value": "Gold and silver coins; rice taxes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "inequality": {
+        "value": "Kings, priests, farmers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kediri Kingdom"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Hindu-Buddhist monarchies.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "keyRulers": {
+        "value": "Mpu Sindok. Airlangga. Jayabaya. Kertanegara.",
+        "year": 1019,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "succession": {
+        "value": "Royal families; often violent.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "institutions": {
+        "value": "Temple lands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "stability": {
+        "value": "Kingdom split in two (1045).",
+        "year": 1045,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "eliteConflict": {
+        "value": "Rival heirs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Navy and infantry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "majorWars": {
+        "value": "Mongol invasion of Java (1293).",
+        "year": 1293,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "territoryChange": {
+        "value": "Singhasari expanded to Sumatra (1275).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "alliancesRivals": {
+        "value": "Srivijaya, Mongols.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "scienceEducation": {
+        "value": "Old Javanese literature.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "openness": {
+        "value": "Open to trade and new ideas from abroad.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "communicationTransport": {
+        "value": "Rivers and sea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Hinduism and Buddhism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "languageWriting": {
+        "value": "Old Javanese (Kawi script).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "artsArchitecture": {
+        "value": "Temples (candi).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "socialStructure": {
+        "value": "Royalty, priests, farmers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler and lineage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "dailyLife": {
+        "value": "Rice villages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Srivijaya, Bali, Sunda.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "ideasReligions": {
+        "value": "Hindu-Buddhist synthesis.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Court moved to East Java (929).",
+        "year": 929,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "peakPeriod": {
+        "value": "Airlangga (1019–42) and Kediri (1100s).",
+        "year": 1135,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "declineSignals": {
+        "value": "Kertanegara killed (1292).",
+        "year": 1292,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "outcome": {
+        "value": "Followed by Majapahit (1293).",
+        "year": 1293,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Kediri Kingdom.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kediri Kingdom"
+      },
+      "overallCertainty": {
+        "value": "Known from chronicles, inscriptions and archaeology; dates and numbers are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kediri Kingdom"
+      }
+    }
+  }
+}

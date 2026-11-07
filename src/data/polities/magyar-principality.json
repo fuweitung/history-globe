@@ -1,0 +1,322 @@
+{
+  "id": "magyar-principality",
+  "name": "Grand Principality of Hungary (the Magyars)",
+  "era": "medieval",
+  "region": "Central Europe",
+  "startYear": 830,
+  "endYear": 1000,
+  "capital": "Esztergom (late)",
+  "capitalCoords": [
+    18.74,
+    47.79
+  ],
+  "summary": "The Magyar tribes who moved from the steppe into the Carpathian basin (the “Conquest”, around 895) under Árpád, raided across Europe until defeated at Lechfeld (955), and became the Christian Kingdom of Hungary in 1000.",
+  "wikiTitle": "Grand Principality of Hungary",
+  "borderNames": [],
+  "borderNameYears": {
+    "Magyars": [
+      830,
+      999
+    ]
+  },
+  "color": "#3a8a4a",
+  "knownFor": [
+    {
+      "label": "Hungarian Conquest",
+      "kind": "idea",
+      "year": 895,
+      "note": "Settlement of the Carpathian basin."
+    },
+    {
+      "label": "Battle of Lechfeld",
+      "kind": "idea",
+      "year": 955,
+      "note": "Ended the raids."
+    },
+    {
+      "label": "Árpád",
+      "kind": "person",
+      "note": "Founding chief."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Pontic steppe, then the Carpathian basin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "terrain": {
+        "value": "Open grassland steppe with river valleys.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "climate": {
+        "value": "Continental: hot summers and very cold winters.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "resources": {
+        "value": "Pasture for horses, sheep and cattle.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "disasters": {
+        "value": "Harsh winters (dzud) that killed herds; droughts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Perhaps 400,000.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "urbanisation": {
+        "value": "Mostly nomadic camps; a few trading towns.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "disease": {
+        "value": "Plague and epidemics carried along trade routes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "migration": {
+        "value": "Moved into the Carpathian basin (about 895).",
+        "year": 895,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Herding horses, sheep and cattle; tribute and raiding.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "tradeRoutes": {
+        "value": "Raids and trade with Western Europe and Byzantium.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "wealth": {
+        "value": "Wealth in herds, tribute and plunder.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "moneyAndTax": {
+        "value": "Tribute from settled neighbours; little coinage of their own.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "inequality": {
+        "value": "Ruling clans above commoner herders and slaves.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Tribal federation under a grand prince.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "keyRulers": {
+        "value": "Álmos, Árpád, Géza.",
+        "year": 895,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "succession": {
+        "value": "Árpád dynasty.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "institutions": {
+        "value": "Clan assemblies and the khan’s household.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "stability": {
+        "value": "Seven tribes united.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "eliteConflict": {
+        "value": "Tribal chiefs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Mounted archers with composite bows.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "majorWars": {
+        "value": "Raids across Europe (899–970); Battle of Lechfeld (955).",
+        "year": 955,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "territoryChange": {
+        "value": "Settled the Carpathian basin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "alliancesRivals": {
+        "value": "Byzantium, Bulgaria, East Francia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded; skilled horsemanship and metalwork.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "scienceEducation": {
+        "value": "Oral learning.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "openness": {
+        "value": "Open to trade and alliances with settled empires.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "communicationTransport": {
+        "value": "Horses and wagons.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Steppe religion, then Christianity (Géza baptised about 972).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "languageWriting": {
+        "value": "Hungarian (a Uralic language); Old Hungarian runes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "artsArchitecture": {
+        "value": "Decorated sabretaches (pouch plates).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "socialStructure": {
+        "value": "Tribes, warriors, free people.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to clan and khan.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "dailyLife": {
+        "value": "Felt tents; meat, milk and fermented mare’s milk.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "East Francia, Moravia, Bulgaria, Byzantium, Pechenegs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "ideasReligions": {
+        "value": "Conversion to Christianity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Conquest of the Carpathian basin (895).",
+        "year": 895,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "peakPeriod": {
+        "value": "Raiding era (900–955).",
+        "year": 920,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "declineSignals": {
+        "value": "Defeat at Lechfeld (955).",
+        "year": 955,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "outcome": {
+        "value": "Became the Kingdom of Hungary under Stephen I (1000).",
+        "year": 1000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Grand Principality of Hungary.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      },
+      "overallCertainty": {
+        "value": "Known mostly from Byzantine, Chinese, Arab and Persian writers and from archaeology; numbers are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Grand Principality of Hungary"
+      }
+    }
+  }
+}

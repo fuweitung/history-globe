@@ -1416,7 +1416,8 @@
   "role": "ruler",
   "description": "Khan of the Mongol Empire from 1206 to 1227.",
   "polityIds": [
-   "mongol-empire"
+   "mongol-empire",
+   "mongol-tribes"
   ],
   "place": [
    102.83,
@@ -8866,5 +8867,129 @@
   ],
   "wikiTitle": "Xicotencatl the Younger",
   "source": "Wikipedia: Xicotencatl the Younger"
+ },
+ {
+  "id": "bayan-i",
+  "name": "Bayan I",
+  "born": 540,
+  "died": 602,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Khagan who founded Avar power in central Europe.",
+  "polityIds": [
+   "avar-khaganate"
+  ],
+  "place": [
+   19.5,
+   46.9
+  ],
+  "wikiTitle": "Bayan I",
+  "source": "Wikipedia: Bayan I"
+ },
+ {
+  "id": "arpad",
+  "name": "Árpád",
+  "born": 845,
+  "died": 907,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Grand prince who led the Magyars into the Carpathian basin.",
+  "polityIds": [
+   "magyar-principality"
+  ],
+  "place": [
+   19.04,
+   47.5
+  ],
+  "wikiTitle": "Árpád",
+  "source": "Wikipedia: Árpád"
+ },
+ {
+  "id": "theodoric-the-great",
+  "name": "Theodoric the Great",
+  "born": 454,
+  "died": 526,
+  "role": "ruler",
+  "description": "Ostrogoth king of Italy.",
+  "polityIds": [
+   "ostrogothic-kingdom"
+  ],
+  "place": [
+   12.2,
+   44.42
+  ],
+  "wikiTitle": "Theodoric the Great",
+  "source": "Wikipedia: Theodoric the Great"
+ },
+ {
+  "id": "boethius",
+  "name": "Boethius",
+  "born": 477,
+  "died": 524,
+  "datesApproximate": true,
+  "role": "thinker",
+  "description": "Roman philosopher, author of The Consolation of Philosophy.",
+  "polityIds": [
+   "ostrogothic-kingdom"
+  ],
+  "place": [
+   12.48,
+   41.9
+  ],
+  "wikiTitle": "Boethius",
+  "source": "Wikipedia: Boethius"
+ },
+ {
+  "id": "prince-shotoku",
+  "name": "Prince Shōtoku",
+  "born": 574,
+  "died": 622,
+  "role": "ruler",
+  "description": "Regent who promoted Buddhism and Chinese-style government.",
+  "polityIds": [
+   "yamato-japan"
+  ],
+  "place": [
+   135.73,
+   34.61
+  ],
+  "wikiTitle": "Prince Shōtoku",
+  "source": "Wikipedia: Prince Shōtoku"
+ },
+ {
+  "id": "airlangga",
+  "name": "Airlangga",
+  "born": 991,
+  "died": 1049,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "King who reunited East Java.",
+  "polityIds": [
+   "east-java-kingdoms"
+  ],
+  "place": [
+   112.6,
+   -7.6
+  ],
+  "wikiTitle": "Airlangga",
+  "source": "Wikipedia: Airlangga"
+ },
+ {
+  "id": "saint-cyril",
+  "name": "Saint Cyril",
+  "born": 826,
+  "died": 869,
+  "role": "religious",
+  "description": "Byzantine missionary who created the Glagolitic alphabet.",
+  "polityIds": [
+   "early-slavs",
+   "byzantine-empire"
+  ],
+  "place": [
+   17.5,
+   49
+  ],
+  "wikiTitle": "Saints Cyril and Methodius",
+  "source": "Wikipedia: Saints Cyril and Methodius"
  }
 ]

@@ -1275,7 +1275,8 @@
     "title": "Battle of Fei River",
     "description": "The Eastern Jin defeat a much larger Former Qin army, keeping the south independent.",
     "relatedPolityIds": [
-      "jin-dynasty-266"
+      "jin-dynasty-266",
+      "sixteen-kingdoms"
     ],
     "source": "Wikipedia: Jin dynasty (266–420) (checked 6 Nov 2026)"
   },
@@ -1737,7 +1738,8 @@
     "title": "Fall of the Uyghur Khaganate",
     "description": "The Yenisei Kyrgyz destroy the Uyghur capital; Uyghurs move south-west to Gansu and Turfan.",
     "relatedPolityIds": [
-      "uyghur-khaganate"
+      "uyghur-khaganate",
+      "uyghur-kingdoms"
     ],
     "source": "Wikipedia: Uyghur Khaganate (checked 6 Nov 2026)"
   },
@@ -2239,7 +2241,8 @@
     "title": "Genghis Khan unites the Mongols",
     "description": "Temujin is proclaimed Genghis Khan, founding the Mongol Empire.",
     "relatedPolityIds": [
-      "mongol-empire"
+      "mongol-empire",
+      "mongol-tribes"
     ]
   },
   {
@@ -2487,7 +2490,8 @@
     "description": "Raden Wijaya founds Majapahit in East Java after a failed Mongol invasion.",
     "relatedPolityIds": [
       "majapahit",
-      "yuan"
+      "yuan",
+      "east-java-kingdoms"
     ]
   },
   {
@@ -6079,7 +6083,8 @@
     "title": "Baekje sends Buddhism to Japan",
     "description": "King Seong of Baekje sends Buddhist images and texts to the Yamato court (traditional date 552, or 538).",
     "relatedPolityIds": [
-      "baekje"
+      "baekje",
+      "yamato-japan"
     ],
     "source": "Wikipedia: Buddhism in Japan"
   },
@@ -6498,7 +6503,8 @@
     "title": "Hungarians settle the Carpathian Basin",
     "description": "Magyar tribes, speakers of a Finno-Ugric language, settle in present-day Hungary.",
     "relatedPolityIds": [
-      "finno-ugric-peoples"
+      "finno-ugric-peoples",
+      "magyar-principality"
     ],
     "source": "Wikipedia: Hungarian conquest of the Carpathian Basin"
   },
@@ -12951,5 +12957,212 @@
       "spanish-empire"
     ],
     "source": "Wikipedia: Spanish conquest of the Muisca"
+  },
+  {
+    "id": "avar-siege-of-constantinople",
+    "year": 626,
+    "lat": 41.01,
+    "lng": 28.98,
+    "type": "war",
+    "title": "Avar–Persian siege of Constantinople",
+    "description": "Avars, Slavs and Persians besiege the Byzantine capital and fail.",
+    "relatedPolityIds": [
+      "avar-khaganate",
+      "byzantine-empire",
+      "sasanian"
+    ],
+    "source": "Wikipedia: Siege of Constantinople (626)"
+  },
+  {
+    "id": "frankish-avar-wars",
+    "year": 791,
+    "lat": 47,
+    "lng": 18,
+    "type": "war",
+    "title": "Charlemagne destroys the Avar Khaganate",
+    "description": "Frankish armies sack the Avar “Ring” and take its treasure (791–803).",
+    "relatedPolityIds": [
+      "avar-khaganate",
+      "carolingian-empire"
+    ],
+    "source": "Wikipedia: Avar Wars"
+  },
+  {
+    "id": "death-of-sviatoslav",
+    "year": 972,
+    "lat": 47.8,
+    "lng": 35.2,
+    "type": "war",
+    "title": "Pechenegs kill Sviatoslav",
+    "description": "Prince Sviatoslav of Kiev is ambushed at the Dnieper rapids; his skull is made into a cup.",
+    "relatedPolityIds": [
+      "pechenegs",
+      "kievan-rus"
+    ],
+    "source": "Wikipedia: Sviatoslav I"
+  },
+  {
+    "id": "battle-of-levounion",
+    "year": 1091,
+    "lat": 41.4,
+    "lng": 26.3,
+    "type": "war",
+    "title": "Battle of Levounion",
+    "description": "Byzantium and its Cuman allies destroy the Pecheneg horde.",
+    "relatedPolityIds": [
+      "pechenegs",
+      "byzantine-empire",
+      "cumans"
+    ],
+    "source": "Wikipedia: Battle of Levounion"
+  },
+  {
+    "id": "battle-of-lechfeld",
+    "year": 955,
+    "lat": 48.3,
+    "lng": 10.9,
+    "type": "war",
+    "title": "Battle of Lechfeld",
+    "description": "Otto I defeats the Magyars near Augsburg, ending their raids.",
+    "relatedPolityIds": [
+      "magyar-principality",
+      "holy-roman-empire"
+    ],
+    "source": "Wikipedia: Battle of Lechfeld"
+  },
+  {
+    "id": "seljuks-leave-oghuz",
+    "year": 985,
+    "yearApproximate": true,
+    "lat": 45,
+    "lng": 66,
+    "type": "culture",
+    "title": "Seljuk leaves the Oghuz",
+    "description": "The Oghuz commander Seljuk leads his followers to Jand and converts to Islam.",
+    "relatedPolityIds": [
+      "oghuz-yabgu"
+    ],
+    "source": "Wikipedia: Seljuk (warlord)"
+  },
+  {
+    "id": "qocho-founded",
+    "year": 856,
+    "yearApproximate": true,
+    "lat": 42.85,
+    "lng": 89.53,
+    "type": "culture",
+    "title": "Uyghur kingdom of Qocho",
+    "description": "Uyghurs who fled Mongolia set up a kingdom in the Turfan oasis.",
+    "relatedPolityIds": [
+      "uyghur-kingdoms"
+    ],
+    "source": "Wikipedia: Kingdom of Qocho"
+  },
+  {
+    "id": "khamag-mongol",
+    "year": 1130,
+    "yearApproximate": true,
+    "lat": 47.5,
+    "lng": 108,
+    "type": "culture",
+    "title": "Khamag Mongol confederation",
+    "description": "Khabul Khan unites several Mongol tribes.",
+    "relatedPolityIds": [
+      "mongol-tribes"
+    ],
+    "source": "Wikipedia: Khamag Mongol"
+  },
+  {
+    "id": "cyril-and-methodius",
+    "year": 863,
+    "lat": 49,
+    "lng": 17.5,
+    "type": "culture",
+    "title": "Mission of Cyril and Methodius",
+    "description": "Byzantine missionaries create the Glagolitic alphabet for the Slavs of Great Moravia.",
+    "relatedPolityIds": [
+      "early-slavs",
+      "byzantine-empire"
+    ],
+    "source": "Wikipedia: Saints Cyril and Methodius"
+  },
+  {
+    "id": "theodoric-takes-italy",
+    "year": 493,
+    "lat": 44.42,
+    "lng": 12.2,
+    "type": "war",
+    "title": "Theodoric takes Ravenna",
+    "description": "The Ostrogoth king kills Odoacer and rules Italy.",
+    "relatedPolityIds": [
+      "ostrogothic-kingdom"
+    ],
+    "source": "Wikipedia: Theodoric the Great"
+  },
+  {
+    "id": "gothic-war",
+    "year": 535,
+    "lat": 41.9,
+    "lng": 12.5,
+    "type": "war",
+    "title": "Gothic War",
+    "description": "Justinian’s armies fight for Italy (535–554), ruining much of the peninsula.",
+    "relatedPolityIds": [
+      "ostrogothic-kingdom",
+      "byzantine-empire"
+    ],
+    "source": "Wikipedia: Gothic War (535–554)"
+  },
+  {
+    "id": "taika-reform",
+    "year": 645,
+    "lat": 34.47,
+    "lng": 135.82,
+    "type": "culture",
+    "title": "Taika reforms",
+    "description": "After the Soga clan is overthrown, Japan adopts Chinese-style government.",
+    "relatedPolityIds": [
+      "yamato-japan"
+    ],
+    "source": "Wikipedia: Taika Reform"
+  },
+  {
+    "id": "horyuji-founded",
+    "year": 607,
+    "lat": 34.61,
+    "lng": 135.73,
+    "type": "culture",
+    "title": "Hōryū-ji founded",
+    "description": "Prince Shōtoku founds the Buddhist temple at Ikaruga.",
+    "relatedPolityIds": [
+      "yamato-japan"
+    ],
+    "source": "Wikipedia: Hōryū-ji"
+  },
+  {
+    "id": "chenla-oldest-khmer-text",
+    "year": 611,
+    "lat": 12.87,
+    "lng": 105.04,
+    "type": "culture",
+    "title": "Oldest dated Khmer inscription",
+    "description": "An inscription from Angkor Borei is the earliest dated text in Khmer.",
+    "relatedPolityIds": [
+      "chenla"
+    ],
+    "source": "Wikipedia: Old Khmer"
+  },
+  {
+    "id": "airlangga-reunites-java",
+    "year": 1019,
+    "lat": -7.6,
+    "lng": 112.6,
+    "type": "culture",
+    "title": "Airlangga becomes king",
+    "description": "Airlangga rebuilds the East Javanese kingdom after its destruction.",
+    "relatedPolityIds": [
+      "east-java-kingdoms"
+    ],
+    "source": "Wikipedia: Airlangga"
   }
 ]

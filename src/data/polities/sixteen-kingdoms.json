@@ -1,0 +1,322 @@
+{
+  "id": "sixteen-kingdoms",
+  "name": "Sixteen Kingdoms",
+  "era": "ancient",
+  "region": "East Asia",
+  "startYear": 304,
+  "endYear": 439,
+  "capital": "Many capitals (Chang’an, Luoyang, Ye…)",
+  "capitalCoords": [
+    108.94,
+    34.34
+  ],
+  "summary": "A period of many short-lived states in northern China founded mostly by non-Han peoples (Xiongnu, Xianbei, Di, Qiang, Jie) after the Jin dynasty lost the north, ending when the Northern Wei reunited it (439).",
+  "wikiTitle": "Sixteen Kingdoms",
+  "borderNames": [],
+  "borderNameYears": {
+    "Sixteen Kingdoms": [
+      304,
+      439
+    ]
+  },
+  "color": "#7a6a5a",
+  "knownFor": [
+    {
+      "label": "Battle of Fei River",
+      "kind": "idea",
+      "year": 383,
+      "note": "Former Qin defeated by Eastern Jin."
+    },
+    {
+      "label": "Buddhism spreads",
+      "kind": "idea",
+      "note": "Monks like Kumarajiva translated sutras."
+    },
+    {
+      "label": "Mogao Caves",
+      "kind": "monument",
+      "year": 366,
+      "note": "First caves at Dunhuang."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Northern China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "terrain": {
+        "value": "Yellow River plain and loess plateau.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "climate": {
+        "value": "Continental.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "resources": {
+        "value": "Millet, wheat, horses.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "disasters": {
+        "value": "War, famine and floods.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Sharply reduced by war.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "urbanisation": {
+        "value": "Chang’an, Luoyang, Ye.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "disease": {
+        "value": "Epidemics.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "migration": {
+        "value": "Many Han Chinese fled south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming and herding.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "tradeRoutes": {
+        "value": "Silk Road via the Hexi corridor.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "wealth": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "moneyAndTax": {
+        "value": "Grain and cloth taxes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "inequality": {
+        "value": "Ruling peoples above Han farmers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Many rival kingdoms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "keyRulers": {
+        "value": "Liu Yuan (Han Zhao). Fu Jian (Former Qin).",
+        "year": 304,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "succession": {
+        "value": "Often by coup.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "institutions": {
+        "value": "Chinese-style bureaucracies.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "stability": {
+        "value": "Very unstable.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "eliteConflict": {
+        "value": "Constant wars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Heavy cavalry with stirrups.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "majorWars": {
+        "value": "Battle of Fei River (383).",
+        "year": 383,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "territoryChange": {
+        "value": "Reunited by Northern Wei (439).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "alliancesRivals": {
+        "value": "Eastern Jin in the south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "scienceEducation": {
+        "value": "Buddhist translation.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "openness": {
+        "value": "Open to trade and new ideas from abroad.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "communicationTransport": {
+        "value": "Horses and roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Buddhism, Daoism, Confucianism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "languageWriting": {
+        "value": "Chinese and northern languages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "artsArchitecture": {
+        "value": "Early Buddhist cave temples.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "socialStructure": {
+        "value": "Non-Han elites and Han farmers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler and lineage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "dailyLife": {
+        "value": "Farming villages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Eastern Jin, Rouran, Tibetan peoples.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "ideasReligions": {
+        "value": "Buddhism spread widely.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Fall of Western Jin in the north (304–316).",
+        "year": 304,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "peakPeriod": {
+        "value": "Former Qin (370s).",
+        "year": 376,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "declineSignals": {
+        "value": "Defeat at Fei River (383).",
+        "year": 383,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "outcome": {
+        "value": "Northern Wei united the north (439).",
+        "year": 439,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Sixteen Kingdoms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      },
+      "overallCertainty": {
+        "value": "Known from chronicles, inscriptions and archaeology; dates and numbers are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sixteen Kingdoms"
+      }
+    }
+  }
+}
