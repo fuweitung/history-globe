@@ -89,10 +89,16 @@ The border maps use their own names (for example "Manchu Empire" for the Qing). 
 - By default a name only matches snapshots within the civilisation's lifetime, ±10 years.
 - A name can also have **its own date window** with `borderNameYears`, e.g. `"borderNameYears": { "Kenya": [1895, 1963] }` on the British Empire. It overrides `borderYears` for that name only, so a colony links to its empire only while it was a colony.
 - When the same name is used in different eras ("China", "France", "Japan"), set `borderYears: [from, to]` to limit it to a strict window.
-- A territory that has **its own entry** links only to that entry, not to its overlord. For an empire made of such territories, set `"includesSubjects": true`: every territory whose overlord is this empire then also counts as part of it. Each territory keeps its own colour and label, and clicking it still opens its own entry. Three entries use this today:
-  - **Mongol Empire:** its khanates (Golden Horde, Ilkhanate, Chagatai Khanate, Yuan)
+- A territory that has **its own entry** links only to that entry, not to its overlord. For an empire made of such territories, set `"includesSubjects": true`: every territory whose overlord is this empire then also counts as part of it. Each territory keeps its own colour and label, and clicking it still opens its own entry. Seven entries use this today:
+  - **Mongol Empire:** its khanates (Golden Horde, Ilkhanate, Chagatai Khanate, Yuan) on the 1279 and 1300 maps. After 1260 they were functionally independent, but the Yuan emperors kept the title of Great Khan, and in 1304 the khanates recognised Yuan supremacy in name (Wikipedia, *Division of the Mongol Empire*). Each khanate keeps its own colour.
   - **Belgium:** the Belgian Congo, 1908–1960
   - **Kingdom of Denmark:** Greenland, a colony until 1953
+  - **British Empire:** Hong Kong (a Crown colony 1841–1997) and Egypt on the 1914 and 1920 maps (a British protectorate 1914–1922)
+  - **United Kingdom:** Hong Kong on the 1994 map
+  - **Ottoman Empire:** Egypt on the 1878 and 1880 maps (the Khedivate, an autonomous tributary state)
+  - **French colonial empire:** Morocco (a protectorate 1912–1956) and the New Hebrides (an Anglo-French condominium 1906–1980)
+
+  Not included, after a source check (fixed in `scripts/border-fixes.json`): Egypt 1930–45 (independent kingdom from 1922), South Africa 1914 (a dominion, like Canada and Australia), Muscat and Oman (only de facto British protection), Annam 1945 (Japanese-sponsored Empire of Vietnam), Parma and Modena 1815 (sovereign duchies), Naples and Sardinia 1700 (still Spanish), Congo 1878 (French Congo began in 1880) and Hong Kong 2000 (Chinese since 1997). Ryazan and Novgorod on the 1279 map are given to the Golden Horde, to which they paid tribute.
 
   It is opt-in because the source maps sometimes name the wrong overlord, for example Quebec under France on the 1783 and 1800 maps. Before turning it on, check every territory it would add.
 
