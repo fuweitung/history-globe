@@ -2,7 +2,7 @@ import { describe, expect, it } from 'vitest';
 import { ERAS, MAX_YEAR, MIN_YEAR, eraOf, fracToYear, normaliseYear, stepYear, yearToFrac } from '../lib/timeScale';
 import { POLITY_BY_ID, formatYear, isActive, loadPolity } from '../lib/data';
 import { loadFactIndex, norm, search, snippet } from '../lib/search';
-import { candidatesFor, nearestSnapshot } from '../lib/borders';
+import { candidatesFor, nearestSnapshot, resolvePolity } from '../lib/borders';
 import { TERRITORY, niceTicks } from '../components/TerritoryChart';
 
 describe('time scale', () => {
@@ -123,6 +123,21 @@ describe('border matching', () => {
     const r = candidatesFor({ NAME: 'Some colony', SUBJECTO: 'United Kingdom of Great Britain and Ireland' }, 1914);
     expect(r.viaName).toBe(false);
     expect(r.list.map((p) => p.id)).toContain('british-empire');
+  });
+
+  it('counts subjects with their own entry as part of an including overlord', () => {
+    const horde = candidatesFor({ NAME: 'Khanate of the Golden Horde', SUBJECTO: 'Mongol Empire' }, 1279);
+    expect(horde.viaName).toBe(true);
+    expect(horde.list.map((p) => p.id)).toEqual(['golden-horde', 'mongol-empire']);
+    const congo = candidatesFor({ NAME: 'Belgian Congo', SUBJECTO: 'Belgium' }, 1914);
+    expect(congo.list.map((p) => p.id)).toEqual(['dr-congo', 'belgium']);
+    // Overlords without includesSubjects keep the old behaviour.
+    const hk = candidatesFor({ NAME: 'Hong Kong', SUBJECTO: 'United Kingdom of Great Britain and Ireland' }, 1914);
+    expect(hk.list.map((p) => p.id)).not.toContain('british-empire');
+  });
+
+  it('opens the shape\'s own civilisation, not the including overlord', () => {
+    expect(resolvePolity('|yuan|mongol-empire|', 1279)?.id).toBe('yuan');
   });
 
   it('picks the nearest snapshot, earlier on a tie', () => {

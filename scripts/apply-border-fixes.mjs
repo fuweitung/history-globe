@@ -1,4 +1,5 @@
-// Names land shapes that the source maps leave unnamed (see scripts/border-fixes.json).
+// Names land shapes that the source maps leave unnamed, and corrects a few overlords
+// (see scripts/border-fixes.json).
 // Safe to run more than once. Run: npm run apply-border-fixes (also run by fetch-borders).
 import { readFile, writeFile } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
@@ -30,15 +31,16 @@ export async function applyBorderFixes() {
     for (const fix of list) {
       const hit = fc.features.find((f) => contains(f.geometry, fix.point) && (!f.properties?.NAME || f.properties.NAME === fix.name));
       if (!hit) { console.warn(`  ! ${y}: no unnamed shape at [${fix.point}] for ${fix.name}`); continue; }
-      if (hit.properties?.NAME === fix.name) continue;
-      hit.properties = { ...hit.properties, NAME: fix.name, FIXED_BY: 'border-fixes.json' };
+      const subject = fix.subjectOf ?? hit.properties?.SUBJECTO;
+      if (hit.properties?.NAME === fix.name && hit.properties?.SUBJECTO === subject) continue;
+      hit.properties = { ...hit.properties, NAME: fix.name, ...(fix.subjectOf ? { SUBJECTO: fix.subjectOf } : {}), FIXED_BY: 'border-fixes.json' };
       changed = true;
       named++;
     }
     // Same layout as the simplified files: one feature per line.
     if (changed) await writeFile(path, `{"type":"FeatureCollection", "features": [\n${fc.features.map((f) => JSON.stringify(f)).join(',\n')}\n]}\n`);
   }
-  console.log(`Border fixes: ${named} shape(s) named.`);
+  console.log(`Border fixes: ${named} shape(s) changed.`);
 }
 
 if (import.meta.url === pathToFileURL(process.argv[1]).href) await applyBorderFixes();
