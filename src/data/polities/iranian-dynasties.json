@@ -1,0 +1,338 @@
+{
+  "id": "iranian-dynasties",
+  "name": "Iranian dynasties (Saffarids, Samanids, Buyids)",
+  "era": "medieval",
+  "region": "Iran (Middle East)",
+  "startYear": 861,
+  "endYear": 1062,
+  "capital": "Zaranj, Bukhara, Shiraz and Baghdad",
+  "capitalCoords": [
+    64.42,
+    39.77
+  ],
+  "summary": "Iranian dynasties that ruled after Abbasid power weakened: the Saffarids of Sistan, the Samanids of Bukhara (who revived Persian literature) and the Buyids, who controlled the caliph in Baghdad (945–1055).",
+  "wikiTitle": "Iranian Intermezzo",
+  "borderNames": [],
+  "borderNameYears": {
+    "Saffarids": [
+      861,
+      1003
+    ],
+    "Samanid Empire": [
+      819,
+      999
+    ],
+    "Buwayhid Emirates": [
+      934,
+      1062
+    ],
+    "Buyid Emirate": [
+      934,
+      1062
+    ],
+    "Buyid dynasty": [
+      934,
+      1062
+    ]
+  },
+  "color": "#3a8a7a",
+  "knownFor": [
+    {
+      "label": "Shahnameh",
+      "kind": "art",
+      "year": 1010,
+      "note": "Ferdowsi’s epic, begun under the Samanids."
+    },
+    {
+      "label": "Ismail Samani Mausoleum",
+      "kind": "monument",
+      "year": 940,
+      "note": "Brick tomb in Bukhara."
+    },
+    {
+      "label": "Avicenna",
+      "kind": "person",
+      "note": "Worked for Samanid and Buyid courts."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Iran, Iraq, Central Asia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "terrain": {
+        "value": "Plateau, mountains, oases.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "climate": {
+        "value": "Dry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "resources": {
+        "value": "Farmland, silver, trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "disasters": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iranian Intermezzo"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "urbanisation": {
+        "value": "Mostly rural, with a few large cities.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "disease": {
+        "value": "Epidemics and famines.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "migration": {
+        "value": "Turkic slaves and soldiers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, trade, silver mining.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "tradeRoutes": {
+        "value": "Silk Road; Samanid silver reached Scandinavia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "wealth": {
+        "value": "Trade wealth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "moneyAndTax": {
+        "value": "Silver dirhams.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "inequality": {
+        "value": "Rulers and military elites above farmers and herders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iranian Intermezzo"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Dynastic emirates under nominal Abbasid caliphs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "keyRulers": {
+        "value": "Ya’qub ibn al-Layth. Ismail Samani. Adud al-Dawla.",
+        "year": 861,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "succession": {
+        "value": "Family.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "institutions": {
+        "value": "Persian bureaucracy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "stability": {
+        "value": "Rivalries.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "eliteConflict": {
+        "value": "Turkic slave soldiers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Cavalry and slave soldiers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "majorWars": {
+        "value": "Buyids take Baghdad (945).",
+        "year": 945,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "territoryChange": {
+        "value": "Lost to Ghaznavids, Karakhanids and Seljuks.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "alliancesRivals": {
+        "value": "Abbasids, Ghaznavids.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "scienceEducation": {
+        "value": "Rhazes, Avicenna, al-Biruni.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "openness": {
+        "value": "Open to trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "communicationTransport": {
+        "value": "Caravan roads, rivers and horses.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iranian Intermezzo"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Islam (Samanids Sunni; Buyids Shia).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "languageWriting": {
+        "value": "New Persian revival.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "artsArchitecture": {
+        "value": "Brick architecture, pottery.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "socialStructure": {
+        "value": "Iranian nobles, Turkic soldiers, peasants.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the dynasty and faith.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "dailyLife": {
+        "value": "Farming or herding households.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iranian Intermezzo"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Abbasids, Ghaznavids, Karakhanids.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "ideasReligions": {
+        "value": "Persian cultural revival.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Abbasid decline (800s).",
+        "year": 861,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "peakPeriod": {
+        "value": "Samanids (900s); Adud al-Dawla (949–83).",
+        "year": 950,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "declineSignals": {
+        "value": "Turkic invasions.",
+        "year": 999,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "outcome": {
+        "value": "Replaced by the Ghaznavids, Karakhanids and Seljuks.",
+        "year": 1062,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Iranian Intermezzo.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Iranian Intermezzo"
+      },
+      "overallCertainty": {
+        "value": "Main events are known from chronicles; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Iranian Intermezzo"
+      }
+    }
+  }
+}

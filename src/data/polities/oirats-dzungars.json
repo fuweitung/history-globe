@@ -1,0 +1,329 @@
+{
+  "id": "oirats-dzungars",
+  "name": "Oirats and the Dzungar Khanate",
+  "era": "medieval",
+  "region": "Central Asia (Mongolian steppe)",
+  "startYear": 1399,
+  "endYear": 1758,
+  "capital": "Ghulja (Dzungar)",
+  "capitalCoords": [
+    81.33,
+    43.92
+  ],
+  "summary": "Western Mongol peoples who formed the Four Oirat confederation, captured a Ming emperor (1449) and later built the Dzungar Khanate, the last great steppe empire, destroyed by the Qing in 1755–58.",
+  "wikiTitle": "Dzungar Khanate",
+  "borderNames": [],
+  "borderNameYears": {
+    "Oirat Confederation": [
+      1399,
+      1634
+    ],
+    "Dzungars": [
+      1634,
+      1758
+    ],
+    "Dzungar Khanate": [
+      1634,
+      1758
+    ]
+  },
+  "color": "#8a6aa0",
+  "knownFor": [
+    {
+      "label": "Tumu Crisis",
+      "kind": "idea",
+      "year": 1449,
+      "note": "Captured the Ming emperor."
+    },
+    {
+      "label": "Galdan Boshugtu",
+      "kind": "person",
+      "note": "Dzungar khan who fought the Qing."
+    },
+    {
+      "label": "Kalmyks",
+      "kind": "idea",
+      "note": "Oirats who moved to the Volga (1630s)."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Western Mongolia and Dzungaria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "terrain": {
+        "value": "Steppe and mountains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "climate": {
+        "value": "Very continental.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "resources": {
+        "value": "Horses and herds.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "disasters": {
+        "value": "Smallpox and Qing massacres (1755–58).",
+        "year": 1757,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 600,000 before 1755.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "urbanisation": {
+        "value": "Mostly rural, with a few large cities.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "disease": {
+        "value": "Epidemics and famines.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "migration": {
+        "value": "Kalmyks moved to the Volga (1630s).",
+        "year": 1630,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Nomadic herding; trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "tradeRoutes": {
+        "value": "Trade with Russia and China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "wealth": {
+        "value": "Herds.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "moneyAndTax": {
+        "value": "Tribute.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "inequality": {
+        "value": "Rulers and military elites above farmers and herders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dzungar Khanate"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Confederation, then khanate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "keyRulers": {
+        "value": "Esen Taishi. Galdan Boshugtu. Galdan Tseren.",
+        "year": 1449,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "succession": {
+        "value": "Tribal leaders.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "institutions": {
+        "value": "Clan councils.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "stability": {
+        "value": "Internal wars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "eliteConflict": {
+        "value": "Rival clans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Cavalry; later cannon.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "majorWars": {
+        "value": "Tumu (1449); Dzungar–Qing wars (1687–1757).",
+        "year": 1449,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "territoryChange": {
+        "value": "Took Tibet briefly (1717).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "alliancesRivals": {
+        "value": "Qing, Eastern Mongols, Kazakhs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "scienceEducation": {
+        "value": "Monastery schools.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "openness": {
+        "value": "Open to trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "communicationTransport": {
+        "value": "Caravan roads, rivers and horses.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dzungar Khanate"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Tibetan Buddhism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "languageWriting": {
+        "value": "Oirat Mongolian (Clear Script, 1648).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "artsArchitecture": {
+        "value": "Buddhist art.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "socialStructure": {
+        "value": "Nobles, herders.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the dynasty and faith.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "dailyLife": {
+        "value": "Farming or herding households.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dzungar Khanate"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Qing, Kazakhs, Russia, Tibet.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "ideasReligions": {
+        "value": "Buddhism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "colonisation": {
+        "value": "Conquered by the Qing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Four Oirat alliance (about 1399).",
+        "year": 1399,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "peakPeriod": {
+        "value": "Dzungar Khanate (1680s).",
+        "year": 1688,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "declineSignals": {
+        "value": "Succession war (1745).",
+        "year": 1745,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "outcome": {
+        "value": "Destroyed by the Qing (1755–58).",
+        "year": 1758,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Dzungar Khanate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Dzungar Khanate"
+      },
+      "overallCertainty": {
+        "value": "Main events are known from chronicles; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dzungar Khanate"
+      }
+    }
+  }
+}

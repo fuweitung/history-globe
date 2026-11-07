@@ -1,0 +1,329 @@
+{
+  "id": "medieval-japan",
+  "name": "Japan under the shoguns (Kamakura, Muromachi, Sengoku)",
+  "era": "medieval",
+  "region": "East Asia (Japan)",
+  "startYear": 1185,
+  "endYear": 1603,
+  "capital": "Kamakura, then Kyoto",
+  "capitalCoords": [
+    135.77,
+    35.01
+  ],
+  "summary": "Japan from the first warrior government (1185) to the start of the Tokugawa shogunate: the Kamakura and Ashikaga shoguns ruled in the emperor’s name, the Mongols were driven off (1274, 1281), and a century of civil war (the Warring States) ended with unification under Nobunaga, Hideyoshi and Ieyasu.",
+  "wikiTitle": "Kamakura shogunate",
+  "borderNames": [],
+  "borderNameYears": {
+    "Shogun Japan (Kamakura)": [
+      1185,
+      1400
+    ],
+    "Japan": [
+      1336,
+      1573
+    ],
+    "Japan (Warring States)": [
+      1467,
+      1603
+    ]
+  },
+  "color": "#c03a3a",
+  "knownFor": [
+    {
+      "label": "Samurai",
+      "kind": "troops",
+      "note": "Warrior class that ruled Japan."
+    },
+    {
+      "label": "Zen gardens",
+      "kind": "art",
+      "note": "Rock gardens such as Ryōan-ji."
+    },
+    {
+      "label": "Kinkaku-ji",
+      "kind": "monument",
+      "year": 1397,
+      "note": "The Golden Pavilion."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Japanese islands except Hokkaido.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "terrain": {
+        "value": "Mountains and small plains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "climate": {
+        "value": "Temperate, with typhoons.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "resources": {
+        "value": "Rice, silver, copper, timber.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "disasters": {
+        "value": "Earthquakes and tsunamis; the “divine winds” wrecked Mongol fleets.",
+        "year": 1281,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 7 million (1200) to 12–17 million (1600).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "urbanisation": {
+        "value": "Kyoto, Kamakura, port towns like Sakai.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "disease": {
+        "value": "Epidemics and famines.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "migration": {
+        "value": "Little.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kamakura shogunate"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Rice farming on warrior-held estates.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "tradeRoutes": {
+        "value": "Trade with Ming China and Portuguese ships (from 1543).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "wealth": {
+        "value": "Silver mining (Iwami) boomed in the 1500s.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "moneyAndTax": {
+        "value": "Chinese copper coins; rice taxes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "inequality": {
+        "value": "Rulers and military elites above farmers and herders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kamakura shogunate"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Emperor in Kyoto; real power with the shogun and regional lords (daimyo).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "keyRulers": {
+        "value": "Minamoto no Yoritomo. Ashikaga Takauji. Oda Nobunaga. Toyotomi Hideyoshi.",
+        "year": 1192,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "succession": {
+        "value": "Shogunal families; Hōjō regents ruled for Kamakura.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "institutions": {
+        "value": "Goseibai Shikimoku law code (1232).",
+        "year": 1232,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "stability": {
+        "value": "Ōnin War (1467–77) began a century of civil war.",
+        "year": 1467,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "eliteConflict": {
+        "value": "Daimyo fighting each other.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Samurai cavalry and archers; muskets from 1543.",
+        "year": 1543,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "majorWars": {
+        "value": "Mongol invasions (1274, 1281); Sengoku wars; invasions of Korea (1592–98).",
+        "year": 1274,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "territoryChange": {
+        "value": "Unified by 1590.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "alliancesRivals": {
+        "value": "Mongols, Ming China, Korea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "scienceEducation": {
+        "value": "Buddhist temple schools.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "openness": {
+        "value": "Open to trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "communicationTransport": {
+        "value": "Caravan roads, rivers and horses.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kamakura shogunate"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Buddhism (Zen, Pure Land, Nichiren) and Shinto.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "languageWriting": {
+        "value": "Japanese with kanji and kana.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "artsArchitecture": {
+        "value": "Noh theatre, tea ceremony, ink painting.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "socialStructure": {
+        "value": "Emperor, court nobles, samurai, farmers, artisans, merchants.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the dynasty and faith.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "dailyLife": {
+        "value": "Farming or herding households.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kamakura shogunate"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Korea, Ming China, Ryukyu, Ainu.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "ideasReligions": {
+        "value": "Zen Buddhism and the warrior code.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Minamoto victory (1185).",
+        "year": 1185,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "peakPeriod": {
+        "value": "Muromachi culture (1390s).",
+        "year": 1397,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "declineSignals": {
+        "value": "Ōnin War (1467).",
+        "year": 1467,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "outcome": {
+        "value": "Tokugawa shogunate (1603).",
+        "year": 1603,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Kamakura shogunate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kamakura shogunate"
+      },
+      "overallCertainty": {
+        "value": "Main events are known from chronicles; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kamakura shogunate"
+      }
+    }
+  }
+}

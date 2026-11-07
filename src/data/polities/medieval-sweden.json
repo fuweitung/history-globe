@@ -1,0 +1,320 @@
+{
+  "id": "medieval-sweden",
+  "name": "Kingdom of Sweden (medieval)",
+  "era": "medieval",
+  "region": "Northern Europe",
+  "startYear": 970,
+  "endYear": 1611,
+  "capital": "Uppsala, then Stockholm",
+  "capitalCoords": [
+    18.07,
+    59.33
+  ],
+  "summary": "The Swedish kingdom from its Christianisation to the eve of its great-power age; it ruled Finland, joined the Kalmar Union (1397–1523) and broke away under Gustav Vasa.",
+  "wikiTitle": "History of Sweden (800–1521)",
+  "borderNames": [],
+  "borderNameYears": {
+    "Sweden": [
+      970,
+      1610
+    ]
+  },
+  "color": "#3a6ab0",
+  "knownFor": [
+    {
+      "label": "Rune stones",
+      "kind": "art",
+      "note": "Thousands of carved stones."
+    },
+    {
+      "label": "Gustav Vasa",
+      "kind": "person",
+      "note": "Founded the Vasa dynasty (1523)."
+    },
+    {
+      "label": "Falun copper",
+      "kind": "idea",
+      "note": "Great copper mine."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Eastern Scandinavia and Finland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "terrain": {
+        "value": "Forests, lakes, coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "climate": {
+        "value": "Cold winters.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "resources": {
+        "value": "Iron, copper, timber, furs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "disasters": {
+        "value": "Black Death (1350).",
+        "year": 1350,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 750,000 by 1500.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "urbanisation": {
+        "value": "Mostly rural; a few walled towns and a royal or ducal capital.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "disease": {
+        "value": "Plague outbreaks, above all the Black Death (1347–51).",
+        "year": 1348,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "migration": {
+        "value": "Settlement of Finland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, mining, fishing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "tradeRoutes": {
+        "value": "Baltic trade with the Hanseatic League.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "wealth": {
+        "value": "Mining wealth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "moneyAndTax": {
+        "value": "Silver coins.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "inequality": {
+        "value": "Free peasants were stronger than elsewhere.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Elective monarchy, hereditary from 1544.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "keyRulers": {
+        "value": "Birger Jarl. Magnus Ladulås. Gustav Vasa.",
+        "year": 1250,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "succession": {
+        "value": "Elected, then Vasa dynasty.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "institutions": {
+        "value": "Riksdag with peasants as an estate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "stability": {
+        "value": "Stockholm Bloodbath (1520).",
+        "year": 1520,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "eliteConflict": {
+        "value": "Nobles against Danish kings.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Peasant levies.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "majorWars": {
+        "value": "Swedish War of Liberation (1521–23).",
+        "year": 1521,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "territoryChange": {
+        "value": "Ruled Finland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "alliancesRivals": {
+        "value": "Denmark, Russia, Hanseatic League.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "scienceEducation": {
+        "value": "Uppsala University (1477).",
+        "year": 1477,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "openness": {
+        "value": "Open to trade; closed to rival faiths at times.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "communicationTransport": {
+        "value": "Roads, rivers and coastal shipping.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Catholic, then Lutheran (1527).",
+        "year": 1527,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "languageWriting": {
+        "value": "Old Swedish; Latin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "artsArchitecture": {
+        "value": "Medieval churches; Visby walls.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "socialStructure": {
+        "value": "Nobles, clergy, burghers, free peasants.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler, faith and region.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "dailyLife": {
+        "value": "Village farming; bread, porridge and beer or wine.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Denmark, Norway, Novgorod/Russia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "ideasReligions": {
+        "value": "Reformation.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "colonisation": {
+        "value": "Finland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Christian kings (about 1000).",
+        "year": 1000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "peakPeriod": {
+        "value": "Vasa reforms (1520s–).",
+        "year": 1530,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "declineSignals": {
+        "value": "None; it grew into the Swedish Empire.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "outcome": {
+        "value": "Became the Swedish Empire (1611).",
+        "year": 1611,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: History of Sweden (800–1521).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      },
+      "overallCertainty": {
+        "value": "Main events are known from chronicles and charters; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of Sweden (800–1521)"
+      }
+    }
+  }
+}

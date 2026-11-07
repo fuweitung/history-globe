@@ -1,0 +1,324 @@
+{
+  "id": "medieval-norway",
+  "name": "Kingdom of Norway (medieval)",
+  "era": "medieval",
+  "region": "Northern Europe",
+  "startYear": 872,
+  "endYear": 1397,
+  "capital": "Bergen, then Oslo",
+  "capitalCoords": [
+    5.32,
+    60.39
+  ],
+  "summary": "The Norwegian kingdom united after Harald Fairhair (about 872); at its height under Haakon IV it ruled Iceland and Greenland, then joined Denmark and Sweden in the Kalmar Union (1397).",
+  "wikiTitle": "Kingdom of Norway (872–1397)",
+  "borderNames": [],
+  "borderNameYears": {
+    "Kingdom of Norway": [
+      872,
+      1397
+    ],
+    "Norway": [
+      872,
+      1397
+    ]
+  },
+  "color": "#c03a3a",
+  "knownFor": [
+    {
+      "label": "Stave churches",
+      "kind": "monument",
+      "note": "Wooden churches such as Urnes."
+    },
+    {
+      "label": "Bryggen",
+      "kind": "monument",
+      "note": "Hanseatic wharf in Bergen."
+    },
+    {
+      "label": "King’s sagas",
+      "kind": "art",
+      "note": "Heimskringla by Snorri."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Western Scandinavia and the North Atlantic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "terrain": {
+        "value": "Mountains and fjords.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "climate": {
+        "value": "Cold; mild on the coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "resources": {
+        "value": "Fish (stockfish), timber.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "disasters": {
+        "value": "Black Death killed perhaps half (1349).",
+        "year": 1349,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 400,000 before the plague.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "urbanisation": {
+        "value": "Mostly rural; a few walled towns and a royal or ducal capital.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "disease": {
+        "value": "Plague outbreaks, above all the Black Death (1347–51).",
+        "year": 1348,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "migration": {
+        "value": "Norse settlement of the Atlantic islands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Fishing, farming, trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "tradeRoutes": {
+        "value": "Stockfish trade through Bergen.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "wealth": {
+        "value": "Modest.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "moneyAndTax": {
+        "value": "Silver pennies.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "inequality": {
+        "value": "Kings, nobles, free farmers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "keyRulers": {
+        "value": "Harald Fairhair. Olaf II (St Olaf). Haakon IV.",
+        "year": 872,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "succession": {
+        "value": "Civil wars until 1240.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "institutions": {
+        "value": "National law code (1274).",
+        "year": 1274,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "stability": {
+        "value": "Civil war era (1130–1240).",
+        "year": 1130,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "eliteConflict": {
+        "value": "Rival claimants.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Ships and levies.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "majorWars": {
+        "value": "Battle of Stiklestad (1030); Battle of Largs (1263).",
+        "year": 1030,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "territoryChange": {
+        "value": "Iceland and Greenland (1262).",
+        "year": 1262,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "alliancesRivals": {
+        "value": "Denmark, Scotland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "scienceEducation": {
+        "value": "Church schools.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "openness": {
+        "value": "Open to trade; closed to rival faiths at times.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "communicationTransport": {
+        "value": "Roads, rivers and coastal shipping.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Christian from about 1030.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "languageWriting": {
+        "value": "Old Norse.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "artsArchitecture": {
+        "value": "Stave churches.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "socialStructure": {
+        "value": "Nobles, farmers, fishermen.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler, faith and region.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "dailyLife": {
+        "value": "Village farming; bread, porridge and beer or wine.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Denmark, Sweden, Scotland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "ideasReligions": {
+        "value": "Saint Olaf cult.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "colonisation": {
+        "value": "North Atlantic islands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Unification (about 872).",
+        "year": 872,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "peakPeriod": {
+        "value": "Haakon IV (1217–63).",
+        "year": 1240,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "declineSignals": {
+        "value": "Black Death (1349).",
+        "year": 1349,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "outcome": {
+        "value": "Kalmar Union (1397), then Denmark–Norway.",
+        "year": 1397,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Kingdom of Norway (872–1397).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      },
+      "overallCertainty": {
+        "value": "Main events are known from chronicles and charters; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+      }
+    }
+  }
+}

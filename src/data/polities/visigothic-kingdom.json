@@ -1,0 +1,326 @@
+{
+  "id": "visigothic-kingdom",
+  "name": "Visigothic Kingdom",
+  "era": "ancient",
+  "region": "Southern Europe",
+  "startYear": 418,
+  "endYear": 721,
+  "capital": "Toulouse, then Toledo",
+  "capitalCoords": [
+    -4.02,
+    39.86
+  ],
+  "summary": "A Germanic kingdom founded in south-west Gaul after the Visigoths sacked Rome (410); pushed into Spain, it ruled from Toledo until the Arab–Berber conquest of 711.",
+  "wikiTitle": "Visigothic Kingdom",
+  "borderNames": [],
+  "borderNameYears": {
+    "Visigoths": [
+      418,
+      721
+    ],
+    "Visigothic Kingdom": [
+      418,
+      721
+    ]
+  },
+  "color": "#8a5a3a",
+  "knownFor": [
+    {
+      "label": "Sack of Rome",
+      "kind": "idea",
+      "year": 410,
+      "note": "By Alaric before the kingdom was founded."
+    },
+    {
+      "label": "Visigothic Code",
+      "kind": "idea",
+      "year": 654,
+      "note": "One law for Goths and Romans."
+    },
+    {
+      "label": "Votive crowns of Guarrazar",
+      "kind": "art",
+      "note": "Gold crowns of the kings."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "South-west France, then the Iberian Peninsula.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "terrain": {
+        "value": "Meseta plateau, mountains and river valleys.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "climate": {
+        "value": "Mediterranean to continental.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "resources": {
+        "value": "Grain, olives, wine, metals.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "disasters": {
+        "value": "Plague (from 542) and famines.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Visigothic Kingdom"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 4–6 million Hispano-Romans ruled by perhaps 200,000 Goths.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "urbanisation": {
+        "value": "Mostly rural; a few walled towns and a royal or ducal capital.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "disease": {
+        "value": "Plague outbreaks, above all the Black Death (1347–51).",
+        "year": 1348,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "migration": {
+        "value": "Goths moved from Gaul into Spain after defeat at Vouillé (507).",
+        "year": 507,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming on Roman-style estates.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "tradeRoutes": {
+        "value": "Mediterranean trade with Byzantium.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "wealth": {
+        "value": "Wealth of a landed aristocracy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "moneyAndTax": {
+        "value": "Gold tremissis coins; Roman-style taxes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "inequality": {
+        "value": "Nobles and clergy above peasants, many of them serfs.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Visigothic Kingdom"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Elective monarchy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "keyRulers": {
+        "value": "Euric. Leovigild. Reccared. Roderic.",
+        "year": 466,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "succession": {
+        "value": "Kings elected by nobles and bishops; many murdered.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "institutions": {
+        "value": "Councils of Toledo (church and state).",
+        "year": 589,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "stability": {
+        "value": "Frequent coups.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "eliteConflict": {
+        "value": "Noble factions fighting over the throne.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Noble war bands; cavalry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "majorWars": {
+        "value": "Battle of Vouillé (507); Muslim conquest (711).",
+        "year": 711,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "territoryChange": {
+        "value": "Lost Gaul to the Franks (507).",
+        "year": 507,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "alliancesRivals": {
+        "value": "Rivals of the Franks and Byzantines.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "scienceEducation": {
+        "value": "Isidore of Seville’s Etymologies, a key medieval encyclopedia.",
+        "year": 625,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "openness": {
+        "value": "Open to trade; closed to rival faiths at times.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "communicationTransport": {
+        "value": "Roads, rivers and coastal shipping.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Visigothic Kingdom"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Arian Christianity, then Catholic from 589.",
+        "year": 589,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "languageWriting": {
+        "value": "Latin; Gothic faded.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "artsArchitecture": {
+        "value": "Small stone churches (San Juan de Baños).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "socialStructure": {
+        "value": "Gothic nobles, Hispano-Roman landowners, peasants, slaves; Jews persecuted.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler, faith and region.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "dailyLife": {
+        "value": "Village farming; bread, porridge and beer or wine.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Visigothic Kingdom"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Franks, Suebi, Byzantines, Basques.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "ideasReligions": {
+        "value": "Conversion to Catholicism (589).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "colonisation": {
+        "value": "Took over Roman Hispania.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Settled in Aquitaine by treaty (418).",
+        "year": 418,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "peakPeriod": {
+        "value": "Under Leovigild (568–86).",
+        "year": 575,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "declineSignals": {
+        "value": "Civil war in 710.",
+        "year": 710,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "outcome": {
+        "value": "Conquered by the Umayyads (711–21); Asturias carried on in the north.",
+        "year": 711,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Visigothic Kingdom.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Visigothic Kingdom"
+      },
+      "overallCertainty": {
+        "value": "Main events are known from chronicles and charters; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Visigothic Kingdom"
+      }
+    }
+  }
+}

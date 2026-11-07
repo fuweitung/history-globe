@@ -1578,7 +1578,9 @@
     "description": "Frankish forces under Charles Martel defeat an Umayyad army in Gaul.",
     "relatedPolityIds": [
       "umayyad-caliphate",
-      "carolingian-empire"
+      "carolingian-empire",
+      "merovingian-franks",
+      "al-andalus-cordoba"
     ],
     "source": "Wikipedia: Battle of Tours (checked 6 Nov 2026)"
   },
@@ -2262,7 +2264,9 @@
     "title": "Battle of Las Navas de Tolosa",
     "description": "Castile, Aragon and Navarre defeat the Almohads, a turning point in Iberia.",
     "relatedPolityIds": [
-      "almohad-caliphate"
+      "almohad-caliphate",
+      "kingdom-of-castile",
+      "crown-of-aragon"
     ],
     "source": "Wikipedia: Almohad Caliphate (checked 6 Nov 2026)"
   },
@@ -2426,7 +2430,8 @@
     "title": "Mongol invasions of Japan",
     "description": "Two Yuan fleets attack Japan and are wrecked, partly by storms (the “kamikaze”).",
     "relatedPolityIds": [
-      "yuan"
+      "yuan",
+      "medieval-japan"
     ],
     "source": "Wikipedia: Mongol invasions of Japan (checked 6 Nov 2026)"
   },
@@ -2892,7 +2897,8 @@
     "description": "Columbus’s voyage begins sustained contact between Europe and the Americas.",
     "relatedPolityIds": [
       "spanish-empire",
-      "taino-caribbean"
+      "taino-caribbean",
+      "kingdom-of-castile"
     ]
   },
   {
@@ -2981,7 +2987,8 @@
     "description": "The Ottoman army under Suleiman I defeats the Kingdom of Hungary; King Louis II dies. Most of Hungary is later divided between the Ottomans and the Habsburgs.",
     "relatedPolityIds": [
       "ottoman-empire",
-      "habsburg-monarchy"
+      "habsburg-monarchy",
+      "kingdom-of-hungary-medieval"
     ]
   },
   {
@@ -3072,7 +3079,8 @@
     "title": "Battle of Talikota",
     "description": "The Deccan sultanates defeat Vijayanagara; its capital Hampi is sacked.",
     "relatedPolityIds": [
-      "vijayanagara"
+      "vijayanagara",
+      "deccan-sultanates"
     ],
     "source": "Wikipedia: Battle of Talikota (year from general references; not stated in the summary checked 6 Nov 2026)"
   },
@@ -6374,7 +6382,9 @@
     "title": "Kalmar Union",
     "description": "Queen Margaret I unites Denmark, Norway and Sweden under one king at Kalmar.",
     "relatedPolityIds": [
-      "denmark-norway"
+      "denmark-norway",
+      "medieval-sweden",
+      "medieval-norway"
     ],
     "source": "Wikipedia: Kalmar Union"
   },
@@ -7235,7 +7245,8 @@
     "title": "Battle of Grunwald",
     "description": "Poland and Lithuania defeat the Teutonic Knights.",
     "relatedPolityIds": [
-      "poland-lithuania-medieval"
+      "poland-lithuania-medieval",
+      "teutonic-order-state"
     ],
     "source": "Wikipedia: Battle of Grunwald"
   },
@@ -7345,7 +7356,8 @@
     "description": "Cossacks under Yermak defeat the Khanate of Sibir, opening Siberia to Russian conquest.",
     "relatedPolityIds": [
       "siberian-peoples",
-      "muscovy"
+      "muscovy",
+      "tatar-khanates"
     ],
     "source": "Wikipedia: Yermak Timofeyevich"
   },
@@ -12065,5 +12077,458 @@
       "great-britain"
     ],
     "source": "Wikipedia: Australian frontier wars"
+  },
+  {
+    "id": "battle-of-vouille",
+    "year": 507,
+    "lat": 46.64,
+    "lng": 0.16,
+    "type": "war",
+    "title": "Battle of Vouillé",
+    "description": "Clovis’s Franks defeat the Visigoths, who lose most of Gaul and move their kingdom to Spain.",
+    "relatedPolityIds": [
+      "merovingian-franks",
+      "visigothic-kingdom"
+    ],
+    "source": "Wikipedia: Battle of Vouillé"
+  },
+  {
+    "id": "baptism-of-clovis",
+    "year": 496,
+    "yearApproximate": true,
+    "lat": 49.25,
+    "lng": 4.03,
+    "type": "culture",
+    "title": "Baptism of Clovis",
+    "description": "The Frankish king becomes a Catholic Christian at Reims.",
+    "relatedPolityIds": [
+      "merovingian-franks"
+    ],
+    "source": "Wikipedia: Clovis I"
+  },
+  {
+    "id": "third-council-of-toledo",
+    "year": 589,
+    "lat": 39.86,
+    "lng": -4.02,
+    "type": "culture",
+    "title": "Third Council of Toledo",
+    "description": "King Reccared converts the Visigoths from Arian to Catholic Christianity.",
+    "relatedPolityIds": [
+      "visigothic-kingdom"
+    ],
+    "source": "Wikipedia: Third Council of Toledo"
+  },
+  {
+    "id": "umayyad-conquest-of-hispania",
+    "year": 711,
+    "lat": 36,
+    "lng": -5.6,
+    "type": "war",
+    "title": "Muslim conquest of Spain",
+    "description": "Tariq ibn Ziyad defeats King Roderic; most of Iberia falls within a few years.",
+    "relatedPolityIds": [
+      "visigothic-kingdom",
+      "umayyad-caliphate"
+    ],
+    "source": "Wikipedia: Umayyad conquest of Hispania"
+  },
+  {
+    "id": "caliphate-of-cordoba-proclaimed",
+    "year": 929,
+    "lat": 37.88,
+    "lng": -4.78,
+    "type": "culture",
+    "title": "Caliphate of Córdoba proclaimed",
+    "description": "Abd al-Rahman III declares himself caliph.",
+    "relatedPolityIds": [
+      "al-andalus-cordoba"
+    ],
+    "source": "Wikipedia: Abd al-Rahman III"
+  },
+  {
+    "id": "fall-of-toledo",
+    "year": 1085,
+    "lat": 39.86,
+    "lng": -4.02,
+    "type": "war",
+    "title": "Castile takes Toledo",
+    "description": "Alfonso VI captures the old Visigothic capital.",
+    "relatedPolityIds": [
+      "kingdom-of-castile"
+    ],
+    "source": "Wikipedia: Reconquista"
+  },
+  {
+    "id": "battle-of-sagrajas",
+    "year": 1086,
+    "lat": 38.9,
+    "lng": -6.9,
+    "type": "war",
+    "title": "Battle of Sagrajas",
+    "description": "The Almoravids defeat Alfonso VI of Castile.",
+    "relatedPolityIds": [
+      "almoravids",
+      "kingdom-of-castile"
+    ],
+    "source": "Wikipedia: Battle of Sagrajas"
+  },
+  {
+    "id": "fall-of-granada",
+    "year": 1492,
+    "lat": 37.18,
+    "lng": -3.6,
+    "type": "war",
+    "title": "Fall of Granada",
+    "description": "Ferdinand and Isabella take the last Muslim kingdom in Spain.",
+    "relatedPolityIds": [
+      "kingdom-of-castile",
+      "crown-of-aragon"
+    ],
+    "source": "Wikipedia: Granada War"
+  },
+  {
+    "id": "sicilian-vespers",
+    "year": 1282,
+    "lat": 38.12,
+    "lng": 13.36,
+    "type": "war",
+    "title": "Sicilian Vespers",
+    "description": "A revolt in Palermo drives out the French; Aragon takes Sicily.",
+    "relatedPolityIds": [
+      "crown-of-aragon",
+      "kingdom-of-france"
+    ],
+    "source": "Wikipedia: Sicilian Vespers"
+  },
+  {
+    "id": "founding-of-fez",
+    "year": 789,
+    "lat": 34.03,
+    "lng": -5,
+    "type": "culture",
+    "title": "Fez founded",
+    "description": "Idris I founds Fez, later a great centre of learning.",
+    "relatedPolityIds": [
+      "early-maghreb-dynasties"
+    ],
+    "source": "Wikipedia: Fez, Morocco"
+  },
+  {
+    "id": "battle-of-alcacer-quibir",
+    "year": 1578,
+    "lat": 35,
+    "lng": -5.9,
+    "type": "war",
+    "title": "Battle of Alcácer Quibir",
+    "description": "The Saadis defeat a Portuguese invasion; King Sebastian is killed.",
+    "relatedPolityIds": [
+      "maghreb-sultanates",
+      "portuguese-empire"
+    ],
+    "source": "Wikipedia: Battle of Alcácer Quibir"
+  },
+  {
+    "id": "coronation-of-stephen",
+    "year": 1000,
+    "lat": 47.79,
+    "lng": 18.74,
+    "type": "culture",
+    "title": "Stephen I crowned King of Hungary",
+    "description": "Hungary becomes a Christian kingdom.",
+    "relatedPolityIds": [
+      "kingdom-of-hungary-medieval"
+    ],
+    "source": "Wikipedia: Stephen I of Hungary"
+  },
+  {
+    "id": "mongol-invasion-of-hungary",
+    "year": 1241,
+    "lat": 47.95,
+    "lng": 21.07,
+    "type": "war",
+    "title": "Mongol invasion of Hungary",
+    "description": "The Mongols crush the Hungarian army at Mohi.",
+    "relatedPolityIds": [
+      "kingdom-of-hungary-medieval",
+      "mongol-empire"
+    ],
+    "source": "Wikipedia: Mongol invasion of Europe"
+  },
+  {
+    "id": "stockholm-bloodbath",
+    "year": 1520,
+    "lat": 59.33,
+    "lng": 18.07,
+    "type": "war",
+    "title": "Stockholm Bloodbath",
+    "description": "The Danish king executes about 80 Swedish nobles, sparking Gustav Vasa’s revolt.",
+    "relatedPolityIds": [
+      "medieval-sweden",
+      "denmark-norway"
+    ],
+    "source": "Wikipedia: Stockholm Bloodbath"
+  },
+  {
+    "id": "battle-of-stiklestad",
+    "year": 1030,
+    "lat": 63.8,
+    "lng": 11.56,
+    "type": "war",
+    "title": "Battle of Stiklestad",
+    "description": "King Olaf II dies in battle and becomes Norway’s patron saint.",
+    "relatedPolityIds": [
+      "medieval-norway"
+    ],
+    "source": "Wikipedia: Battle of Stiklestad"
+  },
+  {
+    "id": "battle-on-the-ice",
+    "year": 1242,
+    "lat": 58.7,
+    "lng": 27.6,
+    "type": "war",
+    "title": "Battle on the Ice",
+    "description": "Alexander Nevsky defeats the Livonian knights on Lake Peipus.",
+    "relatedPolityIds": [
+      "novgorod-republic",
+      "teutonic-order-state"
+    ],
+    "source": "Wikipedia: Battle on the Ice"
+  },
+  {
+    "id": "fall-of-novgorod",
+    "year": 1478,
+    "lat": 58.52,
+    "lng": 31.27,
+    "type": "war",
+    "title": "Moscow annexes Novgorod",
+    "description": "Ivan III ends the republic and removes its assembly bell.",
+    "relatedPolityIds": [
+      "novgorod-republic",
+      "muscovy"
+    ],
+    "source": "Wikipedia: Novgorod Republic"
+  },
+  {
+    "id": "siege-of-kazan",
+    "year": 1552,
+    "lat": 55.79,
+    "lng": 49.11,
+    "type": "war",
+    "title": "Siege of Kazan",
+    "description": "Ivan the Terrible conquers the Kazan Khanate.",
+    "relatedPolityIds": [
+      "tatar-khanates",
+      "muscovy"
+    ],
+    "source": "Wikipedia: Siege of Kazan"
+  },
+  {
+    "id": "battle-of-otlukbeli",
+    "year": 1473,
+    "lat": 39.9,
+    "lng": 39.4,
+    "type": "war",
+    "title": "Battle of Otlukbeli",
+    "description": "Ottoman guns defeat Uzun Hasan’s Aq Qoyunlu army.",
+    "relatedPolityIds": [
+      "turkmen-confederations",
+      "ottoman-empire"
+    ],
+    "source": "Wikipedia: Battle of Otlukbeli"
+  },
+  {
+    "id": "tumu-crisis",
+    "year": 1449,
+    "lat": 40.35,
+    "lng": 115.6,
+    "type": "war",
+    "title": "Tumu Crisis",
+    "description": "Oirat forces under Esen capture the Ming emperor.",
+    "relatedPolityIds": [
+      "oirats-dzungars",
+      "ming-china"
+    ],
+    "source": "Wikipedia: Tumu Crisis"
+  },
+  {
+    "id": "dzungar-genocide",
+    "year": 1755,
+    "lat": 43.92,
+    "lng": 81.33,
+    "type": "war",
+    "title": "Qing destroy the Dzungars",
+    "description": "Qing campaigns and smallpox kill most Dzungar people (1755–58).",
+    "relatedPolityIds": [
+      "oirats-dzungars",
+      "qing-china"
+    ],
+    "source": "Wikipedia: Dzungar genocide"
+  },
+  {
+    "id": "onin-war",
+    "year": 1467,
+    "lat": 35.01,
+    "lng": 135.77,
+    "type": "war",
+    "title": "Ōnin War",
+    "description": "A war between lords in Kyoto starts Japan’s Warring States period.",
+    "relatedPolityIds": [
+      "medieval-japan"
+    ],
+    "source": "Wikipedia: Ōnin War"
+  },
+  {
+    "id": "battle-of-sekigahara",
+    "year": 1600,
+    "lat": 35.37,
+    "lng": 136.47,
+    "type": "war",
+    "title": "Battle of Sekigahara",
+    "description": "Tokugawa Ieyasu wins control of Japan.",
+    "relatedPolityIds": [
+      "medieval-japan",
+      "tokugawa-japan"
+    ],
+    "source": "Wikipedia: Battle of Sekigahara"
+  },
+  {
+    "id": "japanese-invasions-of-korea",
+    "year": 1592,
+    "lat": 35.1,
+    "lng": 129.04,
+    "type": "war",
+    "title": "Japanese invasions of Korea",
+    "description": "Hideyoshi invades Korea (1592–98); Admiral Yi Sun-sin and Ming armies resist.",
+    "relatedPolityIds": [
+      "medieval-japan",
+      "joseon-korea",
+      "ming-china"
+    ],
+    "source": "Wikipedia: Japanese invasions of Korea (1592–1598)"
+  },
+  {
+    "id": "bengal-sultanate-founded",
+    "year": 1352,
+    "lat": 24.87,
+    "lng": 88.14,
+    "type": "culture",
+    "title": "Bengal united as a sultanate",
+    "description": "Shamsuddin Ilyas Shah unites Bengal.",
+    "relatedPolityIds": [
+      "bengal-sultanate"
+    ],
+    "source": "Wikipedia: Bengal Sultanate"
+  },
+  {
+    "id": "bahmani-founded",
+    "year": 1347,
+    "lat": 17.33,
+    "lng": 76.83,
+    "type": "culture",
+    "title": "Bahmani Sultanate founded",
+    "description": "Rebels against Delhi found a sultanate in the Deccan.",
+    "relatedPolityIds": [
+      "deccan-sultanates",
+      "delhi-sultanate"
+    ],
+    "source": "Wikipedia: Bahmani Sultanate"
+  },
+  {
+    "id": "buyids-take-baghdad",
+    "year": 945,
+    "lat": 33.31,
+    "lng": 44.36,
+    "type": "war",
+    "title": "Buyids take Baghdad",
+    "description": "An Iranian dynasty takes control of the Abbasid caliph.",
+    "relatedPolityIds": [
+      "iranian-dynasties",
+      "abbasid-caliphate"
+    ],
+    "source": "Wikipedia: Buyid dynasty"
+  },
+  {
+    "id": "karakhanids-take-bukhara",
+    "year": 999,
+    "lat": 39.77,
+    "lng": 64.42,
+    "type": "war",
+    "title": "Karakhanids take Bukhara",
+    "description": "The Samanid state ends.",
+    "relatedPolityIds": [
+      "kara-khanids",
+      "iranian-dynasties"
+    ],
+    "source": "Wikipedia: Kara-Khanid Khanate"
+  },
+  {
+    "id": "battle-of-qatwan",
+    "year": 1141,
+    "lat": 39.8,
+    "lng": 66.9,
+    "type": "war",
+    "title": "Battle of Qatwan",
+    "description": "The Qara Khitai defeat the Seljuk sultan Sanjar near Samarkand.",
+    "relatedPolityIds": [
+      "qara-khitai",
+      "seljuk-empire"
+    ],
+    "source": "Wikipedia: Battle of Qatwan"
+  },
+  {
+    "id": "fall-of-soba",
+    "year": 1504,
+    "yearApproximate": true,
+    "lat": 15.52,
+    "lng": 32.68,
+    "type": "war",
+    "title": "Fall of Alwa",
+    "description": "The Funj and Arab allies take Soba, ending Christian Nubia’s last kingdom.",
+    "relatedPolityIds": [
+      "kingdom-of-alwa",
+      "funj-sultanate"
+    ],
+    "source": "Wikipedia: Alodia"
+  },
+  {
+    "id": "prussian-crusade",
+    "year": 1230,
+    "lat": 54.04,
+    "lng": 19.03,
+    "type": "war",
+    "title": "Prussian Crusade begins",
+    "description": "The Teutonic Knights start conquering the pagan Prussians.",
+    "relatedPolityIds": [
+      "teutonic-order-state"
+    ],
+    "source": "Wikipedia: Prussian Crusade"
+  },
+  {
+    "id": "secularisation-of-prussia",
+    "year": 1525,
+    "lat": 54.71,
+    "lng": 20.51,
+    "type": "culture",
+    "title": "Duchy of Prussia created",
+    "description": "The last Grand Master becomes a Lutheran duke under the Polish king.",
+    "relatedPolityIds": [
+      "teutonic-order-state"
+    ],
+    "source": "Wikipedia: Duchy of Prussia"
+  },
+  {
+    "id": "battle-of-danki",
+    "year": 1549,
+    "lat": 15.2,
+    "lng": -16.3,
+    "type": "war",
+    "title": "Battle of Danki",
+    "description": "Cayor breaks away from the Jolof Empire, which splits into Wolof kingdoms.",
+    "relatedPolityIds": [
+      "jolof-and-wolof-kingdoms"
+    ],
+    "source": "Wikipedia: Battle of Danki"
   }
 ]

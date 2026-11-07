@@ -35,6 +35,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 - [x] Map blanks round 7: 129 modern countries with full 43-item entries (Europe 36, Africa 37, Americas 24, Middle East and Central Asia 17, Asia 10, Oceania 5); colonies and territories linked to their rulers by date; modern era now 95% (#37)
 - [x] Map gaps round 8: Germany 1918–45, East Germany, Napoleonic France, Prussia, Old Swiss Confederacy, German and Italian states; about 90 colonies and territories linked by date; modern era 95% → 97%
 - [x] Map gaps round 9: 28 kingdoms and states (1800s African kingdoms, Hejaz, Ha’il, England, Scotland, Ireland, post-Angkor Cambodia, Lao and Shan states, Mrauk U, Zand Persia); 1878 → 98%, 1900 → 99%
+- [x] Map gaps round 10: 24 medieval and early-modern states (Castile, Aragon, Hungary, Sweden, Norway, Novgorod, Teutonic Order, Tatar khanates, Japan 1185–1603, Deccan and Bengal sultanates, Iranian and Turkic dynasties, Visigoths, Franks, Córdoba, Maghreb dynasties, Alwa, Jolof); all years 91% → 93%
 - [x] Small countries as map dots, 21 new entries, finer coastline (#42); economic crisis events (#43)
 - [ ] Map gaps still open: small 1800s African states (Utetera, Yeke, Nyamwezi, Borgu, Dendi, Rabih, Teke, Yaka, Kuba, Ovimbundu), Castile and Aragon before 1492, Hungary 1400, Novgorod, the Blue Horde; about 1,400 Indigenous nations on the 1492–1900 maps (link each only after checking it in a source). Western Sahara and Antarctica stay unlinked on purpose.
 - [ ] Optional last gaps: one-map oddities (Great Khanate 1400, Canada 1815), Libya, Kazakhstan, Angola, Dutch East Indies, Xinjiang
@@ -52,24 +53,24 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 
 | Area | Progress | Detail |
 |---|---|---|
-| Map coverage (all years) | `██████████████████░░` 91% | Named land on the border maps that is linked to a civilisation |
+| Map coverage (all years) | `███████████████████░` 93% | Named land on the border maps that is linked to a civilisation |
 | · Prehistory | `██████████████████░░` 92% |  |
 | · Ancient | `██████████████████░░` 91% |  |
-| · Medieval | `█████████████████░░░` 85% |  |
-| · Early modern | `██████████████████░░` 88% |  |
+| · Medieval | `██████████████████░░` 89% |  |
+| · Early modern | `██████████████████░░` 91% |  |
 | · Modern | `████████████████████` 98% |  |
-| Civilisations shown on the map | `███████████████████░` 93% | 408 of 441; the rest fly to their capital |
-| Checklist filled in | `████████████████████` 100% | 18963 of 18963 items (441 × 43) |
-| Answers with real detail | `████████████░░░░░░░░` 58% | 7530 answers are still under 40 characters |
-| Fact-checked against a source | `████░░░░░░░░░░░░░░░░` 19% | 3559 items say “(checked …)”; the rest still need a second look |
-| Civilisations with events | `████████████████████` 100% | 440 of 441 |
-| Civilisations with famous people | `██████████████░░░░░░` 72% | 317 of 441; many prehistoric cultures have no known names |
-| Civilisations linked to others | `████████████████████` 100% | 441 of 441 (succeeded, conquered, traded with…) |
-| Civilisation pictures | `███████████████████░` 97% | 429 of 441 |
-| “Known for” pictures | `█████████░░░░░░░░░░░` 45% | 629 of 1383 items |
+| Civilisations shown on the map | `███████████████████░` 93% | 432 of 465; the rest fly to their capital |
+| Checklist filled in | `████████████████████` 100% | 19995 of 19995 items (465 × 43) |
+| Answers with real detail | `███████████░░░░░░░░░` 56% | 8332 answers are still under 40 characters |
+| Fact-checked against a source | `████░░░░░░░░░░░░░░░░` 18% | 3559 items say “(checked …)”; the rest still need a second look |
+| Civilisations with events | `████████████████████` 100% | 464 of 465 |
+| Civilisations with famous people | `██████████████░░░░░░` 72% | 337 of 465; many prehistoric cultures have no known names |
+| Civilisations linked to others | `████████████████████` 100% | 465 of 465 (succeeded, conquered, traded with…) |
+| Civilisation pictures | `███████████████████░` 97% | 451 of 465 |
+| “Known for” pictures | `█████████░░░░░░░░░░░` 43% | 629 of 1455 items |
 
-Certainty of all items: 12493 confirmed · 6003 estimated · 467 disputed.
-Also in the app: 884 events · 408 people · 18 routes · 11 stories.
+Certainty of all items: 13295 confirmed · 6233 estimated · 467 disputed.
+Also in the app: 917 events · 429 people · 18 routes · 11 stories.
 
 ## Map coverage by year
 
@@ -92,27 +93,27 @@ Also in the app: 884 events · 408 people · 18 routes · 11 stories.
 | 100 BCE | `██████████████████░░` 89% |
 | 1 BCE | `███████████████████░` 93% |
 | 100 | `████████████████░░░░` 78% |
-| 200 | `███████████████████░` 93% |
+| 200 | `███████████████████░` 94% |
 | 300 | `██████████████████░░` 91% |
-| 400 | `███████████████████░` 93% |
-| 500 | `███████████████████░` 93% |
-| 600 | `██████████████████░░` 92% |
-| 700 | `█████████████████░░░` 85% |
-| 800 | `█████████████████░░░` 86% |
-| 900 | `███████████████░░░░░` 75% |
-| 1000 | `██████████████████░░` 88% |
-| 1100 | `█████████████████░░░` 84% |
-| 1200 | `████████████████░░░░` 82% |
-| 1279 | `███████████████████░` 94% |
-| 1300 | `██████████████████░░` 92% |
-| 1400 | `██████████████████░░` 91% |
-| 1492 | `███████████░░░░░░░░░` 57% |
-| 1500 | `█████████████████░░░` 84% |
-| 1530 | `███████████████░░░░░` 77% |
-| 1600 | `█████████████████░░░` 83% |
-| 1650 | `██████████████████░░` 90% |
-| 1700 | `██████████████████░░` 90% |
-| 1715 | `███████████████████░` 93% |
+| 400 | `███████████████████░` 94% |
+| 500 | `███████████████████░` 94% |
+| 600 | `███████████████████░` 96% |
+| 700 | `██████████████████░░` 89% |
+| 800 | `██████████████████░░` 92% |
+| 900 | `████████████████░░░░` 82% |
+| 1000 | `███████████████████░` 93% |
+| 1100 | `██████████████████░░` 90% |
+| 1200 | `█████████████████░░░` 87% |
+| 1279 | `███████████████████░` 97% |
+| 1300 | `███████████████████░` 96% |
+| 1400 | `███████████████████░` 95% |
+| 1492 | `████████████░░░░░░░░` 62% |
+| 1500 | `██████████████████░░` 90% |
+| 1530 | `█████████████████░░░` 85% |
+| 1600 | `█████████████████░░░` 87% |
+| 1650 | `██████████████████░░` 91% |
+| 1700 | `██████████████████░░` 91% |
+| 1715 | `███████████████████░` 94% |
 | 1783 | `████████████████████` 99% |
 | 1800 | `████████████████████` 99% |
 | 1815 | `████████████████████` 98% |
@@ -142,26 +143,26 @@ Areas on the border maps that no civilisation covers yet, largest first (area ad
 | Sinic | 1500 BCE – 700 BCE (3 maps) | 5M |
 | Mongols | 1100 – 1100 (1 maps) | 5M |
 | Vedic Aryans | 1500 BCE – 700 BCE (3 maps) | 5M |
-| Kara Khitai Khaganate | 1200 – 1200 (1 maps) | 4M |
-| Buwayhid Emirates | 1000 – 1200 (2 maps) | 4M |
 | Arabs | 1492 – 1500 (2 maps) | 4M |
 | Oghuz Turks | 900 – 900 (1 maps) | 4M |
 | Suren Kingdom | 1 BCE – 400 (4 maps) | 4M |
-| Emirate of the White Sheep Turks | 1492 – 1500 (2 maps) | 4M |
 | Zhangzhung Kingdom | 400 BCE – 100 BCE (5 maps) | 3M |
-| Nogai Horde | 1530 – 1715 (5 maps) | 3M |
 | Uyghurs | 700 – 900 (2 maps) | 3M |
 | Proto-Tibetan cultures | 400 BCE – 400 BCE (1 maps) | 3M |
 | Magadha | 500 BCE – 200 (4 maps) | 3M |
 | Satavahanihara | 1 BCE – 400 (5 maps) | 3M |
 | Burmese | 1500 BCE – 700 BCE (3 maps) | 3M |
-| Sweden | 1000 – 1600 (8 maps) | 3M |
 | Sasanian Empire | 700 – 700 (1 maps) | 3M |
-| Himyarite Kingdom | 1 BCE – 500 (6 maps) | 3M |
-| Alwa | 600 – 1500 (12 maps) | 3M |
 | Mandes | 900 – 900 (1 maps) | 3M |
 | Yuezhi | 200 BCE – 200 BCE (1 maps) | 3M |
 | Shellfish gatherers | 1500 BCE – 800 (18 maps) | 3M |
 | Laurel complex | 100 BCE – 500 (7 maps) | 3M |
 | Hallstatt culture | 400 BCE – 400 BCE (1 maps) | 2M |
 | Hunters-gatherers | 10000 BCE – 2000 BCE (5 maps) | 2M |
+| Hindu kingdoms and republics | 323 BCE – 300 BCE (2 maps) | 2M |
+| Bedouins | 900 – 900 (1 maps) | 2M |
+| Chorrera | 1500 BCE – 100 BCE (9 maps) | 2M |
+| Malays | 200 BCE – 1200 (2 maps) | 2M |
+| Obiwa | 1530 – 1700 (4 maps) | 2M |
+| Ethiopian highland farmers | 1500 BCE – 323 BCE (6 maps) | 2M |
+| Turcik tribes | 200 BCE – 200 BCE (1 maps) | 2M |

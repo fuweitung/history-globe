@@ -1,0 +1,326 @@
+{
+  "id": "merovingian-franks",
+  "name": "Frankish Kingdom (Merovingians)",
+  "era": "ancient",
+  "region": "Western Europe",
+  "startYear": 481,
+  "endYear": 751,
+  "capital": "Paris, Soissons, Metz and others",
+  "capitalCoords": [
+    2.35,
+    48.86
+  ],
+  "summary": "The Frankish kingdom created by Clovis I, who united the Franks, defeated the Romans and Visigoths in Gaul and became Catholic; ruled by his Merovingian family until the Carolingians took the crown in 751.",
+  "wikiTitle": "Merovingian dynasty",
+  "borderNames": [],
+  "borderNameYears": {
+    "Franks": [
+      400,
+      751
+    ],
+    "Frankish Kingdom": [
+      481,
+      751
+    ]
+  },
+  "color": "#3a5ab0",
+  "knownFor": [
+    {
+      "label": "Baptism of Clovis",
+      "kind": "idea",
+      "year": 496,
+      "note": "Made the Franks Catholic."
+    },
+    {
+      "label": "Salic law",
+      "kind": "idea",
+      "note": "Frankish law code."
+    },
+    {
+      "label": "Battle of Tours",
+      "kind": "idea",
+      "year": 732,
+      "note": "Charles Martel stops an Umayyad raid."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Gaul and western Germany.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "terrain": {
+        "value": "Plains, forests, river valleys.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "climate": {
+        "value": "Temperate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "resources": {
+        "value": "Farmland, forests, iron.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "disasters": {
+        "value": "Plague (from 541).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Merovingian dynasty"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Perhaps 6–9 million.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "urbanisation": {
+        "value": "Mostly rural; a few walled towns and a royal or ducal capital.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "disease": {
+        "value": "Plague outbreaks, above all the Black Death (1347–51).",
+        "year": 1348,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "migration": {
+        "value": "Franks settled among Gallo-Romans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming on estates; local trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "tradeRoutes": {
+        "value": "Rivers (Rhine, Seine); trade with Anglo-Saxon England.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "wealth": {
+        "value": "Land and plunder.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "moneyAndTax": {
+        "value": "Gold, then silver coins; declining Roman taxes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "inequality": {
+        "value": "Nobles and clergy above peasants, many of them serfs.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Merovingian dynasty"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Kingship divided among the king’s sons.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "keyRulers": {
+        "value": "Clovis I. Dagobert I. Charles Martel (mayor of the palace).",
+        "year": 481,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "succession": {
+        "value": "Kingdom split between sons, causing civil wars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "institutions": {
+        "value": "Mayors of the palace held real power by the 700s.",
+        "year": 687,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "stability": {
+        "value": "Frequent civil wars between brothers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "eliteConflict": {
+        "value": "Austrasia against Neustria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Infantry with throwing axes (francisca).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "majorWars": {
+        "value": "Defeated the Visigoths at Vouillé (507); Battle of Tours (732).",
+        "year": 507,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "territoryChange": {
+        "value": "Took most of Gaul by 537.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "alliancesRivals": {
+        "value": "Alliance with the Pope.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "scienceEducation": {
+        "value": "Monastery schools.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "openness": {
+        "value": "Open to trade; closed to rival faiths at times.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "communicationTransport": {
+        "value": "Roads, rivers and coastal shipping.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Merovingian dynasty"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Catholic Christianity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "languageWriting": {
+        "value": "Latin; Frankish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "artsArchitecture": {
+        "value": "Jewellery with garnets; early churches.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "socialStructure": {
+        "value": "Kings, nobles, free Franks, Gallo-Romans, slaves.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler, faith and region.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "dailyLife": {
+        "value": "Village farming; bread, porridge and beer or wine.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Merovingian dynasty"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Visigoths, Burgundians, Lombards, Saxons.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "ideasReligions": {
+        "value": "Spread of monasteries.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "colonisation": {
+        "value": "Took over Roman Gaul.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Clovis becomes king (481).",
+        "year": 481,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "peakPeriod": {
+        "value": "Under Dagobert I (629–39).",
+        "year": 630,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "declineSignals": {
+        "value": "“Do-nothing kings” after 639.",
+        "year": 639,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "outcome": {
+        "value": "Replaced by the Carolingians (751).",
+        "year": 751,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Merovingian dynasty.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Merovingian dynasty"
+      },
+      "overallCertainty": {
+        "value": "Main events are known from chronicles and charters; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Merovingian dynasty"
+      }
+    }
+  }
+}

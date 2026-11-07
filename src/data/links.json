@@ -3840,5 +3840,341 @@
     "relation": "succeeded",
     "year": 1794,
     "note": "The Qajars defeated the last Zand ruler."
+  },
+  {
+    "fromPolityId": "roman-empire",
+    "toPolityId": "visigothic-kingdom",
+    "relation": "succeeded",
+    "year": 418,
+    "note": "Settled in Roman Gaul by treaty."
+  },
+  {
+    "fromPolityId": "visigothic-kingdom",
+    "toPolityId": "al-andalus-cordoba",
+    "relation": "succeeded",
+    "year": 756,
+    "note": "Conquered by the Umayyads (711)."
+  },
+  {
+    "fromPolityId": "merovingian-franks",
+    "toPolityId": "carolingian-empire",
+    "relation": "succeeded",
+    "year": 800,
+    "note": "The Carolingians took the crown (751)."
+  },
+  {
+    "fromPolityId": "merovingian-franks",
+    "toPolityId": "visigothic-kingdom",
+    "relation": "conquered",
+    "year": 507,
+    "note": "Vouillé."
+  },
+  {
+    "fromPolityId": "umayyad-caliphate",
+    "toPolityId": "al-andalus-cordoba",
+    "relation": "succeeded",
+    "year": 756,
+    "note": "An Umayyad prince fled to Spain."
+  },
+  {
+    "fromPolityId": "al-andalus-cordoba",
+    "toPolityId": "kingdom-of-castile",
+    "relation": "conquered",
+    "year": 1031,
+    "note": "Christian kingdoms advanced after the caliphate fell."
+  },
+  {
+    "fromPolityId": "kingdom-of-castile",
+    "toPolityId": "spanish-empire",
+    "relation": "succeeded",
+    "year": 1516,
+    "note": "Castile and Aragon united as Spain."
+  },
+  {
+    "fromPolityId": "crown-of-aragon",
+    "toPolityId": "spanish-empire",
+    "relation": "succeeded",
+    "year": 1516,
+    "note": "Castile and Aragon united as Spain."
+  },
+  {
+    "fromPolityId": "crown-of-aragon",
+    "toPolityId": "italian-states",
+    "relation": "conquered",
+    "year": 1454,
+    "note": "Aragon ruled Sicily, Sardinia and Naples."
+  },
+  {
+    "fromPolityId": "almoravids",
+    "toPolityId": "almohad-caliphate",
+    "relation": "succeeded",
+    "year": 1147,
+    "note": "Overthrown by the Almohads."
+  },
+  {
+    "fromPolityId": "almohad-caliphate",
+    "toPolityId": "maghreb-sultanates",
+    "relation": "succeeded",
+    "year": 1269,
+    "note": "The Marinids took Marrakesh."
+  },
+  {
+    "fromPolityId": "maghreb-sultanates",
+    "toPolityId": "morocco",
+    "relation": "succeeded",
+    "year": 1659,
+    "note": "Followed by the Alaouite dynasty."
+  },
+  {
+    "fromPolityId": "early-maghreb-dynasties",
+    "toPolityId": "fatimid-caliphate",
+    "relation": "succeeded",
+    "year": 909,
+    "note": "Ended by the Fatimids."
+  },
+  {
+    "fromPolityId": "kingdom-of-hungary-medieval",
+    "toPolityId": "habsburg-monarchy",
+    "relation": "succeeded",
+    "year": 1526,
+    "note": "Habsburgs claimed the crown after Mohács."
+  },
+  {
+    "fromPolityId": "ottoman-empire",
+    "toPolityId": "kingdom-of-hungary-medieval",
+    "relation": "conquered",
+    "year": 1526,
+    "note": "Mohács."
+  },
+  {
+    "fromPolityId": "kingdom-of-hungary-medieval",
+    "toPolityId": "hungary",
+    "relation": "succeeded",
+    "year": 1918,
+    "note": "Modern Hungary."
+  },
+  {
+    "fromPolityId": "viking-age-norse",
+    "toPolityId": "medieval-sweden",
+    "relation": "succeeded",
+    "year": 1000,
+    "note": "Viking-age Svear and Götar."
+  },
+  {
+    "fromPolityId": "medieval-sweden",
+    "toPolityId": "swedish-empire",
+    "relation": "succeeded",
+    "year": 1611,
+    "note": "Became a great power."
+  },
+  {
+    "fromPolityId": "viking-age-norse",
+    "toPolityId": "medieval-norway",
+    "relation": "succeeded",
+    "year": 1030,
+    "note": "Viking-age kingdom."
+  },
+  {
+    "fromPolityId": "medieval-norway",
+    "toPolityId": "denmark-norway",
+    "relation": "succeeded",
+    "year": 1397,
+    "note": "Kalmar Union."
+  },
+  {
+    "fromPolityId": "kievan-rus",
+    "toPolityId": "novgorod-republic",
+    "relation": "succeeded",
+    "year": 1136,
+    "note": "Novgorod broke from Kiev’s princes."
+  },
+  {
+    "fromPolityId": "novgorod-republic",
+    "toPolityId": "teutonic-order-state",
+    "relation": "conquered",
+    "year": 1242,
+    "note": "Battle on the Ice."
+  },
+  {
+    "fromPolityId": "muscovy",
+    "toPolityId": "novgorod-republic",
+    "relation": "conquered",
+    "year": 1478,
+    "note": "Annexed by Ivan III."
+  },
+  {
+    "fromPolityId": "golden-horde",
+    "toPolityId": "tatar-khanates",
+    "relation": "succeeded",
+    "year": 1438,
+    "note": "The Horde broke up."
+  },
+  {
+    "fromPolityId": "muscovy",
+    "toPolityId": "tatar-khanates",
+    "relation": "conquered",
+    "year": 1552,
+    "note": "Kazan and Astrakhan conquered."
+  },
+  {
+    "fromPolityId": "timurid-empire",
+    "toPolityId": "turkmen-confederations",
+    "relation": "succeeded",
+    "year": 1405,
+    "note": "Rose after Timur."
+  },
+  {
+    "fromPolityId": "turkmen-confederations",
+    "toPolityId": "safavid-persia",
+    "relation": "succeeded",
+    "year": 1508,
+    "note": "Replaced by the Safavids."
+  },
+  {
+    "fromPolityId": "northern-yuan",
+    "toPolityId": "oirats-dzungars",
+    "relation": "traded_with",
+    "year": 1450,
+    "note": "Western and Eastern Mongols were rivals."
+  },
+  {
+    "fromPolityId": "qing-china",
+    "toPolityId": "oirats-dzungars",
+    "relation": "conquered",
+    "year": 1758,
+    "note": "Qing conquest."
+  },
+  {
+    "fromPolityId": "nara-heian-japan",
+    "toPolityId": "medieval-japan",
+    "relation": "succeeded",
+    "year": 1185,
+    "note": "The first shogunate."
+  },
+  {
+    "fromPolityId": "medieval-japan",
+    "toPolityId": "tokugawa-japan",
+    "relation": "succeeded",
+    "year": 1603,
+    "note": "Tokugawa shogunate."
+  },
+  {
+    "fromPolityId": "delhi-sultanate",
+    "toPolityId": "bengal-sultanate",
+    "relation": "succeeded",
+    "year": 1352,
+    "note": "Bengal broke from Delhi."
+  },
+  {
+    "fromPolityId": "bengal-sultanate",
+    "toPolityId": "mughal-empire",
+    "relation": "succeeded",
+    "year": 1576,
+    "note": "Mughal conquest."
+  },
+  {
+    "fromPolityId": "delhi-sultanate",
+    "toPolityId": "deccan-sultanates",
+    "relation": "succeeded",
+    "year": 1347,
+    "note": "Bahmani revolt."
+  },
+  {
+    "fromPolityId": "deccan-sultanates",
+    "toPolityId": "vijayanagara",
+    "relation": "conquered",
+    "year": 1565,
+    "note": "Talikota."
+  },
+  {
+    "fromPolityId": "mughal-empire",
+    "toPolityId": "deccan-sultanates",
+    "relation": "conquered",
+    "year": 1687,
+    "note": "Mughal conquest."
+  },
+  {
+    "fromPolityId": "abbasid-caliphate",
+    "toPolityId": "iranian-dynasties",
+    "relation": "succeeded",
+    "year": 861,
+    "note": "Rose as Abbasid power faded."
+  },
+  {
+    "fromPolityId": "iranian-dynasties",
+    "toPolityId": "ghaznavid-empire",
+    "relation": "succeeded",
+    "year": 999,
+    "note": "The Ghaznavids began as Samanid governors."
+  },
+  {
+    "fromPolityId": "iranian-dynasties",
+    "toPolityId": "kara-khanids",
+    "relation": "traded_with",
+    "year": 950,
+    "note": "Rivals and trading partners."
+  },
+  {
+    "fromPolityId": "kara-khanids",
+    "toPolityId": "qara-khitai",
+    "relation": "succeeded",
+    "year": 1137,
+    "note": "Became Qara Khitai vassals."
+  },
+  {
+    "fromPolityId": "liao-dynasty",
+    "toPolityId": "qara-khitai",
+    "relation": "succeeded",
+    "year": 1124,
+    "note": "Founded by Liao refugees."
+  },
+  {
+    "fromPolityId": "qara-khitai",
+    "toPolityId": "mongol-empire",
+    "relation": "succeeded",
+    "year": 1218,
+    "note": "Conquered by the Mongols."
+  },
+  {
+    "fromPolityId": "makuria",
+    "toPolityId": "kingdom-of-alwa",
+    "relation": "allied_with",
+    "year": 900,
+    "note": "Neighbouring Christian Nubian kingdoms."
+  },
+  {
+    "fromPolityId": "kingdom-of-alwa",
+    "toPolityId": "funj-sultanate",
+    "relation": "succeeded",
+    "year": 1504,
+    "note": "Replaced by the Funj."
+  },
+  {
+    "fromPolityId": "teutonic-order-state",
+    "toPolityId": "kingdom-of-prussia",
+    "relation": "succeeded",
+    "year": 1701,
+    "note": "Ducal Prussia became the Kingdom of Prussia."
+  },
+  {
+    "fromPolityId": "poland-lithuania-medieval",
+    "toPolityId": "teutonic-order-state",
+    "relation": "conquered",
+    "year": 1410,
+    "note": "Grunwald."
+  },
+  {
+    "fromPolityId": "mali-empire",
+    "toPolityId": "jolof-and-wolof-kingdoms",
+    "relation": "succeeded",
+    "year": 1360,
+    "note": "Jolof rose as Mali weakened."
+  },
+  {
+    "fromPolityId": "jolof-and-wolof-kingdoms",
+    "toPolityId": "senegal",
+    "relation": "succeeded",
+    "year": 1960,
+    "note": "Wolof kingdoms became part of Senegal."
   }
 ]
