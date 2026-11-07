@@ -1,0 +1,365 @@
+{
+  "id": "mesoamerican-peoples",
+  "name": "Mesoamerican peoples outside the Aztec Empire",
+  "era": "medieval",
+  "region": "Mesoamerica",
+  "startYear": 900,
+  "endYear": 1525,
+  "capital": "Tzintzuntzan (Purépecha), Tlaxcala, Tututepec and others",
+  "capitalCoords": [
+    -101.6,
+    19.63
+  ],
+  "summary": "The many Mesoamerican peoples and states not ruled by the Aztecs in 1519, such as the Purépecha (Tarascan) Empire, Tlaxcala, the Mixtec kingdom of Tututepec, Zapotec, Totonac and others; Tlaxcala helped Cortés defeat the Aztecs.",
+  "wikiTitle": "Mesoamerica",
+  "borderNames": [],
+  "borderNameYears": {
+    "Coyutecos (Nahua)": [
+      1400,
+      1600
+    ],
+    "Matlatzinco/Tlahuica/Ocuiltec": [
+      1400,
+      1600
+    ],
+    "Mexicanero (Nahuas)": [
+      1400,
+      1600
+    ],
+    "Mixtec Empire": [
+      1400,
+      1600
+    ],
+    "Nahua": [
+      1400,
+      1600
+    ],
+    "Nahua ( Morelos, Puebla, Tlaxcala, Veracruz, Hidalgo, San Luis Potosi)": [
+      1400,
+      1600
+    ],
+    "Nahua (Guerrero)": [
+      1400,
+      1600
+    ],
+    "Nahua (Mexico)": [
+      1400,
+      1600
+    ],
+    "Nahua (Michoacan)": [
+      1400,
+      1600
+    ],
+    "Nahuas": [
+      1400,
+      1600
+    ],
+    "Nicarao/Nahoa": [
+      1400,
+      1600
+    ],
+    "P’urhépecha": [
+      1400,
+      1600
+    ]
+  },
+  "color": "#c08a3a",
+  "knownFor": [
+    {
+      "label": "Purépecha metalwork",
+      "kind": "tool",
+      "note": "Bronze and copper tools."
+    },
+    {
+      "label": "Mixtec codices",
+      "kind": "art",
+      "note": "Painted histories."
+    },
+    {
+      "label": "Tlaxcala alliance",
+      "kind": "idea",
+      "year": 1519,
+      "note": "Allied with Cortés."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Western, central and southern Mexico and Central America.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "terrain": {
+        "value": "Highlands, valleys and coasts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "climate": {
+        "value": "Varied.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "resources": {
+        "value": "Maize, cotton, copper, cacao.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "disasters": {
+        "value": "Earthquakes and droughts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mesoamerica"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Millions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "urbanisation": {
+        "value": "Cities such as Tzintzuntzan and Tlaxcala.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "disease": {
+        "value": "Smallpox (1520).",
+        "year": 1520,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "migration": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mesoamerica"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Maize farming, crafts, trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "tradeRoutes": {
+        "value": "Market networks across Mesoamerica.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "wealth": {
+        "value": "Tribute and trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "moneyAndTax": {
+        "value": "Cacao and cloth as money.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "inequality": {
+        "value": "Mostly small-scale societies; some ranked chiefs and families.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mesoamerica"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Kingdoms and republics (Tlaxcala).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "keyRulers": {
+        "value": "Tangáxuan II (Purépecha). Xicotencatl (Tlaxcala).",
+        "year": 1519,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "succession": {
+        "value": "Royal and noble lineages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "institutions": {
+        "value": "Councils.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "stability": {
+        "value": "Constant war with the Aztecs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "eliteConflict": {
+        "value": "Rival lords.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mesoamerica"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Purépecha copper weapons.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "majorWars": {
+        "value": "Purépecha defeated the Aztecs (1479); Spanish conquest.",
+        "year": 1479,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "territoryChange": {
+        "value": "Conquered by Spain (1522–25).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "alliancesRivals": {
+        "value": "Enemies of the Aztecs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded; skilled local technologies.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "scienceEducation": {
+        "value": "Calendars and codices.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "openness": {
+        "value": "Trade and exchange with neighbours.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "communicationTransport": {
+        "value": "Trails and porters.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mesoamerican religion.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "languageWriting": {
+        "value": "Purépecha, Mixtec, Zapotec, Totonac and others.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "artsArchitecture": {
+        "value": "Yácatas (Purépecha), Mitla (Zapotec).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "socialStructure": {
+        "value": "Nobles, commoners.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "sharedIdentity": {
+        "value": "Identity rested on each people, village and language rather than one state.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "dailyLife": {
+        "value": "Maize, beans, chilli.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Aztec Empire, Maya.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "ideasReligions": {
+        "value": "Mesoamerican calendar.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "colonisation": {
+        "value": "Spanish conquest (1519–25).",
+        "year": 1519,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Postclassic states (900–).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "peakPeriod": {
+        "value": "1400s.",
+        "year": 1450,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "declineSignals": {
+        "value": "Spanish conquest.",
+        "year": 1519,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "outcome": {
+        "value": "Peoples remain across Mexico and Central America.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Mesoamerica.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica"
+      },
+      "overallCertainty": {
+        "value": "Known from archaeology, oral history and Spanish and later records; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mesoamerica"
+      }
+    }
+  }
+}

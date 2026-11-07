@@ -12781,5 +12781,175 @@
       "wadai-sultanate"
     ],
     "source": "Wikipedia: Kingdom of Baguirmi"
+  },
+  {
+    "id": "spanish-missions-california",
+    "year": 1769,
+    "lat": 32.76,
+    "lng": -117.2,
+    "type": "culture",
+    "title": "Spanish missions in California",
+    "description": "Junípero Serra founds the first of 21 missions; forced labour and disease devastate California peoples.",
+    "relatedPolityIds": [
+      "california-peoples",
+      "spanish-empire"
+    ],
+    "source": "Wikipedia: Spanish missions in California"
+  },
+  {
+    "id": "california-genocide",
+    "year": 1849,
+    "lat": 38.58,
+    "lng": -121.49,
+    "type": "war",
+    "title": "California genocide",
+    "description": "During the Gold Rush, settlers and state-funded militias kill thousands; California’s Native population falls from about 150,000 to 30,000 (1846–73).",
+    "relatedPolityIds": [
+      "california-peoples",
+      "united-states"
+    ],
+    "source": "Wikipedia: California genocide"
+  },
+  {
+    "id": "pueblo-revolt",
+    "year": 1680,
+    "lat": 35.69,
+    "lng": -105.94,
+    "type": "war",
+    "title": "Pueblo Revolt",
+    "description": "Pueblo peoples led by Popé drive the Spanish out of New Mexico until 1692.",
+    "relatedPolityIds": [
+      "southwest-peoples",
+      "spanish-empire"
+    ],
+    "source": "Wikipedia: Pueblo Revolt"
+  },
+  {
+    "id": "long-walk-navajo",
+    "year": 1864,
+    "lat": 34.4,
+    "lng": -104.2,
+    "type": "war",
+    "title": "Long Walk of the Navajo",
+    "description": "The US Army forces about 8,000 Diné to march to Bosque Redondo; hundreds die.",
+    "relatedPolityIds": [
+      "southwest-peoples",
+      "united-states"
+    ],
+    "source": "Wikipedia: Long Walk of the Navajo"
+  },
+  {
+    "id": "geronimo-surrenders",
+    "year": 1886,
+    "lat": 31.6,
+    "lng": -109.3,
+    "type": "war",
+    "title": "Geronimo surrenders",
+    "description": "The last Apache war band surrenders, ending the Apache Wars.",
+    "relatedPolityIds": [
+      "southwest-peoples",
+      "united-states"
+    ],
+    "source": "Wikipedia: Geronimo"
+  },
+  {
+    "id": "fall-of-mayapan",
+    "year": 1441,
+    "yearApproximate": true,
+    "lat": 20.63,
+    "lng": -89.46,
+    "type": "war",
+    "title": "Fall of Mayapan",
+    "description": "Revolt destroys the last great Maya capital of Yucatán; the region splits into small states.",
+    "relatedPolityIds": [
+      "postclassic-maya"
+    ],
+    "source": "Wikipedia: Mayapan"
+  },
+  {
+    "id": "conquest-of-guatemala",
+    "year": 1524,
+    "lat": 14.84,
+    "lng": -91.2,
+    "type": "war",
+    "title": "Spanish conquest of Guatemala",
+    "description": "Pedro de Alvarado defeats the K’iche’ with Kaqchikel and Nahua allies.",
+    "relatedPolityIds": [
+      "postclassic-maya",
+      "spanish-empire"
+    ],
+    "source": "Wikipedia: Spanish conquest of Guatemala"
+  },
+  {
+    "id": "fall-of-nojpeten",
+    "year": 1697,
+    "lat": 16.93,
+    "lng": -89.89,
+    "type": "war",
+    "title": "Fall of Nojpetén",
+    "description": "Spain conquers the Itza capital, the last independent Maya kingdom.",
+    "relatedPolityIds": [
+      "postclassic-maya",
+      "spanish-empire"
+    ],
+    "source": "Wikipedia: Spanish conquest of Petén"
+  },
+  {
+    "id": "purepecha-defeat-aztecs",
+    "year": 1479,
+    "yearApproximate": true,
+    "lat": 19.63,
+    "lng": -101.6,
+    "type": "war",
+    "title": "Purépecha defeat the Aztecs",
+    "description": "The Purépecha (Tarascan) army crushes an Aztec invasion.",
+    "relatedPolityIds": [
+      "mesoamerican-peoples",
+      "aztec-empire"
+    ],
+    "source": "Wikipedia: Aztec–Tarascan War"
+  },
+  {
+    "id": "tlaxcala-alliance",
+    "year": 1519,
+    "lat": 19.32,
+    "lng": -98.24,
+    "type": "war",
+    "title": "Tlaxcala allies with Cortés",
+    "description": "After fighting the Spanish, Tlaxcala joins them against the Aztecs.",
+    "relatedPolityIds": [
+      "mesoamerican-peoples",
+      "aztec-empire",
+      "spanish-empire"
+    ],
+    "source": "Wikipedia: Tlaxcala (Nahua state)"
+  },
+  {
+    "id": "chichimeca-war",
+    "year": 1550,
+    "lat": 22.77,
+    "lng": -102.58,
+    "type": "war",
+    "title": "Chichimeca War",
+    "description": "Northern peoples resist Spanish silver mining for 40 years (1550–90).",
+    "relatedPolityIds": [
+      "aridoamerica-peoples",
+      "spanish-empire"
+    ],
+    "source": "Wikipedia: Chichimeca War"
+  },
+  {
+    "id": "conquest-of-the-muisca",
+    "year": 1537,
+    "lat": 4.6,
+    "lng": -74.08,
+    "type": "war",
+    "title": "Spanish conquest of the Muisca",
+    "description": "Gonzalo Jiménez de Quesada conquers the Muisca highlands; Bogotá is founded in 1538.",
+    "relatedPolityIds": [
+      "isthmo-colombian-peoples",
+      "spanish-empire"
+    ],
+    "source": "Wikipedia: Spanish conquest of the Muisca"
   }
 ]
