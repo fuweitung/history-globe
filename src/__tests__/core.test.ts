@@ -129,6 +129,8 @@ describe('border matching', () => {
     const horde = candidatesFor({ NAME: 'Khanate of the Golden Horde', SUBJECTO: 'Mongol Empire' }, 1279);
     expect(horde.viaName).toBe(true);
     expect(horde.list.map((p) => p.id)).toEqual(['golden-horde', 'mongol-empire']);
+    const congo = candidatesFor({ NAME: 'Belgian Congo', SUBJECTO: 'Belgium' }, 1914);
+    expect(congo.list.map((p) => p.id)).toEqual(['dr-congo', 'belgium']);
     // Overlords without includesSubjects keep the old behaviour.
     const hk = candidatesFor({ NAME: 'Hong Kong', SUBJECTO: 'United Kingdom of Great Britain and Ireland' }, 1914);
     expect(hk.list.map((p) => p.id)).not.toContain('british-empire');

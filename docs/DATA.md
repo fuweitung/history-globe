@@ -15,7 +15,7 @@ How the data is organised, and how to add or edit it. For the team workflow see 
 - **Routes & migrations:** 18 trade routes, voyages and migrations (Silk Road, Indian Ocean, trans-Saharan caravans, Viking and Polynesian voyages, Bantu and Austronesian expansions, Zheng He, the Manila galleons, the Atlantic slave trade…) appear on the map while they were in use. Each kind has its own colour *and* dash pattern; click one for its story, goods and civilisations involved. Toggle them in the Events menu. Lines show the general direction through key places, not exact paths. Data: `src/data/routes.json`.
 - **Population charts:** dated population figures from each civilisation’s Wikipedia infobox (60 civilisations have them), drawn with ranges as whiskers; overlaid in Compare.
 - **Pictures:** a freely licensed picture for almost every civilisation and person (Known-for pictures can be added with `--known`), taken from the matching Wikipedia article but only if the file is on Wikimedia Commons with a free licence; every picture shows its author and licence and links to its Commons page. Refresh with `npm run fetch-images` (add `--known` for Known-for items). Data: `src/data/images.json`.
-- **People:** 115 famous people (rulers, thinkers, scientists, writers, explorers…) appear on the map while they were alive, with a panel for each (dates checked against Wikipedia; uncertain dates marked “c.”). Civilisation panels list their famous people; search finds them; toggle them in the Events menu. Data: `src/data/people.json`.
+- **People:** 438 famous people (rulers, thinkers, scientists, writers, explorers…) appear on the map while they were alive, with a panel for each (dates checked against Wikipedia; uncertain dates marked “c.”). Civilisation panels list their famous people; search finds them; toggle them in the Events menu. Data: `src/data/people.json`.
 - **Stories:** 11 guided tours, from the first civilisations to the world wars. Each step sets the year, flies the map and highlights what it talks about; use ← / → or Next. Open them from the book icon. Links like `?story=rome&step=3` open a step. Data: `src/data/stories.json` (easy to add more).
 - **Shareable links:** the URL keeps the year and the selection, e.g. `?year=1760&polity=qing-china`.
 - **Mobile:** the panel becomes a bottom sheet. Drag or tap the handle to resize it.
@@ -35,7 +35,7 @@ history-globe/
     ├── types/index.ts      # Polity, Checklist, HistoryEvent, PolityLink (the data contract)
     ├── data/
     │   ├── polities/*.json # one file per civilisation (481, all with complete checklists and “Known for” items)
-    │   ├── events.json     # 432 events across 12,000 years, each new one with a source
+    │   ├── events.json     # 935 events across 12,000 years, each new one with a source
     │   └── links.json      #  links: succeeded / conquered / colonised / traded_with / allied_with
     ├── lib/
     │   ├── checklistSchema.ts  # the 10 categories: labels, order, guiding questions, completion maths
@@ -89,6 +89,12 @@ The border maps use their own names (for example "Manchu Empire" for the Qing). 
 - By default a name only matches snapshots within the civilisation's lifetime, ±10 years.
 - A name can also have **its own date window** with `borderNameYears`, e.g. `"borderNameYears": { "Kenya": [1895, 1963] }` on the British Empire. It overrides `borderYears` for that name only, so a colony links to its empire only while it was a colony.
 - When the same name is used in different eras ("China", "France", "Japan"), set `borderYears: [from, to]` to limit it to a strict window.
+- A territory that has **its own entry** links only to that entry, not to its overlord. For an empire made of such territories, set `"includesSubjects": true`: every territory whose overlord is this empire then also counts as part of it. Each territory keeps its own colour and label, and clicking it still opens its own entry. Three entries use this today:
+  - **Mongol Empire:** its khanates (Golden Horde, Ilkhanate, Chagatai Khanate, Yuan)
+  - **Belgium:** the Belgian Congo, 1908–1960
+  - **Kingdom of Denmark:** Greenland, a colony until 1953
+
+  It is opt-in because the source maps sometimes name the wrong overlord, for example Quebec under France on the 1783 and 1800 maps. Before turning it on, check every territory it would add.
 
 ### Add an event
 
@@ -121,7 +127,7 @@ Each civilisation is described with the same 43 elements in 10 categories (geogr
 
 ### Border fixes
 
-The source maps leave a few land shapes without a name, so nothing can link to them and they show blank (e.g. Switzerland on the 1994–2010 maps). `scripts/border-fixes.json` lists each one (map years, a point inside it, the name to give it, and why). `npm run apply-border-fixes` applies them; `npm run fetch-borders` runs it automatically after downloading.
+The source maps leave a few land shapes without a name, so nothing can link to them and they show blank (e.g. Switzerland on the 1994–2010 maps). `scripts/border-fixes.json` lists each one (map years, a point inside it, the name to give it, and why). A fix can also correct a shape's overlord with `subjectOf`. This applies when the source names the wrong overlord or none. For example, the Sultanate of Rum in 1279 was a vassal of the Ilkhanate, not of the whole Mongol Empire. Always give a source in `why`. `npm run apply-border-fixes` applies them; `npm run fetch-borders` runs it automatically after downloading.
 
 ### Small countries (`mapDot`)
 

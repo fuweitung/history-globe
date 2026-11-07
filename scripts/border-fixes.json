@@ -17,6 +17,8 @@
     { "years": [1880], "point": [48.9, 69.0], "name": "Russian Empire", "why": "Kolguyev Island, Russian." },
     { "years": [1930, 1938], "point": [40.2, 28.2], "name": "Saudi Arabia", "why": "Najd interior, Saudi-ruled since 1921." },
     { "years": [1920], "point": [40.2, 28.2], "name": "Hail", "why": "Rashidi Emirate of Ha’il until its conquest in 1921." },
-    { "years": [1279], "point": [32.5, 37.9], "name": "Seljuk Caliphate", "subjectOf": "Ilkhanate", "why": "The Seljuk Sultanate of Rum was an Ilkhanid vassal 1256–1308 (Wikipedia, Sultanate of Rum, checked 7 Nov 2026); the source map names the Mongol Empire, so the shape showed as the whole empire." }
+    { "years": [1279], "point": [32.5, 37.9], "name": "Seljuk Caliphate", "subjectOf": "Ilkhanate", "why": "The Seljuk Sultanate of Rum was an Ilkhanid vassal 1256–1308 (Wikipedia, Sultanate of Rum, checked 7 Nov 2026); the source map names the Mongol Empire, so the shape showed as the whole empire." },
+    { "years": [1945], "point": [23.0, -3.0], "name": "Zaire", "subjectOf": "Belgium", "why": "Still the Belgian Congo in 1945: a Belgian colony 1908–1960 (Wikipedia, Belgian Congo, checked 7 Nov 2026); the source map gives it no overlord." },
+    { "years": [1900], "point": [-42.0, 72.0], "name": "Greenland", "subjectOf": "Denmark", "why": "A Danish colony until 1953 (Wikipedia, History of Greenland, checked 7 Nov 2026); the 1878 and 1880 maps name Denmark, the 1900 map gives no overlord." }
   ]
 }
