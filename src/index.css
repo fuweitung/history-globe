@@ -90,6 +90,9 @@ body,
   .event-marker.is-now .event-dot { animation: none; }
 }
 
+/* Declutter (MapView.declutter): a person with no room is hidden until the map is zoomed in. */
+.person-marker.no-room { visibility: hidden; pointer-events: none; }
+
 /* ── MapLibre control theming ──────────────────────────────── */
 .maplibregl-ctrl-group {
   background: rgba(18, 26, 51, 0.85) !important;
@@ -173,6 +176,9 @@ body,
   outline: none;
   z-index: 5;
 }
+/* No room for the name here: show the icon only (the name is in the tooltip). */
+.person-marker.name-hidden:not(:hover):not(:focus-visible):not(.is-selected) .person-name { display: none; }
+.person-marker.name-hidden:not(:hover):not(:focus-visible):not(.is-selected) { min-width: 24px; justify-content: center; padding: 3px; }
 @media (max-width: 640px) {
   .person-marker .person-name { display: none; }
   .person-marker { min-width: 24px; justify-content: center; padding: 3px; }

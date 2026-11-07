@@ -199,6 +199,49 @@ const STYLE: StyleSpecification = {
   ],
 };
 
+// ── Declutter helpers ─────────────────────────────────────
+type Rect = { x: number; y: number; w: number; h: number };
+const overlaps = (a: Rect, b: Rect) => a.x < b.x + b.w && b.x < a.x + a.w && a.y < b.y + b.h && b.y < a.y + a.h;
+
+type MarkerEntry = { marker: maplibregl.Marker; el: HTMLButtonElement };
+
+function declutter(
+  map: maplibregl.Map,
+  personMarkers: Map<string, MarkerEntry & { fullW?: number; narrow?: boolean }>,
+  people: Person[],
+  sel: { selectedPersonId: string | null; selectedPolityId: string | null },
+) {
+  const covered = (el: HTMLElement) => el.classList.contains('maplibregl-marker-covered');
+  const placed: Rect[] = []; // people already shown
+  const narrow = window.matchMedia('(max-width: 640px)').matches; // phones show icons only (index.css)
+
+  // People: selected first, then those linked to the selected civilisation; a name shows only where it fits.
+  const rank = (p: Person) => (p.id === sel.selectedPersonId ? 2 : sel.selectedPolityId && p.polityIds.includes(sel.selectedPolityId) ? 1 : 0);
+  for (const p of [...people].sort((a, b) => rank(b) - rank(a))) {
+    const entry = personMarkers.get(p.id);
+    if (!entry || covered(entry.el)) continue;
+    if (entry.fullW === undefined || entry.narrow !== narrow) {
+      entry.el.classList.remove('name-hidden', 'no-room');
+      entry.fullW = entry.el.offsetWidth || 24;
+      entry.narrow = narrow;
+    }
+    const { x, y } = map.project(p.place as [number, number]);
+    const full: Rect = { x: x + 6, y: y - 12, w: entry.fullW, h: 24 };
+    const icon: Rect = { x: x + 6, y: y - 12, w: 24, h: 24 };
+    const must = rank(p) === 2;
+    if (must || !placed.some((r) => overlaps(r, full))) {
+      entry.el.classList.remove('name-hidden', 'no-room');
+      placed.push(full);
+    } else if (!placed.some((r) => overlaps(r, icon))) {
+      entry.el.classList.add('name-hidden');
+      entry.el.classList.remove('no-room');
+      placed.push(icon);
+    } else {
+      entry.el.classList.add('no-room');
+    }
+  }
+}
+
 export default function MapView({
   snapshot,
   selectedPolityId,
@@ -226,6 +269,12 @@ export default function MapView({
   const peopleMarkersRef = useRef(new Map<string, { marker: maplibregl.Marker; el: HTMLButtonElement }>());
   const routesRef = useRef(routes);
   routesRef.current = routes;
+  // Declutter state: what is on the map and what to prioritise.
+  const peopleRef = useRef(people);
+  peopleRef.current = people;
+  const selectionRef = useRef({ selectedPersonId, selectedPolityId });
+  selectionRef.current = { selectedPersonId, selectedPolityId };
+  const declutterRef = useRef<() => void>(() => {});
 
   // ── Create the map once ──────────────────────────────────
   useEffect(() => {
@@ -305,6 +354,8 @@ export default function MapView({
       handlersRef.current.onSelectBorder(props);
     });
     map.on('movestart', () => setTooltip(null));
+    map.on('moveend', () => declutterRef.current());
+    map.on('resize', () => declutterRef.current());
 
     return () => {
       setReady(false);
@@ -393,6 +444,7 @@ export default function MapView({
       entry.el.classList.toggle('is-selected', event.id === selectedEventId);
       entry.el.classList.toggle('is-now', weight > 0.95);
     }
+    declutterRef.current();
   }, [events, selectedEventId, ready]);
 
   // ── People markers ───────────────────────────────────────
@@ -431,7 +483,24 @@ export default function MapView({
       }
       entry.el.classList.toggle('is-selected', person.id === selectedPersonId);
     }
-  }, [people, selectedPersonId, ready]);
+    declutterRef.current();
+  }, [people, selectedPersonId, selectedPolityId, ready]);
+
+  // ── Declutter: give people names only where they fit ──
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!map || !ready) return;
+    let frame = 0;
+    const run = () => {
+      cancelAnimationFrame(frame);
+      frame = requestAnimationFrame(() =>
+        declutter(map, peopleMarkersRef.current, peopleRef.current, selectionRef.current),
+      );
+    };
+    declutterRef.current = run;
+    run();
+    return () => cancelAnimationFrame(frame);
+  }, [ready]);
 
   // ── Camera requests ──────────────────────────────────────
   useEffect(() => {
