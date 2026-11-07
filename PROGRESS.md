@@ -66,7 +66,9 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | Civilisations with famous people | `██████████████░░░░░░` 72% | 317 of 441; many prehistoric cultures have no known names |
 | Civilisations linked to others | `████████████████████` 100% | 441 of 441 (succeeded, conquered, traded with…) |
 | Civilisation pictures | `███████████████████░` 97% | 429 of 441 |
-| “Known for” pictures | `█████████░░░░░░░░░░░` 45% | 629 of 1383 items |
+| “Known for” pictures | `███████████░░░░░░░░░` 57% | 795 of 1383 items |
+| People pictures | `██████████████████░░` 92% | 375 of 408 |
+| Event pictures | `████████████████░░░░` 78% | 689 of 884 |
 
 Certainty of all items: 12493 confirmed · 6003 estimated · 467 disputed.
 Also in the app: 884 events · 408 people · 18 routes · 11 stories.

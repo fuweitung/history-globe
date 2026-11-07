@@ -106,6 +106,10 @@ const images = read('src/data/images.json');
 const knownTotal = polities.reduce((s, p) => s + (p.knownFor ?? []).length, 0);
 const knownPics = Object.values(images.known ?? {}).filter(Boolean).length;
 const polPics = polities.filter((p) => images.polities?.[p.id]).length;
+const peopleList = read('src/data/people.json');
+const eventList = read('src/data/events.json');
+const personPics = peopleList.filter((p) => p.image || images.people?.[p.id]).length;
+const eventPics = eventList.filter((e) => images.events?.[e.id]).length;
 const territory = read('src/data/territory.json');
 const onMap = polities.filter((p) => territory[p.id]).length;
 const covered = (list, key) => {
@@ -153,6 +157,8 @@ ${row('Civilisations with famous people', withPeople / polities.length, `${withP
 ${row('Civilisations linked to others', withLinks / polities.length, `${withLinks} of ${polities.length} (succeeded, conquered, traded with…)`)}
 ${row('Civilisation pictures', polPics / polities.length, `${polPics} of ${polities.length}`)}
 ${row('“Known for” pictures', knownTotal ? knownPics / knownTotal : 0, `${knownPics} of ${knownTotal} items`)}
+${row('People pictures', peopleList.length ? personPics / peopleList.length : 0, `${personPics} of ${peopleList.length}`)}
+${row('Event pictures', eventList.length ? eventPics / eventList.length : 0, `${eventPics} of ${eventList.length}`)}
 
 Certainty of all items: ${cert.confirmed} confirmed · ${cert.estimated} estimated · ${cert.disputed} disputed.
 Also in the app: ${read('src/data/events.json').length} events · ${read('src/data/people.json').length} people · ${read('src/data/routes.json').length} routes · ${read('src/data/stories.json').length} stories.
