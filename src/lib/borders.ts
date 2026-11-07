@@ -1,6 +1,6 @@
 import polylabel from 'polylabel';
 import type { Feature, FeatureCollection, Geometry, Polygon, Position } from 'geojson';
-import { POLITIES, isActive, yearsOutside } from './data';
+import { POLITIES, POLITY_BY_ID, isActive, yearsOutside } from './data';
 import type { PolitySummary as Polity } from '../types';
 
 /**
@@ -103,19 +103,32 @@ export function candidatesFor(
   // The polygon's own name wins; fall back to its overlord (for colonies/vassals).
   for (const [key, viaName] of [[props.NAME, true], [props.SUBJECTO, false]] as const) {
     if (!key) continue;
-    const list = NAME_INDEX.get(norm(key));
-    if (!list) continue;
-    const near = list.filter((p) => matchDistance(p, snapYear, key) !== Infinity);
-    if (near.length) return { list: near.sort((a, b) => matchDistance(a, snapYear, key) - matchDistance(b, snapYear, key)), viaName };
+    const near = nearMatches(key, snapYear);
+    if (!near.length) continue;
+    // An overlord with includesSubjects also owns subjects that have their own entry
+    // (e.g. the Mongol Empire and its khanates). It goes last, so the shape keeps
+    // its own colour and label, and a click opens its own civilisation.
+    if (viaName && props.SUBJECTO && norm(props.SUBJECTO) !== norm(key)) {
+      for (const p of nearMatches(props.SUBJECTO, snapYear)) if (p.includesSubjects && !near.includes(p)) near.push(p);
+    }
+    return { list: near, viaName };
   }
   return { list: [], viaName: false };
+}
+
+/** Polities that `name` can mean on the snapshot of `snapYear`, closest-in-time first. */
+function nearMatches(name: string, snapYear: number): Polity[] {
+  return (NAME_INDEX.get(norm(name)) ?? [])
+    .filter((p) => matchDistance(p, snapYear, name) !== Infinity)
+    .sort((a, b) => matchDistance(a, snapYear, name) - matchDistance(b, snapYear, name));
 }
 
 /** Pick the best polity for a clicked polygon at the slider's year. */
 export function resolvePolity(pids: string, year: number): Polity | null {
   const ids = pids.split('|').filter(Boolean);
   if (!ids.length) return null;
-  const list = POLITIES.filter((p) => ids.includes(p.id));
+  // Keep the shape's own order: its own civilisation first, an including overlord last.
+  const list = ids.map((id) => POLITY_BY_ID.get(id)).filter((p): p is Polity => !!p);
   return list.find((p) => isActive(p, year)) ?? list.sort((a, b) => yearsOutside(a, year) - yearsOutside(b, year))[0] ?? null;
 }
 

@@ -44,7 +44,13 @@ function owners(props, y) {
     const best = Math.min(...near.map((p) => distance(p, y, key)));
     const top = near.filter((p) => distance(p, y, key) === best);
     const active = top.filter((p) => yearsOutside(p, y) === 0);
-    return active.length ? active : [top[0]];
+    const own = active.length ? active : [top[0]];
+    // An overlord with includesSubjects also owns subjects that have their own entry.
+    if (key === props.NAME && props.SUBJECTO && norm(props.SUBJECTO) !== norm(key)) {
+      for (const p of index.get(norm(props.SUBJECTO)) ?? [])
+        if (p.includesSubjects && distance(p, y, props.SUBJECTO) !== Infinity && !own.includes(p)) own.push(p);
+    }
+    return own;
   }
   return [];
 }

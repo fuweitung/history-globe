@@ -181,6 +181,13 @@ export interface Polity {
    * be repeated in borderNames.
    */
   borderNameYears?: Record<string, [number, number | null]>;
+  /**
+   * Shapes that name this polity as their overlord (SUBJECTO) count as part of it
+   * even when they have their own entry, e.g. the Mongol Empire and its khanates.
+   * The shape keeps its own colour, label and click target. Opt-in, because the
+   * source maps' overlord field is not always reliable.
+   */
+  includesSubjects?: boolean;
   /** Too small for the border maps: draw a clickable dot at the capital while the polity exists. */
   mapDot?: boolean;
   /** English Wikipedia article title (for links and pictures). */
