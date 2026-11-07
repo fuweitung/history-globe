@@ -6104,7 +6104,8 @@
   "role": "thinker",
   "description": "Leader of the independence movement of Guinea-Bissau and Cape Verde.",
   "polityIds": [
-   "guinea-bissau"
+   "guinea-bissau",
+   "cabo-verde"
   ],
   "place": [
    -15.6,
@@ -7747,5 +7748,144 @@
   ],
   "wikiTitle": "Hans Egede",
   "source": "Wikipedia: Hans Egede"
+ },
+ {
+  "id": "seewoosagur-ramgoolam",
+  "name": "Seewoosagur Ramgoolam",
+  "born": 1900,
+  "died": 1985,
+  "role": "ruler",
+  "description": "Father of the nation of Mauritius.",
+  "polityIds": [
+   "mauritius",
+   "british-empire"
+  ],
+  "place": [
+   57.5,
+   -20.16
+  ],
+  "wikiTitle": "Seewoosagur Ramgoolam",
+  "source": "Wikipedia: Seewoosagur Ramgoolam"
+ },
+ {
+  "id": "france-albert-rene",
+  "name": "France-Albert René",
+  "born": 1935,
+  "died": 2019,
+  "role": "ruler",
+  "description": "President of Seychelles (1977–2004).",
+  "polityIds": [
+   "seychelles"
+  ],
+  "place": [
+   55.45,
+   -4.62
+  ],
+  "wikiTitle": "France-Albert René",
+  "source": "Wikipedia: France-Albert René"
+ },
+ {
+  "id": "cesaria-evora",
+  "name": "Cesária Évora",
+  "born": 1941,
+  "died": 2011,
+  "role": "artist",
+  "description": "The “barefoot diva” of Cape Verdean morna.",
+  "polityIds": [
+   "cabo-verde"
+  ],
+  "place": [
+   -24.99,
+   16.89
+  ],
+  "wikiTitle": "Cesária Évora",
+  "source": "Wikipedia: Cesária Évora"
+ },
+ {
+  "id": "john-garang",
+  "name": "John Garang",
+  "born": 1945,
+  "died": 2005,
+  "role": "military",
+  "description": "Leader of the SPLA rebels; died weeks after the 2005 peace deal.",
+  "polityIds": [
+   "sudan",
+   "south-sudan"
+  ],
+  "place": [
+   31.58,
+   4.85
+  ],
+  "wikiTitle": "John Garang",
+  "source": "Wikipedia: John Garang"
+ },
+ {
+  "id": "hammer-deroburt",
+  "name": "Hammer DeRoburt",
+  "born": 1922,
+  "died": 1992,
+  "role": "ruler",
+  "description": "Led Nauru to independence.",
+  "polityIds": [
+   "nauru"
+  ],
+  "place": [
+   166.92,
+   -0.55
+  ],
+  "wikiTitle": "Hammer DeRoburt",
+  "source": "Wikipedia: Hammer DeRoburt"
+ },
+ {
+  "id": "walter-lini",
+  "name": "Walter Lini",
+  "born": 1942,
+  "died": 1999,
+  "role": "ruler",
+  "description": "Anglican priest and first prime minister of Vanuatu.",
+  "polityIds": [
+   "vanuatu"
+  ],
+  "place": [
+   168.32,
+   -17.73
+  ],
+  "wikiTitle": "Walter Lini",
+  "source": "Wikipedia: Walter Lini"
+ },
+ {
+  "id": "rainier-iii",
+  "name": "Rainier III",
+  "born": 1923,
+  "died": 2005,
+  "role": "ruler",
+  "description": "Prince of Monaco (1949–2005); married Grace Kelly.",
+  "polityIds": [
+   "monaco"
+  ],
+  "place": [
+   7.42,
+   43.73
+  ],
+  "wikiTitle": "Rainier III, Prince of Monaco",
+  "source": "Wikipedia: Rainier III, Prince of Monaco"
+ },
+ {
+  "id": "pope-john-paul-ii",
+  "name": "Pope John Paul II",
+  "born": 1920,
+  "died": 2005,
+  "role": "religious",
+  "description": "Polish pope (1978–2005) who supported Solidarity in Poland.",
+  "polityIds": [
+   "vatican-city",
+   "poland-modern"
+  ],
+  "place": [
+   12.45,
+   41.9
+  ],
+  "wikiTitle": "Pope John Paul II",
+  "source": "Wikipedia: Pope John Paul II"
  }
 ]

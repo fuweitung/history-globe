@@ -1,0 +1,315 @@
+{
+  "id": "timor-leste",
+  "name": "Timor-Leste",
+  "era": "modern",
+  "region": "Southeast Asia",
+  "startYear": 2002,
+  "endYear": null,
+  "capital": "Dili",
+  "capitalCoords": [
+    125.57,
+    -8.56
+  ],
+  "summary": "The eastern half of Timor, a Portuguese colony for centuries; invaded by Indonesia in 1975, with a brutal occupation that killed a large share of the population; voted for independence in 1999 and became independent in 2002.",
+  "wikiTitle": "East Timor",
+  "borderNames": [],
+  "mapDot": true,
+  "color": "#c03a3a",
+  "knownFor": [
+    {
+      "label": "Tais",
+      "kind": "textile",
+      "note": "Hand-woven cloth."
+    },
+    {
+      "label": "Coffee",
+      "kind": "food",
+      "note": "Main farm export."
+    },
+    {
+      "label": "Xanana Gusmão",
+      "kind": "person",
+      "note": "Resistance leader and first president."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Eastern Timor island plus Oecusse; about 15,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "terrain": {
+        "value": "Mountainous.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "resources": {
+        "value": "Offshore oil and gas, coffee.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "disasters": {
+        "value": "Floods and landslides.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 1.4 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "urbanisation": {
+        "value": "Dili.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "disease": {
+        "value": "Malaria, malnutrition.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "migration": {
+        "value": "Mass displacement in 1999.",
+        "year": 1999,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Oil and gas fund; farming.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "tradeRoutes": {
+        "value": "Port of Dili.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "wealth": {
+        "value": "A lower-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "moneyAndTax": {
+        "value": "US dollar.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "inequality": {
+        "value": "Rural poverty.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A semi-presidential republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "keyRulers": {
+        "value": "Xanana Gusmão. José Ramos-Horta.",
+        "year": 2002,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "institutions": {
+        "value": "National Parliament.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "stability": {
+        "value": "Crisis (2006); attack on the president (2008).",
+        "year": 2006,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "eliteConflict": {
+        "value": "Rivalry among independence leaders.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Small defence force.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "majorWars": {
+        "value": "Indonesian occupation (1975–99).",
+        "year": 1975,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "territoryChange": {
+        "value": "Sea border with Australia (2018).",
+        "year": 2018,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "alliancesRivals": {
+        "value": "Joining ASEAN (2025).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "None of note.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "scienceEducation": {
+        "value": "National University (2000).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "openness": {
+        "value": "Open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "communicationTransport": {
+        "value": "Mountain roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "About 97% Catholic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "languageWriting": {
+        "value": "Tetum and Portuguese.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "artsArchitecture": {
+        "value": "Sacred houses (uma lulik).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "socialStructure": {
+        "value": "Many language groups.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "sharedIdentity": {
+        "value": "Shared resistance history.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "dailyLife": {
+        "value": "Rice, corn, coffee.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Indonesia, Australia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "ideasReligions": {
+        "value": "Catholicism became a symbol of resistance.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "colonisation": {
+        "value": "Portuguese colony until 1975; Indonesian occupation 1975–99.",
+        "year": 1975,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence referendum (1999).",
+        "year": 1999,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: East Timor"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: East Timor.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: East Timor"
+      }
+    }
+  }
+}

@@ -7424,7 +7424,8 @@
     "title": "South Sudan secedes",
     "description": "After decades of war, South Sudan becomes independent.",
     "relatedPolityIds": [
-      "sudan"
+      "sudan",
+      "south-sudan"
     ],
     "source": "Wikipedia: South Sudan"
   },
@@ -10719,5 +10720,449 @@
       "kingdom-of-denmark"
     ],
     "source": "Wikipedia: Greenland Home Rule Act"
+  },
+  {
+    "id": "bahrain-oil",
+    "year": 1932,
+    "lat": 26.03,
+    "lng": 50.55,
+    "type": "trade",
+    "title": "Oil found in Bahrain",
+    "description": "The first oil discovery on the Arab side of the Gulf.",
+    "relatedPolityIds": [
+      "british-empire"
+    ],
+    "source": "Wikipedia: Bahrain Petroleum Company"
+  },
+  {
+    "id": "bahrain-independence",
+    "year": 1971,
+    "lat": 26.23,
+    "lng": 50.58,
+    "type": "culture",
+    "title": "Bahrain becomes independent",
+    "description": "The British protectorate ends.",
+    "relatedPolityIds": [
+      "bahrain",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Bahrain"
+  },
+  {
+    "id": "bahrain-uprising-2011",
+    "year": 2011,
+    "lat": 26.23,
+    "lng": 50.58,
+    "type": "war",
+    "title": "Bahraini uprising",
+    "description": "Pro-democracy protests are put down with help from Saudi troops.",
+    "relatedPolityIds": [
+      "bahrain",
+      "saudi-arabia"
+    ],
+    "source": "Wikipedia: Bahraini uprising of 2011"
+  },
+  {
+    "id": "maldives-independence",
+    "year": 1965,
+    "lat": 4.18,
+    "lng": 73.51,
+    "type": "culture",
+    "title": "Maldives becomes independent",
+    "description": "The British protectorate ends; the sultanate becomes a republic in 1968.",
+    "relatedPolityIds": [
+      "maldives",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Maldives"
+  },
+  {
+    "id": "maldives-underwater-cabinet",
+    "year": 2009,
+    "lat": 4.18,
+    "lng": 73.51,
+    "type": "culture",
+    "title": "Underwater cabinet meeting",
+    "description": "Ministers meet in scuba gear to warn about rising seas.",
+    "relatedPolityIds": [
+      "maldives"
+    ],
+    "source": "Wikipedia: Mohamed Nasheed"
+  },
+  {
+    "id": "mauritius-independence",
+    "year": 1968,
+    "lat": -20.16,
+    "lng": 57.5,
+    "type": "culture",
+    "title": "Mauritius becomes independent",
+    "description": "Independence from Britain under Seewoosagur Ramgoolam.",
+    "relatedPolityIds": [
+      "mauritius",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Mauritius"
+  },
+  {
+    "id": "seychelles-independence",
+    "year": 1976,
+    "lat": -4.62,
+    "lng": 55.45,
+    "type": "culture",
+    "title": "Seychelles becomes independent",
+    "description": "Independence from Britain; a coup follows in 1977.",
+    "relatedPolityIds": [
+      "seychelles",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Seychelles"
+  },
+  {
+    "id": "comoros-independence",
+    "year": 1975,
+    "lat": -11.7,
+    "lng": 43.26,
+    "type": "culture",
+    "title": "Comoros declares independence",
+    "description": "Three islands leave France; Mayotte votes to stay French.",
+    "relatedPolityIds": [
+      "comoros",
+      "french-colonial-empire"
+    ],
+    "source": "Wikipedia: Comoros"
+  },
+  {
+    "id": "cabo-verde-independence",
+    "year": 1975,
+    "lat": 14.93,
+    "lng": -23.51,
+    "type": "culture",
+    "title": "Cabo Verde becomes independent",
+    "description": "Independence from Portugal after the Carnation Revolution.",
+    "relatedPolityIds": [
+      "cabo-verde",
+      "portuguese-empire"
+    ],
+    "source": "Wikipedia: Cape Verde"
+  },
+  {
+    "id": "sao-tome-independence",
+    "year": 1975,
+    "lat": 0.34,
+    "lng": 6.73,
+    "type": "culture",
+    "title": "São Tomé and Príncipe becomes independent",
+    "description": "Independence from Portugal.",
+    "relatedPolityIds": [
+      "sao-tome-and-principe",
+      "portuguese-empire"
+    ],
+    "source": "Wikipedia: São Tomé and Príncipe"
+  },
+  {
+    "id": "timor-referendum",
+    "year": 1999,
+    "lat": -8.56,
+    "lng": 125.57,
+    "type": "war",
+    "title": "East Timor votes for independence",
+    "description": "Nearly 80% vote to leave Indonesia; militias destroy much of the country before UN troops arrive.",
+    "relatedPolityIds": [
+      "indonesia",
+      "timor-leste"
+    ],
+    "source": "Wikipedia: 1999 East Timorese independence referendum"
+  },
+  {
+    "id": "timor-leste-independence",
+    "year": 2002,
+    "lat": -8.56,
+    "lng": 125.57,
+    "type": "culture",
+    "title": "Timor-Leste becomes independent",
+    "description": "The first new sovereign state of the 21st century.",
+    "relatedPolityIds": [
+      "timor-leste"
+    ],
+    "source": "Wikipedia: East Timor"
+  },
+  {
+    "id": "south-sudan-civil-war",
+    "year": 2013,
+    "lat": 4.85,
+    "lng": 31.58,
+    "type": "war",
+    "title": "South Sudanese Civil War",
+    "description": "Fighting between forces loyal to Salva Kiir and Riek Machar (2013–18) kills about 400,000.",
+    "relatedPolityIds": [
+      "south-sudan"
+    ],
+    "source": "Wikipedia: South Sudanese Civil War"
+  },
+  {
+    "id": "macau-founded",
+    "year": 1557,
+    "lat": 22.2,
+    "lng": 113.54,
+    "type": "trade",
+    "title": "Portuguese settle in Macau",
+    "description": "Ming officials let Portuguese traders settle on the peninsula.",
+    "relatedPolityIds": [
+      "macau",
+      "ming-china",
+      "portuguese-empire"
+    ],
+    "source": "Wikipedia: Portuguese Macau"
+  },
+  {
+    "id": "macau-handover",
+    "year": 1999,
+    "lat": 22.2,
+    "lng": 113.54,
+    "type": "culture",
+    "title": "Macau returns to China",
+    "description": "Portugal hands Macau to China as a Special Administrative Region.",
+    "relatedPolityIds": [
+      "macau",
+      "peoples-republic-of-china",
+      "portugal-modern"
+    ],
+    "source": "Wikipedia: Transfer of sovereignty over Macau"
+  },
+  {
+    "id": "guadalcanal-campaign",
+    "year": 1942,
+    "lat": -9.43,
+    "lng": 159.97,
+    "type": "war",
+    "title": "Guadalcanal campaign",
+    "description": "US and Allied forces defeat Japan in a six-month battle (1942–43).",
+    "relatedPolityIds": [
+      "united-states",
+      "empire-of-japan",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Guadalcanal campaign"
+  },
+  {
+    "id": "solomons-independence",
+    "year": 1978,
+    "lat": -9.43,
+    "lng": 159.97,
+    "type": "culture",
+    "title": "Solomon Islands becomes independent",
+    "description": "Independence from Britain.",
+    "relatedPolityIds": [
+      "solomon-islands",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Solomon Islands"
+  },
+  {
+    "id": "vanuatu-independence",
+    "year": 1980,
+    "lat": -17.73,
+    "lng": 168.32,
+    "type": "culture",
+    "title": "Vanuatu becomes independent",
+    "description": "The New Hebrides condominium ends.",
+    "relatedPolityIds": [
+      "vanuatu",
+      "british-empire",
+      "france-republic"
+    ],
+    "source": "Wikipedia: Vanuatu"
+  },
+  {
+    "id": "bikini-tests",
+    "year": 1946,
+    "lat": 11.6,
+    "lng": 165.38,
+    "type": "war",
+    "title": "Nuclear tests at Bikini Atoll",
+    "description": "The US begins nuclear tests; islanders are moved and never fully return.",
+    "relatedPolityIds": [
+      "united-states"
+    ],
+    "source": "Wikipedia: Nuclear testing at Bikini Atoll"
+  },
+  {
+    "id": "castle-bravo",
+    "year": 1954,
+    "lat": 11.69,
+    "lng": 165.27,
+    "type": "disaster",
+    "title": "Castle Bravo test",
+    "description": "The largest US nuclear test spreads fallout over inhabited atolls.",
+    "relatedPolityIds": [
+      "united-states"
+    ],
+    "source": "Wikipedia: Castle Bravo"
+  },
+  {
+    "id": "compact-of-free-association",
+    "year": 1986,
+    "lat": 7.09,
+    "lng": 171.38,
+    "type": "culture",
+    "title": "Compact of Free Association",
+    "description": "The Marshall Islands and Micronesia become self-governing in free association with the US.",
+    "relatedPolityIds": [
+      "marshall-islands",
+      "micronesia",
+      "united-states"
+    ],
+    "source": "Wikipedia: Compact of Free Association"
+  },
+  {
+    "id": "palau-independence",
+    "year": 1994,
+    "lat": 7.5,
+    "lng": 134.62,
+    "type": "culture",
+    "title": "Palau becomes independent",
+    "description": "The last UN Trust Territory ends.",
+    "relatedPolityIds": [
+      "palau",
+      "united-states"
+    ],
+    "source": "Wikipedia: Palau"
+  },
+  {
+    "id": "battle-of-peleliu",
+    "year": 1944,
+    "lat": 7,
+    "lng": 134.24,
+    "type": "war",
+    "title": "Battle of Peleliu",
+    "description": "A costly US assault on a Japanese-held island in Palau.",
+    "relatedPolityIds": [
+      "united-states",
+      "empire-of-japan"
+    ],
+    "source": "Wikipedia: Battle of Peleliu"
+  },
+  {
+    "id": "nauru-independence",
+    "year": 1968,
+    "lat": -0.55,
+    "lng": 166.92,
+    "type": "culture",
+    "title": "Nauru becomes independent",
+    "description": "The smallest republic takes over its phosphate industry.",
+    "relatedPolityIds": [
+      "nauru",
+      "australia"
+    ],
+    "source": "Wikipedia: Nauru"
+  },
+  {
+    "id": "battle-of-tarawa",
+    "year": 1943,
+    "lat": 1.35,
+    "lng": 172.93,
+    "type": "war",
+    "title": "Battle of Tarawa",
+    "description": "US Marines capture the atoll in three days of heavy fighting.",
+    "relatedPolityIds": [
+      "united-states",
+      "empire-of-japan"
+    ],
+    "source": "Wikipedia: Battle of Tarawa"
+  },
+  {
+    "id": "kiribati-independence",
+    "year": 1979,
+    "lat": 1.33,
+    "lng": 173.03,
+    "type": "culture",
+    "title": "Kiribati becomes independent",
+    "description": "The Gilbert Islands leave British rule.",
+    "relatedPolityIds": [
+      "kiribati",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Kiribati"
+  },
+  {
+    "id": "tuvalu-independence",
+    "year": 1978,
+    "lat": -8.52,
+    "lng": 179.19,
+    "type": "culture",
+    "title": "Tuvalu becomes independent",
+    "description": "The Ellice Islands become Tuvalu.",
+    "relatedPolityIds": [
+      "tuvalu",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Tuvalu"
+  },
+  {
+    "id": "grimaldi-take-monaco",
+    "year": 1297,
+    "yearApproximate": true,
+    "lat": 43.73,
+    "lng": 7.42,
+    "type": "war",
+    "title": "Grimaldis seize Monaco",
+    "description": "François Grimaldi, disguised as a monk, takes the fortress.",
+    "relatedPolityIds": [
+      "monaco"
+    ],
+    "source": "Wikipedia: House of Grimaldi"
+  },
+  {
+    "id": "monte-carlo-casino",
+    "year": 1863,
+    "lat": 43.74,
+    "lng": 7.43,
+    "type": "trade",
+    "title": "Monte Carlo casino opens",
+    "description": "Gambling makes Monaco rich.",
+    "relatedPolityIds": [
+      "monaco"
+    ],
+    "source": "Wikipedia: Monte Carlo Casino"
+  },
+  {
+    "id": "san-marino-statutes",
+    "year": 1600,
+    "lat": 43.94,
+    "lng": 12.45,
+    "type": "culture",
+    "title": "San Marino’s statutes",
+    "description": "Written laws that still form part of its constitution.",
+    "relatedPolityIds": [
+      "san-marino"
+    ],
+    "source": "Wikipedia: Constitution of San Marino"
+  },
+  {
+    "id": "lateran-treaty",
+    "year": 1929,
+    "lat": 41.9,
+    "lng": 12.45,
+    "type": "culture",
+    "title": "Lateran Treaty",
+    "description": "Italy recognises Vatican City as an independent state.",
+    "relatedPolityIds": [
+      "vatican-city",
+      "italy"
+    ],
+    "source": "Wikipedia: Lateran Treaty"
+  },
+  {
+    "id": "second-vatican-council",
+    "year": 1962,
+    "lat": 41.9,
+    "lng": 12.45,
+    "type": "culture",
+    "title": "Second Vatican Council",
+    "description": "Major reforms of the Catholic Church (1962–65), including Mass in local languages.",
+    "relatedPolityIds": [
+      "vatican-city"
+    ],
+    "source": "Wikipedia: Second Vatican Council"
   }
 ]

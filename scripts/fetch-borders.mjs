@@ -24,7 +24,8 @@ const YEARS = [
   -10000, -8000, -5000, -4000, -3000, -2000, -1500, -1000, -700, -500, -400, -323, -300, -200, -100, -1,
   100, 200, 300, 400, 500, 600, 700, 800, 900, 1000, 1100, 1200, 1279, 1300, 1400, 1492,
   1500, 1530, 1600, 1650, 1700, 1715, 1783, 1800, 1815, 1878, 1880, 1900, 1914, 1920, 1930, 1938, 1945, 1960, 1994, 2000, 2010];
-const LAND = 'https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_land.geojson';
+// 1:50m land (finer coasts and small islands); coordinates are rounded to ~100 m after download.
+const LAND = 'https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_50m_land.geojson';
 
 const exists = (p) => access(p).then(() => true, () => false);
 
@@ -53,7 +54,13 @@ for (const y of YEARS) {
   }
 }
 try {
-  const status = await download(LAND, join(root, 'public', 'data', 'land.geojson'));
+  const landPath = join(root, 'public', 'data', 'land.geojson');
+  const status = await download(LAND, landPath);
+  if (fresh.has(landPath)) {
+    const mapshaper = (await import('mapshaper')).default;
+    const out = await mapshaper.applyCommands('-i in.json -o out.json precision=0.001 format=geojson', { 'in.json': await readFile(landPath, 'utf8') });
+    await writeFile(landPath, String(out['out.json']) + '\n');
+  }
   console.log(`  ✓ land outlines  ${status}`);
 } catch (e) {
   console.warn(`  ✗ land outlines  ${e.message}`);

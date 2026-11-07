@@ -1,0 +1,315 @@
+{
+  "id": "macau",
+  "name": "Macau",
+  "era": "early_modern",
+  "region": "East Asia",
+  "startYear": 1557,
+  "endYear": null,
+  "capital": "Macau",
+  "capitalCoords": [
+    113.54,
+    22.2
+  ],
+  "summary": "A Portuguese trading post on the south China coast from 1557, the first and last European colony in China; returned to China in 1999 as a Special Administrative Region, now a world gambling centre.",
+  "wikiTitle": "Macau",
+  "borderNames": [],
+  "mapDot": true,
+  "color": "#3a8a4a",
+  "knownFor": [
+    {
+      "label": "Ruins of St Paul’s",
+      "kind": "monument",
+      "note": "Façade of a 1600s church."
+    },
+    {
+      "label": "Egg tarts",
+      "kind": "food",
+      "note": "Portuguese-style pastéis de nata."
+    },
+    {
+      "label": "Casinos",
+      "kind": "idea",
+      "note": "Largest gambling centre in the world."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "South China coast near Hong Kong; about 33 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "terrain": {
+        "value": "Peninsula and reclaimed islands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "climate": {
+        "value": "Subtropical with typhoons.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "resources": {
+        "value": "Its harbour and position.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "disasters": {
+        "value": "Typhoons.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 690,000; one of the densest places on Earth.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "urbanisation": {
+        "value": "Entirely urban.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "disease": {
+        "value": "Good health care.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "migration": {
+        "value": "Mainland Chinese workers and tourists.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Gambling and tourism; trade in the past.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "tradeRoutes": {
+        "value": "Portuguese trade between China, Japan and Europe (1500s–1600s).",
+        "year": 1570,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "wealth": {
+        "value": "One of the highest incomes per person.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "moneyAndTax": {
+        "value": "Macanese pataca.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "inequality": {
+        "value": "Large gaps.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Portuguese administration until 1999; Special Administrative Region of China since.",
+        "year": 1999,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "keyRulers": {
+        "value": "Portuguese governors; Chief Executives since 1999 (Edmund Ho).",
+        "year": 1999,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "succession": {
+        "value": "Chosen by a committee and approved by Beijing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "institutions": {
+        "value": "Basic Law (1999); Legislative Assembly.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "stability": {
+        "value": "1-2-3 incident riots (1966).",
+        "year": 1966,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "eliteConflict": {
+        "value": "Casino owners and pro-Beijing elites.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Chinese garrison since 1999.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "majorWars": {
+        "value": "Dutch attack repelled (1622).",
+        "year": 1622,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "territoryChange": {
+        "value": "Land reclamation more than doubled its area.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "alliancesRivals": {
+        "value": "Part of China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "None of note.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "scienceEducation": {
+        "value": "University of Macau.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "openness": {
+        "value": "An open port.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "communicationTransport": {
+        "value": "Bridge to Hong Kong and Zhuhai (2018).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Chinese folk religion and Buddhism; Catholic minority.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "languageWriting": {
+        "value": "Cantonese and Portuguese.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "artsArchitecture": {
+        "value": "Historic Centre (World Heritage).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "socialStructure": {
+        "value": "Chinese majority; Macanese community.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "sharedIdentity": {
+        "value": "Mixed Chinese–Portuguese heritage.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "dailyLife": {
+        "value": "Macanese cuisine.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Zhuhai (mainland China), Hong Kong.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "ideasReligions": {
+        "value": "Jesuit mission base for China and Japan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "colonisation": {
+        "value": "Portuguese (1557–1999).",
+        "year": 1557,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Portuguese settlement (1557).",
+        "year": 1557,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "peakPeriod": {
+        "value": "Japan trade golden age (1570–1639).",
+        "year": 1600,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "declineSignals": {
+        "value": "Lost Japan trade (1639); overtaken by Hong Kong.",
+        "year": 1639,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "outcome": {
+        "value": "Part of China since 1999 with its own system until 2049.",
+        "year": 1999,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Macau.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Macau"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Macau"
+      }
+    }
+  }
+}

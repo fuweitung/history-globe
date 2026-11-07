@@ -1,0 +1,315 @@
+{
+  "id": "vatican-city",
+  "name": "Vatican City",
+  "era": "modern",
+  "region": "Southern Europe",
+  "startYear": 1929,
+  "endYear": null,
+  "capital": "Vatican City",
+  "capitalCoords": [
+    12.45,
+    41.9
+  ],
+  "summary": "The smallest country in the world, created in 1929 by the Lateran Treaty between Italy and the Pope after the Papal States were lost in 1870; seat of the Catholic Church.",
+  "wikiTitle": "Vatican City",
+  "borderNames": [],
+  "mapDot": true,
+  "color": "#e0c03a",
+  "knownFor": [
+    {
+      "label": "St Peter’s Basilica",
+      "kind": "monument",
+      "note": "Largest church of the Renaissance."
+    },
+    {
+      "label": "Sistine Chapel",
+      "kind": "art",
+      "note": "Michelangelo’s ceiling."
+    },
+    {
+      "label": "Swiss Guard",
+      "kind": "troops",
+      "note": "The Pope’s guard."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Inside Rome; 0.44 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "terrain": {
+        "value": "A walled hill.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "climate": {
+        "value": "Mediterranean.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "resources": {
+        "value": "Donations, museums.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "disasters": {
+        "value": "Few.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 800, mostly clergy.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "urbanisation": {
+        "value": "Entirely urban.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "disease": {
+        "value": "Excellent health care.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "migration": {
+        "value": "Many residents are foreign.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Donations, museum tickets, stamps.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "tradeRoutes": {
+        "value": "Customs union with its larger neighbour.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "wealth": {
+        "value": "Funded by the worldwide Church.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "moneyAndTax": {
+        "value": "Euro.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "inequality": {
+        "value": "Very wealthy residents.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "An absolute elective monarchy (the Pope).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "keyRulers": {
+        "value": "Pius XI. John Paul II. Francis. Leo XIV.",
+        "year": 1929,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "succession": {
+        "value": "Popes elected by cardinals in a conclave.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "institutions": {
+        "value": "Roman Curia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "stability": {
+        "value": "Stable.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "eliteConflict": {
+        "value": "Factions within the Curia.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Vatican City"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Ceremonial guards; defence by its neighbour.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "majorWars": {
+        "value": "Neutral in the Second World War.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "territoryChange": {
+        "value": "None in modern times.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "alliancesRivals": {
+        "value": "Diplomatic ties with most countries.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "None of note.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "scienceEducation": {
+        "value": "Schools; universities abroad.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "openness": {
+        "value": "Open borders with the EU.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "communicationTransport": {
+        "value": "Roads and rail of its neighbour.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Seat of the Catholic Church.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "languageWriting": {
+        "value": "Italian and Latin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "artsArchitecture": {
+        "value": "Renaissance and Baroque art.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "socialStructure": {
+        "value": "Clergy, Swiss Guards and staff.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "sharedIdentity": {
+        "value": "Pride in long independence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "dailyLife": {
+        "value": "Most staff live in Rome.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Italy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "ideasReligions": {
+        "value": "Catholic teaching worldwide.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "colonisation": {
+        "value": "Successor to the Papal States.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Lateran Treaty (1929).",
+        "year": 1929,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "declineSignals": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Vatican City.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vatican City"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Vatican City"
+      }
+    }
+  }
+}

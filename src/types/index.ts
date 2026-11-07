@@ -181,6 +181,8 @@ export interface Polity {
    * be repeated in borderNames.
    */
   borderNameYears?: Record<string, [number, number | null]>;
+  /** Too small for the border maps: draw a clickable dot at the capital while the polity exists. */
+  mapDot?: boolean;
   /** English Wikipedia article title (for links and pictures). */
   wikiTitle?: string;
   /** Brand colour used for the map highlight. */

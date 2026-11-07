@@ -3266,5 +3266,201 @@
     "relation": "succeeded",
     "year": null,
     "note": "Most Greenlanders are Inuit (Kalaallit)."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "bahrain",
+    "relation": "colonised",
+    "year": 1971,
+    "note": "British protectorate (1861–1971)."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "maldives",
+    "relation": "colonised",
+    "year": 1965,
+    "note": "British protectorate (1887–1965)."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "mauritius",
+    "relation": "colonised",
+    "year": 1968,
+    "note": "British colony (1810–1968)."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "seychelles",
+    "relation": "colonised",
+    "year": 1976,
+    "note": "British colony (1814–1976)."
+  },
+  {
+    "fromPolityId": "french-colonial-empire",
+    "toPolityId": "comoros",
+    "relation": "colonised",
+    "year": 1975,
+    "note": "French colony until 1975."
+  },
+  {
+    "fromPolityId": "portuguese-empire",
+    "toPolityId": "cabo-verde",
+    "relation": "colonised",
+    "year": 1975,
+    "note": "Portuguese colony (1462–1975)."
+  },
+  {
+    "fromPolityId": "guinea-bissau",
+    "toPolityId": "cabo-verde",
+    "relation": "allied_with",
+    "year": 1975,
+    "note": "One independence party (PAIGC) for both until 1980."
+  },
+  {
+    "fromPolityId": "portuguese-empire",
+    "toPolityId": "sao-tome-and-principe",
+    "relation": "colonised",
+    "year": 1975,
+    "note": "Portuguese colony until 1975."
+  },
+  {
+    "fromPolityId": "portuguese-empire",
+    "toPolityId": "timor-leste",
+    "relation": "succeeded",
+    "year": 2002,
+    "note": "Portuguese Timor until 1975."
+  },
+  {
+    "fromPolityId": "indonesia",
+    "toPolityId": "timor-leste",
+    "relation": "conquered",
+    "year": 2002,
+    "note": "Indonesian occupation (1975–99)."
+  },
+  {
+    "fromPolityId": "sudan",
+    "toPolityId": "south-sudan",
+    "relation": "succeeded",
+    "year": 2011,
+    "note": "Independence from Sudan (2011)."
+  },
+  {
+    "fromPolityId": "ming-china",
+    "toPolityId": "macau",
+    "relation": "traded_with",
+    "year": 1557,
+    "note": "Ming officials allowed the Portuguese to settle."
+  },
+  {
+    "fromPolityId": "portuguese-empire",
+    "toPolityId": "macau",
+    "relation": "colonised",
+    "year": 1999,
+    "note": "Portuguese administration (1557–1999)."
+  },
+  {
+    "fromPolityId": "peoples-republic-of-china",
+    "toPolityId": "macau",
+    "relation": "allied_with",
+    "year": 1999,
+    "note": "Sovereignty returned to China in 1999 as a Special Administrative Region."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "solomon-islands",
+    "relation": "colonised",
+    "year": 1978,
+    "note": "British protectorate (1893–1978)."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "vanuatu",
+    "relation": "colonised",
+    "year": 1980,
+    "note": "British–French condominium (1906–80)."
+  },
+  {
+    "fromPolityId": "france-republic",
+    "toPolityId": "vanuatu",
+    "relation": "colonised",
+    "year": 1980,
+    "note": "British–French condominium (1906–80)."
+  },
+  {
+    "fromPolityId": "united-states",
+    "toPolityId": "palau",
+    "relation": "allied_with",
+    "year": 1994,
+    "note": "Compact of Free Association."
+  },
+  {
+    "fromPolityId": "united-states",
+    "toPolityId": "micronesia",
+    "relation": "allied_with",
+    "year": 1986,
+    "note": "Compact of Free Association."
+  },
+  {
+    "fromPolityId": "united-states",
+    "toPolityId": "marshall-islands",
+    "relation": "allied_with",
+    "year": 1986,
+    "note": "Compact of Free Association; nuclear tests 1946–58."
+  },
+  {
+    "fromPolityId": "australia",
+    "toPolityId": "nauru",
+    "relation": "colonised",
+    "year": 1968,
+    "note": "Australian-run mandate (1920–68)."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "kiribati",
+    "relation": "colonised",
+    "year": 1979,
+    "note": "British Gilbert Islands until 1979."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "tuvalu",
+    "relation": "colonised",
+    "year": 1978,
+    "note": "British Ellice Islands until 1978."
+  },
+  {
+    "fromPolityId": "kiribati",
+    "toPolityId": "tuvalu",
+    "relation": "allied_with",
+    "year": 1979,
+    "note": "Once one colony, the Gilbert and Ellice Islands."
+  },
+  {
+    "fromPolityId": "kingdom-of-france",
+    "toPolityId": "monaco",
+    "relation": "allied_with",
+    "year": 1641,
+    "note": "French protectorate (1641–1814)."
+  },
+  {
+    "fromPolityId": "italian-states",
+    "toPolityId": "san-marino",
+    "relation": "allied_with",
+    "year": 1600,
+    "note": "An independent republic among the Italian states."
+  },
+  {
+    "fromPolityId": "italian-states",
+    "toPolityId": "vatican-city",
+    "relation": "succeeded",
+    "year": 1929,
+    "note": "Successor to the Papal States (lost in 1870)."
+  },
+  {
+    "fromPolityId": "italy",
+    "toPolityId": "vatican-city",
+    "relation": "allied_with",
+    "year": 1929,
+    "note": "Lateran Treaty (1929)."
   }
 ]

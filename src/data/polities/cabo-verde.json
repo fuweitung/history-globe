@@ -1,0 +1,315 @@
+{
+  "id": "cabo-verde",
+  "name": "Cabo Verde",
+  "era": "modern",
+  "region": "West Africa",
+  "startYear": 1975,
+  "endYear": null,
+  "capital": "Praia",
+  "capitalCoords": [
+    -23.51,
+    14.93
+  ],
+  "summary": "Atlantic islands off West Africa, uninhabited until the Portuguese arrived in 1456; a hub of the Atlantic slave trade, independent in 1975, and now one of Africa’s most stable democracies.",
+  "wikiTitle": "Cape Verde",
+  "borderNames": [],
+  "mapDot": true,
+  "color": "#3a5ab0",
+  "knownFor": [
+    {
+      "label": "Morna",
+      "kind": "art",
+      "note": "Sad songs made famous by Cesária Évora."
+    },
+    {
+      "label": "Cidade Velha",
+      "kind": "monument",
+      "note": "First European colonial town in the tropics."
+    },
+    {
+      "label": "Cachupa",
+      "kind": "food",
+      "note": "Corn and bean stew."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Atlantic Ocean west of Senegal; about 4,030 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "terrain": {
+        "value": "Dry volcanic islands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "climate": {
+        "value": "Dry tropical; droughts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "resources": {
+        "value": "Fish, tourism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "disasters": {
+        "value": "Famines in droughts (1940s).",
+        "year": 1941,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 600,000; more live abroad.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "urbanisation": {
+        "value": "Most people live in and around the capital.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "disease": {
+        "value": "Good basic health care; rising diabetes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "migration": {
+        "value": "Large diaspora in the US, Portugal and elsewhere.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Tourism, remittances, fishing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "tradeRoutes": {
+        "value": "Shipping and flights.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "wealth": {
+        "value": "A lower-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "moneyAndTax": {
+        "value": "Cape Verdean escudo.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cape Verde"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "keyRulers": {
+        "value": "Aristides Pereira. Pedro Pires.",
+        "year": 1975,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "institutions": {
+        "value": "National Assembly.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "stability": {
+        "value": "Peaceful move to multi-party democracy (1991).",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "eliteConflict": {
+        "value": "Two main parties.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Small forces or coast guard.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "majorWars": {
+        "value": "None since independence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "territoryChange": {
+        "value": "None since independence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "alliancesRivals": {
+        "value": "Close to Portugal; linked to Guinea-Bissau until 1980.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "None of note.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "scienceEducation": {
+        "value": "Schools; a small national university.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "openness": {
+        "value": "Open.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "communicationTransport": {
+        "value": "Ferries and flights between islands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Mostly Catholic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "languageWriting": {
+        "value": "Portuguese; Cape Verdean Creole.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "artsArchitecture": {
+        "value": "Colonial towns.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "socialStructure": {
+        "value": "Mostly of mixed African and Portuguese descent.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "sharedIdentity": {
+        "value": "Island identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "dailyLife": {
+        "value": "Cachupa; music.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Senegal, Mauritania.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "ideasReligions": {
+        "value": "Christianity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "colonisation": {
+        "value": "Portuguese colony (1462–1975).",
+        "year": 1462,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1975).",
+        "year": 1975,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "declineSignals": {
+        "value": "None that define the country as a whole.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Cape Verde.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Cape Verde"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cape Verde"
+      }
+    }
+  }
+}
