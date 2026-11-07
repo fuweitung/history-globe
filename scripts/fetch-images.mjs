@@ -2,7 +2,8 @@
 // clear match exists) from Wikipedia/Wikimedia Commons, with author and licence for credits.
 // Only files hosted on Commons are used: English-Wikipedia-only files may be non-free.
 // Output: src/data/images.json  →  { polities: {id: Img}, known: {"polityId|label": Img} }
-// Run: npm run fetch-images   (add --known to also look up Known-for items, and --retry for a second, wider search)
+// Run: npm run fetch-images   (add --known to also look up Known-for items, and --retry for a second, wider search;
+//      --people and --events add the lead picture of each person's and event's Wikipedia article)
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -82,6 +83,9 @@ async function commonsInfos(files) {
   return out;
 }
 
+// A flag, coat of arms, seal or logo only fits an item that is itself an emblem.
+const emblemMismatch = (key, pic) => /^(Flag_of|Coat_of_arms|Seal_of|Emblem_of)|logo|wordmark/i.test(pic.file) && !/flag|arms|emblem|seal|logo/i.test(key.split('|')[1] ?? '');
+
 /** Picture for each article title (batched). */
 export async function picturesFor(titles) {
   const files = await pageImages(titles);
@@ -136,7 +140,7 @@ if (withKnown) {
   const { out: pics } = await picturesFor([...new Set(Object.values(matches).filter(Boolean))]);
   const review = [];
   for (const [key, title] of Object.entries(matches)) {
-    out.known[key] = title ? (pics[title] ?? null) : null;
+    out.known[key] = title && pics[title] && !emblemMismatch(key, pics[title]) ? pics[title] : null;
     if (pics[title]) review.push(`${key} → ${title}`);
   }
   console.log(`Known-for pictures: ${Object.values(out.known).filter(Boolean).length}`);
@@ -189,7 +193,7 @@ if (withKnown) {
           }
         }
         tried[key] = found ? (found.article ?? `File:${found.pic.file}`) : null;
-        if (found) {
+        if (found && !emblemMismatch(key, found.pic)) {
           out.known[key] = found.pic;
           review.push(`${key} → ${tried[key]} (retry)`);
         }
@@ -207,4 +211,29 @@ if (withKnown) {
   }
 }
 
+
+// People and events: the lead picture of the Wikipedia article each one already names.
+// A review list (scripts/.people-event-image-matches.txt) shows every match for a human check.
+const wikiOf = (source) => source?.match(/^Wikipedia: (.+?)(?: \(checked[^)]*\))?\.?$/)?.[1];
+const reviewPE = [];
+async function addPictures(section, items) {
+  out[section] ??= {};
+  const todo = items.filter((x) => x.title && !out[section][x.id]);
+  const { out: found } = await picturesFor([...new Set(todo.map((x) => x.title))]);
+  for (const x of todo) if (found[x.title]) { out[section][x.id] = found[x.title]; reviewPE.push(`${section}\t${x.id}\t${x.title}\t${found[x.title].file}`); }
+  console.log(`${section} pictures: ${Object.keys(out[section]).length}/${items.length}`);
+}
+if (process.argv.includes('--people')) {
+  const people = JSON.parse(fs.readFileSync(path.join(root, 'src/data/people.json'), 'utf8'));
+  await addPictures('people', people.filter((p) => !p.image).map((p) => ({ id: p.id, title: p.wikiTitle ?? p.name })));
+}
+if (process.argv.includes('--events')) {
+  const events = JSON.parse(fs.readFileSync(path.join(root, 'src/data/events.json'), 'utf8'));
+  await addPictures('events', events.map((e) => ({ id: e.id, title: wikiOf(e.source) ?? e.title })));
+}
+if (reviewPE.length) fs.appendFileSync(path.join(root, 'scripts/.people-event-image-matches.txt'), reviewPE.join('\n') + '\n');
+// Hand-checked rejections always win (scripts/image-rejects.json).
+const rejects = JSON.parse(fs.readFileSync(path.join(root, 'scripts/image-rejects.json'), 'utf8'));
+for (const k of rejects.known ?? []) if (k in out.known) out.known[k] = null;
+for (const s of ['people', 'events']) for (const k of rejects[s] ?? []) if (out[s]) delete out[s][k];
 fs.writeFileSync(outFile, JSON.stringify(out, null, 1) + '\n');

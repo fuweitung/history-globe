@@ -55,7 +55,7 @@ export const EVENT_BY_ID = new Map(EVENTS.map((e) => [e.id, e]));
 export const LINKS: PolityLink[] = linksJson as PolityLink[];
 
 // ── Pictures (loaded on demand: images.json is large) ────────
-type ImageIndex = { polities: Record<string, WikiImage>; known: Record<string, WikiImage | null> };
+type ImageIndex = { polities: Record<string, WikiImage>; known: Record<string, WikiImage | null>; people?: Record<string, WikiImage>; events?: Record<string, WikiImage> };
 let IMAGES: ImageIndex | null = null;
 let imagesPromise: Promise<ImageIndex> | null = null;
 export function loadImages(): Promise<ImageIndex> {
@@ -65,6 +65,8 @@ export function loadImages(): Promise<ImageIndex> {
 }
 export const imagesLoaded = () => IMAGES !== null;
 export const polityImage = (id: string): WikiImage | undefined => IMAGES?.polities[id];
+export const personImage = (id: string): WikiImage | undefined => IMAGES?.people?.[id];
+export const eventImage = (id: string): WikiImage | undefined => IMAGES?.events?.[id];
 export const knownImage = (polityId: string, label: string): WikiImage | undefined => IMAGES?.known[`${polityId}|${label}`] ?? undefined;
 export const wikiUrl = (title: string) => `https://en.wikipedia.org/wiki/${encodeURIComponent(title.replace(/ /g, '_'))}`;
 

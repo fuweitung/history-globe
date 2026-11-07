@@ -126,3 +126,7 @@ The source maps leave a few land shapes without a name, so nothing can link to t
 ### Small countries (`mapDot`)
 
 The border maps don’t draw some small countries (Singapore, Bahrain, the Maldives, most Pacific states, Monaco…). Set `"mapDot": true` on such an entry and the globe draws a clickable dot at its `capitalCoords` for the years it exists. The land outline is Natural Earth 1:50m (finer coasts and small islands).
+
+### People and event pictures
+
+`npm run fetch-images -- --people --events` adds the lead picture of each person’s Wikipedia article (`wikiTitle`) and each event’s article (taken from its `source`, “Wikipedia: Title”, or else its title) to `images.json` (`people` and `events`). Only freely licensed Wikimedia Commons files are used, with credits. Every match is listed in `scripts/.people-event-image-matches.txt` for a human check; delete a wrong one from `images.json`.

@@ -1,0 +1,16 @@
+{
+  "about": "Picture matches checked by hand and rejected as wrong or misleading. fetch-images never uses these, even if a search finds them again. Keys: known = \"polityId|label\", people/events = id.",
+  "known": [
+    "austria|Sigmund Freud", "ghana|Kwame Nkrumah", "haiti|Haitian art", "hong-kong|Hong Kong cinema", "hong-kong|Victoria Harbour skyline",
+    "liechtenstein|No army", "niger|Uranium", "kiribati|First to see the new year", "kiribati|Battle of Tarawa", "old-swiss-confederacy|Swiss Guard",
+    "mozambique|Island of Mozambique", "france-1792-1830|Napoleonic Code", "andorra|Romanesque churches", "cameroon|Mount Cameroon", "kuwait|Kuwait Towers",
+    "malawi|Lake Malawi", "malawi|Tea", "nicaragua|Lake Nicaragua", "djibouti|Port of Djibouti", "barbados|Cricket", "barbados|Rum", "lithuania|Basketball",
+    "funj-sultanate|Sennar", "kingdom-of-prussia|Compulsory schooling", "ethiopia-modern|Distance runners", "greenland|Kayak and qajaq", "adal-sultanate|Port of Zeila",
+    "marshall-islands|Outrigger canoes", "oman|Forts of Oman", "palau|Shark sanctuary", "samoa|Fa’a Samoa", "samoa|Tatau (tattoo)", "shan-states|Shan noodles",
+    "slovakia|Car manufacturing", "somalia|Somali poetry", "somalia|Hawala", "switzerland|Swiss watches", "tunisia|Jasmine Revolution", "trinidad-and-tobago|Trinidad Carnival",
+    "uganda|Source of the Nile", "united-arab-emirates|Dubai airport", "zand-persia|Arg of Karim Khan", "yemen|Mocha coffee", "macau|Egg tarts",
+    "guatemala|Rigoberta Menchú", "ireland|Easter Rising", "mossi-kingdoms|Mossi cavalry", "mrauk-u|War fleets", "seychelles|Granite islands"
+  ],
+  "people": [],
+  "events": []
+}
