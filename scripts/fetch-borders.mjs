@@ -9,6 +9,7 @@
 
 import { mkdir, writeFile, access, readFile } from 'node:fs/promises';
 import { simplifyBorders } from './simplify-borders.mjs';
+import { applyBorderFixes } from './apply-border-fixes.mjs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -71,3 +72,4 @@ await writeFile(
 );
 console.log(`\nWrote manifest with ${ok.length} snapshots. Simplifying new files…`);
 await simplifyBorders();
+await applyBorderFixes();

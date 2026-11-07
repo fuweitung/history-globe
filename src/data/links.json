@@ -3210,5 +3210,61 @@
     "relation": "allied_with",
     "year": 1955,
     "note": "Warsaw Pact."
+  },
+  {
+    "fromPolityId": "qing-china",
+    "toPolityId": "hong-kong",
+    "relation": "succeeded",
+    "year": 1841,
+    "note": "Part of Qing China until 1841."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "hong-kong",
+    "relation": "colonised",
+    "year": 1997,
+    "note": "British colony 1841–1997."
+  },
+  {
+    "fromPolityId": "peoples-republic-of-china",
+    "toPolityId": "hong-kong",
+    "relation": "allied_with",
+    "year": 1997,
+    "note": "Sovereignty returned to China in 1997 as a Special Administrative Region (“one country, two systems”)."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "puerto-rico",
+    "relation": "colonised",
+    "year": 1898,
+    "note": "Spanish colony 1508–1898."
+  },
+  {
+    "fromPolityId": "united-states",
+    "toPolityId": "puerto-rico",
+    "relation": "colonised",
+    "year": 1898,
+    "note": "US territory since 1898."
+  },
+  {
+    "fromPolityId": "taino-caribbean",
+    "toPolityId": "puerto-rico",
+    "relation": "succeeded",
+    "year": null,
+    "note": "Borikén was a Taíno island."
+  },
+  {
+    "fromPolityId": "kingdom-of-denmark",
+    "toPolityId": "greenland",
+    "relation": "colonised",
+    "year": 1953,
+    "note": "Danish colony until 1953; now self-governing within the Danish Realm."
+  },
+  {
+    "fromPolityId": "arctic-peoples",
+    "toPolityId": "greenland",
+    "relation": "succeeded",
+    "year": null,
+    "note": "Most Greenlanders are Inuit (Kalaallit)."
   }
 ]

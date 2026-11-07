@@ -15,6 +15,7 @@
     "fetch-borders": "node scripts/fetch-borders.mjs",
     "fetch-glyphs": "node scripts/fetch-glyphs.mjs",
     "simplify-borders": "node scripts/simplify-borders.mjs",
+    "apply-border-fixes": "node scripts/apply-border-fixes.mjs",
     "validate-data": "node scripts/validate-data.mjs",
     "compute-territory": "node scripts/compute-territory.mjs",
     "fetch-images": "node scripts/fetch-images.mjs",

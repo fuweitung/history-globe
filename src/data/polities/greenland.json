@@ -1,0 +1,320 @@
+{
+  "id": "greenland",
+  "name": "Greenland",
+  "era": "modern",
+  "region": "North America (Arctic)",
+  "startYear": 1721,
+  "endYear": null,
+  "capital": "Nuuk",
+  "capitalCoords": [
+    -51.72,
+    64.18
+  ],
+  "summary": "The world’s largest island, home of the Inuit; a Danish colony from 1721, part of Denmark from 1953, with home rule from 1979 and self-government from 2009.",
+  "wikiTitle": "Greenland",
+  "borderNames": [
+    "Greenland"
+  ],
+  "borderYears": [
+    1721,
+    null
+  ],
+  "color": "#c03a3a",
+  "knownFor": [
+    {
+      "label": "Ice sheet",
+      "kind": "monument",
+      "note": "Second-largest ice sheet on Earth."
+    },
+    {
+      "label": "Kayak and qajaq",
+      "kind": "tool",
+      "note": "Inuit hunting boats."
+    },
+    {
+      "label": "Kaffemik",
+      "kind": "food",
+      "note": "Coffee gathering for celebrations."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Between the Arctic and Atlantic oceans; about 2.17 million km², 80% ice.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "terrain": {
+        "value": "Ice sheet with a rocky coastal strip.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "climate": {
+        "value": "Arctic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "resources": {
+        "value": "Fish, rare minerals.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "disasters": {
+        "value": "Melting ice sheet.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 57,000.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "urbanisation": {
+        "value": "Nuuk.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "disease": {
+        "value": "Tuberculosis in the 1900s.",
+        "year": 1950,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "migration": {
+        "value": "Some move to Denmark.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Fishing (shrimp, halibut) and Danish grants.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "tradeRoutes": {
+        "value": "Shipping via Denmark.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "wealth": {
+        "value": "High income with Danish support.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "moneyAndTax": {
+        "value": "Danish krone.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "inequality": {
+        "value": "Gap between towns and settlements.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Self-governing country in the Danish Realm (2009).",
+        "year": 2009,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "keyRulers": {
+        "value": "Jonathan Motzfeldt, first premier (1979).",
+        "year": 1979,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "institutions": {
+        "value": "Inatsisartut (parliament).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "stability": {
+        "value": "Stable.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "eliteConflict": {
+        "value": "Debate over independence from Denmark.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Greenland"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Defence by Denmark; US Pituffik (Thule) base.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "majorWars": {
+        "value": "US bases in the Second World War.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "territoryChange": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "alliancesRivals": {
+        "value": "Left the European Community (1985).",
+        "year": 1985,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Inuit cold-weather technology.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "scienceEducation": {
+        "value": "University of Greenland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "openness": {
+        "value": "Closed by Denmark until 1950.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "communicationTransport": {
+        "value": "Planes, boats, dog sleds; no roads between towns.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Lutheran Christianity since Hans Egede’s mission (1721).",
+        "year": 1721,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "languageWriting": {
+        "value": "Greenlandic (Kalaallisut) and Danish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "artsArchitecture": {
+        "value": "Drum dancing; tupilak carvings.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "socialStructure": {
+        "value": "Mostly Inuit (Kalaallit).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "sharedIdentity": {
+        "value": "Inuit and Greenlandic identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "dailyLife": {
+        "value": "Coloured wooden houses; seal and fish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Canada, Iceland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "ideasReligions": {
+        "value": "Inuit traditions and Christianity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "colonisation": {
+        "value": "Danish colony (1721–1953).",
+        "year": 1721,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Home rule (1979).",
+        "year": 1979,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "declineSignals": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "outcome": {
+        "value": "Self-governing part of the Danish Realm.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Greenland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Greenland"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Greenland"
+      }
+    }
+  }
+}

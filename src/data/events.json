@@ -3840,7 +3840,8 @@
     "description": "Britain goes to war with Qing China after China moves against the opium trade. The Treaty of Nanjing (1842) cedes Hong Kong Island and opens five treaty ports.",
     "relatedPolityIds": [
       "qing-china",
-      "british-empire"
+      "british-empire",
+      "hong-kong"
     ]
   },
   {
@@ -4320,7 +4321,8 @@
     "relatedPolityIds": [
       "spanish-empire",
       "united-states",
-      "cuba"
+      "cuba",
+      "puerto-rico"
     ],
     "source": "Wikipedia: Spanish–American War"
   },
@@ -5607,7 +5609,8 @@
     "relatedPolityIds": [
       "british-empire",
       "peoples-republic-of-china",
-      "united-kingdom"
+      "united-kingdom",
+      "hong-kong"
     ]
   },
   {
@@ -10604,5 +10607,117 @@
       "soviet-union"
     ],
     "source": "Wikipedia: East German uprising of 1953"
+  },
+  {
+    "id": "hong-kong-ceded",
+    "year": 1841,
+    "lat": 22.28,
+    "lng": 114.16,
+    "type": "war",
+    "title": "Britain takes Hong Kong Island",
+    "description": "During the First Opium War Britain occupies the island; China cedes it in 1842 (Treaty of Nanking).",
+    "relatedPolityIds": [
+      "hong-kong",
+      "british-empire",
+      "qing-china"
+    ],
+    "source": "Wikipedia: Treaty of Nanking"
+  },
+  {
+    "id": "new-territories-lease",
+    "year": 1898,
+    "lat": 22.4,
+    "lng": 114.1,
+    "type": "culture",
+    "title": "New Territories leased",
+    "description": "China leases the New Territories to Britain for 99 years.",
+    "relatedPolityIds": [
+      "hong-kong",
+      "qing-china"
+    ],
+    "source": "Wikipedia: Convention for the Extension of Hong Kong Territory"
+  },
+  {
+    "id": "japanese-occupation-hong-kong",
+    "year": 1941,
+    "lat": 22.28,
+    "lng": 114.16,
+    "type": "war",
+    "title": "Japan occupies Hong Kong",
+    "description": "Japan captures Hong Kong on Christmas Day 1941 and holds it until 1945.",
+    "relatedPolityIds": [
+      "hong-kong",
+      "empire-of-japan"
+    ],
+    "source": "Wikipedia: Japanese occupation of Hong Kong"
+  },
+  {
+    "id": "hong-kong-protests-2019",
+    "year": 2019,
+    "lat": 22.28,
+    "lng": 114.16,
+    "type": "culture",
+    "title": "Hong Kong protests",
+    "description": "Mass protests against an extradition bill; a National Security Law follows in 2020.",
+    "relatedPolityIds": [
+      "hong-kong",
+      "peoples-republic-of-china"
+    ],
+    "source": "Wikipedia: 2019–2020 Hong Kong protests"
+  },
+  {
+    "id": "puerto-rico-commonwealth",
+    "year": 1952,
+    "lat": 18.47,
+    "lng": -66.11,
+    "type": "culture",
+    "title": "Puerto Rico becomes a Commonwealth",
+    "description": "A new constitution makes Puerto Rico a self-governing US territory.",
+    "relatedPolityIds": [
+      "puerto-rico",
+      "united-states"
+    ],
+    "source": "Wikipedia: Constitution of Puerto Rico"
+  },
+  {
+    "id": "hurricane-maria-puerto-rico",
+    "year": 2017,
+    "lat": 18.2,
+    "lng": -66.5,
+    "type": "disaster",
+    "title": "Hurricane Maria hits Puerto Rico",
+    "description": "The island loses power for months; about 3,000 people die.",
+    "relatedPolityIds": [
+      "puerto-rico"
+    ],
+    "source": "Wikipedia: Hurricane Maria"
+  },
+  {
+    "id": "hans-egede-mission",
+    "year": 1721,
+    "lat": 64.18,
+    "lng": -51.72,
+    "type": "culture",
+    "title": "Danish mission to Greenland",
+    "description": "Hans Egede founds a mission and trading post, beginning Danish colonial rule.",
+    "relatedPolityIds": [
+      "greenland",
+      "denmark-norway"
+    ],
+    "source": "Wikipedia: Hans Egede"
+  },
+  {
+    "id": "greenland-home-rule",
+    "year": 1979,
+    "lat": 64.18,
+    "lng": -51.72,
+    "type": "culture",
+    "title": "Greenland home rule",
+    "description": "Greenland gets its own parliament; self-government follows in 2009.",
+    "relatedPolityIds": [
+      "greenland",
+      "kingdom-of-denmark"
+    ],
+    "source": "Wikipedia: Greenland Home Rule Act"
   }
 ]
