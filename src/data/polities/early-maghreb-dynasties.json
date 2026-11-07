@@ -1,0 +1,327 @@
+{
+  "id": "early-maghreb-dynasties",
+  "name": "Idrisid and Aghlabid states",
+  "era": "medieval",
+  "region": "North Africa",
+  "startYear": 788,
+  "endYear": 974,
+  "capital": "Fez (Idrisids); Kairouan (Aghlabids)",
+  "capitalCoords": [
+    10.1,
+    35.68
+  ],
+  "summary": "The first Islamic dynasties to rule North Africa apart from the caliphs: the Idrisids, who founded Fez, and the Aghlabids of Tunisia, who conquered Sicily; both were swept away by the Fatimids.",
+  "wikiTitle": "Aghlabids",
+  "borderNames": [],
+  "borderNameYears": {
+    "Idrisid Caliphate": [
+      788,
+      974
+    ],
+    "Aghlabid Emirate": [
+      800,
+      909
+    ]
+  },
+  "color": "#5a7a4a",
+  "knownFor": [
+    {
+      "label": "Great Mosque of Kairouan",
+      "kind": "monument",
+      "year": 836,
+      "note": "Rebuilt by the Aghlabids."
+    },
+    {
+      "label": "Founding of Fez",
+      "kind": "idea",
+      "year": 789,
+      "note": "By Idris I and II."
+    },
+    {
+      "label": "Conquest of Sicily",
+      "kind": "idea",
+      "year": 827,
+      "note": "Began under the Aghlabids."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Morocco and Tunisia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "terrain": {
+        "value": "Coast, mountains, plains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "climate": {
+        "value": "Mediterranean.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "resources": {
+        "value": "Grain, olives.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aghlabids"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "urbanisation": {
+        "value": "Fez, Kairouan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "disease": {
+        "value": "Plague outbreaks, above all the Black Death (1347–51).",
+        "year": 1348,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "migration": {
+        "value": "Arab and Andalusi settlers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming and trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "tradeRoutes": {
+        "value": "Mediterranean and Saharan trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "wealth": {
+        "value": "Moderate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "moneyAndTax": {
+        "value": "Silver dirhams.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "inequality": {
+        "value": "Arab elite and Berbers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aghlabids"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Emirates.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "keyRulers": {
+        "value": "Idris I. Ibrahim I ibn al-Aghlab.",
+        "year": 788,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "succession": {
+        "value": "Dynastic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "institutions": {
+        "value": "Mosques and courts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "stability": {
+        "value": "Idrisid lands split among heirs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "eliteConflict": {
+        "value": "Rival heirs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Navy (Aghlabids).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "majorWars": {
+        "value": "Conquest of Sicily (827–902).",
+        "year": 827,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "territoryChange": {
+        "value": "Gained Sicily and Malta.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "alliancesRivals": {
+        "value": "Aghlabids loyal to the Abbasids; Idrisids independent.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "scienceEducation": {
+        "value": "Mosques of Kairouan and Fez.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "openness": {
+        "value": "Open to trade; closed to rival faiths at times.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "communicationTransport": {
+        "value": "Roads, rivers and coastal shipping.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aghlabids"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Islam (Idrisids Shia-descended, ruling Sunnis).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "languageWriting": {
+        "value": "Arabic; Berber.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "artsArchitecture": {
+        "value": "Kairouan mosque.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "socialStructure": {
+        "value": "Arabs and Berbers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler, faith and region.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "dailyLife": {
+        "value": "Village farming; bread, porridge and beer or wine.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aghlabids"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Umayyad Córdoba, Rustamids, Abbasids.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "ideasReligions": {
+        "value": "Spread of Islam among Berbers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "colonisation": {
+        "value": "Took Sicily.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Idris I arrives (788).",
+        "year": 788,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "peakPeriod": {
+        "value": "800s.",
+        "year": 850,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "declineSignals": {
+        "value": "Fatimid rise (909).",
+        "year": 909,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "outcome": {
+        "value": "Ended by the Fatimids and Umayyads.",
+        "year": 974,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Aghlabids.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aghlabids"
+      },
+      "overallCertainty": {
+        "value": "Main events are known from chronicles and charters; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aghlabids"
+      }
+    }
+  }
+}

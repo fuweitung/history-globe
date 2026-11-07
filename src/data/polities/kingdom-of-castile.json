@@ -1,0 +1,328 @@
+{
+  "id": "kingdom-of-castile",
+  "name": "Kingdom of Castile",
+  "era": "medieval",
+  "region": "Southern Europe",
+  "startYear": 1035,
+  "endYear": 1516,
+  "capital": "Burgos, Toledo, Valladolid",
+  "capitalCoords": [
+    -4.02,
+    39.86
+  ],
+  "summary": "A Christian kingdom in central Spain that led the Reconquista; joined with León in 1230 and with Aragon through the marriage of Isabella and Ferdinand (1469), it conquered Granada and sent Columbus west in 1492.",
+  "wikiTitle": "Crown of Castile",
+  "borderNames": [],
+  "borderNameYears": {
+    "Castilla": [
+      1035,
+      1230
+    ],
+    "Castile": [
+      1035,
+      1516
+    ],
+    "Castille": [
+      1035,
+      1516
+    ]
+  },
+  "color": "#c0303a",
+  "knownFor": [
+    {
+      "label": "El Cid",
+      "kind": "person",
+      "note": "Castilian warrior (died 1099)."
+    },
+    {
+      "label": "Toledo School of Translators",
+      "kind": "idea",
+      "note": "Arabic works into Latin."
+    },
+    {
+      "label": "Merino wool",
+      "kind": "textile",
+      "note": "Fine wool from sheep herds (the Mesta)."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Central and northern Spain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "terrain": {
+        "value": "The high Meseta plateau.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "climate": {
+        "value": "Continental, dry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "resources": {
+        "value": "Wool, grain, iron.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "disasters": {
+        "value": "Black Death (1348–50).",
+        "year": 1348,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 4–5 million by 1500.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "urbanisation": {
+        "value": "Mostly rural; a few walled towns and a royal or ducal capital.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "disease": {
+        "value": "Plague outbreaks, above all the Black Death (1347–51).",
+        "year": 1348,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "migration": {
+        "value": "Settlers moved south as land was conquered.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Sheep herding and wool exports.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "tradeRoutes": {
+        "value": "Wool to Flanders through Burgos and Bilbao.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "wealth": {
+        "value": "Wool wealth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "moneyAndTax": {
+        "value": "Maravedí; the alcabala sales tax.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "inequality": {
+        "value": "Nobles and clergy above peasants, many of them serfs.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Crown of Castile"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy with Cortes (assemblies).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "keyRulers": {
+        "value": "Ferdinand III. Alfonso X. Isabella I.",
+        "year": 1217,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "succession": {
+        "value": "Hereditary, with civil wars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "institutions": {
+        "value": "Cortes; Siete Partidas law code (1265).",
+        "year": 1265,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "stability": {
+        "value": "Civil wars in the 1300s–1400s.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "eliteConflict": {
+        "value": "Nobles against the crown.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Knights and military orders (Santiago, Calatrava).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "majorWars": {
+        "value": "Las Navas de Tolosa (1212); conquest of Seville (1248) and Granada (1492).",
+        "year": 1212,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "territoryChange": {
+        "value": "Took most of Andalusia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "alliancesRivals": {
+        "value": "Rivals of Portugal, Aragon, Granada.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "scienceEducation": {
+        "value": "University of Salamanca (1218).",
+        "year": 1218,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "openness": {
+        "value": "Open to trade; closed to rival faiths at times.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "communicationTransport": {
+        "value": "Roads, rivers and coastal shipping.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Crown of Castile"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Catholic; Jews expelled (1492).",
+        "year": 1492,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "languageWriting": {
+        "value": "Castilian Spanish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "artsArchitecture": {
+        "value": "Gothic cathedrals (Burgos, Toledo); Mudéjar style.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "socialStructure": {
+        "value": "Nobles, clergy, towns, peasants; Muslim and Jewish minorities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler, faith and region.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "dailyLife": {
+        "value": "Village farming; bread, porridge and beer or wine.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Crown of Castile"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Aragon, Portugal, Navarre, Granada.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "ideasReligions": {
+        "value": "Reconquista ideology; Spanish Inquisition (1478).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "colonisation": {
+        "value": "Canary Islands conquered (1402–96).",
+        "year": 1402,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Kingdom from 1035/1065.",
+        "year": 1035,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "peakPeriod": {
+        "value": "Reign of Isabella I (1474–1504).",
+        "year": 1480,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "declineSignals": {
+        "value": "None; it merged into Spain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "outcome": {
+        "value": "United with Aragon to form Spain (1516).",
+        "year": 1516,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Crown of Castile.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile"
+      },
+      "overallCertainty": {
+        "value": "Main events are known from chronicles and charters; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Crown of Castile"
+      }
+    }
+  }
+}

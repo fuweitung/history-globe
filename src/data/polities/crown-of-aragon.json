@@ -1,0 +1,321 @@
+{
+  "id": "crown-of-aragon",
+  "name": "Crown of Aragon",
+  "era": "medieval",
+  "region": "Southern Europe",
+  "startYear": 1035,
+  "endYear": 1516,
+  "capital": "Zaragoza and Barcelona",
+  "capitalCoords": [
+    -0.88,
+    41.65
+  ],
+  "summary": "A union of Aragon, Catalonia, Valencia and Mallorca with a sea empire in the Mediterranean (Sicily, Sardinia, Naples); joined Castile through Ferdinand and Isabella to form Spain.",
+  "wikiTitle": "Crown of Aragon",
+  "borderNames": [],
+  "borderNameYears": {
+    "Aragón": [
+      1035,
+      1500
+    ]
+  },
+  "color": "#e0b03a",
+  "knownFor": [
+    {
+      "label": "Catalan Atlas",
+      "kind": "art",
+      "year": 1375,
+      "note": "Famous world map."
+    },
+    {
+      "label": "Consulate of the Sea",
+      "kind": "idea",
+      "note": "Maritime law code."
+    },
+    {
+      "label": "Almogavars",
+      "kind": "troops",
+      "note": "Light infantry who fought across the Mediterranean."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Eastern Spain and Mediterranean islands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "terrain": {
+        "value": "Ebro valley, Pyrenees, coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "climate": {
+        "value": "Mediterranean.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "resources": {
+        "value": "Grain, wine, textiles, salt.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "disasters": {
+        "value": "Black Death (1348).",
+        "year": 1348,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 1 million in the Iberian lands.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "urbanisation": {
+        "value": "Mostly rural; a few walled towns and a royal or ducal capital.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "disease": {
+        "value": "Plague outbreaks, above all the Black Death (1347–51).",
+        "year": 1348,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "migration": {
+        "value": "Catalan settlers in Valencia and Mallorca.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Trade, textiles, farming.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "tradeRoutes": {
+        "value": "Barcelona’s Mediterranean trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "wealth": {
+        "value": "Merchant wealth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "moneyAndTax": {
+        "value": "Croats and florins.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "inequality": {
+        "value": "Nobles and clergy above peasants, many of them serfs.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Crown of Aragon"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Union of realms under one king, each with its own laws.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "keyRulers": {
+        "value": "James I the Conqueror. Peter III. Ferdinand II.",
+        "year": 1213,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "succession": {
+        "value": "Hereditary; Compromise of Caspe (1412).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "institutions": {
+        "value": "Cortes of each realm; Generalitat of Catalonia (1359).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "stability": {
+        "value": "Catalan civil war (1462–72).",
+        "year": 1462,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "eliteConflict": {
+        "value": "Nobles and towns against the crown.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Navy and Almogavars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "majorWars": {
+        "value": "Conquest of Mallorca (1229) and Valencia (1238); War of the Sicilian Vespers (1282).",
+        "year": 1229,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "territoryChange": {
+        "value": "Gained Sicily (1282), Sardinia, Naples (1442).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "alliancesRivals": {
+        "value": "Rival of France and Genoa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "scienceEducation": {
+        "value": "Ramon Llull; universities at Lleida (1300).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "openness": {
+        "value": "Open to trade; closed to rival faiths at times.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "communicationTransport": {
+        "value": "Roads, rivers and coastal shipping.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Crown of Aragon"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Catholic; Muslim and Jewish minorities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "languageWriting": {
+        "value": "Catalan, Aragonese, Latin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "artsArchitecture": {
+        "value": "Catalan Gothic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "socialStructure": {
+        "value": "Nobles, merchants, peasants (some serfs).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler, faith and region.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "dailyLife": {
+        "value": "Village farming; bread, porridge and beer or wine.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Crown of Aragon"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Castile, Navarre, France, Granada.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "ideasReligions": {
+        "value": "Pactism: the king bound by agreements.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "colonisation": {
+        "value": "Mediterranean island empire.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Union with Barcelona (1137).",
+        "year": 1137,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "peakPeriod": {
+        "value": "1200s–1300s sea empire.",
+        "year": 1290,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "declineSignals": {
+        "value": "Black Death and civil war.",
+        "year": 1462,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "outcome": {
+        "value": "United with Castile to form Spain (1516).",
+        "year": 1516,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Crown of Aragon.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Aragon"
+      },
+      "overallCertainty": {
+        "value": "Main events are known from chronicles and charters; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Crown of Aragon"
+      }
+    }
+  }
+}

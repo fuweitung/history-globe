@@ -1,0 +1,328 @@
+{
+  "id": "kingdom-of-hungary-medieval",
+  "name": "Kingdom of Hungary (to 1526)",
+  "era": "medieval",
+  "region": "Central Europe",
+  "startYear": 1000,
+  "endYear": 1526,
+  "capital": "Esztergom, then Buda",
+  "capitalCoords": [
+    19.04,
+    47.5
+  ],
+  "summary": "Founded when Stephen I was crowned in 1000; a powerful Central European kingdom that survived the Mongol invasion (1241) and peaked under Matthias Corvinus, until the Ottomans crushed it at Mohács in 1526.",
+  "wikiTitle": "Kingdom of Hungary (1000–1301)",
+  "borderNames": [],
+  "borderNameYears": {
+    "Hungary": [
+      1000,
+      1526
+    ],
+    "Kingdom of Hungary": [
+      1000,
+      1526
+    ],
+    "Imperial Hungary": [
+      1000,
+      1526
+    ]
+  },
+  "color": "#3a8a4a",
+  "knownFor": [
+    {
+      "label": "Holy Crown of Hungary",
+      "kind": "art",
+      "note": "Crown of St Stephen."
+    },
+    {
+      "label": "Black Army",
+      "kind": "troops",
+      "note": "Matthias Corvinus’s mercenary army."
+    },
+    {
+      "label": "Bibliotheca Corviniana",
+      "kind": "idea",
+      "note": "Famous Renaissance library."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Carpathian Basin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "terrain": {
+        "value": "Great Plain and Carpathian mountains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "climate": {
+        "value": "Continental.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "resources": {
+        "value": "Gold and silver mines, cattle, grain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "disasters": {
+        "value": "Mongol invasion killed perhaps a fifth of the people (1241–42).",
+        "year": 1241,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 3 million by 1500.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "urbanisation": {
+        "value": "Mostly rural; a few walled towns and a royal or ducal capital.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "disease": {
+        "value": "Plague outbreaks, above all the Black Death (1347–51).",
+        "year": 1348,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "migration": {
+        "value": "German settlers (Saxons), Cumans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, cattle, mining.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "tradeRoutes": {
+        "value": "Cattle and metals to Germany and Italy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "wealth": {
+        "value": "Rich mines (Kremnica gold).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "moneyAndTax": {
+        "value": "Gold florins.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "inequality": {
+        "value": "Nobles and clergy above peasants, many of them serfs.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy with a diet.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "keyRulers": {
+        "value": "Stephen I. Béla IV. Louis I. Matthias Corvinus.",
+        "year": 1000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "succession": {
+        "value": "Árpád dynasty, then elected and foreign kings.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "institutions": {
+        "value": "Golden Bull (1222).",
+        "year": 1222,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "stability": {
+        "value": "Noble revolts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "eliteConflict": {
+        "value": "Barons against kings.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Light cavalry, later mercenaries.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "majorWars": {
+        "value": "Mohi (1241); Ottoman wars; Mohács (1526).",
+        "year": 1526,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "territoryChange": {
+        "value": "Ruled Croatia (from 1102).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "alliancesRivals": {
+        "value": "Holy Roman Empire, Ottomans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "scienceEducation": {
+        "value": "Renaissance court of Matthias.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "openness": {
+        "value": "Open to trade; closed to rival faiths at times.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "communicationTransport": {
+        "value": "Roads, rivers and coastal shipping.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Catholic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "languageWriting": {
+        "value": "Hungarian; Latin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "artsArchitecture": {
+        "value": "Romanesque and Renaissance buildings.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "socialStructure": {
+        "value": "Magnates, nobles, serfs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler, faith and region.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "dailyLife": {
+        "value": "Village farming; bread, porridge and beer or wine.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Austria, Poland, Bohemia, Ottomans, Venice.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "ideasReligions": {
+        "value": "Catholic Christianity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Coronation of Stephen I (1000).",
+        "year": 1000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "peakPeriod": {
+        "value": "Matthias Corvinus (1458–90).",
+        "year": 1470,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "declineSignals": {
+        "value": "Mohács (1526).",
+        "year": 1526,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "outcome": {
+        "value": "Split among Habsburgs, Ottomans and Transylvania.",
+        "year": 1526,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Kingdom of Hungary (1000–1301).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      },
+      "overallCertainty": {
+        "value": "Main events are known from chronicles and charters; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
+      }
+    }
+  }
+}

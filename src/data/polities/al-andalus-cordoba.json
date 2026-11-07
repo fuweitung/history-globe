@@ -1,0 +1,326 @@
+{
+  "id": "al-andalus-cordoba",
+  "name": "Umayyad Emirate and Caliphate of Córdoba",
+  "era": "medieval",
+  "region": "Southern Europe",
+  "startYear": 756,
+  "endYear": 1031,
+  "capital": "Córdoba",
+  "capitalCoords": [
+    -4.78,
+    37.88
+  ],
+  "summary": "Muslim Spain (al-Andalus) under a branch of the Umayyad family that fled Damascus; Abd al-Rahman III made it a caliphate in 929, and Córdoba became one of the largest and most learned cities in Europe before the state broke into taifa kingdoms in 1031.",
+  "wikiTitle": "Caliphate of Córdoba",
+  "borderNames": [],
+  "borderNameYears": {
+    "Emirate of Córdoba": [
+      756,
+      929
+    ],
+    "Caliphate of Córdoba": [
+      929,
+      1031
+    ]
+  },
+  "color": "#3a8a5a",
+  "knownFor": [
+    {
+      "label": "Great Mosque of Córdoba",
+      "kind": "monument",
+      "year": 785,
+      "note": "Forest of striped arches."
+    },
+    {
+      "label": "Madinat al-Zahra",
+      "kind": "monument",
+      "year": 936,
+      "note": "Palace city."
+    },
+    {
+      "label": "Translation of learning",
+      "kind": "idea",
+      "note": "Greek and Arabic science reached Europe."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Most of the Iberian Peninsula.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "terrain": {
+        "value": "Plateaus and river valleys.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "climate": {
+        "value": "Mediterranean.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "resources": {
+        "value": "Irrigated farmland, silk, olive oil.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Córdoba perhaps 100,000 or more around 1000.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "urbanisation": {
+        "value": "Large cities: Córdoba, Seville, Toledo.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "disease": {
+        "value": "Plague outbreaks, above all the Black Death (1347–51).",
+        "year": 1348,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "migration": {
+        "value": "Arab and Berber settlers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Irrigated farming (new crops like rice, citrus), crafts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "tradeRoutes": {
+        "value": "Mediterranean and North African trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "wealth": {
+        "value": "One of the richest states in Europe.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "moneyAndTax": {
+        "value": "Gold dinars and silver dirhams.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "inequality": {
+        "value": "Muslims above Christians and Jews, who paid a special tax.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Emirate, then caliphate (929).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "keyRulers": {
+        "value": "Abd al-Rahman I. Abd al-Rahman III. Al-Mansur.",
+        "year": 756,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "succession": {
+        "value": "Umayyad family; later chamberlains ruled.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "institutions": {
+        "value": "Viziers and a strong army.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "stability": {
+        "value": "Civil war (fitna) from 1009.",
+        "year": 1009,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "eliteConflict": {
+        "value": "Arabs, Berbers and slave soldiers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Professional army with slave soldiers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "majorWars": {
+        "value": "Raids on the Christian north (Al-Mansur, 980s–1002).",
+        "year": 985,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "territoryChange": {
+        "value": "Christian kingdoms advanced in the north.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "alliancesRivals": {
+        "value": "Rival of the Abbasids and Fatimids.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Abbas ibn Firnas tried gliding (about 875).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "scienceEducation": {
+        "value": "Large libraries; astronomy and medicine (Abulcasis).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "openness": {
+        "value": "Open to scholars of all faiths (with limits).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "communicationTransport": {
+        "value": "Roman roads and rivers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Muslim rulers; Christian and Jewish communities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "languageWriting": {
+        "value": "Arabic; Mozarabic Romance; Hebrew.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "artsArchitecture": {
+        "value": "Horseshoe arches, mosaics, ivory boxes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "socialStructure": {
+        "value": "Arabs, Berbers, converts (muwalladun), Christians, Jews.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "sharedIdentity": {
+        "value": "Andalusi culture.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "dailyLife": {
+        "value": "Town life with baths and markets.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Asturias/León, Navarre, Franks, Idrisids, Fatimids.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "ideasReligions": {
+        "value": "Convivencia (coexistence) in learning.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "colonisation": {
+        "value": "Umayyad conquest (711).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Abd al-Rahman I arrives (756).",
+        "year": 756,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "peakPeriod": {
+        "value": "Caliphate (929–1009).",
+        "year": 950,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "declineSignals": {
+        "value": "Fitna of al-Andalus (1009–31).",
+        "year": 1009,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "outcome": {
+        "value": "Broke into taifa kingdoms (1031).",
+        "year": 1031,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Caliphate of Córdoba.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      },
+      "overallCertainty": {
+        "value": "Main events are known from chronicles and charters; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Caliphate of Córdoba"
+      }
+    }
+  }
+}

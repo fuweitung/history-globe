@@ -1,0 +1,333 @@
+{
+  "id": "tatar-khanates",
+  "name": "Tatar khanates (Kazan, Astrakhan, Sibir, Nogai)",
+  "era": "medieval",
+  "region": "Eastern Europe & Central Asia",
+  "startYear": 1438,
+  "endYear": 1634,
+  "capital": "Kazan, Astrakhan, Isker (Sibir)",
+  "capitalCoords": [
+    49.11,
+    55.79
+  ],
+  "summary": "Successor states of the Golden Horde on the Volga and in western Siberia; Ivan the Terrible conquered Kazan (1552) and Astrakhan (1556), Cossacks took Sibir (1582–98), and the Nogai Horde broke up in the 1600s.",
+  "wikiTitle": "Khanate of Kazan",
+  "borderNames": [],
+  "borderNameYears": {
+    "Kazan Khanate": [
+      1438,
+      1552
+    ],
+    "Astrakhan Khanate": [
+      1466,
+      1556
+    ],
+    "Khanate of Sibir": [
+      1468,
+      1598
+    ],
+    "Nogai Horde": [
+      1440,
+      1720
+    ]
+  },
+  "color": "#7a8a3a",
+  "knownFor": [
+    {
+      "label": "Kazan Kremlin",
+      "kind": "monument",
+      "note": "Fortress of the khans."
+    },
+    {
+      "label": "St Basil’s Cathedral",
+      "kind": "monument",
+      "year": 1555,
+      "note": "Built to celebrate taking Kazan."
+    },
+    {
+      "label": "Yermak",
+      "kind": "person",
+      "note": "Cossack who invaded Sibir (1582)."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Middle and lower Volga, western Siberia, the steppe.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "terrain": {
+        "value": "Steppe, forest, river valleys.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "climate": {
+        "value": "Continental.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "resources": {
+        "value": "Furs, horses, fish, grain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "disasters": {
+        "value": "Harsh winters; famine.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khanate of Kazan"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "urbanisation": {
+        "value": "Mostly rural, with a few large cities.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "disease": {
+        "value": "Epidemics and famines.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "migration": {
+        "value": "Nomadic movements on the steppe.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Trade, herding, farming.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "tradeRoutes": {
+        "value": "Volga trade to Persia and Russia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "wealth": {
+        "value": "Trade wealth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "moneyAndTax": {
+        "value": "Silver coins; tribute.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "inequality": {
+        "value": "Rulers and military elites above farmers and herders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khanate of Kazan"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Khanates ruled by Chinggisid khans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "keyRulers": {
+        "value": "Ulugh Muhammad (Kazan). Kuchum (Sibir).",
+        "year": 1438,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "succession": {
+        "value": "Chinggisid family.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "institutions": {
+        "value": "Tribal nobles (beys).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "stability": {
+        "value": "Constant struggles with Moscow.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "eliteConflict": {
+        "value": "Pro- and anti-Moscow factions.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Cavalry archers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "majorWars": {
+        "value": "Siege of Kazan (1552).",
+        "year": 1552,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "territoryChange": {
+        "value": "Conquered by Russia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "alliancesRivals": {
+        "value": "Crimean Khanate, Ottomans, Muscovy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "scienceEducation": {
+        "value": "Madrasas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "openness": {
+        "value": "Open to trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "communicationTransport": {
+        "value": "Caravan roads, rivers and horses.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khanate of Kazan"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sunni Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "languageWriting": {
+        "value": "Tatar (Turkic).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "artsArchitecture": {
+        "value": "Mosques (mostly destroyed).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "socialStructure": {
+        "value": "Khans, beys, townspeople, nomads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the dynasty and faith.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "dailyLife": {
+        "value": "Farming or herding households.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khanate of Kazan"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Muscovy, Crimea, Kazakh Khanate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "ideasReligions": {
+        "value": "Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "colonisation": {
+        "value": "Conquered by Russia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Breakup of the Golden Horde (1430s–60s).",
+        "year": 1438,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "peakPeriod": {
+        "value": "Late 1400s.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "declineSignals": {
+        "value": "Fall of Kazan (1552).",
+        "year": 1552,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "outcome": {
+        "value": "Annexed by Russia.",
+        "year": 1598,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Khanate of Kazan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan"
+      },
+      "overallCertainty": {
+        "value": "Main events are known from chronicles; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Khanate of Kazan"
+      }
+    }
+  }
+}

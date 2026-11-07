@@ -1,0 +1,322 @@
+{
+  "id": "almoravids",
+  "name": "Almoravid dynasty",
+  "era": "medieval",
+  "region": "North Africa & Iberia",
+  "startYear": 1040,
+  "endYear": 1147,
+  "capital": "Marrakesh",
+  "capitalCoords": [
+    -7.99,
+    31.63
+  ],
+  "summary": "A Berber religious movement from the Sahara that founded Marrakesh (1070), ruled Morocco and Muslim Spain, and defeated Castile at Sagrajas (1086), until the Almohads overthrew it.",
+  "wikiTitle": "Almoravid dynasty",
+  "borderNames": [],
+  "borderNameYears": {
+    "Almoravid dynasty": [
+      1040,
+      1147
+    ]
+  },
+  "color": "#c09a3a",
+  "knownFor": [
+    {
+      "label": "Marrakesh",
+      "kind": "monument",
+      "year": 1070,
+      "note": "Founded as their capital."
+    },
+    {
+      "label": "Almoravid dinar",
+      "kind": "idea",
+      "note": "Gold coin used across the Mediterranean."
+    },
+    {
+      "label": "Battle of Sagrajas",
+      "kind": "idea",
+      "year": 1086,
+      "note": "Defeated Alfonso VI."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Morocco, Mauritania, Muslim Spain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "terrain": {
+        "value": "Desert, mountains, plains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "climate": {
+        "value": "Arid to Mediterranean.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "resources": {
+        "value": "Gold trade, salt, farmland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Almoravid dynasty"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "urbanisation": {
+        "value": "Marrakesh, Fez, Seville.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "disease": {
+        "value": "Plague outbreaks, above all the Black Death (1347–51).",
+        "year": 1348,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "migration": {
+        "value": "Sanhaja Berbers moved north.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Gold and salt trade, farming.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "tradeRoutes": {
+        "value": "Trans-Saharan routes to Ghana.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "wealth": {
+        "value": "Gold wealth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "moneyAndTax": {
+        "value": "Gold dinars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "inequality": {
+        "value": "Berber warrior elite.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Almoravid dynasty"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Religious-military emirate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "keyRulers": {
+        "value": "Yusuf ibn Tashfin.",
+        "year": 1061,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "succession": {
+        "value": "Family of Yusuf.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "institutions": {
+        "value": "Maliki jurists.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "stability": {
+        "value": "Short-lived.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "eliteConflict": {
+        "value": "Tribes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Camel and infantry armies.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "majorWars": {
+        "value": "Sagrajas (1086).",
+        "year": 1086,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "territoryChange": {
+        "value": "Took al-Andalus (1090s).",
+        "year": 1090,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "alliancesRivals": {
+        "value": "Rival of Castile.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "scienceEducation": {
+        "value": "Islamic law schools.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "openness": {
+        "value": "Open to trade; closed to rival faiths at times.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "communicationTransport": {
+        "value": "Roads, rivers and coastal shipping.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Almoravid dynasty"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Strict Sunni Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "languageWriting": {
+        "value": "Arabic; Berber.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "artsArchitecture": {
+        "value": "Almoravid Qubba in Marrakesh.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "socialStructure": {
+        "value": "Berber elite, Andalusi townspeople.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler, faith and region.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "dailyLife": {
+        "value": "Village farming; bread, porridge and beer or wine.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Almoravid dynasty"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Ghana Empire, Castile, Zirids.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "ideasReligions": {
+        "value": "Religious reform.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "colonisation": {
+        "value": "Conquered al-Andalus.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Reform movement of Abdallah ibn Yasin (about 1040).",
+        "year": 1040,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "peakPeriod": {
+        "value": "About 1100.",
+        "year": 1100,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "declineSignals": {
+        "value": "Almohad revolt (from 1121).",
+        "year": 1121,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "outcome": {
+        "value": "Overthrown by the Almohads (1147).",
+        "year": 1147,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Almoravid dynasty.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Almoravid dynasty"
+      },
+      "overallCertainty": {
+        "value": "Main events are known from chronicles and charters; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Almoravid dynasty"
+      }
+    }
+  }
+}
