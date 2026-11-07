@@ -1,0 +1,324 @@
+{
+  "id": "shona-kingdoms",
+  "name": "Shona kingdoms (Mutapa and Rozvi)",
+  "era": "early_modern",
+  "region": "Southern Africa",
+  "startYear": 1430,
+  "endYear": 1866,
+  "capital": "Mount Fura area (Mutapa); Danangombe (Rozvi)",
+  "capitalCoords": [
+    30.5,
+    -16.7
+  ],
+  "summary": "Shona states that followed Great Zimbabwe: the Kingdom of Mutapa (about 1430–1760), which traded gold with the Swahili and Portuguese, and the Rozvi Empire (about 1660–1866), which drove the Portuguese from the plateau.",
+  "wikiTitle": "Kingdom of Mutapa",
+  "borderNames": [],
+  "borderNameYears": {
+    "Mwenemutapa": [
+      1430,
+      1760
+    ],
+    "Rozwi": [
+      1660,
+      1866
+    ]
+  },
+  "color": "#b0803a",
+  "knownFor": [
+    {
+      "label": "Gold trade",
+      "kind": "idea",
+      "note": "Gold exchanged for cloth and beads at Sofala."
+    },
+    {
+      "label": "Stone enclosures",
+      "kind": "monument",
+      "note": "Khami and Danangombe ruins."
+    },
+    {
+      "label": "Mbira",
+      "kind": "art",
+      "note": "Thumb piano in Shona ceremonies."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Zimbabwe plateau and Zambezi valley.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "terrain": {
+        "value": "Granite plateau and river valleys.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "climate": {
+        "value": "Savanna.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "resources": {
+        "value": "Gold, cattle, ivory.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain, perhaps hundreds of thousands.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "urbanisation": {
+        "value": "Mostly villages; a royal capital and market towns.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "disease": {
+        "value": "Malaria and other tropical diseases; smallpox outbreaks.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "migration": {
+        "value": "Moved north from Great Zimbabwe.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Cattle, farming, gold mining.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "tradeRoutes": {
+        "value": "Gold and ivory to Sofala and the Swahili coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "wealth": {
+        "value": "Gold trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "moneyAndTax": {
+        "value": "Tribute, market taxes and trade goods; cowrie shells in many markets.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "inequality": {
+        "value": "Rulers and nobles above free farmers; enslaved people at the bottom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy (Mwenemutapa; Changamire for the Rozvi).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "keyRulers": {
+        "value": "Nyatsimba Mutota. Changamire Dombo.",
+        "year": 1430,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "succession": {
+        "value": "Royal lineage; disputes common.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "institutions": {
+        "value": "Spirit mediums advised rulers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "stability": {
+        "value": "Civil wars weakened Mutapa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "eliteConflict": {
+        "value": "Rival princes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Spear armies.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "majorWars": {
+        "value": "Changamire Dombo drove out the Portuguese (1690s).",
+        "year": 1693,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "territoryChange": {
+        "value": "Portuguese gained influence in Mutapa (1629).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "alliancesRivals": {
+        "value": "Portuguese traders and soldiers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "scienceEducation": {
+        "value": "Oral learning; Qur’anic schools where Islam spread.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "openness": {
+        "value": "Open to trade, closed to rivals.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "communicationTransport": {
+        "value": "Footpaths, rivers and messengers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Shona religion (Mwari, ancestor spirits).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "languageWriting": {
+        "value": "Shona.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "artsArchitecture": {
+        "value": "Dry-stone walls.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "socialStructure": {
+        "value": "Ruling lineage, chiefs, farmers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler and lineage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "dailyLife": {
+        "value": "Farming households in villages.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Portuguese Mozambique, Torwa, Ndebele later.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "ideasReligions": {
+        "value": "Spirit mediums (mhondoro).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "colonisation": {
+        "value": "Portuguese influence (1600s); Ndebele raids (1838–).",
+        "year": 1629,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Mutapa founded (about 1430).",
+        "year": 1430,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "peakPeriod": {
+        "value": "Mutapa gold trade (1500s).",
+        "year": 1500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "declineSignals": {
+        "value": "Nguni and Ndebele invasions (1830s).",
+        "year": 1834,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "outcome": {
+        "value": "Broke up into chiefdoms; later part of Rhodesia.",
+        "year": 1866,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Kingdom of Mutapa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      },
+      "overallCertainty": {
+        "value": "Known from oral traditions, travellers and colonial records; many dates are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Mutapa"
+      }
+    }
+  }
+}

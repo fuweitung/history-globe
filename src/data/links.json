@@ -3462,5 +3462,383 @@
     "relation": "allied_with",
     "year": 1929,
     "note": "Lateran Treaty (1929)."
+  },
+  {
+    "fromPolityId": "mossi-kingdoms",
+    "toPolityId": "burkina-faso",
+    "relation": "succeeded",
+    "year": 1960,
+    "note": "The Mossi heartland is today’s Burkina Faso."
+  },
+  {
+    "fromPolityId": "kingdom-of-dahomey",
+    "toPolityId": "benin",
+    "relation": "succeeded",
+    "year": 1960,
+    "note": "Benin was called Dahomey until 1975."
+  },
+  {
+    "fromPolityId": "oyo-empire",
+    "toPolityId": "kingdom-of-dahomey",
+    "relation": "conquered",
+    "year": 1730,
+    "note": "Dahomey paid tribute to Oyo (1730–1823)."
+  },
+  {
+    "fromPolityId": "great-lakes-kingdoms",
+    "toPolityId": "uganda",
+    "relation": "succeeded",
+    "year": 1962,
+    "note": "Buganda and Bunyoro are in Uganda."
+  },
+  {
+    "fromPolityId": "great-lakes-kingdoms",
+    "toPolityId": "rwanda",
+    "relation": "succeeded",
+    "year": 1962,
+    "note": "The Rwandan kingdom ended in 1961."
+  },
+  {
+    "fromPolityId": "great-lakes-kingdoms",
+    "toPolityId": "burundi",
+    "relation": "succeeded",
+    "year": 1962,
+    "note": "The Burundian monarchy ended in 1966."
+  },
+  {
+    "fromPolityId": "lozi-kingdom",
+    "toPolityId": "zambia",
+    "relation": "succeeded",
+    "year": 1964,
+    "note": "Barotseland became part of Zambia."
+  },
+  {
+    "fromPolityId": "zulu-kingdom",
+    "toPolityId": "ndebele-kingdom",
+    "relation": "succeeded",
+    "year": 1838,
+    "note": "Mzilikazi was a Zulu general who broke away."
+  },
+  {
+    "fromPolityId": "ndebele-kingdom",
+    "toPolityId": "zimbabwe",
+    "relation": "succeeded",
+    "year": 1980,
+    "note": "Matabeleland is in Zimbabwe."
+  },
+  {
+    "fromPolityId": "great-zimbabwe",
+    "toPolityId": "shona-kingdoms",
+    "relation": "succeeded",
+    "year": 1450,
+    "note": "Mutapa and Rozvi followed Great Zimbabwe."
+  },
+  {
+    "fromPolityId": "shona-kingdoms",
+    "toPolityId": "zimbabwe",
+    "relation": "succeeded",
+    "year": 1980,
+    "note": "Zimbabwe takes its name from the stone ruins."
+  },
+  {
+    "fromPolityId": "portuguese-empire",
+    "toPolityId": "shona-kingdoms",
+    "relation": "traded_with",
+    "year": 1629,
+    "note": "Portuguese traders gained influence in Mutapa."
+  },
+  {
+    "fromPolityId": "toucouleur-empire",
+    "toPolityId": "bambara-kingdoms",
+    "relation": "conquered",
+    "year": 1861,
+    "note": "Umar Tall took Ségou (1861)."
+  },
+  {
+    "fromPolityId": "toucouleur-empire",
+    "toPolityId": "mali-modern",
+    "relation": "succeeded",
+    "year": 1960,
+    "note": "Its lands are in today’s Mali."
+  },
+  {
+    "fromPolityId": "futa-imamates",
+    "toPolityId": "guinea",
+    "relation": "succeeded",
+    "year": 1958,
+    "note": "Futa Jallon is in Guinea."
+  },
+  {
+    "fromPolityId": "wassoulou-empire",
+    "toPolityId": "guinea",
+    "relation": "succeeded",
+    "year": 1958,
+    "note": "Samori’s homeland is in Guinea."
+  },
+  {
+    "fromPolityId": "wassoulou-empire",
+    "toPolityId": "kong-empire",
+    "relation": "conquered",
+    "year": 1897,
+    "note": "Samori destroyed Kong."
+  },
+  {
+    "fromPolityId": "kong-empire",
+    "toPolityId": "ivory-coast",
+    "relation": "succeeded",
+    "year": 1960,
+    "note": "Kong is in northern Ivory Coast."
+  },
+  {
+    "fromPolityId": "bambara-kingdoms",
+    "toPolityId": "mali-modern",
+    "relation": "succeeded",
+    "year": 1960,
+    "note": "Ségou is in Mali."
+  },
+  {
+    "fromPolityId": "wadai-sultanate",
+    "toPolityId": "bagirmi-sultanate",
+    "relation": "conquered",
+    "year": 1871,
+    "note": "Wadai sacked Bagirmi."
+  },
+  {
+    "fromPolityId": "wadai-sultanate",
+    "toPolityId": "chad",
+    "relation": "succeeded",
+    "year": 1960,
+    "note": "Wadai is in eastern Chad."
+  },
+  {
+    "fromPolityId": "bagirmi-sultanate",
+    "toPolityId": "chad",
+    "relation": "succeeded",
+    "year": 1960,
+    "note": "Bagirmi is in Chad."
+  },
+  {
+    "fromPolityId": "kanem-bornu",
+    "toPolityId": "bagirmi-sultanate",
+    "relation": "conquered",
+    "year": 1600,
+    "note": "Bagirmi often paid tribute to Bornu."
+  },
+  {
+    "fromPolityId": "makuria",
+    "toPolityId": "funj-sultanate",
+    "relation": "succeeded",
+    "year": 1504,
+    "note": "The Funj replaced the last Christian Nubian kingdom (Alwa)."
+  },
+  {
+    "fromPolityId": "funj-sultanate",
+    "toPolityId": "sudan",
+    "relation": "succeeded",
+    "year": 1956,
+    "note": "Sennar is in Sudan."
+  },
+  {
+    "fromPolityId": "oman",
+    "toPolityId": "zanzibar-sultanate",
+    "relation": "succeeded",
+    "year": 1856,
+    "note": "Split from Oman’s empire."
+  },
+  {
+    "fromPolityId": "zanzibar-sultanate",
+    "toPolityId": "tanzania",
+    "relation": "succeeded",
+    "year": 1964,
+    "note": "Zanzibar joined Tanganyika in 1964."
+  },
+  {
+    "fromPolityId": "boer-republics",
+    "toPolityId": "south-africa",
+    "relation": "succeeded",
+    "year": 1910,
+    "note": "Joined the Union of South Africa."
+  },
+  {
+    "fromPolityId": "akan-states",
+    "toPolityId": "ashanti-empire",
+    "relation": "succeeded",
+    "year": 1701,
+    "note": "Asante rose from the Akan states."
+  },
+  {
+    "fromPolityId": "akan-states",
+    "toPolityId": "ghana",
+    "relation": "succeeded",
+    "year": 1957,
+    "note": "Akan peoples are the largest group in Ghana."
+  },
+  {
+    "fromPolityId": "adal-sultanate",
+    "toPolityId": "ethiopian-empire",
+    "relation": "conquered",
+    "year": 1529,
+    "note": "Ahmad Gragn overran Ethiopia."
+  },
+  {
+    "fromPolityId": "adal-sultanate",
+    "toPolityId": "djibouti",
+    "relation": "succeeded",
+    "year": 1977,
+    "note": "Adal’s port of Zeila region lies near Djibouti and Somaliland."
+  },
+  {
+    "fromPolityId": "saudi-arabia",
+    "toPolityId": "kingdom-of-hejaz",
+    "relation": "conquered",
+    "year": 1925,
+    "note": "Ibn Saud conquered the Hejaz (1924–25)."
+  },
+  {
+    "fromPolityId": "kingdom-of-hejaz",
+    "toPolityId": "jordan",
+    "relation": "succeeded",
+    "year": 1946,
+    "note": "Hussein’s son Abdullah founded Transjordan (1921), independent as Jordan in 1946."
+  },
+  {
+    "fromPolityId": "emirate-of-jabal-shammar",
+    "toPolityId": "saudi-arabia",
+    "relation": "conquered",
+    "year": 1902,
+    "note": "Rivals for central Arabia; Ibn Saud took Ha’il in 1921."
+  },
+  {
+    "fromPolityId": "kingdom-of-england",
+    "toPolityId": "great-britain",
+    "relation": "succeeded",
+    "year": 1707,
+    "note": "United with Scotland."
+  },
+  {
+    "fromPolityId": "kingdom-of-scotland",
+    "toPolityId": "great-britain",
+    "relation": "succeeded",
+    "year": 1707,
+    "note": "United with England."
+  },
+  {
+    "fromPolityId": "kingdom-of-england",
+    "toPolityId": "kingdom-of-scotland",
+    "relation": "conquered",
+    "year": 1296,
+    "note": "Wars of Scottish Independence."
+  },
+  {
+    "fromPolityId": "kingdom-of-england",
+    "toPolityId": "kingdom-of-france",
+    "relation": "conquered",
+    "year": 1337,
+    "note": "Hundred Years’ War."
+  },
+  {
+    "fromPolityId": "kingdom-of-ireland",
+    "toPolityId": "british-empire",
+    "relation": "succeeded",
+    "year": 1801,
+    "note": "Merged into the United Kingdom."
+  },
+  {
+    "fromPolityId": "kingdom-of-ireland",
+    "toPolityId": "ireland",
+    "relation": "succeeded",
+    "year": 1922,
+    "note": "The Irish Free State was founded in 1922."
+  },
+  {
+    "fromPolityId": "kingdom-of-england",
+    "toPolityId": "kingdom-of-ireland",
+    "relation": "colonised",
+    "year": 1609,
+    "note": "English conquest and plantations."
+  },
+  {
+    "fromPolityId": "khmer-empire",
+    "toPolityId": "post-angkor-cambodia",
+    "relation": "succeeded",
+    "year": 1431,
+    "note": "The court left Angkor."
+  },
+  {
+    "fromPolityId": "post-angkor-cambodia",
+    "toPolityId": "cambodia",
+    "relation": "succeeded",
+    "year": 1953,
+    "note": "The same monarchy continued."
+  },
+  {
+    "fromPolityId": "ayutthaya-kingdom",
+    "toPolityId": "post-angkor-cambodia",
+    "relation": "conquered",
+    "year": 1594,
+    "note": "Siam took Longvek."
+  },
+  {
+    "fromPolityId": "lan-xang",
+    "toPolityId": "lao-kingdoms",
+    "relation": "succeeded",
+    "year": 1707,
+    "note": "Lan Xang split in three."
+  },
+  {
+    "fromPolityId": "rattanakosin-siam",
+    "toPolityId": "lao-kingdoms",
+    "relation": "conquered",
+    "year": 1828,
+    "note": "Siam crushed Vientiane."
+  },
+  {
+    "fromPolityId": "lao-kingdoms",
+    "toPolityId": "laos",
+    "relation": "succeeded",
+    "year": 1953,
+    "note": "Luang Prabang’s royal line ruled Laos until 1975."
+  },
+  {
+    "fromPolityId": "pagan-kingdom",
+    "toPolityId": "shan-states",
+    "relation": "succeeded",
+    "year": 1287,
+    "note": "Shan princes rose after Pagan fell."
+  },
+  {
+    "fromPolityId": "shan-states",
+    "toPolityId": "myanmar",
+    "relation": "succeeded",
+    "year": 1948,
+    "note": "The Shan states joined Burma."
+  },
+  {
+    "fromPolityId": "konbaung-dynasty",
+    "toPolityId": "mrauk-u",
+    "relation": "conquered",
+    "year": 1785,
+    "note": "Burma conquered Arakan."
+  },
+  {
+    "fromPolityId": "mrauk-u",
+    "toPolityId": "myanmar",
+    "relation": "succeeded",
+    "year": 1948,
+    "note": "Rakhine State is in Myanmar."
+  },
+  {
+    "fromPolityId": "safavid-persia",
+    "toPolityId": "zand-persia",
+    "relation": "succeeded",
+    "year": 1751,
+    "note": "After the Safavids and Nader Shah."
+  },
+  {
+    "fromPolityId": "zand-persia",
+    "toPolityId": "qajar-pahlavi-iran",
+    "relation": "succeeded",
+    "year": 1794,
+    "note": "The Qajars defeated the last Zand ruler."
   }
 ]

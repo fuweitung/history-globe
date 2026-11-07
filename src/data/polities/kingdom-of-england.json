@@ -1,0 +1,329 @@
+{
+  "id": "kingdom-of-england",
+  "name": "Kingdom of England",
+  "era": "medieval",
+  "region": "Western Europe",
+  "startYear": 927,
+  "endYear": 1707,
+  "capital": "London (Winchester early on)",
+  "capitalCoords": [
+    -0.12,
+    51.51
+  ],
+  "summary": "The kingdom united by Æthelstan in 927; conquered by the Normans in 1066, it developed Parliament and common law, broke with Rome (1534), ruled Wales and Ireland, and joined Scotland to form Great Britain in 1707.",
+  "wikiTitle": "Kingdom of England",
+  "borderNames": [],
+  "borderNameYears": {
+    "England": [
+      927,
+      1707
+    ],
+    "England and Ireland": [
+      1530,
+      1707
+    ],
+    "English territory": [
+      1066,
+      1453
+    ]
+  },
+  "color": "#c03a3a",
+  "knownFor": [
+    {
+      "label": "Magna Carta",
+      "kind": "idea",
+      "year": 1215,
+      "note": "Limits on the king’s power."
+    },
+    {
+      "label": "Longbow",
+      "kind": "weapon",
+      "note": "Won Crécy and Agincourt."
+    },
+    {
+      "label": "Shakespeare",
+      "kind": "person",
+      "note": "Playwright (1564–1616)."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Southern Great Britain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "terrain": {
+        "value": "Lowlands, hills and moors.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "climate": {
+        "value": "Mild and wet.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "resources": {
+        "value": "Wool, tin, coal, farmland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "disasters": {
+        "value": "Great Fire of London (1666).",
+        "year": 1666,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 2 million (1086); 5 million (1700).",
+        "year": 1700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "urbanisation": {
+        "value": "London grew to over 500,000 by 1700.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "disease": {
+        "value": "Black Death (1348–49).",
+        "year": 1348,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "migration": {
+        "value": "Normans, Flemish weavers, Huguenots.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming and the wool trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "tradeRoutes": {
+        "value": "Wool to Flanders; later Atlantic trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "wealth": {
+        "value": "Growing merchant wealth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "moneyAndTax": {
+        "value": "Pound sterling; parliamentary taxes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "inequality": {
+        "value": "Nobles, gentry, peasants.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy with Parliament; a republic (1649–60).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "keyRulers": {
+        "value": "Alfred and Æthelstan. William I. Henry VIII. Elizabeth I.",
+        "year": 1066,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "succession": {
+        "value": "Hereditary; disputed in the Wars of the Roses.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "institutions": {
+        "value": "Parliament; common law; Bill of Rights (1689).",
+        "year": 1689,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "stability": {
+        "value": "Civil wars (1642–51); Glorious Revolution (1688).",
+        "year": 1642,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "eliteConflict": {
+        "value": "Crown against barons and Parliament.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Longbowmen; later a navy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "majorWars": {
+        "value": "Norman Conquest (1066); Hundred Years’ War; Spanish Armada (1588); English Civil War.",
+        "year": 1066,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "territoryChange": {
+        "value": "Annexed Wales (1536); lost France (1453).",
+        "year": 1453,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "alliancesRivals": {
+        "value": "Rival of France and Spain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Scientific Revolution: Newton’s laws (1687).",
+        "year": 1687,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "scienceEducation": {
+        "value": "Oxford and Cambridge; Royal Society (1660).",
+        "year": 1660,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "openness": {
+        "value": "Open to trade with Europe.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "communicationTransport": {
+        "value": "Roads, rivers, sea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Catholic, then Church of England (1534).",
+        "year": 1534,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "languageWriting": {
+        "value": "Old English, then Middle and modern English.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "artsArchitecture": {
+        "value": "Gothic cathedrals; Elizabethan theatre.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "socialStructure": {
+        "value": "Feudal, then gentry and merchants.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "sharedIdentity": {
+        "value": "English Protestant identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "dailyLife": {
+        "value": "Villages; bread, ale.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Scotland, Wales, Ireland, France.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "ideasReligions": {
+        "value": "Reformation; common law; parliamentary rights.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "colonisation": {
+        "value": "First colonies in America (Jamestown 1607).",
+        "year": 1607,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Unification under Æthelstan (927).",
+        "year": 927,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "peakPeriod": {
+        "value": "Elizabethan age (1558–1603).",
+        "year": 1580,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "declineSignals": {
+        "value": "None; it merged into Great Britain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "outcome": {
+        "value": "Joined Scotland as Great Britain (1707).",
+        "year": 1707,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Kingdom of England.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of England"
+      },
+      "overallCertainty": {
+        "value": "Main events are well documented; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of England"
+      }
+    }
+  }
+}

@@ -2117,7 +2117,9 @@
   "died": 1616,
   "role": "writer",
   "description": "English playwright and poet.",
-  "polityIds": [],
+  "polityIds": [
+   "kingdom-of-england"
+  ],
   "place": [
    -1.71,
    52.19
@@ -2331,7 +2333,8 @@
   "role": "scientist",
   "description": "English polymath.",
   "polityIds": [
-   "great-britain"
+   "great-britain",
+   "kingdom-of-england"
   ],
   "place": [
    -0.13,
@@ -7887,5 +7890,339 @@
   ],
   "wikiTitle": "Pope John Paul II",
   "source": "Wikipedia: Pope John Paul II"
+ },
+ {
+  "id": "king-ghezo",
+  "name": "Ghezo",
+  "born": 1797,
+  "died": 1858,
+  "role": "ruler",
+  "description": "King of Dahomey who ended its tribute to Oyo.",
+  "polityIds": [
+   "kingdom-of-dahomey"
+  ],
+  "place": [
+   1.99,
+   7.18
+  ],
+  "wikiTitle": "Ghezo",
+  "source": "Wikipedia: Ghezo"
+ },
+ {
+  "id": "mutesa-i",
+  "name": "Mutesa I",
+  "born": 1837,
+  "died": 1884,
+  "role": "ruler",
+  "description": "Kabaka of Buganda who welcomed traders and missionaries.",
+  "polityIds": [
+   "great-lakes-kingdoms"
+  ],
+  "place": [
+   32.57,
+   0.31
+  ],
+  "wikiTitle": "Muteesa I of Buganda",
+  "source": "Wikipedia: Muteesa I of Buganda"
+ },
+ {
+  "id": "lewanika",
+  "name": "Lewanika",
+  "born": 1842,
+  "died": 1916,
+  "role": "ruler",
+  "description": "Litunga of the Lozi; signed treaties with Britain.",
+  "polityIds": [
+   "lozi-kingdom"
+  ],
+  "place": [
+   23.1,
+   -15.2
+  ],
+  "wikiTitle": "Lewanika",
+  "source": "Wikipedia: Lewanika"
+ },
+ {
+  "id": "mzilikazi",
+  "name": "Mzilikazi",
+  "born": 1790,
+  "died": 1868,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Founder of the Ndebele kingdom.",
+  "polityIds": [
+   "ndebele-kingdom",
+   "zulu-kingdom"
+  ],
+  "place": [
+   28.58,
+   -20.15
+  ],
+  "wikiTitle": "Mzilikazi",
+  "source": "Wikipedia: Mzilikazi"
+ },
+ {
+  "id": "lobengula",
+  "name": "Lobengula",
+  "born": 1845,
+  "died": 1894,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Last king of the Ndebele.",
+  "polityIds": [
+   "ndebele-kingdom"
+  ],
+  "place": [
+   28.58,
+   -20.15
+  ],
+  "wikiTitle": "Lobengula",
+  "source": "Wikipedia: Lobengula"
+ },
+ {
+  "id": "umar-tall",
+  "name": "El Hadj Umar Tall",
+  "born": 1797,
+  "died": 1864,
+  "datesApproximate": true,
+  "role": "religious",
+  "description": "Sufi leader who founded the Toucouleur Empire.",
+  "polityIds": [
+   "toucouleur-empire"
+  ],
+  "place": [
+   -6.27,
+   13.44
+  ],
+  "wikiTitle": "Umar Tall",
+  "source": "Wikipedia: Umar Tall"
+ },
+ {
+  "id": "samori-toure",
+  "name": "Samori Touré",
+  "born": 1830,
+  "died": 1900,
+  "datesApproximate": true,
+  "role": "military",
+  "description": "Built the Wassoulou Empire and fought France for 16 years.",
+  "polityIds": [
+   "wassoulou-empire"
+  ],
+  "place": [
+   -8.98,
+   10.03
+  ],
+  "wikiTitle": "Samori Ture",
+  "source": "Wikipedia: Samori Ture"
+ },
+ {
+  "id": "paul-kruger",
+  "name": "Paul Kruger",
+  "born": 1825,
+  "died": 1904,
+  "role": "ruler",
+  "description": "President of the South African Republic (Transvaal).",
+  "polityIds": [
+   "boer-republics"
+  ],
+  "place": [
+   28.19,
+   -25.75
+  ],
+  "wikiTitle": "Paul Kruger",
+  "source": "Wikipedia: Paul Kruger"
+ },
+ {
+  "id": "ahmad-gragn",
+  "name": "Ahmad ibn Ibrahim al-Ghazi",
+  "born": 1506,
+  "died": 1543,
+  "datesApproximate": true,
+  "role": "military",
+  "description": "Imam of Adal who conquered much of Ethiopia.",
+  "polityIds": [
+   "adal-sultanate"
+  ],
+  "place": [
+   42.12,
+   9.31
+  ],
+  "wikiTitle": "Ahmad ibn Ibrahim al-Ghazi",
+  "source": "Wikipedia: Ahmad ibn Ibrahim al-Ghazi"
+ },
+ {
+  "id": "sharif-hussein",
+  "name": "Hussein bin Ali",
+  "born": 1854,
+  "died": 1931,
+  "role": "ruler",
+  "description": "Sharif of Mecca who led the Arab Revolt and became King of Hejaz.",
+  "polityIds": [
+   "kingdom-of-hejaz",
+   "ottoman-empire"
+  ],
+  "place": [
+   39.83,
+   21.42
+  ],
+  "wikiTitle": "Hussein bin Ali, Sharif of Mecca",
+  "source": "Wikipedia: Hussein bin Ali, Sharif of Mecca"
+ },
+ {
+  "id": "alfred-the-great",
+  "name": "Alfred the Great",
+  "born": 849,
+  "died": 899,
+  "role": "ruler",
+  "description": "King of Wessex who resisted the Vikings.",
+  "polityIds": [
+   "viking-age-norse"
+  ],
+  "place": [
+   -1.31,
+   51.06
+  ],
+  "wikiTitle": "Alfred the Great",
+  "source": "Wikipedia: Alfred the Great"
+ },
+ {
+  "id": "william-the-conqueror",
+  "name": "William the Conqueror",
+  "born": 1028,
+  "died": 1087,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Duke of Normandy who conquered England in 1066.",
+  "polityIds": [
+   "kingdom-of-england",
+   "kingdom-of-france"
+  ],
+  "place": [
+   -0.12,
+   51.51
+  ],
+  "wikiTitle": "William the Conqueror",
+  "source": "Wikipedia: William the Conqueror"
+ },
+ {
+  "id": "henry-viii",
+  "name": "Henry VIII",
+  "born": 1491,
+  "died": 1547,
+  "role": "ruler",
+  "description": "King of England who broke with the Pope.",
+  "polityIds": [
+   "kingdom-of-england",
+   "kingdom-of-ireland"
+  ],
+  "place": [
+   -0.12,
+   51.51
+  ],
+  "wikiTitle": "Henry VIII",
+  "source": "Wikipedia: Henry VIII"
+ },
+ {
+  "id": "elizabeth-i",
+  "name": "Elizabeth I",
+  "born": 1533,
+  "died": 1603,
+  "role": "ruler",
+  "description": "Queen of England during the defeat of the Armada.",
+  "polityIds": [
+   "kingdom-of-england"
+  ],
+  "place": [
+   -0.12,
+   51.51
+  ],
+  "wikiTitle": "Elizabeth I",
+  "source": "Wikipedia: Elizabeth I"
+ },
+ {
+  "id": "robert-the-bruce",
+  "name": "Robert the Bruce",
+  "born": 1274,
+  "died": 1329,
+  "role": "ruler",
+  "description": "King of Scots who won Bannockburn.",
+  "polityIds": [
+   "kingdom-of-scotland"
+  ],
+  "place": [
+   -3.19,
+   55.95
+  ],
+  "wikiTitle": "Robert the Bruce",
+  "source": "Wikipedia: Robert the Bruce"
+ },
+ {
+  "id": "mary-queen-of-scots",
+  "name": "Mary, Queen of Scots",
+  "born": 1542,
+  "died": 1587,
+  "role": "ruler",
+  "description": "Queen of Scotland, executed in England.",
+  "polityIds": [
+   "kingdom-of-scotland"
+  ],
+  "place": [
+   -3.19,
+   55.95
+  ],
+  "wikiTitle": "Mary, Queen of Scots",
+  "source": "Wikipedia: Mary, Queen of Scots"
+ },
+ {
+  "id": "wolfe-tone",
+  "name": "Wolfe Tone",
+  "born": 1763,
+  "died": 1798,
+  "role": "thinker",
+  "description": "Leader of the United Irishmen.",
+  "polityIds": [
+   "kingdom-of-ireland"
+  ],
+  "place": [
+   -6.26,
+   53.35
+  ],
+  "wikiTitle": "Theobald Wolfe Tone",
+  "source": "Wikipedia: Theobald Wolfe Tone"
+ },
+ {
+  "id": "anouvong",
+  "name": "Anouvong",
+  "born": 1767,
+  "died": 1829,
+  "role": "ruler",
+  "description": "Last king of Vientiane; led the revolt against Siam.",
+  "polityIds": [
+   "lao-kingdoms"
+  ],
+  "place": [
+   102.63,
+   17.97
+  ],
+  "wikiTitle": "Anouvong",
+  "source": "Wikipedia: Anouvong"
+ },
+ {
+  "id": "karim-khan-zand",
+  "name": "Karim Khan Zand",
+  "born": 1705,
+  "died": 1779,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Ruler of Iran from Shiraz.",
+  "polityIds": [
+   "zand-persia"
+  ],
+  "place": [
+   52.53,
+   29.61
+  ],
+  "wikiTitle": "Karim Khan Zand",
+  "source": "Wikipedia: Karim Khan Zand"
  }
 ]

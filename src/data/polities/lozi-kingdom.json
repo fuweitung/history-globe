@@ -1,0 +1,324 @@
+{
+  "id": "lozi-kingdom",
+  "name": "Lozi Kingdom (Barotseland)",
+  "era": "early_modern",
+  "region": "Southern Africa",
+  "startYear": 1600,
+  "endYear": 1964,
+  "capital": "Lealui",
+  "capitalCoords": [
+    23.1,
+    -15.2
+  ],
+  "summary": "The kingdom of the Lozi people on the upper Zambezi floodplain, led by the Litunga; the Kololo ruled it 1840–64. A British protectorate from 1890, it became part of Zambia in 1964.",
+  "wikiTitle": "Barotseland",
+  "borderNames": [],
+  "borderNameYears": {
+    "Lozi": [
+      1600,
+      1900
+    ],
+    "Barotse": [
+      1600,
+      1900
+    ]
+  },
+  "color": "#6a8a3a",
+  "knownFor": [
+    {
+      "label": "Kuomboka",
+      "kind": "art",
+      "note": "Royal move to high ground in the floods."
+    },
+    {
+      "label": "Nalikwanda barge",
+      "kind": "tool",
+      "note": "Royal barge with a giant elephant."
+    },
+    {
+      "label": "Litunga",
+      "kind": "person",
+      "note": "The Lozi king."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Upper Zambezi floodplain, western Zambia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      },
+      "terrain": {
+        "value": "Floodplain and woodland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      },
+      "climate": {
+        "value": "Tropical; yearly floods.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      },
+      "resources": {
+        "value": "Fish, cattle, grain from the floodplain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      },
+      "disasters": {
+        "value": "Annual floods.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 100,000–200,000.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Barotseland"
+      },
+      "urbanisation": {
+        "value": "Mostly villages; a royal capital and market towns.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Barotseland"
+      },
+      "disease": {
+        "value": "Malaria and other tropical diseases; smallpox outbreaks.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Barotseland"
+      },
+      "migration": {
+        "value": "Kololo invaders from the south (1840).",
+        "year": 1840,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Floodplain farming, cattle, fishing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      },
+      "tradeRoutes": {
+        "value": "Ivory trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      },
+      "wealth": {
+        "value": "Moderate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      },
+      "moneyAndTax": {
+        "value": "Tribute, market taxes and trade goods; cowrie shells in many markets.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Barotseland"
+      },
+      "inequality": {
+        "value": "Rulers and nobles above free farmers; enslaved people at the bottom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Barotseland"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy with a council (Kuta).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      },
+      "keyRulers": {
+        "value": "Lewanika (1878–1916).",
+        "year": 1878,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      },
+      "succession": {
+        "value": "Royal family.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      },
+      "institutions": {
+        "value": "Kuta council.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      },
+      "stability": {
+        "value": "Kololo conquest (1840–64).",
+        "year": 1840,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      },
+      "eliteConflict": {
+        "value": "Royal rivals.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Spear armies; canoes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      },
+      "majorWars": {
+        "value": "Kololo war; revolt (1864).",
+        "year": 1864,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      },
+      "territoryChange": {
+        "value": "Little change.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      },
+      "alliancesRivals": {
+        "value": "Treaty with the British South Africa Company (1890).",
+        "year": 1890,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Barotseland"
+      },
+      "scienceEducation": {
+        "value": "Oral learning; Qur’anic schools where Islam spread.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Barotseland"
+      },
+      "openness": {
+        "value": "Open to trade, closed to rivals.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Barotseland"
+      },
+      "communicationTransport": {
+        "value": "Footpaths, rivers and messengers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Barotseland"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Traditional religion; missions from 1880s.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      },
+      "languageWriting": {
+        "value": "Silozi.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      },
+      "artsArchitecture": {
+        "value": "Basketry and carving.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      },
+      "socialStructure": {
+        "value": "Royal family, chiefs, subject peoples.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler and lineage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Barotseland"
+      },
+      "dailyLife": {
+        "value": "Farming households in villages.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Barotseland"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Ndebele, Kololo, Luba-Lunda.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      },
+      "ideasReligions": {
+        "value": "Sacred kingship.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      },
+      "colonisation": {
+        "value": "British protectorate (1890).",
+        "year": 1890,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Kingdom formed in the 1600s.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Barotseland"
+      },
+      "peakPeriod": {
+        "value": "Under Lewanika.",
+        "year": 1880,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      },
+      "declineSignals": {
+        "value": "Absorbed into Northern Rhodesia.",
+        "year": 1911,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      },
+      "outcome": {
+        "value": "Part of Zambia (1964); the Litunga remains.",
+        "year": 1964,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Barotseland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Barotseland"
+      },
+      "overallCertainty": {
+        "value": "Known from oral traditions, travellers and colonial records; many dates are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Barotseland"
+      }
+    }
+  }
+}
