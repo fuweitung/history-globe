@@ -4176,5 +4176,201 @@
     "relation": "succeeded",
     "year": 1960,
     "note": "Wolof kingdoms became part of Senegal."
+  },
+  {
+    "fromPolityId": "ming-china",
+    "toPolityId": "southern-ming",
+    "relation": "succeeded",
+    "year": 1644,
+    "note": "Ming loyalist courts after the fall of Beijing."
+  },
+  {
+    "fromPolityId": "qing-china",
+    "toPolityId": "southern-ming",
+    "relation": "conquered",
+    "year": 1683,
+    "note": "Qing conquest."
+  },
+  {
+    "fromPolityId": "southern-ming",
+    "toPolityId": "republic-of-china",
+    "relation": "succeeded",
+    "year": 1945,
+    "note": "Taiwan’s Han settlement grew under the Zheng family."
+  },
+  {
+    "fromPolityId": "pagan-kingdom",
+    "toPolityId": "ava-and-hanthawaddy",
+    "relation": "succeeded",
+    "year": 1287,
+    "note": "Successor kingdoms of Pagan."
+  },
+  {
+    "fromPolityId": "ava-and-hanthawaddy",
+    "toPolityId": "toungoo-dynasty",
+    "relation": "succeeded",
+    "year": 1555,
+    "note": "Toungoo conquered both."
+  },
+  {
+    "fromPolityId": "precolonial-philippines",
+    "toPolityId": "spanish-empire",
+    "relation": "conquered",
+    "year": 1571,
+    "note": "Spanish conquest."
+  },
+  {
+    "fromPolityId": "bruneian-empire",
+    "toPolityId": "precolonial-philippines",
+    "relation": "traded_with",
+    "year": 1500,
+    "note": "Brunei had close ties with Maynila."
+  },
+  {
+    "fromPolityId": "precolonial-philippines",
+    "toPolityId": "philippines",
+    "relation": "succeeded",
+    "year": 1946,
+    "note": "Ancestor states of the Philippines."
+  },
+  {
+    "fromPolityId": "malla-nepal",
+    "toPolityId": "nepal",
+    "relation": "succeeded",
+    "year": 1769,
+    "note": "Gorkha conquest of the valley."
+  },
+  {
+    "fromPolityId": "oman-imamate",
+    "toPolityId": "oman",
+    "relation": "succeeded",
+    "year": 1744,
+    "note": "Followed by the Al Said dynasty."
+  },
+  {
+    "fromPolityId": "oman-imamate",
+    "toPolityId": "portuguese-empire",
+    "relation": "conquered",
+    "year": 1650,
+    "note": "Retook Muscat."
+  },
+  {
+    "fromPolityId": "songhai-empire",
+    "toPolityId": "dendi-kingdom",
+    "relation": "succeeded",
+    "year": 1591,
+    "note": "Songhai resistance after Tondibi."
+  },
+  {
+    "fromPolityId": "dendi-kingdom",
+    "toPolityId": "niger",
+    "relation": "succeeded",
+    "year": 1960,
+    "note": "Dendi lands are in Niger and Benin."
+  },
+  {
+    "fromPolityId": "kuba-kingdom",
+    "toPolityId": "dr-congo",
+    "relation": "succeeded",
+    "year": 1960,
+    "note": "Kasai is in the DR Congo."
+  },
+  {
+    "fromPolityId": "ovimbundu-kingdoms",
+    "toPolityId": "angola",
+    "relation": "succeeded",
+    "year": 1975,
+    "note": "The Ovimbundu are Angola’s largest people."
+  },
+  {
+    "fromPolityId": "luba-lunda",
+    "toPolityId": "yeke-kingdom",
+    "relation": "conquered",
+    "year": 1870,
+    "note": "Msiri took lands from Kazembe’s Lunda."
+  },
+  {
+    "fromPolityId": "yeke-kingdom",
+    "toPolityId": "dr-congo",
+    "relation": "succeeded",
+    "year": 1960,
+    "note": "Katanga is in the DR Congo."
+  },
+  {
+    "fromPolityId": "nyamwezi-states",
+    "toPolityId": "tanzania",
+    "relation": "succeeded",
+    "year": 1961,
+    "note": "Nyamwezi lands are in Tanzania."
+  },
+  {
+    "fromPolityId": "zanzibar-sultanate",
+    "toPolityId": "utetera",
+    "relation": "traded_with",
+    "year": 1880,
+    "note": "Tippu Tip traded through Zanzibar."
+  },
+  {
+    "fromPolityId": "utetera",
+    "toPolityId": "dr-congo",
+    "relation": "succeeded",
+    "year": 1960,
+    "note": "Maniema is in the DR Congo."
+  },
+  {
+    "fromPolityId": "teke-kingdom",
+    "toPolityId": "kingdom-of-kongo",
+    "relation": "traded_with",
+    "year": 1550,
+    "note": "Rivals and trading partners at Malebo Pool."
+  },
+  {
+    "fromPolityId": "teke-kingdom",
+    "toPolityId": "republic-of-congo",
+    "relation": "succeeded",
+    "year": 1960,
+    "note": "Teke lands are in the Republic of the Congo."
+  },
+  {
+    "fromPolityId": "luba-lunda",
+    "toPolityId": "yaka-kingdom",
+    "relation": "succeeded",
+    "year": 1650,
+    "note": "The Yaka kingdom formed under Lunda influence."
+  },
+  {
+    "fromPolityId": "oyo-empire",
+    "toPolityId": "borgu-states",
+    "relation": "conquered",
+    "year": 1783,
+    "note": "Borgu fought Oyo."
+  },
+  {
+    "fromPolityId": "borgu-states",
+    "toPolityId": "benin",
+    "relation": "succeeded",
+    "year": 1960,
+    "note": "Nikki is in Benin."
+  },
+  {
+    "fromPolityId": "rabih-state",
+    "toPolityId": "kanem-bornu",
+    "relation": "conquered",
+    "year": 1893,
+    "note": "Rabih conquered Bornu."
+  },
+  {
+    "fromPolityId": "xhosa-kingdom",
+    "toPolityId": "south-africa",
+    "relation": "succeeded",
+    "year": 1910,
+    "note": "The Eastern Cape is in South Africa."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "xhosa-kingdom",
+    "relation": "conquered",
+    "year": 1878,
+    "note": "Frontier wars."
   }
 ]

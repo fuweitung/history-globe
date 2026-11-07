@@ -1,0 +1,321 @@
+{
+  "id": "teke-kingdom",
+  "name": "Teke Kingdom (Anziku)",
+  "era": "early_modern",
+  "region": "Central Africa",
+  "startYear": 1500,
+  "endYear": 1880,
+  "capital": "Mbe",
+  "capitalCoords": [
+    15.5,
+    -2.5
+  ],
+  "summary": "A kingdom of the Teke on the plateaus north of Malebo Pool, trading partner and rival of Kongo; King Makoko signed a treaty with Brazza in 1880 that started French Congo.",
+  "wikiTitle": "Anziku Kingdom",
+  "borderNames": [],
+  "borderNameYears": {
+    "Teke": [
+      1500,
+      1880
+    ]
+  },
+  "color": "#7a7a4a",
+  "knownFor": [
+    {
+      "label": "Makoko treaty",
+      "kind": "idea",
+      "year": 1880,
+      "note": "Signed with Brazza."
+    },
+    {
+      "label": "Teke figures",
+      "kind": "art",
+      "note": "Carved power figures."
+    },
+    {
+      "label": "Malebo Pool",
+      "kind": "monument",
+      "note": "Trade hub."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Teke plateaus, Republic of the Congo.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "terrain": {
+        "value": "Grass plateaus.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "resources": {
+        "value": "Copper, cloth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "disasters": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Anziku Kingdom"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "urbanisation": {
+        "value": "Mostly villages; a royal or market town.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "disease": {
+        "value": "Malaria, sleeping sickness and smallpox.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "migration": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Anziku Kingdom"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming and trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "tradeRoutes": {
+        "value": "Malebo Pool trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "wealth": {
+        "value": "Modest.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "moneyAndTax": {
+        "value": "Tribute, cloth, cowries and trade goods.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "inequality": {
+        "value": "Rulers and nobles above farmers; captives and slaves at the bottom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Anziku Kingdom"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy (Makoko).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "keyRulers": {
+        "value": "Makoko Iloo I.",
+        "year": 1880,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "succession": {
+        "value": "Royal lineage.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "institutions": {
+        "value": "Chiefs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "stability": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "eliteConflict": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Anziku Kingdom"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Archers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "majorWars": {
+        "value": "Wars with Kongo (1500s).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "territoryChange": {
+        "value": "Became French.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "alliancesRivals": {
+        "value": "Kongo.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Anziku Kingdom"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "scienceEducation": {
+        "value": "Oral learning; Qur’anic schools where Islam spread.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "openness": {
+        "value": "Open to trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "communicationTransport": {
+        "value": "Footpaths, rivers and porters.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Anziku Kingdom"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Traditional religion.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "languageWriting": {
+        "value": "Teke.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "artsArchitecture": {
+        "value": "Carved figures.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "socialStructure": {
+        "value": "King, chiefs, villagers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler and lineage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "dailyLife": {
+        "value": "Village farming; cassava, millet or sorghum.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Anziku Kingdom"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Kongo, Bobangi traders.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "ideasReligions": {
+        "value": "Sacred kingship.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "colonisation": {
+        "value": "French treaty (1880).",
+        "year": 1880,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Anziku Kingdom"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Before 1500.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "peakPeriod": {
+        "value": "1500s.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "declineSignals": {
+        "value": "French colonisation.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "outcome": {
+        "value": "Part of French Congo.",
+        "year": 1880,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Anziku Kingdom"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Anziku Kingdom.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Anziku Kingdom"
+      },
+      "overallCertainty": {
+        "value": "Known from oral traditions, travellers and colonial records; many dates are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Anziku Kingdom"
+      }
+    }
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "id": "precolonial-philippines",
+  "name": "Pre-colonial Philippine states",
+  "era": "medieval",
+  "region": "Southeast Asia (Philippines & Borneo)",
+  "startYear": 900,
+  "endYear": 1571,
+  "capital": "Tondo, Maynila, Cebu and others",
+  "capitalCoords": [
+    120.97,
+    14.6
+  ],
+  "summary": "Barangay communities and small kingdoms of the Philippine islands, such as Tondo, Maynila and Cebu, that traded with China and Borneo before Spain conquered most of the islands from 1565.",
+  "wikiTitle": "History of the Philippines (900–1565)",
+  "borderNames": [],
+  "borderNameYears": {
+    "Philippines": [
+      900,
+      1571
+    ]
+  },
+  "color": "#3a8ac0",
+  "knownFor": [
+    {
+      "label": "Laguna Copperplate Inscription",
+      "kind": "idea",
+      "year": 900,
+      "note": "Oldest known Philippine document."
+    },
+    {
+      "label": "Lapulapu",
+      "kind": "person",
+      "note": "Killed Magellan at Mactan (1521)."
+    },
+    {
+      "label": "Balangay boats",
+      "kind": "tool",
+      "note": "Wooden plank boats."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Philippine islands (Luzon, Visayas, northern Mindanao).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "terrain": {
+        "value": "Islands, coasts, mountains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "climate": {
+        "value": "Tropical, with typhoons.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "resources": {
+        "value": "Rice, gold, forest goods.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "disasters": {
+        "value": "Typhoons, volcanoes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Perhaps 1 million.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "urbanisation": {
+        "value": "Mostly villages and farming land around a royal capital.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "disease": {
+        "value": "Epidemics and famines.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "migration": {
+        "value": "Chinese and Malay traders.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Rice farming, fishing, trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "tradeRoutes": {
+        "value": "Trade with China, Borneo and the Malay world.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "wealth": {
+        "value": "Gold ornaments.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "moneyAndTax": {
+        "value": "Gold beads (piloncitos), barter.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "inequality": {
+        "value": "Rulers and nobles above farmers; some slavery or bonded labour.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Barangays led by datus; some rajahnates.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "keyRulers": {
+        "value": "Rajah Sulayman. Rajah Humabon. Lapulapu.",
+        "year": 1521,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "succession": {
+        "value": "Datu families.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "institutions": {
+        "value": "Customary law.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "stability": {
+        "value": "Many small rival states.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "eliteConflict": {
+        "value": "Rival datus.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Boats and bladed weapons (kampilan).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "majorWars": {
+        "value": "Battle of Mactan (1521).",
+        "year": 1521,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "territoryChange": {
+        "value": "Conquered by Spain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "alliancesRivals": {
+        "value": "Brunei, Sulu, Ming China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "scienceEducation": {
+        "value": "Baybayin script.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "openness": {
+        "value": "Open to trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "communicationTransport": {
+        "value": "Rivers, coastal shipping and footpaths.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Animism; Islam spreading in the south and Manila.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "languageWriting": {
+        "value": "Tagalog, Visayan and others; Baybayin script.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "artsArchitecture": {
+        "value": "Gold jewellery; houses on stilts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "socialStructure": {
+        "value": "Datus, freemen (maharlika, timawa), dependants (alipin).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler and faith.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "dailyLife": {
+        "value": "Village farming households.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Brunei, Sulu, China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "ideasReligions": {
+        "value": "Islam spread from Borneo.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "colonisation": {
+        "value": "Spanish conquest from 1565; Manila taken 1571.",
+        "year": 1571,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Trade with China grew (900s).",
+        "year": 900,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "peakPeriod": {
+        "value": "Tondo and Maynila (1400s–1500s).",
+        "year": 1500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "declineSignals": {
+        "value": "Spanish arrival.",
+        "year": 1565,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "outcome": {
+        "value": "Part of the Spanish Philippines.",
+        "year": 1571,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: History of the Philippines (900–1565).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      },
+      "overallCertainty": {
+        "value": "Main events are known from chronicles and foreign reports; figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: History of the Philippines (900–1565)"
+      }
+    }
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "id": "malla-nepal",
+  "name": "Malla kingdoms of Nepal",
+  "era": "medieval",
+  "region": "South Asia",
+  "startYear": 1201,
+  "endYear": 1769,
+  "capital": "Kathmandu, Patan and Bhaktapur",
+  "capitalCoords": [
+    85.32,
+    27.7
+  ],
+  "summary": "The Malla dynasty ruled the Kathmandu valley, later split into three rival kingdoms whose Newar artists built the temples and palace squares still seen today; the Gorkha king Prithvi Narayan Shah conquered them in 1768–69.",
+  "wikiTitle": "Malla (Nepal)",
+  "borderNames": [],
+  "borderNameYears": {
+    "Nepal": [
+      1201,
+      1767
+    ]
+  },
+  "color": "#c06a3a",
+  "knownFor": [
+    {
+      "label": "Durbar Squares",
+      "kind": "monument",
+      "note": "Palace squares of Kathmandu, Patan and Bhaktapur."
+    },
+    {
+      "label": "Nyatapola Temple",
+      "kind": "monument",
+      "year": 1702,
+      "note": "Five-roofed pagoda in Bhaktapur."
+    },
+    {
+      "label": "Kumari",
+      "kind": "idea",
+      "note": "Living goddess tradition."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Kathmandu valley, Nepal.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "terrain": {
+        "value": "A fertile mountain valley.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "climate": {
+        "value": "Mild.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "resources": {
+        "value": "Rice, trade with Tibet.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "disasters": {
+        "value": "Earthquake (1255).",
+        "year": 1255,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Perhaps a few hundred thousand.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "urbanisation": {
+        "value": "Dense Newar towns.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "disease": {
+        "value": "Epidemics and famines.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "migration": {
+        "value": "Trade links with Tibet.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, crafts, trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "tradeRoutes": {
+        "value": "Trade between India and Tibet.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "wealth": {
+        "value": "Rich from trans-Himalayan trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "moneyAndTax": {
+        "value": "Silver coins minted for Tibet.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "inequality": {
+        "value": "Rulers and nobles above farmers; some slavery or bonded labour.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Malla (Nepal)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Hindu monarchies.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "keyRulers": {
+        "value": "Jayasthiti Malla. Yaksha Malla. Pratap Malla.",
+        "year": 1382,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "succession": {
+        "value": "Malla family.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "institutions": {
+        "value": "Guthi trusts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "stability": {
+        "value": "Rivalry between three kingdoms after 1482.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "eliteConflict": {
+        "value": "Three kingdoms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Small armies.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "majorWars": {
+        "value": "Gorkha conquest (1768–69).",
+        "year": 1768,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "territoryChange": {
+        "value": "Split into three kingdoms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "alliancesRivals": {
+        "value": "Rival Malla kingdoms, Gorkha.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "scienceEducation": {
+        "value": "Sanskrit learning.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "openness": {
+        "value": "Open to trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "communicationTransport": {
+        "value": "Rivers, coastal shipping and footpaths.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Malla (Nepal)"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Hinduism and Newar Buddhism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "languageWriting": {
+        "value": "Newar (Nepal Bhasa), Sanskrit.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "artsArchitecture": {
+        "value": "Pagoda temples, wood carving, metalwork.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "socialStructure": {
+        "value": "Caste code of Jayasthiti Malla (1380s).",
+        "year": 1382,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler and faith.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "dailyLife": {
+        "value": "Village farming households.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Malla (Nepal)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Gorkha, Tibet, Mughal India.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "ideasReligions": {
+        "value": "Hindu–Buddhist synthesis.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Malla rule from about 1201.",
+        "year": 1201,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "peakPeriod": {
+        "value": "1600s temple building.",
+        "year": 1650,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "declineSignals": {
+        "value": "Division into three kingdoms (1482).",
+        "year": 1482,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "outcome": {
+        "value": "Conquered by Gorkha, forming Nepal (1768–69).",
+        "year": 1769,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Malla (Nepal).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malla (Nepal)"
+      },
+      "overallCertainty": {
+        "value": "Main events are known from chronicles and foreign reports; figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Malla (Nepal)"
+      }
+    }
+  }
+}

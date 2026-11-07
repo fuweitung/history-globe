@@ -1,0 +1,320 @@
+{
+  "id": "kuba-kingdom",
+  "name": "Kuba Kingdom",
+  "era": "early_modern",
+  "region": "Central Africa",
+  "startYear": 1625,
+  "endYear": 1904,
+  "capital": "Nsheng (Mushenge)",
+  "capitalCoords": [
+    21,
+    -4
+  ],
+  "summary": "A kingdom of the Kasai region of the Congo founded by Shyaam a-Mbul (about 1625), famous for its raffia cloth, carving and complex court; it came under Congo Free State rule around 1900.",
+  "wikiTitle": "Kuba Kingdom",
+  "borderNames": [],
+  "borderNameYears": {
+    "Kuba": [
+      1625,
+      1904
+    ]
+  },
+  "color": "#8a5a3a",
+  "knownFor": [
+    {
+      "label": "Kuba cloth",
+      "kind": "textile",
+      "note": "Raffia textiles with geometric patterns."
+    },
+    {
+      "label": "Ndop figures",
+      "kind": "art",
+      "note": "Carved portraits of kings."
+    },
+    {
+      "label": "Shyaam a-Mbul",
+      "kind": "person",
+      "note": "Founder king."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Kasai, DR Congo.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "terrain": {
+        "value": "Forest and savanna.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "resources": {
+        "value": "Raffia, cassava, copper trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "disasters": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kuba Kingdom"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 150,000.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "urbanisation": {
+        "value": "Mostly villages; a royal or market town.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "disease": {
+        "value": "Malaria, sleeping sickness and smallpox.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "migration": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kuba Kingdom"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming and craft production.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "tradeRoutes": {
+        "value": "Ivory and rubber trade (1800s).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "wealth": {
+        "value": "Rich court.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "moneyAndTax": {
+        "value": "Tribute, cloth, cowries and trade goods.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "inequality": {
+        "value": "Rulers and nobles above farmers; captives and slaves at the bottom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kuba Kingdom"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy (nyim) with a large council.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "keyRulers": {
+        "value": "Shyaam a-Mbul.",
+        "year": 1625,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "succession": {
+        "value": "Royal clan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "institutions": {
+        "value": "Many titled officials.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "stability": {
+        "value": "Stable.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "eliteConflict": {
+        "value": "Court factions.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Spears and knives.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "majorWars": {
+        "value": "Congo Free State campaigns (1899–1904).",
+        "year": 1899,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "territoryChange": {
+        "value": "Little change.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "alliancesRivals": {
+        "value": "Luba and Lulua neighbours.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "scienceEducation": {
+        "value": "Oral learning; Qur’anic schools where Islam spread.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "openness": {
+        "value": "Open to trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "communicationTransport": {
+        "value": "Footpaths, rivers and porters.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kuba Kingdom"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Traditional religion.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "languageWriting": {
+        "value": "Bushong.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "artsArchitecture": {
+        "value": "Carved cups, masks, cloth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "socialStructure": {
+        "value": "King, titleholders, villagers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler and lineage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "dailyLife": {
+        "value": "Village farming; cassava, millet or sorghum.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kuba Kingdom"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Luba, Lulua, Lunda.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "ideasReligions": {
+        "value": "Sacred kingship.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "colonisation": {
+        "value": "Congo Free State (1899–1904).",
+        "year": 1899,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Shyaam a-Mbul (about 1625).",
+        "year": 1625,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "peakPeriod": {
+        "value": "1700s–1800s.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "declineSignals": {
+        "value": "Rubber violence.",
+        "year": 1899,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "outcome": {
+        "value": "Part of the Belgian Congo.",
+        "year": 1908,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Kuba Kingdom.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom"
+      },
+      "overallCertainty": {
+        "value": "Known from oral traditions, travellers and colonial records; many dates are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kuba Kingdom"
+      }
+    }
+  }
+}

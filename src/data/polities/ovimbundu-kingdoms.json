@@ -1,0 +1,325 @@
+{
+  "id": "ovimbundu-kingdoms",
+  "name": "Ovimbundu kingdoms (Mbailundu, Bié and others)",
+  "era": "early_modern",
+  "region": "Central Africa",
+  "startYear": 1600,
+  "endYear": 1904,
+  "capital": "Mbailundu",
+  "capitalCoords": [
+    16.08,
+    -12.2
+  ],
+  "summary": "Kingdoms of the Ovimbundu people on the central Angolan plateau, great caravan traders of slaves, wax, ivory and later rubber; Portugal crushed the Bailundo revolt in 1902–04.",
+  "wikiTitle": "Ovimbundu",
+  "borderNames": [],
+  "borderNameYears": {
+    "Mbailundu": [
+      1700,
+      1904
+    ],
+    "Ovimbundu": [
+      1600,
+      1904
+    ]
+  },
+  "color": "#a0703a",
+  "knownFor": [
+    {
+      "label": "Caravan trade",
+      "kind": "idea",
+      "note": "Long-distance caravans to the interior."
+    },
+    {
+      "label": "Bailundo revolt",
+      "kind": "idea",
+      "year": 1902,
+      "note": "Rising against Portugal."
+    },
+    {
+      "label": "Umbundu",
+      "kind": "idea",
+      "note": "Most widely spoken language in Angola after Portuguese."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Central highlands of Angola.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "terrain": {
+        "value": "Plateau.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "climate": {
+        "value": "Mild highland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "resources": {
+        "value": "Maize, cattle, wax.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "urbanisation": {
+        "value": "Mostly villages; a royal or market town.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "disease": {
+        "value": "Malaria, sleeping sickness and smallpox.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "migration": {
+        "value": "Caravans travelled far inland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming and caravan trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "tradeRoutes": {
+        "value": "Routes to Benguela.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "wealth": {
+        "value": "Trade wealth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "moneyAndTax": {
+        "value": "Tribute, cloth, cowries and trade goods.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "inequality": {
+        "value": "Rulers and nobles above farmers; captives and slaves at the bottom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ovimbundu"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Several kingdoms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "keyRulers": {
+        "value": "Kings of Mbailundu and Bié.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "succession": {
+        "value": "Royal lineages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "institutions": {
+        "value": "Councils.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "stability": {
+        "value": "Rival kingdoms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "eliteConflict": {
+        "value": "Rivals.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Muskets.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "majorWars": {
+        "value": "Bailundo revolt (1902–04).",
+        "year": 1902,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "territoryChange": {
+        "value": "Conquered by Portugal.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "alliancesRivals": {
+        "value": "Portuguese traders.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "scienceEducation": {
+        "value": "Oral learning; Qur’anic schools where Islam spread.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "openness": {
+        "value": "Open to trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "communicationTransport": {
+        "value": "Footpaths, rivers and porters.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ovimbundu"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Traditional religion; missions from 1880.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "languageWriting": {
+        "value": "Umbundu.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "artsArchitecture": {
+        "value": "Carved staffs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "socialStructure": {
+        "value": "Kings, traders, farmers, captives.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler and lineage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "dailyLife": {
+        "value": "Village farming; cassava, millet or sorghum.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ovimbundu"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Portuguese Benguela, Lunda, Chokwe.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "ideasReligions": {
+        "value": "Christian missions.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "colonisation": {
+        "value": "Portuguese conquest (1902–04).",
+        "year": 1904,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Kingdoms formed in the 1600s.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "peakPeriod": {
+        "value": "Rubber trade boom (1870s–1900).",
+        "year": 1886,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "declineSignals": {
+        "value": "Fall in rubber prices and Portuguese control.",
+        "year": 1900,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "outcome": {
+        "value": "Part of Portuguese Angola.",
+        "year": 1904,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Ovimbundu.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ovimbundu"
+      },
+      "overallCertainty": {
+        "value": "Known from oral traditions, travellers and colonial records; many dates are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ovimbundu"
+      }
+    }
+  }
+}

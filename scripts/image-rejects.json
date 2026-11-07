@@ -1,5 +1,5 @@
 {
-  "about": "Picture matches checked by hand and rejected as wrong or misleading. fetch-images never uses these, even if a search finds them again. Keys: known = \"polityId|label\", people/events = id.",
+  "about": "Picture matches checked by hand and rejected as wrong or misleading. fetch-images never uses these, even if a search finds them again. Keys: polities = id, known = \"polityId|label\", people/events = id.",
   "known": [
     "austria|Sigmund Freud",
     "ghana|Kwame Nkrumah",
@@ -61,8 +61,14 @@
     "tatar-khanates|Kazan Kremlin",
     "visigothic-kingdom|Visigothic Code"
   ],
-  "people": [],
+  "polities": [
+    "kuba-kingdom"
+  ],
+  "people": [
+    "mirambo"
+  ],
   "events": [
-    "fall-of-soba"
+    "fall-of-soba",
+    "kuba-founded"
   ]
 }

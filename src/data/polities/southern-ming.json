@@ -1,0 +1,321 @@
+{
+  "id": "southern-ming",
+  "name": "Southern Ming and the Kingdom of Tungning",
+  "era": "early_modern",
+  "region": "East Asia",
+  "startYear": 1644,
+  "endYear": 1683,
+  "capital": "Nanjing, Fuzhou, Zhaoqing; Tainan (Tungning)",
+  "capitalCoords": [
+    120.2,
+    23
+  ],
+  "summary": "Ming loyalist courts that fought on in southern China after the Qing took Beijing (1644); Koxinga’s family carried on from Taiwan as the Kingdom of Tungning until the Qing conquered it in 1683.",
+  "wikiTitle": "Southern Ming",
+  "borderNames": [],
+  "borderNameYears": {
+    "Post-Ming Warlords": [
+      1644,
+      1683
+    ]
+  },
+  "color": "#c04a3a",
+  "knownFor": [
+    {
+      "label": "Koxinga",
+      "kind": "person",
+      "note": "Drove the Dutch from Taiwan (1662)."
+    },
+    {
+      "label": "Fort Zeelandia",
+      "kind": "monument",
+      "note": "Dutch fort taken by Koxinga."
+    },
+    {
+      "label": "Queue order",
+      "kind": "idea",
+      "year": 1645,
+      "note": "Qing order to shave the head, resisted by Ming loyalists."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Southern China and later Taiwan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "terrain": {
+        "value": "Hills, coasts and islands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "climate": {
+        "value": "Subtropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "resources": {
+        "value": "Rice, silk, sea trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "disasters": {
+        "value": "War, famine and massacres (Yangzhou, 1645).",
+        "year": 1645,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Tens of millions in the regions they briefly held.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "urbanisation": {
+        "value": "Mostly villages and farming land around a royal capital.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "disease": {
+        "value": "Epidemics and famines.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "migration": {
+        "value": "Han Chinese settlers moved to Taiwan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming and sea trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "tradeRoutes": {
+        "value": "Maritime trade with Japan and Southeast Asia (Zheng family).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "wealth": {
+        "value": "Zheng trading fleets were rich.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "moneyAndTax": {
+        "value": "Ming coins; taxes on trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "inequality": {
+        "value": "Rulers and nobles above farmers; some slavery or bonded labour.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Southern Ming"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Rival Ming princes as emperors; Zheng family rule in Taiwan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "keyRulers": {
+        "value": "Hongguang Emperor. Yongli Emperor. Koxinga (Zheng Chenggong).",
+        "year": 1646,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "succession": {
+        "value": "Competing Ming princes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "institutions": {
+        "value": "Ming-style courts in exile.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "stability": {
+        "value": "Very unstable.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "eliteConflict": {
+        "value": "Rival courts and generals.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Armies and large war fleets.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "majorWars": {
+        "value": "Qing conquest of the south; siege of Fort Zeelandia (1661–62).",
+        "year": 1661,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "territoryChange": {
+        "value": "Steadily lost to the Qing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "alliancesRivals": {
+        "value": "Fought the Qing; drove out the Dutch.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "scienceEducation": {
+        "value": "Confucian scholars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "openness": {
+        "value": "Open to trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "communicationTransport": {
+        "value": "Rivers, coastal shipping and footpaths.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Southern Ming"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Confucianism, Buddhism, Chinese folk religion.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "languageWriting": {
+        "value": "Chinese.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "artsArchitecture": {
+        "value": "Confucius Temple in Tainan (1665).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "socialStructure": {
+        "value": "Scholar-officials, generals, farmers, sailors.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler and faith.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "dailyLife": {
+        "value": "Village farming households.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Southern Ming"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Qing, Dutch Formosa, Japan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "ideasReligions": {
+        "value": "Ming loyalism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "colonisation": {
+        "value": "Ended Dutch rule in Taiwan (1662).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Fall of Beijing (1644).",
+        "year": 1644,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "peakPeriod": {
+        "value": "Koxinga’s Yangtze campaign (1659).",
+        "year": 1659,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "declineSignals": {
+        "value": "Yongli Emperor killed (1662).",
+        "year": 1662,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "outcome": {
+        "value": "Tungning surrendered to the Qing (1683).",
+        "year": 1683,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Southern Ming.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Southern Ming"
+      },
+      "overallCertainty": {
+        "value": "Main events are known from chronicles and foreign reports; figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Southern Ming"
+      }
+    }
+  }
+}

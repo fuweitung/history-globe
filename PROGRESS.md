@@ -35,6 +35,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 - [x] Map blanks round 7: 129 modern countries with full 43-item entries (Europe 36, Africa 37, Americas 24, Middle East and Central Asia 17, Asia 10, Oceania 5); colonies and territories linked to their rulers by date; modern era now 95% (#37)
 - [x] Map gaps round 8: Germany 1918–45, East Germany, Napoleonic France, Prussia, Old Swiss Confederacy, German and Italian states; about 90 colonies and territories linked by date; modern era 95% → 97%
 - [x] Map gaps round 9: 28 kingdoms and states (1800s African kingdoms, Hejaz, Ha’il, England, Scotland, Ireland, post-Angkor Cambodia, Lao and Shan states, Mrauk U, Zand Persia); 1878 → 98%, 1900 → 99%
+- [x] Map gaps round 11: 16 entries (Southern Ming, Burma before Toungoo, pre-colonial Philippines, Malla Nepal, Oman’s imamate, and 11 Central, East, West and Southern African states)
 - [x] 1492 Indigenous nations: 180 linked by their own Wikipedia article’s culture-area category (evidence in scripts/indigenous-links-1492.tsv); 1492 map 57% → 69%
 - [x] Map gaps round 10: 24 medieval and early-modern states (Castile, Aragon, Hungary, Sweden, Norway, Novgorod, Teutonic Order, Tatar khanates, Japan 1185–1603, Deccan and Bengal sultanates, Iranian and Turkic dynasties, Visigoths, Franks, Córdoba, Maghreb dynasties, Alwa, Jolof); all years 91% → 93%
 - [x] Small countries as map dots, 21 new entries, finer coastline (#42); economic crisis events (#43)
@@ -58,22 +59,22 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | · Prehistory | `██████████████████░░` 92% |  |
 | · Ancient | `██████████████████░░` 91% |  |
 | · Medieval | `██████████████████░░` 90% |  |
-| · Early modern | `██████████████████░░` 91% |  |
+| · Early modern | `██████████████████░░` 92% |  |
 | · Modern | `████████████████████` 98% |  |
-| Civilisations shown on the map | `███████████████████░` 93% | 432 of 465; the rest fly to their capital |
-| Checklist filled in | `████████████████████` 100% | 19995 of 19995 items (465 × 43) |
-| Answers with real detail | `████████████░░░░░░░░` 59% | 7842 answers are still under 40 characters |
-| Fact-checked against a source | `████░░░░░░░░░░░░░░░░` 18% | 3559 items say “(checked …)”; the rest still need a second look |
-| Civilisations with events | `████████████████████` 100% | 464 of 465 |
-| Civilisations with famous people | `██████████████░░░░░░` 72% | 337 of 465; many prehistoric cultures have no known names |
-| Civilisations linked to others | `████████████████████` 100% | 465 of 465 (succeeded, conquered, traded with…) |
-| Civilisation pictures | `███████████████████░` 97% | 451 of 465 |
-| “Known for” pictures | `███████████░░░░░░░░░` 56% | 820 of 1455 items |
-| People pictures | `██████████████████░░` 92% | 394 of 429 |
-| Event pictures | `████████████████░░░░` 79% | 720 of 917 |
+| Civilisations shown on the map | `███████████████████░` 93% | 448 of 481; the rest fly to their capital |
+| Checklist filled in | `████████████████████` 100% | 20683 of 20683 items (481 × 43) |
+| Answers with real detail | `███████████░░░░░░░░░` 57% | 8386 answers are still under 40 characters |
+| Fact-checked against a source | `███░░░░░░░░░░░░░░░░░` 17% | 3559 items say “(checked …)”; the rest still need a second look |
+| Civilisations with events | `████████████████████` 100% | 481 of 481 |
+| Civilisations with famous people | `██████████████░░░░░░` 72% | 347 of 481; many prehistoric cultures have no known names |
+| Civilisations linked to others | `████████████████████` 100% | 481 of 481 (succeeded, conquered, traded with…) |
+| Civilisation pictures | `███████████████████░` 97% | 465 of 481 |
+| “Known for” pictures | `███████████░░░░░░░░░` 55% | 820 of 1503 items |
+| People pictures | `██████████████████░░` 92% | 401 of 438 |
+| Event pictures | `████████████████░░░░` 78% | 731 of 935 |
 
-Certainty of all items: 13288 confirmed · 6237 estimated · 470 disputed.
-Also in the app: 917 events · 429 people · 18 routes · 11 stories.
+Certainty of all items: 13755 confirmed · 6458 estimated · 470 disputed.
+Also in the app: 935 events · 438 people · 18 routes · 11 stories.
 
 ## Map coverage by year
 
@@ -110,18 +111,18 @@ Also in the app: 917 events · 429 people · 18 routes · 11 stories.
 | 1279 | `███████████████████░` 97% |
 | 1300 | `███████████████████░` 96% |
 | 1400 | `███████████████████░` 96% |
-| 1492 | `██████████████░░░░░░` 69% |
-| 1500 | `██████████████████░░` 91% |
-| 1530 | `█████████████████░░░` 85% |
+| 1492 | `██████████████░░░░░░` 70% |
+| 1500 | `██████████████████░░` 92% |
+| 1530 | `█████████████████░░░` 87% |
 | 1600 | `██████████████████░░` 88% |
-| 1650 | `██████████████████░░` 91% |
+| 1650 | `██████████████████░░` 92% |
 | 1700 | `██████████████████░░` 91% |
 | 1715 | `███████████████████░` 94% |
 | 1783 | `████████████████████` 99% |
 | 1800 | `████████████████████` 99% |
 | 1815 | `████████████████████` 98% |
-| 1878 | `████████████████████` 98% |
-| 1880 | `████████████████████` 98% |
+| 1878 | `████████████████████` 100% |
+| 1880 | `████████████████████` 100% |
 | 1900 | `████████████████████` 99% |
 | 1914 | `████████████████████` 100% |
 | 1920 | `████████████████████` 100% |

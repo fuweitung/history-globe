@@ -3145,7 +3145,8 @@
     "title": "Battle of Tondibi",
     "description": "A Moroccan army equipped with firearms defeats the Songhai army. The Songhai Empire fragments soon afterwards.",
     "relatedPolityIds": [
-      "songhai-empire"
+      "songhai-empire",
+      "dendi-kingdom"
     ]
   },
   {
@@ -6397,7 +6398,11 @@
     "title": "Congo Free State created",
     "description": "Belgian King Leopold II gains the Congo as his personal colony; forced labour for rubber causes mass deaths.",
     "relatedPolityIds": [
-      "dr-congo"
+      "dr-congo",
+      "kuba-kingdom",
+      "yeke-kingdom",
+      "utetera",
+      "yaka-kingdom"
     ],
     "source": "Wikipedia: Congo Free State"
   },
@@ -10006,7 +10011,8 @@
     "title": "Gorkha conquest of Kathmandu",
     "description": "Prithvi Narayan Shah takes the Kathmandu valley and unifies Nepal.",
     "relatedPolityIds": [
-      "nepal"
+      "nepal",
+      "malla-nepal"
     ],
     "source": "Wikipedia: Unification of Nepal"
   },
@@ -12530,5 +12536,250 @@
       "jolof-and-wolof-kingdoms"
     ],
     "source": "Wikipedia: Battle of Danki"
+  },
+  {
+    "id": "siege-of-fort-zeelandia",
+    "year": 1661,
+    "lat": 23,
+    "lng": 120.16,
+    "type": "war",
+    "title": "Koxinga takes Taiwan",
+    "description": "Ming loyalist Koxinga besieges Fort Zeelandia and expels the Dutch (1661–62).",
+    "relatedPolityIds": [
+      "southern-ming",
+      "dutch-republic"
+    ],
+    "source": "Wikipedia: Siege of Fort Zeelandia"
+  },
+  {
+    "id": "qing-conquer-taiwan",
+    "year": 1683,
+    "lat": 23.6,
+    "lng": 119.6,
+    "type": "war",
+    "title": "Qing take Taiwan",
+    "description": "Admiral Shi Lang defeats the Zheng fleet at Penghu; the Kingdom of Tungning surrenders.",
+    "relatedPolityIds": [
+      "southern-ming",
+      "qing-china"
+    ],
+    "source": "Wikipedia: Battle of Penghu"
+  },
+  {
+    "id": "forty-years-war-burma",
+    "year": 1385,
+    "lat": 17.33,
+    "lng": 96.48,
+    "type": "war",
+    "title": "Forty Years’ War in Burma",
+    "description": "Ava and Hanthawaddy fight for control of Burma (1385–1424).",
+    "relatedPolityIds": [
+      "ava-and-hanthawaddy"
+    ],
+    "source": "Wikipedia: Forty Years’ War"
+  },
+  {
+    "id": "battle-of-mactan",
+    "year": 1521,
+    "lat": 10.3,
+    "lng": 124,
+    "type": "war",
+    "title": "Battle of Mactan",
+    "description": "Lapulapu’s warriors kill Ferdinand Magellan.",
+    "relatedPolityIds": [
+      "precolonial-philippines",
+      "spanish-empire"
+    ],
+    "source": "Wikipedia: Battle of Mactan"
+  },
+  {
+    "id": "spanish-manila",
+    "year": 1571,
+    "lat": 14.6,
+    "lng": 120.97,
+    "type": "war",
+    "title": "Spanish take Manila",
+    "description": "Legazpi defeats Rajah Sulayman and makes Manila the capital of the Spanish Philippines.",
+    "relatedPolityIds": [
+      "precolonial-philippines",
+      "spanish-empire"
+    ],
+    "source": "Wikipedia: Battle of Manila (1570)"
+  },
+  {
+    "id": "nyatapola-built",
+    "year": 1702,
+    "lat": 27.67,
+    "lng": 85.43,
+    "type": "culture",
+    "title": "Nyatapola Temple built",
+    "description": "King Bhupatindra Malla builds the five-roofed temple in Bhaktapur.",
+    "relatedPolityIds": [
+      "malla-nepal"
+    ],
+    "source": "Wikipedia: Nyatapola"
+  },
+  {
+    "id": "oman-retakes-muscat",
+    "year": 1650,
+    "lat": 23.61,
+    "lng": 58.59,
+    "type": "war",
+    "title": "Oman drives the Portuguese from Muscat",
+    "description": "The Yaruba imam’s forces capture Muscat, ending 143 years of Portuguese rule.",
+    "relatedPolityIds": [
+      "oman-imamate",
+      "portuguese-empire"
+    ],
+    "source": "Wikipedia: Capture of Muscat (1650)"
+  },
+  {
+    "id": "fort-jesus-falls",
+    "year": 1698,
+    "lat": -4.06,
+    "lng": 39.68,
+    "type": "war",
+    "title": "Oman takes Fort Jesus",
+    "description": "After a long siege, Oman captures Mombasa from Portugal.",
+    "relatedPolityIds": [
+      "oman-imamate",
+      "portuguese-empire"
+    ],
+    "source": "Wikipedia: Siege of Fort Jesus"
+  },
+  {
+    "id": "kuba-founded",
+    "year": 1625,
+    "yearApproximate": true,
+    "lat": -4,
+    "lng": 21,
+    "type": "culture",
+    "title": "Kuba Kingdom founded",
+    "description": "Shyaam a-Mbul unites the Kuba chiefdoms.",
+    "relatedPolityIds": [
+      "kuba-kingdom"
+    ],
+    "source": "Wikipedia: Kuba Kingdom"
+  },
+  {
+    "id": "bailundo-revolt",
+    "year": 1902,
+    "lat": -12.2,
+    "lng": 16.08,
+    "type": "war",
+    "title": "Bailundo revolt",
+    "description": "The Ovimbundu rise against Portuguese rule and forced labour.",
+    "relatedPolityIds": [
+      "ovimbundu-kingdoms",
+      "portuguese-empire"
+    ],
+    "source": "Wikipedia: Bailundo revolt"
+  },
+  {
+    "id": "death-of-msiri",
+    "year": 1891,
+    "lat": -10.4,
+    "lng": 26.97,
+    "type": "war",
+    "title": "Msiri killed",
+    "description": "An expedition for the Congo Free State shoots Msiri at Bunkeya.",
+    "relatedPolityIds": [
+      "yeke-kingdom"
+    ],
+    "source": "Wikipedia: Stairs Expedition to Katanga"
+  },
+  {
+    "id": "mirambo-war",
+    "year": 1871,
+    "lat": -5.02,
+    "lng": 32.8,
+    "type": "war",
+    "title": "Mirambo’s war",
+    "description": "Mirambo fights Arab traders around Tabora for control of the caravan route.",
+    "relatedPolityIds": [
+      "nyamwezi-states"
+    ],
+    "source": "Wikipedia: Mirambo"
+  },
+  {
+    "id": "congo-arab-war",
+    "year": 1892,
+    "lat": -4.45,
+    "lng": 26.6,
+    "type": "war",
+    "title": "Congo Arab war",
+    "description": "Congo Free State forces defeat the Swahili-Arab traders of the eastern Congo.",
+    "relatedPolityIds": [
+      "utetera"
+    ],
+    "source": "Wikipedia: Congo Arab war"
+  },
+  {
+    "id": "makoko-treaty",
+    "year": 1880,
+    "lat": -2.5,
+    "lng": 15.5,
+    "type": "culture",
+    "title": "Treaty of Makoko",
+    "description": "The Teke king signs a treaty with Pierre de Brazza, founding French Congo.",
+    "relatedPolityIds": [
+      "teke-kingdom",
+      "french-colonial-empire"
+    ],
+    "source": "Wikipedia: Makoko Iloo I"
+  },
+  {
+    "id": "mungo-park-dies",
+    "year": 1806,
+    "lat": 10.26,
+    "lng": 4.52,
+    "type": "culture",
+    "title": "Mungo Park dies at Bussa",
+    "description": "The Scottish explorer drowns in the Niger rapids in Borgu.",
+    "relatedPolityIds": [
+      "borgu-states"
+    ],
+    "source": "Wikipedia: Mungo Park"
+  },
+  {
+    "id": "battle-of-kousseri",
+    "year": 1900,
+    "lat": 12.08,
+    "lng": 15.03,
+    "type": "war",
+    "title": "Battle of Kousséri",
+    "description": "French forces defeat and kill Rabih az-Zubayr.",
+    "relatedPolityIds": [
+      "rabih-state",
+      "french-colonial-empire"
+    ],
+    "source": "Wikipedia: Battle of Kousséri"
+  },
+  {
+    "id": "xhosa-cattle-killing",
+    "year": 1856,
+    "lat": -32.5,
+    "lng": 27,
+    "type": "disaster",
+    "title": "Xhosa cattle-killing",
+    "description": "Following Nongqawuse’s prophecy, Xhosa kill their cattle; about 40,000 die of famine.",
+    "relatedPolityIds": [
+      "xhosa-kingdom"
+    ],
+    "source": "Wikipedia: Xhosa cattle-killing movement"
+  },
+  {
+    "id": "wadai-sacks-massenya",
+    "year": 1871,
+    "lat": 11.4,
+    "lng": 16.17,
+    "type": "war",
+    "title": "Wadai sacks Massenya",
+    "description": "The Wadai Sultanate captures and burns Bagirmi’s capital; Bagirmi becomes a French protectorate in 1897.",
+    "relatedPolityIds": [
+      "bagirmi-sultanate",
+      "wadai-sultanate"
+    ],
+    "source": "Wikipedia: Kingdom of Baguirmi"
   }
 ]
