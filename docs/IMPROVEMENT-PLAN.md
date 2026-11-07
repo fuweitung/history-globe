@@ -1,43 +1,28 @@
 # History Globe — Improvement Plan (for approval)
 
-**Status:** Phase 2 (maps) is done (PR #37). Phases 1 and 3–6 are waiting for approval. See the **Task record** just below.
+**Status:** Maps and economic-crisis events are done; deeper answers in progress; stories, fact-check and launch are on hold. See the **Task record** just below.
 **Date:** 7 November 2026 · Replaces the earlier draft `ENHANCEMENT-PLAN.md`.
 **Order of work:** Audit → Analyse → Plan → **Approval** → Implement → Test → Document.
 
 ## Task record (updated 7 Nov 2026)
 
 ### Done
-- [x] **Phase 2: Maps.** Option A was chosen: full 43-item entries for 129 modern countries, with colonies and territories linked by date. 382 civilisations; modern-era map coverage is 95% (the main gap left is Antarctica). (#37)
+- [x] **Phase 2: Maps.** Full 43-item entries for 129 modern countries (#37); map gaps rounds 8–9, Hong Kong, Puerto Rico, Greenland, unnamed map shapes fixed (#39, #44); small countries as map dots, 21 new entries, finer coastline (#42). Modern era 97%; 1878 98%, 1900 99%.
+- [x] **Economic crises as events** (20 events, from Rome’s currency collapse to Sri Lanka’s 2022 default) (#43)
+- [x] **Globe clean-up:** far-side clicks fixed (#40); people names that fit (#41); approximate borders drawn dashed (#45). Event bubbles were tried and removed.
+- [x] **Stories hidden** in the app until the format is agreed (#39).
 
-### To do before stories and threads (data gaps)
-- [ ] **Economic crises and money events:** add about 20 "trade" events, each tagged to the countries involved, so the future “Crashes and depressions” and “Money” stories have material:
-  - Crisis of the Third Century: Roman currency debasement (~235–284)
-  - Song and Yuan paper money and inflation
-  - Ming China’s silver crisis (1640s)
-  - Spain’s price revolution and state bankruptcies (1557–1647)
-  - Tulip mania (1637)
-  - Mississippi and South Sea bubbles (1720)
-  - French royal debt before the Revolution (1780s)
-  - Panic of 1873 / Long Depression
-  - German hyperinflation (1923)
-  - Bretton Woods (1944)
-  - End of the gold standard (1971)
-  - Latin American debt crisis (1982)
-  - Japan’s asset bubble burst (1990)
-  - Post-Soviet economic collapse (1990s)
-  - Argentine crisis (2001)
-  - Zimbabwe hyperinflation (2008)
-  - Eurozone / Greek debt crisis (2010)
-  - COVID-19 recession (2020)
-  - Sri Lanka default (2022)
-- [ ] **Fact-check of round 7** (Mike, REVIEW.md Priority 0)
+### In progress
+- [ ] **Deeper answers:** about 6,600 checklist answers are still under 40 characters, mostly in the newer country entries. Done in batches; batch 1 covers 10 European countries.
 
-### Waiting for your approval
-- [ ] **Phase 1: Visual assets.** Covers people pictures, event pictures, flags and the remaining Known-for pictures. Decision 3 (flags) is open.
-- [ ] **Phase 3: Story engine.** Story card, timeline track, map arrows, “Part of these stories” and categories. Decisions 1 and 4 are open.
-- [ ] **Phase 4: First wave of stories** (about 12). Decision 5 is open.
-- [ ] **Phase 5: More stories.**
-- [ ] **Phase 6: Public launch.** Covers SEO pages, licence and hosting. Decision 6 is open.
+### Removed
+- ~~Flags~~: not needed. The main picture of each entry is enough (owner’s decision, 7 Nov 2026).
+
+### Waiting for approval or on hold
+- [ ] **Phase 1: Visual assets** (people and event pictures, remaining Known-for pictures). Flags are no longer part of it.
+- [ ] **Story format** (Phases 3–5): on hold while the owner and Mike decide the format. A “Chapters” sample (Road to Space) was shown and not adopted.
+- [ ] **Fact-check** (#4, Mike): on hold.
+- [ ] **Phase 6: Public launch** (SEO pages, licence, hosting): on hold.
 
 ### On hold (you asked to pause these)
 - [ ] Story timeline improvements
@@ -85,7 +70,6 @@
 | “Known for” pictures | 629 of 819 (77%) | 190 |
 | People pictures | 112 of 267 | **155** (all people added recently) |
 | Event pictures | **0 of 579** | the field doesn’t exist yet |
-| **Flags** | **none** | the field doesn’t exist yet |
 
 ### A4. Maps
 
@@ -102,11 +86,10 @@
 |---|---|---|
 | **People pictures** (155) | Fetch the main picture of each person’s Wikipedia article (`wikiTitle` already stored) | Free licence on Commons only; credits; skip if none |
 | **Event pictures** (579) | Each event already names its Wikipedia article in `source`; fetch that article’s main picture | Same rules; manual review list, like the Known-for review |
-| **Flags** (new) | Read the “flag image” property (P41) from **Wikidata** for each civilisation. Wikidata stores *dated* flags for many states (e.g. different Ottoman flags), so the panel can show the flag that was in use **in the selected year** | Only real flags; no invented “flags” for peoples or ancient states that had none (they show nothing, or a banner/emblem if Wikidata records one) |
 | **Remaining Known-for** (190) | Hand-pick the right article for each; leave a clear icon where no honest picture exists (e.g. ideas like the “Great Law of Peace”) | Hand review |
 | **Presentation** | One consistent picture style: same size and crop, credit line, link to source | — |
 
-**Where it goes:** `images.json` gains `events`, `people` and `flags` sections. The event and people files stay untouched (no duplication; easy to refresh).
+**Where it goes:** `images.json` gains `events` and `people` sections. The event and people files stay untouched (no duplication; easy to refresh).
 
 ---
 
@@ -179,7 +162,7 @@ And each story gains: `category` (for browsing), `tags`, and optional `related` 
 | Change | Type | Size | Backward compatible |
 |---|---|---|---|
 | Story fields: `category`, `tags`, `related`; step fields: `connection`, `turningPoint`, `because` | Data (optional fields) | Small | Yes: old stories still work |
-| `images.json`: `events`, `people`, `flags` sections | Data | Small | Yes |
+| `images.json`: `events`, `people` sections | Data | Small | Yes |
 | Country profile tier (if option B/C): `profile: true`, checklist optional | Data + panel shows “profile” | Small–medium | Yes |
 | Reverse index “which stories mention this record” | Computed at load, not stored | Small | — |
 | Story card redesign, connection arrows, ★, read-more chips | UI | Medium | Same player, enriched |
@@ -361,7 +344,7 @@ And each story gains: `category` (for browsing), `tags`, and optional `related` 
 
 | Phase | Content | Main output |
 |---|---|---|
-| **1. Visual assets** | People and event pictures, flags (dated where possible), Known-for clean-up | `images.json` sections; review lists |
+| **1. Visual assets** | People and event pictures, Known-for clean-up | `images.json` sections; review lists |
 | **2. Maps** | Colony links; country profiles (option B/C); unlinked-name report | Modern era ~97% |
 | **3. Story engine** | New story fields, story card, timeline track, map arrows, “Part of these stories”, categories, checker | Upgraded player; 11 existing stories enriched |
 | **4. First wave of stories** | 12 stories from the shortlist, adding missing events as needed | `stories.json`, new events |
@@ -373,7 +356,7 @@ And each story gains: `category` (for browsing), `tags`, and optional `related` 
 
 1. **Story method:** one method called **Stories** (enriched) — agree? Or prefer the name **Journeys**?
 2. ~~**Modern countries:**~~ decided: **option A**, done in #37.
-3. **Flags:** show the flag *of the selected year* where known (recommended), or one current/main flag?
+3. ~~**Flags:**~~ removed: not needed.
 4. **Categories:** are the **14 categories** right?
 5. **Master list:** mark which stories to keep, merge or drop; and choose the **first wave** (I suggest 12).
 6. **SEO pages:** plan them now for the public launch, or later?
