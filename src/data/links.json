@@ -4372,5 +4372,75 @@
     "relation": "conquered",
     "year": 1878,
     "note": "Frontier wars."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "southwest-peoples",
+    "relation": "conquered",
+    "year": 1598,
+    "note": "Spanish New Mexico."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "california-peoples",
+    "relation": "colonised",
+    "year": 1769,
+    "note": "Spanish missions."
+  },
+  {
+    "fromPolityId": "maya",
+    "toPolityId": "postclassic-maya",
+    "relation": "succeeded",
+    "year": 950,
+    "note": "After the Classic collapse."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "postclassic-maya",
+    "relation": "conquered",
+    "year": 1697,
+    "note": "Spanish conquest."
+  },
+  {
+    "fromPolityId": "aztec-empire",
+    "toPolityId": "mesoamerican-peoples",
+    "relation": "conquered",
+    "year": 1479,
+    "note": "The Aztecs fought the Purépecha and Tlaxcala."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "mesoamerican-peoples",
+    "relation": "conquered",
+    "year": 1525,
+    "note": "Spanish conquest."
+  },
+  {
+    "fromPolityId": "mesoamerican-peoples",
+    "toPolityId": "aridoamerica-peoples",
+    "relation": "traded_with",
+    "year": 1300,
+    "note": "Trade with the northern peoples."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "aridoamerica-peoples",
+    "relation": "conquered",
+    "year": 1590,
+    "note": "Chichimeca War."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "isthmo-colombian-peoples",
+    "relation": "conquered",
+    "year": 1537,
+    "note": "Spanish conquest."
+  },
+  {
+    "fromPolityId": "isthmo-colombian-peoples",
+    "toPolityId": "colombia",
+    "relation": "succeeded",
+    "year": 1810,
+    "note": "Muisca and other peoples of Colombia."
   }
 ]

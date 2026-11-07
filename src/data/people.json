@@ -4496,7 +4496,7 @@
   "role": "religious",
   "description": "Tewa leader of the Pueblo Revolt (1680) against Spanish rule.",
   "polityIds": [
-   "ancestral-puebloans"
+   "southwest-peoples"
   ],
   "place": [
    -106.1,
@@ -8759,5 +8759,112 @@
   ],
   "wikiTitle": "Nongqawuse",
   "source": "Wikipedia: Nongqawuse"
+ },
+ {
+  "id": "junipero-serra",
+  "name": "Junípero Serra",
+  "born": 1713,
+  "died": 1784,
+  "role": "religious",
+  "description": "Founder of the California missions; a saint to Catholics, criticised for the harm the missions did.",
+  "polityIds": [
+   "spanish-empire",
+   "california-peoples"
+  ],
+  "place": [
+   -121.92,
+   36.54
+  ],
+  "wikiTitle": "Junípero Serra",
+  "source": "Wikipedia: Junípero Serra"
+ },
+ {
+  "id": "ishi",
+  "name": "Ishi",
+  "born": 1861,
+  "died": 1916,
+  "datesApproximate": true,
+  "role": "thinker",
+  "description": "Last known Yahi man, who shared his culture with anthropologists.",
+  "polityIds": [
+   "california-peoples"
+  ],
+  "place": [
+   -121.6,
+   40.1
+  ],
+  "wikiTitle": "Ishi",
+  "source": "Wikipedia: Ishi"
+ },
+ {
+  "id": "geronimo",
+  "name": "Geronimo",
+  "born": 1829,
+  "died": 1909,
+  "role": "military",
+  "description": "Apache leader who resisted Mexico and the US.",
+  "polityIds": [
+   "southwest-peoples"
+  ],
+  "place": [
+   -109.3,
+   31.6
+  ],
+  "wikiTitle": "Geronimo",
+  "source": "Wikipedia: Geronimo"
+ },
+ {
+  "id": "manuelito",
+  "name": "Manuelito",
+  "born": 1818,
+  "died": 1893,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Diné (Navajo) leader during the Long Walk.",
+  "polityIds": [
+   "southwest-peoples"
+  ],
+  "place": [
+   -109,
+   36
+  ],
+  "wikiTitle": "Manuelito",
+  "source": "Wikipedia: Manuelito"
+ },
+ {
+  "id": "tecun-uman",
+  "name": "Tecun Uman",
+  "born": 1500,
+  "died": 1524,
+  "datesApproximate": true,
+  "role": "military",
+  "description": "K’iche’ warrior said to have died fighting Alvarado; a national hero of Guatemala.",
+  "polityIds": [
+   "postclassic-maya"
+  ],
+  "place": [
+   -91.5,
+   14.84
+  ],
+  "wikiTitle": "Tecun Uman",
+  "source": "Wikipedia: Tecun Uman"
+ },
+ {
+  "id": "xicotencatl",
+  "name": "Xicotencatl the Younger",
+  "born": 1484,
+  "died": 1521,
+  "datesApproximate": true,
+  "role": "military",
+  "description": "Tlaxcalan commander who opposed the Spanish alliance.",
+  "polityIds": [
+   "mesoamerican-peoples"
+  ],
+  "place": [
+   -98.24,
+   19.32
+  ],
+  "wikiTitle": "Xicotencatl the Younger",
+  "source": "Wikipedia: Xicotencatl the Younger"
  }
 ]
