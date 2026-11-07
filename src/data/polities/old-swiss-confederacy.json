@@ -1,0 +1,322 @@
+{
+  "id": "old-swiss-confederacy",
+  "name": "Old Swiss Confederacy",
+  "era": "medieval",
+  "region": "Central Europe",
+  "startYear": 1291,
+  "endYear": 1798,
+  "capital": "none (Diet met in various towns)",
+  "capitalCoords": [
+    8.31,
+    47.05
+  ],
+  "summary": "A league of Alpine cantons that defended its freedom against the Habsburgs from 1291, became famous for its pikemen and mercenaries, and was ended by the French invasion of 1798.",
+  "wikiTitle": "Old Swiss Confederacy",
+  "borderNames": [
+    "Swiss Confederation",
+    "Republic of the Seven Zenden"
+  ],
+  "borderYears": [
+    1291,
+    1798
+  ],
+  "color": "#c03a3a",
+  "knownFor": [
+    {
+      "label": "Swiss pikemen",
+      "kind": "troops",
+      "note": "Feared infantry of the 1400s."
+    },
+    {
+      "label": "William Tell",
+      "kind": "person",
+      "note": "Legendary hero."
+    },
+    {
+      "label": "Swiss Guard",
+      "kind": "troops",
+      "year": 1506,
+      "note": "Still guards the Pope."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The central Alps and Swiss plateau; about 40,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "terrain": {
+        "value": "Alps, Jura and the plateau.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "climate": {
+        "value": "Alpine to temperate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "resources": {
+        "value": "Pasture, dairy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "disasters": {
+        "value": "Avalanches and floods.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 1.7 million.",
+        "year": 1798,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "urbanisation": {
+        "value": "Zürich, Bern, Basel, Geneva (ally).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "disease": {
+        "value": "Plague outbreaks.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "migration": {
+        "value": "Many young men served abroad as mercenaries.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Herding, mercenary service, later textiles and watches.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "tradeRoutes": {
+        "value": "Alpine passes (Gotthard).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "wealth": {
+        "value": "Modest; city patricians grew rich.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "moneyAndTax": {
+        "value": "Each canton had its own coins.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "inequality": {
+        "value": "City elites ruled subject lands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A loose league of self-governing cantons.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "keyRulers": {
+        "value": "No single ruler; leaders such as Huldrych Zwingli (religious).",
+        "year": 1519,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "succession": {
+        "value": "Assemblies and councils.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "institutions": {
+        "value": "The Diet (Tagsatzung).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "stability": {
+        "value": "Religious wars (1529–1712).",
+        "year": 1531,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "eliteConflict": {
+        "value": "Catholic and Protestant cantons.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Pike and halberd infantry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "majorWars": {
+        "value": "Battles of Morgarten (1315) and Sempach (1386); Burgundian Wars (1474–77).",
+        "year": 1315,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "territoryChange": {
+        "value": "Grew from 3 to 13 cantons (1513).",
+        "year": 1513,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "alliancesRivals": {
+        "value": "Fought the Habsburgs and Burgundy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "scienceEducation": {
+        "value": "University of Basel (1460).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "openness": {
+        "value": "Neutral after 1515.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "communicationTransport": {
+        "value": "Mountain passes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Catholic and Reformed Protestant (Zwingli, Calvin).",
+        "year": 1523,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "languageWriting": {
+        "value": "German, French, Italian, Romansh.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "artsArchitecture": {
+        "value": "Timbered towns; Bern old town.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "socialStructure": {
+        "value": "Free peasants and burghers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "sharedIdentity": {
+        "value": "Oath of alliance (Rütli).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "dailyLife": {
+        "value": "Farms; cheese.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Holy Roman Empire, France, Milan, Savoy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "ideasReligions": {
+        "value": "Reformation (Zürich, Geneva).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Federal Charter (1291).",
+        "year": 1291,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "peakPeriod": {
+        "value": "Military power around 1500.",
+        "year": 1500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "declineSignals": {
+        "value": "Defeat at Marignano (1515) led to neutrality.",
+        "year": 1515,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "outcome": {
+        "value": "Conquered by France (1798) and replaced by the Helvetic Republic.",
+        "year": 1798,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Old Swiss Confederacy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Old Swiss Confederacy"
+      }
+    }
+  }
+}

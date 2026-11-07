@@ -3194,7 +3194,9 @@
     "type": "invention",
     "title": "Galileo’s telescope observations",
     "description": "In Padua, Galileo Galilei improves the telescope and observes the moons of Jupiter, supporting the Sun-centred model of the solar system.",
-    "relatedPolityIds": []
+    "relatedPolityIds": [
+      "italian-states"
+    ]
   },
   {
     "id": "sultan-agung-mataram",
@@ -3687,7 +3689,9 @@
     "relatedPolityIds": [
       "british-empire",
       "russian-empire",
-      "habsburg-monarchy"
+      "habsburg-monarchy",
+      "france-1792-1830",
+      "kingdom-of-prussia"
     ],
     "source": "Wikipedia: Battle of Waterloo"
   },
@@ -3873,7 +3877,10 @@
     "title": "Revolutions of 1848",
     "description": "A wave of liberal and national revolutions sweeps Europe. Most are suppressed, but serfdom ends in the Habsburg lands. Marx and Engels publish The Communist Manifesto.",
     "relatedPolityIds": [
-      "habsburg-monarchy"
+      "habsburg-monarchy",
+      "german-states",
+      "italian-states",
+      "kingdom-of-prussia"
     ],
     "source": "Wikipedia: Revolutions of 1848"
   },
@@ -3980,7 +3987,8 @@
     "title": "Kingdom of Italy proclaimed",
     "description": "Most of the Italian peninsula is unified under the House of Savoy (Rome follows in 1870).",
     "relatedPolityIds": [
-      "italy"
+      "italy",
+      "italian-states"
     ],
     "source": "Wikipedia: Italian unification"
   },
@@ -4078,7 +4086,9 @@
     "description": "After the Franco-Prussian War, the German Empire is proclaimed at Versailles with the Prussian king as emperor.",
     "relatedPolityIds": [
       "german-empire",
-      "french-colonial-empire"
+      "french-colonial-empire",
+      "kingdom-of-prussia",
+      "german-states"
     ]
   },
   {
@@ -4668,7 +4678,9 @@
     "type": "person",
     "title": "Nazis take power in Germany",
     "description": "Adolf Hitler becomes chancellor and quickly turns Germany into a one-party dictatorship.",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "germany-1918-1945"
+    ],
     "source": "Wikipedia: Adolf Hitler’s rise to power"
   },
   {
@@ -4714,7 +4726,8 @@
       "united-states",
       "british-empire",
       "empire-of-japan",
-      "republic-of-china"
+      "republic-of-china",
+      "germany-1918-1945"
     ]
   },
   {
@@ -4726,7 +4739,9 @@
     "type": "war",
     "title": "The Holocaust",
     "description": "Nazi Germany murders around six million European Jews, as well as millions of others including Roma, Poles, Soviet prisoners of war, disabled people and gay men. Auschwitz-Birkenau was the largest killing centre.",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "germany-1918-1945"
+    ],
     "source": "Wikipedia: The Holocaust (checked 6 Nov 2026)"
   },
   {
@@ -5178,7 +5193,8 @@
     "title": "Berlin Wall built",
     "description": "East Germany builds a wall around West Berlin, a symbol of the Cold War division of Europe.",
     "relatedPolityIds": [
-      "soviet-union"
+      "soviet-union",
+      "east-germany"
     ],
     "source": "Wikipedia: Berlin Wall"
   },
@@ -5491,7 +5507,8 @@
     "title": "Fall of the Berlin Wall",
     "description": "East Germany opens the Berlin Wall, and communist regimes across Eastern Europe fall.",
     "relatedPolityIds": [
-      "soviet-union"
+      "soviet-union",
+      "east-germany"
     ],
     "source": "Wikipedia: Fall of the Berlin Wall"
   },
@@ -6513,7 +6530,8 @@
     "title": "German reunification",
     "description": "East and West Germany reunite on 3 October 1990.",
     "relatedPolityIds": [
-      "germany-modern"
+      "germany-modern",
+      "east-germany"
     ],
     "source": "Wikipedia: German reunification"
   },
@@ -10390,5 +10408,201 @@
       "tonga"
     ],
     "source": "Wikipedia: 2022 Hunga Tonga–Hunga Haʻapai eruption and tsunami"
+  },
+  {
+    "id": "battle-of-morgarten",
+    "year": 1315,
+    "lat": 47.1,
+    "lng": 8.63,
+    "type": "war",
+    "title": "Battle of Morgarten",
+    "description": "Swiss peasants ambush and defeat a Habsburg army.",
+    "relatedPolityIds": [
+      "old-swiss-confederacy",
+      "holy-roman-empire"
+    ],
+    "source": "Wikipedia: Battle of Morgarten"
+  },
+  {
+    "id": "zurich-reformation",
+    "year": 1523,
+    "lat": 47.37,
+    "lng": 8.54,
+    "type": "culture",
+    "title": "Zwingli’s Reformation in Zürich",
+    "description": "Zürich adopts the Reformation; the Swiss cantons split by religion.",
+    "relatedPolityIds": [
+      "old-swiss-confederacy"
+    ],
+    "source": "Wikipedia: Huldrych Zwingli"
+  },
+  {
+    "id": "french-invasion-of-switzerland",
+    "year": 1798,
+    "lat": 46.95,
+    "lng": 7.45,
+    "type": "war",
+    "title": "French invasion of Switzerland",
+    "description": "France conquers the Confederacy and sets up the Helvetic Republic.",
+    "relatedPolityIds": [
+      "old-swiss-confederacy",
+      "france-1792-1830"
+    ],
+    "source": "Wikipedia: French invasion of Switzerland"
+  },
+  {
+    "id": "reign-of-terror",
+    "year": 1793,
+    "lat": 48.86,
+    "lng": 2.35,
+    "type": "war",
+    "title": "Reign of Terror",
+    "description": "The revolutionary government executes about 17,000 people (1793–94).",
+    "relatedPolityIds": [
+      "france-1792-1830"
+    ],
+    "source": "Wikipedia: Reign of Terror"
+  },
+  {
+    "id": "napoleon-crowned",
+    "year": 1804,
+    "lat": 48.85,
+    "lng": 2.35,
+    "type": "culture",
+    "title": "Napoleon crowns himself emperor",
+    "description": "Napoleon becomes Emperor of the French at Notre-Dame.",
+    "relatedPolityIds": [
+      "france-1792-1830"
+    ],
+    "source": "Wikipedia: Coronation of Napoleon"
+  },
+  {
+    "id": "battle-of-jena",
+    "year": 1806,
+    "lat": 50.93,
+    "lng": 11.59,
+    "type": "war",
+    "title": "Battles of Jena and Auerstedt",
+    "description": "Napoleon crushes the Prussian army.",
+    "relatedPolityIds": [
+      "france-1792-1830",
+      "kingdom-of-prussia"
+    ],
+    "source": "Wikipedia: Battle of Jena–Auerstedt"
+  },
+  {
+    "id": "prussia-crowned",
+    "year": 1701,
+    "lat": 54.71,
+    "lng": 20.51,
+    "type": "culture",
+    "title": "Kingdom of Prussia proclaimed",
+    "description": "Elector Frederick III crowns himself King Frederick I in Königsberg.",
+    "relatedPolityIds": [
+      "kingdom-of-prussia"
+    ],
+    "source": "Wikipedia: Kingdom of Prussia"
+  },
+  {
+    "id": "seven-years-war",
+    "year": 1756,
+    "lat": 51,
+    "lng": 13,
+    "type": "war",
+    "title": "Seven Years’ War",
+    "description": "Prussia survives a war against Austria, France and Russia (1756–63).",
+    "relatedPolityIds": [
+      "kingdom-of-prussia",
+      "habsburg-monarchy",
+      "kingdom-of-france",
+      "great-britain",
+      "russian-empire"
+    ],
+    "source": "Wikipedia: Seven Years’ War"
+  },
+  {
+    "id": "zollverein",
+    "year": 1834,
+    "lat": 50.11,
+    "lng": 8.68,
+    "type": "trade",
+    "title": "German customs union",
+    "description": "Most German states join a Prussian-led customs union.",
+    "relatedPolityIds": [
+      "german-states",
+      "kingdom-of-prussia"
+    ],
+    "source": "Wikipedia: Zollverein"
+  },
+  {
+    "id": "german-confederation-founded",
+    "year": 1815,
+    "lat": 50.11,
+    "lng": 8.68,
+    "type": "culture",
+    "title": "German Confederation founded",
+    "description": "The Congress of Vienna joins 39 German states in a loose league.",
+    "relatedPolityIds": [
+      "german-states",
+      "kingdom-of-prussia",
+      "habsburg-monarchy"
+    ],
+    "source": "Wikipedia: German Confederation"
+  },
+  {
+    "id": "peace-of-lodi",
+    "year": 1454,
+    "lat": 45.31,
+    "lng": 9.5,
+    "type": "culture",
+    "title": "Peace of Lodi",
+    "description": "Milan, Venice, Florence, Naples and the Papacy agree a balance of power.",
+    "relatedPolityIds": [
+      "italian-states",
+      "republic-of-venice"
+    ],
+    "source": "Wikipedia: Treaty of Lodi"
+  },
+  {
+    "id": "italian-wars",
+    "year": 1494,
+    "lat": 43.77,
+    "lng": 11.25,
+    "type": "war",
+    "title": "Italian Wars begin",
+    "description": "France invades Italy; Spain and France fight over it until 1559.",
+    "relatedPolityIds": [
+      "italian-states",
+      "kingdom-of-france",
+      "spanish-empire"
+    ],
+    "source": "Wikipedia: Italian Wars"
+  },
+  {
+    "id": "german-hyperinflation",
+    "year": 1923,
+    "lat": 52.52,
+    "lng": 13.4,
+    "type": "trade",
+    "title": "German hyperinflation",
+    "description": "Prices double every few days; savings are wiped out.",
+    "relatedPolityIds": [
+      "germany-1918-1945"
+    ],
+    "source": "Wikipedia: Hyperinflation in the Weimar Republic"
+  },
+  {
+    "id": "east-german-uprising",
+    "year": 1953,
+    "lat": 52.52,
+    "lng": 13.4,
+    "type": "war",
+    "title": "East German uprising",
+    "description": "Workers’ protests are crushed by Soviet tanks.",
+    "relatedPolityIds": [
+      "east-germany",
+      "soviet-union"
+    ],
+    "source": "Wikipedia: East German uprising of 1953"
   }
 ]

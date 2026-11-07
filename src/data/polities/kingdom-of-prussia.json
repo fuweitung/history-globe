@@ -1,0 +1,329 @@
+{
+  "id": "kingdom-of-prussia",
+  "name": "Kingdom of Prussia",
+  "era": "early_modern",
+  "region": "Central Europe",
+  "startYear": 1701,
+  "endYear": 1871,
+  "capital": "Berlin",
+  "capitalCoords": [
+    13.4,
+    52.52
+  ],
+  "summary": "A north German kingdom built around Brandenburg and Prussia, famous for its army and efficient state; it rose to great-power status under Frederick the Great and united Germany in 1871.",
+  "wikiTitle": "Kingdom of Prussia",
+  "borderNames": [],
+  "borderYears": [
+    1701,
+    1870
+  ],
+  "borderNameYears": {
+    "Prussia": [
+      1701,
+      1870
+    ],
+    "Brandenburg": [
+      1701,
+      1720
+    ]
+  },
+  "color": "#2a2a2a",
+  "knownFor": [
+    {
+      "label": "Prussian army",
+      "kind": "troops",
+      "note": "Drilled, disciplined army."
+    },
+    {
+      "label": "Sanssouci",
+      "kind": "monument",
+      "note": "Frederick the Great’s palace."
+    },
+    {
+      "label": "Compulsory schooling",
+      "kind": "idea",
+      "year": 1763,
+      "note": "Early state schooling."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Northern Germany and the Baltic; up to about 350,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "terrain": {
+        "value": "Flat, sandy North European Plain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "climate": {
+        "value": "Temperate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "resources": {
+        "value": "Grain; Silesian and Ruhr coal later.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "disasters": {
+        "value": "Wars ravaged it (1756–63, 1806).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 10 million in 1815; 24 million in 1871.",
+        "year": 1815,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "urbanisation": {
+        "value": "Berlin, Königsberg, Breslau.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "disease": {
+        "value": "Cholera (1831).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "migration": {
+        "value": "Welcomed Huguenot refugees (1685).",
+        "year": 1685,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming on Junker estates; later industry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "tradeRoutes": {
+        "value": "Zollverein customs union (1834).",
+        "year": 1834,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "wealth": {
+        "value": "Poor land made rich by careful state finance.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "moneyAndTax": {
+        "value": "Thaler.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "inequality": {
+        "value": "Junker landlords and serfs (until 1807).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Absolute, then constitutional monarchy (1850).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "keyRulers": {
+        "value": "Frederick William I. Frederick the Great. Wilhelm I. Otto von Bismarck.",
+        "year": 1740,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "succession": {
+        "value": "Hohenzollern kings.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "institutions": {
+        "value": "Efficient civil service.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "stability": {
+        "value": "Defeated by Napoleon (1806), then reformed.",
+        "year": 1806,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "eliteConflict": {
+        "value": "Junkers dominated army and state.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Large standing army; needle gun.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "majorWars": {
+        "value": "Silesian Wars; Seven Years’ War; Napoleonic Wars; wars of 1864, 1866, 1870.",
+        "year": 1756,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "territoryChange": {
+        "value": "Took Silesia (1742), parts of Poland (1772–95), Rhineland (1815).",
+        "year": 1742,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "alliancesRivals": {
+        "value": "Rival of Austria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "scienceEducation": {
+        "value": "Humboldt’s University of Berlin (1810).",
+        "year": 1810,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "openness": {
+        "value": "Religious tolerance.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "communicationTransport": {
+        "value": "Railways from 1838.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Protestant (Lutheran and Reformed); Catholics in the west.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "languageWriting": {
+        "value": "German.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "artsArchitecture": {
+        "value": "Brandenburg Gate (1791).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "socialStructure": {
+        "value": "Kings, Junkers, burghers, peasants.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "sharedIdentity": {
+        "value": "Duty and service.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "dailyLife": {
+        "value": "Rural villages; barracks towns.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Austria, Russia, Poland, Saxony, Hanover.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "ideasReligions": {
+        "value": "Enlightened absolutism (Frederick the Great).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "colonisation": {
+        "value": "None (a small West African fort, 1683–1717).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Kingdom proclaimed (1701).",
+        "year": 1701,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "peakPeriod": {
+        "value": "Under Bismarck (1862–71).",
+        "year": 1866,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "declineSignals": {
+        "value": "None; it merged into the German Empire.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "outcome": {
+        "value": "Became the leading state of the German Empire (1871).",
+        "year": 1871,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Kingdom of Prussia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Prussia"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Prussia"
+      }
+    }
+  }
+}
