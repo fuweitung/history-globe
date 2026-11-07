@@ -1,0 +1,320 @@
+{
+  "id": "jolof-and-wolof-kingdoms",
+  "name": "Jolof Empire and Wolof kingdoms",
+  "era": "medieval",
+  "region": "West Africa",
+  "startYear": 1350,
+  "endYear": 1886,
+  "capital": "Linguère (Jolof)",
+  "capitalCoords": [
+    -15.12,
+    15.4
+  ],
+  "summary": "A Wolof empire in Senegal that broke up after 1549 into kingdoms such as Cayor, Waalo and Baol; they traded with Europeans on the coast until France conquered them in the 1880s.",
+  "wikiTitle": "Jolof Empire",
+  "borderNames": [],
+  "borderNameYears": {
+    "Senegal": [
+      1350,
+      1815
+    ]
+  },
+  "color": "#7a8a3a",
+  "knownFor": [
+    {
+      "label": "Damel of Cayor",
+      "kind": "person",
+      "note": "Title of Cayor’s king."
+    },
+    {
+      "label": "Lat Dior",
+      "kind": "person",
+      "note": "Fought the French railway (1880s)."
+    },
+    {
+      "label": "Griots",
+      "kind": "art",
+      "note": "Singer-historians."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Senegal.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "terrain": {
+        "value": "Savanna and coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "climate": {
+        "value": "Sahel.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "resources": {
+        "value": "Millet, groundnuts, horses.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Jolof Empire"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "urbanisation": {
+        "value": "Villages and royal towns.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "disease": {
+        "value": "Malaria.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "migration": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Jolof Empire"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, horses, trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "tradeRoutes": {
+        "value": "Trade with Portuguese, Dutch, French on the coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "wealth": {
+        "value": "Trade in horses and captives.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "moneyAndTax": {
+        "value": "Tribute.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "inequality": {
+        "value": "Royal lineages, free farmers, castes, captives.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchies (Burba, Damel, Brak).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "keyRulers": {
+        "value": "Ndiadiane Ndiaye (founder). Lat Dior.",
+        "year": 1350,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "succession": {
+        "value": "Royal lineages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "institutions": {
+        "value": "Councils of electors.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "stability": {
+        "value": "Breakup after 1549.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "eliteConflict": {
+        "value": "Rival kingdoms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Cavalry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "majorWars": {
+        "value": "Battle of Danki (1549); wars with France.",
+        "year": 1549,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "territoryChange": {
+        "value": "Split into several kingdoms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "alliancesRivals": {
+        "value": "French at Saint-Louis.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "scienceEducation": {
+        "value": "Qur’anic schools.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "openness": {
+        "value": "Open to trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "communicationTransport": {
+        "value": "Horses and footpaths.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Islam spread slowly; traditional religion.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "languageWriting": {
+        "value": "Wolof.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "artsArchitecture": {
+        "value": "Oral epics.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "socialStructure": {
+        "value": "Nobles, free people, castes (griots, smiths), captives.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler and faith.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "dailyLife": {
+        "value": "Millet couscous.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Futa Toro, Mali Empire.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "ideasReligions": {
+        "value": "Islam and Sufi orders (Mourides later).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "colonisation": {
+        "value": "French conquest (1886).",
+        "year": 1886,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Founded about 1350.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "peakPeriod": {
+        "value": "About 1450–1549.",
+        "year": 1500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "declineSignals": {
+        "value": "Danki (1549).",
+        "year": 1549,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "outcome": {
+        "value": "Part of French Senegal.",
+        "year": 1886,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Jolof Empire.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire"
+      },
+      "overallCertainty": {
+        "value": "Main events are known from chronicles; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Jolof Empire"
+      }
+    }
+  }
+}

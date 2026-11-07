@@ -1,0 +1,320 @@
+{
+  "id": "kingdom-of-alwa",
+  "name": "Kingdom of Alwa",
+  "era": "ancient",
+  "region": "Northeast Africa (Nile)",
+  "startYear": 500,
+  "endYear": 1504,
+  "capital": "Soba",
+  "capitalCoords": [
+    32.68,
+    15.52
+  ],
+  "summary": "The southernmost Christian Nubian kingdom, centred on Soba near today’s Khartoum; it lasted almost a thousand years until the Funj and Arab tribes ended it around 1504.",
+  "wikiTitle": "Alodia",
+  "borderNames": [],
+  "borderNameYears": {
+    "Alwa": [
+      500,
+      1504
+    ]
+  },
+  "color": "#7a5a8a",
+  "knownFor": [
+    {
+      "label": "Soba",
+      "kind": "monument",
+      "note": "Capital with churches."
+    },
+    {
+      "label": "Nubian Christianity",
+      "kind": "idea",
+      "note": "Converted about 580."
+    },
+    {
+      "label": "Cattle and grain",
+      "kind": "food",
+      "note": "Base of the economy."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Sudan around the Blue and White Nile.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      },
+      "terrain": {
+        "value": "Nile plains and savanna.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      },
+      "climate": {
+        "value": "Hot; summer rains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      },
+      "resources": {
+        "value": "Cattle, grain, gold.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Alodia"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Alodia"
+      },
+      "urbanisation": {
+        "value": "Mostly rural, with a few large cities.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Alodia"
+      },
+      "disease": {
+        "value": "Epidemics and famines.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Alodia"
+      },
+      "migration": {
+        "value": "Arab tribes moved in after 1300.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming and herding.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      },
+      "tradeRoutes": {
+        "value": "Nile and Red Sea trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      },
+      "wealth": {
+        "value": "Described as richer than Makuria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      },
+      "moneyAndTax": {
+        "value": "Barter.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      },
+      "inequality": {
+        "value": "Rulers and military elites above farmers and herders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Alodia"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Christian monarchy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      },
+      "keyRulers": {
+        "value": "Few kings are known by name.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Alodia"
+      },
+      "succession": {
+        "value": "Royal family.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      },
+      "institutions": {
+        "value": "Church hierarchy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      },
+      "stability": {
+        "value": "Weakened after 1300.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      },
+      "eliteConflict": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Cavalry and archers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      },
+      "majorWars": {
+        "value": "Fall to Funj and Arab tribes (about 1504).",
+        "year": 1504,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      },
+      "territoryChange": {
+        "value": "Shrank after 1300.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      },
+      "alliancesRivals": {
+        "value": "Makuria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Alodia"
+      },
+      "scienceEducation": {
+        "value": "Church learning.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      },
+      "openness": {
+        "value": "Open to trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Alodia"
+      },
+      "communicationTransport": {
+        "value": "Caravan roads, rivers and horses.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Alodia"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Christian from about 580.",
+        "year": 580,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      },
+      "languageWriting": {
+        "value": "Old Nubian, Greek, Coptic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      },
+      "artsArchitecture": {
+        "value": "Churches at Soba.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      },
+      "socialStructure": {
+        "value": "King, clergy, farmers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the dynasty and faith.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Alodia"
+      },
+      "dailyLife": {
+        "value": "Farming or herding households.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Alodia"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Makuria, Ethiopia, Beja.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      },
+      "ideasReligions": {
+        "value": "Christianity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "After Meroë’s decline.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Alodia"
+      },
+      "peakPeriod": {
+        "value": "900s–1100s.",
+        "year": 1000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      },
+      "declineSignals": {
+        "value": "Arab migrations.",
+        "year": 1300,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      },
+      "outcome": {
+        "value": "Replaced by the Funj Sultanate.",
+        "year": 1504,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Alodia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Alodia"
+      },
+      "overallCertainty": {
+        "value": "Main events are known from chronicles; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Alodia"
+      }
+    }
+  }
+}

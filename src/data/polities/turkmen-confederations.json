@@ -1,0 +1,326 @@
+{
+  "id": "turkmen-confederations",
+  "name": "Kara Koyunlu and Aq Qoyunlu",
+  "era": "medieval",
+  "region": "Iran (Middle East)",
+  "startYear": 1375,
+  "endYear": 1508,
+  "capital": "Tabriz",
+  "capitalCoords": [
+    46.29,
+    38.08
+  ],
+  "summary": "Two Turkmen tribal confederations, the “Black Sheep” and the “White Sheep”, that ruled eastern Anatolia, Iraq and western Iran after Timur; Uzun Hasan of the Aq Qoyunlu was among the strongest rulers of his time before the Safavids took over.",
+  "wikiTitle": "Aq Qoyunlu",
+  "borderNames": [],
+  "borderNameYears": {
+    "Emirate of the White Sheep Turks": [
+      1378,
+      1508
+    ],
+    "Emirate of the Black Sheep Turks": [
+      1375,
+      1468
+    ]
+  },
+  "color": "#d0d0c0",
+  "knownFor": [
+    {
+      "label": "Uzun Hasan",
+      "kind": "person",
+      "note": "Aq Qoyunlu ruler (1453–78)."
+    },
+    {
+      "label": "Blue Mosque of Tabriz",
+      "kind": "monument",
+      "year": 1465,
+      "note": "Built under the Kara Koyunlu."
+    },
+    {
+      "label": "Battle of Otlukbeli",
+      "kind": "idea",
+      "year": 1473,
+      "note": "Defeat by the Ottomans."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Eastern Anatolia, Azerbaijan, Iraq, western Iran.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "terrain": {
+        "value": "Highlands and plateaus.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "climate": {
+        "value": "Continental.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "resources": {
+        "value": "Pasture, silk.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "disasters": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aq Qoyunlu"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "urbanisation": {
+        "value": "Mostly rural, with a few large cities.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "disease": {
+        "value": "Epidemics and famines.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "migration": {
+        "value": "Nomadic Turkmen tribes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Herding and trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "tradeRoutes": {
+        "value": "Silk routes through Tabriz.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "wealth": {
+        "value": "Trade wealth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "moneyAndTax": {
+        "value": "Silver coins.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "inequality": {
+        "value": "Rulers and military elites above farmers and herders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aq Qoyunlu"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Tribal confederation under a sultan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "keyRulers": {
+        "value": "Qara Yusuf. Jahan Shah. Uzun Hasan.",
+        "year": 1410,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "succession": {
+        "value": "Family disputes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "institutions": {
+        "value": "Tribal leaders.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "stability": {
+        "value": "Unstable.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "eliteConflict": {
+        "value": "Tribes and princes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Cavalry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "majorWars": {
+        "value": "Aq Qoyunlu defeat the Kara Koyunlu (1467); Otlukbeli (1473).",
+        "year": 1467,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "territoryChange": {
+        "value": "Took Iran from the Timurids.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "alliancesRivals": {
+        "value": "Venice (against the Ottomans).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "scienceEducation": {
+        "value": "Persian court culture.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "openness": {
+        "value": "Open to trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "communicationTransport": {
+        "value": "Caravan roads, rivers and horses.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aq Qoyunlu"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Islam (Sunni and Shia).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "languageWriting": {
+        "value": "Turkic; Persian.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "artsArchitecture": {
+        "value": "Tile mosques in Tabriz.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "socialStructure": {
+        "value": "Turkmen tribes and Persian townspeople.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the dynasty and faith.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "dailyLife": {
+        "value": "Farming or herding households.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aq Qoyunlu"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Ottomans, Timurids, Mamluks.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "ideasReligions": {
+        "value": "Islam; Persianate culture.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "After Timur’s death (1405).",
+        "year": 1405,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "peakPeriod": {
+        "value": "Uzun Hasan.",
+        "year": 1470,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "declineSignals": {
+        "value": "Civil war after 1478.",
+        "year": 1478,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "outcome": {
+        "value": "Replaced by the Safavids (1501–08).",
+        "year": 1508,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Aq Qoyunlu.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Aq Qoyunlu"
+      },
+      "overallCertainty": {
+        "value": "Main events are known from chronicles; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Aq Qoyunlu"
+      }
+    }
+  }
+}

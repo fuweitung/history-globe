@@ -1195,7 +1195,8 @@
   "role": "scientist",
   "description": "Persian polymath, physician and philosopher.",
   "polityIds": [
-   "ghaznavid-empire"
+   "ghaznavid-empire",
+   "iranian-dynasties"
   ],
   "place": [
    48.51,
@@ -1251,7 +1252,8 @@
   "role": "scientist",
   "description": "Khwarazmian polymath.",
   "polityIds": [
-   "ghaznavid-empire"
+   "ghaznavid-empire",
+   "iranian-dynasties"
   ],
   "place": [
    68.42,
@@ -1552,7 +1554,9 @@
   "datesApproximate": true,
   "role": "explorer",
   "description": "Maghrebi traveller and scholar.",
-  "polityIds": [],
+  "polityIds": [
+   "maghreb-sultanates"
+  ],
   "place": [
    -5.81,
    35.78
@@ -1872,7 +1876,8 @@
   "role": "explorer",
   "description": "Italian navigator and explorer.",
   "polityIds": [
-   "spanish-empire"
+   "spanish-empire",
+   "kingdom-of-castile"
   ],
   "place": [
    -6.89,
@@ -4827,7 +4832,8 @@
   "role": "ruler",
   "description": "First Tsar of Russia.",
   "polityIds": [
-   "muscovy"
+   "muscovy",
+   "tatar-khanates"
   ],
   "place": [
    37.62,
@@ -8224,5 +8230,374 @@
   ],
   "wikiTitle": "Karim Khan Zand",
   "source": "Wikipedia: Karim Khan Zand"
+ },
+ {
+  "id": "clovis-i",
+  "name": "Clovis I",
+  "born": 466,
+  "died": 511,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "First king of all the Franks.",
+  "polityIds": [
+   "merovingian-franks"
+  ],
+  "place": [
+   2.35,
+   48.86
+  ],
+  "wikiTitle": "Clovis I",
+  "source": "Wikipedia: Clovis I"
+ },
+ {
+  "id": "isidore-of-seville",
+  "name": "Isidore of Seville",
+  "born": 560,
+  "died": 636,
+  "datesApproximate": true,
+  "role": "thinker",
+  "description": "Scholar whose Etymologies was read for a thousand years.",
+  "polityIds": [
+   "visigothic-kingdom"
+  ],
+  "place": [
+   -5.98,
+   37.39
+  ],
+  "wikiTitle": "Isidore of Seville",
+  "source": "Wikipedia: Isidore of Seville"
+ },
+ {
+  "id": "abd-al-rahman-iii",
+  "name": "Abd al-Rahman III",
+  "born": 891,
+  "died": 961,
+  "role": "ruler",
+  "description": "First Caliph of Córdoba.",
+  "polityIds": [
+   "al-andalus-cordoba"
+  ],
+  "place": [
+   -4.78,
+   37.88
+  ],
+  "wikiTitle": "Abd al-Rahman III",
+  "source": "Wikipedia: Abd al-Rahman III"
+ },
+ {
+  "id": "el-cid",
+  "name": "El Cid",
+  "born": 1043,
+  "died": 1099,
+  "datesApproximate": true,
+  "role": "military",
+  "description": "Castilian knight who ruled Valencia.",
+  "polityIds": [
+   "kingdom-of-castile"
+  ],
+  "place": [
+   -3.7,
+   42.34
+  ],
+  "wikiTitle": "El Cid",
+  "source": "Wikipedia: El Cid"
+ },
+ {
+  "id": "isabella-i",
+  "name": "Isabella I of Castile",
+  "born": 1451,
+  "died": 1504,
+  "role": "ruler",
+  "description": "Queen who united Spain with Ferdinand and backed Columbus.",
+  "polityIds": [
+   "kingdom-of-castile"
+  ],
+  "place": [
+   -4.72,
+   41.65
+  ],
+  "wikiTitle": "Isabella I of Castile",
+  "source": "Wikipedia: Isabella I of Castile"
+ },
+ {
+  "id": "james-i-aragon",
+  "name": "James I of Aragon",
+  "born": 1208,
+  "died": 1276,
+  "role": "ruler",
+  "description": "Conquered Mallorca and Valencia.",
+  "polityIds": [
+   "crown-of-aragon"
+  ],
+  "place": [
+   2.17,
+   41.39
+  ],
+  "wikiTitle": "James I of Aragon",
+  "source": "Wikipedia: James I of Aragon"
+ },
+ {
+  "id": "yusuf-ibn-tashfin",
+  "name": "Yusuf ibn Tashfin",
+  "born": 1009,
+  "died": 1106,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "Almoravid leader who founded Marrakesh.",
+  "polityIds": [
+   "almoravids"
+  ],
+  "place": [
+   -7.99,
+   31.63
+  ],
+  "wikiTitle": "Yusuf ibn Tashfin",
+  "source": "Wikipedia: Yusuf ibn Tashfin"
+ },
+ {
+  "id": "stephen-i-hungary",
+  "name": "Stephen I of Hungary",
+  "born": 975,
+  "died": 1038,
+  "datesApproximate": true,
+  "role": "ruler",
+  "description": "First king of Hungary.",
+  "polityIds": [
+   "kingdom-of-hungary-medieval"
+  ],
+  "place": [
+   18.74,
+   47.79
+  ],
+  "wikiTitle": "Stephen I of Hungary",
+  "source": "Wikipedia: Stephen I of Hungary"
+ },
+ {
+  "id": "matthias-corvinus",
+  "name": "Matthias Corvinus",
+  "born": 1443,
+  "died": 1490,
+  "role": "ruler",
+  "description": "Renaissance king of Hungary.",
+  "polityIds": [
+   "kingdom-of-hungary-medieval"
+  ],
+  "place": [
+   19.04,
+   47.5
+  ],
+  "wikiTitle": "Matthias Corvinus",
+  "source": "Wikipedia: Matthias Corvinus"
+ },
+ {
+  "id": "gustav-vasa",
+  "name": "Gustav I of Sweden (Gustav Vasa)",
+  "born": 1496,
+  "died": 1560,
+  "role": "ruler",
+  "description": "Led Sweden out of the Kalmar Union.",
+  "polityIds": [
+   "medieval-sweden"
+  ],
+  "place": [
+   18.07,
+   59.33
+  ],
+  "wikiTitle": "Gustav I of Sweden",
+  "source": "Wikipedia: Gustav I of Sweden"
+ },
+ {
+  "id": "olaf-ii-norway",
+  "name": "Olaf II of Norway",
+  "born": 995,
+  "died": 1030,
+  "role": "religious",
+  "description": "King who spread Christianity; Norway’s patron saint.",
+  "polityIds": [
+   "medieval-norway"
+  ],
+  "place": [
+   10.4,
+   63.43
+  ],
+  "wikiTitle": "Olaf II of Norway",
+  "source": "Wikipedia: Olaf II of Norway"
+ },
+ {
+  "id": "alexander-nevsky",
+  "name": "Alexander Nevsky",
+  "born": 1221,
+  "died": 1263,
+  "role": "military",
+  "description": "Prince of Novgorod who defeated the Swedes and the Livonian knights.",
+  "polityIds": [
+   "novgorod-republic",
+   "kievan-rus"
+  ],
+  "place": [
+   31.27,
+   58.52
+  ],
+  "wikiTitle": "Alexander Nevsky",
+  "source": "Wikipedia: Alexander Nevsky"
+ },
+ {
+  "id": "uzun-hasan",
+  "name": "Uzun Hasan",
+  "born": 1423,
+  "died": 1478,
+  "role": "ruler",
+  "description": "Aq Qoyunlu sultan.",
+  "polityIds": [
+   "turkmen-confederations"
+  ],
+  "place": [
+   46.29,
+   38.08
+  ],
+  "wikiTitle": "Uzun Hasan",
+  "source": "Wikipedia: Uzun Hasan"
+ },
+ {
+  "id": "esen-taishi",
+  "name": "Esen Taishi",
+  "born": 1407,
+  "died": 1455,
+  "datesApproximate": true,
+  "role": "military",
+  "description": "Oirat leader who captured a Ming emperor.",
+  "polityIds": [
+   "oirats-dzungars"
+  ],
+  "place": [
+   100,
+   47
+  ],
+  "wikiTitle": "Esen Taishi",
+  "source": "Wikipedia: Esen Taishi"
+ },
+ {
+  "id": "oda-nobunaga",
+  "name": "Oda Nobunaga",
+  "born": 1534,
+  "died": 1582,
+  "role": "ruler",
+  "description": "Warlord who began Japan’s unification.",
+  "polityIds": [
+   "medieval-japan"
+  ],
+  "place": [
+   136.9,
+   35.18
+  ],
+  "wikiTitle": "Oda Nobunaga",
+  "source": "Wikipedia: Oda Nobunaga"
+ },
+ {
+  "id": "toyotomi-hideyoshi",
+  "name": "Toyotomi Hideyoshi",
+  "born": 1537,
+  "died": 1598,
+  "role": "ruler",
+  "description": "Unified Japan (1590).",
+  "polityIds": [
+   "medieval-japan"
+  ],
+  "place": [
+   135.5,
+   34.69
+  ],
+  "wikiTitle": "Toyotomi Hideyoshi",
+  "source": "Wikipedia: Toyotomi Hideyoshi"
+ },
+ {
+  "id": "mahmud-gawan",
+  "name": "Mahmud Gawan",
+  "born": 1411,
+  "died": 1481,
+  "role": "ruler",
+  "description": "Chief minister of the Bahmani Sultanate.",
+  "polityIds": [
+   "deccan-sultanates"
+  ],
+  "place": [
+   77.52,
+   17.91
+  ],
+  "wikiTitle": "Mahmud Gawan",
+  "source": "Wikipedia: Mahmud Gawan"
+ },
+ {
+  "id": "ferdowsi",
+  "name": "Ferdowsi",
+  "born": 940,
+  "died": 1020,
+  "datesApproximate": true,
+  "role": "writer",
+  "description": "Poet of the Shahnameh, the Persian epic.",
+  "polityIds": [
+   "iranian-dynasties",
+   "ghaznavid-empire"
+  ],
+  "place": [
+   59.6,
+   36.3
+  ],
+  "wikiTitle": "Ferdowsi",
+  "source": "Wikipedia: Ferdowsi"
+ },
+ {
+  "id": "mahmud-al-kashgari",
+  "name": "Mahmud al-Kashgari",
+  "born": 1005,
+  "died": 1102,
+  "datesApproximate": true,
+  "role": "scientist",
+  "description": "Wrote the first dictionary of Turkic languages.",
+  "polityIds": [
+   "kara-khanids"
+  ],
+  "place": [
+   75.99,
+   39.47
+  ],
+  "wikiTitle": "Mahmud al-Kashgari",
+  "source": "Wikipedia: Mahmud al-Kashgari"
+ },
+ {
+  "id": "yelu-dashi",
+  "name": "Yelü Dashi",
+  "born": 1087,
+  "died": 1143,
+  "role": "ruler",
+  "description": "Founder of the Qara Khitai.",
+  "polityIds": [
+   "qara-khitai",
+   "liao-dynasty"
+  ],
+  "place": [
+   75.25,
+   42.75
+  ],
+  "wikiTitle": "Yelü Dashi",
+  "source": "Wikipedia: Yelü Dashi"
+ },
+ {
+  "id": "hermann-von-salza",
+  "name": "Hermann von Salza",
+  "born": 1165,
+  "died": 1239,
+  "datesApproximate": true,
+  "role": "military",
+  "description": "Grand Master who began the Order’s Baltic state.",
+  "polityIds": [
+   "teutonic-order-state"
+  ],
+  "place": [
+   19.03,
+   54.04
+  ],
+  "wikiTitle": "Hermann von Salza",
+  "source": "Wikipedia: Hermann von Salza"
  }
 ]

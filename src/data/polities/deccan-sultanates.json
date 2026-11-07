@@ -1,0 +1,342 @@
+{
+  "id": "deccan-sultanates",
+  "name": "Bahmani and Deccan sultanates",
+  "era": "medieval",
+  "region": "South Asia",
+  "startYear": 1347,
+  "endYear": 1687,
+  "capital": "Gulbarga, Bidar, Bijapur, Golconda, Ahmadnagar",
+  "capitalCoords": [
+    76.83,
+    17.91
+  ],
+  "summary": "The Bahmani Sultanate of the Deccan (1347–1527) and the five sultanates that followed it (Ahmadnagar, Bijapur, Golconda, Bidar, Berar); they defeated Vijayanagara at Talikota (1565) and were conquered by the Mughals by 1687.",
+  "wikiTitle": "Deccan sultanates",
+  "borderNames": [],
+  "borderNameYears": {
+    "Bahmani Kingdom": [
+      1347,
+      1527
+    ],
+    "Ahmadnagar": [
+      1490,
+      1636
+    ],
+    "Bijapur": [
+      1490,
+      1686
+    ],
+    "Golkonda": [
+      1518,
+      1687
+    ],
+    "Bidar": [
+      1492,
+      1619
+    ],
+    "Berar": [
+      1490,
+      1574
+    ]
+  },
+  "color": "#3a6a5a",
+  "knownFor": [
+    {
+      "label": "Gol Gumbaz",
+      "kind": "monument",
+      "year": 1656,
+      "note": "Huge dome in Bijapur."
+    },
+    {
+      "label": "Golconda diamonds",
+      "kind": "idea",
+      "note": "Including the Koh-i-Noor."
+    },
+    {
+      "label": "Charminar",
+      "kind": "monument",
+      "year": 1591,
+      "note": "Hyderabad landmark."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Deccan plateau.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "terrain": {
+        "value": "Plateau.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "climate": {
+        "value": "Hot and dry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "resources": {
+        "value": "Diamonds, cotton, farmland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "disasters": {
+        "value": "Famine (1630–32).",
+        "year": 1630,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "urbanisation": {
+        "value": "Mostly rural, with a few large cities.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "disease": {
+        "value": "Epidemics and famines.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "migration": {
+        "value": "Persian, Turkish and African (Habshi) soldiers and officials.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, diamonds, textiles.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "tradeRoutes": {
+        "value": "Ports on both coasts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "wealth": {
+        "value": "Diamond wealth (Golconda).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "moneyAndTax": {
+        "value": "Gold and silver coins.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "inequality": {
+        "value": "Rulers and military elites above farmers and herders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Deccan sultanates"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Sultanates.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "keyRulers": {
+        "value": "Mahmud Gawan. Malik Ambar. Ibrahim Adil Shah II.",
+        "year": 1460,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "succession": {
+        "value": "Dynasties.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "institutions": {
+        "value": "Persianate court.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "stability": {
+        "value": "Wars between sultanates.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "eliteConflict": {
+        "value": "Deccanis against foreign-born nobles.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Cavalry; artillery.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "majorWars": {
+        "value": "Battle of Talikota (1565); Mughal conquest.",
+        "year": 1565,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "territoryChange": {
+        "value": "Lost to the Mughals.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "alliancesRivals": {
+        "value": "Vijayanagara, Mughals, Portuguese.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "scienceEducation": {
+        "value": "Madrasa of Mahmud Gawan (Bidar).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "openness": {
+        "value": "Open to trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "communicationTransport": {
+        "value": "Caravan roads, rivers and horses.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Deccan sultanates"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Islam (Sunni and Shia); Hindu majority.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "languageWriting": {
+        "value": "Persian, Dakhni Urdu, Telugu, Marathi.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "artsArchitecture": {
+        "value": "Domes and painted miniatures.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "socialStructure": {
+        "value": "Muslim nobles, Hindu majority.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the dynasty and faith.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "dailyLife": {
+        "value": "Farming or herding households.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Deccan sultanates"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Vijayanagara, Mughals, Portuguese Goa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "ideasReligions": {
+        "value": "Persian culture.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Bahmani revolt (1347).",
+        "year": 1347,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "peakPeriod": {
+        "value": "After Talikota (1565).",
+        "year": 1580,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "declineSignals": {
+        "value": "Mughal campaigns (1600s).",
+        "year": 1636,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "outcome": {
+        "value": "Conquered by the Mughals (1687).",
+        "year": 1687,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Deccan sultanates.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Deccan sultanates"
+      },
+      "overallCertainty": {
+        "value": "Main events are known from chronicles; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Deccan sultanates"
+      }
+    }
+  }
+}
