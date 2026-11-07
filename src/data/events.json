@@ -2072,7 +2072,9 @@
     "type": "war",
     "title": "Norman conquest of England",
     "description": "William of Normandy defeats Harold II at Hastings.",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "kingdom-of-england"
+    ],
     "source": "Wikipedia: Norman Conquest (checked 6 Nov 2026)"
   },
   {
@@ -2272,7 +2274,9 @@
     "type": "culture",
     "title": "Magna Carta",
     "description": "English barons force King John to accept limits on royal power.",
-    "relatedPolityIds": []
+    "relatedPolityIds": [
+      "kingdom-of-england"
+    ]
   },
   {
     "id": "fall-of-caizhou",
@@ -2584,7 +2588,8 @@
     "title": "Hundred Years’ War",
     "description": "England and France fight a long series of wars for the French throne.",
     "relatedPolityIds": [
-      "kingdom-of-france"
+      "kingdom-of-france",
+      "kingdom-of-england"
     ],
     "source": "Wikipedia: Hundred Years' War (checked 6 Nov 2026)"
   },
@@ -2612,7 +2617,8 @@
     "description": "Plague kills perhaps a third to half of Europe’s population, and many people in the Middle East and North Africa.",
     "relatedPolityIds": [
       "byzantine-empire",
-      "holy-roman-empire"
+      "holy-roman-empire",
+      "kingdom-of-england"
     ]
   },
   {
@@ -2777,7 +2783,8 @@
     "description": "Ayutthaya sacks Angkor, and the Khmer court moves south.",
     "relatedPolityIds": [
       "khmer-empire",
-      "ayutthaya-kingdom"
+      "ayutthaya-kingdom",
+      "post-angkor-cambodia"
     ]
   },
   {
@@ -3355,7 +3362,9 @@
     "type": "invention",
     "title": "Newton’s Principia",
     "description": "Isaac Newton sets out the laws of motion and universal gravitation.",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "kingdom-of-england"
+    ],
     "source": "Wikipedia: Philosophiæ Naturalis Principia Mathematica (checked 6 Nov 2026)"
   },
   {
@@ -3407,7 +3416,9 @@
     "title": "Acts of Union",
     "description": "The kingdoms of England and Scotland unite to form the Kingdom of Great Britain.",
     "relatedPolityIds": [
-      "great-britain"
+      "great-britain",
+      "kingdom-of-england",
+      "kingdom-of-scotland"
     ]
   },
   {
@@ -7806,7 +7817,8 @@
     "title": "Tanganyika and Zanzibar unite",
     "description": "The two countries form the United Republic of Tanzania.",
     "relatedPolityIds": [
-      "tanzania"
+      "tanzania",
+      "zanzibar-sultanate"
     ],
     "source": "Wikipedia: Tanzania"
   },
@@ -9709,7 +9721,8 @@
     "title": "Oman and Zanzibar split",
     "description": "After Said bin Sultan dies, his empire divides between two sons.",
     "relatedPolityIds": [
-      "oman"
+      "oman",
+      "zanzibar-sultanate"
     ],
     "source": "Wikipedia: Sultanate of Zanzibar"
   },
@@ -11443,5 +11456,600 @@
       "sri-lanka"
     ],
     "source": "Wikipedia: 2019–present Sri Lankan economic crisis"
+  },
+  {
+    "id": "mossi-resist-french",
+    "year": 1896,
+    "lat": 12.37,
+    "lng": -1.53,
+    "type": "war",
+    "title": "French take Ouagadougou",
+    "description": "French troops occupy the Mossi capital; Mogho Naba Wobgo flees.",
+    "relatedPolityIds": [
+      "mossi-kingdoms",
+      "french-colonial-empire"
+    ],
+    "source": "Wikipedia: Mossi Kingdoms"
+  },
+  {
+    "id": "dahomey-takes-ouidah",
+    "year": 1727,
+    "lat": 6.36,
+    "lng": 2.09,
+    "type": "war",
+    "title": "Dahomey conquers Ouidah",
+    "description": "King Agaja takes the slave-trading port of Ouidah.",
+    "relatedPolityIds": [
+      "kingdom-of-dahomey"
+    ],
+    "source": "Wikipedia: Agaja"
+  },
+  {
+    "id": "franco-dahomean-war",
+    "year": 1892,
+    "lat": 7.18,
+    "lng": 1.99,
+    "type": "war",
+    "title": "Second Franco-Dahomean War",
+    "description": "France defeats King Béhanzin and his women soldiers.",
+    "relatedPolityIds": [
+      "kingdom-of-dahomey",
+      "french-colonial-empire"
+    ],
+    "source": "Wikipedia: Second Franco-Dahomean War"
+  },
+  {
+    "id": "uganda-martyrs",
+    "year": 1886,
+    "lat": 0.31,
+    "lng": 32.58,
+    "type": "culture",
+    "title": "Uganda Martyrs",
+    "description": "Kabaka Mwanga II has Christian converts at his court killed.",
+    "relatedPolityIds": [
+      "great-lakes-kingdoms"
+    ],
+    "source": "Wikipedia: Uganda Martyrs"
+  },
+  {
+    "id": "buganda-agreement",
+    "year": 1900,
+    "lat": 0.31,
+    "lng": 32.58,
+    "type": "culture",
+    "title": "Buganda Agreement",
+    "description": "Buganda accepts British rule in return for land and self-government.",
+    "relatedPolityIds": [
+      "great-lakes-kingdoms",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Buganda Agreement (1900)"
+  },
+  {
+    "id": "kuomboka-lozi",
+    "year": 1890,
+    "lat": -15.2,
+    "lng": 23.1,
+    "type": "culture",
+    "title": "Lozi treaty with Britain",
+    "description": "Litunga Lewanika signs a concession with the British South Africa Company.",
+    "relatedPolityIds": [
+      "lozi-kingdom",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Lewanika"
+  },
+  {
+    "id": "first-matabele-war",
+    "year": 1893,
+    "lat": -20.15,
+    "lng": 28.58,
+    "type": "war",
+    "title": "First Matabele War",
+    "description": "British South Africa Company forces with machine guns defeat Lobengula.",
+    "relatedPolityIds": [
+      "ndebele-kingdom",
+      "british-empire"
+    ],
+    "source": "Wikipedia: First Matabele War"
+  },
+  {
+    "id": "changamire-expels-portuguese",
+    "year": 1693,
+    "lat": -18,
+    "lng": 31,
+    "type": "war",
+    "title": "Rozvi drive out the Portuguese",
+    "description": "Changamire Dombo defeats the Portuguese on the Zimbabwe plateau.",
+    "relatedPolityIds": [
+      "shona-kingdoms",
+      "portuguese-empire"
+    ],
+    "source": "Wikipedia: Rozvi Empire"
+  },
+  {
+    "id": "umar-tall-jihad",
+    "year": 1852,
+    "lat": 13.44,
+    "lng": -6.27,
+    "type": "war",
+    "title": "Umar Tall’s jihad begins",
+    "description": "El Hadj Umar Tall starts the wars that create the Toucouleur Empire.",
+    "relatedPolityIds": [
+      "toucouleur-empire"
+    ],
+    "source": "Wikipedia: Umar Tall"
+  },
+  {
+    "id": "futa-jallon-revolution",
+    "year": 1725,
+    "lat": 10.63,
+    "lng": -11.84,
+    "type": "culture",
+    "title": "Futa Jallon jihad",
+    "description": "Muslim Fula leaders found an Islamic state in the Guinea highlands.",
+    "relatedPolityIds": [
+      "futa-imamates"
+    ],
+    "source": "Wikipedia: Imamate of Futa Jallon"
+  },
+  {
+    "id": "samori-captured",
+    "year": 1898,
+    "lat": 8.8,
+    "lng": -7,
+    "type": "war",
+    "title": "Samori Touré captured",
+    "description": "After 16 years of war, the French capture Samori; he dies in exile in 1900.",
+    "relatedPolityIds": [
+      "wassoulou-empire",
+      "french-colonial-empire"
+    ],
+    "source": "Wikipedia: Samori Ture"
+  },
+  {
+    "id": "kong-destroyed",
+    "year": 1897,
+    "lat": 9.15,
+    "lng": -4.6,
+    "type": "war",
+    "title": "Samori destroys Kong",
+    "description": "Samori’s army burns the trading city of Kong.",
+    "relatedPolityIds": [
+      "kong-empire",
+      "wassoulou-empire"
+    ],
+    "source": "Wikipedia: Kong Empire"
+  },
+  {
+    "id": "segou-founded",
+    "year": 1712,
+    "yearApproximate": true,
+    "lat": 13.44,
+    "lng": -6.27,
+    "type": "culture",
+    "title": "Ségou kingdom founded",
+    "description": "Biton Coulibaly builds a Bambara kingdom on the Niger.",
+    "relatedPolityIds": [
+      "bambara-kingdoms"
+    ],
+    "source": "Wikipedia: Bamana Empire"
+  },
+  {
+    "id": "wadai-french-conquest",
+    "year": 1909,
+    "lat": 13.83,
+    "lng": 20.83,
+    "type": "war",
+    "title": "France takes Abéché",
+    "description": "French forces capture the Wadai capital.",
+    "relatedPolityIds": [
+      "wadai-sultanate",
+      "french-colonial-empire"
+    ],
+    "source": "Wikipedia: Ouaddai War"
+  },
+  {
+    "id": "funj-egyptian-conquest",
+    "year": 1821,
+    "lat": 13.55,
+    "lng": 33.63,
+    "type": "war",
+    "title": "Egypt conquers Sennar",
+    "description": "Muhammad Ali’s army ends the Funj Sultanate.",
+    "relatedPolityIds": [
+      "funj-sultanate",
+      "modern-egypt"
+    ],
+    "source": "Wikipedia: Turco-Egyptian conquest of Sudan"
+  },
+  {
+    "id": "anglo-zanzibar-war",
+    "year": 1896,
+    "lat": -6.16,
+    "lng": 39.19,
+    "type": "war",
+    "title": "Anglo-Zanzibar War",
+    "description": "British warships force out a new sultan in about 40 minutes, the shortest war on record.",
+    "relatedPolityIds": [
+      "zanzibar-sultanate",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Anglo-Zanzibar War"
+  },
+  {
+    "id": "zanzibar-revolution",
+    "year": 1964,
+    "lat": -6.16,
+    "lng": 39.19,
+    "type": "war",
+    "title": "Zanzibar Revolution",
+    "description": "African revolutionaries overthrow the sultan; thousands of Arabs and South Asians are killed.",
+    "relatedPolityIds": [
+      "zanzibar-sultanate"
+    ],
+    "source": "Wikipedia: Zanzibar Revolution"
+  },
+  {
+    "id": "witwatersrand-gold",
+    "year": 1886,
+    "lat": -26.2,
+    "lng": 28.04,
+    "type": "trade",
+    "title": "Gold found on the Witwatersrand",
+    "description": "The world’s biggest gold field is found; Johannesburg is founded.",
+    "relatedPolityIds": [
+      "boer-republics"
+    ],
+    "source": "Wikipedia: Witwatersrand Gold Rush"
+  },
+  {
+    "id": "second-boer-war",
+    "year": 1899,
+    "lat": -28,
+    "lng": 26,
+    "type": "war",
+    "title": "Second Boer War",
+    "description": "Britain defeats the Boer republics (1899–1902); about 26,000 Boer women and children and at least 14,000 Black Africans die in British camps.",
+    "relatedPolityIds": [
+      "boer-republics",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Second Boer War"
+  },
+  {
+    "id": "battle-of-feyiase",
+    "year": 1701,
+    "lat": 6.69,
+    "lng": -1.62,
+    "type": "war",
+    "title": "Asante defeats Denkyira",
+    "description": "The new Asante kingdom overthrows its Akan overlord.",
+    "relatedPolityIds": [
+      "akan-states",
+      "ashanti-empire"
+    ],
+    "source": "Wikipedia: Denkyira"
+  },
+  {
+    "id": "adal-conquest-of-ethiopia",
+    "year": 1529,
+    "lat": 9,
+    "lng": 40,
+    "type": "war",
+    "title": "Battle of Shimbra Kure",
+    "description": "Ahmad Gragn defeats the Ethiopian army and overruns much of the empire (1529–43).",
+    "relatedPolityIds": [
+      "adal-sultanate",
+      "ethiopian-empire"
+    ],
+    "source": "Wikipedia: Ethiopian–Adal war"
+  },
+  {
+    "id": "arab-revolt",
+    "year": 1916,
+    "lat": 21.42,
+    "lng": 39.83,
+    "type": "war",
+    "title": "Arab Revolt",
+    "description": "Sharif Hussein of Mecca rises against the Ottomans with British support.",
+    "relatedPolityIds": [
+      "kingdom-of-hejaz",
+      "ottoman-empire",
+      "british-empire"
+    ],
+    "source": "Wikipedia: Arab Revolt"
+  },
+  {
+    "id": "saudi-conquest-hejaz",
+    "year": 1925,
+    "lat": 21.49,
+    "lng": 39.19,
+    "type": "war",
+    "title": "Ibn Saud takes the Hejaz",
+    "description": "Saudi forces take Mecca (1924) and Jeddah (1925).",
+    "relatedPolityIds": [
+      "kingdom-of-hejaz",
+      "saudi-arabia"
+    ],
+    "source": "Wikipedia: Saudi conquest of Hejaz"
+  },
+  {
+    "id": "battle-of-mulayda",
+    "year": 1891,
+    "lat": 26.3,
+    "lng": 43.6,
+    "type": "war",
+    "title": "Battle of Mulayda",
+    "description": "The Rashidis of Ha’il defeat the Saudis and take Riyadh.",
+    "relatedPolityIds": [
+      "emirate-of-jabal-shammar",
+      "saudi-arabia"
+    ],
+    "source": "Wikipedia: Battle of Mulayda"
+  },
+  {
+    "id": "fall-of-hail",
+    "year": 1921,
+    "lat": 27.52,
+    "lng": 41.69,
+    "type": "war",
+    "title": "Ibn Saud captures Ha’il",
+    "description": "The Rashidi emirate ends.",
+    "relatedPolityIds": [
+      "emirate-of-jabal-shammar",
+      "saudi-arabia"
+    ],
+    "source": "Wikipedia: Conquest of Ha’il"
+  },
+  {
+    "id": "english-reformation",
+    "year": 1534,
+    "lat": 51.51,
+    "lng": -0.12,
+    "type": "culture",
+    "title": "English Reformation",
+    "description": "Henry VIII breaks with Rome and makes himself head of the Church of England.",
+    "relatedPolityIds": [
+      "kingdom-of-england"
+    ],
+    "source": "Wikipedia: English Reformation"
+  },
+  {
+    "id": "spanish-armada",
+    "year": 1588,
+    "lat": 50.5,
+    "lng": -1.5,
+    "type": "war",
+    "title": "Spanish Armada defeated",
+    "description": "England beats off Philip II’s invasion fleet.",
+    "relatedPolityIds": [
+      "kingdom-of-england",
+      "spanish-empire"
+    ],
+    "source": "Wikipedia: Spanish Armada"
+  },
+  {
+    "id": "english-civil-war",
+    "year": 1642,
+    "lat": 52.5,
+    "lng": -1.5,
+    "type": "war",
+    "title": "English Civil War",
+    "description": "Parliament defeats Charles I, who is executed in 1649; England becomes a republic until 1660.",
+    "relatedPolityIds": [
+      "kingdom-of-england",
+      "kingdom-of-scotland",
+      "kingdom-of-ireland"
+    ],
+    "source": "Wikipedia: English Civil War"
+  },
+  {
+    "id": "glorious-revolution",
+    "year": 1688,
+    "lat": 51.51,
+    "lng": -0.12,
+    "type": "culture",
+    "title": "Glorious Revolution",
+    "description": "James II is replaced by William and Mary; the Bill of Rights (1689) limits the crown.",
+    "relatedPolityIds": [
+      "kingdom-of-england",
+      "dutch-republic"
+    ],
+    "source": "Wikipedia: Glorious Revolution"
+  },
+  {
+    "id": "battle-of-bannockburn",
+    "year": 1314,
+    "lat": 56.09,
+    "lng": -3.92,
+    "type": "war",
+    "title": "Battle of Bannockburn",
+    "description": "Robert the Bruce defeats Edward II and secures Scotland’s independence.",
+    "relatedPolityIds": [
+      "kingdom-of-scotland",
+      "kingdom-of-england"
+    ],
+    "source": "Wikipedia: Battle of Bannockburn"
+  },
+  {
+    "id": "scottish-reformation",
+    "year": 1560,
+    "lat": 55.95,
+    "lng": -3.19,
+    "type": "culture",
+    "title": "Scottish Reformation",
+    "description": "Scotland becomes Protestant under John Knox’s influence.",
+    "relatedPolityIds": [
+      "kingdom-of-scotland"
+    ],
+    "source": "Wikipedia: Scottish Reformation"
+  },
+  {
+    "id": "union-of-the-crowns",
+    "year": 1603,
+    "lat": 55.95,
+    "lng": -3.19,
+    "type": "culture",
+    "title": "Union of the Crowns",
+    "description": "James VI of Scotland also becomes king of England and Ireland.",
+    "relatedPolityIds": [
+      "kingdom-of-scotland",
+      "kingdom-of-england",
+      "kingdom-of-ireland"
+    ],
+    "source": "Wikipedia: Union of the Crowns"
+  },
+  {
+    "id": "plantation-of-ulster",
+    "year": 1609,
+    "lat": 54.6,
+    "lng": -6.5,
+    "type": "culture",
+    "title": "Plantation of Ulster",
+    "description": "English and Scottish Protestants are settled on land taken from Irish lords.",
+    "relatedPolityIds": [
+      "kingdom-of-ireland"
+    ],
+    "source": "Wikipedia: Plantation of Ulster"
+  },
+  {
+    "id": "cromwell-in-ireland",
+    "year": 1649,
+    "lat": 53.72,
+    "lng": -6.35,
+    "type": "war",
+    "title": "Cromwellian conquest of Ireland",
+    "description": "Cromwell’s army takes Drogheda and Wexford; much Catholic land is confiscated.",
+    "relatedPolityIds": [
+      "kingdom-of-ireland",
+      "kingdom-of-england"
+    ],
+    "source": "Wikipedia: Cromwellian conquest of Ireland"
+  },
+  {
+    "id": "irish-rebellion-1798",
+    "year": 1798,
+    "lat": 52.5,
+    "lng": -6.5,
+    "type": "war",
+    "title": "Irish Rebellion of 1798",
+    "description": "The United Irishmen rise with French help; the revolt leads to the Act of Union.",
+    "relatedPolityIds": [
+      "kingdom-of-ireland",
+      "great-britain",
+      "france-1792-1830"
+    ],
+    "source": "Wikipedia: Irish Rebellion of 1798"
+  },
+  {
+    "id": "fall-of-longvek",
+    "year": 1594,
+    "lat": 11.8,
+    "lng": 104.8,
+    "type": "war",
+    "title": "Siam sacks Longvek",
+    "description": "The Cambodian capital falls to Ayutthaya.",
+    "relatedPolityIds": [
+      "post-angkor-cambodia",
+      "ayutthaya-kingdom"
+    ],
+    "source": "Wikipedia: Longvek"
+  },
+  {
+    "id": "cambodia-french-protectorate",
+    "year": 1863,
+    "lat": 11.98,
+    "lng": 104.78,
+    "type": "culture",
+    "title": "Cambodia becomes a French protectorate",
+    "description": "King Norodom accepts French protection against Siam and Vietnam.",
+    "relatedPolityIds": [
+      "post-angkor-cambodia",
+      "french-colonial-empire"
+    ],
+    "source": "Wikipedia: French protectorate of Cambodia"
+  },
+  {
+    "id": "lan-xang-split",
+    "year": 1707,
+    "lat": 19.89,
+    "lng": 102.14,
+    "type": "culture",
+    "title": "Lan Xang splits",
+    "description": "The Lao kingdom divides into Luang Prabang and Vientiane (Champasak follows in 1713).",
+    "relatedPolityIds": [
+      "lao-kingdoms",
+      "lan-xang"
+    ],
+    "source": "Wikipedia: Kingdom of Luang Phrabang"
+  },
+  {
+    "id": "anouvong-rebellion",
+    "year": 1826,
+    "lat": 17.97,
+    "lng": 102.63,
+    "type": "war",
+    "title": "Lao rebellion against Siam",
+    "description": "King Anouvong of Vientiane rises against Siam; Vientiane is destroyed in 1828.",
+    "relatedPolityIds": [
+      "lao-kingdoms",
+      "rattanakosin-siam"
+    ],
+    "source": "Wikipedia: Lao rebellion (1826–1828)"
+  },
+  {
+    "id": "shan-sack-ava",
+    "year": 1527,
+    "lat": 21.86,
+    "lng": 95.98,
+    "type": "war",
+    "title": "Shan states take Ava",
+    "description": "A Shan confederation captures Ava, ruling Upper Burma until 1555.",
+    "relatedPolityIds": [
+      "shan-states"
+    ],
+    "source": "Wikipedia: Ava Kingdom"
+  },
+  {
+    "id": "mrauk-u-founded",
+    "year": 1429,
+    "lat": 20.59,
+    "lng": 93.19,
+    "type": "culture",
+    "title": "Mrauk U founded",
+    "description": "King Min Saw Mon returns from exile in Bengal and founds a new capital.",
+    "relatedPolityIds": [
+      "mrauk-u"
+    ],
+    "source": "Wikipedia: Min Saw Mon"
+  },
+  {
+    "id": "konbaung-conquers-arakan",
+    "year": 1785,
+    "lat": 20.59,
+    "lng": 93.19,
+    "type": "war",
+    "title": "Burma conquers Arakan",
+    "description": "Konbaung armies take Mrauk U and carry the Mahamuni Buddha to Amarapura.",
+    "relatedPolityIds": [
+      "mrauk-u",
+      "konbaung-dynasty"
+    ],
+    "source": "Wikipedia: Konbaung–Arakan War"
+  },
+  {
+    "id": "karim-khan-shiraz",
+    "year": 1765,
+    "yearApproximate": true,
+    "lat": 29.61,
+    "lng": 52.53,
+    "type": "culture",
+    "title": "Karim Khan rebuilds Shiraz",
+    "description": "The Zand ruler makes Shiraz his capital with a new bazaar, mosque and citadel.",
+    "relatedPolityIds": [
+      "zand-persia"
+    ],
+    "source": "Wikipedia: Karim Khan Zand"
   }
 ]

@@ -1,0 +1,320 @@
+{
+  "id": "mossi-kingdoms",
+  "name": "Mossi kingdoms",
+  "era": "early_modern",
+  "region": "West Africa",
+  "startYear": 1495,
+  "endYear": 1896,
+  "capital": "Ouagadougou",
+  "capitalCoords": [
+    -1.53,
+    12.37
+  ],
+  "summary": "Kingdoms of the Mossi people on the Volta plateau, led by the Mogho Naba of Ouagadougou; they resisted the Mali and Songhai empires and Islam for centuries until the French conquered them in 1896.",
+  "wikiTitle": "Mossi Kingdoms",
+  "borderNames": [],
+  "borderNameYears": {
+    "Mossi States": [
+      1490,
+      1896
+    ]
+  },
+  "color": "#a0603a",
+  "knownFor": [
+    {
+      "label": "Mogho Naba",
+      "kind": "person",
+      "note": "The king of Ouagadougou, still a ceremonial figure."
+    },
+    {
+      "label": "Mossi cavalry",
+      "kind": "troops",
+      "note": "Horsemen who raided Timbuktu (1337)."
+    },
+    {
+      "label": "Nakomse and Tengabisi",
+      "kind": "idea",
+      "note": "Ruling horsemen and earth-priest families."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Volta basin, today’s Burkina Faso.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "terrain": {
+        "value": "Savanna plateau.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "climate": {
+        "value": "Hot, with one rainy season.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "resources": {
+        "value": "Millet, sorghum, horses, cattle.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "disasters": {
+        "value": "Droughts and famines.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mossi Kingdoms"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Perhaps 1–2 million in the 1800s.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "urbanisation": {
+        "value": "Mostly villages; a royal capital and market towns.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "disease": {
+        "value": "Malaria and other tropical diseases; smallpox outbreaks.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "migration": {
+        "value": "Founders came from the Dagbon area to the south (traditions).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mossi Kingdoms"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming and trade in horses, salt and kola.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "tradeRoutes": {
+        "value": "Routes between the forest and the Niger bend.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "wealth": {
+        "value": "Moderate; based on farming and tribute.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "moneyAndTax": {
+        "value": "Tribute, market taxes and trade goods; cowrie shells in many markets.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "inequality": {
+        "value": "Rulers and nobles above free farmers; enslaved people at the bottom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mossi Kingdoms"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Several kingdoms, each ruled by a naba; Ouagadougou senior.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "keyRulers": {
+        "value": "Founder Ouedraogo (legendary); Mogho Naba Wobgo (resisted the French, 1896).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "succession": {
+        "value": "Royal lineage; chosen by electors.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "institutions": {
+        "value": "Court officials and earth priests.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "stability": {
+        "value": "Remarkably stable for 400 years.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "eliteConflict": {
+        "value": "Rivalry between Ouagadougou and Yatenga.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mossi Kingdoms"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Cavalry with spears and bows.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "majorWars": {
+        "value": "Raids on Mali and Songhai (1300s–1400s).",
+        "year": 1477,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "territoryChange": {
+        "value": "Little change.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "alliancesRivals": {
+        "value": "Rivals of Songhai.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mossi Kingdoms"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "scienceEducation": {
+        "value": "Oral learning; Qur’anic schools where Islam spread.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "openness": {
+        "value": "Open to trade, closed to rivals.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "communicationTransport": {
+        "value": "Footpaths, rivers and messengers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mossi Kingdoms"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Traditional religion; Islam spread slowly.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "languageWriting": {
+        "value": "Mooré (oral).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "artsArchitecture": {
+        "value": "Masks and royal ceremonies.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "socialStructure": {
+        "value": "Ruling Nakomse and earth-priest Tengabisi.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler and lineage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "dailyLife": {
+        "value": "Farming households in villages.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mossi Kingdoms"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Songhai, Dagbon, Gonja, Kong.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "ideasReligions": {
+        "value": "Resisted Islam for centuries.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "colonisation": {
+        "value": "Conquered by France (1896).",
+        "year": 1896,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mossi Kingdoms"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Kingdoms founded about 1500.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "peakPeriod": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "declineSignals": {
+        "value": "French conquest (1896).",
+        "year": 1896,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "outcome": {
+        "value": "Part of French Upper Volta; the Mogho Naba remains a traditional leader.",
+        "year": 1896,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mossi Kingdoms"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Mossi Kingdoms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mossi Kingdoms"
+      },
+      "overallCertainty": {
+        "value": "Known from oral traditions, travellers and colonial records; many dates are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mossi Kingdoms"
+      }
+    }
+  }
+}

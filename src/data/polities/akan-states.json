@@ -1,0 +1,325 @@
+{
+  "id": "akan-states",
+  "name": "Akan states (Bono, Denkyira, Akwamu, Fante)",
+  "era": "early_modern",
+  "region": "West Africa",
+  "startYear": 1400,
+  "endYear": 1874,
+  "capital": "Begho, Abankeseso and others",
+  "capitalCoords": [
+    -2.1,
+    6.4
+  ],
+  "summary": "Gold-rich Akan kingdoms in today’s Ghana before and alongside Asante, among them Bono, Denkyira, Akwamu and the coastal Fante; they traded gold with Mali and then with Europeans on the Gold Coast.",
+  "wikiTitle": "Akan people",
+  "borderNames": [],
+  "borderNameYears": {
+    "Akan": [
+      1400,
+      1700
+    ],
+    "Fante": [
+      1700,
+      1874
+    ]
+  },
+  "color": "#d0a030",
+  "knownFor": [
+    {
+      "label": "Gold weights",
+      "kind": "art",
+      "note": "Brass weights for weighing gold dust."
+    },
+    {
+      "label": "Kente cloth",
+      "kind": "textile",
+      "note": "Woven strip cloth."
+    },
+    {
+      "label": "Elmina trade",
+      "kind": "idea",
+      "year": 1482,
+      "note": "Portuguese fort for gold trade."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Forest and coast of Ghana.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      },
+      "terrain": {
+        "value": "Rainforest and coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      },
+      "resources": {
+        "value": "Gold, kola.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      },
+      "disasters": {
+        "value": "Epidemics.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Akan people"
+      },
+      "urbanisation": {
+        "value": "Mostly villages; a royal capital and market towns.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Akan people"
+      },
+      "disease": {
+        "value": "Malaria and other tropical diseases; smallpox outbreaks.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Akan people"
+      },
+      "migration": {
+        "value": "Akan groups moved into the forest.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Akan people"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Gold mining and trade; farming.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      },
+      "tradeRoutes": {
+        "value": "North to Mali; south to European forts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      },
+      "wealth": {
+        "value": "Gold wealth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      },
+      "moneyAndTax": {
+        "value": "Gold dust as money.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      },
+      "inequality": {
+        "value": "Rulers and nobles above free farmers; enslaved people at the bottom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Akan people"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Kingdoms with chiefs and queen mothers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      },
+      "keyRulers": {
+        "value": "Kings (omanhene) of Denkyira and Akwamu.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Akan people"
+      },
+      "succession": {
+        "value": "Matrilineal.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      },
+      "institutions": {
+        "value": "Stools as symbols of office.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      },
+      "stability": {
+        "value": "Rivalry between states.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      },
+      "eliteConflict": {
+        "value": "Rival states.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Musket armies from the 1600s.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      },
+      "majorWars": {
+        "value": "Asante defeats Denkyira (1701).",
+        "year": 1701,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      },
+      "territoryChange": {
+        "value": "Asante absorbed most of them.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      },
+      "alliancesRivals": {
+        "value": "Fante allied with Britain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Akan people"
+      },
+      "scienceEducation": {
+        "value": "Oral learning; Qur’anic schools where Islam spread.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Akan people"
+      },
+      "openness": {
+        "value": "Open to trade, closed to rivals.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Akan people"
+      },
+      "communicationTransport": {
+        "value": "Footpaths, rivers and messengers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Akan people"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Akan religion (Nyame and ancestors).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      },
+      "languageWriting": {
+        "value": "Twi and Fante.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      },
+      "artsArchitecture": {
+        "value": "Gold regalia; Adinkra symbols.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      },
+      "socialStructure": {
+        "value": "Matrilineal clans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler and lineage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Akan people"
+      },
+      "dailyLife": {
+        "value": "Farming households in villages.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Akan people"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Asante, Mali traders, Europeans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      },
+      "ideasReligions": {
+        "value": "Matrilineal kinship.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      },
+      "colonisation": {
+        "value": "British Gold Coast Colony (1874).",
+        "year": 1874,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Bono state by about 1400.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Akan people"
+      },
+      "peakPeriod": {
+        "value": "Akwamu and Denkyira (1600s).",
+        "year": 1650,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      },
+      "declineSignals": {
+        "value": "Rise of Asante (1701).",
+        "year": 1701,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      },
+      "outcome": {
+        "value": "Absorbed by Asante or the British Gold Coast.",
+        "year": 1874,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Akan people.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Akan people"
+      },
+      "overallCertainty": {
+        "value": "Known from oral traditions, travellers and colonial records; many dates are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Akan people"
+      }
+    }
+  }
+}

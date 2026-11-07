@@ -1,0 +1,320 @@
+{
+  "id": "kingdom-of-dahomey",
+  "name": "Kingdom of Dahomey",
+  "era": "early_modern",
+  "region": "West Africa",
+  "startYear": 1600,
+  "endYear": 1904,
+  "capital": "Abomey",
+  "capitalCoords": [
+    1.99,
+    7.18
+  ],
+  "summary": "A Fon kingdom in today’s Benin that grew rich by selling captives to European slave traders at Ouidah; famous for its women soldiers. France conquered it in 1894.",
+  "wikiTitle": "Kingdom of Dahomey",
+  "borderNames": [],
+  "borderNameYears": {
+    "Dahomey": [
+      1600,
+      1894
+    ]
+  },
+  "color": "#8a3a3a",
+  "knownFor": [
+    {
+      "label": "Agojie (women soldiers)",
+      "kind": "troops",
+      "note": "All-female regiments, called “Amazons” by Europeans."
+    },
+    {
+      "label": "Royal Palaces of Abomey",
+      "kind": "monument",
+      "note": "World Heritage Site."
+    },
+    {
+      "label": "Appliqué cloth",
+      "kind": "textile",
+      "note": "Banners telling royal history."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Southern Benin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "terrain": {
+        "value": "Coastal lagoons and inland plateau.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "resources": {
+        "value": "Palm oil, farmland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 200,000–300,000.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "urbanisation": {
+        "value": "Mostly villages; a royal capital and market towns.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "disease": {
+        "value": "Malaria and other tropical diseases; smallpox outbreaks.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "migration": {
+        "value": "Many thousands sold into the Atlantic slave trade.",
+        "year": 1727,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Slave trade, later palm oil (after 1840s).",
+        "year": 1840,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "tradeRoutes": {
+        "value": "Port of Ouidah.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "wealth": {
+        "value": "Royal wealth from trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "moneyAndTax": {
+        "value": "Cowrie shells; royal monopoly on trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "inequality": {
+        "value": "Rulers and nobles above free farmers; enslaved people at the bottom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Absolute monarchy with a large court.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "keyRulers": {
+        "value": "Agaja. Ghezo. Glele. Béhanzin.",
+        "year": 1718,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "succession": {
+        "value": "Royal sons, chosen by the king.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "institutions": {
+        "value": "Annual Customs ceremony; royal census.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "stability": {
+        "value": "Strong central control.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "eliteConflict": {
+        "value": "Court factions.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Standing army with guns; women’s regiments.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "majorWars": {
+        "value": "Conquest of Ouidah (1727); wars with Oyo; Franco-Dahomean Wars (1890–94).",
+        "year": 1727,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "territoryChange": {
+        "value": "Took the coast (1727).",
+        "year": 1727,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "alliancesRivals": {
+        "value": "Paid tribute to Oyo (1730–1823).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "scienceEducation": {
+        "value": "Oral learning; Qur’anic schools where Islam spread.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "openness": {
+        "value": "Open to trade, closed to rivals.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "communicationTransport": {
+        "value": "Footpaths, rivers and messengers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Vodun.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "languageWriting": {
+        "value": "Fon (oral).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "artsArchitecture": {
+        "value": "Bas-reliefs, appliqué cloth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "socialStructure": {
+        "value": "King, chiefs, commoners, captives.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler and lineage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "dailyLife": {
+        "value": "Farming households in villages.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Oyo, Porto-Novo, Asante (further west).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "ideasReligions": {
+        "value": "Vodun, later carried to Haiti and Brazil.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "colonisation": {
+        "value": "French conquest (1892–94).",
+        "year": 1894,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Agaja takes the coast (1727).",
+        "year": 1727,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "peakPeriod": {
+        "value": "Under Ghezo (1818–58).",
+        "year": 1818,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "declineSignals": {
+        "value": "End of the slave trade; French invasion.",
+        "year": 1890,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "outcome": {
+        "value": "French colony; part of Benin today.",
+        "year": 1904,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Kingdom of Dahomey.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      },
+      "overallCertainty": {
+        "value": "Known from oral traditions, travellers and colonial records; many dates are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Dahomey"
+      }
+    }
+  }
+}

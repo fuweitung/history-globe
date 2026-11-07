@@ -1,0 +1,326 @@
+{
+  "id": "boer-republics",
+  "name": "Boer republics (Transvaal and Orange Free State)",
+  "era": "modern",
+  "region": "Southern Africa",
+  "startYear": 1852,
+  "endYear": 1902,
+  "capital": "Pretoria and Bloemfontein",
+  "capitalCoords": [
+    28.19,
+    -25.75
+  ],
+  "summary": "Independent republics founded by Afrikaner (Boer) settlers who left the British Cape Colony; the South African Republic (Transvaal) and the Orange Free State were conquered by Britain in the Second Boer War (1899–1902).",
+  "wikiTitle": "Boer republics",
+  "borderNames": [],
+  "borderNameYears": {
+    "Transvaal": [
+      1852,
+      1902
+    ],
+    "Orange Free State": [
+      1854,
+      1902
+    ]
+  },
+  "color": "#d0a050",
+  "knownFor": [
+    {
+      "label": "Great Trek",
+      "kind": "idea",
+      "year": 1852,
+      "note": "Migration from the Cape (1830s–40s)."
+    },
+    {
+      "label": "Witwatersrand gold",
+      "kind": "idea",
+      "year": 1886,
+      "note": "Largest gold field in the world."
+    },
+    {
+      "label": "Commandos",
+      "kind": "troops",
+      "note": "Mounted citizen militia."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Highveld of South Africa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "terrain": {
+        "value": "Grassland plateau.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "climate": {
+        "value": "Dry, with summer rain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "resources": {
+        "value": "Gold (1886), diamonds, cattle.",
+        "year": 1886,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "disasters": {
+        "value": "Droughts; rinderpest.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 300,000 Boers and a much larger African population.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Boer republics"
+      },
+      "urbanisation": {
+        "value": "Mostly villages; a royal capital and market towns.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Boer republics"
+      },
+      "disease": {
+        "value": "Malaria and other tropical diseases; smallpox outbreaks.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Boer republics"
+      },
+      "migration": {
+        "value": "Gold rush brought foreign workers (uitlanders).",
+        "year": 1886,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, then gold mining.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "tradeRoutes": {
+        "value": "Railway to Delagoa Bay (1895).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "wealth": {
+        "value": "Gold made the Transvaal rich.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "moneyAndTax": {
+        "value": "South African pound; mining taxes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "inequality": {
+        "value": "Africans had no rights; uitlanders no vote.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Republics with elected presidents (white men only).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "keyRulers": {
+        "value": "Paul Kruger. Marthinus Steyn.",
+        "year": 1883,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "institutions": {
+        "value": "Volksraad parliaments.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "stability": {
+        "value": "British annexation of the Transvaal (1877–81).",
+        "year": 1877,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "eliteConflict": {
+        "value": "Boers and uitlanders.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Mounted commandos with modern rifles.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "majorWars": {
+        "value": "First (1880–81) and Second Boer War (1899–1902).",
+        "year": 1899,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "territoryChange": {
+        "value": "Annexed by Britain (1900–02).",
+        "year": 1902,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "alliancesRivals": {
+        "value": "Opposed to Britain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "None of note.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "scienceEducation": {
+        "value": "Church schools.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "openness": {
+        "value": "Closed to Africans’ rights; open to mining capital.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "communicationTransport": {
+        "value": "Ox wagons, then railways.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Dutch Reformed Church.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "languageWriting": {
+        "value": "Dutch and Afrikaans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "artsArchitecture": {
+        "value": "Farmhouses; Pretoria Raadsaal.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "socialStructure": {
+        "value": "White citizens over Africans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "sharedIdentity": {
+        "value": "Afrikaner nationalism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "dailyLife": {
+        "value": "Farms; biltong.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Cape Colony, Natal, Zulu, Ndebele, Tswana.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "ideasReligions": {
+        "value": "Calvinism; Afrikaner nationalism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "colonisation": {
+        "value": "British conquest (1902).",
+        "year": 1902,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Sand River Convention (1852).",
+        "year": 1852,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "peakPeriod": {
+        "value": "Gold boom under Kruger (1886–99).",
+        "year": 1886,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "declineSignals": {
+        "value": "Second Boer War (1899–1902).",
+        "year": 1899,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "outcome": {
+        "value": "Part of the Union of South Africa (1910).",
+        "year": 1910,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Boer republics.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Boer republics"
+      },
+      "overallCertainty": {
+        "value": "Known from oral traditions, travellers and colonial records; many dates are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Boer republics"
+      }
+    }
+  }
+}

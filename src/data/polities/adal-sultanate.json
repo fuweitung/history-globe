@@ -1,0 +1,324 @@
+{
+  "id": "adal-sultanate",
+  "name": "Adal Sultanate and Aussa",
+  "era": "medieval",
+  "region": "Northeast Africa (Horn)",
+  "startYear": 1415,
+  "endYear": 1936,
+  "capital": "Dakkar, then Harar (1520), then Aussa",
+  "capitalCoords": [
+    42.12,
+    9.31
+  ],
+  "summary": "A Muslim sultanate in the Horn of Africa whose leader Ahmad ibn Ibrahim (Gragn) nearly conquered Ethiopia (1529–43); after its fall its heirs ruled the Afar region of Aussa.",
+  "wikiTitle": "Adal Sultanate",
+  "borderNames": [],
+  "borderNameYears": {
+    "Adal": [
+      1415,
+      1650
+    ],
+    "Awsa": [
+      1577,
+      1936
+    ]
+  },
+  "color": "#5a7a5a",
+  "knownFor": [
+    {
+      "label": "Ahmad Gragn",
+      "kind": "person",
+      "note": "Conquered most of Ethiopia (1529–43)."
+    },
+    {
+      "label": "Harar walls",
+      "kind": "monument",
+      "note": "Walled city of Harar."
+    },
+    {
+      "label": "Port of Zeila",
+      "kind": "idea",
+      "note": "Red Sea trade port."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Somali, Afar and Harar regions.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "terrain": {
+        "value": "Highlands and desert.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "climate": {
+        "value": "Dry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "resources": {
+        "value": "Livestock, trade goods.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "urbanisation": {
+        "value": "Mostly villages; a royal capital and market towns.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "disease": {
+        "value": "Malaria and other tropical diseases; smallpox outbreaks.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "migration": {
+        "value": "Oromo migrations (1500s) weakened it.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Adal Sultanate"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Herding and Red Sea trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "tradeRoutes": {
+        "value": "Zeila and Berbera ports.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "wealth": {
+        "value": "Trade wealth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "moneyAndTax": {
+        "value": "Tribute, market taxes and trade goods; cowrie shells in many markets.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "inequality": {
+        "value": "Rulers and nobles above free farmers; enslaved people at the bottom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Adal Sultanate"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Sultanate; later imamate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "keyRulers": {
+        "value": "Ahmad ibn Ibrahim al-Ghazi (Gragn).",
+        "year": 1529,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "succession": {
+        "value": "Walashma dynasty; then imams.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "institutions": {
+        "value": "Islamic courts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "stability": {
+        "value": "Long wars with Ethiopia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "eliteConflict": {
+        "value": "Sultans and military leaders.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Ottoman muskets and cannon.",
+        "year": 1529,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "majorWars": {
+        "value": "Ethiopian–Adal War (1529–43).",
+        "year": 1529,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "territoryChange": {
+        "value": "Briefly ruled most of Ethiopia.",
+        "year": 1535,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "alliancesRivals": {
+        "value": "Ottomans against Ethiopia and Portugal.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "scienceEducation": {
+        "value": "Oral learning; Qur’anic schools where Islam spread.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "openness": {
+        "value": "Open to trade, closed to rivals.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "communicationTransport": {
+        "value": "Footpaths, rivers and messengers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Adal Sultanate"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sunni Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "languageWriting": {
+        "value": "Harari, Somali, Afar; Arabic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "artsArchitecture": {
+        "value": "Harar mosques.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "socialStructure": {
+        "value": "Nomads, townspeople, scholars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler and lineage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "dailyLife": {
+        "value": "Farming households in villages.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Adal Sultanate"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Ethiopian Empire, Ottomans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "ideasReligions": {
+        "value": "Islamic scholarship.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "colonisation": {
+        "value": "Aussa absorbed into Italian East Africa (1936).",
+        "year": 1936,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Founded (1415).",
+        "year": 1415,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "peakPeriod": {
+        "value": "Ahmad Gragn’s conquests (1529–43).",
+        "year": 1530,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "declineSignals": {
+        "value": "Gragn killed (1543).",
+        "year": 1543,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "outcome": {
+        "value": "Imamate of Aussa; later part of Ethiopia.",
+        "year": 1577,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Adal Sultanate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Adal Sultanate"
+      },
+      "overallCertainty": {
+        "value": "Known from oral traditions, travellers and colonial records; many dates are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Adal Sultanate"
+      }
+    }
+  }
+}

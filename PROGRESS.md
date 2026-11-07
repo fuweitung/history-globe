@@ -34,12 +34,9 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 - [x] Map blanks round 6: Iran (since 1979), Spain, Norway, Italy, Dutch colonial empire, Libya, Kazakhstan, Angola, Nigeria, Tanzania, Paraguay, Rouran, Northern Yuan, Cumans, early South India (#34)
 - [x] Map blanks round 7: 129 modern countries with full 43-item entries (Europe 36, Africa 37, Americas 24, Middle East and Central Asia 17, Asia 10, Oceania 5); colonies and territories linked to their rulers by date; modern era now 95% (#37)
 - [x] Map gaps round 8: Germany 1918–45, East Germany, Napoleonic France, Prussia, Old Swiss Confederacy, German and Italian states; about 90 colonies and territories linked by date; modern era 95% → 97%
-- [ ] Map gaps still open (each needs a real entry, not a guessed link):
-  - 1800s African kingdoms (Mossi, Dahomey, Buganda/Bunyoro, Rwanda and Burundi kingdoms, Lozi, Ndebele, Toucouleur, Samori’s empire, Wadai, Zanzibar sultanate, Boer republics, Kong, Segu/Kaarta, Funj)
-  - Arabia 1920 (Kingdom of Hejaz, Rashidi Emirate of Ha’il)
-  - Post-Angkor Cambodia, Lao and Shan states, Zand Persia, the kingdoms of England, Scotland and Ireland
-  - About 1,400 Indigenous nations named on the 1492–1900 maps (North America, Australia, South America): link each only after checking its culture area in a source
-  - Western Sahara (disputed) and Antarctica (no state) stay unlinked on purpose
+- [x] Map gaps round 9: 28 kingdoms and states (1800s African kingdoms, Hejaz, Ha’il, England, Scotland, Ireland, post-Angkor Cambodia, Lao and Shan states, Mrauk U, Zand Persia); 1878 → 98%, 1900 → 99%
+- [x] Small countries as map dots, 21 new entries, finer coastline (#42); economic crisis events (#43)
+- [ ] Map gaps still open: small 1800s African states (Utetera, Yeke, Nyamwezi, Borgu, Dendi, Rabih, Teke, Yaka, Kuba, Ovimbundu), Castile and Aragon before 1492, Hungary 1400, Novgorod, the Blue Horde; about 1,400 Indigenous nations on the 1492–1900 maps (link each only after checking it in a source). Western Sahara and Antarctica stay unlinked on purpose.
 - [ ] Optional last gaps: one-map oddities (Great Khanate 1400, Canada 1815), Libya, Kazakhstan, Angola, Dutch East Indies, Xinjiang
 - [ ] Britannica check of the 20 major civilisations (REVIEW.md, Priority 1)
 
@@ -59,20 +56,20 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | · Prehistory | `██████████████████░░` 92% |  |
 | · Ancient | `██████████████████░░` 91% |  |
 | · Medieval | `█████████████████░░░` 85% |  |
-| · Early modern | `████████████████░░░░` 80% |  |
+| · Early modern | `████████████████░░░░` 82% |  |
 | · Modern | `███████████████████░` 97% |  |
-| Civilisations shown on the map | `██████████████████░░` 92% | 380 of 413; the rest fly to their capital |
-| Checklist filled in | `████████████████████` 100% | 17759 of 17759 items (413 × 43) |
-| Answers with real detail | `████████████░░░░░░░░` 60% | 6839 answers are still under 40 characters |
-| Fact-checked against a source | `████░░░░░░░░░░░░░░░░` 20% | 3559 items say “(checked …)”; the rest still need a second look |
-| Civilisations with events | `████████████████████` 100% | 413 of 413 |
-| Civilisations with famous people | `███████████████░░░░░` 73% | 303 of 413; many prehistoric cultures have no known names |
-| Civilisations linked to others | `████████████████████` 100% | 413 of 413 (succeeded, conquered, traded with…) |
-| Civilisation pictures | `███████████████████░` 97% | 402 of 413 |
-| “Known for” pictures | `██████████░░░░░░░░░░` 48% | 629 of 1299 items |
+| Civilisations shown on the map | `███████████████████░` 93% | 408 of 441; the rest fly to their capital |
+| Checklist filled in | `████████████████████` 100% | 18963 of 18963 items (441 × 43) |
+| Answers with real detail | `███████████░░░░░░░░░` 57% | 7772 answers are still under 40 characters |
+| Fact-checked against a source | `████░░░░░░░░░░░░░░░░` 19% | 3559 items say “(checked …)”; the rest still need a second look |
+| Civilisations with events | `████████████████████` 100% | 440 of 441 |
+| Civilisations with famous people | `██████████████░░░░░░` 72% | 317 of 441; many prehistoric cultures have no known names |
+| Civilisations linked to others | `████████████████████` 100% | 441 of 441 (succeeded, conquered, traded with…) |
+| Civilisation pictures | `███████████████████░` 97% | 429 of 441 |
+| “Known for” pictures | `█████████░░░░░░░░░░░` 45% | 629 of 1383 items |
 
-Certainty of all items: 11573 confirmed · 5720 estimated · 466 disputed.
-Also in the app: 840 events · 389 people · 18 routes · 11 stories.
+Certainty of all items: 12493 confirmed · 6003 estimated · 467 disputed.
+Also in the app: 883 events · 408 people · 18 routes · 11 stories.
 
 ## Map coverage by year
 
@@ -107,23 +104,23 @@ Also in the app: 840 events · 389 people · 18 routes · 11 stories.
 | 1100 | `█████████████████░░░` 84% |
 | 1200 | `████████████████░░░░` 82% |
 | 1279 | `███████████████████░` 94% |
-| 1300 | `██████████████████░░` 91% |
-| 1400 | `██████████████████░░` 90% |
-| 1492 | `███████████░░░░░░░░░` 55% |
-| 1500 | `█████████████████░░░` 83% |
-| 1530 | `███████████████░░░░░` 75% |
-| 1600 | `███████████████░░░░░` 73% |
-| 1650 | `████████████████░░░░` 79% |
-| 1700 | `████████████████░░░░` 80% |
-| 1715 | `█████████████████░░░` 83% |
-| 1783 | `██████████████████░░` 88% |
-| 1800 | `██████████████████░░` 90% |
-| 1815 | `██████████████████░░` 92% |
-| 1878 | `███████████████████░` 96% |
-| 1880 | `███████████████████░` 96% |
-| 1900 | `███████████████████░` 97% |
+| 1300 | `██████████████████░░` 92% |
+| 1400 | `██████████████████░░` 91% |
+| 1492 | `███████████░░░░░░░░░` 57% |
+| 1500 | `█████████████████░░░` 84% |
+| 1530 | `███████████████░░░░░` 77% |
+| 1600 | `███████████████░░░░░` 75% |
+| 1650 | `████████████████░░░░` 81% |
+| 1700 | `████████████████░░░░` 82% |
+| 1715 | `█████████████████░░░` 85% |
+| 1783 | `██████████████████░░` 92% |
+| 1800 | `██████████████████░░` 92% |
+| 1815 | `███████████████████░` 94% |
+| 1878 | `████████████████████` 98% |
+| 1880 | `████████████████████` 98% |
+| 1900 | `████████████████████` 99% |
 | 1914 | `████████████████████` 100% |
-| 1920 | `████████████████████` 99% |
+| 1920 | `████████████████████` 100% |
 | 1930 | `████████████████████` 100% |
 | 1938 | `████████████████████` 100% |
 | 1945 | `██████████████████░░` 92% |

@@ -1,0 +1,322 @@
+{
+  "id": "kingdom-of-ireland",
+  "name": "Kingdom of Ireland",
+  "era": "early_modern",
+  "region": "Western Europe",
+  "startYear": 1542,
+  "endYear": 1800,
+  "capital": "Dublin",
+  "capitalCoords": [
+    -6.26,
+    53.35
+  ],
+  "summary": "The kingdom created when Henry VIII took the title King of Ireland (1542); ruled by the English, then British, crown through a Protestant elite while most Irish were Catholic, it was merged into the United Kingdom in 1801.",
+  "wikiTitle": "Kingdom of Ireland",
+  "borderNames": [],
+  "borderNameYears": {
+    "Kingdom of Ireland": [
+      1542,
+      1800
+    ]
+  },
+  "color": "#3a8a4a",
+  "knownFor": [
+    {
+      "label": "Plantation of Ulster",
+      "kind": "idea",
+      "year": 1609,
+      "note": "English and Scottish settlers given land."
+    },
+    {
+      "label": "Trinity College Dublin",
+      "kind": "monument",
+      "year": 1592,
+      "note": "Founded by Elizabeth I."
+    },
+    {
+      "label": "Irish harp",
+      "kind": "art",
+      "note": "National symbol."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The island of Ireland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "terrain": {
+        "value": "Central plain ringed by hills.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "climate": {
+        "value": "Mild and very wet.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "resources": {
+        "value": "Farmland, linen.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "disasters": {
+        "value": "Famine (1740–41).",
+        "year": 1740,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 2 million (1700); 5 million (1800).",
+        "year": 1800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "urbanisation": {
+        "value": "Dublin, the second city of the British Isles.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "disease": {
+        "value": "Black Death (1348–49).",
+        "year": 1348,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "migration": {
+        "value": "Settlers from Britain; emigration to America.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, cattle, linen.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "tradeRoutes": {
+        "value": "Exports to Britain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "wealth": {
+        "value": "Landlord wealth; poor tenants.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "moneyAndTax": {
+        "value": "Irish pound.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "inequality": {
+        "value": "Protestant landlords over Catholic tenants.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy shared with England; Irish Parliament.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "keyRulers": {
+        "value": "Henry VIII. Oliver Cromwell (conquest). Henry Grattan (Parliament).",
+        "year": 1542,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "succession": {
+        "value": "English/British crown.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "institutions": {
+        "value": "Irish Parliament; Penal Laws against Catholics.",
+        "year": 1695,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "stability": {
+        "value": "Rebellions (1641, 1798).",
+        "year": 1641,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "eliteConflict": {
+        "value": "Protestant Ascendancy against Catholic majority.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "English garrisons.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "majorWars": {
+        "value": "Nine Years’ War (1594–1603); Cromwellian conquest; Williamite War (1689–91).",
+        "year": 1649,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "territoryChange": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "alliancesRivals": {
+        "value": "Under England.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "scienceEducation": {
+        "value": "Trinity College Dublin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "openness": {
+        "value": "Open to trade with Europe.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "communicationTransport": {
+        "value": "Roads and canals.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Catholic majority; Church of Ireland established.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "languageWriting": {
+        "value": "Irish and English.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "artsArchitecture": {
+        "value": "Georgian Dublin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "socialStructure": {
+        "value": "Ascendancy, tenants, labourers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "sharedIdentity": {
+        "value": "Divided by religion.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "dailyLife": {
+        "value": "Potatoes, cottages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "England, Scotland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "ideasReligions": {
+        "value": "United Irishmen republicanism (1790s).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "colonisation": {
+        "value": "English conquest and plantations.",
+        "year": 1609,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Crown of Ireland Act (1542).",
+        "year": 1542,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "peakPeriod": {
+        "value": "Grattan’s Parliament (1782–1800).",
+        "year": 1782,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "declineSignals": {
+        "value": "1798 rebellion.",
+        "year": 1798,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "outcome": {
+        "value": "Merged into the United Kingdom (1801).",
+        "year": 1800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Kingdom of Ireland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Ireland"
+      },
+      "overallCertainty": {
+        "value": "Main events are well documented; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Ireland"
+      }
+    }
+  }
+}

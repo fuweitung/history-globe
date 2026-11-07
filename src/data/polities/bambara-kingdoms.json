@@ -1,0 +1,324 @@
+{
+  "id": "bambara-kingdoms",
+  "name": "Bambara kingdoms of Ségou and Kaarta",
+  "era": "early_modern",
+  "region": "West Africa",
+  "startYear": 1650,
+  "endYear": 1861,
+  "capital": "Ségou",
+  "capitalCoords": [
+    -6.27,
+    13.44
+  ],
+  "summary": "Two Bambara kingdoms on the upper Niger: Kaarta (from about 1650) and Ségou (1712–1861), built on slave-soldier armies; the Toucouleur Empire conquered both.",
+  "wikiTitle": "Bamana Empire",
+  "borderNames": [],
+  "borderNameYears": {
+    "Segu": [
+      1712,
+      1861
+    ],
+    "Kaarta": [
+      1650,
+      1854
+    ]
+  },
+  "color": "#8a6a3a",
+  "knownFor": [
+    {
+      "label": "Tonjon soldiers",
+      "kind": "troops",
+      "note": "Slave-soldier army of Ségou."
+    },
+    {
+      "label": "Biton Coulibaly",
+      "kind": "person",
+      "note": "Founder of Ségou."
+    },
+    {
+      "label": "Bogolanfini",
+      "kind": "textile",
+      "note": "Mud cloth."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Upper Niger, Mali.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "terrain": {
+        "value": "Niger floodplain and savanna.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "climate": {
+        "value": "Sahel.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "resources": {
+        "value": "Grain, fish, cattle.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Several hundred thousand.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "urbanisation": {
+        "value": "Mostly villages; a royal capital and market towns.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "disease": {
+        "value": "Malaria and other tropical diseases; smallpox outbreaks.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "migration": {
+        "value": "Captives settled in farming villages.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bamana Empire"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming with captive labour.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "tradeRoutes": {
+        "value": "Niger trade to Djenné and Timbuktu.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "wealth": {
+        "value": "Tribute and war captives.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "moneyAndTax": {
+        "value": "Tribute, market taxes and trade goods; cowrie shells in many markets.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "inequality": {
+        "value": "Rulers and nobles above free farmers; enslaved people at the bottom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bamana Empire"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy backed by the army.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "keyRulers": {
+        "value": "Biton Coulibaly. Ngolo Diarra.",
+        "year": 1712,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "succession": {
+        "value": "Coulibaly, then Diarra dynasty.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "institutions": {
+        "value": "Tonjon military assembly.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "stability": {
+        "value": "Coups by soldiers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "eliteConflict": {
+        "value": "Ségou against Kaarta.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Infantry and war canoes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "majorWars": {
+        "value": "Toucouleur conquest (1854–61).",
+        "year": 1861,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "territoryChange": {
+        "value": "Expanded along the Niger.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "alliancesRivals": {
+        "value": "Masina, Toucouleur.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "scienceEducation": {
+        "value": "Oral learning; Qur’anic schools where Islam spread.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "openness": {
+        "value": "Open to trade, closed to rivals.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "communicationTransport": {
+        "value": "Footpaths, rivers and messengers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bamana Empire"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Traditional Bambara religion.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "languageWriting": {
+        "value": "Bambara.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "artsArchitecture": {
+        "value": "Chiwara headdresses.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "socialStructure": {
+        "value": "Royal clan, soldiers, farmers, captives.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler and lineage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "dailyLife": {
+        "value": "Farming households in villages.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bamana Empire"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Masina, Kaarta, Toucouleur.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "ideasReligions": {
+        "value": "Resisted Islamic jihads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "colonisation": {
+        "value": "Conquered by the Toucouleur, then France.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Ségou founded (1712).",
+        "year": 1712,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "peakPeriod": {
+        "value": "Under Ngolo Diarra (1766–90).",
+        "year": 1770,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "declineSignals": {
+        "value": "Toucouleur jihad.",
+        "year": 1854,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "outcome": {
+        "value": "Part of the Toucouleur Empire.",
+        "year": 1861,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Bamana Empire.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bamana Empire"
+      },
+      "overallCertainty": {
+        "value": "Known from oral traditions, travellers and colonial records; many dates are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bamana Empire"
+      }
+    }
+  }
+}
