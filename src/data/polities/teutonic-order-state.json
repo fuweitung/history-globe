@@ -1,0 +1,321 @@
+{
+  "id": "teutonic-order-state",
+  "name": "State of the Teutonic Order",
+  "era": "medieval",
+  "region": "Northern Europe (Baltic)",
+  "startYear": 1230,
+  "endYear": 1525,
+  "capital": "Marienburg (Malbork), then Königsberg",
+  "capitalCoords": [
+    19.03,
+    54.04
+  ],
+  "summary": "A crusader state on the Baltic, conquered from the pagan Prussians by German knights of the Teutonic Order; defeated by Poland–Lithuania at Grunwald (1410), it became the secular Duchy of Prussia in 1525.",
+  "wikiTitle": "State of the Teutonic Order",
+  "borderNames": [],
+  "borderNameYears": {
+    "Teutonic Knights": [
+      1230,
+      1525
+    ]
+  },
+  "color": "#e0e0e0",
+  "knownFor": [
+    {
+      "label": "Malbork Castle",
+      "kind": "monument",
+      "note": "Largest brick castle in the world."
+    },
+    {
+      "label": "Battle of Grunwald",
+      "kind": "idea",
+      "year": 1410,
+      "note": "Crushing defeat by Poland–Lithuania."
+    },
+    {
+      "label": "Black cross",
+      "kind": "art",
+      "note": "The knights’ emblem."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Prussia and Livonia on the Baltic coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "terrain": {
+        "value": "Plains, lakes, coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "climate": {
+        "value": "Cool continental.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "resources": {
+        "value": "Grain, amber, timber.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "disasters": {
+        "value": "Black Death (1350).",
+        "year": 1350,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Several hundred thousand.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "urbanisation": {
+        "value": "Hanseatic towns: Danzig, Elbing, Königsberg.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "disease": {
+        "value": "Plague outbreaks.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "migration": {
+        "value": "German settlers moved east.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Grain and amber trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "tradeRoutes": {
+        "value": "Hanseatic League.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "wealth": {
+        "value": "Rich from grain and amber.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "moneyAndTax": {
+        "value": "Prussian marks.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "inequality": {
+        "value": "Knights above Prussian peasants.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Rule by a religious military order under a Grand Master.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "keyRulers": {
+        "value": "Hermann von Salza. Winrich von Kniprode. Albert of Brandenburg.",
+        "year": 1351,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "succession": {
+        "value": "Elected Grand Masters.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "institutions": {
+        "value": "Order chapters and town councils.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "stability": {
+        "value": "Town revolts (Thirteen Years’ War, 1454–66).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "eliteConflict": {
+        "value": "Towns against the Order.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Armoured knights; brick castles.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "majorWars": {
+        "value": "Prussian crusade (1230–83); Grunwald (1410).",
+        "year": 1410,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "territoryChange": {
+        "value": "Lost West Prussia to Poland (1466).",
+        "year": 1466,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "alliancesRivals": {
+        "value": "Enemy of Poland and Lithuania.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "scienceEducation": {
+        "value": "Church schools.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "openness": {
+        "value": "Open to trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "communicationTransport": {
+        "value": "Baltic shipping and rivers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Catholic; Lutheran from 1525.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "languageWriting": {
+        "value": "German, Latin; Old Prussian died out.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "artsArchitecture": {
+        "value": "Brick Gothic castles and churches.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "socialStructure": {
+        "value": "Knight-brothers, German burghers, Prussian and German peasants.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler and faith.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "dailyLife": {
+        "value": "Farming villages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Poland, Lithuania, Pomerania.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "ideasReligions": {
+        "value": "Crusading ideology.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "colonisation": {
+        "value": "Conquest of the Baltic Prussians.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Invited by Konrad of Masovia (1226–30).",
+        "year": 1230,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "peakPeriod": {
+        "value": "About 1400.",
+        "year": 1400,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "declineSignals": {
+        "value": "Grunwald (1410).",
+        "year": 1410,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "outcome": {
+        "value": "Became the Duchy of Prussia (1525).",
+        "year": 1525,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: State of the Teutonic Order.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: State of the Teutonic Order"
+      },
+      "overallCertainty": {
+        "value": "Main events are known from chronicles; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: State of the Teutonic Order"
+      }
+    }
+  }
+}

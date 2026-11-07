@@ -1,0 +1,330 @@
+{
+  "id": "maghreb-sultanates",
+  "name": "Maghreb sultanates (Marinids, Zayyanids, Wattasids, Saadis)",
+  "era": "medieval",
+  "region": "North Africa",
+  "startYear": 1235,
+  "endYear": 1659,
+  "capital": "Fez and Tlemcen",
+  "capitalCoords": [
+    -5,
+    34.03
+  ],
+  "summary": "Dynasties that ruled Morocco and western Algeria after the Almohads: the Marinids and Wattasids of Fez, the Zayyanids of Tlemcen, and the Saadis who defeated Portugal in 1578.",
+  "wikiTitle": "Marinid Sultanate",
+  "borderNames": [],
+  "borderNameYears": {
+    "Zayyanid Caliphate": [
+      1235,
+      1556
+    ],
+    "Wattasid Caliphate": [
+      1465,
+      1554
+    ],
+    "Watassid Morocco": [
+      1465,
+      1659
+    ]
+  },
+  "color": "#5a8a3a",
+  "knownFor": [
+    {
+      "label": "Bou Inania Madrasa",
+      "kind": "monument",
+      "year": 1350,
+      "note": "Marinid college in Fez."
+    },
+    {
+      "label": "Ibn Battuta",
+      "kind": "person",
+      "note": "Traveller from Tangier (1304–69)."
+    },
+    {
+      "label": "Battle of the Three Kings",
+      "kind": "idea",
+      "year": 1578,
+      "note": "Saadis defeat Portugal."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Morocco and western Algeria.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "terrain": {
+        "value": "Atlas mountains, plains, desert edges.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "climate": {
+        "value": "Mediterranean to arid.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "resources": {
+        "value": "Grain, sugar, gold trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "disasters": {
+        "value": "Black Death (1348).",
+        "year": 1348,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Several million.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "urbanisation": {
+        "value": "Fez, Marrakesh, Tlemcen.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "disease": {
+        "value": "Plague outbreaks, above all the Black Death (1347–51).",
+        "year": 1348,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "migration": {
+        "value": "Muslims and Jews from Spain after 1492.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, herding, caravan trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "tradeRoutes": {
+        "value": "Trans-Saharan gold trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "wealth": {
+        "value": "Gold trade wealth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "moneyAndTax": {
+        "value": "Gold dinars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "inequality": {
+        "value": "Rulers, tribes, townspeople.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Marinid Sultanate"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Sultanates.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "keyRulers": {
+        "value": "Abu al-Hasan (Marinid). Ahmad al-Mansur (Saadi).",
+        "year": 1331,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "succession": {
+        "value": "Dynastic, with many disputes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "institutions": {
+        "value": "Madrasas, tribal alliances.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "stability": {
+        "value": "Frequent wars between Fez and Tlemcen.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "eliteConflict": {
+        "value": "Rival dynasties.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Cavalry; guns from the 1500s.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "majorWars": {
+        "value": "Battle of Alcácer Quibir (1578); Saadi conquest of Songhai (1591).",
+        "year": 1578,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "territoryChange": {
+        "value": "Portugal and Spain took coastal towns.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "alliancesRivals": {
+        "value": "Portugal, Spain, Ottomans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "scienceEducation": {
+        "value": "Madrasas in Fez; al-Qarawiyyin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "openness": {
+        "value": "Open to trade; closed to rival faiths at times.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "communicationTransport": {
+        "value": "Roads, rivers and coastal shipping.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Marinid Sultanate"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sunni Islam (Maliki).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "languageWriting": {
+        "value": "Arabic; Berber.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "artsArchitecture": {
+        "value": "Zellij tilework, carved plaster.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "socialStructure": {
+        "value": "Arab and Berber tribes, townspeople, Jews.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler, faith and region.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "dailyLife": {
+        "value": "Village farming; bread, porridge and beer or wine.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Marinid Sultanate"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Castile, Portugal, Hafsids, Ottomans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "ideasReligions": {
+        "value": "Sufism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "colonisation": {
+        "value": "Lost coastal towns to Portugal and Spain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Fall of the Almohads.",
+        "year": 1269,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "peakPeriod": {
+        "value": "Marinid peak (1330s–40s).",
+        "year": 1340,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "declineSignals": {
+        "value": "Portuguese attacks (1400s).",
+        "year": 1415,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "outcome": {
+        "value": "Followed by the Alaouite dynasty (Morocco) and Ottoman Algiers.",
+        "year": 1659,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Marinid Sultanate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marinid Sultanate"
+      },
+      "overallCertainty": {
+        "value": "Main events are known from chronicles and charters; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Marinid Sultanate"
+      }
+    }
+  }
+}

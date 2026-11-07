@@ -1,0 +1,321 @@
+{
+  "id": "bengal-sultanate",
+  "name": "Bengal Sultanate",
+  "era": "medieval",
+  "region": "South Asia (Bengal)",
+  "startYear": 1352,
+  "endYear": 1576,
+  "capital": "Pandua, then Gaur",
+  "capitalCoords": [
+    88.14,
+    24.87
+  ],
+  "summary": "An independent Muslim sultanate in Bengal, rich from rice, cotton and trade; it built brick mosques and supported Bengali literature until the Mughals conquered it (1576).",
+  "wikiTitle": "Bengal Sultanate",
+  "borderNames": [],
+  "borderNameYears": {
+    "Bengal": [
+      1352,
+      1576
+    ]
+  },
+  "color": "#3a8a5a",
+  "knownFor": [
+    {
+      "label": "Adina Mosque",
+      "kind": "monument",
+      "year": 1375,
+      "note": "One of the largest mosques in South Asia."
+    },
+    {
+      "label": "Muslin",
+      "kind": "textile",
+      "note": "Very fine cotton cloth."
+    },
+    {
+      "label": "Bengali literature",
+      "kind": "art",
+      "note": "Supported by the sultans."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Bengal (Bangladesh and West Bengal).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "terrain": {
+        "value": "River delta.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "climate": {
+        "value": "Monsoon.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "resources": {
+        "value": "Rice, cotton, silk.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "disasters": {
+        "value": "Floods and cyclones.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "urbanisation": {
+        "value": "Mostly rural, with a few large cities.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "disease": {
+        "value": "Epidemics and famines.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "migration": {
+        "value": "Muslim settlers and Sufis.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Rice, textiles, trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "tradeRoutes": {
+        "value": "Bay of Bengal trade to China and Southeast Asia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "wealth": {
+        "value": "Very rich.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "moneyAndTax": {
+        "value": "Silver tanka coins.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "inequality": {
+        "value": "Rulers and military elites above farmers and herders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bengal Sultanate"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Sultanate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "keyRulers": {
+        "value": "Shamsuddin Ilyas Shah. Alauddin Hussain Shah.",
+        "year": 1352,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "succession": {
+        "value": "Several dynasties.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "institutions": {
+        "value": "Court and army.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "stability": {
+        "value": "Coups by palace guards.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "eliteConflict": {
+        "value": "Abyssinian guards and nobles.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "War elephants, boats.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "majorWars": {
+        "value": "Mughal conquest (1576).",
+        "year": 1576,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "territoryChange": {
+        "value": "Took Arakan briefly.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "alliancesRivals": {
+        "value": "Delhi, Mughals, Mrauk U.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "scienceEducation": {
+        "value": "Madrasas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "openness": {
+        "value": "Open to trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "communicationTransport": {
+        "value": "Caravan roads, rivers and horses.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bengal Sultanate"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Islam; Hindu majority.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "languageWriting": {
+        "value": "Bengali, Persian.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "artsArchitecture": {
+        "value": "Terracotta brick mosques.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "socialStructure": {
+        "value": "Muslim rulers, Hindu majority.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the dynasty and faith.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "dailyLife": {
+        "value": "Farming or herding households.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bengal Sultanate"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Delhi Sultanate, Mughals, Mrauk U, Kamarupa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "ideasReligions": {
+        "value": "Sufism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Unified by Ilyas Shah (1352).",
+        "year": 1352,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "peakPeriod": {
+        "value": "Hussain Shahi era (1494–1538).",
+        "year": 1500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "declineSignals": {
+        "value": "Sher Shah’s conquest (1538).",
+        "year": 1538,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "outcome": {
+        "value": "Mughal Bengal (1576).",
+        "year": 1576,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Bengal Sultanate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bengal Sultanate"
+      },
+      "overallCertainty": {
+        "value": "Main events are known from chronicles; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Bengal Sultanate"
+      }
+    }
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "id": "novgorod-republic",
+  "name": "Novgorod Republic",
+  "era": "medieval",
+  "region": "Eastern Europe",
+  "startYear": 1136,
+  "endYear": 1478,
+  "capital": "Novgorod",
+  "capitalCoords": [
+    31.27,
+    58.52
+  ],
+  "summary": "A trading republic in north-west Russia that ruled vast northern lands; its citizens’ assembly (veche) chose its princes, and Alexander Nevsky defended it, until Moscow annexed it in 1478.",
+  "wikiTitle": "Novgorod Republic",
+  "borderNames": [],
+  "borderNameYears": {
+    "Novgorod": [
+      1136,
+      1478
+    ],
+    "Principality of Novgorod": [
+      1136,
+      1478
+    ]
+  },
+  "color": "#8a5a3a",
+  "knownFor": [
+    {
+      "label": "Birch-bark letters",
+      "kind": "idea",
+      "note": "Everyday letters written on bark."
+    },
+    {
+      "label": "Alexander Nevsky",
+      "kind": "person",
+      "note": "Won the Battle on the Ice (1242)."
+    },
+    {
+      "label": "St Sophia Cathedral",
+      "kind": "monument",
+      "note": "Built 1045–50 in the Novgorod kremlin."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "North-west Russia to the Urals.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "terrain": {
+        "value": "Forests and lakes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "climate": {
+        "value": "Cold.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "resources": {
+        "value": "Furs, wax, timber.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "disasters": {
+        "value": "Famines and fires.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Novgorod Republic"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Novgorod city about 30,000.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "urbanisation": {
+        "value": "Mostly rural; a few walled towns and a royal or ducal capital.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "disease": {
+        "value": "Plague outbreaks, above all the Black Death (1347–51).",
+        "year": 1348,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "migration": {
+        "value": "Settlers moved to the far north.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Fur trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "tradeRoutes": {
+        "value": "Hanseatic trade (Peterhof).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "wealth": {
+        "value": "Merchant wealth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "moneyAndTax": {
+        "value": "Silver bars (grivna).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "inequality": {
+        "value": "Boyars and merchants over commoners.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Novgorod Republic"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Republic with a veche and elected mayor (posadnik).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "keyRulers": {
+        "value": "Alexander Nevsky (prince).",
+        "year": 1236,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "succession": {
+        "value": "Princes invited and dismissed.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "institutions": {
+        "value": "Veche; archbishop.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "stability": {
+        "value": "Factional conflict.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "eliteConflict": {
+        "value": "Boyar families.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Militia and princely troops.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "majorWars": {
+        "value": "Battle of the Neva (1240); Battle on the Ice (1242).",
+        "year": 1242,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "territoryChange": {
+        "value": "Lost to Moscow.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "alliancesRivals": {
+        "value": "Moscow, Lithuania, Teutonic Order.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "scienceEducation": {
+        "value": "High literacy (birch-bark letters).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "openness": {
+        "value": "Open to trade; closed to rival faiths at times.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "communicationTransport": {
+        "value": "Roads, rivers and coastal shipping.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Novgorod Republic"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Orthodox Christian.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "languageWriting": {
+        "value": "Old Novgorod dialect.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "artsArchitecture": {
+        "value": "Icons and churches.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "socialStructure": {
+        "value": "Boyars, merchants, artisans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler, faith and region.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "dailyLife": {
+        "value": "Village farming; bread, porridge and beer or wine.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Novgorod Republic"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Moscow, Pskov, Lithuania, Sweden.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "ideasReligions": {
+        "value": "Orthodoxy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "colonisation": {
+        "value": "Northern lands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Republic (1136).",
+        "year": 1136,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "peakPeriod": {
+        "value": "1200s–1300s.",
+        "year": 1300,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "declineSignals": {
+        "value": "Defeat by Moscow (1471).",
+        "year": 1471,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "outcome": {
+        "value": "Annexed by Muscovy (1478).",
+        "year": 1478,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Novgorod Republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Novgorod Republic"
+      },
+      "overallCertainty": {
+        "value": "Main events are known from chronicles and charters; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Novgorod Republic"
+      }
+    }
+  }
+}
