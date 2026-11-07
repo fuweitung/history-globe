@@ -1,0 +1,315 @@
+{
+  "id": "maldives",
+  "name": "Maldives",
+  "era": "modern",
+  "region": "South Asia & Indian Ocean",
+  "startYear": 1965,
+  "endYear": null,
+  "capital": "Malé",
+  "capitalCoords": [
+    73.51,
+    4.18
+  ],
+  "summary": "About 1,200 coral islands in the Indian Ocean; a Muslim sultanate for centuries, a British protectorate until 1965, a republic since 1968; the lowest-lying country in the world.",
+  "wikiTitle": "Maldives",
+  "borderNames": [],
+  "mapDot": true,
+  "color": "#c03a3a",
+  "knownFor": [
+    {
+      "label": "Coral atolls",
+      "kind": "monument",
+      "note": "26 atolls of white-sand islands."
+    },
+    {
+      "label": "Dhoni boats",
+      "kind": "tool",
+      "note": "Traditional wooden boats."
+    },
+    {
+      "label": "Cowrie shells",
+      "kind": "idea",
+      "note": "Exported as money across Asia and Africa."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Indian Ocean south-west of India; about 300 km² of land.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "terrain": {
+        "value": "Flat coral islands, mostly under 1.5 m above sea level.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "resources": {
+        "value": "Fish, tourism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "disasters": {
+        "value": "Indian Ocean tsunami (2004); sea-level rise.",
+        "year": 2004,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 520,000.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "urbanisation": {
+        "value": "About a third live on Malé, one of the densest cities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "disease": {
+        "value": "Good basic health care; rising diabetes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "migration": {
+        "value": "Emigration for work and study.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Tourism and tuna fishing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "tradeRoutes": {
+        "value": "Shipping and flights.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "wealth": {
+        "value": "An upper-middle-income country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "moneyAndTax": {
+        "value": "Maldivian rufiyaa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "inequality": {
+        "value": "Large gaps between the capital and rural areas.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Maldives"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A presidential republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "keyRulers": {
+        "value": "Ibrahim Nasir. Maumoon Abdul Gayoom. Mohamed Nasheed.",
+        "year": 1978,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "succession": {
+        "value": "Elections.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "institutions": {
+        "value": "People’s Majlis (parliament).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "stability": {
+        "value": "Coup attempt (1988); political crises (2012, 2018).",
+        "year": 1988,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "eliteConflict": {
+        "value": "Rivalry between Gayoom and Nasheed camps.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Small forces or coast guard.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "majorWars": {
+        "value": "None since independence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "territoryChange": {
+        "value": "None since independence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "alliancesRivals": {
+        "value": "Balances India and China.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "None of note.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "scienceEducation": {
+        "value": "Schools; a small national university.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "openness": {
+        "value": "Open to tourism since 1972.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "communicationTransport": {
+        "value": "Ferries and flights between islands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sunni Islam (converted 1153).",
+        "year": 1153,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "languageWriting": {
+        "value": "Dhivehi, written in Thaana script.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "artsArchitecture": {
+        "value": "Coral-stone mosques.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "socialStructure": {
+        "value": "Mostly Maldivian.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "sharedIdentity": {
+        "value": "Island identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "dailyLife": {
+        "value": "Fish, rice and coconut.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "India, Sri Lanka.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "ideasReligions": {
+        "value": "Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "colonisation": {
+        "value": "British protectorate (1887–1965).",
+        "year": 1887,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Independence (1965).",
+        "year": 1965,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "declineSignals": {
+        "value": "Threatened by rising seas.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Maldives"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Maldives.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Maldives"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Maldives"
+      }
+    }
+  }
+}

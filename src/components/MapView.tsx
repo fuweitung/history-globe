@@ -7,7 +7,7 @@ import workerUrl from 'maplibre-gl/dist/maplibre-gl-worker.mjs?url';
 import type { FeatureCollection } from 'geojson';
 import type { BorderProps, Snapshot } from '../lib/borders';
 import { EVENT_TYPES, PERSON_ROLES, ROUTE_KINDS, formatYear } from '../lib/data';
-import type { HistoryEvent, HistoryRoute, Person, RouteKind } from '../types';
+import type { HistoryEvent, HistoryRoute, Person, PolitySummary, RouteKind } from '../types';
 
 maplibregl.setWorkerUrl(new URL(workerUrl, window.location.href).href);
 
@@ -38,6 +38,8 @@ interface Props {
   people: Person[];
   selectedPersonId: string | null;
   onSelectPerson: (id: string) => void;
+  /** Small countries drawn as dots (see Polity.mapDot). */
+  dots: PolitySummary[];
 }
 
 const routeLayers = (Object.keys(ROUTE_KINDS) as RouteKind[]).map(
@@ -97,6 +99,7 @@ const STYLE: StyleSpecification = {
     borders: { type: 'geojson', data: EMPTY, promoteId: '_fid' },
     labels: { type: 'geojson', data: EMPTY },
     routes: { type: 'geojson', data: EMPTY },
+    dots: { type: 'geojson', data: EMPTY },
   },
   layers: [
     { id: 'ocean', type: 'background', paint: { 'background-color': '#16294a' } },
@@ -145,6 +148,41 @@ const STYLE: StyleSpecification = {
       source: 'borders',
       filter: ['==', ['get', '_fid'], -1],
       paint: { 'line-color': '#ffd166', 'line-width': 2.2 },
+    },
+    // Countries too small for the border maps (entries with mapDot): a dot at the capital.
+    {
+      id: 'dots',
+      type: 'circle',
+      source: 'dots',
+      paint: {
+        'circle-radius': ['interpolate', ['linear'], ['zoom'], 1, 3.5, 6, 6],
+        'circle-color': ['get', 'color'],
+        'circle-stroke-color': ['case', ['get', 'selected'], '#ffd166', '#f8f0dc'],
+        'circle-stroke-width': ['case', ['get', 'selected'], 2.5, 1.4],
+        'circle-pitch-alignment': 'map',
+      },
+    },
+    {
+      id: 'dots-label',
+      type: 'symbol',
+      source: 'dots',
+      minzoom: 3,
+      layout: {
+        'text-field': ['get', 'name'],
+        'text-font': ['Open Sans Semibold'],
+        'text-size': 11,
+        'text-offset': [0, 1.1],
+        'text-anchor': 'top',
+        'text-max-width': 8,
+        'text-optional': true,
+      },
+      paint: { 'text-color': '#2a1d0e', 'text-halo-color': 'rgba(248,240,220,0.85)', 'text-halo-width': 1.4 },
+    },
+    {
+      id: 'dots-hit',
+      type: 'circle',
+      source: 'dots',
+      paint: { 'circle-radius': 12, 'circle-color': '#000', 'circle-opacity': 0, 'circle-pitch-alignment': 'map' },
     },
     {
       id: 'routes-casing',
@@ -256,6 +294,7 @@ export default function MapView({
   people,
   selectedPersonId,
   onSelectPerson,
+  dots,
 }: Props) {
   const containerRef = useRef<HTMLDivElement>(null);
   const mapRef = useRef<maplibregl.Map | null>(null);
@@ -325,9 +364,23 @@ export default function MapView({
       map.getCanvas().style.cursor = '';
       setTooltip(null);
     });
+    let overDot = false;
+    map.on('mousemove', 'dots-hit', (e) => {
+      const f = e.features?.[0];
+      if (!f || overRoute) return;
+      overDot = true;
+      map.getCanvas().style.cursor = 'pointer';
+      clearHover();
+      setTooltip({ x: e.point.x, y: e.point.y, text: String(f.properties?.name ?? ''), sub: 'click for checklist' });
+    });
+    map.on('mouseleave', 'dots-hit', () => {
+      overDot = false;
+      map.getCanvas().style.cursor = '';
+      setTooltip(null);
+    });
     map.on('mousemove', 'borders-fill', (e) => {
       const f = e.features?.[0] as MapGeoJSONFeature | undefined;
-      if (!f || overRoute) return;
+      if (!f || overRoute || overDot) return;
       map.getCanvas().style.cursor = 'pointer';
       if (hoverId !== f.id) {
         clearHover();
@@ -347,6 +400,12 @@ export default function MapView({
       const route = map.queryRenderedFeatures(e.point, { layers: ['routes-hit'] })[0];
       if (route?.properties?.id) {
         handlersRef.current.onSelectRoute(String(route.properties.id));
+        return;
+      }
+      const dot = map.queryRenderedFeatures(e.point, { layers: ['dots-hit'] })[0];
+      if (dot?.properties?.id) {
+        const id = String(dot.properties.id);
+        handlersRef.current.onSelectBorder({ NAME: String(dot.properties.name), _pids: `|${id}|`, _color: String(dot.properties.color), _linked: 1, _fid: -1 });
         return;
       }
       const f = map.queryRenderedFeatures(e.point, { layers: ['borders-fill'] })[0];
@@ -386,6 +445,23 @@ export default function MapView({
     };
     (map.getSource('routes') as GeoJSONSource | undefined)?.setData(fc);
   }, [routes, selectedRouteId, ready]);
+
+  // ── Small-country dots ───────────────────────────────────
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!map || !ready) return;
+    const fc: FeatureCollection = {
+      type: 'FeatureCollection',
+      features: dots
+        .filter((p) => p.capitalCoords)
+        .map((p) => ({
+          type: 'Feature',
+          properties: { id: p.id, name: p.name, color: p.color, selected: p.id === selectedPolityId },
+          geometry: { type: 'Point', coordinates: p.capitalCoords as [number, number] },
+        })),
+    };
+    (map.getSource('dots') as GeoJSONSource | undefined)?.setData(fc);
+  }, [dots, selectedPolityId, ready]);
 
   // ── Selection highlight ──────────────────────────────────
   useEffect(() => {

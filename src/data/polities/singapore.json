@@ -14,6 +14,19 @@
   "wikiTitle": "Singapore",
   "borderNames": [],
   "color": "#e04a4a",
+  "knownFor": [
+    {
+      "label": "Port of Singapore",
+      "kind": "tool",
+      "note": "A busy port."
+    },
+    {
+      "label": "Hawker centres",
+      "kind": "food",
+      "note": "UNESCO heritage (2020)."
+    }
+  ],
+  "mapDot": true,
   "checklist": {
     "geography": {
       "location": {
@@ -293,17 +306,5 @@
         "source": "Wikipedia: Singapore (checked 6 Nov 2026)"
       }
     }
-  },
-  "knownFor": [
-    {
-      "label": "Port of Singapore",
-      "kind": "tool",
-      "note": "A busy port."
-    },
-    {
-      "label": "Hawker centres",
-      "kind": "food",
-      "note": "UNESCO heritage (2020)."
-    }
-  ]
+  }
 }

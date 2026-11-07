@@ -8,7 +8,7 @@ import SearchView from './components/SearchView';
 import { StoryList, StoryPlayer } from './components/StoryView';
 import CompareView, { suggestPartner } from './components/CompareView';
 import { boundsForPolity, loadManifest, loadSnapshot, nearestSnapshot, resolvePolity, type BorderProps, type Snapshot } from './lib/borders';
-import { EVENTS, EVENT_BY_ID, EVENT_TYPES, MAX_YEAR, MIN_YEAR, PEOPLE, PERSON_BY_ID, POLITY_BY_ID, ROUTES, ROUTE_BY_ID, ROUTE_KINDS, STORY_BY_ID, formatYear, isActive } from './lib/data';
+import { EVENTS, EVENT_BY_ID, POLITIES, EVENT_TYPES, MAX_YEAR, MIN_YEAR, PEOPLE, PERSON_BY_ID, POLITY_BY_ID, ROUTES, ROUTE_BY_ID, ROUTE_KINDS, STORY_BY_ID, formatYear, isActive } from './lib/data';
 import type { EventType, HistoryRoute, PolitySummary as Polity, RouteKind } from './types';
 import { eventWindowFor, normaliseYear, stepYear } from './lib/timeScale';
 
@@ -208,6 +208,7 @@ export default function App() {
     [year, showRoutes],
   );
 
+  const visibleDots = useMemo(() => POLITIES.filter((p) => p.mapDot && p.capitalCoords && isActive(p, year)), [year]);
   const visiblePeople = useMemo(() => (showPeople ? PEOPLE.filter((p) => year >= p.born && year <= p.died) : []), [year, showPeople]);
 
   // ── Selection handlers ─────────────────────────────────
@@ -478,6 +479,7 @@ export default function App() {
         selectedRouteId={view.kind === 'route' ? view.id : (storyStep?.route ?? null)}
         onSelectRoute={openRoute}
         people={visiblePeople}
+        dots={visibleDots}
         selectedPersonId={view.kind === 'person' ? view.id : (storyStep?.person ?? null)}
         onSelectPerson={openPerson}
       />

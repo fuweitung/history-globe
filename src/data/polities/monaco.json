@@ -1,0 +1,318 @@
+{
+  "id": "monaco",
+  "name": "Monaco",
+  "era": "medieval",
+  "region": "Western Europe",
+  "startYear": 1297,
+  "endYear": null,
+  "capital": "Monaco",
+  "capitalCoords": [
+    7.42,
+    43.73
+  ],
+  "summary": "A tiny principality on the French Riviera ruled by the Grimaldi family since 1297, under French, Spanish or Sardinian protection for long periods; independent by treaty with France (1861). Famous for its casino and Grand Prix.",
+  "wikiTitle": "Monaco",
+  "borderNames": [],
+  "mapDot": true,
+  "color": "#c03a3a",
+  "knownFor": [
+    {
+      "label": "Monte Carlo Casino",
+      "kind": "monument",
+      "year": 1863,
+      "note": "Made Monaco rich."
+    },
+    {
+      "label": "Monaco Grand Prix",
+      "kind": "art",
+      "year": 1929,
+      "note": "Formula One street race."
+    },
+    {
+      "label": "Oceanographic Museum",
+      "kind": "monument",
+      "year": 1910,
+      "note": "Founded by Prince Albert I."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "French Riviera; about 2 km², the second-smallest country.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "terrain": {
+        "value": "Rocky coast.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "climate": {
+        "value": "Mediterranean.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "resources": {
+        "value": "Tourism and banking.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "disasters": {
+        "value": "Few.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 38,000; most residents are foreign.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "urbanisation": {
+        "value": "Entirely urban.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "disease": {
+        "value": "Excellent health care.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "migration": {
+        "value": "Many residents are foreign.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Tourism, banking, property.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "tradeRoutes": {
+        "value": "Customs union with its larger neighbour.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "wealth": {
+        "value": "One of the richest places per person.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "moneyAndTax": {
+        "value": "Euro; no income tax for most residents.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "inequality": {
+        "value": "Very wealthy residents.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A constitutional monarchy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "keyRulers": {
+        "value": "Charles III. Rainier III. Albert II.",
+        "year": 1949,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "succession": {
+        "value": "Grimaldi family.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "institutions": {
+        "value": "National Council; constitution (1911).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "stability": {
+        "value": "Stable.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "eliteConflict": {
+        "value": "Few.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Ceremonial guards; defence by its neighbour.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "majorWars": {
+        "value": "Occupied in the Second World War.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "territoryChange": {
+        "value": "None in modern times.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "alliancesRivals": {
+        "value": "Defence by France.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "None of note.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "scienceEducation": {
+        "value": "Schools; universities abroad.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "openness": {
+        "value": "Open borders with the EU.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "communicationTransport": {
+        "value": "Roads and rail of its neighbour.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Catholic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "languageWriting": {
+        "value": "French; Monégasque.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "artsArchitecture": {
+        "value": "Belle Époque casino and opera.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "socialStructure": {
+        "value": "Monégasques are a minority.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "sharedIdentity": {
+        "value": "Pride in long independence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "dailyLife": {
+        "value": "Flats; Mediterranean food.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "France.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "ideasReligions": {
+        "value": "Catholicism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "colonisation": {
+        "value": "French protectorate (1641–1814); Sardinian (1815–60).",
+        "year": 1641,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Grimaldi seize the rock (1297); casino (1863).",
+        "year": 1297,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "declineSignals": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Monaco.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Monaco"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Monaco"
+      }
+    }
+  }
+}

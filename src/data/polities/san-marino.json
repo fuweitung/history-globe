@@ -1,0 +1,315 @@
+{
+  "id": "san-marino",
+  "name": "San Marino",
+  "era": "ancient",
+  "region": "Southern Europe",
+  "startYear": 301,
+  "endYear": null,
+  "capital": "City of San Marino",
+  "capitalCoords": [
+    12.45,
+    43.94
+  ],
+  "summary": "A mountain republic surrounded by Italy, traditionally founded in 301 by a stonemason called Marinus; the oldest surviving republic, with a constitution from 1600.",
+  "wikiTitle": "San Marino",
+  "borderNames": [],
+  "mapDot": true,
+  "color": "#3a8ac0",
+  "knownFor": [
+    {
+      "label": "Three Towers",
+      "kind": "monument",
+      "note": "Fortresses on Monte Titano."
+    },
+    {
+      "label": "Captains Regent",
+      "kind": "idea",
+      "note": "Two heads of state elected every six months."
+    },
+    {
+      "label": "Oldest republic",
+      "kind": "idea",
+      "note": "Traditional founding 301."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Inside Italy; about 61 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "terrain": {
+        "value": "Monte Titano and hills.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "climate": {
+        "value": "Mediterranean.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "resources": {
+        "value": "Stone, tourism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "disasters": {
+        "value": "Few.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 34,000.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "urbanisation": {
+        "value": "Entirely urban.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "disease": {
+        "value": "Excellent health care.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "migration": {
+        "value": "Many residents are foreign.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Tourism, banking, stamps and coins.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "tradeRoutes": {
+        "value": "Customs union with its larger neighbour.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "wealth": {
+        "value": "A high-income economy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "moneyAndTax": {
+        "value": "Euro.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "inequality": {
+        "value": "Very wealthy residents.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "keyRulers": {
+        "value": "Two Captains Regent at a time.",
+        "year": 1243,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "succession": {
+        "value": "Elected every six months.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "institutions": {
+        "value": "Grand and General Council; statutes of 1600.",
+        "year": 1600,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "stability": {
+        "value": "Stable for centuries.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "eliteConflict": {
+        "value": "Few.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Ceremonial guards; defence by its neighbour.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "majorWars": {
+        "value": "Briefly occupied (1503, 1739); bombed by mistake (1944).",
+        "year": 1739,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "territoryChange": {
+        "value": "None in modern times.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "alliancesRivals": {
+        "value": "Friendship treaty with Italy (1862).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "None of note.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "scienceEducation": {
+        "value": "Schools; universities abroad.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "openness": {
+        "value": "Open borders with the EU.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "communicationTransport": {
+        "value": "Roads and rail of its neighbour.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Catholic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "languageWriting": {
+        "value": "Italian.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "artsArchitecture": {
+        "value": "Medieval old town (World Heritage).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "socialStructure": {
+        "value": "Citizens and Italian residents.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "sharedIdentity": {
+        "value": "Pride in long independence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "dailyLife": {
+        "value": "Italian food.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Italy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "ideasReligions": {
+        "value": "Republican tradition.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "colonisation": {
+        "value": "Never colonised.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Traditional founding (301).",
+        "year": 301,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "peakPeriod": {
+        "value": "Too recent to judge.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "declineSignals": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "outcome": {
+        "value": "Still in existence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: San Marino.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: San Marino"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: San Marino"
+      }
+    }
+  }
+}
