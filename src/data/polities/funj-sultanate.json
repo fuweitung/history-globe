@@ -1,0 +1,320 @@
+{
+  "id": "funj-sultanate",
+  "name": "Funj Sultanate of Sennar",
+  "era": "early_modern",
+  "region": "Northeast Africa (Nile)",
+  "startYear": 1504,
+  "endYear": 1821,
+  "capital": "Sennar",
+  "capitalCoords": [
+    33.63,
+    13.55
+  ],
+  "summary": "A Muslim sultanate on the Blue and White Nile that replaced the Christian kingdom of Alwa; it lasted until Egypt under Muhammad Ali conquered it in 1821.",
+  "wikiTitle": "Funj Sultanate",
+  "borderNames": [],
+  "borderNameYears": {
+    "Funj": [
+      1504,
+      1821
+    ]
+  },
+  "color": "#7a6a4a",
+  "knownFor": [
+    {
+      "label": "Sennar",
+      "kind": "monument",
+      "note": "Capital on the Blue Nile."
+    },
+    {
+      "label": "Sufi holy men",
+      "kind": "idea",
+      "note": "Spread Islam in Sudan."
+    },
+    {
+      "label": "Horse cavalry",
+      "kind": "troops",
+      "note": "Armoured horsemen."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Gezira, between the Blue and White Nile.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "terrain": {
+        "value": "Plain between rivers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "climate": {
+        "value": "Hot; summer rains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "resources": {
+        "value": "Grain, gold, ivory.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "disasters": {
+        "value": "Famines.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "urbanisation": {
+        "value": "Mostly villages; a royal capital and market towns.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "disease": {
+        "value": "Malaria and other tropical diseases; smallpox outbreaks.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "migration": {
+        "value": "Arab tribes moved in.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Funj Sultanate"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, trade in gold, ivory and slaves.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "tradeRoutes": {
+        "value": "To Egypt and the Red Sea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "wealth": {
+        "value": "Royal trade monopoly.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "moneyAndTax": {
+        "value": "Tribute, market taxes and trade goods; cowrie shells in many markets.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "inequality": {
+        "value": "Rulers and nobles above free farmers; enslaved people at the bottom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Funj Sultanate"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Sultanate; later run by regents (Hamaj).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "keyRulers": {
+        "value": "Amara Dunqas. Badi II.",
+        "year": 1504,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "succession": {
+        "value": "Royal family; regents after 1762.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "institutions": {
+        "value": "Sufi scholars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "stability": {
+        "value": "Hamaj regents took power (1762).",
+        "year": 1762,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "eliteConflict": {
+        "value": "Funj and Hamaj.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Cavalry; slave soldiers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "majorWars": {
+        "value": "Egyptian conquest (1821).",
+        "year": 1821,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "territoryChange": {
+        "value": "Expanded to Kordofan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "alliancesRivals": {
+        "value": "Ethiopia, Ottomans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "scienceEducation": {
+        "value": "Oral learning; Qur’anic schools where Islam spread.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "openness": {
+        "value": "Open to trade, closed to rivals.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "communicationTransport": {
+        "value": "Footpaths, rivers and messengers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Funj Sultanate"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "languageWriting": {
+        "value": "Arabic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "artsArchitecture": {
+        "value": "Mosque of Sennar.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "socialStructure": {
+        "value": "Funj nobles, Arab tribes, captives.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler and lineage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "dailyLife": {
+        "value": "Farming households in villages.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Funj Sultanate"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Ethiopia, Darfur, Ottoman Egypt.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "ideasReligions": {
+        "value": "Sufism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "colonisation": {
+        "value": "Egyptian (Ottoman) conquest (1821).",
+        "year": 1821,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Founded (1504).",
+        "year": 1504,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "peakPeriod": {
+        "value": "1600s.",
+        "year": 1650,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "declineSignals": {
+        "value": "Regent rule after 1762.",
+        "year": 1762,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "outcome": {
+        "value": "Part of Turkish-Egyptian Sudan.",
+        "year": 1821,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Funj Sultanate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Funj Sultanate"
+      },
+      "overallCertainty": {
+        "value": "Known from oral traditions, travellers and colonial records; many dates are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Funj Sultanate"
+      }
+    }
+  }
+}

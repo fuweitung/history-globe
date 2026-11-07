@@ -1,0 +1,321 @@
+{
+  "id": "toucouleur-empire",
+  "name": "Toucouleur Empire",
+  "era": "modern",
+  "region": "West Africa",
+  "startYear": 1852,
+  "endYear": 1893,
+  "capital": "Ségou",
+  "capitalCoords": [
+    -6.27,
+    13.44
+  ],
+  "summary": "A jihad state founded by El Hadj Umar Tall in 1852 across today’s Mali and Senegal; it conquered Ségou and Hamdullahi but was conquered by France in 1890–93.",
+  "wikiTitle": "Toucouleur Empire",
+  "borderNames": [],
+  "borderNameYears": {
+    "Tukular Caliphate": [
+      1852,
+      1893
+    ]
+  },
+  "color": "#5a7a3a",
+  "knownFor": [
+    {
+      "label": "El Hadj Umar Tall",
+      "kind": "person",
+      "note": "Founder and Tijaniyya Sufi leader."
+    },
+    {
+      "label": "Tijaniyya order",
+      "kind": "idea",
+      "note": "Sufi brotherhood spread by Umar."
+    },
+    {
+      "label": "Fort of Médine",
+      "kind": "monument",
+      "year": 1857,
+      "note": "French fort Umar besieged."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Upper Senegal and Niger rivers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "terrain": {
+        "value": "Savanna and the Niger floodplain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "climate": {
+        "value": "Sahel.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "resources": {
+        "value": "Grain, cattle, gold.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 1–2 million.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "urbanisation": {
+        "value": "Mostly villages; a royal capital and market towns.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "disease": {
+        "value": "Malaria and other tropical diseases; smallpox outbreaks.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "migration": {
+        "value": "Followers moved east with Umar.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Toucouleur Empire"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, tribute and plunder.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "tradeRoutes": {
+        "value": "Niger river trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "wealth": {
+        "value": "War booty.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "moneyAndTax": {
+        "value": "Tribute, market taxes and trade goods; cowrie shells in many markets.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "inequality": {
+        "value": "Rulers and nobles above free farmers; enslaved people at the bottom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Toucouleur Empire"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Islamic state led by a caliph.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "keyRulers": {
+        "value": "El Hadj Umar Tall. Ahmadu Tall.",
+        "year": 1852,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "succession": {
+        "value": "Umar’s sons.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "institutions": {
+        "value": "Sharia courts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "stability": {
+        "value": "Revolts by conquered peoples.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "eliteConflict": {
+        "value": "Umar’s sons quarrelled.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Muskets and cavalry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "majorWars": {
+        "value": "Siege of Médine (1857); conquest of Ségou (1861) and Hamdullahi (1862).",
+        "year": 1861,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "territoryChange": {
+        "value": "Rapid conquest then loss.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "alliancesRivals": {
+        "value": "Fought France and Masina.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "scienceEducation": {
+        "value": "Oral learning; Qur’anic schools where Islam spread.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "openness": {
+        "value": "Open to trade, closed to rivals.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "communicationTransport": {
+        "value": "Footpaths, rivers and messengers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Toucouleur Empire"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sunni Islam (Tijaniyya).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "languageWriting": {
+        "value": "Fula; Arabic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "artsArchitecture": {
+        "value": "Mud-brick mosques.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "socialStructure": {
+        "value": "Toucouleur (Fula) elite over Bambara subjects.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler and lineage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "dailyLife": {
+        "value": "Farming households in villages.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Toucouleur Empire"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "France (Senegal), Masina, Samori.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "ideasReligions": {
+        "value": "West African jihad.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "colonisation": {
+        "value": "French conquest (1890–93).",
+        "year": 1890,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Jihad begins (1852).",
+        "year": 1852,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "peakPeriod": {
+        "value": "After taking Ségou (1861).",
+        "year": 1861,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "declineSignals": {
+        "value": "Umar killed (1864).",
+        "year": 1864,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "outcome": {
+        "value": "Part of French Sudan (Mali).",
+        "year": 1893,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Toucouleur Empire.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Toucouleur Empire"
+      },
+      "overallCertainty": {
+        "value": "Known from oral traditions, travellers and colonial records; many dates are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Toucouleur Empire"
+      }
+    }
+  }
+}

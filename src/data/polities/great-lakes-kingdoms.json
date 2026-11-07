@@ -1,0 +1,336 @@
+{
+  "id": "great-lakes-kingdoms",
+  "name": "Great Lakes kingdoms (Buganda, Bunyoro, Rwanda, Burundi)",
+  "era": "early_modern",
+  "region": "East Africa",
+  "startYear": 1400,
+  "endYear": 1900,
+  "capital": "Mengo (Buganda), Nyanza (Rwanda) and others",
+  "capitalCoords": [
+    32.57,
+    0.31
+  ],
+  "summary": "Powerful kingdoms between the African Great Lakes, among them Buganda, Bunyoro-Kitara, Nkore, Rwanda and Burundi, with royal courts, drum regalia and large armies; they came under British and German rule in the 1890s.",
+  "wikiTitle": "Kingdom of Buganda",
+  "borderNames": [],
+  "borderNameYears": {
+    "Buganda": [
+      1400,
+      1900
+    ],
+    "Bunyoro": [
+      1400,
+      1900
+    ],
+    "Nkore": [
+      1500,
+      1900
+    ],
+    "Rwanda": [
+      1500,
+      1889
+    ],
+    "Burundi": [
+      1680,
+      1889
+    ]
+  },
+  "color": "#7a5a2a",
+  "knownFor": [
+    {
+      "label": "Kasubi Tombs",
+      "kind": "monument",
+      "note": "Tombs of the Kabakas of Buganda."
+    },
+    {
+      "label": "Royal drums",
+      "kind": "art",
+      "note": "Symbols of kingship."
+    },
+    {
+      "label": "Bark cloth",
+      "kind": "textile",
+      "note": "Made from fig-tree bark in Buganda."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Around Lakes Victoria, Albert, Kivu and Tanganyika.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "terrain": {
+        "value": "Fertile highlands and lakeshores.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "climate": {
+        "value": "Mild and rainy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "resources": {
+        "value": "Bananas, cattle, iron, salt.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "disasters": {
+        "value": "Rinderpest killed most cattle (1890s).",
+        "year": 1891,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Buganda"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Several million in all by 1800.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "urbanisation": {
+        "value": "Mostly villages; a royal capital and market towns.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "disease": {
+        "value": "Malaria and other tropical diseases; smallpox outbreaks.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "migration": {
+        "value": "Older movements of farmers and herders.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Buganda"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Banana farming (Buganda), cattle herding (Rwanda, Nkore).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "tradeRoutes": {
+        "value": "Ivory and slave caravans to the Swahili coast (1840s–).",
+        "year": 1844,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "wealth": {
+        "value": "Royal wealth in cattle and tribute.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "moneyAndTax": {
+        "value": "Tribute, market taxes and trade goods; cowrie shells in many markets.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "inequality": {
+        "value": "Rulers and nobles above free farmers; enslaved people at the bottom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Buganda"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchies (Kabaka, Omukama, Mwami).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "keyRulers": {
+        "value": "Kabaka Mutesa I. Omukama Kabarega. Mwami Kigeri IV Rwabugiri.",
+        "year": 1856,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "succession": {
+        "value": "Royal clans; succession wars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "institutions": {
+        "value": "Lukiiko council in Buganda.",
+        "year": 1850,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "stability": {
+        "value": "Strong states with frequent wars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "eliteConflict": {
+        "value": "Princes and chiefs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Buganda"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Spear armies; Buganda war canoes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "majorWars": {
+        "value": "Wars between Buganda and Bunyoro.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "territoryChange": {
+        "value": "Buganda grew at Bunyoro’s expense.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "alliancesRivals": {
+        "value": "Buganda and Bunyoro rivals.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Buganda"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "scienceEducation": {
+        "value": "Oral learning; Qur’anic schools where Islam spread.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "openness": {
+        "value": "Open to trade, closed to rivals.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "communicationTransport": {
+        "value": "Footpaths, rivers and messengers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Buganda"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Traditional religion; Islam and Christianity from the 1840s–70s; Uganda Martyrs (1886).",
+        "year": 1886,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "languageWriting": {
+        "value": "Luganda, Runyoro, Kinyarwanda, Kirundi (oral).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "artsArchitecture": {
+        "value": "Grass palaces and tombs.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "socialStructure": {
+        "value": "Royal clans, chiefs, farmers and herders.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler and lineage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "dailyLife": {
+        "value": "Farming households in villages.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Buganda"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Each other; Swahili traders.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "ideasReligions": {
+        "value": "Sacred kingship.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "colonisation": {
+        "value": "British Uganda (1894); German East Africa (Rwanda, Burundi, 1890s).",
+        "year": 1894,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Buganda"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Kingdoms formed about 1400–1600.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "peakPeriod": {
+        "value": "Buganda under Mutesa I (1856–84).",
+        "year": 1860,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "declineSignals": {
+        "value": "Colonial rule (1890s).",
+        "year": 1894,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "outcome": {
+        "value": "Kingdoms continued under colonial rule; Rwanda and Burundi became independent states (1962).",
+        "year": 1962,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Buganda"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Kingdom of Buganda.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Buganda"
+      },
+      "overallCertainty": {
+        "value": "Known from oral traditions, travellers and colonial records; many dates are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Buganda"
+      }
+    }
+  }
+}

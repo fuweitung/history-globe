@@ -1,0 +1,324 @@
+{
+  "id": "lao-kingdoms",
+  "name": "Lao kingdoms (Luang Prabang, Vientiane, Champasak)",
+  "era": "early_modern",
+  "region": "Southeast Asia (Laos)",
+  "startYear": 1707,
+  "endYear": 1893,
+  "capital": "Luang Prabang and Vientiane",
+  "capitalCoords": [
+    102.14,
+    19.89
+  ],
+  "summary": "The three kingdoms that formed when Lan Xang split in 1707; they paid tribute to Siam, and Vientiane was destroyed after King Anouvong’s revolt (1826–28). France took them over in 1893.",
+  "wikiTitle": "Kingdom of Luang Phrabang",
+  "borderNames": [],
+  "borderNameYears": {
+    "Laotian states": [
+      1707,
+      1893
+    ],
+    "Laos": [
+      1707,
+      1892
+    ]
+  },
+  "color": "#c03a3a",
+  "knownFor": [
+    {
+      "label": "Wat Xieng Thong",
+      "kind": "monument",
+      "note": "Temple in Luang Prabang."
+    },
+    {
+      "label": "Anouvong",
+      "kind": "person",
+      "note": "Led a revolt against Siam (1826)."
+    },
+    {
+      "label": "Khaen",
+      "kind": "art",
+      "note": "Bamboo mouth organ."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Mekong valley in Laos and north-east Thailand.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "terrain": {
+        "value": "Mountains and river valleys.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "climate": {
+        "value": "Tropical monsoon.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "resources": {
+        "value": "Rice, forest goods.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "disasters": {
+        "value": "Floods.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "urbanisation": {
+        "value": "Small royal towns.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "disease": {
+        "value": "Malaria and smallpox.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "migration": {
+        "value": "Siam moved many Lao people west (1828).",
+        "year": 1828,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Rice farming, forest products.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "tradeRoutes": {
+        "value": "Mekong trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "wealth": {
+        "value": "Modest.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "moneyAndTax": {
+        "value": "Tribute and labour.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "inequality": {
+        "value": "Nobles and villagers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Buddhist monarchies.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "keyRulers": {
+        "value": "Anouvong of Vientiane.",
+        "year": 1805,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "succession": {
+        "value": "Royal families.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "institutions": {
+        "value": "Monkhood.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "stability": {
+        "value": "Vassals of Siam from 1779.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "eliteConflict": {
+        "value": "Rival kingdoms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Infantry and elephants.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "majorWars": {
+        "value": "Lao rebellion (1826–28).",
+        "year": 1826,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "territoryChange": {
+        "value": "Siam took the Emerald Buddha (1779).",
+        "year": 1779,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "alliancesRivals": {
+        "value": "Siam and Vietnam overlords.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "scienceEducation": {
+        "value": "Temple schools.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "openness": {
+        "value": "Open to trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "communicationTransport": {
+        "value": "River boats.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Theravada Buddhism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "languageWriting": {
+        "value": "Lao script.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "artsArchitecture": {
+        "value": "Luang Prabang temples.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "socialStructure": {
+        "value": "Royalty, monks, farmers; hill peoples.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "sharedIdentity": {
+        "value": "Lao Buddhist identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "dailyLife": {
+        "value": "Sticky rice.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Siam, Vietnam, Burma.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "ideasReligions": {
+        "value": "Theravada Buddhism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "colonisation": {
+        "value": "French protectorate (1893).",
+        "year": 1893,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Split of Lan Xang (1707).",
+        "year": 1707,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "peakPeriod": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "declineSignals": {
+        "value": "Vientiane destroyed (1828).",
+        "year": 1828,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "outcome": {
+        "value": "French Laos; later independent Laos.",
+        "year": 1893,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Kingdom of Luang Phrabang.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      },
+      "overallCertainty": {
+        "value": "Main events are well documented; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Luang Phrabang"
+      }
+    }
+  }
+}

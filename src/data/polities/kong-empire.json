@@ -1,0 +1,324 @@
+{
+  "id": "kong-empire",
+  "name": "Kong Empire",
+  "era": "early_modern",
+  "region": "West Africa",
+  "startYear": 1710,
+  "endYear": 1898,
+  "capital": "Kong",
+  "capitalCoords": [
+    -4.6,
+    9.15
+  ],
+  "summary": "A Muslim Dyula trading state in today’s northern Ivory Coast, linking gold and kola from the forest with the Niger trade; destroyed by Samori Touré in 1897.",
+  "wikiTitle": "Kong Empire",
+  "borderNames": [],
+  "borderNameYears": {
+    "Kong Empire": [
+      1710,
+      1898
+    ],
+    "Kong": [
+      1710,
+      1898
+    ]
+  },
+  "color": "#a07a3a",
+  "knownFor": [
+    {
+      "label": "Kong Grand Mosque",
+      "kind": "monument",
+      "note": "Sudano-Sahelian mosque."
+    },
+    {
+      "label": "Dyula traders",
+      "kind": "idea",
+      "note": "Muslim merchant network."
+    },
+    {
+      "label": "Kola nuts",
+      "kind": "food",
+      "note": "Key trade good."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Northern Ivory Coast and Burkina Faso.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "terrain": {
+        "value": "Savanna.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "resources": {
+        "value": "Kola, gold, cotton cloth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Kong town about 15,000 in the 1800s.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "urbanisation": {
+        "value": "Mostly villages; a royal capital and market towns.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "disease": {
+        "value": "Malaria and other tropical diseases; smallpox outbreaks.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "migration": {
+        "value": "Dyula merchants settled widely.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kong Empire"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Long-distance trade and weaving.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "tradeRoutes": {
+        "value": "Forest to Niger bend.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "wealth": {
+        "value": "Merchant wealth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "moneyAndTax": {
+        "value": "Tribute, market taxes and trade goods; cowrie shells in many markets.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "inequality": {
+        "value": "Rulers and nobles above free farmers; enslaved people at the bottom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kong Empire"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Ruled by the Wattara dynasty.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "keyRulers": {
+        "value": "Seku Wattara.",
+        "year": 1710,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "succession": {
+        "value": "Wattara family.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "institutions": {
+        "value": "Merchant and scholar families.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "stability": {
+        "value": "Loose control of provinces.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "eliteConflict": {
+        "value": "Wattara branches.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Cavalry and muskets.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "majorWars": {
+        "value": "Destroyed by Samori (1897).",
+        "year": 1897,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "territoryChange": {
+        "value": "Gyaaman and Bobo areas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "alliancesRivals": {
+        "value": "Asante, Samori.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "scienceEducation": {
+        "value": "Oral learning; Qur’anic schools where Islam spread.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "openness": {
+        "value": "Open to trade, closed to rivals.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "communicationTransport": {
+        "value": "Footpaths, rivers and messengers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kong Empire"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "languageWriting": {
+        "value": "Dyula; Arabic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "artsArchitecture": {
+        "value": "Mud mosques.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "socialStructure": {
+        "value": "Merchants, scholars, farmers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler and lineage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "dailyLife": {
+        "value": "Farming households in villages.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kong Empire"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Asante, Mossi, Gonja.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "ideasReligions": {
+        "value": "Islamic learning centre.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "colonisation": {
+        "value": "French Ivory Coast (1898).",
+        "year": 1898,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Seku Wattara takes power (about 1710).",
+        "year": 1710,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "peakPeriod": {
+        "value": "1700s.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "declineSignals": {
+        "value": "Samori’s attack (1897).",
+        "year": 1897,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "outcome": {
+        "value": "Part of French Ivory Coast.",
+        "year": 1898,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Kong Empire.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kong Empire"
+      },
+      "overallCertainty": {
+        "value": "Known from oral traditions, travellers and colonial records; many dates are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kong Empire"
+      }
+    }
+  }
+}

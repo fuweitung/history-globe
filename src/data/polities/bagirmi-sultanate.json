@@ -1,0 +1,320 @@
+{
+  "id": "bagirmi-sultanate",
+  "name": "Bagirmi Sultanate",
+  "era": "early_modern",
+  "region": "Central Africa (Sahel)",
+  "startYear": 1522,
+  "endYear": 1897,
+  "capital": "Massenya",
+  "capitalCoords": [
+    16.17,
+    11.4
+  ],
+  "summary": "A Muslim kingdom south-east of Lake Chad, often paying tribute to Kanem-Bornu or Wadai; it became a French protectorate in 1897.",
+  "wikiTitle": "Kingdom of Baguirmi",
+  "borderNames": [],
+  "borderNameYears": {
+    "Bagirmi": [
+      1522,
+      1897
+    ]
+  },
+  "color": "#8a6a4a",
+  "knownFor": [
+    {
+      "label": "Massenya",
+      "kind": "monument",
+      "note": "Capital town."
+    },
+    {
+      "label": "Cavalry",
+      "kind": "troops",
+      "note": "Armoured horsemen."
+    },
+    {
+      "label": "Slave raiding",
+      "kind": "idea",
+      "note": "Raids on southern peoples."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Chari River, south-east of Lake Chad.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "terrain": {
+        "value": "Savanna and floodplain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "climate": {
+        "value": "Sahel.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "resources": {
+        "value": "Grain, fish, cattle.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "urbanisation": {
+        "value": "Mostly villages; a royal capital and market towns.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "disease": {
+        "value": "Malaria and other tropical diseases; smallpox outbreaks.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "migration": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming and slave raiding.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "tradeRoutes": {
+        "value": "To Bornu and Wadai.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "wealth": {
+        "value": "Tribute.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "moneyAndTax": {
+        "value": "Tribute, market taxes and trade goods; cowrie shells in many markets.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "inequality": {
+        "value": "Rulers and nobles above free farmers; enslaved people at the bottom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Sultanate (Mbang).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "keyRulers": {
+        "value": "Mbang Abd Allah (1561–1602).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "succession": {
+        "value": "Royal dynasty.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "institutions": {
+        "value": "Court officials.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "stability": {
+        "value": "Often a vassal.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "eliteConflict": {
+        "value": "Royal rivals.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Cavalry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "majorWars": {
+        "value": "Sacked by Wadai (1871).",
+        "year": 1871,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "territoryChange": {
+        "value": "Little change.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "alliancesRivals": {
+        "value": "Bornu and Wadai overlords.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "scienceEducation": {
+        "value": "Oral learning; Qur’anic schools where Islam spread.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "openness": {
+        "value": "Open to trade, closed to rivals.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "communicationTransport": {
+        "value": "Footpaths, rivers and messengers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Islam (from about 1600).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "languageWriting": {
+        "value": "Bagirmi; Arabic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "artsArchitecture": {
+        "value": "Mud-brick buildings.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "socialStructure": {
+        "value": "Royal clan, subjects, captives.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler and lineage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "dailyLife": {
+        "value": "Farming households in villages.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Kanem-Bornu, Wadai.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "ideasReligions": {
+        "value": "Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "colonisation": {
+        "value": "French protectorate (1897).",
+        "year": 1897,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Founded (1522).",
+        "year": 1522,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "peakPeriod": {
+        "value": "Around 1600.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "declineSignals": {
+        "value": "Wadai invasion (1871).",
+        "year": 1871,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "outcome": {
+        "value": "Part of French Chad.",
+        "year": 1897,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Kingdom of Baguirmi.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      },
+      "overallCertainty": {
+        "value": "Known from oral traditions, travellers and colonial records; many dates are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Baguirmi"
+      }
+    }
+  }
+}

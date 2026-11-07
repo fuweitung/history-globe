@@ -1,0 +1,321 @@
+{
+  "id": "kingdom-of-scotland",
+  "name": "Kingdom of Scotland",
+  "era": "medieval",
+  "region": "Western Europe",
+  "startYear": 843,
+  "endYear": 1707,
+  "capital": "Edinburgh (from the 1400s)",
+  "capitalCoords": [
+    -3.19,
+    55.95
+  ],
+  "summary": "The kingdom in northern Britain traditionally founded by Kenneth MacAlpin (843); it kept its independence from England in the wars of the 1300s, shared a king with England from 1603 and united with it in 1707.",
+  "wikiTitle": "Kingdom of Scotland",
+  "borderNames": [],
+  "borderNameYears": {
+    "Scotland": [
+      843,
+      1707
+    ]
+  },
+  "color": "#3a5ab0",
+  "knownFor": [
+    {
+      "label": "Declaration of Arbroath",
+      "kind": "idea",
+      "year": 1320,
+      "note": "Letter asserting Scottish independence."
+    },
+    {
+      "label": "Robert the Bruce",
+      "kind": "person",
+      "note": "Won Bannockburn (1314)."
+    },
+    {
+      "label": "Tartan",
+      "kind": "textile",
+      "note": "Woollen check cloth."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Northern Great Britain and islands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "terrain": {
+        "value": "Highlands, lowlands, islands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "climate": {
+        "value": "Cool and wet.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "resources": {
+        "value": "Wool, fish, coal.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "disasters": {
+        "value": "Famines of the 1690s (“seven ill years”).",
+        "year": 1695,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 1 million by 1700.",
+        "year": 1700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "urbanisation": {
+        "value": "Edinburgh, Glasgow, Aberdeen.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "disease": {
+        "value": "Black Death (1348–49).",
+        "year": 1348,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "migration": {
+        "value": "Ulster plantation settlers (1600s).",
+        "year": 1609,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, cattle, fishing, wool.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "tradeRoutes": {
+        "value": "Trade with the Low Countries and Scandinavia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "wealth": {
+        "value": "Poorer than England.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "moneyAndTax": {
+        "value": "Pound Scots.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "inequality": {
+        "value": "Lairds and clan chiefs above tenants.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy with a Parliament.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "keyRulers": {
+        "value": "Kenneth MacAlpin. Robert the Bruce. Mary, Queen of Scots. James VI.",
+        "year": 1306,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "succession": {
+        "value": "Hereditary; Stewart dynasty from 1371.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "institutions": {
+        "value": "Parliament of Scotland; Kirk (1560).",
+        "year": 1560,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "stability": {
+        "value": "Frequent noble feuds.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "eliteConflict": {
+        "value": "Clans and nobles.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Spearmen (schiltrons).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "majorWars": {
+        "value": "Wars of Independence (1296–1357); Flodden (1513).",
+        "year": 1314,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "territoryChange": {
+        "value": "Gained Orkney and Shetland (1472).",
+        "year": 1472,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "alliancesRivals": {
+        "value": "Auld Alliance with France (1295).",
+        "year": 1295,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "scienceEducation": {
+        "value": "Universities: St Andrews (1413), Glasgow, Aberdeen, Edinburgh.",
+        "year": 1413,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "openness": {
+        "value": "Open to trade with Europe.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "communicationTransport": {
+        "value": "Sea and drove roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Catholic, then Presbyterian (Reformation 1560).",
+        "year": 1560,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "languageWriting": {
+        "value": "Gaelic, Scots and English.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "artsArchitecture": {
+        "value": "Castles and abbeys.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "socialStructure": {
+        "value": "Clans in the Highlands; burghs in the Lowlands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "sharedIdentity": {
+        "value": "Independence from England.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "dailyLife": {
+        "value": "Oats, cattle, peat fires.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "England, Ireland, Norway.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "ideasReligions": {
+        "value": "Presbyterianism (John Knox).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "colonisation": {
+        "value": "Darien scheme in Panama failed (1698–1700).",
+        "year": 1698,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Kenneth MacAlpin (843).",
+        "year": 843,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "peakPeriod": {
+        "value": "Under James IV (1488–1513).",
+        "year": 1500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "declineSignals": {
+        "value": "Darien disaster bankrupted many.",
+        "year": 1700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "outcome": {
+        "value": "United with England as Great Britain (1707).",
+        "year": 1707,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Kingdom of Scotland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland"
+      },
+      "overallCertainty": {
+        "value": "Main events are well documented; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Scotland"
+      }
+    }
+  }
+}

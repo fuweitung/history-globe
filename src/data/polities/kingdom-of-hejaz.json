@@ -1,0 +1,322 @@
+{
+  "id": "kingdom-of-hejaz",
+  "name": "Kingdom of Hejaz",
+  "era": "modern",
+  "region": "Middle East (Arabia)",
+  "startYear": 1916,
+  "endYear": 1925,
+  "capital": "Mecca",
+  "capitalCoords": [
+    39.83,
+    21.42
+  ],
+  "summary": "A kingdom in western Arabia created when Sharif Hussein of Mecca led the Arab Revolt against the Ottomans (1916); Ibn Saud conquered it in 1924–25.",
+  "wikiTitle": "Kingdom of Hejaz",
+  "borderNames": [],
+  "borderNameYears": {
+    "Hejaz": [
+      1916,
+      1925
+    ]
+  },
+  "color": "#3a7a4a",
+  "knownFor": [
+    {
+      "label": "Arab Revolt",
+      "kind": "idea",
+      "year": 1916,
+      "note": "Uprising against the Ottomans with British help."
+    },
+    {
+      "label": "Hejaz Railway",
+      "kind": "tool",
+      "year": 1916,
+      "note": "Raided by T. E. Lawrence and Arab fighters."
+    },
+    {
+      "label": "Holy cities",
+      "kind": "monument",
+      "note": "Mecca and Medina."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Red Sea coast of Arabia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "terrain": {
+        "value": "Coastal plain and mountains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "climate": {
+        "value": "Hot desert.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "resources": {
+        "value": "Pilgrim trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "disasters": {
+        "value": "Droughts.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 850,000.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "urbanisation": {
+        "value": "Mecca, Medina, Jeddah.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "disease": {
+        "value": "Cholera among pilgrims.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "migration": {
+        "value": "Hajj pilgrims every year.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Hajj pilgrimage and British subsidies.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "tradeRoutes": {
+        "value": "Jeddah port; Hejaz Railway.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "wealth": {
+        "value": "Poor.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "moneyAndTax": {
+        "value": "Pilgrim taxes; British gold.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "inequality": {
+        "value": "Sharifian elite and Bedouin tribes.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy under the Hashemite family.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "keyRulers": {
+        "value": "Hussein bin Ali. Ali bin Hussein.",
+        "year": 1916,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "succession": {
+        "value": "Hussein abdicated for Ali (1924).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "institutions": {
+        "value": "Few modern institutions.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "stability": {
+        "value": "Weak.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "eliteConflict": {
+        "value": "Hashemites against the Saudis.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Tribal fighters; British arms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "majorWars": {
+        "value": "Arab Revolt (1916–18); Saudi conquest (1924–25).",
+        "year": 1916,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "territoryChange": {
+        "value": "Lost to Ibn Saud.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "alliancesRivals": {
+        "value": "Britain; rival of Ibn Saud.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "scienceEducation": {
+        "value": "Religious schools.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "openness": {
+        "value": "Open to trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "communicationTransport": {
+        "value": "Camels, the railway, ships.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Sunni Islam; guardians of the holy cities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "languageWriting": {
+        "value": "Arabic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "artsArchitecture": {
+        "value": "Hejazi houses with wooden screens.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "socialStructure": {
+        "value": "Sharifs, merchants, Bedouin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "sharedIdentity": {
+        "value": "Arab nationalism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "dailyLife": {
+        "value": "Town life around the pilgrimage.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Najd (Saudis), Ha’il, Transjordan, Yemen.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "ideasReligions": {
+        "value": "Pan-Arab hopes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "colonisation": {
+        "value": "Ottoman until 1916.",
+        "year": 1916,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Arab Revolt (1916).",
+        "year": 1916,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "peakPeriod": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "declineSignals": {
+        "value": "Hussein claimed the caliphate (1924), angering many.",
+        "year": 1924,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "outcome": {
+        "value": "Conquered by Ibn Saud; part of Saudi Arabia (1932).",
+        "year": 1925,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Kingdom of Hejaz.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      },
+      "overallCertainty": {
+        "value": "Main events are well documented; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Hejaz"
+      }
+    }
+  }
+}

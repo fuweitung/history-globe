@@ -1,0 +1,328 @@
+{
+  "id": "wassoulou-empire",
+  "name": "Wassoulou Empire (Samori Touré)",
+  "era": "modern",
+  "region": "West Africa",
+  "startYear": 1878,
+  "endYear": 1898,
+  "capital": "Bissandugu",
+  "capitalCoords": [
+    -8.98,
+    10.03
+  ],
+  "summary": "An empire built by the Mandinka leader Samori Touré, who fought French expansion for nearly 20 years with a modern army and moved his whole state east; he was captured in 1898.",
+  "wikiTitle": "Wassoulou Empire",
+  "borderNames": [],
+  "borderNameYears": {
+    "Wassoulou Empire": [
+      1878,
+      1898
+    ],
+    "First Samori Empire": [
+      1878,
+      1898
+    ],
+    "Second Samori Empire": [
+      1878,
+      1898
+    ]
+  },
+  "color": "#7a3a3a",
+  "knownFor": [
+    {
+      "label": "Samori Touré",
+      "kind": "person",
+      "note": "Resisted France for 20 years."
+    },
+    {
+      "label": "Home-made rifles",
+      "kind": "weapon",
+      "note": "Blacksmiths copied French rifles."
+    },
+    {
+      "label": "Scorched earth",
+      "kind": "idea",
+      "note": "Moved the state east as France advanced."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Upper Niger (Guinea, Mali, Ivory Coast).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "terrain": {
+        "value": "Savanna and hills.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "resources": {
+        "value": "Gold, horses, grain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "disasters": {
+        "value": "War devastation.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "Perhaps 1 million.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "urbanisation": {
+        "value": "Mostly villages; a royal capital and market towns.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "disease": {
+        "value": "Malaria and other tropical diseases; smallpox outbreaks.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "migration": {
+        "value": "Forced movement east (1891–94).",
+        "year": 1891,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, gold, trade, slave raiding.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "tradeRoutes": {
+        "value": "Bought guns from Sierra Leone.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "wealth": {
+        "value": "War economy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "moneyAndTax": {
+        "value": "Tribute, market taxes and trade goods; cowrie shells in many markets.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "inequality": {
+        "value": "Rulers and nobles above free farmers; enslaved people at the bottom.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Wassoulou Empire"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Military Islamic state.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "keyRulers": {
+        "value": "Samori Touré.",
+        "year": 1878,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "succession": {
+        "value": "One ruler.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "institutions": {
+        "value": "Provincial governors.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "stability": {
+        "value": "Always at war.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "eliteConflict": {
+        "value": "Few rivals to Samori.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Wassoulou Empire"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Rifle infantry and cavalry; workshops for guns.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "majorWars": {
+        "value": "Wars against France (1882–98).",
+        "year": 1882,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "territoryChange": {
+        "value": "Moved east to Kong (1894–97).",
+        "year": 1894,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "alliancesRivals": {
+        "value": "Sought British support.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "scienceEducation": {
+        "value": "Oral learning; Qur’anic schools where Islam spread.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "openness": {
+        "value": "Open to trade, closed to rivals.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "communicationTransport": {
+        "value": "Footpaths, rivers and messengers.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Wassoulou Empire"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "languageWriting": {
+        "value": "Mandinka; Arabic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "artsArchitecture": {
+        "value": "Few remains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "socialStructure": {
+        "value": "Army, traders, farmers, captives.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "sharedIdentity": {
+        "value": "Loyalty to the ruler and lineage.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "dailyLife": {
+        "value": "Farming households in villages.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Wassoulou Empire"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "France, Toucouleur, Kong, Sierra Leone.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "ideasReligions": {
+        "value": "Islam as state ideology.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "colonisation": {
+        "value": "Captured by France (1898).",
+        "year": 1898,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Samori proclaims himself Faama (1878).",
+        "year": 1878,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "peakPeriod": {
+        "value": "Early 1880s.",
+        "year": 1883,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "declineSignals": {
+        "value": "French offensives (1891).",
+        "year": 1891,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "outcome": {
+        "value": "French West Africa.",
+        "year": 1898,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Wassoulou Empire.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Wassoulou Empire"
+      },
+      "overallCertainty": {
+        "value": "Known from oral traditions, travellers and colonial records; many dates are approximate.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Wassoulou Empire"
+      }
+    }
+  }
+}

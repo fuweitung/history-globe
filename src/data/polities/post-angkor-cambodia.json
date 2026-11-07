@@ -1,0 +1,320 @@
+{
+  "id": "post-angkor-cambodia",
+  "name": "Kingdom of Cambodia (after Angkor)",
+  "era": "early_modern",
+  "region": "Southeast Asia",
+  "startYear": 1431,
+  "endYear": 1863,
+  "capital": "Longvek, Oudong, then Phnom Penh",
+  "capitalCoords": [
+    104.92,
+    11.56
+  ],
+  "summary": "Cambodia after the court left Angkor in 1431: a smaller Khmer kingdom with capitals near Phnom Penh, squeezed between Siam and Vietnam, which became a French protectorate in 1863.",
+  "wikiTitle": "Post-Angkor period",
+  "borderNames": [],
+  "borderNameYears": {
+    "Cambodia": [
+      1431,
+      1862
+    ]
+  },
+  "color": "#3a5ab0",
+  "knownFor": [
+    {
+      "label": "Oudong",
+      "kind": "monument",
+      "note": "Royal capital with stupas."
+    },
+    {
+      "label": "Reamker",
+      "kind": "art",
+      "note": "Khmer Ramayana."
+    },
+    {
+      "label": "Tonlé Sap fishing",
+      "kind": "food",
+      "note": "Lake that reverses its flow."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Mekong lowlands and the Tonlé Sap.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "terrain": {
+        "value": "Floodplains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "climate": {
+        "value": "Tropical monsoon.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "resources": {
+        "value": "Rice, fish.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "disasters": {
+        "value": "Floods.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 1 million.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "urbanisation": {
+        "value": "Royal capitals and Phnom Penh.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "disease": {
+        "value": "Malaria and smallpox.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "migration": {
+        "value": "Vietnamese settlers in the Mekong delta.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Rice and fishing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "tradeRoutes": {
+        "value": "Mekong trade with Chinese and European merchants.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "wealth": {
+        "value": "Modest.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "moneyAndTax": {
+        "value": "Taxes in kind.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "inequality": {
+        "value": "King, officials, peasants.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy, often under Siamese or Vietnamese control.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "keyRulers": {
+        "value": "Ang Chan I. Ang Duong.",
+        "year": 1516,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "succession": {
+        "value": "Royal family; disputes invited foreign help.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "institutions": {
+        "value": "Buddhist monkhood.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "stability": {
+        "value": "Frequent invasions.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "eliteConflict": {
+        "value": "Pro-Siam and pro-Vietnam princes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Elephants and infantry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "majorWars": {
+        "value": "Siamese sack of Longvek (1594); Siamese–Vietnamese War (1841–45).",
+        "year": 1594,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "territoryChange": {
+        "value": "Lost the Mekong delta to Vietnam (1600s–1700s).",
+        "year": 1698,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "alliancesRivals": {
+        "value": "Between Siam and Vietnam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "No major inventions are recorded.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "scienceEducation": {
+        "value": "Monastery schools.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "openness": {
+        "value": "Open to trade.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "communicationTransport": {
+        "value": "Rivers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Theravada Buddhism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "languageWriting": {
+        "value": "Khmer.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "artsArchitecture": {
+        "value": "Wooden pagodas.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "socialStructure": {
+        "value": "Royalty, monks, farmers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "sharedIdentity": {
+        "value": "Khmer Buddhist identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "dailyLife": {
+        "value": "Rice, fish paste (prahok).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Ayutthaya/Siam, Vietnam, Lao kingdoms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "ideasReligions": {
+        "value": "Theravada Buddhism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "colonisation": {
+        "value": "French protectorate (1863).",
+        "year": 1863,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Court moved from Angkor (1431).",
+        "year": 1431,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "peakPeriod": {
+        "value": "Uncertain.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "declineSignals": {
+        "value": "Fall of Longvek (1594).",
+        "year": 1594,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "outcome": {
+        "value": "French protectorate; later independent Cambodia.",
+        "year": 1863,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Post-Angkor period.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Post-Angkor period"
+      },
+      "overallCertainty": {
+        "value": "Main events are well documented; population figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Post-Angkor period"
+      }
+    }
+  }
+}
