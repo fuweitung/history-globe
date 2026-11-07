@@ -1,0 +1,422 @@
+{
+  "id": "german-states",
+  "name": "German states before unification",
+  "era": "early_modern",
+  "region": "Central Europe",
+  "startYear": 1648,
+  "endYear": 1871,
+  "capital": "Frankfurt (Federal Diet, 1815–66)",
+  "capitalCoords": [
+    8.68,
+    50.11
+  ],
+  "summary": "The many kingdoms, duchies and free cities of Germany, such as Bavaria, Saxony, Hanover and Württemberg. Members of the Holy Roman Empire until 1806, they joined the German Confederation (1815–66) and then the German Empire (1871).",
+  "wikiTitle": "German Confederation",
+  "borderNames": [],
+  "borderYears": [
+    1806,
+    1870
+  ],
+  "borderNameYears": {
+    "Bavaria": [
+      1648,
+      1870
+    ],
+    "Saxony": [
+      1648,
+      1870
+    ],
+    "Hanover": [
+      1648,
+      1866
+    ],
+    "Württemberg": [
+      1648,
+      1870
+    ],
+    "Baden": [
+      1648,
+      1870
+    ],
+    "Swabia": [
+      1648,
+      1806
+    ],
+    "Electoral Hesse": [
+      1648,
+      1866
+    ],
+    "Grand Duchy of Hesse": [
+      1806,
+      1870
+    ],
+    "Nassau": [
+      1806,
+      1866
+    ],
+    "Palatinate": [
+      1648,
+      1870
+    ],
+    "Mecklenburg-Schwerin": [
+      1648,
+      1870
+    ],
+    "Mecklenburg-Strelitz": [
+      1701,
+      1870
+    ],
+    "Oldenburg": [
+      1648,
+      1870
+    ],
+    "Brunswick": [
+      1648,
+      1870
+    ],
+    "Thuringia": [
+      1648,
+      1870
+    ],
+    "Anhalt": [
+      1648,
+      1870
+    ],
+    "Lippe-Detmold": [
+      1648,
+      1870
+    ],
+    "Schaumburg-Lippe": [
+      1648,
+      1870
+    ],
+    "Waldeck": [
+      1648,
+      1870
+    ],
+    "Hohenzollern": [
+      1648,
+      1850
+    ],
+    "Hamburg": [
+      1648,
+      1870
+    ],
+    "Lübeck": [
+      1648,
+      1870
+    ],
+    "Bremen": [
+      1648,
+      1870
+    ],
+    "Cuxhaven": [
+      1648,
+      1870
+    ],
+    "Wetzlar": [
+      1648,
+      1815
+    ]
+  },
+  "color": "#8a7a5a",
+  "knownFor": [
+    {
+      "label": "Weimar classicism",
+      "kind": "art",
+      "note": "Goethe and Schiller."
+    },
+    {
+      "label": "Zollverein",
+      "kind": "idea",
+      "year": 1834,
+      "note": "Customs union."
+    },
+    {
+      "label": "Neuschwanstein",
+      "kind": "monument",
+      "year": 1869,
+      "note": "Bavarian fairy-tale castle."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Central Europe; dozens of states.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "terrain": {
+        "value": "Plains, uplands, Alps.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "climate": {
+        "value": "Temperate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "resources": {
+        "value": "Farmland, forests, Saxon silver and coal.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "disasters": {
+        "value": "Hunger years (1816–17, 1846–47).",
+        "year": 1816,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 30 million (1815) outside Prussia and Austria.",
+        "year": 1815,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "urbanisation": {
+        "value": "Munich, Dresden, Hamburg, Frankfurt.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "disease": {
+        "value": "Cholera (1831).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "migration": {
+        "value": "Millions emigrated to America (1840s–80s).",
+        "year": 1848,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, crafts, trade; industry later.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "tradeRoutes": {
+        "value": "Rhine, Elbe; Hanseatic cities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "wealth": {
+        "value": "Varied by state.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "moneyAndTax": {
+        "value": "Many currencies (gulden, thaler).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "inequality": {
+        "value": "Nobles and peasants.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchies and free cities in a loose confederation.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "keyRulers": {
+        "value": "Ludwig I and Ludwig II of Bavaria. Kings of Saxony and Hanover.",
+        "year": 1825,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "succession": {
+        "value": "Dynasties.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "institutions": {
+        "value": "Federal Diet in Frankfurt (1815–66).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "stability": {
+        "value": "Revolutions of 1848.",
+        "year": 1848,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "eliteConflict": {
+        "value": "Austria and Prussia competed for leadership.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Small state armies.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "majorWars": {
+        "value": "Napoleonic Wars; Austro-Prussian War (1866).",
+        "year": 1866,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "territoryChange": {
+        "value": "Hundreds of states merged into about 39 (1803–15).",
+        "year": 1803,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "alliancesRivals": {
+        "value": "Between Austria and Prussia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Printing in many towns; early railways (1835).",
+        "year": 1835,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "scienceEducation": {
+        "value": "Strong universities (Göttingen, Heidelberg).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "openness": {
+        "value": "Open trade after 1834.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "communicationTransport": {
+        "value": "Railways from 1835.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Catholic south, Protestant north.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "languageWriting": {
+        "value": "German.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "artsArchitecture": {
+        "value": "Music (Bach, Beethoven); Romanticism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "socialStructure": {
+        "value": "Princes, nobles, burghers, peasants.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "sharedIdentity": {
+        "value": "Shared language and culture before a nation-state.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "dailyLife": {
+        "value": "Villages and small capitals.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "France, Austria, Prussia, Denmark, Netherlands, Switzerland.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "ideasReligions": {
+        "value": "Enlightenment, Romanticism, nationalism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "colonisation": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Peace of Westphalia gave states more power (1648).",
+        "year": 1648,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "peakPeriod": {
+        "value": "Cultural golden age (1770–1830).",
+        "year": 1800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "declineSignals": {
+        "value": "Prussia won the war of 1866.",
+        "year": 1866,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "outcome": {
+        "value": "Joined the German Empire (1871).",
+        "year": 1871,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: German Confederation.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: German Confederation"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: German Confederation"
+      }
+    }
+  }
+}

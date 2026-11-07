@@ -3098,5 +3098,173 @@
     "relation": "allied_with",
     "year": 1900,
     "note": "British protectorate (1900–70)."
+  },
+  {
+    "fromPolityId": "old-swiss-confederacy",
+    "toPolityId": "switzerland",
+    "relation": "succeeded",
+    "year": 1848,
+    "note": "Modern Switzerland grew from the old league of cantons."
+  },
+  {
+    "fromPolityId": "kingdom-of-france",
+    "toPolityId": "france-1792-1830",
+    "relation": "succeeded",
+    "year": 1792,
+    "note": "The monarchy was abolished in 1792."
+  },
+  {
+    "fromPolityId": "france-1792-1830",
+    "toPolityId": "french-colonial-empire",
+    "relation": "succeeded",
+    "year": 1830,
+    "note": "The July Monarchy began the conquest of Algeria (1830)."
+  },
+  {
+    "fromPolityId": "france-1792-1830",
+    "toPolityId": "kingdom-of-prussia",
+    "relation": "conquered",
+    "year": 1806,
+    "note": "Napoleon defeated Prussia in 1806."
+  },
+  {
+    "fromPolityId": "kingdom-of-prussia",
+    "toPolityId": "german-empire",
+    "relation": "succeeded",
+    "year": 1871,
+    "note": "Prussia led the unification of Germany."
+  },
+  {
+    "fromPolityId": "german-states",
+    "toPolityId": "german-empire",
+    "relation": "succeeded",
+    "year": 1871,
+    "note": "The southern and smaller states joined the German Empire."
+  },
+  {
+    "fromPolityId": "holy-roman-empire",
+    "toPolityId": "german-states",
+    "relation": "succeeded",
+    "year": 1806,
+    "note": "The Holy Roman Empire was dissolved in 1806."
+  },
+  {
+    "fromPolityId": "kingdom-of-prussia",
+    "toPolityId": "german-states",
+    "relation": "allied_with",
+    "year": 1834,
+    "note": "Customs union (Zollverein)."
+  },
+  {
+    "fromPolityId": "italian-states",
+    "toPolityId": "italy",
+    "relation": "succeeded",
+    "year": 1861,
+    "note": "Unified as the Kingdom of Italy."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "italian-states",
+    "relation": "conquered",
+    "year": 1559,
+    "note": "Spain ruled Milan, Naples, Sicily and Sardinia."
+  },
+  {
+    "fromPolityId": "german-empire",
+    "toPolityId": "germany-1918-1945",
+    "relation": "succeeded",
+    "year": 1918,
+    "note": "The Kaiser abdicated in November 1918."
+  },
+  {
+    "fromPolityId": "germany-1918-1945",
+    "toPolityId": "germany-modern",
+    "relation": "succeeded",
+    "year": 1949,
+    "note": "West Germany was founded in 1949."
+  },
+  {
+    "fromPolityId": "germany-1918-1945",
+    "toPolityId": "east-germany",
+    "relation": "succeeded",
+    "year": 1949,
+    "note": "East Germany was founded in the Soviet zone."
+  },
+  {
+    "fromPolityId": "germany-1918-1945",
+    "toPolityId": "poland-modern",
+    "relation": "conquered",
+    "year": 1939,
+    "note": "Germany invaded Poland on 1 September 1939."
+  },
+  {
+    "fromPolityId": "east-germany",
+    "toPolityId": "germany-modern",
+    "relation": "succeeded",
+    "year": 1990,
+    "note": "Reunification on 3 October 1990."
+  },
+  {
+    "fromPolityId": "soviet-union",
+    "toPolityId": "east-germany",
+    "relation": "allied_with",
+    "year": 1955,
+    "note": "Warsaw Pact."
+  },
+  {
+    "fromPolityId": "qing-china",
+    "toPolityId": "hong-kong",
+    "relation": "succeeded",
+    "year": 1841,
+    "note": "Part of Qing China until 1841."
+  },
+  {
+    "fromPolityId": "british-empire",
+    "toPolityId": "hong-kong",
+    "relation": "colonised",
+    "year": 1997,
+    "note": "British colony 1841–1997."
+  },
+  {
+    "fromPolityId": "peoples-republic-of-china",
+    "toPolityId": "hong-kong",
+    "relation": "allied_with",
+    "year": 1997,
+    "note": "Sovereignty returned to China in 1997 as a Special Administrative Region (“one country, two systems”)."
+  },
+  {
+    "fromPolityId": "spanish-empire",
+    "toPolityId": "puerto-rico",
+    "relation": "colonised",
+    "year": 1898,
+    "note": "Spanish colony 1508–1898."
+  },
+  {
+    "fromPolityId": "united-states",
+    "toPolityId": "puerto-rico",
+    "relation": "colonised",
+    "year": 1898,
+    "note": "US territory since 1898."
+  },
+  {
+    "fromPolityId": "taino-caribbean",
+    "toPolityId": "puerto-rico",
+    "relation": "succeeded",
+    "year": null,
+    "note": "Borikén was a Taíno island."
+  },
+  {
+    "fromPolityId": "kingdom-of-denmark",
+    "toPolityId": "greenland",
+    "relation": "colonised",
+    "year": 1953,
+    "note": "Danish colony until 1953; now self-governing within the Danish Realm."
+  },
+  {
+    "fromPolityId": "arctic-peoples",
+    "toPolityId": "greenland",
+    "relation": "succeeded",
+    "year": null,
+    "note": "Most Greenlanders are Inuit (Kalaallit)."
   }
 ]

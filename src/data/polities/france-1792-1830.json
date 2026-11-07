@@ -1,0 +1,330 @@
+{
+  "id": "france-1792-1830",
+  "name": "France (Revolution, Napoleon and Restoration)",
+  "era": "early_modern",
+  "region": "Western Europe",
+  "startYear": 1792,
+  "endYear": 1830,
+  "capital": "Paris",
+  "capitalCoords": [
+    2.35,
+    48.86
+  ],
+  "summary": "France from the end of the monarchy (1792) to the July Revolution (1830): the First Republic and the Terror, Napoleon’s Empire that conquered much of Europe, and the restored Bourbon kings after 1814.",
+  "wikiTitle": "French First Republic",
+  "borderNames": [],
+  "borderYears": [
+    1792,
+    1830
+  ],
+  "borderNameYears": {
+    "France": [
+      1792,
+      1829
+    ],
+    "Lombardy": [
+      1797,
+      1814
+    ]
+  },
+  "color": "#3a5ab0",
+  "knownFor": [
+    {
+      "label": "Napoleonic Code",
+      "kind": "idea",
+      "year": 1804,
+      "note": "Civil law code copied worldwide."
+    },
+    {
+      "label": "Metric system",
+      "kind": "idea",
+      "year": 1795,
+      "note": "Metres and grams."
+    },
+    {
+      "label": "Grande Armée",
+      "kind": "troops",
+      "note": "Napoleon’s army."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Western Europe; about 550,000 km², much larger at its peak (1812).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "terrain": {
+        "value": "Plains, Massif Central, Alps, Pyrenees.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "climate": {
+        "value": "Temperate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "resources": {
+        "value": "Farmland, wine, iron.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "disasters": {
+        "value": "Year Without a Summer (1816).",
+        "year": 1816,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 29 million.",
+        "year": 1800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "urbanisation": {
+        "value": "Paris about 550,000.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "disease": {
+        "value": "Typhus in armies.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "migration": {
+        "value": "Nobles fled abroad (émigrés).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming; early industry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "tradeRoutes": {
+        "value": "British blockade; Continental System (1806).",
+        "year": 1806,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "wealth": {
+        "value": "Church and noble land sold off.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "moneyAndTax": {
+        "value": "Assignats, then the franc (1795) and Bank of France (1800).",
+        "year": 1800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "inequality": {
+        "value": "Privileges of nobles abolished (1789).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Republic (1792), Consulate (1799), Empire (1804), restored monarchy (1814).",
+        "year": 1804,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "keyRulers": {
+        "value": "Robespierre. Napoleon Bonaparte. Louis XVIII. Charles X.",
+        "year": 1799,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "succession": {
+        "value": "Coups and restorations.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "institutions": {
+        "value": "Prefects, lycées, Legion of Honour.",
+        "year": 1802,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "stability": {
+        "value": "Reign of Terror (1793–94); coups.",
+        "year": 1793,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "eliteConflict": {
+        "value": "Revolutionary factions; royalists against republicans.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Mass conscription (levée en masse, 1793).",
+        "year": 1793,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "majorWars": {
+        "value": "French Revolutionary and Napoleonic Wars (1792–1815).",
+        "year": 1792,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "territoryChange": {
+        "value": "Empire reached Rome, Hamburg and the Illyrian coast (1812).",
+        "year": 1812,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "alliancesRivals": {
+        "value": "Fought coalitions led by Britain, Austria, Prussia and Russia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Semaphore telegraph; food canning.",
+        "year": 1795,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "scienceEducation": {
+        "value": "École polytechnique; Lavoisier, Laplace.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "openness": {
+        "value": "Spread revolutionary ideas by conquest.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "communicationTransport": {
+        "value": "Roads; Chappe telegraph.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Catholic; church attacked, then Concordat (1801).",
+        "year": 1801,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "languageWriting": {
+        "value": "French.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "artsArchitecture": {
+        "value": "Neoclassical art (David); Arc de Triomphe.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "socialStructure": {
+        "value": "Citizens equal before the law.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "sharedIdentity": {
+        "value": "Nation and citizenship.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "dailyLife": {
+        "value": "Bread prices drove protests.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Spain, Italian states, Swiss, German states, Netherlands, Britain.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "ideasReligions": {
+        "value": "Liberty, equality, fraternity; Declaration of the Rights of Man (1789).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "colonisation": {
+        "value": "Lost Saint-Domingue (Haiti, 1804); sold Louisiana (1803).",
+        "year": 1803,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Monarchy abolished (1792).",
+        "year": 1792,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "peakPeriod": {
+        "value": "Napoleon’s Empire (1804–12).",
+        "year": 1810,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "declineSignals": {
+        "value": "Russian campaign (1812); defeat at Waterloo (1815).",
+        "year": 1812,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "outcome": {
+        "value": "July Revolution (1830) brought the July Monarchy.",
+        "year": 1830,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: French First Republic.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: French First Republic"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: French First Republic"
+      }
+    }
+  }
+}

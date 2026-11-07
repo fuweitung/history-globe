@@ -27,6 +27,9 @@ type View =
   | { kind: 'region'; props: BorderProps };
 
 const clampYear = (y: number) => normaliseYear(y);
+// Stories are hidden while the new storytelling design is agreed (docs/IMPROVEMENT-PLAN.md).
+// The 11 existing stories stay in src/data/stories.json; set this to true to show them again.
+const STORIES_ENABLED = false;
 
 /** [west, south, east, north] around every point of a route. */
 function routeBounds(r: HistoryRoute): [number, number, number, number] {
@@ -62,7 +65,7 @@ export default function App() {
   const [loadError, setLoadError] = useState<string | null>(null);
   const [retryKey, setRetryKey] = useState(0);
   const [view, setView] = useState<View>(() =>
-    initial.story && STORY_BY_ID.has(initial.story)
+    STORIES_ENABLED && initial.story && STORY_BY_ID.has(initial.story)
       ? { kind: 'story', id: initial.story, step: Math.min(initial.step, STORY_BY_ID.get(initial.story)!.steps.length - 1) }
       : initial.compare
       ? { kind: 'compare', a: initial.compare[0], b: initial.compare[1] }
@@ -493,6 +496,7 @@ export default function App() {
           >
             Civilisations
           </button>
+          {STORIES_ENABLED && (
           <button
             type="button"
             onClick={() => setView((v) => (v.kind === 'stories' || v.kind === 'story' ? { kind: 'none' } : { kind: 'stories' }))}
@@ -503,6 +507,7 @@ export default function App() {
           >
             <svg viewBox="0 0 24 24" className="size-4" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinejoin="round" aria-hidden="true"><path d="M4 5a2 2 0 0 1 2-2h5v17H6a2 2 0 0 0-2 2zM20 5a2 2 0 0 0-2-2h-5v17h5a2 2 0 0 1 2 2z" /></svg>
           </button>
+          )}
           <button
             type="button"
             onClick={() => setView((v) => (v.kind === 'search' ? { kind: 'none' } : { kind: 'search' }))}

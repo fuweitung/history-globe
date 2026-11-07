@@ -1,0 +1,321 @@
+{
+  "id": "east-germany",
+  "name": "East Germany (German Democratic Republic)",
+  "era": "modern",
+  "region": "Central Europe",
+  "startYear": 1949,
+  "endYear": 1990,
+  "capital": "East Berlin",
+  "capitalCoords": [
+    13.4,
+    52.52
+  ],
+  "summary": "The communist state set up in the Soviet zone of Germany in 1949; it built the Berlin Wall (1961) to stop people leaving and joined West Germany in 1990 after peaceful protests.",
+  "wikiTitle": "East Germany",
+  "borderNames": [
+    "East Germany"
+  ],
+  "borderYears": [
+    1949,
+    1990
+  ],
+  "color": "#c03a3a",
+  "knownFor": [
+    {
+      "label": "Berlin Wall",
+      "kind": "monument",
+      "year": 1961,
+      "note": "Divided Berlin until 1989."
+    },
+    {
+      "label": "Trabant",
+      "kind": "tool",
+      "note": "Small plastic-bodied car."
+    },
+    {
+      "label": "Ampelmännchen",
+      "kind": "art",
+      "note": "Traffic-light man."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Eastern Germany; about 108,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "terrain": {
+        "value": "North European Plain, uplands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "climate": {
+        "value": "Temperate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "resources": {
+        "value": "Brown coal (lignite), potash.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "disasters": {
+        "value": "Heavy pollution from lignite.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 17 million and falling.",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "urbanisation": {
+        "value": "East Berlin, Leipzig, Dresden.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "disease": {
+        "value": "Good basic health care.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "migration": {
+        "value": "About 2.7 million fled west before 1961.",
+        "year": 1961,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "State-planned industry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "tradeRoutes": {
+        "value": "Trade with the Soviet bloc (Comecon).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "wealth": {
+        "value": "Richest Eastern Bloc country but behind West Germany.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "moneyAndTax": {
+        "value": "East German mark.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "inequality": {
+        "value": "Party elite had privileges.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A one-party communist state.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "keyRulers": {
+        "value": "Walter Ulbricht. Erich Honecker.",
+        "year": 1949,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "succession": {
+        "value": "Socialist Unity Party (SED).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "institutions": {
+        "value": "Stasi secret police.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "stability": {
+        "value": "Uprising crushed (1953).",
+        "year": 1953,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "eliteConflict": {
+        "value": "Party power struggles.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "National People’s Army; Soviet troops.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "majorWars": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "territoryChange": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "alliancesRivals": {
+        "value": "Warsaw Pact.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "scienceEducation": {
+        "value": "Strong schools; sporting programmes (with doping).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "openness": {
+        "value": "Closed borders; travel banned to the West.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "communicationTransport": {
+        "value": "Railways; Trabant cars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Largely non-religious; Protestant churches sheltered protest.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "languageWriting": {
+        "value": "German.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "artsArchitecture": {
+        "value": "Socialist realist buildings (Karl-Marx-Allee).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "socialStructure": {
+        "value": "Workers’ state; full employment.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "sharedIdentity": {
+        "value": "Weak; many felt German first.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: East Germany"
+      },
+      "dailyLife": {
+        "value": "Prefab flats (Plattenbau); shortages.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "West Germany, Poland, Czechoslovakia.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "ideasReligions": {
+        "value": "Marxism–Leninism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "colonisation": {
+        "value": "Soviet occupation zone (1945–49).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Founded (1949).",
+        "year": 1949,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "peakPeriod": {
+        "value": "1970s under Honecker.",
+        "year": 1971,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "declineSignals": {
+        "value": "Debt and mass protests (1989).",
+        "year": 1989,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "outcome": {
+        "value": "Joined the Federal Republic of Germany on 3 October 1990.",
+        "year": 1990,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: East Germany.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Germany"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: East Germany"
+      }
+    }
+  }
+}

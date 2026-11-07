@@ -2,7 +2,7 @@
 
 How complete History Globe is. **The numbers are calculated by `npm run progress`**; run it after a change and commit the new file. Only the Roadmap section below is edited by hand.
 
-_Last updated: 2026-11-06_
+_Last updated: 2026-11-07_
 
 <!-- roadmap:start -->
 ## Roadmap
@@ -33,6 +33,13 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 - [x] Map blanks round 5: 16 medieval and early-modern entries and 11 name links; all years 82% → 84% (#16)
 - [x] Map blanks round 6: Iran (since 1979), Spain, Norway, Italy, Dutch colonial empire, Libya, Kazakhstan, Angola, Nigeria, Tanzania, Paraguay, Rouran, Northern Yuan, Cumans, early South India (#34)
 - [x] Map blanks round 7: 129 modern countries with full 43-item entries (Europe 36, Africa 37, Americas 24, Middle East and Central Asia 17, Asia 10, Oceania 5); colonies and territories linked to their rulers by date; modern era now 95% (#37)
+- [x] Map gaps round 8: Germany 1918–45, East Germany, Napoleonic France, Prussia, Old Swiss Confederacy, German and Italian states; about 90 colonies and territories linked by date; modern era 95% → 97%
+- [ ] Map gaps still open (each needs a real entry, not a guessed link):
+  - 1800s African kingdoms (Mossi, Dahomey, Buganda/Bunyoro, Rwanda and Burundi kingdoms, Lozi, Ndebele, Toucouleur, Samori’s empire, Wadai, Zanzibar sultanate, Boer republics, Kong, Segu/Kaarta, Funj)
+  - Arabia 1920 (Kingdom of Hejaz, Rashidi Emirate of Ha’il)
+  - Post-Angkor Cambodia, Lao and Shan states, Zand Persia, the kingdoms of England, Scotland and Ireland
+  - About 1,400 Indigenous nations named on the 1492–1900 maps (North America, Australia, South America): link each only after checking its culture area in a source
+  - Western Sahara (disputed) and Antarctica (no state) stay unlinked on purpose
 - [ ] Optional last gaps: one-map oddities (Great Khanate 1400, Canada 1815), Libya, Kazakhstan, Angola, Dutch East Indies, Xinjiang
 - [ ] Britannica check of the 20 major civilisations (REVIEW.md, Priority 1)
 
@@ -48,24 +55,24 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 
 | Area | Progress | Detail |
 |---|---|---|
-| Map coverage (all years) | `██████████████████░░` 89% | Named land on the border maps that is linked to a civilisation |
+| Map coverage (all years) | `██████████████████░░` 90% | Named land on the border maps that is linked to a civilisation |
 | · Prehistory | `██████████████████░░` 92% |  |
 | · Ancient | `██████████████████░░` 91% |  |
 | · Medieval | `█████████████████░░░` 85% |  |
-| · Early modern | `████████████████░░░░` 79% |  |
-| · Modern | `███████████████████░` 95% |  |
-| Civilisations shown on the map | `███████████████████░` 97% | 370 of 382; the rest fly to their capital |
-| Checklist filled in | `████████████████████` 100% | 16426 of 16426 items (382 × 43) |
-| Answers with real detail | `████████████░░░░░░░░` 62% | 5906 answers are still under 40 characters |
-| Fact-checked against a source | `████░░░░░░░░░░░░░░░░` 22% | 3559 items say “(checked …)”; the rest still need a second look |
-| Civilisations with events | `████████████████████` 100% | 382 of 382 |
-| Civilisations with famous people | `███████████████░░░░░` 75% | 286 of 382; many prehistoric cultures have no known names |
-| Civilisations linked to others | `████████████████████` 100% | 382 of 382 (succeeded, conquered, traded with…) |
-| Civilisation pictures | `███████████████████░` 97% | 371 of 382 |
-| “Known for” pictures | `██████████░░░░░░░░░░` 52% | 629 of 1206 items |
+| · Early modern | `████████████████░░░░` 80% |  |
+| · Modern | `███████████████████░` 97% |  |
+| Civilisations shown on the map | `███████████████████░` 97% | 380 of 392; the rest fly to their capital |
+| Checklist filled in | `████████████████████` 100% | 16856 of 16856 items (392 × 43) |
+| Answers with real detail | `████████████░░░░░░░░` 62% | 6168 answers are still under 40 characters |
+| Fact-checked against a source | `████░░░░░░░░░░░░░░░░` 21% | 3559 items say “(checked …)”; the rest still need a second look |
+| Civilisations with events | `████████████████████` 100% | 392 of 392 |
+| Civilisations with famous people | `███████████████░░░░░` 75% | 295 of 392; many prehistoric cultures have no known names |
+| Civilisations linked to others | `████████████████████` 100% | 392 of 392 (succeeded, conquered, traded with…) |
+| Civilisation pictures | `███████████████████░` 97% | 381 of 392 |
+| “Known for” pictures | `██████████░░░░░░░░░░` 51% | 629 of 1236 items |
 
-Certainty of all items: 10304 confirmed · 5674 estimated · 448 disputed.
-Also in the app: 766 events · 369 people · 18 routes · 11 stories.
+Certainty of all items: 10717 confirmed · 5684 estimated · 455 disputed.
+Also in the app: 788 events · 381 people · 18 routes · 11 stories.
 
 ## Map coverage by year
 
@@ -107,20 +114,20 @@ Also in the app: 766 events · 369 people · 18 routes · 11 stories.
 | 1530 | `███████████████░░░░░` 75% |
 | 1600 | `███████████████░░░░░` 73% |
 | 1650 | `████████████████░░░░` 79% |
-| 1700 | `████████████████░░░░` 79% |
-| 1715 | `████████████████░░░░` 81% |
-| 1783 | `█████████████████░░░` 83% |
-| 1800 | `█████████████████░░░` 84% |
-| 1815 | `██████████████████░░` 89% |
+| 1700 | `████████████████░░░░` 80% |
+| 1715 | `█████████████████░░░` 83% |
+| 1783 | `██████████████████░░` 88% |
+| 1800 | `██████████████████░░` 90% |
+| 1815 | `██████████████████░░` 92% |
 | 1878 | `███████████████████░` 96% |
 | 1880 | `███████████████████░` 96% |
-| 1900 | `███████████████████░` 96% |
+| 1900 | `███████████████████░` 97% |
 | 1914 | `████████████████████` 100% |
 | 1920 | `████████████████████` 99% |
-| 1930 | `████████████████████` 98% |
-| 1938 | `████████████████████` 98% |
-| 1945 | `██████████████████░░` 91% |
-| 1960 | `██████████████████░░` 91% |
+| 1930 | `████████████████████` 100% |
+| 1938 | `████████████████████` 100% |
+| 1945 | `██████████████████░░` 92% |
+| 1960 | `██████████████████░░` 92% |
 | 1994 | `████████████████████` 100% |
 | 2000 | `████████████████████` 100% |
 | 2010 | `████████████████████` 100% |

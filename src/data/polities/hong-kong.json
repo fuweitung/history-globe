@@ -1,0 +1,320 @@
+{
+  "id": "hong-kong",
+  "name": "Hong Kong",
+  "era": "modern",
+  "region": "East Asia",
+  "startYear": 1841,
+  "endYear": null,
+  "capital": "Victoria (Central)",
+  "capitalCoords": [
+    114.16,
+    22.28
+  ],
+  "summary": "A British colony from 1841 (Hong Kong Island), enlarged in 1860 and 1898; returned to China in 1997 as a Special Administrative Region under “one country, two systems”, with its own flag, laws and currency.",
+  "wikiTitle": "Hong Kong",
+  "borderNames": [
+    "Hong Kong"
+  ],
+  "borderYears": [
+    1841,
+    null
+  ],
+  "color": "#c0303a",
+  "knownFor": [
+    {
+      "label": "Victoria Harbour skyline",
+      "kind": "monument",
+      "note": "One of the densest skylines in the world."
+    },
+    {
+      "label": "Dim sum",
+      "kind": "food",
+      "note": "Cantonese small dishes with tea."
+    },
+    {
+      "label": "Hong Kong cinema",
+      "kind": "art",
+      "note": "Bruce Lee, Jackie Chan, Wong Kar-wai."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Southern China at the mouth of the Pearl River; about 1,100 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "terrain": {
+        "value": "Hilly islands and peninsula; little flat land.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "climate": {
+        "value": "Subtropical with typhoons.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "resources": {
+        "value": "A deep natural harbour.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "disasters": {
+        "value": "Typhoons; Shek Kip Mei fire (1953) led to public housing.",
+        "year": 1953,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 7.5 million.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "urbanisation": {
+        "value": "One of the most densely populated places on Earth.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "disease": {
+        "value": "Plague (1894); SARS (2003).",
+        "year": 2003,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "migration": {
+        "value": "Refugees from mainland China, especially 1949–62; emigration before 1997 and after 2020.",
+        "year": 1949,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Trade, finance, shipping; manufacturing until the 1980s.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "tradeRoutes": {
+        "value": "Gateway between China and the world.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "wealth": {
+        "value": "A high-income economy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "moneyAndTax": {
+        "value": "Hong Kong dollar (pegged to the US dollar since 1983); low taxes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "inequality": {
+        "value": "Very high housing costs; large gap between rich and poor.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "British crown colony under a governor until 1997; since then a Special Administrative Region of China.",
+        "year": 1997,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "keyRulers": {
+        "value": "Governors such as Murray MacLehose and Chris Patten; Chief Executives since 1997.",
+        "year": 1971,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "succession": {
+        "value": "Governors appointed by London; Chief Executives chosen by a committee and approved by Beijing.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "institutions": {
+        "value": "Basic Law (1997); independent courts under common law.",
+        "year": 1997,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "stability": {
+        "value": "Riots (1967); protests (2014, 2019); National Security Law (2020).",
+        "year": 2019,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "eliteConflict": {
+        "value": "Pro-democracy and pro-Beijing camps.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Hong Kong"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "British garrison until 1997; Chinese garrison since.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "majorWars": {
+        "value": "First Opium War (1839–42); Japanese occupation (1941–45).",
+        "year": 1941,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "territoryChange": {
+        "value": "Kowloon added (1860); New Territories leased for 99 years (1898).",
+        "year": 1898,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "alliancesRivals": {
+        "value": "Defence and foreign affairs belong to the sovereign power.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few; a leading place for finance and logistics.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "scienceEducation": {
+        "value": "University of Hong Kong (1911).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "openness": {
+        "value": "A free port since 1841.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "communicationTransport": {
+        "value": "MTR metro; Star Ferry; one of the busiest container ports.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Chinese folk religion, Buddhism, Taoism, Christianity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "languageWriting": {
+        "value": "Cantonese and English (official); traditional Chinese characters.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "artsArchitecture": {
+        "value": "Colonial buildings and skyscrapers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "socialStructure": {
+        "value": "Mostly Cantonese-speaking Chinese.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "sharedIdentity": {
+        "value": "A distinct Hong Kong identity alongside a Chinese one.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "dailyLife": {
+        "value": "Small high-rise flats; cha chaan teng cafés.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Shenzhen (mainland China), Macau.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "ideasReligions": {
+        "value": "Rule of law and free trade; East meets West.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "colonisation": {
+        "value": "British colony 1841–1997 (Japanese occupation 1941–45).",
+        "year": 1841,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Free port founded (1841).",
+        "year": 1841,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "peakPeriod": {
+        "value": "Economic boom (1960s–90s).",
+        "year": 1970,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "declineSignals": {
+        "value": "Debate over lost freedoms since 2020.",
+        "year": 2020,
+        "certainty": "disputed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "outcome": {
+        "value": "Part of China since 1997 with its own system until 2047.",
+        "year": 1997,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Hong Kong.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hong Kong"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Hong Kong"
+      }
+    }
+  }
+}

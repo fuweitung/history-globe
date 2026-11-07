@@ -1844,7 +1844,9 @@
   "died": 1519,
   "role": "artist",
   "description": "Italian polymath.",
-  "polityIds": [],
+  "polityIds": [
+   "italian-states"
+  ],
   "place": [
    11.25,
    43.77
@@ -2140,7 +2142,9 @@
   "died": 1642,
   "role": "scientist",
   "description": "Italian physicist and astronomer.",
-  "polityIds": [],
+  "polityIds": [
+   "italian-states"
+  ],
   "place": [
    10.4,
    43.72
@@ -2508,7 +2512,8 @@
   "description": "Emperor of the French.",
   "polityIds": [
    "kingdom-of-france",
-   "french-colonial-empire"
+   "french-colonial-empire",
+   "france-1792-1830"
   ],
   "place": [
    2.35,
@@ -2893,7 +2898,8 @@
   "description": "German-born theoretical physicist.",
   "polityIds": [
    "german-empire",
-   "united-states"
+   "united-states",
+   "germany-1918-1945"
   ],
   "place": [
    13.4,
@@ -5651,7 +5657,8 @@
   "role": "military",
   "description": "General who helped unify Italy.",
   "polityIds": [
-   "italy"
+   "italy",
+   "italian-states"
   ],
   "place": [
    7.27,
@@ -7532,5 +7539,213 @@
   ],
   "wikiTitle": "Sālote Tupou III",
   "source": "Wikipedia: Sālote Tupou III"
+ },
+ {
+  "id": "huldrych-zwingli",
+  "name": "Huldrych Zwingli",
+  "born": 1484,
+  "died": 1531,
+  "role": "religious",
+  "description": "Leader of the Swiss Reformation in Zürich.",
+  "polityIds": [
+   "old-swiss-confederacy"
+  ],
+  "place": [
+   8.54,
+   47.37
+  ],
+  "wikiTitle": "Huldrych Zwingli",
+  "source": "Wikipedia: Huldrych Zwingli"
+ },
+ {
+  "id": "robespierre",
+  "name": "Maximilien Robespierre",
+  "born": 1758,
+  "died": 1794,
+  "role": "ruler",
+  "description": "Leading figure of the Reign of Terror.",
+  "polityIds": [
+   "france-1792-1830",
+   "kingdom-of-france"
+  ],
+  "place": [
+   2.35,
+   48.86
+  ],
+  "wikiTitle": "Maximilien Robespierre",
+  "source": "Wikipedia: Maximilien Robespierre"
+ },
+ {
+  "id": "frederick-the-great",
+  "name": "Frederick the Great",
+  "born": 1712,
+  "died": 1786,
+  "role": "ruler",
+  "description": "King of Prussia (1740–86); soldier and “enlightened” ruler.",
+  "polityIds": [
+   "kingdom-of-prussia"
+  ],
+  "place": [
+   13.04,
+   52.4
+  ],
+  "wikiTitle": "Frederick the Great",
+  "source": "Wikipedia: Frederick the Great"
+ },
+ {
+  "id": "otto-von-bismarck",
+  "name": "Otto von Bismarck",
+  "born": 1815,
+  "died": 1898,
+  "role": "ruler",
+  "description": "Prussian chancellor who united Germany (1871).",
+  "polityIds": [
+   "kingdom-of-prussia",
+   "german-empire"
+  ],
+  "place": [
+   13.4,
+   52.52
+  ],
+  "wikiTitle": "Otto von Bismarck",
+  "source": "Wikipedia: Otto von Bismarck"
+ },
+ {
+  "id": "goethe",
+  "name": "Johann Wolfgang von Goethe",
+  "born": 1749,
+  "died": 1832,
+  "role": "writer",
+  "description": "Poet and author of Faust, from Weimar.",
+  "polityIds": [
+   "german-states"
+  ],
+  "place": [
+   11.33,
+   50.98
+  ],
+  "wikiTitle": "Johann Wolfgang von Goethe",
+  "source": "Wikipedia: Johann Wolfgang von Goethe"
+ },
+ {
+  "id": "beethoven",
+  "name": "Ludwig van Beethoven",
+  "born": 1770,
+  "died": 1827,
+  "role": "artist",
+  "description": "Composer born in Bonn, worked in Vienna.",
+  "polityIds": [
+   "german-states",
+   "habsburg-monarchy"
+  ],
+  "place": [
+   7.1,
+   50.73
+  ],
+  "wikiTitle": "Ludwig van Beethoven",
+  "source": "Wikipedia: Ludwig van Beethoven"
+ },
+ {
+  "id": "lorenzo-de-medici",
+  "name": "Lorenzo de’ Medici",
+  "born": 1449,
+  "died": 1492,
+  "role": "ruler",
+  "description": "Ruler of Florence and patron of Renaissance artists.",
+  "polityIds": [
+   "italian-states"
+  ],
+  "place": [
+   11.25,
+   43.77
+  ],
+  "wikiTitle": "Lorenzo de’ Medici",
+  "source": "Wikipedia: Lorenzo de’ Medici"
+ },
+ {
+  "id": "adolf-hitler",
+  "name": "Adolf Hitler",
+  "born": 1889,
+  "died": 1945,
+  "role": "ruler",
+  "description": "Nazi dictator of Germany (1933–45); started the Second World War in Europe and ordered the Holocaust.",
+  "polityIds": [
+   "germany-1918-1945"
+  ],
+  "place": [
+   13.4,
+   52.52
+  ],
+  "wikiTitle": "Adolf Hitler",
+  "source": "Wikipedia: Adolf Hitler"
+ },
+ {
+  "id": "friedrich-ebert",
+  "name": "Friedrich Ebert",
+  "born": 1871,
+  "died": 1925,
+  "role": "ruler",
+  "description": "First president of the Weimar Republic.",
+  "polityIds": [
+   "germany-1918-1945"
+  ],
+  "place": [
+   13.4,
+   52.52
+  ],
+  "wikiTitle": "Friedrich Ebert",
+  "source": "Wikipedia: Friedrich Ebert"
+ },
+ {
+  "id": "erich-honecker",
+  "name": "Erich Honecker",
+  "born": 1912,
+  "died": 1994,
+  "role": "ruler",
+  "description": "Leader of East Germany (1971–89).",
+  "polityIds": [
+   "east-germany"
+  ],
+  "place": [
+   13.4,
+   52.52
+  ],
+  "wikiTitle": "Erich Honecker",
+  "source": "Wikipedia: Erich Honecker"
+ },
+ {
+  "id": "luis-munoz-marin",
+  "name": "Luis Muñoz Marín",
+  "born": 1898,
+  "died": 1980,
+  "role": "ruler",
+  "description": "First elected governor of Puerto Rico; architect of the Commonwealth.",
+  "polityIds": [
+   "puerto-rico"
+  ],
+  "place": [
+   -66.11,
+   18.47
+  ],
+  "wikiTitle": "Luis Muñoz Marín",
+  "source": "Wikipedia: Luis Muñoz Marín"
+ },
+ {
+  "id": "hans-egede",
+  "name": "Hans Egede",
+  "born": 1686,
+  "died": 1758,
+  "role": "religious",
+  "description": "Norwegian-Danish missionary who began the colonisation of Greenland.",
+  "polityIds": [
+   "greenland",
+   "denmark-norway"
+  ],
+  "place": [
+   -51.72,
+   64.18
+  ],
+  "wikiTitle": "Hans Egede",
+  "source": "Wikipedia: Hans Egede"
  }
 ]

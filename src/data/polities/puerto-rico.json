@@ -1,0 +1,320 @@
+{
+  "id": "puerto-rico",
+  "name": "Puerto Rico",
+  "era": "modern",
+  "region": "Caribbean",
+  "startYear": 1898,
+  "endYear": null,
+  "capital": "San Juan",
+  "capitalCoords": [
+    -66.11,
+    18.47
+  ],
+  "summary": "A Caribbean island ruled by Spain from 1508 and by the United States since 1898; its people are US citizens (1917), and it became a self-governing Commonwealth in 1952 without becoming a US state.",
+  "wikiTitle": "Puerto Rico",
+  "borderNames": [
+    "Puerto Rico"
+  ],
+  "borderYears": [
+    1898,
+    null
+  ],
+  "color": "#3a6ab0",
+  "knownFor": [
+    {
+      "label": "El Morro",
+      "kind": "monument",
+      "note": "Spanish fortress in Old San Juan."
+    },
+    {
+      "label": "Salsa and reggaeton",
+      "kind": "art",
+      "note": "Music with roots in Puerto Rico."
+    },
+    {
+      "label": "Mofongo",
+      "kind": "food",
+      "note": "Mashed fried plantains."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Eastern Greater Antilles; about 9,100 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "terrain": {
+        "value": "Mountains, rainforest (El Yunque), coastal plains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "climate": {
+        "value": "Tropical.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "resources": {
+        "value": "Sugar, coffee; later industry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "disasters": {
+        "value": "Hurricane Maria (2017) caused about 3,000 deaths.",
+        "year": 2017,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 3.2 million, falling.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "urbanisation": {
+        "value": "San Juan metropolitan area.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "disease": {
+        "value": "Dengue.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "migration": {
+        "value": "Large migration to New York and Florida (1940s–).",
+        "year": 1946,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Pharmaceuticals, manufacturing, tourism.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "tradeRoutes": {
+        "value": "Within the US customs area.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "wealth": {
+        "value": "Poorer than any US state.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "moneyAndTax": {
+        "value": "US dollar.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "inequality": {
+        "value": "High poverty rate.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Commonwealth (self-governing US territory) since 1952.",
+        "year": 1952,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "keyRulers": {
+        "value": "Luis Muñoz Marín, first elected governor (1949).",
+        "year": 1949,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "succession": {
+        "value": "Elected governors.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "institutions": {
+        "value": "Legislative Assembly; a non-voting member of the US Congress.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "stability": {
+        "value": "Nationalist uprising (1950); debt crisis (2016).",
+        "year": 1950,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "eliteConflict": {
+        "value": "Parties split on statehood, Commonwealth or independence.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Puerto Rico"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "US military bases (Vieques until 2003).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "majorWars": {
+        "value": "Spanish–American War (1898).",
+        "year": 1898,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "territoryChange": {
+        "value": "None.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "alliancesRivals": {
+        "value": "Part of the US system.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Few.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "scienceEducation": {
+        "value": "University of Puerto Rico; Arecibo telescope (1963–2020).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "openness": {
+        "value": "Open to US trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "communicationTransport": {
+        "value": "Ports and airports.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Catholic and Protestant.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "languageWriting": {
+        "value": "Spanish and English.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "artsArchitecture": {
+        "value": "Colonial Old San Juan.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "socialStructure": {
+        "value": "Mixed Taíno, African and Spanish ancestry.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "sharedIdentity": {
+        "value": "Strong Puerto Rican identity.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "dailyLife": {
+        "value": "Houses; rice, beans, plantains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Dominican Republic, US Virgin Islands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "ideasReligions": {
+        "value": "Status debate: statehood or independence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "colonisation": {
+        "value": "Spanish colony 1508–1898; US territory since 1898.",
+        "year": 1508,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "US rule (1898); citizenship (1917).",
+        "year": 1917,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "peakPeriod": {
+        "value": "Operation Bootstrap industrial growth (1950s–70s).",
+        "year": 1950,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "declineSignals": {
+        "value": "Debt crisis (2016) and population loss.",
+        "year": 2016,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "outcome": {
+        "value": "Still a US territory.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Puerto Rico.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Puerto Rico"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Puerto Rico"
+      }
+    }
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "id": "italian-states",
+  "name": "Italian states before unification",
+  "era": "early_modern",
+  "region": "Southern Europe",
+  "startYear": 1454,
+  "endYear": 1861,
+  "capital": "Rome, Naples, Turin, Florence and others",
+  "capitalCoords": [
+    12.48,
+    41.89
+  ],
+  "summary": "The separate states of the Italian peninsula from the Renaissance to unification: the Papal States, the Kingdom of Naples and Sicily, Piedmont-Sardinia, Tuscany, Genoa and smaller duchies, often fought over by France, Spain and Austria.",
+  "wikiTitle": "Italian unification",
+  "borderNames": [],
+  "borderYears": [
+    1454,
+    1860
+  ],
+  "borderNameYears": {
+    "Papal States": [
+      1454,
+      1860
+    ],
+    "Kingdom of the Two Sicilies": [
+      1734,
+      1860
+    ],
+    "Kingdom of Sardinia": [
+      1720,
+      1860
+    ],
+    "Sardinia-Piedmont": [
+      1720,
+      1860
+    ],
+    "Savoy": [
+      1454,
+      1720
+    ],
+    "Tuscany": [
+      1569,
+      1860
+    ],
+    "Florence": [
+      1454,
+      1569
+    ],
+    "Genoa": [
+      1454,
+      1797
+    ],
+    "Modena": [
+      1454,
+      1860
+    ],
+    "Parma": [
+      1545,
+      1860
+    ],
+    "Lucca": [
+      1454,
+      1847
+    ],
+    "Massa": [
+      1454,
+      1829
+    ],
+    "Pontremoli": [
+      1650,
+      1847
+    ],
+    "Fivizzano": [
+      1454,
+      1847
+    ]
+  },
+  "color": "#3a8a4a",
+  "knownFor": [
+    {
+      "label": "Renaissance",
+      "kind": "art",
+      "note": "Florence, Rome and Venice led European art."
+    },
+    {
+      "label": "Opera",
+      "kind": "art",
+      "year": 1600,
+      "note": "Born in Florence around 1600."
+    },
+    {
+      "label": "Banking",
+      "kind": "idea",
+      "note": "Medici and Genoese bankers."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Italian peninsula and islands; about 300,000 km².",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "terrain": {
+        "value": "Alps, Po valley, Apennines, islands.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "climate": {
+        "value": "Mediterranean.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "resources": {
+        "value": "Farmland, silk, olive oil.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "disasters": {
+        "value": "Plague (1630, 1656); Vesuvius eruptions.",
+        "year": 1630,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "About 18 million.",
+        "year": 1800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "urbanisation": {
+        "value": "Naples, Rome, Milan, Florence, Genoa.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "disease": {
+        "value": "Malaria; plague.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "migration": {
+        "value": "Emigration from the south later.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Farming, silk, banking, trade.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "tradeRoutes": {
+        "value": "Genoa, Livorno, Naples ports.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "wealth": {
+        "value": "Rich cities; poor countryside.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "moneyAndTax": {
+        "value": "Florins, scudi, ducats.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "inequality": {
+        "value": "Great estates in the south.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Kingdoms, duchies, republics and the papal monarchy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "keyRulers": {
+        "value": "Lorenzo de’ Medici. Popes. Victor Emmanuel II. Cavour.",
+        "year": 1469,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "succession": {
+        "value": "Dynasties; elected popes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "institutions": {
+        "value": "Papal Curia; city councils.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "stability": {
+        "value": "Italian Wars (1494–1559); revolutions (1820, 1848).",
+        "year": 1494,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "eliteConflict": {
+        "value": "Noble families and foreign powers.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "Mercenary armies (condottieri).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "majorWars": {
+        "value": "Italian Wars; wars of independence (1848–61).",
+        "year": 1494,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "territoryChange": {
+        "value": "Borders changed often with foreign wars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "alliancesRivals": {
+        "value": "Spain, France and Austria competed for control.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "Double-entry bookkeeping; barometer (Torricelli, 1643).",
+        "year": 1643,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "scienceEducation": {
+        "value": "Universities (Bologna, Padua); Galileo.",
+        "year": 1609,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "openness": {
+        "value": "Major trading cities.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "communicationTransport": {
+        "value": "Sea trade; roads.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Catholic; seat of the papacy.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "languageWriting": {
+        "value": "Italian dialects; Latin.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "artsArchitecture": {
+        "value": "Leonardo, Michelangelo, Raphael; Baroque Rome.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "socialStructure": {
+        "value": "Nobles, merchants, peasants.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "sharedIdentity": {
+        "value": "Shared culture but no single state.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "dailyLife": {
+        "value": "Pasta, bread, wine.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "France, Swiss, Austria, Venice, Ottoman Empire across the sea.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "ideasReligions": {
+        "value": "Humanism; Counter-Reformation.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "colonisation": {
+        "value": "Parts were ruled by Spain (1504–1713) and Austria (1714–1859).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Peace of Lodi balanced the states (1454).",
+        "year": 1454,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "peakPeriod": {
+        "value": "High Renaissance (1490–1530).",
+        "year": 1500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "declineSignals": {
+        "value": "Foreign domination after 1559.",
+        "year": 1559,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "outcome": {
+        "value": "United as the Kingdom of Italy (1861).",
+        "year": 1861,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Italian unification.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Italian unification"
+      },
+      "overallCertainty": {
+        "value": "Basic facts are well documented; some figures are estimates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Italian unification"
+      }
+    }
+  }
+}
