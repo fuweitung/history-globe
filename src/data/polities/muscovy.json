@@ -52,10 +52,10 @@
         "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
       },
       "terrain": {
-        "value": "Forested plains with many rivers (Volga, Oka, Dnieper) that served as trade and travel routes.",
+        "value": "Dense forest to the east and a large network of rivers, such as the Volga and Oka, that helped trade.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
+        "source": "Wikipedia: Grand Duchy of Moscow (checked 8 Nov 2026)"
       },
       "climate": {
         "value": "Long, cold winters and a short growing season.",
@@ -64,16 +64,16 @@
         "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
       },
       "resources": {
-        "value": "Furs (especially sable from Siberia), timber, honey, wax, grain, salt.",
+        "value": "Furs were the main export; fish and salt were traded inside the country.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
+        "source": "Wikipedia: Grand Duchy of Moscow (checked 8 Nov 2026)"
       },
       "disasters": {
-        "value": "Famine of 1601–1603 killed perhaps a third of the population; plague; frequent town fires.",
-        "year": 1601,
-        "certainty": "estimated",
-        "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
+        "value": "The Black Death reached Russia in 1352–1353 and killed perhaps a quarter of the population.",
+        "year": 1352,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Duchy of Moscow (checked 8 Nov 2026)"
       }
     },
     "population": {
@@ -90,10 +90,10 @@
         "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
       },
       "disease": {
-        "value": "Plague epidemics (1654–55 in Moscow).",
-        "year": 1654,
+        "value": "The Black Death (1352–1353), which killed Grand Prince Simeon and Metropolitan Theognostus.",
+        "year": 1352,
         "certainty": "confirmed",
-        "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
+        "source": "Wikipedia: Grand Duchy of Moscow (checked 8 Nov 2026)"
       },
       "migration": {
         "value": "Peasants fled south and east to escape serfdom, becoming Cossacks; settlers moved into Siberia.",
@@ -104,10 +104,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming worked by peasants who were increasingly tied to the land as serfs; fur trade.",
+        "value": "Farming by peasants, most of whom stayed free until the 16th century, and river trade.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
+        "source": "Wikipedia: Grand Duchy of Moscow (checked 8 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "The Volga route to Persia; the White Sea port of Arkhangelsk traded with England and Holland (from 1550s).",
@@ -116,10 +116,10 @@
         "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
       },
       "wealth": {
-        "value": "Wealth came from land, furs and the tsar’s monopolies.",
+        "value": "Collecting tribute for the Mongol khan from other Russian princes made Moscow rich.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Duchy of Moscow (checked 8 Nov 2026)"
       },
       "moneyAndTax": {
         "value": "The ruble; taxes collected per household; the Copper Riot (1662) followed debasing the coinage.",
@@ -136,16 +136,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "An autocratic monarchy: grand princes, then tsars (from 1547).",
+        "value": "A monarchy of grand princes; Ivan IV was crowned the first Russian tsar in 1547.",
         "year": 1547,
         "certainty": "confirmed",
-        "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
+        "source": "Wikipedia: Grand Duchy of Moscow (checked 8 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Ivan I Kalita. Dmitry Donskoy. Ivan III the Great (1462–1505). Ivan IV the Terrible (1533–1584). Michael Romanov (1613). Peter I (1682–1725).",
+        "value": "Ivan I Kalita. Dmitry Donskoy. Ivan III (1462–1505). Vasily III. Ivan IV (1533–1584).",
         "year": 1462,
         "certainty": "confirmed",
-        "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
+        "source": "Wikipedia: Grand Duchy of Moscow (checked 8 Nov 2026)"
       },
       "succession": {
         "value": "Father to son; the end of the Rurik line in 1598 led to the Time of Troubles until the Romanovs were elected in 1613.",
@@ -166,10 +166,10 @@
         "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
       },
       "eliteConflict": {
-        "value": "Conflict between the tsars and old noble families (boyars).",
-        "year": 1565,
+        "value": "Powerful boyar clans, such as the Belskys, Glinskys and Shuyskys, competed for influence while Ivan IV was a child.",
+        "year": 1538,
         "certainty": "confirmed",
-        "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
+        "source": "Wikipedia: Grand Duchy of Moscow (checked 8 Nov 2026)"
       }
     },
     "military": {
@@ -180,22 +180,22 @@
         "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
       },
       "majorWars": {
-        "value": "Battle of Kulikovo against the Golden Horde (1380); conquest of Kazan (1552) and Astrakhan (1556); Livonian War (1558–83); wars with Poland and Sweden.",
-        "year": 1552,
+        "value": "Defeated Mamai's Tatar army at the Battle of Kulikovo (1380); long wars with Lithuania ended in 1503.",
+        "year": 1380,
         "certainty": "confirmed",
-        "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
+        "source": "Wikipedia: Grand Duchy of Moscow (checked 8 Nov 2026)"
       },
       "territoryChange": {
-        "value": "Absorbed Novgorod (1478) and Tver; crossed Siberia to the Pacific by 1639; gained left-bank Ukraine (1654–1667).",
-        "year": 1639,
+        "value": "Annexed Novgorod (1478) and took Tver (1485); under Ivan III the state tripled in size.",
+        "year": 1478,
         "certainty": "confirmed",
-        "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
+        "source": "Wikipedia: Grand Duchy of Moscow (checked 8 Nov 2026)"
       },
       "alliancesRivals": {
-        "value": "Tributary to the Golden Horde until 1480 (Great Stand on the Ugra River); rival of Poland–Lithuania and Sweden.",
+        "value": "Under Golden Horde rule until Ivan III defeated the Tatars in 1480; its great rival was the Grand Duchy of Lithuania.",
         "year": 1480,
         "certainty": "confirmed",
-        "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
+        "source": "Wikipedia: Grand Duchy of Moscow (checked 8 Nov 2026)"
       }
     },
     "technology": {
@@ -218,42 +218,42 @@
         "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
       },
       "communicationTransport": {
-        "value": "Rivers in summer and sledges on snow in winter; the yam post relay system, taken from the Mongols.",
+        "value": "Rivers carried trade; people paid for a postal relay service called the yam.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Grand Duchy of Moscow"
+        "source": "Wikipedia: Grand Duchy of Moscow (checked 8 Nov 2026)"
       }
     },
     "culture": {
       "religion": {
-        "value": "Russian Orthodox Christianity; Moscow saw itself as the “Third Rome” after Constantinople fell; the Church split (Old Believers) in the 1650s–60s.",
-        "year": 1666,
+        "value": "Russian Orthodox Christianity; Moscow became its spiritual centre, and Russian bishops chose their own metropolitan in 1448.",
+        "year": 1448,
         "certainty": "confirmed",
-        "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
+        "source": "Wikipedia: Grand Duchy of Moscow (checked 8 Nov 2026)"
       },
       "languageWriting": {
-        "value": "Russian, written in Cyrillic; Church Slavonic for religion.",
+        "value": "Church Slavonic was the literary language; government offices wrote in a form closer to everyday speech.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
+        "source": "Wikipedia: Grand Duchy of Moscow (checked 8 Nov 2026)"
       },
       "artsArchitecture": {
-        "value": "Icon painting (Andrei Rublev), onion-domed churches, the Kremlin cathedrals.",
+        "value": "The Moscow school of icon painting led by Andrei Rublev; stone churches in the Kremlin, such as the Dormition Cathedral (1475–1479).",
         "year": 1410,
         "certainty": "confirmed",
-        "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
+        "source": "Wikipedia: Grand Duchy of Moscow (checked 8 Nov 2026)"
       },
       "socialStructure": {
-        "value": "Tsar, boyars, service nobles, clergy, townspeople and a large majority of peasants, more and more of them serfs.",
+        "value": "Grand prince, boyars, a service class of nobles, clergy, merchants and a vast majority of peasants.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
+        "source": "Wikipedia: Grand Duchy of Moscow (checked 8 Nov 2026)"
       },
       "sharedIdentity": {
-        "value": "Orthodox faith and loyalty to the tsar bound the realm together.",
+        "value": "The Orthodox faith and the idea of a shared \"Russian land\".",
         "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Duchy of Moscow (checked 8 Nov 2026)"
       },
       "dailyLife": {
         "value": "Wooden log houses (izba) with a big stove; rye bread, cabbage soup (shchi), kasha and kvass.",
@@ -264,36 +264,36 @@
     },
     "connections": {
       "neighbours": {
-        "value": "The Golden Horde and its successor khanates, Poland–Lithuania, Sweden, the Crimean Khanate, the Ottomans and Qing China.",
+        "value": "The Golden Horde, the Khanate of Kazan, the Grand Duchy of Lithuania, Novgorod and Tver.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
+        "source": "Wikipedia: Grand Duchy of Moscow (checked 8 Nov 2026)"
       },
       "ideasReligions": {
-        "value": "Orthodoxy from Byzantium; later Western technology and military methods.",
-        "year": 1630,
-        "certainty": "estimated",
-        "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
+        "value": "Orthodox Christianity; after Constantinople fell in 1453, Moscow adopted the idea of an Orthodox tsardom.",
+        "year": 1453,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Duchy of Moscow (checked 8 Nov 2026)"
       },
       "colonisation": {
-        "value": "Expanded across Siberia through Cossack expeditions, taking furs as tribute (yasak) from Indigenous peoples.",
-        "year": 1582,
+        "value": "Ivan III campaigned east against the principalities of Yugra, whose princes swore allegiance in 1483.",
+        "year": 1483,
         "certainty": "confirmed",
-        "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
+        "source": "Wikipedia: Grand Duchy of Moscow (checked 8 Nov 2026)"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Moscow’s princes collected tribute for the Mongol khans and used that role to dominate other Russian principalities.",
+        "value": "Ivan I collected tribute for the Mongol khan from other Russian princes, which increased Moscow's wealth.",
         "year": 1328,
         "certainty": "confirmed",
-        "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
+        "source": "Wikipedia: Grand Duchy of Moscow (checked 8 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Under Ivan III and Ivan IV it tripled in size and took the title of tsar.",
+        "value": "Under Ivan III the state tripled in size; in 1547 Ivan IV was crowned tsar.",
         "year": 1547,
-        "certainty": "estimated",
-        "source": "Wikipedia: Grand Duchy of Moscow; Wikipedia: Tsardom of Russia"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Grand Duchy of Moscow (checked 8 Nov 2026)"
       },
       "declineSignals": {
         "value": "The Time of Troubles nearly destroyed the state, with Polish troops in Moscow (1610–12).",

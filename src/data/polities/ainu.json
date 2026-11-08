@@ -42,10 +42,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Hokkaido, Sakhalin, the Kuril Islands and northern Honshu.",
+        "value": "Hokkaido, the Tōhoku region of Honshu, Sakhalin, the Kuril Islands and other lands around the Sea of Okhotsk.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ainu people"
+        "source": "Wikipedia: Ainu people (checked 8 Nov 2026)"
       },
       "terrain": {
         "value": "Forests, rivers and coasts.",
@@ -60,10 +60,10 @@
         "source": "Wikipedia: Ainu people"
       },
       "resources": {
-        "value": "Salmon, deer, bears, forest plants.",
+        "value": "Salmon, sika deer, brown bears, shellfish, seaweed and seals.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ainu people"
+        "source": "Wikipedia: Ainu people (checked 8 Nov 2026)"
       },
       "disasters": {
         "value": "Hard winters.",
@@ -80,36 +80,36 @@
         "source": "Wikipedia: Ainu people"
       },
       "urbanisation": {
-        "value": "Villages (kotan).",
+        "value": "Small villages (kotan), usually of fewer than ten households, along rivers and coasts.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ainu people"
+        "source": "Wikipedia: Ainu people (checked 8 Nov 2026)"
       },
       "disease": {
-        "value": "Smallpox brought by Japanese traders.",
+        "value": "Epidemic diseases such as smallpox reduced the population during the period of Matsumae trade.",
         "year": 1850,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ainu people"
+        "source": "Wikipedia: Ainu people (checked 8 Nov 2026)"
       },
       "migration": {
-        "value": "Pushed north by Japanese settlement.",
+        "value": "Their ancestors (Emishi) were pushed to the northern islands from the 9th century; later many were forced to move their villages near Japanese fishing grounds.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ainu people"
+        "source": "Wikipedia: Ainu people (checked 8 Nov 2026)"
       }
     },
     "economy": {
       "economicBase": {
-        "value": "Hunting, fishing, gathering, small farming.",
+        "value": "Hunting, fishing and gathering, with some millet growing.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ainu people"
+        "source": "Wikipedia: Ainu people (checked 8 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "Trade with Japan (Matsumae clan) and China via Sakhalin.",
+        "value": "Transit trade between Honshu and Northeast Asia; the Matsumae clan held exclusive trading rights with the Ainu.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ainu people"
+        "source": "Wikipedia: Ainu people (checked 8 Nov 2026)"
       },
       "wealth": {
         "value": "Wealth in trade goods.",
@@ -118,10 +118,10 @@
         "source": "Wikipedia: Ainu people"
       },
       "moneyAndTax": {
-        "value": "Trade under Matsumae control.",
+        "value": "Trade with the Ainu was a Matsumae monopoly, later leased to Japanese merchants.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ainu people"
+        "source": "Wikipedia: Ainu people (checked 8 Nov 2026)"
       },
       "inequality": {
         "value": "Village chiefs.",
@@ -150,10 +150,10 @@
         "source": "Wikipedia: Ainu people"
       },
       "institutions": {
-        "value": "Village councils and customary law; chiefs settled disputes through debate (charanke).",
+        "value": "The village head's house served as a public meeting place.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Ainu people"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people (checked 8 Nov 2026)"
       },
       "stability": {
         "value": "Revolts against the Matsumae (1669, 1789).",
@@ -170,10 +170,10 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Bows with poison arrows.",
+        "value": "Arrows and spears tipped with poison (surku) made from aconite.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ainu people"
+        "source": "Wikipedia: Ainu people (checked 8 Nov 2026)"
       },
       "majorWars": {
         "value": "Shakushain’s revolt (1669).",
@@ -182,10 +182,10 @@
         "source": "Wikipedia: Ainu people"
       },
       "territoryChange": {
-        "value": "Lost land to Japan (1869) and Russia.",
+        "value": "Japan began developing Hokkaido in 1869; in 1875 Sakhalin went to Russia and the Kuril Islands to Japan.",
         "year": 1869,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ainu people"
+        "source": "Wikipedia: Ainu people (checked 8 Nov 2026)"
       },
       "alliancesRivals": {
         "value": "Trade partners of Japan.",
@@ -196,22 +196,22 @@
     },
     "technology": {
       "inventions": {
-        "value": "Bark-cloth weaving, poison arrows.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Ainu people"
-      },
-      "scienceEducation": {
-        "value": "Oral epics.",
+        "value": "Robes woven from bark fibre (attush) and poison-tipped arrows.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ainu people"
+        "source": "Wikipedia: Ainu people (checked 8 Nov 2026)"
+      },
+      "scienceEducation": {
+        "value": "Oral literature (Yukar), now designated Hokkaido Heritage.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people (checked 8 Nov 2026)"
       },
       "openness": {
-        "value": "Traded widely with Japan, China and peoples of Sakhalin and the Amur region.",
+        "value": "Traded with the Japanese and, on Sakhalin, paid tribute to Ming and Qing China; Ainu groups competed to import Japanese goods.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Ainu people"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people (checked 8 Nov 2026)"
       },
       "communicationTransport": {
         "value": "Dugout canoes and walking.",
@@ -222,68 +222,68 @@
     },
     "culture": {
       "religion": {
-        "value": "Kamuy (spirits) in animals and nature.",
+        "value": "Animist: everything in nature has a kamuy (spirit or god) inside.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ainu people"
+        "source": "Wikipedia: Ainu people (checked 8 Nov 2026)"
       },
       "languageWriting": {
-        "value": "Ainu, a language isolate, now endangered.",
+        "value": "Ainu is a language isolate; Hokkaido Ainu is likely extinct, though there are revival efforts.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ainu people"
+        "source": "Wikipedia: Ainu people (checked 8 Nov 2026)"
       },
       "artsArchitecture": {
-        "value": "Carving, embroidery, bark cloth.",
+        "value": "Distinctive Ainu patterns, embroidered garments, bark-fibre robes and shaved wooden carvings (inau).",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ainu people"
+        "source": "Wikipedia: Ainu people (checked 8 Nov 2026)"
       },
       "socialStructure": {
-        "value": "Villages of related families led by chiefs.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Ainu people"
-      },
-      "sharedIdentity": {
-        "value": "Shared Ainu identity.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Ainu people"
-      },
-      "dailyLife": {
-        "value": "Thatched houses (chise); salmon, venison, wild plants.",
+        "value": "Small kotan villages of scattered families, with a village head.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ainu people"
+        "source": "Wikipedia: Ainu people (checked 8 Nov 2026)"
+      },
+      "sharedIdentity": {
+        "value": "Many still keep their Ainu identity and traditional ways (\"Ainu puri\").",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people (checked 8 Nov 2026)"
+      },
+      "dailyLife": {
+        "value": "Chise houses with wooden frames roofed with reeds, grass or bark; salmon was a staple food.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people (checked 8 Nov 2026)"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "Japanese and Russians.",
+        "value": "Japanese, Russians, and the Nivkh and other peoples of Sakhalin and the Amur.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ainu people"
+        "source": "Wikipedia: Ainu people (checked 8 Nov 2026)"
       },
       "ideasReligions": {
-        "value": "Kept their own beliefs; Japanese assimilation policies after 1869 suppressed language and customs.",
+        "value": "Kept their animist beliefs; Meiji-era assimilation policies banned their religion and forbade their language in schools.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Ainu people"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ainu people (checked 8 Nov 2026)"
       },
       "colonisation": {
-        "value": "Hokkaido annexed by Japan in 1869; assimilation policies followed.",
+        "value": "Japan set up the Hokkaidō Development Commission in 1869; an 1899 act labelled the Ainu \"former aborigines\" to assimilate them.",
         "year": 1869,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ainu people"
+        "source": "Wikipedia: Ainu people (checked 8 Nov 2026)"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Ainu culture formed around the 13th century.",
+        "value": "The \"Ainu culture period\" followed the Satsumon culture, from around the 13th century.",
         "year": 1200,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ainu people"
+        "source": "Wikipedia: Ainu people (checked 8 Nov 2026)"
       },
       "peakPeriod": {
         "value": "Before Japanese control tightened in the 18th century.",
@@ -295,13 +295,13 @@
         "value": "Japanese settlement and assimilation.",
         "year": 1869,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ainu people"
+        "source": "Wikipedia: Ainu people (checked 8 Nov 2026)"
       },
       "outcome": {
         "value": "Recognised as Indigenous by Japan in 2019.",
         "year": 2019,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ainu people"
+        "source": "Wikipedia: Ainu people (checked 8 Nov 2026)"
       }
     },
     "dataQuality": {
