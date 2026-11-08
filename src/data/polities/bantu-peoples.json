@@ -11,7 +11,7 @@
     23.5,
     -5.5
   ],
-  "summary": "Hundreds of peoples speaking related Bantu languages, who spread from the area of today’s Cameroon and Nigeria across central, eastern and southern Africa over about 3,000 years, bringing farming and iron working. On the map, this covers the areas not shown as particular kingdoms.",
+  "summary": "Hundreds of peoples speaking related Bantu languages, who spread from the highlands between today’s Cameroon and Nigeria across central, eastern and southern Africa between about 4000 BCE and 500 CE, bringing farming and, later, iron working. On the map, this covers the areas not shown as particular kingdoms.",
   "wikiTitle": "Bantu peoples",
   "borderNames": [
     "Bantu peoples",
@@ -46,7 +46,7 @@
         "value": "Most of Africa south of the equator, from Cameroon to South Africa and Kenya.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion (checked 9 Nov 2026)"
       },
       "terrain": {
         "value": "Rainforest, savannah, highlands and great lakes.",
@@ -93,18 +93,18 @@
         "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
       },
       "migration": {
-        "value": "The Bantu expansion: a long, slow movement of farming peoples east and south, roughly 1500 BCE–500 CE.",
+        "value": "The Bantu expansion: a long, slow movement of farming peoples east and south between about 4000 BCE and 500 CE; they reached west of Lake Victoria by 500 BCE and KwaZulu-Natal by about 300 CE.",
         "year": -1000,
         "certainty": "estimated",
-        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+        "source": "Wikipedia: Bantu expansion (checked 9 Nov 2026)"
       }
     },
     "economy": {
       "economicBase": {
-        "value": "Farming yams, millet and sorghum; later bananas and cattle; iron tools.",
-        "year": -500,
+        "value": "Farming (oil palm, nuts, grains and probably yams) with goats and guinea fowl; later cattle, learned from Cushitic and Nilotic herders in the east and south; iron tools from about 400 BCE.",
+        "year": -400,
         "certainty": "confirmed",
-        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+        "source": "Wikipedia: Bantu expansion (checked 9 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Trade in salt, iron, copper and cloth; later links to the Indian Ocean coast (Swahili towns).",
@@ -136,7 +136,7 @@
         "value": "Many forms: village councils, chiefdoms and kingdoms (such as Kongo, Luba, Lunda, Buganda, Mutapa).",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+        "source": "Wikipedia: Bantu peoples (checked 9 Nov 2026)"
       },
       "keyRulers": {
         "value": "Too many to list; see the separate kingdoms (Kongo, Great Zimbabwe, Zulu Kingdom).",
@@ -189,18 +189,18 @@
         "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
       },
       "alliancesRivals": {
-        "value": "Traded and mixed with hunter-gatherers (Batwa, Khoisan) and with Swahili and Arab traders.",
+        "value": "Traded and intermarried with hunter-gatherers (Batwa and other forest peoples, Khoisan) and with Arab and Persian traders on the Swahili coast.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion (checked 9 Nov 2026)"
       }
     },
     "technology": {
       "inventions": {
-        "value": "Iron smelting furnaces, new crops and farming methods for tropical soils.",
-        "year": -500,
+        "value": "Iron smelting (clear evidence from about 400 BCE).",
+        "year": -400,
         "certainty": "confirmed",
-        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+        "source": "Wikipedia: Bantu expansion (checked 9 Nov 2026)"
       },
       "scienceEducation": {
         "value": "Knowledge passed on orally by elders and praise singers.",
@@ -229,10 +229,10 @@
         "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
       },
       "languageWriting": {
-        "value": "Over 500 related Bantu languages, including Swahili, Zulu, Xhosa, Shona, Kikongo and Lingala.",
+        "value": "Several hundred related Bantu languages (over 535 by one count), including Swahili, Zulu, Xhosa, Shona, Kikongo and Lingala.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+        "source": "Wikipedia: Bantu peoples (checked 9 Nov 2026)"
       },
       "artsArchitecture": {
         "value": "Sculpture, masks, music and dance; stone towns in Zimbabwe.",
@@ -264,7 +264,7 @@
         "value": "Hunter-gatherers, Nilotic and Cushitic peoples, Swahili and Arab traders, later Europeans.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion (checked 9 Nov 2026)"
       },
       "ideasReligions": {
         "value": "Islam on the coast, Christianity in Kongo (1491) and later missions.",
@@ -299,10 +299,10 @@
         "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
       },
       "outcome": {
-        "value": "Today about 350 million people speak Bantu languages.",
-        "year": null,
+        "value": "Today roughly 310–350 million people are Bantu (estimates for the 2010s–2023).",
+        "year": 2023,
         "certainty": "estimated",
-        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+        "source": "Wikipedia: Bantu peoples (checked 9 Nov 2026)"
       }
     },
     "dataQuality": {
@@ -313,10 +313,10 @@
         "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
       },
       "overallCertainty": {
-        "value": "Known mostly from linguistics, archaeology and genetics; the timing of the expansion is debated.",
+        "value": "Known mostly from linguistics, archaeology and genetics; the timing, causes and routes of the expansion are still debated.",
         "year": null,
         "certainty": "disputed",
-        "source": "Wikipedia: Bantu peoples; Wikipedia: Bantu expansion"
+        "source": "Wikipedia: Bantu expansion (checked 9 Nov 2026)"
       }
     }
   }
