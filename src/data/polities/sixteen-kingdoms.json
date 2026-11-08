@@ -42,31 +42,31 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Northern China.",
+        "value": "Northern China and the north-west (the Yellow River basin, the Hexi Corridor and Sichuan at times), north of the Eastern Jin.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "terrain": {
-        "value": "Yellow River plain and loess plateau.",
+        "value": "The North China Plain, the loess plateau, the Wei River valley around Chang’an, and the dry Hexi Corridor.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "climate": {
-        "value": "Continental.",
+        "value": "Continental: cold dry winters, hot summers with most rain in summer.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "resources": {
-        "value": "Millet, wheat, horses.",
+        "value": "Millet and wheat land, horses and pasture on the northern edge, and Silk Road trade through Gansu.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "disasters": {
-        "value": "War, famine and floods.",
+        "value": "Constant war, famine, Yellow River floods and droughts.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Sixteen Kingdoms"
@@ -74,25 +74,25 @@
     },
     "population": {
       "population": {
-        "value": "Sharply reduced by war.",
+        "value": "Fell sharply through war and flight; northern registers recorded only a fraction of the Han-dynasty population.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "urbanisation": {
-        "value": "Chang’an, Luoyang, Ye.",
+        "value": "Capitals such as Chang’an, Luoyang, Ye and Guzang (Wuwei) rose and fell with each kingdom.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "disease": {
-        "value": "Epidemics.",
+        "value": "Epidemics often followed sieges and famines.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "migration": {
-        "value": "Many Han Chinese fled south.",
+        "value": "Many northern Han families fled south to the Eastern Jin; Xiongnu, Jie, Xianbei, Di and Qiang peoples settled in the north.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
@@ -100,31 +100,31 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming and herding.",
+        "value": "Farming of millet and wheat, herding of horses and sheep, and forced labour and resettlement by rulers.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "tradeRoutes": {
-        "value": "Silk Road via the Hexi corridor.",
+        "value": "Silk Road trade through the Hexi Corridor to Central Asia, controlled by the Liang states in Gansu.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "wealth": {
-        "value": "Uncertain.",
+        "value": "Generally poor after war; the Liang states and Former Qin were richer in quieter years.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "moneyAndTax": {
-        "value": "Grain and cloth taxes.",
+        "value": "Taxes paid mostly in grain and cloth; coins were scarce and little used in many areas.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "inequality": {
-        "value": "Ruling peoples above Han farmers.",
+        "value": "Ruling peoples and their soldiers above the Han farming majority; captives were often enslaved.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
@@ -132,7 +132,7 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Many rival kingdoms.",
+        "value": "A series of rival kingdoms, many founded by non-Han leaders who used Chinese-style titles and courts.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
@@ -144,25 +144,25 @@
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "succession": {
-        "value": "Often by coup.",
+        "value": "Often by coup or murder; many kingdoms lasted only a few decades.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "institutions": {
-        "value": "Chinese-style bureaucracies.",
+        "value": "Chinese-style ministries run by Han officials, alongside the rulers’ own tribal armies.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "stability": {
-        "value": "Very unstable.",
+        "value": "Very unstable: kingdoms were founded and destroyed every few years; only Former Qin briefly united the north.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "eliteConflict": {
-        "value": "Constant wars.",
+        "value": "Constant wars between kingdoms and between members of the same ruling family.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
@@ -170,25 +170,25 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Heavy cavalry with stirrups.",
+        "value": "Heavy armoured cavalry (both rider and horse in armour) and some of the earliest stirrups.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "majorWars": {
-        "value": "Battle of Fei River (383).",
+        "value": "The Former Qin invasion of the south was defeated by the Eastern Jin at the Fei River (383).",
         "year": 383,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "territoryChange": {
-        "value": "Reunited by Northern Wei (439).",
-        "year": null,
+        "value": "Former Qin united the north (376) but broke up after 383; Northern Wei reunited the north in 439.",
+        "year": 439,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "alliancesRivals": {
-        "value": "Eastern Jin in the south.",
+        "value": "The Eastern Jin dynasty in the south, the Rouran on the steppe, and each other.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
@@ -196,13 +196,13 @@
     },
     "technology": {
       "inventions": {
-        "value": "No major inventions are recorded.",
+        "value": "No major inventions are recorded; armoured cavalry and stirrups spread in this period.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "scienceEducation": {
-        "value": "Buddhist translation.",
+        "value": "Kumarajiva translated many Buddhist sutras at Chang’an (401–413); the monk Faxian set out for India from there (399).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
@@ -214,7 +214,7 @@
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "communicationTransport": {
-        "value": "Horses and roads.",
+        "value": "Horses, carts and ox-carts on old Han roads; camel caravans in the Hexi Corridor.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
@@ -222,37 +222,37 @@
     },
     "culture": {
       "religion": {
-        "value": "Buddhism, Daoism, Confucianism.",
+        "value": "Buddhism grew fast with royal support (for example the monk Fotudeng at the Later Zhao court); Daoism and Confucianism continued.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "languageWriting": {
-        "value": "Chinese and northern languages.",
+        "value": "Chinese was the written language; rulers also spoke Xianbei, Xiongnu and other northern languages.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "artsArchitecture": {
-        "value": "Early Buddhist cave temples.",
+        "value": "Early Buddhist cave temples, including the first caves at Mogao near Dunhuang (traditionally dated 366).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "socialStructure": {
-        "value": "Non-Han elites and Han farmers.",
+        "value": "Ruling clans and their warriors, Han gentry families who served as officials, farmers, and captives.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "sharedIdentity": {
-        "value": "Loyalty to the ruler and lineage.",
+        "value": "Loyalty to the ruler and clan; many rulers claimed to be legitimate Chinese emperors.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "dailyLife": {
-        "value": "Farming villages.",
+        "value": "Most people farmed in fortified villages; many families joined powerful local lords for protection.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
@@ -260,13 +260,13 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Eastern Jin, Rouran, Tibetan peoples.",
+        "value": "The Eastern Jin to the south, the Rouran to the north, Tibetan and Qiang peoples to the west, Goguryeo to the north-east.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "ideasReligions": {
-        "value": "Buddhism spread widely.",
+        "value": "Buddhism spread widely and became deeply rooted in north China.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
@@ -286,19 +286,19 @@
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "peakPeriod": {
-        "value": "Former Qin (370s).",
+        "value": "Former Qin under Fu Jian and his minister Wang Meng, which united the north in 376.",
         "year": 376,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "declineSignals": {
-        "value": "Defeat at Fei River (383).",
+        "value": "After the defeat at the Fei River (383), Former Qin broke apart into new kingdoms.",
         "year": 383,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "outcome": {
-        "value": "Northern Wei united the north (439).",
+        "value": "The Northern Wei (Tuoba Xianbei) conquered the last kingdom, Northern Liang, in 439.",
         "year": 439,
         "certainty": "confirmed",
         "source": "Wikipedia: Sixteen Kingdoms"
