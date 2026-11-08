@@ -36,3 +36,21 @@ No wrong facts were found. All differences come from different conventions (Han 
 ## Still to check by hand
 
 Britannica showed only excerpts, so these points were not seen in a second source: Ottoman and Mughal peak, Mughal capitals, Han’s Xuchang capital, Inca Vilcabamba (1572), Mongol end (1368), Qing founders and peak, Gupta capital, Achaemenid Susa, Ecbatana and Babylon, Carthage’s independence from Tyre, and Melaka’s peak and conversion to Islam. A person with full Britannica access could finish these.
+
+## Follow-up, 9 Nov 2026 (#77)
+
+The points above that Britannica's excerpts missed were checked in other second sources:
+
+| Point | Second source | Result |
+|---|---|---|
+| Ottoman peak | World History Encyclopedia: Ottoman Empire | Matches: golden age under Suleiman (1520–66); greatest extent in Europe 1683 |
+| Mughal capitals | UNESCO World Heritage: Fatehpur Sikri | Matches: Akbar's capital for about 10 years; capital moved to Lahore in 1585 |
+| Mughal peak | — | Not found in a second source yet |
+| Han capital at Xuchang | Chinese Culture (chiculture.org.hk) | Matches: Cao Cao moved Emperor Xian and the capital to Xuchang in 196 |
+| Inca: Vilcabamba 1572 | HeritageDaily: Vilcabamba, the last Inca city | Matches |
+| Mongol end 1368 | Britannica: China, The end of Mongol rule | Matches: Ming took Dadu in 1368 and the emperor fled |
+| Qing founders and peak | Boundless World History (Lumen Learning) | Matches: Nurhaci and Huangtaiji built the state; zenith by the end of Qianlong's reign |
+| Gupta capital | World History Encyclopedia: Gupta Empire | **Changed:** Pataliputra, plus a second capital at Ujjain under Chandragupta II |
+| Achaemenid capitals | Encyclopaedia Iranica: Capital cities | Matches: Susa and Babylon administrative capitals, Ecbatana summer residence, Pasargadae coronation city, Persepolis used seasonally |
+| Carthage's independence from Tyre | Mulligan, Open Book Publishers (doi:10.11647/obp.0068), ch. 3 | **Changed to disputed:** gradual, 7th century BCE in this source vs mid-6th century BCE in Wikipedia |
+| Melaka peak and conversion | Britannica: Sultanate of Malacca | Peak matches (Mansur Shah, Tun Perak). Conversion: Britannica dates Parameswara's conversion to 1414; added alongside the Malay Annals and Tomé Pires views (still disputed) |
