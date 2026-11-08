@@ -2,7 +2,7 @@
 
 How complete History Globe is. **The numbers are calculated by `npm run progress`**; run it after a change and commit the new file. Only the Roadmap section below is edited by hand.
 
-_Last updated: 2026-11-07_
+_Last updated: 2026-11-08_
 
 <!-- roadmap:start -->
 ## Roadmap
@@ -41,7 +41,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 - [x] Medieval map gaps round 13: 12 entries (Avars, Pechenegs, Magyars, Oghuz, Uyghur kingdoms, Mongol tribes, Early Slavs, Ostrogoths, Yamato, Chenla, East Java, Sixteen Kingdoms) and name windows; 900 map 82% → 89%, 1100 map 90% → 95%
 - [x] Map gaps round 10: 24 medieval and early-modern states (Castile, Aragon, Hungary, Sweden, Norway, Novgorod, Teutonic Order, Tatar khanates, Japan 1185–1603, Deccan and Bengal sultanates, Iranian and Turkic dynasties, Visigoths, Franks, Córdoba, Maghreb dynasties, Alwa, Jolof); all years 91% → 93%
 - [x] Small countries as map dots, 21 new entries, finer coastline (#42); economic crisis events (#43)
-- [ ] Map gaps still open: small 1800s African states (Utetera, Yeke, Nyamwezi, Borgu, Dendi, Rabih, Teke, Yaka, Kuba, Ovimbundu), Castile and Aragon before 1492, Hungary 1400, Novgorod, the Blue Horde; about 1,400 Indigenous nations on the 1492–1900 maps (link each only after checking it in a source). Western Sahara and Antarctica stay unlinked on purpose.
+- [ ] Map gaps still open: about 1,400 Indigenous nations on the 1492–1900 maps (link each only after checking it in a source); 1492 is the weakest map (77%). Western Sahara and Antarctica stay unlinked on purpose.
 - [ ] Optional last gaps: one-map oddities (Great Khanate 1400, Canada 1815), Libya, Kazakhstan, Angola, Dutch East Indies, Xinjiang
 - [ ] Britannica check of the 20 major civilisations (REVIEW.md, Priority 1)
 
@@ -65,7 +65,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | · Modern | `████████████████████` 98% |  |
 | Civilisations shown on the map | `███████████████████░` 93% | 466 of 499; the rest fly to their capital |
 | Checklist filled in | `████████████████████` 100% | 21457 of 21457 items (499 × 43) |
-| Answers with real detail | `████████████░░░░░░░░` 58% | 8552 answers are still under 40 characters |
+| Answers with real detail | `████████████░░░░░░░░` 59% | 8410 answers are still under 40 characters |
 | Fact-checked against a source | `███░░░░░░░░░░░░░░░░░` 17% | 3559 items say “(checked …)”; the rest still need a second look |
 | Civilisations with events | `████████████████████` 100% | 499 of 499 |
 | Civilisations with famous people | `██████████████░░░░░░` 72% | 357 of 499; many prehistoric cultures have no known names |
