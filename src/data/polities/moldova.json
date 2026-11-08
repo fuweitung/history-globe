@@ -41,80 +41,80 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Between Romania and Ukraine, landlocked.",
+        "value": "Landlocked, between Romania to the west and Ukraine to the north, east and south; about 33,800 km².",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Moldova"
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       },
       "terrain": {
-        "value": "Rolling hills and very fertile black soil between the Prut and Dniester rivers.",
+        "value": "Very fertile black soil (chernozem), between the Prut and Dniester rivers.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Moldova"
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       },
       "climate": {
-        "value": "Continental, with hot summers and cold winters.",
+        "value": "Moderately continental, with about 300 days of sunshine a year.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Moldova"
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       },
       "resources": {
-        "value": "Farmland, vineyards and orchards; almost no energy resources.",
+        "value": "Fertile chernozem soil and vineyards; it has relied on Russian oil and gas.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Moldova"
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       },
       "disasters": {
         "value": "Droughts and floods.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Moldova"
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       }
     },
     "population": {
       "population": {
-        "value": "About 2.4 million (excluding Transnistria), down from 4.4 million in 1989.",
+        "value": "About 2.38 million.",
         "year": 2024,
         "certainty": "confirmed",
-        "source": "Wikipedia: Moldova"
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       },
       "urbanisation": {
-        "value": "About 43% urban; Chișinău has about 700,000 people.",
-        "year": null,
+        "value": "46.4% urban (2024 census); Chișinău has about 695,000 people.",
+        "year": 2024,
         "certainty": "confirmed",
-        "source": "Wikipedia: Moldova"
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       },
       "disease": {
-        "value": "Life expectancy around 71 years, low for Europe.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Moldova"
+        "value": "Average life expectancy was 71.5 years in 2022.",
+        "year": 2022,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       },
       "migration": {
-        "value": "About a quarter of working-age people work abroad, in Russia, Italy and elsewhere.",
+        "value": "Mass emigration; remittances from workers abroad make up 25% of GDP.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Moldova"
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       }
     },
     "economy": {
       "economicBase": {
-        "value": "Farming, wine, light industry and remittances (about 15% of GDP).",
+        "value": "Farming, wine (3% of GDP) and remittances from workers abroad (25% of GDP).",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Moldova"
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "Trade with the EU (mostly Romania) has replaced trade with Russia.",
+        "value": "Most exports go to the EU and the CIS; the EU became the main buyer of Moldovan wine in 2021.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Moldova"
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       },
       "wealth": {
-        "value": "One of the poorest countries in Europe, though growing.",
+        "value": "Among the poorest nations in Europe despite strong growth.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Moldova"
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       },
       "moneyAndTax": {
         "value": "The Moldovan leu.",
@@ -131,66 +131,66 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A parliamentary republic with a directly elected president.",
+        "value": "A parliamentary republic under the 1994 constitution; since 2016 the president is again directly elected.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Moldova"
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Vladimir Voronin (communist, 2001–09). Maia Sandu (president since 2020).",
+        "value": "Maia Sandu, elected in 2020 as the first woman president.",
         "year": 2020,
         "certainty": "confirmed",
-        "source": "Wikipedia: Moldova"
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       },
       "succession": {
-        "value": "Elections, often close between pro-EU and pro-Russian parties.",
+        "value": "Elections, with politics divided between pro-Western and pro-Russian factions.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Moldova"
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       },
       "institutions": {
-        "value": "Parliament and Constitutional Court; long problems with corruption ($1 billion bank fraud, 2014).",
+        "value": "Parliament and an independent Constitutional Court set up by the 1994 constitution.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Moldova"
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       },
       "stability": {
-        "value": "War with Russian-backed separatists in Transnistria (1992).",
+        "value": "The Transnistria War (1990–1992) left Transnistria a de facto independent state.",
         "year": 1992,
         "certainty": "confirmed",
-        "source": "Wikipedia: Moldova"
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       },
       "eliteConflict": {
-        "value": "Pro-EU and pro-Russia camps.",
+        "value": "Pro-Western and pro-Russian factions.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Moldova"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       }
     },
     "military": {
       "armyAndTech": {
-        "value": "Small army; neutral by its constitution; Russian troops remain in Transnistria.",
+        "value": "Military neutrality is in the constitution; Russian troops are stationed in breakaway Transnistria.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Moldova"
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       },
       "majorWars": {
-        "value": "Transnistria War (1992), about 1,000 dead.",
+        "value": "The Transnistria War (1990–1992).",
         "year": 1992,
         "certainty": "confirmed",
-        "source": "Wikipedia: Moldova"
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       },
       "territoryChange": {
-        "value": "Transnistria remains outside government control.",
+        "value": "The strip east of the Dniester has been under the de facto control of breakaway Transnistria since 1990.",
         "year": null,
-        "certainty": "disputed",
-        "source": "Wikipedia: Moldova"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       },
       "alliancesRivals": {
         "value": "EU candidate since 2022.",
         "year": 2022,
         "certainty": "confirmed",
-        "source": "Wikipedia: Moldova"
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       }
     },
     "technology": {
@@ -204,7 +204,7 @@
         "value": "State University of Moldova (1946).",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Moldova"
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       },
       "openness": {
         "value": "Open economy dependent on exports and remittances.",
@@ -224,37 +224,37 @@
         "value": "Mostly Orthodox Christian.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Moldova"
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       },
       "languageWriting": {
-        "value": "Romanian (officially called so since 2023); Russian widely spoken.",
-        "year": null,
+        "value": "Romanian has been the only official language since March 2023.",
+        "year": 2023,
         "certainty": "confirmed",
-        "source": "Wikipedia: Moldova"
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       },
       "artsArchitecture": {
-        "value": "Huge underground wine cellars (Mileștii Mici); rock monasteries of Orheiul Vechi.",
+        "value": "Huge wine cellars at Mileștii Mici and Cricova; the Old Orhei Cave Monastery carved into a cliff.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Moldova"
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       },
       "socialStructure": {
-        "value": "Moldovan/Romanian majority; Ukrainian, Russian, Gagauz and Bulgarian minorities.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Moldova"
+        "value": "Ethnic Moldovans almost 77%, with Romanians (8%), Ukrainians (5%), Gagauzians (4%) and Russians (3%) (2024 census).",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       },
       "sharedIdentity": {
-        "value": "Romanian and Moldovan identities debated.",
-        "year": null,
-        "certainty": "disputed",
-        "source": "Wikipedia: Moldova"
-      },
-      "dailyLife": {
-        "value": "Village houses with gardens; mămăligă, sarmale, home-made wine.",
+        "value": "Debate over whether Moldovans and Romanians are separate peoples with separate languages.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Moldova"
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
+      },
+      "dailyLife": {
+        "value": "Mămăligă (maize porridge) and many dishes shared with Romania and Ukraine.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       }
     },
     "connections": {
@@ -262,19 +262,19 @@
         "value": "Romania and Ukraine.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Moldova"
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       },
       "ideasReligions": {
-        "value": "Debate between European and Russian orientation.",
+        "value": "Often torn between Romania and the EU to the west and Russia to the east.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Moldova"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       },
       "colonisation": {
         "value": "Bessarabia was part of the Russian Empire (1812–1917), then Romania, then the USSR (1940/1944–1991).",
         "year": 1812,
         "certainty": "confirmed",
-        "source": "Wikipedia: Moldova"
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       }
     },
     "riseFall": {
@@ -282,7 +282,7 @@
         "value": "Independence (1991).",
         "year": 1991,
         "certainty": "confirmed",
-        "source": "Wikipedia: Moldova"
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       },
       "peakPeriod": {
         "value": "Too recent to judge.",
@@ -291,10 +291,10 @@
         "source": "Wikipedia: Moldova"
       },
       "declineSignals": {
-        "value": "Poverty, emigration and the frozen Transnistria conflict.",
+        "value": "An ageing population, mass emigration and the unresolved Transnistria conflict.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Moldova"
+        "source": "Wikipedia: Moldova (checked 8 Nov 2026)"
       },
       "outcome": {
         "value": "Still in existence.",
