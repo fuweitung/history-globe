@@ -49,10 +49,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Eastern Europe, spreading to the Balkans and central Europe.",
+        "value": "Central and Eastern Europe; their original homeland is debated, most often placed in Polesia.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Early Slavs"
+        "source": "Wikipedia: Early Slavs (checked 8 Nov 2026)"
       },
       "terrain": {
         "value": "Forests, rivers and plains.",
@@ -99,10 +99,10 @@
         "source": "Wikipedia: Early Slavs"
       },
       "migration": {
-        "value": "Great expansion (500s–600s).",
+        "value": "From the 500s they spread west to the Elbe and the Alps, south into the Balkans, and east.",
         "year": 550,
         "certainty": "confirmed",
-        "source": "Wikipedia: Early Slavs"
+        "source": "Wikipedia: Early Slavs (checked 8 Nov 2026)"
       }
     },
     "economy": {
@@ -110,7 +110,7 @@
         "value": "Farming, herding, hunting.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Early Slavs"
+        "source": "Wikipedia: Early Slavs (checked 8 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "River routes; trade with Vikings and Byzantium.",
@@ -139,16 +139,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Tribes under chiefs (knyaz).",
+        "value": "Many tribes without a single ruler; Procopius said they lived “in a democracy”, and the Byzantine Strategikon advised keeping them from uniting.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Early Slavs"
+        "source": "Wikipedia: Early Slavs (checked 8 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Tribal leaders; few names recorded.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Early Slavs"
+        "value": "Samo, a Frankish merchant who led a Slavic revolt against the Avars (about 623).",
+        "year": 623,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Early Slavs (checked 8 Nov 2026)"
       },
       "succession": {
         "value": "Uncertain.",
@@ -192,13 +192,13 @@
         "value": "Spread across much of Europe.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Early Slavs"
+        "source": "Wikipedia: Early Slavs (checked 8 Nov 2026)"
       },
       "alliancesRivals": {
-        "value": "Avars, Byzantium, Franks, Khazars.",
+        "value": "Partly ruled by the Avars, against whom Samo’s Slavs revolted (about 623); raided and then settled the Byzantine Balkans.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Early Slavs"
+        "source": "Wikipedia: Early Slavs (checked 8 Nov 2026)"
       }
     },
     "technology": {
@@ -229,16 +229,16 @@
     },
     "culture": {
       "religion": {
-        "value": "Slavic paganism, then Christianity (800s–900s).",
+        "value": "Slavic paganism, with gods such as Perun, the thunder god; gradual Christianisation from the 600s.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Early Slavs"
+        "source": "Wikipedia: Early Slavs (checked 8 Nov 2026)"
       },
       "languageWriting": {
-        "value": "Proto-Slavic and early Slavic languages.",
-        "year": null,
+        "value": "Proto-Slavic, then early Slavic languages; Old Church Slavonic became the official church language of Bulgaria (893), where Cyrillic was developed.",
+        "year": 893,
         "certainty": "confirmed",
-        "source": "Wikipedia: Early Slavs"
+        "source": "Wikipedia: Early Slavs (checked 8 Nov 2026)"
       },
       "artsArchitecture": {
         "value": "Wooden buildings; temple of Arkona.",
@@ -259,10 +259,10 @@
         "source": "Wikipedia: Early Slavs"
       },
       "dailyLife": {
-        "value": "Wooden houses; grain, porridge.",
+        "value": "Villages of sunken-floored houses; farming families.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Early Slavs"
+        "source": "Wikipedia: Early Slavs (checked 8 Nov 2026)"
       }
     },
     "connections": {
@@ -276,7 +276,7 @@
         "value": "Conversion to Christianity.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Early Slavs"
+        "source": "Wikipedia: Early Slavs (checked 8 Nov 2026)"
       },
       "colonisation": {
         "value": "None.",
@@ -287,10 +287,10 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Expansion after 500.",
+        "value": "Byzantine writers such as Jordanes and Procopius first describe the Sclaveni and Antes in the 500s.",
         "year": 500,
         "certainty": "confirmed",
-        "source": "Wikipedia: Early Slavs"
+        "source": "Wikipedia: Early Slavs (checked 8 Nov 2026)"
       },
       "peakPeriod": {
         "value": "Uncertain.",
@@ -305,10 +305,10 @@
         "source": "Wikipedia: Early Slavs"
       },
       "outcome": {
-        "value": "Formed Great Moravia, Kievan Rus’, Poland, Bohemia, Serbia, Croatia and Bulgaria.",
+        "value": "By the 1100s they formed the core of Christian states such as Kievan Rus’, Bulgaria, Serbia and Croatia.",
         "year": 1000,
         "certainty": "confirmed",
-        "source": "Wikipedia: Early Slavs"
+        "source": "Wikipedia: Early Slavs (checked 8 Nov 2026)"
       }
     },
     "dataQuality": {

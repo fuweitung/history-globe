@@ -44,10 +44,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Steppes between the Caspian, the Aral Sea and the Syr Darya (Kazakhstan).",
+        "value": "Between the Caspian and Aral Seas: the lower Syr Darya and the western Kazakh steppes; the capital was Yangikent (“New City”).",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Oghuz Yabgu State"
+        "source": "Wikipedia: Oghuz Yabgu State (checked 8 Nov 2026)"
       },
       "terrain": {
         "value": "Open grassland steppe with river valleys.",
@@ -134,16 +134,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Confederation under a yabgu.",
+        "value": "A state ruled by a yabgu, a title below khagan; the army was led by the subaşı.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Oghuz Yabgu State"
+        "source": "Wikipedia: Oghuz Yabgu State (checked 8 Nov 2026)"
       },
       "keyRulers": {
-        "value": "The yabgus; Seljuk was an Oghuz commander.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Oghuz Yabgu State"
+        "value": "Ali Yabgu; Shahmalik, the last yabgu, who took Khwarazm (1041) and was executed by the Seljuks two years later.",
+        "year": 1041,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Oghuz Yabgu State (checked 8 Nov 2026)"
       },
       "succession": {
         "value": "Ruling clan.",
@@ -158,16 +158,16 @@
         "source": "Wikipedia: Oghuz Yabgu State"
       },
       "stability": {
-        "value": "Broke up in the 1000s.",
-        "year": null,
+        "value": "Popular revolts against heavy taxes around 1000; the conflict with the Seljuk branch weakened the state.",
+        "year": 1000,
         "certainty": "confirmed",
-        "source": "Wikipedia: Oghuz Yabgu State"
+        "source": "Wikipedia: Oghuz Yabgu State (checked 8 Nov 2026)"
       },
       "eliteConflict": {
-        "value": "Seljuk breakaway.",
+        "value": "A split with the Seljuk branch of the Oghuz, who rebelled and briefly took Jend.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Oghuz Yabgu State"
+        "source": "Wikipedia: Oghuz Yabgu State (checked 8 Nov 2026)"
       }
     },
     "military": {
@@ -178,22 +178,22 @@
         "source": "Wikipedia: Oghuz Yabgu State"
       },
       "majorWars": {
-        "value": "Wars with the Khazars and Pechenegs.",
+        "value": "Allied with Kievan Rus’ against the Khazars (965) and against Volga Bulgaria (985).",
         "year": 965,
         "certainty": "confirmed",
-        "source": "Wikipedia: Oghuz Yabgu State"
+        "source": "Wikipedia: Oghuz Yabgu State (checked 8 Nov 2026)"
       },
       "territoryChange": {
         "value": "Pushed out by the Kipchaks.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Oghuz Yabgu State"
+        "source": "Wikipedia: Oghuz Yabgu State (checked 8 Nov 2026)"
       },
       "alliancesRivals": {
-        "value": "Khazars, Pechenegs, Samanids.",
+        "value": "Allied with the Karluks and Kimeks against the Kangars and Pechenegs (early 800s) and with Kievan Rus’ (965, 985); rivals of the Seljuks.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Oghuz Yabgu State"
+        "source": "Wikipedia: Oghuz Yabgu State (checked 8 Nov 2026)"
       }
     },
     "technology": {
@@ -224,10 +224,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Steppe religion; Islam spread from the 900s.",
+        "value": "Steppe religion at first; by the 900s Muslim writers called the Muslim Oghuz “Turkmens”, and by the 1100s most Oghuz were Muslim.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Oghuz Yabgu State"
+        "source": "Wikipedia: Oghuz Yabgu State (checked 8 Nov 2026)"
       },
       "languageWriting": {
         "value": "Oghuz Turkic.",
@@ -262,10 +262,10 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Khazars, Pechenegs, Samanids, Kipchaks.",
+        "value": "The Karluks, Kimeks, Khazars, Pechenegs, Khwarazm and the Samanids.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Oghuz Yabgu State"
+        "source": "Wikipedia: Oghuz Yabgu State (checked 8 Nov 2026)"
       },
       "ideasReligions": {
         "value": "Conversion to Islam.",
@@ -282,10 +282,10 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "After the Turkic khaganates (mid-700s).",
+        "value": "Founded by Oghuz Turks around 750; in the early 800s they took the lower Syr Darya from the Kangars and Pechenegs.",
         "year": 750,
         "certainty": "confirmed",
-        "source": "Wikipedia: Oghuz Yabgu State"
+        "source": "Wikipedia: Oghuz Yabgu State (checked 8 Nov 2026)"
       },
       "peakPeriod": {
         "value": "900s.",
@@ -294,16 +294,16 @@
         "source": "Wikipedia: Oghuz Yabgu State"
       },
       "declineSignals": {
-        "value": "Kipchak pressure and Seljuk departure.",
-        "year": 1035,
+        "value": "Internal turmoil, conflict with the Seljuks and the execution of the last yabgu (1043).",
+        "year": 1043,
         "certainty": "confirmed",
-        "source": "Wikipedia: Oghuz Yabgu State"
+        "source": "Wikipedia: Oghuz Yabgu State (checked 8 Nov 2026)"
       },
       "outcome": {
-        "value": "Broke up; Oghuz groups became the Seljuks and Turkmen.",
+        "value": "The weakened state fell to Kipchak attacks; the Seljuk branch of the Oghuz went on to found an empire.",
         "year": 1055,
         "certainty": "confirmed",
-        "source": "Wikipedia: Oghuz Yabgu State"
+        "source": "Wikipedia: Oghuz Yabgu State (checked 8 Nov 2026)"
       }
     },
     "dataQuality": {
