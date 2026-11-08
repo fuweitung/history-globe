@@ -135,6 +135,11 @@ Each civilisation is described with the same 43 elements in 10 categories (geogr
 
 The source maps leave a few land shapes without a name, so nothing can link to them and they show blank (e.g. Switzerland on the 1994–2010 maps). `scripts/border-fixes.json` lists each one (map years, a point inside it, the name to give it, and why). A fix can also correct a shape's overlord with `subjectOf`. This applies when the source names the wrong overlord or none. For example, the Sultanate of Rum in 1279 was a vassal of the Ilkhanate, not of the whole Mongol Empire. Always give a source in `why`. `npm run apply-border-fixes` applies them; `npm run fetch-borders` runs it automatically after downloading.
 
+Two more kinds of fix handle shapes the source names or draws wrongly:
+
+- **`was`** renames a shape that already has a misleading name, e.g. the 1715 “central Asian khanates” shape, which is really the Dzungar Khanate. Its “Part of” label is reset to the new name.
+- **`cutAlong`** splits a shape in two along a border taken from another map: `{ "year", "name", "from", "to" }` follows that map's outline of `name` from the vertex `from` to the vertex `to`. Both ends must also be vertices of the shape being split. The part containing `point` keeps the shape, and the other part becomes a new shape named `rest`. `restBox` (`[west, south, east, north]`) moves separate islands into the new shape as well; used without `cutAlong`, it only moves those pieces. The 1400 map uses this: it repeats the Yuan outline, so the Ming and Korean parts are cut out along the 1492 Ming borders. If a re-download changes the vertices, the script warns and skips the fix.
+
 ### Small countries (`mapDot`)
 
 The border maps don’t draw some small countries (Singapore, Bahrain, the Maldives, most Pacific states, Monaco…). Set `"mapDot": true` on such an entry and the globe draws a clickable dot at its `capitalCoords` for the years it exists. The land outline is Natural Earth 1:50m (finer coasts and small islands).
