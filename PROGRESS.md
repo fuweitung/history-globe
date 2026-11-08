@@ -41,8 +41,8 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 - [x] Medieval map gaps round 13: 12 entries (Avars, Pechenegs, Magyars, Oghuz, Uyghur kingdoms, Mongol tribes, Early Slavs, Ostrogoths, Yamato, Chenla, East Java, Sixteen Kingdoms) and name windows; 900 map 82% → 89%, 1100 map 90% → 95%
 - [x] Map gaps round 10: 24 medieval and early-modern states (Castile, Aragon, Hungary, Sweden, Norway, Novgorod, Teutonic Order, Tatar khanates, Japan 1185–1603, Deccan and Bengal sultanates, Iranian and Turkic dynasties, Visigoths, Franks, Córdoba, Maghreb dynasties, Alwa, Jolof); all years 91% → 93%
 - [x] Small countries as map dots, 21 new entries, finer coastline (#42); economic crisis events (#43)
-- [ ] Map gaps still open: about 1,400 Indigenous nations on the 1492–1900 maps (link each only after checking it in a source); 1492 is the weakest map (81%). Western Sahara and Antarctica stay unlinked on purpose.
-- [ ] Optional last gaps: one-map oddities (Great Khanate 1400, Canada 1815), Libya, Kazakhstan, Angola, Dutch East Indies, Xinjiang
+- [ ] Map gaps still open: Indigenous nations on the 1492–1900 maps (link each only after checking it in a source); 91 more linked by category check, about 880 names in the Americas still unlinked; 1492 is the weakest map (81% → 83%). Western Sahara and Antarctica stay unlinked on purpose. (#78, Mike)
+- [ ] Optional last gaps: one-map oddities (Great Khanate 1400, Canada 1815), Libya, Kazakhstan, Angola, Dutch East Indies, Xinjiang. Done in #78: 1400 split into Northern Yuan, Ming and Joseon; Dzungar Khanate 1715; Kazakh Khanate and Turan 1815; Cape and Java under Britain 1815; Kongo 1492; Canada 1815 and Libya checked. Still open: the 1600–1800 “central Asian khanates” shapes (Siberia, Mongolia, the Kazakh steppe), 1200 “Fatimid Caliphate” (no Ayyubid entry), unnamed Sahara and Borneo 1815 (#78, Mike)
 - [ ] Britannica check of the 20 major civilisations (REVIEW.md, Priority 1)
 
 - [ ] Pictures for the remaining “Known for” items and the 21 civilisations without one (many have no free picture on Commons)
@@ -62,7 +62,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | · Ancient | `██████████████████░░` 91% |  |
 | · Medieval | `███████████████████░` 93% |  |
 | · Early modern | `███████████████████░` 93% |  |
-| · Modern | `████████████████████` 98% |  |
+| · Modern | `████████████████████` 99% |  |
 | Civilisations shown on the map | `███████████████████░` 93% | 466 of 499; the rest fly to their capital |
 | Checklist filled in | `████████████████████` 100% | 21457 of 21457 items (499 × 43) |
 | Answers with real detail | `█████████████░░░░░░░` 63% | 7475 answers are still under 40 characters |
@@ -113,16 +113,16 @@ Also in the app: 962 events · 451 people · 18 routes · 11 stories.
 | 1279 | `███████████████████░` 97% |
 | 1300 | `███████████████████░` 97% |
 | 1400 | `███████████████████░` 96% |
-| 1492 | `████████████████░░░░` 81% |
+| 1492 | `█████████████████░░░` 83% |
 | 1500 | `███████████████████░` 95% |
-| 1530 | `██████████████████░░` 88% |
+| 1530 | `██████████████████░░` 89% |
 | 1600 | `██████████████████░░` 90% |
 | 1650 | `██████████████████░░` 92% |
 | 1700 | `██████████████████░░` 91% |
 | 1715 | `███████████████████░` 94% |
 | 1783 | `████████████████████` 99% |
 | 1800 | `████████████████████` 99% |
-| 1815 | `████████████████████` 98% |
+| 1815 | `████████████████████` 99% |
 | 1878 | `████████████████████` 100% |
 | 1880 | `████████████████████` 100% |
 | 1900 | `████████████████████` 99% |
