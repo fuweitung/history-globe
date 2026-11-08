@@ -45,7 +45,7 @@ The points above that Britannica's excerpts missed were checked in other second 
 |---|---|---|
 | Ottoman peak | World History Encyclopedia: Ottoman Empire | Matches: golden age under Suleiman (1520–66); greatest extent in Europe 1683 |
 | Mughal capitals | UNESCO World Heritage: Fatehpur Sikri | Matches: Akbar's capital for about 10 years; capital moved to Lahore in 1585 |
-| Mughal peak | — | Not found in a second source yet |
+| Mughal peak | World History Encyclopedia: Map of the Mughal Empire at Its Greatest Extent, c. 1707; Britannica: Shah Jahan | Matches: greatest extent under Aurangzeb after Bijapur (1686) and Golconda (1687). Shah Jahan (r. 1628–58) as the high point of court splendour is only partly supported (Britannica's excerpt names him as builder of the Taj Mahal) |
 | Han capital at Xuchang | Chinese Culture (chiculture.org.hk) | Matches: Cao Cao moved Emperor Xian and the capital to Xuchang in 196 |
 | Inca: Vilcabamba 1572 | HeritageDaily: Vilcabamba, the last Inca city | Matches |
 | Mongol end 1368 | Britannica: China, The end of Mongol rule | Matches: Ming took Dadu in 1368 and the emperor fled |
