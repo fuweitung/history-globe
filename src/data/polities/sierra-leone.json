@@ -40,28 +40,28 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "West Africa on the Atlantic; about 72,000 km².",
+        "value": "West Africa on the Atlantic Ocean, bordered by Guinea and Liberia; about 73,000 km².",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sierra Leone"
+        "source": "Wikipedia: Sierra Leone (checked 8 Nov 2026)"
       },
       "terrain": {
-        "value": "Coastal mangroves, hills, plateaus.",
+        "value": "Low-lying mangrove swamps on the coast; a plateau in the east with high mountains such as Mount Bintumani (1,948 m).",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sierra Leone"
+        "source": "Wikipedia: Sierra Leone (checked 8 Nov 2026)"
       },
       "climate": {
-        "value": "Tropical and very wet.",
+        "value": "Tropical, with a rainy season (May–November), a dry season and heavy annual rainfall.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sierra Leone"
+        "source": "Wikipedia: Sierra Leone (checked 8 Nov 2026)"
       },
       "resources": {
-        "value": "Diamonds, iron ore, rutile.",
+        "value": "Diamonds, gold, bauxite and one of the world’s largest deposits of rutile (a titanium ore).",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sierra Leone"
+        "source": "Wikipedia: Sierra Leone (checked 8 Nov 2026)"
       },
       "disasters": {
         "value": "Mudslide in Freetown (2017).",
@@ -72,42 +72,42 @@
     },
     "population": {
       "population": {
-        "value": "About 8.6 million.",
-        "year": 2024,
+        "value": "About 8.5 million (2023 census).",
+        "year": 2023,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sierra Leone"
+        "source": "Wikipedia: Sierra Leone (checked 8 Nov 2026)"
       },
       "urbanisation": {
-        "value": "Freetown.",
+        "value": "Freetown is the capital and largest city.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sierra Leone"
+        "source": "Wikipedia: Sierra Leone (checked 8 Nov 2026)"
       },
       "disease": {
-        "value": "Ebola (2014–16).",
+        "value": "An Ebola epidemic in 2014 led to a national state of emergency; there are also outbreaks of cholera, yellow fever and Lassa fever.",
         "year": 2014,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sierra Leone"
+        "source": "Wikipedia: Sierra Leone (checked 8 Nov 2026)"
       },
       "migration": {
-        "value": "Refugees during the war.",
+        "value": "During the civil war hundreds of thousands were forced from their homes, and many became refugees in Guinea and Liberia.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sierra Leone"
+        "source": "Wikipedia: Sierra Leone (checked 8 Nov 2026)"
       }
     },
     "economy": {
       "economicBase": {
-        "value": "Mining and farming.",
+        "value": "Mining, especially diamonds, and farming; two-thirds of people do subsistence farming.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sierra Leone"
+        "source": "Wikipedia: Sierra Leone (checked 8 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "Freetown harbour.",
+        "value": "Freetown has Africa’s largest natural harbour.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sierra Leone"
+        "source": "Wikipedia: Sierra Leone (checked 8 Nov 2026)"
       },
       "wealth": {
         "value": "A low-income country.",
@@ -119,7 +119,7 @@
         "value": "The leone.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sierra Leone"
+        "source": "Wikipedia: Sierra Leone (checked 8 Nov 2026)"
       },
       "inequality": {
         "value": "Large gaps between the capital and rural areas.",
@@ -133,31 +133,31 @@
         "value": "A presidential republic.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sierra Leone"
+        "source": "Wikipedia: Sierra Leone (checked 8 Nov 2026)"
       },
       "keyRulers": {
         "value": "Milton Margai. Siaka Stevens. Ahmad Tejan Kabbah.",
         "year": 1961,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sierra Leone"
+        "source": "Wikipedia: Sierra Leone (checked 8 Nov 2026)"
       },
       "succession": {
-        "value": "Elections since 2002.",
+        "value": "A directly elected president.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sierra Leone"
+        "source": "Wikipedia: Sierra Leone (checked 8 Nov 2026)"
       },
       "institutions": {
-        "value": "Parliament; a special court tried war crimes.",
-        "year": null,
+        "value": "A one-chamber parliament; a UN-backed war crimes court began trials in 2004.",
+        "year": 2004,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sierra Leone"
+        "source": "Wikipedia: Sierra Leone (checked 8 Nov 2026)"
       },
       "stability": {
         "value": "Civil war (1991–2002).",
         "year": 1991,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sierra Leone"
+        "source": "Wikipedia: Sierra Leone (checked 8 Nov 2026)"
       },
       "eliteConflict": {
         "value": "Competition between political parties and leaders.",
@@ -177,7 +177,7 @@
         "value": "Sierra Leone Civil War.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sierra Leone"
+        "source": "Wikipedia: Sierra Leone (checked 8 Nov 2026)"
       },
       "territoryChange": {
         "value": "None.",
@@ -186,10 +186,10 @@
         "source": "Wikipedia: Sierra Leone"
       },
       "alliancesRivals": {
-        "value": "British and UN support ended the war.",
+        "value": "Intervention by the United Kingdom and the United Nations helped end the civil war.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sierra Leone"
+        "source": "Wikipedia: Sierra Leone (checked 8 Nov 2026)"
       }
     },
     "technology": {
@@ -200,10 +200,10 @@
         "source": "Wikipedia: Sierra Leone"
       },
       "scienceEducation": {
-        "value": "Fourah Bay College (1827), the oldest Western-style university in West Africa.",
-        "year": null,
+        "value": "Fourah Bay College (1827) made Sierra Leone an educational centre for English-speaking West Africans.",
+        "year": 1827,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sierra Leone"
+        "source": "Wikipedia: Sierra Leone (checked 8 Nov 2026)"
       },
       "openness": {
         "value": "Open to trade and foreign investment, with periods of restriction.",
@@ -220,16 +220,16 @@
     },
     "culture": {
       "religion": {
-        "value": "Muslim majority; Christian minority.",
-        "year": null,
+        "value": "About 77% Muslim and 22% Christian (2015).",
+        "year": 2015,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sierra Leone"
+        "source": "Wikipedia: Sierra Leone (checked 8 Nov 2026)"
       },
       "languageWriting": {
-        "value": "English; Krio.",
+        "value": "English is official; Krio is the lingua franca, spoken by 97% of people.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sierra Leone"
+        "source": "Wikipedia: Sierra Leone (checked 8 Nov 2026)"
       },
       "artsArchitecture": {
         "value": "Board houses of the Krio.",
@@ -238,22 +238,22 @@
         "source": "Wikipedia: Sierra Leone"
       },
       "socialStructure": {
-        "value": "Temne, Mende, Krio and others.",
+        "value": "About 18 ethnic groups, mainly the Temne and Mende, plus the Krio.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sierra Leone"
+        "source": "Wikipedia: Sierra Leone (checked 8 Nov 2026)"
       },
       "sharedIdentity": {
-        "value": "Religious tolerance.",
+        "value": "Very high religious tolerance between Muslims and Christians.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sierra Leone"
+        "source": "Wikipedia: Sierra Leone (checked 8 Nov 2026)"
       },
       "dailyLife": {
-        "value": "Houses; rice, cassava leaves.",
+        "value": "Rice is eaten at almost every meal, with sauces such as cassava leaves and groundnut stew.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sierra Leone"
+        "source": "Wikipedia: Sierra Leone (checked 8 Nov 2026)"
       }
     },
     "connections": {
@@ -261,7 +261,7 @@
         "value": "Guinea, Liberia.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sierra Leone"
+        "source": "Wikipedia: Sierra Leone (checked 8 Nov 2026)"
       },
       "ideasReligions": {
         "value": "Krio culture.",
@@ -270,18 +270,18 @@
         "source": "Wikipedia: Sierra Leone"
       },
       "colonisation": {
-        "value": "A British colony until 1961.",
+        "value": "A British colony from 1808 (with an inland Protectorate from 1896) until independence in 1961.",
         "year": 1808,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sierra Leone"
+        "source": "Wikipedia: Sierra Leone (checked 8 Nov 2026)"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Independence (1961).",
+        "value": "Independence from Britain on 27 April 1961.",
         "year": 1961,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sierra Leone"
+        "source": "Wikipedia: Sierra Leone (checked 8 Nov 2026)"
       },
       "peakPeriod": {
         "value": "Too recent to judge.",
@@ -293,7 +293,7 @@
         "value": "Civil war.",
         "year": 1991,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sierra Leone"
+        "source": "Wikipedia: Sierra Leone (checked 8 Nov 2026)"
       },
       "outcome": {
         "value": "Still in existence.",

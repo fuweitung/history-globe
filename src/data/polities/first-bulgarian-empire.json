@@ -42,16 +42,16 @@
         "source": "Fine, The Early Medieval Balkans (1983)"
       },
       "resources": {
-        "value": "Farmland in the Danube plain, pasture for horses and sheep, and salt.",
+        "value": "Fertile soils in Moesia, Thrace and Macedonia; salt mines in Transylvania in the 9th century.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Fine, The Early Medieval Balkans (1983)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 8 Nov 2026)"
       },
       "disasters": {
-        "value": "Unknown in detail; Byzantine sources mention famines.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Fine, The Early Medieval Balkans (1983)"
+        "value": "Harvests were prone to natural disasters; in 863 earthquakes, a poor harvest and locusts brought famine.",
+        "year": 863,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 8 Nov 2026)"
       }
     },
     "population": {
@@ -62,10 +62,10 @@
         "source": "Fine, The Early Medieval Balkans (1983)"
       },
       "urbanisation": {
-        "value": "Capitals Pliska and Preslav, later Ohrid.",
+        "value": "Capitals at Pliska, then Preslav (from 893); the country remained mostly rural.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Fine, The Early Medieval Balkans (1983)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 8 Nov 2026)"
       },
       "disease": {
         "value": "Unknown.",
@@ -82,16 +82,16 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming and herding; trade with Byzantium.",
+        "value": "Agriculture (wheat, rye, millet and grapes) and animal husbandry; trade between Byzantium, Central Europe and the Rus’.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Fine, The Early Medieval Balkans (1983)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 8 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "Trade along the Danube and the Black Sea; a trade treaty with Byzantium (716).",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Fine, The Early Medieval Balkans (1983)"
+        "value": "Trade between Byzantium, Central Europe, the Rus’ and the steppes; a trade treaty with Byzantium (716).",
+        "year": 716,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 8 Nov 2026)"
       },
       "wealth": {
         "value": "No estimate is possible for this period.",
@@ -100,30 +100,30 @@
         "source": "Fine, The Early Medieval Balkans (1983)"
       },
       "moneyAndTax": {
-        "value": "Used Byzantine coins; collected tribute from Byzantium at times.",
+        "value": "Did not mint coins; taxes were paid in kind, and Byzantium paid tribute at times.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Fine, The Early Medieval Balkans (1983)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 8 Nov 2026)"
       },
       "inequality": {
-        "value": "Bulgar aristocrats (boyars) over Slav farmers.",
+        "value": "Leading Bulgar noble families held power; peasants bound to noble or church estates increased from the 10th century.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Fine, The Early Medieval Balkans (1983)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 8 Nov 2026)"
       }
     },
     "politics": {
       "governmentType": {
-        "value": "A monarchy led by a khan, then by a tsar (emperor) from Simeon’s time (913).",
+        "value": "Ruled by a khan, then a knyaz (prince) after 864, and by tsars (emperors) from 913.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Fine, The Early Medieval Balkans (1983)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 8 Nov 2026)"
       },
       "keyRulers": {
         "value": "Asparuh (founder), Krum, Boris I (converted, 864), Simeon I the Great (893–927), Samuel.",
         "year": 893,
-        "certainty": "estimated",
-        "source": "Fine, The Early Medieval Balkans (1983)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 8 Nov 2026)"
       },
       "succession": {
         "value": "Hereditary within the ruling dynasty, though rivals sometimes seized power.",
@@ -132,36 +132,36 @@
         "source": "Fine, The Early Medieval Balkans (1983)"
       },
       "institutions": {
-        "value": "A Byzantine-style church and court; a Bulgarian patriarchate (recognised 927).",
+        "value": "A People’s Council of nobles and the “armed people”; an independent Bulgarian Patriarchate recognised in 927.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Fine, The Early Medieval Balkans (1983)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 8 Nov 2026)"
       },
       "stability": {
-        "value": "Civil strife and invasions followed the death of Simeon (927).",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Fine, The Early Medieval Balkans (1983)"
+        "value": "After Simeon’s death, Peter I (927–969) faced revolts by his brothers and Magyar raids (934–965), but kept peace with Byzantium.",
+        "year": 927,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 8 Nov 2026)"
       },
       "eliteConflict": {
-        "value": "Boyars (nobles) revolted against Boris I’s conversion to Christianity (866).",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Fine, The Early Medieval Balkans (1983)"
+        "value": "Boris I crushed a revolt of the nobility against Christianisation (866).",
+        "year": 866,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 8 Nov 2026)"
       }
     },
     "military": {
       "armyAndTech": {
-        "value": "Strong cavalry and fortresses; Krum used siege engines against Constantinople.",
+        "value": "Heavy armoured cavalry and siege engines; Krum prepared 5,000 wagons of siege equipment against Constantinople.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Fine, The Early Medieval Balkans (1983)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 8 Nov 2026)"
       },
       "majorWars": {
         "value": "Long wars with Byzantium; Battle of Kleidion (1014).",
         "year": 1014,
-        "certainty": "estimated",
-        "source": "Fine, The Early Medieval Balkans (1983)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 8 Nov 2026)"
       },
       "territoryChange": {
         "value": "At its height a major power able to compete with Byzantium.",
@@ -170,30 +170,30 @@
         "source": "Wikipedia: First Bulgarian Empire (checked 6 Nov 2026)"
       },
       "alliancesRivals": {
-        "value": "Rival of Byzantium; contacts with the Franks.",
+        "value": "Rival and sometimes ally of Byzantium (it helped break the Arab siege of Constantinople); allied with the Eastern Franks from 860.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Fine, The Early Medieval Balkans (1983)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 8 Nov 2026)"
       }
     },
     "technology": {
       "inventions": {
-        "value": "Little is known; the Cyrillic script was developed in its schools.",
+        "value": "The Cyrillic script was created at the Preslav Literary School.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Fine, The Early Medieval Balkans (1983)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 8 Nov 2026)"
       },
       "scienceEducation": {
-        "value": "Literary schools of Preslav and Ohrid developed Old Church Slavonic literature.",
-        "year": 893,
-        "certainty": "estimated",
-        "source": "Fine, The Early Medieval Balkans (1983)"
+        "value": "Literary schools at Pliska–Preslav and Ohrid; Clement taught 3,500 pupils at Ohrid (886–907).",
+        "year": 886,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 8 Nov 2026)"
       },
       "openness": {
-        "value": "Adopted Byzantine Christianity (864) but kept its own Slavonic church language.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Fine, The Early Medieval Balkans (1983)"
+        "value": "Adopted Christianity from Byzantium in 864 but made Old Church Slavonic its official language (893).",
+        "year": 864,
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 8 Nov 2026)"
       },
       "communicationTransport": {
         "value": "Roman roads through the Balkans; boats on the Danube.",
@@ -204,54 +204,54 @@
     },
     "culture": {
       "religion": {
-        "value": "Tengrism, then Orthodox Christianity from 864.",
+        "value": "Worship of Tangra, the Bulgar sky god, and Slavic religions; Christianity from 864.",
         "year": 864,
-        "certainty": "estimated",
-        "source": "Fine, The Early Medieval Balkans (1983)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 8 Nov 2026)"
       },
       "languageWriting": {
-        "value": "Old Church Slavonic; the Cyrillic script developed here.",
+        "value": "Old Church Slavonic (official from 893); the Glagolitic alphabet, then the Cyrillic script created at Preslav.",
         "year": 893,
-        "certainty": "estimated",
-        "source": "Fine, The Early Medieval Balkans (1983)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 8 Nov 2026)"
       },
       "artsArchitecture": {
-        "value": "The Madara Rider rock relief and churches of Preslav.",
+        "value": "The Madara Rider rock relief (after 705) and the Round Church of Preslav.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Fine, The Early Medieval Balkans (1983)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 8 Nov 2026)"
       },
       "socialStructure": {
-        "value": "Tsar, boyars, clergy, free farmers and dependent peasants.",
+        "value": "Monarch, Bulgar noble families, clergy and mostly free peasants living in village communities (zadruga).",
         "year": null,
-        "certainty": "estimated",
-        "source": "Fine, The Early Medieval Balkans (1983)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 8 Nov 2026)"
       },
       "sharedIdentity": {
-        "value": "Orthodox Christianity and Slavic literacy.",
+        "value": "Bulgars and Slavs merged into a Bulgarian nation; Old Church Slavonic helped create a distinct identity.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Fine, The Early Medieval Balkans (1983)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 8 Nov 2026)"
       },
       "dailyLife": {
-        "value": "Wooden and earth houses in villages; stone palaces in Pliska and Preslav; bread, meat and dairy.",
+        "value": "Mostly rural; wheat, rye and millet were staple foods, and meat was important.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: First Bulgarian Empire"
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 8 Nov 2026)"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "Byzantium, the Franks, Magyars, Kievan Rus’.",
+        "value": "Byzantium, the Franks, Magyars, Pechenegs, Kievan Rus’ and Serbia.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Fine, The Early Medieval Balkans (1983)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 8 Nov 2026)"
       },
       "ideasReligions": {
-        "value": "Spread Slavic Christian books to Serbia and Rus’.",
+        "value": "Old Church Slavonic literature spread north and became the common language of much of Eastern Europe.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Fine, The Early Medieval Balkans (1983)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 8 Nov 2026)"
       },
       "colonisation": {
         "value": "None.",
@@ -276,14 +276,14 @@
       "declineSignals": {
         "value": "Invasions by the Rus’ (968–971) and Byzantine wars under Basil II.",
         "year": 968,
-        "certainty": "estimated",
-        "source": "Fine, The Early Medieval Balkans (1983)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 8 Nov 2026)"
       },
       "outcome": {
         "value": "Conquered by Byzantium under Basil II in 1018.",
         "year": 1018,
-        "certainty": "estimated",
-        "source": "Fine, The Early Medieval Balkans (1983)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: First Bulgarian Empire (checked 8 Nov 2026)"
       }
     },
     "dataQuality": {
