@@ -92,10 +92,10 @@
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "migration": {
-        "value": "Many northern Han families fled south to the Eastern Jin; Xiongnu, Jie, Xianbei, Di and Qiang peoples settled in the north.",
+        "value": "Xiongnu, Xianbei, Di, Jie and Qiang peoples, already living in northern and western China, rose against the Jin dynasty.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sixteen Kingdoms"
+        "source": "Wikipedia: Sixteen Kingdoms (checked 8 Nov 2026)"
       }
     },
     "economy": {
@@ -132,10 +132,10 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A series of rival kingdoms, many founded by non-Han leaders who used Chinese-style titles and courts.",
+        "value": "Many short-lived states, most founded by the “Five Barbarians” (Xiongnu, Xianbei, Di, Jie and Qiang), which adopted Chinese-style imperial government.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sixteen Kingdoms"
+        "source": "Wikipedia: Sixteen Kingdoms (checked 8 Nov 2026)"
       },
       "keyRulers": {
         "value": "Liu Yuan (Han Zhao). Fu Jian (Former Qin).",
@@ -153,13 +153,13 @@
         "value": "Chinese-style ministries run by Han officials, alongside the rulers’ own tribal armies.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sixteen Kingdoms"
+        "source": "Wikipedia: Sixteen Kingdoms (checked 8 Nov 2026)"
       },
       "stability": {
-        "value": "Very unstable: kingdoms were founded and destroyed every few years; only Former Qin briefly united the north.",
-        "year": null,
+        "value": "Very unstable: rebellions toppled the Jin court at Luoyang (311) and Chang’an; states rose and fell every few years.",
+        "year": 311,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sixteen Kingdoms"
+        "source": "Wikipedia: Sixteen Kingdoms (checked 8 Nov 2026)"
       },
       "eliteConflict": {
         "value": "Constant wars between kingdoms and between members of the same ruling family.",
@@ -182,16 +182,16 @@
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "territoryChange": {
-        "value": "Former Qin united the north (376) but broke up after 383; Northern Wei reunited the north in 439.",
+        "value": "Former Qin united northern China and Sichuan (376–383); Northern Wei reunited the north in 439.",
         "year": 439,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sixteen Kingdoms"
+        "source": "Wikipedia: Sixteen Kingdoms (checked 8 Nov 2026)"
       },
       "alliancesRivals": {
-        "value": "The Eastern Jin dynasty in the south, the Rouran on the steppe, and each other.",
+        "value": "The Eastern Jin dynasty (317–420), which ruled the south, and each other.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sixteen Kingdoms"
+        "source": "Wikipedia: Sixteen Kingdoms (checked 8 Nov 2026)"
       }
     },
     "technology": {
@@ -222,10 +222,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Buddhism grew fast with royal support (for example the monk Fotudeng at the Later Zhao court); Daoism and Confucianism continued.",
+        "value": "Buddhism spread across the north with wide state support; Confucianism stayed influential (Fu Jian revered it).",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sixteen Kingdoms"
+        "source": "Wikipedia: Sixteen Kingdoms (checked 8 Nov 2026)"
       },
       "languageWriting": {
         "value": "Chinese was the written language; rulers also spoke Xianbei, Xiongnu and other northern languages.",
@@ -234,10 +234,10 @@
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "artsArchitecture": {
-        "value": "Early Buddhist cave temples, including the first caves at Mogao near Dunhuang (traditionally dated 366).",
+        "value": "Early Buddhist cave temples, including the earliest grottoes at Mogao near Dunhuang.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sixteen Kingdoms"
+        "source": "Wikipedia: Sixteen Kingdoms (checked 8 Nov 2026)"
       },
       "socialStructure": {
         "value": "Ruling clans and their warriors, Han gentry families who served as officials, farmers, and captives.",
@@ -286,10 +286,10 @@
         "source": "Wikipedia: Sixteen Kingdoms"
       },
       "peakPeriod": {
-        "value": "Former Qin under Fu Jian and his minister Wang Meng, which united the north in 376.",
+        "value": "Former Qin under Fu Jian, advised by Wang Meng, ruled all of northern China (376–383).",
         "year": 376,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sixteen Kingdoms"
+        "source": "Wikipedia: Sixteen Kingdoms (checked 8 Nov 2026)"
       },
       "declineSignals": {
         "value": "After the defeat at the Fei River (383), Former Qin broke apart into new kingdoms.",
@@ -301,7 +301,7 @@
         "value": "The Northern Wei (Tuoba Xianbei) conquered the last kingdom, Northern Liang, in 439.",
         "year": 439,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sixteen Kingdoms"
+        "source": "Wikipedia: Sixteen Kingdoms (checked 8 Nov 2026)"
       }
     },
     "dataQuality": {
