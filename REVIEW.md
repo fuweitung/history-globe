@@ -11,7 +11,7 @@ Thank you for reviewing History Globe. This guide shows **where to look first** 
 ## How facts were checked so far
 1. **Wikipedia** (infobox and lead), read on 5–6 Nov 2026. Items labelled “(checked …)” were confirmed there.
 2. **Wikidata** cross-check of start/end dates and capitals for every civilisation: 83% of dates agree; every difference was reviewed (see `reports/wikidata-crosscheck.md`).
-3. **Britannica** spot-check of 4 civilisations (see `reports/britannica-spotcheck.md`). Britannica blocks automated access, so the rest need a person.
+3. **Britannica** spot-check of 4 civilisations (see `reports/britannica-spotcheck.md`), then of the 20 major civilisations on 8–9 Nov 2026 (#77, see `reports/major-civs-spotcheck.md`). Britannica mostly showed only short excerpts, so World History Encyclopedia filled some gaps.
 4. **Wikipedia full-article pass (from 8 Nov 2026, issue #4):** each item is compared with the whole article; only items the article supports are marked “(checked 8 Nov 2026)”, and wrong figures are corrected (e.g. UK and Australian population, Papua 1905). Done so far: 16 countries in batches 1–2 and 6–7, the 12 round-13 medieval entries in batches 3–5, and more countries from batch 8 on (see the “Wikipedia check” pull requests; the running total is in PROGRESS.md). Items the article does not cover stay unchecked.
 5. Items that cite a book but no “checked” Wikipedia page were written from general knowledge and marked *estimated*: **these are the ones most worth checking.**
 
@@ -48,9 +48,9 @@ These were written from general knowledge (sources named, but no page was re-rea
 - **Two new checklist items for all 190 entries** (380 answers): *Communication & transport* (Technology) and *Housing & daily life* (Culture), sourced to each entry’s Wikipedia article but not re-read.
 - Sensitive: Tibet’s status, Russia’s annexations, the Falklands/Malvinas, and the treatment of Indigenous peoples in Canada, Australia, Brazil and the Plains.
 
-## Priority 1 — major civilisations still to spot-check against a second source
-Rome, Han, Ottoman, Mughal, Inca, Aztec, Mongol, Abbasid, Byzantium, Tang, Song, Ming, Qing, Maurya, Gupta, Achaemenid Persia, Sasanian Persia, Carthage, Assyria, Melaka.
-For each: start/end dates, capital, founder, peak, and how it ended.
+## Priority 1 — major civilisations: second-source check done, some points left
+Rome, Han, Ottoman, Mughal, Inca, Aztec, Mongol, Abbasid, Byzantium, Tang, Song, Ming, Qing, Maurya, Gupta, Achaemenid Persia, Sasanian Persia, Carthage, Assyria and Melaka were checked on 8–9 Nov 2026 against Britannica (excerpts) and World History Encyclopedia for start/end dates, capital, founder, peak and how each ended (#77, `reports/major-civs-spotcheck.md`). No wrong facts were found; differences in convention are noted in each entry, and Assyria’s start date is now marked *disputed*.
+Still to check by hand (not shown in the excerpts): Ottoman and Mughal peak, Mughal capitals, Han’s Xuchang capital, Inca Vilcabamba (1572), Mongol end (1368), Qing founders and peak, Gupta capital, Achaemenid capitals other than Pasargadae and Persepolis, Carthage’s independence from Tyre, Melaka’s peak and conversion to Islam.
 
 ## Priority 2 — sensitive topics (check wording is neutral and fair)
 - Israel and the Nakba (event israel-nakba)

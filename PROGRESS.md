@@ -43,9 +43,9 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 - [x] Small countries as map dots, 21 new entries, finer coastline (#42); economic crisis events (#43)
 - [ ] Map gaps still open: Indigenous nations on the 1492–1900 maps (link each only after checking it in a source); 91 more linked by category check, about 880 names in the Americas still unlinked; 1492 is the weakest map (81% → 83%). Western Sahara and Antarctica stay unlinked on purpose. (#78, Mike)
 - [ ] Optional last gaps: one-map oddities (Great Khanate 1400, Canada 1815), Libya, Kazakhstan, Angola, Dutch East Indies, Xinjiang. Done in #78: 1400 split into Northern Yuan, Ming and Joseon; Dzungar Khanate 1715; Kazakh Khanate and Turan 1815; Cape and Java under Britain 1815; Kongo 1492; Canada 1815 and Libya checked. Still open: the 1600–1800 “central Asian khanates” shapes (Siberia, Mongolia, the Kazakh steppe), 1200 “Fatimid Caliphate” (no Ayyubid entry), unnamed Sahara and Borneo 1815 (#78, Mike)
-- [ ] Britannica check of the 20 major civilisations (REVIEW.md, Priority 1)
+- [x] Britannica check of the 20 major civilisations (REVIEW.md, Priority 1) (#77, Mike: Britannica excerpts plus World History Encyclopedia; a few points still to check by hand, see reports/major-civs-spotcheck.md)
 
-- [ ] Pictures for the remaining “Known for” items and the 21 civilisations without one (many have no free picture on Commons)
+- [ ] Pictures for the remaining “Known for” items and the 21 civilisations without one (many have no free picture on Commons); 17 of the 21 civilisations done, still without: Dendi, Mongol tribes, Rouran, Xiongnu (#79, Mike)
 
 ### Later
 - [ ] Quiz mode for students
@@ -66,16 +66,16 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | Civilisations shown on the map | `███████████████████░` 93% | 466 of 499; the rest fly to their capital |
 | Checklist filled in | `████████████████████` 100% | 21457 of 21457 items (499 × 43) |
 | Answers with real detail | `█████████████░░░░░░░` 63% | 7475 answers are still under 40 characters |
-| Fact-checked against a source | `██████░░░░░░░░░░░░░░` 29% | 6272 items say “(checked …)”; the rest still need a second look |
+| Fact-checked against a source | `██████░░░░░░░░░░░░░░` 29% | 6279 items say “(checked …)”; the rest still need a second look |
 | Civilisations with events | `████████████████████` 100% | 499 of 499 |
 | Civilisations with famous people | `██████████████░░░░░░` 72% | 357 of 499; many prehistoric cultures have no known names |
 | Civilisations linked to others | `████████████████████` 100% | 499 of 499 (succeeded, conquered, traded with…) |
-| Civilisation pictures | `███████████████████░` 96% | 478 of 499 |
+| Civilisation pictures | `████████████████████` 99% | 495 of 499 |
 | “Known for” pictures | `█████████████░░░░░░░` 63% | 985 of 1557 items |
 | People pictures | `██████████████████░░` 91% | 412 of 451 |
 | Event pictures | `████████████████░░░░` 78% | 753 of 962 |
 
-Certainty of all items: 14639 confirmed · 6388 estimated · 430 disputed.
+Certainty of all items: 14638 confirmed · 6388 estimated · 431 disputed.
 Also in the app: 962 events · 451 people · 18 routes · 11 stories.
 
 ## Map coverage by year
