@@ -44,10 +44,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "The steppes from the northern Black Sea coast to the Altai and Central Asia.",
+        "value": "The Pontic Steppe north of the Black Sea (modern Ukraine and southern Russia), after migrating from Central Asia.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Scythians; Wikipedia: Saka"
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
       },
       "terrain": {
         "value": "Open grassland with river valleys; mountains in the east.",
@@ -56,16 +56,16 @@
         "source": "Wikipedia: Scythians; Wikipedia: Saka"
       },
       "climate": {
-        "value": "Continental: hot summers, cold winters.",
+        "value": "The Pontic Steppe was wet and damp in the 1st millennium BCE, so grass grew in abundance for their herds.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Scythians; Wikipedia: Saka"
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
       },
       "resources": {
-        "value": "Pasture for horses, cattle and sheep; gold from the Altai; grain from farming neighbours.",
+        "value": "Rich grassland for large herds of horses and cattle; grain from settled forest-steppe peoples, taken as tribute.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Scythians; Wikipedia: Saka"
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
       },
       "disasters": {
         "value": "Hard winters that killed herds.",
@@ -82,10 +82,10 @@
         "source": "Wikipedia: Scythians; Wikipedia: Saka"
       },
       "urbanisation": {
-        "value": "Mostly nomadic; some fortified settlements (Kamianske, Bilsk).",
-        "year": -500,
+        "value": "Mostly nomadic at first; later many settled, and Kamianka became the capital in the late 5th century BCE.",
+        "year": -400,
         "certainty": "confirmed",
-        "source": "Wikipedia: Scythians; Wikipedia: Saka"
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
       },
       "disease": {
         "value": "Unknown.",
@@ -94,56 +94,56 @@
         "source": "Wikipedia: Scythians; Wikipedia: Saka"
       },
       "migration": {
-        "value": "Moved from Central Asia into the Black Sea steppe around the 8th–7th century BCE; Saka groups moved into Iran and India (Indo-Scythians).",
-        "year": -700,
-        "certainty": "estimated",
-        "source": "Wikipedia: Scythians; Wikipedia: Saka"
+        "value": "Migrated from Central Asia to the Pontic Steppe in the 9th–8th centuries BCE.",
+        "year": -800,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
       }
     },
     "economy": {
       "economicBase": {
-        "value": "Herding horses, sheep and cattle; tribute and trade with farmers.",
+        "value": "Nomadic herding of horses, cattle and sheep; grain tribute from settled peoples and trade with the Greeks.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Scythians; Wikipedia: Saka"
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "Traded grain, slaves and furs to Greek colonies on the Black Sea for wine, oil and fine goods.",
+        "value": "Sold grain, slaves, fish, furs and cattle to Greek colonies on the Black Sea in return for luxury goods such as wine.",
         "year": -500,
         "certainty": "confirmed",
-        "source": "Wikipedia: Scythians; Wikipedia: Saka"
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
       },
       "wealth": {
-        "value": "Chiefs were buried with great treasures of gold.",
+        "value": "Aristocrats were buried with lavish grave goods, including gold jewellery and fine Greek-made vessels.",
         "year": -400,
         "certainty": "confirmed",
-        "source": "Wikipedia: Scythians; Wikipedia: Saka"
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
       },
       "moneyAndTax": {
-        "value": "No coins of their own until some Saka kings minted coins.",
+        "value": "Used coins for trade with the Greeks but never in their own domestic market.",
         "year": -100,
-        "certainty": "estimated",
-        "source": "Wikipedia: Scythians; Wikipedia: Saka"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
       },
       "inequality": {
-        "value": "Royal clans and warriors above herders and slaves.",
+        "value": "A ruling aristocracy above commoners, serfs and slaves; slaves tilled the land and tended cattle.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Scythians; Wikipedia: Saka"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
       }
     },
     "politics": {
       "governmentType": {
-        "value": "Tribal confederations under kings.",
+        "value": "A monarchy: the king of all the Scythians was chief of the dominant tribe, the Royal Scythians.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Scythians; Wikipedia: Saka"
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
       },
       "keyRulers": {
-        "value": "King Ateas (died 339 BCE). King Idanthyrsus (fought Darius I, about 513 BCE). Indo-Scythian king Maues (about 85 BCE).",
+        "value": "King Idanthyrsus (about 530–510 BCE). King Ateas, killed fighting Philip II of Macedon in 339 BCE.",
         "year": -339,
         "certainty": "confirmed",
-        "source": "Wikipedia: Scythians; Wikipedia: Saka"
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
       },
       "succession": {
         "value": "Hereditary royal clans, as described by Herodotus.",
@@ -152,10 +152,10 @@
         "source": "Wikipedia: Scythians; Wikipedia: Saka"
       },
       "institutions": {
-        "value": "Councils of warriors; oaths sworn by drinking wine mixed with blood (Herodotus).",
+        "value": "Clan groups formed the basis of community and politics; a custom of blood brotherhood existed.",
         "year": -450,
-        "certainty": "disputed",
-        "source": "Wikipedia: Scythians; Wikipedia: Saka"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
       },
       "stability": {
         "value": "Groups split and merged often.",
@@ -172,28 +172,28 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Mounted archers with composite bows, short swords (akinakes) and scale armour.",
+        "value": "Mounted archers with powerful composite bows; aristocrats wore scale armour of bone, bronze or iron.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Scythians; Wikipedia: Saka"
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
       },
       "majorWars": {
-        "value": "Raids into the Middle East (7th century BCE); resisted Darius I of Persia (about 513 BCE); fought Philip II of Macedon (339 BCE).",
+        "value": "Raided West Asia (7th century BCE); attacked by Darius I of Persia (513 BCE); defeated by Philip II of Macedon (339 BCE).",
         "year": -513,
         "certainty": "confirmed",
-        "source": "Wikipedia: Scythians; Wikipedia: Saka"
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
       },
       "territoryChange": {
-        "value": "Pushed out of the western steppe by the Sarmatians (from about 200 BCE); the Crimean Scythian state lasted until about 200 CE.",
+        "value": "Conquered by the Sarmatians in the 3rd–2nd centuries BCE; the Scythian settlements in Crimea were destroyed around 200 CE.",
         "year": -200,
-        "certainty": "estimated",
-        "source": "Wikipedia: Scythians; Wikipedia: Saka"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
       },
       "alliancesRivals": {
-        "value": "Traded with Greeks; fought Persians and Macedonians; served as mercenaries.",
+        "value": "Traded with the Greeks and served them as mercenary archers; fought the Persians and Macedonians; close ties with the Thracians.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Scythians; Wikipedia: Saka"
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
       }
     },
     "technology": {
@@ -204,48 +204,48 @@
         "source": "Wikipedia: Scythians; Wikipedia: Saka"
       },
       "scienceEducation": {
-        "value": "No writing of their own; known through Greek and Persian writers and archaeology.",
+        "value": "Had no written language; known from Greek writers such as Herodotus and from archaeology.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Scythians; Wikipedia: Saka"
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
       },
       "openness": {
-        "value": "Open to trade and influence from Greeks, Persians and Chinese.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Scythians; Wikipedia: Saka"
-      },
-      "communicationTransport": {
-        "value": "Horses and wagons covered with felt carried whole families across the steppe.",
+        "value": "Their art absorbed Greek, West Asian and Thracian influences.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Scythians"
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
+      },
+      "communicationTransport": {
+        "value": "Nomads lived in wagons and felt tents and moved with their herds.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
       }
     },
     "culture": {
       "religion": {
-        "value": "Worshipped gods such as Tabiti (hearth) and Papaios (sky); Herodotus describes cannabis steam rituals.",
+        "value": "Soothsayers used cannabis for trance and divination; goddesses such as Artimpasa were influenced by Mesopotamian religion.",
         "year": -450,
-        "certainty": "disputed",
-        "source": "Wikipedia: Scythians; Wikipedia: Saka"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
       },
       "languageWriting": {
-        "value": "Eastern Iranian languages (related to modern Ossetian).",
+        "value": "Eastern Iranic languages; a western branch survived as the language of the Alans and modern Ossetian.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Scythians; Wikipedia: Saka"
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
       },
       "artsArchitecture": {
-        "value": "The “animal style” in gold and bronze; tattoos found on frozen mummies (Pazyryk).",
+        "value": "The “Animal Style” art, showing animals in set poses; skilled goldsmithing and bronze-casting.",
         "year": -300,
         "certainty": "confirmed",
-        "source": "Wikipedia: Scythians; Wikipedia: Saka"
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
       },
       "socialStructure": {
-        "value": "Warrior aristocracy; some women were buried with weapons.",
+        "value": "Patriarchal and clan-based, led by a warrior aristocracy; women warriors appeared after Sauromatian immigration.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Scythians; Wikipedia: Saka"
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
       },
       "sharedIdentity": {
         "value": "Shared nomadic culture across a huge area rather than one nation.",
@@ -254,18 +254,18 @@
         "source": "Wikipedia: Scythians; Wikipedia: Saka"
       },
       "dailyLife": {
-        "value": "Lived in wagons and felt tents, moving between pastures; meat, mare’s milk and cheese; trousers and leather boots for riding.",
+        "value": "Lived in wagons and felt tents; ate meat from their herds and drank mare’s milk, also made into cheese.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Scythians"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "Greeks, Persians, Thracians, Sarmatians, Chinese states.",
+        "value": "Greeks, Persians, Thracians and Sarmatians.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Scythians; Wikipedia: Saka"
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
       },
       "ideasReligions": {
         "value": "Greek art influenced Scythian goldwork; steppe styles spread into Europe and China.",
@@ -288,22 +288,22 @@
         "source": "Wikipedia: Scythians; Wikipedia: Saka"
       },
       "peakPeriod": {
-        "value": "Black Sea Scythians at their richest in the 4th century BCE.",
+        "value": "A period of prosperity in the 4th century BCE.",
         "year": -350,
-        "certainty": "estimated",
-        "source": "Wikipedia: Scythians; Wikipedia: Saka"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
       },
       "declineSignals": {
-        "value": "Pressure from the Sarmatians and others.",
-        "year": -200,
-        "certainty": "estimated",
-        "source": "Wikipedia: Scythians; Wikipedia: Saka"
+        "value": "Climate change, overgrazed pastures, military setbacks and the arrival of the Sarmatians in the early 3rd century BCE.",
+        "year": -280,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
       },
       "outcome": {
-        "value": "Merged into other peoples by about the 4th century CE (Goths, Huns, Alans).",
+        "value": "Overwhelmed by the Goths by the 3rd century CE and absorbed by other peoples during the Migration Period.",
         "year": 300,
-        "certainty": "estimated",
-        "source": "Wikipedia: Scythians; Wikipedia: Saka"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Scythians (checked 8 Nov 2026)"
       }
     },
     "dataQuality": {

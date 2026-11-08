@@ -79,10 +79,10 @@
         "source": "Wikipedia: Weimar Republic"
       },
       "disasters": {
-        "value": "Great Depression hit hard (1929–32).",
+        "value": "The Great Depression from 1929, worsened by the 1931 European banking crisis, hit Germany severely.",
         "year": 1929,
         "certainty": "confirmed",
-        "source": "Wikipedia: Weimar Republic"
+        "source": "Wikipedia: Weimar Republic (checked 8 Nov 2026)"
       }
     },
     "population": {
@@ -125,16 +125,16 @@
         "source": "Wikipedia: Weimar Republic"
       },
       "wealth": {
-        "value": "Reparations, hyperinflation (1923) and mass unemployment (1932).",
+        "value": "Reparations, hyperinflation peaking in 1923, and a surge in unemployment after 1929.",
         "year": 1923,
         "certainty": "confirmed",
-        "source": "Wikipedia: Weimar Republic"
+        "source": "Wikipedia: Weimar Republic (checked 8 Nov 2026)"
       },
       "moneyAndTax": {
-        "value": "Papiermark, then Rentenmark and Reichsmark (1924).",
-        "year": 1924,
+        "value": "Paper mark, then the Rentenmark (November 1923), which stopped the hyperinflation.",
+        "year": 1923,
         "certainty": "confirmed",
-        "source": "Wikipedia: Weimar Republic"
+        "source": "Wikipedia: Weimar Republic (checked 8 Nov 2026)"
       },
       "inequality": {
         "value": "Unemployment hit workers hardest; Jews were robbed of property after 1933.",
@@ -148,45 +148,45 @@
         "value": "Parliamentary republic (1919–33), then a one-party dictatorship.",
         "year": 1933,
         "certainty": "confirmed",
-        "source": "Wikipedia: Weimar Republic"
+        "source": "Wikipedia: Weimar Republic (checked 8 Nov 2026)"
       },
       "keyRulers": {
         "value": "Friedrich Ebert. Gustav Stresemann. Paul von Hindenburg. Adolf Hitler.",
         "year": 1919,
         "certainty": "confirmed",
-        "source": "Wikipedia: Weimar Republic"
+        "source": "Wikipedia: Weimar Republic (checked 8 Nov 2026)"
       },
       "succession": {
-        "value": "Elections; Hitler appointed chancellor (Jan 1933) and made himself Führer (1934).",
+        "value": "Elections; Hindenburg appointed Hitler chancellor (January 1933), and on Hindenburg’s death (1934) Hitler became “Führer and Reich Chancellor”.",
         "year": 1934,
         "certainty": "confirmed",
-        "source": "Wikipedia: Weimar Republic"
+        "source": "Wikipedia: Weimar Republic (checked 8 Nov 2026)"
       },
       "institutions": {
         "value": "Weimar Constitution (1919); Enabling Act (1933) ended democracy.",
         "year": 1933,
         "certainty": "confirmed",
-        "source": "Wikipedia: Weimar Republic"
+        "source": "Wikipedia: Weimar Republic (checked 8 Nov 2026)"
       },
       "stability": {
-        "value": "Coup attempts (1920, 1923); street violence.",
+        "value": "Two attempted coups (Kapp Putsch 1920, beer hall putsch 1923), political murders and street fighting.",
         "year": 1923,
         "certainty": "confirmed",
-        "source": "Wikipedia: Weimar Republic"
+        "source": "Wikipedia: Weimar Republic (checked 8 Nov 2026)"
       },
       "eliteConflict": {
-        "value": "Army, industrialists and conservatives helped Hitler into power.",
+        "value": "Army leaders gained growing political influence; President Hindenburg appointed Hitler chancellor in 1933.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Weimar Republic"
+        "source": "Wikipedia: Weimar Republic (checked 8 Nov 2026)"
       }
     },
     "military": {
       "armyAndTech": {
-        "value": "Rearmament from 1935; Wehrmacht, tanks and aircraft.",
-        "year": 1935,
+        "value": "Versailles limited the army (Reichswehr) to 100,000 men, which it secretly tried to get around.",
+        "year": 1921,
         "certainty": "confirmed",
-        "source": "Wikipedia: Weimar Republic"
+        "source": "Wikipedia: Weimar Republic (checked 8 Nov 2026)"
       },
       "majorWars": {
         "value": "Second World War (1939–45).",
@@ -195,10 +195,10 @@
         "source": "Wikipedia: Weimar Republic"
       },
       "territoryChange": {
-        "value": "Annexed Austria and Sudetenland (1938); conquered most of Europe (1939–42).",
-        "year": 1938,
+        "value": "Treaty of Versailles (1919): lost its colonies and about 13% of its European territory.",
+        "year": 1919,
         "certainty": "confirmed",
-        "source": "Wikipedia: Weimar Republic"
+        "source": "Wikipedia: Weimar Republic (checked 8 Nov 2026)"
       },
       "alliancesRivals": {
         "value": "Axis with Italy and Japan.",
@@ -238,7 +238,7 @@
         "value": "Protestant and Catholic.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Weimar Republic"
+        "source": "Wikipedia: Weimar Republic (checked 8 Nov 2026)"
       },
       "languageWriting": {
         "value": "German.",
@@ -247,10 +247,10 @@
         "source": "Wikipedia: Weimar Republic"
       },
       "artsArchitecture": {
-        "value": "Weimar culture: Bauhaus, cinema, cabaret; Nazis banned “degenerate art”.",
-        "year": 1937,
+        "value": "Weimar culture: Bauhaus architecture, cinema, cabaret and jazz.",
+        "year": 1924,
         "certainty": "confirmed",
-        "source": "Wikipedia: Weimar Republic"
+        "source": "Wikipedia: Weimar Republic (checked 8 Nov 2026)"
       },
       "socialStructure": {
         "value": "Nazi racial laws (Nuremberg Laws, 1935).",
@@ -259,10 +259,10 @@
         "source": "Wikipedia: Weimar Republic"
       },
       "sharedIdentity": {
-        "value": "Nationalism and resentment of the Versailles Treaty.",
+        "value": "Widespread anger at the Versailles Treaty’s war-guilt clause (Article 231) and territorial losses.",
         "year": null,
-        "certainty": "disputed",
-        "source": "Wikipedia: Weimar Republic"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Weimar Republic (checked 8 Nov 2026)"
       },
       "dailyLife": {
         "value": "Apartments; rationing in the war.",
@@ -285,10 +285,10 @@
         "source": "Wikipedia: Weimar Republic"
       },
       "colonisation": {
-        "value": "Lost its colonies in 1919.",
-        "year": null,
+        "value": "Lost its colonies under the Treaty of Versailles (1919).",
+        "year": 1919,
         "certainty": "confirmed",
-        "source": "Wikipedia: Weimar Republic"
+        "source": "Wikipedia: Weimar Republic (checked 8 Nov 2026)"
       }
     },
     "riseFall": {
@@ -296,19 +296,19 @@
         "value": "Republic declared (1918).",
         "year": 1918,
         "certainty": "confirmed",
-        "source": "Wikipedia: Weimar Republic"
+        "source": "Wikipedia: Weimar Republic (checked 8 Nov 2026)"
       },
       "peakPeriod": {
         "value": "“Golden Twenties” (1924–29).",
         "year": 1924,
         "certainty": "confirmed",
-        "source": "Wikipedia: Weimar Republic"
+        "source": "Wikipedia: Weimar Republic (checked 8 Nov 2026)"
       },
       "declineSignals": {
-        "value": "Depression, then dictatorship and war.",
+        "value": "The Depression, then Hitler’s one-party dictatorship (1933).",
         "year": 1930,
         "certainty": "confirmed",
-        "source": "Wikipedia: Weimar Republic"
+        "source": "Wikipedia: Weimar Republic (checked 8 Nov 2026)"
       },
       "outcome": {
         "value": "Defeated in 1945; divided into occupation zones, later West and East Germany.",

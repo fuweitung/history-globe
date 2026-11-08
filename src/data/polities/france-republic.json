@@ -31,8 +31,8 @@
       "terrain": {
         "value": "Plains, the Alps, Pyrenees and Massif Central.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       },
       "climate": {
         "value": "Temperate in the north and west, continental in the east, Mediterranean in the south.",
@@ -41,10 +41,10 @@
         "source": "Jackson, De Gaulle (2018)"
       },
       "resources": {
-        "value": "Rich farmland, wine regions, forests and a large nuclear power industry (about 70% of electricity).",
+        "value": "Extensive farmland (Europe’s leading agricultural producer) and nuclear power, which generates about 70% of electricity.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       },
       "disasters": {
         "value": "The 2003 heatwave killed about 15,000 people; floods and storms.",
@@ -55,54 +55,54 @@
     },
     "population": {
       "population": {
-        "value": "About 68 million, including overseas departments.",
-        "year": 2024,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "value": "Over 69 million (2026), including the overseas regions.",
+        "year": 2026,
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       },
       "urbanisation": {
-        "value": "About 80% urban; Paris is by far the largest city, with over 12 million in its metropolitan area.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "value": "Highly urbanised; Paris has a metropolitan population of over 13 million.",
+        "year": 2023,
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       },
       "disease": {
-        "value": "AIDS from the 1980s; COVID-19. A universal public health system.",
+        "value": "Universal health care, largely funded by national health insurance; rated among the best in the world by the WHO.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       },
       "migration": {
-        "value": "Migration from North Africa and elsewhere.",
+        "value": "Waves of immigration since the early 20th century; from the 1960s–70s many came from North and West Africa.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       }
     },
     "economy": {
       "economicBase": {
-        "value": "Services, industry, tourism, agriculture.",
+        "value": "A highly diversified economy: services, industry, agriculture and tourism (the world’s top tourist destination).",
         "year": null,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "Part of the EU single market; global trade through ports such as Le Havre and Marseille.",
+        "value": "Part of the eurozone and the European single market.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       },
       "wealth": {
         "value": "A high-income economy; one of the largest in the world.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       },
       "moneyAndTax": {
-        "value": "The new franc (1960), then the euro (2002); high taxes pay for social services.",
-        "year": 2002,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "value": "Helped establish the eurozone in 1999; uses the euro.",
+        "year": 1999,
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       },
       "inequality": {
         "value": "A strong welfare state keeps inequality lower than in many rich countries; tensions in poorer suburbs.",
@@ -113,34 +113,34 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A semi-presidential republic: a powerful elected president and a prime minister responsible to parliament.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "value": "A semi-presidential republic (the Fifth Republic, founded in 1958).",
+        "year": 1958,
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Charles de Gaulle, François Mitterrand, Jacques Chirac.",
+        "value": "Charles de Gaulle, who founded the Fifth Republic in 1958.",
         "year": 1958,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       },
       "succession": {
-        "value": "Direct presidential elections (since 1962) and parliamentary elections.",
+        "value": "The president is directly elected; members of the National Assembly are directly elected for local constituencies.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       },
       "institutions": {
-        "value": "The 1958 constitution of the Fifth Republic, the Constitutional Council, and a centralised civil service.",
+        "value": "The Fifth Republic’s 1958 constitution, which strengthened the executive over the legislature.",
         "year": 1958,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       },
       "stability": {
-        "value": "Generally stable; the May 1968 protests and strikes shook the government.",
+        "value": "The May 1968 revolt had an enormous social impact.",
         "year": 1968,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       },
       "eliteConflict": {
         "value": "Competition between left- and right-wing parties, and since 2017 new centrist and populist parties.",
@@ -153,26 +153,26 @@
       "armyAndTech": {
         "value": "A nuclear power with a permanent UN Security Council seat.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       },
       "majorWars": {
-        "value": "The Algerian War ended in 1962; later military operations in Africa and the Middle East.",
+        "value": "The Algerian War ended in 1962 with Algerian independence.",
         "year": 1962,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       },
       "territoryChange": {
-        "value": "Algeria and most African colonies became independent around 1960–62.",
+        "value": "Algeria and most French colonies became independent in the 1960s.",
         "year": 1962,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       },
       "alliancesRivals": {
-        "value": "Founding member of the European Union; a NATO member (left its command 1966–2009).",
+        "value": "A leading force in the EU; a founding NATO member that left its joint military command under de Gaulle and later rejoined.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       }
     },
     "technology": {
@@ -183,10 +183,10 @@
         "source": "Jackson, De Gaulle (2018)"
       },
       "scienceEducation": {
-        "value": "Free public education; elite grandes écoles; strong research in physics and mathematics.",
+        "value": "Free, secular and compulsory schooling; public universities and selective grandes écoles.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       },
       "openness": {
         "value": "Leading role in European integration; open to world culture while protecting French language and film.",
@@ -195,30 +195,30 @@
         "source": "Jackson, De Gaulle (2018)"
       },
       "communicationTransport": {
-        "value": "The TGV high-speed train (1981), the Paris Métro, motorways and the Channel Tunnel (1994).",
+        "value": "The TGV high-speed train, an extensive rail and road network, and the Channel Tunnel to Britain.",
         "year": 1981,
         "certainty": "confirmed",
-        "source": "Wikipedia: France"
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       }
     },
     "culture": {
       "religion": {
-        "value": "A secular state (laïcité); mostly Catholic tradition; a large Muslim minority.",
+        "value": "A secular country (laïcité, since 1905); Catholicism has been the main religion for over a millennium.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       },
       "languageWriting": {
-        "value": "French, protected by law; regional languages such as Breton and Occitan.",
+        "value": "French, overseen by the Académie Française; regional languages such as Occitan and Breton.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       },
       "artsArchitecture": {
-        "value": "New Wave cinema, fashion houses, the Pompidou Centre and the Louvre Pyramid.",
+        "value": "New Wave cinema (late 1950s–60s), Paris fashion houses, the Centre Pompidou and the Louvre Pyramid.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       },
       "socialStructure": {
         "value": "A large middle class; debates about immigration and integration.",
@@ -233,50 +233,50 @@
         "source": "Jackson, De Gaulle (2018)"
       },
       "dailyLife": {
-        "value": "Apartments in cities, houses in the countryside; bread, cheese, wine; long family lunches.",
+        "value": "Famous wines and cheeses; meals often have three courses.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: France"
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "Belgium, Germany, Switzerland, Italy, Spain, UK.",
+        "value": "Belgium, Luxembourg, Germany, Switzerland, Italy, Monaco, Andorra and Spain; a sea border with the UK.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       },
       "ideasReligions": {
-        "value": "Laïcité (strict separation of religion and state) and existentialist philosophy.",
+        "value": "Laïcité (strict separation of church and state, 1905) and existentialist philosophy (Sartre, Camus, de Beauvoir).",
         "year": null,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       },
       "colonisation": {
-        "value": "Decolonisation by 1962; overseas territories remain.",
+        "value": "Most colonies became independent in the 1960s; overseas regions and territories remain.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Charles de Gaulle’s new constitution (1958) gave the government more stability than the Fourth Republic.",
+        "value": "De Gaulle’s Fifth Republic (1958) strengthened the executive to end the instability of earlier republics.",
         "year": 1958,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Still exists; the “Trente Glorieuses” boom (1945–1975) was a high point of growth.",
+        "value": "The “Trente Glorieuses”, three decades of rapid post-war economic growth.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       },
       "declineSignals": {
-        "value": "Not applicable: still exists. Debates over debt, protests and social cohesion.",
+        "value": "Since the post-Gaullist era, crises with high unemployment and rising public debt.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Jackson, De Gaulle (2018)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: France (checked 8 Nov 2026)"
       },
       "outcome": {
         "value": "Continues today as the French Republic.",

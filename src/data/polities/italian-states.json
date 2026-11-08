@@ -97,10 +97,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "The Italian peninsula and islands; about 300,000 km².",
+        "value": "The Italian Peninsula and its outlying islands.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Italian unification"
+        "source": "Wikipedia: Italian unification (checked 8 Nov 2026)"
       },
       "terrain": {
         "value": "Alps, Po valley, Apennines, islands.",
@@ -187,16 +187,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Kingdoms, duchies, republics and the papal monarchy.",
+        "value": "A patchwork of separate states, including kingdoms, duchies and the Papal States ruled by the pope.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Italian unification"
+        "source": "Wikipedia: Italian unification (checked 8 Nov 2026)"
       },
       "keyRulers": {
         "value": "Lorenzo de’ Medici. Popes. Victor Emmanuel II. Cavour.",
         "year": 1469,
         "certainty": "confirmed",
-        "source": "Wikipedia: Italian unification"
+        "source": "Wikipedia: Italian unification (checked 8 Nov 2026)"
       },
       "succession": {
         "value": "Dynasties; elected popes.",
@@ -211,10 +211,10 @@
         "source": "Wikipedia: Italian unification"
       },
       "stability": {
-        "value": "Italian Wars (1494–1559); revolutions (1820, 1848).",
+        "value": "Italian Wars (from 1494); revolutions in the 1820s, 1830s and 1848.",
         "year": 1494,
         "certainty": "confirmed",
-        "source": "Wikipedia: Italian unification"
+        "source": "Wikipedia: Italian unification (checked 8 Nov 2026)"
       },
       "eliteConflict": {
         "value": "Noble families and foreign powers.",
@@ -231,22 +231,22 @@
         "source": "Wikipedia: Italian unification"
       },
       "majorWars": {
-        "value": "Italian Wars; wars of independence (1848–61).",
+        "value": "Italian Wars (1494–1559); Italian Wars of Independence against Austria (from 1848).",
         "year": 1494,
         "certainty": "confirmed",
-        "source": "Wikipedia: Italian unification"
+        "source": "Wikipedia: Italian unification (checked 8 Nov 2026)"
       },
       "territoryChange": {
-        "value": "Borders changed often with foreign wars.",
+        "value": "Napoleon redrew the map; the Congress of Vienna (1814–15) restored the old patchwork of states.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Italian unification"
+        "source": "Wikipedia: Italian unification (checked 8 Nov 2026)"
       },
       "alliancesRivals": {
         "value": "Spain, France and Austria competed for control.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Italian unification"
+        "source": "Wikipedia: Italian unification (checked 8 Nov 2026)"
       }
     },
     "technology": {
@@ -277,16 +277,16 @@
     },
     "culture": {
       "religion": {
-        "value": "Catholic; seat of the papacy.",
+        "value": "Catholic; the pope ruled central Italy as the Papal States.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Italian unification"
+        "source": "Wikipedia: Italian unification (checked 8 Nov 2026)"
       },
       "languageWriting": {
-        "value": "Italian dialects; Latin.",
+        "value": "Mutually unintelligible regional dialects; Manzoni’s novel I Promessi Sposi (1840) used a standardised Tuscan.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Italian unification"
+        "source": "Wikipedia: Italian unification (checked 8 Nov 2026)"
       },
       "artsArchitecture": {
         "value": "Leonardo, Michelangelo, Raphael; Baroque Rome.",
@@ -301,10 +301,10 @@
         "source": "Wikipedia: Italian unification"
       },
       "sharedIdentity": {
-        "value": "Shared culture but no single state.",
+        "value": "Renaissance writers such as Dante and Machiavelli hoped for a united Italy, but most people spoke local dialects and lacked national feeling.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Italian unification"
+        "source": "Wikipedia: Italian unification (checked 8 Nov 2026)"
       },
       "dailyLife": {
         "value": "Pasta, bread, wine.",
@@ -321,24 +321,24 @@
         "source": "Wikipedia: Italian unification"
       },
       "ideasReligions": {
-        "value": "Humanism; Counter-Reformation.",
+        "value": "Italian nationalism (the Risorgimento), spread by Mazzini and secret groups such as the Carbonari.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Italian unification"
+        "source": "Wikipedia: Italian unification (checked 8 Nov 2026)"
       },
       "colonisation": {
-        "value": "Parts were ruled by Spain (1504–1713) and Austria (1714–1859).",
+        "value": "Spanish Habsburgs ruled southern Italy and Milan until the War of the Spanish Succession (1701–14); Austria later dominated, directly ruling Lombardy–Venetia after 1815.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Italian unification"
+        "source": "Wikipedia: Italian unification (checked 8 Nov 2026)"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Peace of Lodi balanced the states (1454).",
+        "value": "The Italic League treaty (1454) and Medici foreign policy were early signs of unity.",
         "year": 1454,
         "certainty": "confirmed",
-        "source": "Wikipedia: Italian unification"
+        "source": "Wikipedia: Italian unification (checked 8 Nov 2026)"
       },
       "peakPeriod": {
         "value": "High Renaissance (1490–1530).",
@@ -347,16 +347,16 @@
         "source": "Wikipedia: Italian unification"
       },
       "declineSignals": {
-        "value": "Foreign domination after 1559.",
+        "value": "After the Peace of Cateau-Cambrésis (1559), parts of Italy fell under Spanish Habsburg control.",
         "year": 1559,
         "certainty": "confirmed",
-        "source": "Wikipedia: Italian unification"
+        "source": "Wikipedia: Italian unification (checked 8 Nov 2026)"
       },
       "outcome": {
-        "value": "United as the Kingdom of Italy (1861).",
+        "value": "United as the Kingdom of Italy in 1861; Rome became the capital in 1871.",
         "year": 1861,
         "certainty": "confirmed",
-        "source": "Wikipedia: Italian unification"
+        "source": "Wikipedia: Italian unification (checked 8 Nov 2026)"
       }
     },
     "dataQuality": {
