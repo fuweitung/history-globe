@@ -26,7 +26,7 @@
     {
       "label": "Potala Palace",
       "kind": "monument",
-      "year": 1649,
+      "year": 1645,
       "note": "The Dalai Lamas’ palace in Lhasa, begun under the Fifth Dalai Lama."
     },
     {
@@ -129,7 +129,7 @@
         "value": "Most peasants owed labour and goods to estates of monasteries, nobles or the government; how to describe this system is debated.",
         "year": null,
         "certainty": "disputed",
-        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang (checked 9 Nov 2026)"
       }
     },
     "politics": {
@@ -137,7 +137,7 @@
         "value": "After 1642, the Ganden Phodrang government led by the Dalai Lamas, ruling through monks and lay officials.",
         "year": 1642,
         "certainty": "confirmed",
-        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang (checked 9 Nov 2026)"
       },
       "keyRulers": {
         "value": "Atisha (teacher, 11th century). Sakya Pandita. Tsongkhapa (founder of the Gelug school). The 5th Dalai Lama (1617–1682). The 13th Dalai Lama (1876–1933).",
@@ -146,28 +146,28 @@
         "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
       },
       "succession": {
-        "value": "Dalai Lamas were found as reincarnations; regents ruled in between; the Qing introduced the Golden Urn (1793) to choose them.",
+        "value": "Dalai Lamas were found as reincarnations, with regents ruling in between; the Qing introduced the Golden Urn in 1793, though it was not always used.",
         "year": 1793,
         "certainty": "disputed",
-        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang (checked 9 Nov 2026)"
       },
       "institutions": {
-        "value": "Monasteries, the Kashag cabinet and noble families.",
-        "year": 1751,
+        "value": "Monasteries, noble families and the Kashag council (set up by the Qing in 1721 and reorganised in 1751).",
+        "year": 1721,
         "certainty": "confirmed",
-        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang (checked 9 Nov 2026)"
       },
       "stability": {
-        "value": "Long periods of division (842–1240s); civil wars between religious schools and princes.",
-        "year": 1600,
+        "value": "Divided among local rulers after 842; later civil wars between religious schools and princes, such as the Drikung revolt against the Sakya (1285) and the Tsangpa overthrow of the Rinpungpa (1565).",
+        "year": 1285,
         "certainty": "confirmed",
-        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang (checked 9 Nov 2026)"
       },
       "eliteConflict": {
         "value": "Rivalry between Buddhist schools (Sakya, Kagyu, Gelug) and their noble patrons.",
         "year": 1600,
         "certainty": "confirmed",
-        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang (checked 9 Nov 2026)"
       }
     },
     "military": {
@@ -178,22 +178,22 @@
         "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
       },
       "majorWars": {
-        "value": "Dzungar invasion (1717); wars with Nepal (1788–92); British expedition to Lhasa (1903–04); Chinese People’s Liberation Army entered in 1950.",
+        "value": "Dzungar invasion (1717); wars with Nepal (from 1788, including a Nepalese invasion in 1791); British expedition to Lhasa (1903–04); the Chinese People’s Liberation Army entered Chamdo in October 1950.",
         "year": 1904,
         "certainty": "confirmed",
-        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang (checked 9 Nov 2026)"
       },
       "territoryChange": {
-        "value": "Under Mongol Yuan influence (from 1240s), then Qing influence (1720–1912); governed itself in practice 1913–1950.",
+        "value": "Under Mongol Yuan influence (from the 1240s), then Qing rule or influence (1720–1912); after the 13th Dalai Lama’s 1913 proclamation it governed itself in practice until 1950–51. China and Tibetan exiles disagree over what this meant for sovereignty.",
         "year": 1913,
         "certainty": "disputed",
-        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang (checked 9 Nov 2026)"
       },
       "alliancesRivals": {
         "value": "Patron–priest relationships with Mongol and Manchu rulers; how these relate to sovereignty is disputed between Chinese and Tibetan views.",
         "year": 1720,
         "certainty": "disputed",
-        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang (checked 9 Nov 2026)"
       }
     },
     "technology": {
@@ -210,10 +210,10 @@
         "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
       },
       "openness": {
-        "value": "Isolated by geography; restricted foreign visitors in the 19th century.",
+        "value": "Isolated by geography; in the 19th century only three Westerners reached Lhasa.",
         "year": 1850,
         "certainty": "confirmed",
-        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang (checked 9 Nov 2026)"
       },
       "communicationTransport": {
         "value": "Yak and mule caravans over high passes; travel to Lhasa by pilgrims; letters carried by couriers.",
@@ -236,10 +236,10 @@
         "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
       },
       "artsArchitecture": {
-        "value": "Monasteries, the Potala Palace, thangka painting, sand mandalas, ritual dance.",
-        "year": 1649,
+        "value": "Monasteries, the Potala Palace (begun in 1645), thangka painting, sand mandalas, ritual dance.",
+        "year": 1645,
         "certainty": "confirmed",
-        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang (checked 9 Nov 2026)"
       },
       "socialStructure": {
         "value": "Monks, nobles and peasants; a large share of men became monks.",
@@ -271,7 +271,7 @@
         "value": "Buddhism from India (the second spread from the 10th century); Tibetan Buddhism spread to the Mongols.",
         "year": 1578,
         "certainty": "confirmed",
-        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang (checked 9 Nov 2026)"
       },
       "colonisation": {
         "value": "Not a coloniser; the subject of rival claims by neighbours.",
@@ -291,7 +291,7 @@
         "value": "The 5th Dalai Lama unified Tibet with Mongol help (1642).",
         "year": 1642,
         "certainty": "confirmed",
-        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang (checked 9 Nov 2026)"
       },
       "declineSignals": {
         "value": "Political weakness against stronger neighbours.",
@@ -300,10 +300,10 @@
         "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
       },
       "outcome": {
-        "value": "Incorporated into the People’s Republic of China (1950–51); the 14th Dalai Lama went into exile in 1959. China calls this a peaceful liberation; the Tibetan government in exile calls it an invasion.",
+        "value": "The People’s Liberation Army took Chamdo in October 1950, and the Seventeen Point Agreement was signed in May 1951; the 14th Dalai Lama fled into exile in 1959 and rejected the agreement. China calls this the Peaceful Liberation of Tibet; the Tibetan government in exile calls it an invasion.",
         "year": 1951,
         "certainty": "disputed",
-        "source": "Wikipedia: History of Tibet; Wikipedia: Ganden Phodrang"
+        "source": "Wikipedia: History of Tibet; Wikipedia: Annexation of Tibet by the People’s Republic of China (checked 9 Nov 2026)"
       }
     },
     "dataQuality": {
