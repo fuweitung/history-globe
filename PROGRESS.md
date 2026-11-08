@@ -43,7 +43,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 - [x] Small countries as map dots, 21 new entries, finer coastline (#42); economic crisis events (#43)
 - [ ] Map gaps still open: about 1,400 Indigenous nations on the 1492–1900 maps (link each only after checking it in a source); 1492 is the weakest map (81%). Western Sahara and Antarctica stay unlinked on purpose.
 - [ ] Optional last gaps: one-map oddities (Great Khanate 1400, Canada 1815), Libya, Kazakhstan, Angola, Dutch East Indies, Xinjiang
-- [ ] Britannica check of the 20 major civilisations (REVIEW.md, Priority 1)
+- [x] Britannica check of the 20 major civilisations (REVIEW.md, Priority 1) (#77, Mike: Britannica excerpts plus World History Encyclopedia; a few points still to check by hand, see reports/major-civs-spotcheck.md)
 
 - [ ] Pictures for the remaining “Known for” items and the 21 civilisations without one (many have no free picture on Commons)
 
@@ -66,7 +66,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | Civilisations shown on the map | `███████████████████░` 93% | 466 of 499; the rest fly to their capital |
 | Checklist filled in | `████████████████████` 100% | 21457 of 21457 items (499 × 43) |
 | Answers with real detail | `█████████████░░░░░░░` 63% | 7475 answers are still under 40 characters |
-| Fact-checked against a source | `██████░░░░░░░░░░░░░░` 29% | 6272 items say “(checked …)”; the rest still need a second look |
+| Fact-checked against a source | `██████░░░░░░░░░░░░░░` 29% | 6279 items say “(checked …)”; the rest still need a second look |
 | Civilisations with events | `████████████████████` 100% | 499 of 499 |
 | Civilisations with famous people | `██████████████░░░░░░` 72% | 357 of 499; many prehistoric cultures have no known names |
 | Civilisations linked to others | `████████████████████` 100% | 499 of 499 (succeeded, conquered, traded with…) |
@@ -75,7 +75,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | People pictures | `██████████████████░░` 91% | 412 of 451 |
 | Event pictures | `████████████████░░░░` 78% | 753 of 962 |
 
-Certainty of all items: 14639 confirmed · 6388 estimated · 430 disputed.
+Certainty of all items: 14638 confirmed · 6388 estimated · 431 disputed.
 Also in the app: 962 events · 451 people · 18 routes · 11 stories.
 
 ## Map coverage by year
