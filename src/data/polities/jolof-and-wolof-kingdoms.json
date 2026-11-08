@@ -40,31 +40,31 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Senegal.",
+        "value": "Northern and central Senegal, between the Senegal and Gambia rivers.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jolof Empire"
       },
       "terrain": {
-        "value": "Savanna and coast.",
+        "value": "Flat savanna and dry grassland, with the Atlantic coast to the west.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jolof Empire"
       },
       "climate": {
-        "value": "Sahel.",
+        "value": "Sahel and savanna: a rainy season from about June to October and a long dry season.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jolof Empire"
       },
       "resources": {
-        "value": "Millet, groundnuts, horses.",
+        "value": "Millet and sorghum, cattle, horses, and later groundnuts (peanuts).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jolof Empire"
       },
       "disasters": {
-        "value": "Droughts.",
+        "value": "Droughts and famines, and locusts.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Jolof Empire"
@@ -72,25 +72,25 @@
     },
     "population": {
       "population": {
-        "value": "Uncertain.",
+        "value": "Perhaps several hundred thousand across the Wolof kingdoms.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Jolof Empire"
       },
       "urbanisation": {
-        "value": "Villages and royal towns.",
+        "value": "Mostly villages; royal capitals moved; trading posts such as Saint-Louis and Gorée grew on the coast.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Jolof Empire"
       },
       "disease": {
-        "value": "Malaria.",
+        "value": "Malaria and other tropical diseases; yellow fever in the coastal towns.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Jolof Empire"
       },
       "migration": {
-        "value": "Uncertain.",
+        "value": "Wolof states absorbed Serer and Fulani neighbours; captives were taken away in the Atlantic slave trade.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Jolof Empire"
@@ -98,7 +98,7 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming, horses, trade.",
+        "value": "Farming millet, herding, trading horses, and later growing groundnuts for export.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jolof Empire"
@@ -110,13 +110,13 @@
         "source": "Wikipedia: Jolof Empire"
       },
       "wealth": {
-        "value": "Trade in horses and captives.",
+        "value": "Rulers grew rich by trading captives to Europeans for horses, guns and cloth.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jolof Empire"
       },
       "moneyAndTax": {
-        "value": "Tribute.",
+        "value": "Tribute from vassal kingdoms, taxes on trade with Europeans, and cloth and iron as money.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jolof Empire"
@@ -130,37 +130,37 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Monarchies (Burba, Damel, Brak).",
+        "value": "Kingdoms ruled by titled kings: the Burba of Jolof, the Damel of Kayor, the Teigne of Baol and the Brak of Waalo.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jolof Empire"
       },
       "keyRulers": {
-        "value": "Ndiadiane Ndiaye (founder). Lat Dior.",
+        "value": "Ndiadiane Ndiaye (legendary founder); Lat Dior Diop, Damel of Kayor, who resisted the French until killed in 1886.",
         "year": 1350,
         "certainty": "confirmed",
         "source": "Wikipedia: Jolof Empire"
       },
       "succession": {
-        "value": "Royal lineages.",
+        "value": "Kings were chosen by councils of nobles from eligible royal lineages, often with rivalry.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jolof Empire"
       },
       "institutions": {
-        "value": "Councils of electors.",
+        "value": "Councils of electors, royal slave soldiers (ceddo), and Muslim clerics (marabouts).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jolof Empire"
       },
       "stability": {
-        "value": "Breakup after 1549.",
-        "year": null,
+        "value": "After the Battle of Danki (1549) Jolof lost its vassals, which became separate kingdoms.",
+        "year": 1549,
         "certainty": "confirmed",
         "source": "Wikipedia: Jolof Empire"
       },
       "eliteConflict": {
-        "value": "Rival kingdoms.",
+        "value": "Wars between Kayor, Baol, Waalo and Jolof; clashes between ceddo warriors and Muslim reformers.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jolof Empire"
@@ -168,7 +168,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Cavalry.",
+        "value": "Cavalry was the main force; firearms bought from Europeans spread from the 1600s.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jolof Empire"
@@ -180,13 +180,13 @@
         "source": "Wikipedia: Jolof Empire"
       },
       "territoryChange": {
-        "value": "Split into several kingdoms.",
-        "year": null,
+        "value": "Split into Jolof, Kayor, Baol and Waalo after 1549; conquered by France in the 1800s.",
+        "year": 1549,
         "certainty": "confirmed",
         "source": "Wikipedia: Jolof Empire"
       },
       "alliancesRivals": {
-        "value": "French at Saint-Louis.",
+        "value": "Traded with and fought the French at Saint-Louis (from 1659); rivals of Futa Toro and the Moors.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jolof Empire"
@@ -200,19 +200,19 @@
         "source": "Wikipedia: Jolof Empire"
       },
       "scienceEducation": {
-        "value": "Qur’anic schools.",
+        "value": "Qur’anic schools run by marabouts; history kept by griots.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jolof Empire"
       },
       "openness": {
-        "value": "Open to trade.",
+        "value": "Open to Atlantic trade with the Portuguese, Dutch and French.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Jolof Empire"
       },
       "communicationTransport": {
-        "value": "Horses and footpaths.",
+        "value": "Horses, footpaths and river boats; the Dakar–Saint-Louis railway (1885) was built through Kayor.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jolof Empire"
@@ -226,13 +226,13 @@
         "source": "Wikipedia: Jolof Empire"
       },
       "languageWriting": {
-        "value": "Wolof.",
+        "value": "Wolof, an Atlantic language of the Niger–Congo family; Arabic script (Wolofal) was used by Muslims.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jolof Empire"
       },
       "artsArchitecture": {
-        "value": "Oral epics.",
+        "value": "Oral epics and praise songs of the griots, drumming (sabar), and round thatched houses.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jolof Empire"
@@ -244,13 +244,13 @@
         "source": "Wikipedia: Jolof Empire"
       },
       "sharedIdentity": {
-        "value": "Loyalty to the ruler and faith.",
+        "value": "Wolof language and customs, loyalty to the ruler, and growing Muslim identity.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Jolof Empire"
       },
       "dailyLife": {
-        "value": "Millet couscous.",
+        "value": "Millet couscous (ceere) and porridge; compounds of round houses; markets and wrestling.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jolof Empire"
@@ -258,19 +258,19 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Futa Toro, Mali Empire.",
+        "value": "Futa Toro and the Moors to the north, the Serer kingdoms of Sine and Saloum, and Mande states to the east.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jolof Empire"
       },
       "ideasReligions": {
-        "value": "Islam and Sufi orders (Mourides later).",
+        "value": "Islam spread from the court to the people; Sufi orders such as the Mourides (founded by Amadou Bamba in the 1880s) became powerful.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jolof Empire"
       },
       "colonisation": {
-        "value": "French conquest (1886).",
+        "value": "France took Waalo (1855) under Governor Faidherbe and Kayor after Lat Dior’s death (1886).",
         "year": 1886,
         "certainty": "confirmed",
         "source": "Wikipedia: Jolof Empire"
@@ -278,25 +278,25 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Founded about 1350.",
-        "year": null,
+        "value": "The Jolof Empire formed around 1350, uniting Wolof states under the Burba.",
+        "year": 1350,
         "certainty": "estimated",
         "source": "Wikipedia: Jolof Empire"
       },
       "peakPeriod": {
-        "value": "About 1450–1549.",
+        "value": "About 1450–1549, when Jolof ruled Waalo, Kayor, Baol, Sine and Saloum.",
         "year": 1500,
         "certainty": "confirmed",
         "source": "Wikipedia: Jolof Empire"
       },
       "declineSignals": {
-        "value": "Danki (1549).",
+        "value": "Defeat by Kayor at the Battle of Danki (1549).",
         "year": 1549,
         "certainty": "confirmed",
         "source": "Wikipedia: Jolof Empire"
       },
       "outcome": {
-        "value": "Part of French Senegal.",
+        "value": "The kingdoms became part of French Senegal (by 1886–90).",
         "year": 1886,
         "certainty": "confirmed",
         "source": "Wikipedia: Jolof Empire"

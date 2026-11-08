@@ -40,13 +40,13 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "The southern Caucasus on the Black Sea.",
+        "value": "The southern Caucasus between the Black Sea and the Caspian region; about 69,700 km² (including Abkhazia and South Ossetia).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Georgia (country)"
       },
       "terrain": {
-        "value": "High mountains and fertile valleys.",
+        "value": "The Greater Caucasus mountains in the north, the Lesser Caucasus in the south, and fertile valleys and the Kolkheti lowland between.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Georgia (country)"
@@ -58,39 +58,39 @@
         "source": "Wikipedia: Georgia (country)"
       },
       "resources": {
-        "value": "Farmland, wine, manganese.",
+        "value": "Farmland, vineyards, tea and citrus, manganese (Chiatura), and rivers for hydroelectric power.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Georgia (country)"
       },
       "disasters": {
-        "value": "Earthquakes and landslides.",
-        "year": null,
+        "value": "Earthquakes (Racha, 1991), landslides and floods, such as the 2015 Tbilisi flood.",
+        "year": 1991,
         "certainty": "confirmed",
         "source": "Wikipedia: Georgia (country)"
       }
     },
     "population": {
       "population": {
-        "value": "About 3.7 million.",
+        "value": "About 3.7 million, down from over 5 million in 1989 because of emigration and war.",
         "year": 2024,
         "certainty": "confirmed",
         "source": "Wikipedia: Georgia (country)"
       },
       "urbanisation": {
-        "value": "Tbilisi, Batumi, Kutaisi.",
+        "value": "About 60% urban; Tbilisi has over a million people; Batumi and Kutaisi are the next largest cities.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Georgia (country)"
       },
       "disease": {
-        "value": "Moderate.",
+        "value": "Moderate health; tuberculosis and hepatitis C were serious problems, tackled by national programmes.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Georgia (country)"
       },
       "migration": {
-        "value": "Refugees from Abkhazia (1990s).",
+        "value": "Hundreds of thousands were displaced by the wars in Abkhazia and South Ossetia; many Georgians emigrated for work.",
         "year": 1993,
         "certainty": "confirmed",
         "source": "Wikipedia: Georgia (country)"
@@ -98,31 +98,31 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming, wine, tourism, transit.",
+        "value": "Farming, wine, tourism, mining and transit trade between the Caspian and the Black Sea.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Georgia (country)"
       },
       "tradeRoutes": {
-        "value": "Pipelines and Black Sea ports.",
-        "year": null,
+        "value": "The Baku–Tbilisi–Ceyhan oil pipeline (2006) and the Black Sea ports of Poti and Batumi link the Caspian to Europe.",
+        "year": 2006,
         "certainty": "confirmed",
         "source": "Wikipedia: Georgia (country)"
       },
       "wealth": {
-        "value": "An upper-middle-income country.",
+        "value": "An upper-middle-income country, still poorer than most of Europe.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Georgia (country)"
       },
       "moneyAndTax": {
-        "value": "The lari.",
-        "year": null,
+        "value": "The lari, introduced in 1995 after hyperinflation.",
+        "year": 1995,
         "certainty": "confirmed",
         "source": "Wikipedia: Georgia (country)"
       },
       "inequality": {
-        "value": "Moderate.",
+        "value": "Moderate, with poorer rural areas and many people relying on money sent from abroad.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Georgia (country)"
@@ -130,7 +130,7 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A parliamentary republic.",
+        "value": "A parliamentary republic; a 2017 constitution moved power from the president to parliament and the prime minister.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Georgia (country)"
@@ -142,13 +142,13 @@
         "source": "Wikipedia: Georgia (country)"
       },
       "succession": {
-        "value": "Elections.",
+        "value": "Elections to parliament; the largest party forms the government. The 2024 election results were disputed and caused protests.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Georgia (country)"
       },
       "institutions": {
-        "value": "Parliament.",
+        "value": "Parliament, the government, the Constitutional Court and the Georgian Orthodox Church as an influential body.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Georgia (country)"
@@ -160,7 +160,7 @@
         "source": "Wikipedia: Georgia (country)"
       },
       "eliteConflict": {
-        "value": "Political polarisation.",
+        "value": "Strong polarisation between the ruling party and the opposition, especially over relations with Russia and the EU.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Georgia (country)"
@@ -168,13 +168,13 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Armed forces.",
+        "value": "Small armed forces trained with NATO help; Georgia sent troops to Iraq and Afghanistan.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Georgia (country)"
       },
       "majorWars": {
-        "value": "War with Russia (2008).",
+        "value": "Civil war (1991–93), wars in South Ossetia and Abkhazia (1991–93), and the war with Russia (2008).",
         "year": 2008,
         "certainty": "confirmed",
         "source": "Wikipedia: Georgia (country)"
@@ -186,7 +186,7 @@
         "source": "Wikipedia: Georgia (country)"
       },
       "alliancesRivals": {
-        "value": "EU candidate (2023).",
+        "value": "Seeks EU and NATO membership; EU candidate status (2023); Russia is the main rival.",
         "year": 2023,
         "certainty": "confirmed",
         "source": "Wikipedia: Georgia (country)"
@@ -194,26 +194,26 @@
     },
     "technology": {
       "inventions": {
-        "value": "Few major inventions.",
+        "value": "Few modern inventions; archaeology shows some of the world’s oldest wine-making (about 6000 BCE).",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Georgia (country)"
       },
       "scienceEducation": {
-        "value": "Universities.",
+        "value": "Tbilisi State University (founded 1918) and other universities; high literacy.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Georgia (country)"
       },
       "openness": {
-        "value": "Open.",
+        "value": "Open to trade and tourism, with visa-free entry for many countries.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Georgia (country)"
       },
       "communicationTransport": {
-        "value": "Roads and railways.",
-        "year": null,
+        "value": "Roads and railways, including the Baku–Tbilisi–Kars railway (2017) linking the Caspian to Turkey.",
+        "year": 2017,
         "certainty": "confirmed",
         "source": "Wikipedia: Georgia (country)"
       }
@@ -226,25 +226,25 @@
         "source": "Wikipedia: Georgia (country)"
       },
       "languageWriting": {
-        "value": "Georgian, with its own alphabet.",
+        "value": "Georgian, a Kartvelian language with its own alphabet (Mkhedruli); Abkhaz and Ossetian are spoken in the breakaway regions.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Georgia (country)"
       },
       "artsArchitecture": {
-        "value": "Medieval churches, polyphonic singing.",
+        "value": "Medieval churches and monasteries (Gelati, Svetitskhoveli), Svan defensive towers, and polyphonic singing (UNESCO).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Georgia (country)"
       },
       "socialStructure": {
-        "value": "Moderate.",
+        "value": "Strong family networks; a gap between Tbilisi and rural areas.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Georgia (country)"
       },
       "sharedIdentity": {
-        "value": "Strong national identity.",
+        "value": "A strong national identity built on the Georgian language, Orthodox Christianity and a long history of resisting empires.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Georgia (country)"
@@ -258,40 +258,40 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Russia, Turkey, Armenia, Azerbaijan.",
+        "value": "Russia to the north, Turkey to the south-west, Armenia and Azerbaijan to the south and east.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Georgia (country)"
       },
       "ideasReligions": {
-        "value": "Early Christian kingdom (4th century).",
-        "year": null,
+        "value": "Mostly Georgian Orthodox Christian; one of the first Christian kingdoms (about 337).",
+        "year": 337,
         "certainty": "confirmed",
         "source": "Wikipedia: Georgia (country)"
       },
       "colonisation": {
-        "value": "Part of the Russian Empire and USSR.",
-        "year": null,
+        "value": "Annexed by the Russian Empire (from 1801); briefly independent (1918–21), then part of the Soviet Union until 1991.",
+        "year": 1801,
         "certainty": "confirmed",
         "source": "Wikipedia: Georgia (country)"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Independence (1991).",
+        "value": "Declared independence from the Soviet Union in April 1991.",
         "year": 1991,
         "certainty": "confirmed",
         "source": "Wikipedia: Georgia (country)"
       },
       "peakPeriod": {
-        "value": "Reforms after 2003.",
-        "year": null,
+        "value": "Reforms after the 2003 Rose Revolution cut corruption and sped up growth.",
+        "year": 2003,
         "certainty": "estimated",
         "source": "Wikipedia: Georgia (country)"
       },
       "declineSignals": {
-        "value": "Territorial conflicts.",
-        "year": null,
+        "value": "Russia recognised Abkhazia and South Ossetia (2008); Georgia and most countries regard them as occupied.",
+        "year": 2008,
         "certainty": "confirmed",
         "source": "Wikipedia: Georgia (country)"
       },

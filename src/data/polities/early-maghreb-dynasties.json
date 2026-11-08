@@ -47,31 +47,31 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Morocco and Tunisia.",
+        "value": "North Africa: the Idrisids ruled northern Morocco; the Aghlabids ruled Ifriqiya (Tunisia, eastern Algeria and Tripolitania).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
       },
       "terrain": {
-        "value": "Coast, mountains, plains.",
+        "value": "Mediterranean coasts and plains, the Atlas and Rif mountains, and the edge of the Sahara.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
       },
       "climate": {
-        "value": "Mediterranean.",
+        "value": "Mediterranean on the coast, with dry summers; drier inland towards the Sahara.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
       },
       "resources": {
-        "value": "Grain, olives.",
+        "value": "Grain, olives and dates; Saharan trade routes bringing gold from West Africa.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
       },
       "disasters": {
-        "value": "Droughts.",
+        "value": "Droughts, famines and plagues.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Aghlabids"
@@ -79,13 +79,13 @@
     },
     "population": {
       "population": {
-        "value": "Uncertain.",
+        "value": "Perhaps a few million, mostly Berber farmers and herders.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Aghlabids"
       },
       "urbanisation": {
-        "value": "Fez, Kairouan.",
+        "value": "Fez (founded 789, enlarged by Idris II) and Kairouan were large cities; the Aghlabids built palace towns at al-Abbasiyya and Raqqada.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
@@ -97,7 +97,7 @@
         "source": "Wikipedia: Aghlabids"
       },
       "migration": {
-        "value": "Arab and Andalusi settlers.",
+        "value": "Arab settlers, and refugees from al-Andalus and Kairouan who settled in Fez.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
@@ -105,31 +105,31 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming and trade.",
+        "value": "Farming, with irrigation and large reservoirs at Kairouan, plus Mediterranean and Saharan trade.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
       },
       "tradeRoutes": {
-        "value": "Mediterranean and Saharan trade.",
+        "value": "Mediterranean sea trade and caravan routes across the Sahara through Sijilmasa.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
       },
       "wealth": {
-        "value": "Moderate.",
+        "value": "Kairouan grew rich under the Aghlabids; the Idrisids were less wealthy.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
       },
       "moneyAndTax": {
-        "value": "Silver dirhams.",
+        "value": "Silver dirhams (Idrisids) and gold dinars (Aghlabids); land taxes and taxes on non-Muslims.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
       },
       "inequality": {
-        "value": "Arab elite and Berbers.",
+        "value": "An Arab ruling elite above Berber farmers; slaves served in the Aghlabid army.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Aghlabids"
@@ -137,37 +137,37 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Emirates.",
+        "value": "Two dynasties of emirs: the Idrisids (788–974) and the Aghlabids (800–909), who ruled for the Abbasid caliphs in name.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
       },
       "keyRulers": {
-        "value": "Idris I. Ibrahim I ibn al-Aghlab.",
+        "value": "Idris I and Idris II (Idrisids); Ibrahim I ibn al-Aghlab and Ziyadat Allah I (Aghlabids).",
         "year": 788,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
       },
       "succession": {
-        "value": "Dynastic.",
+        "value": "Hereditary within each dynasty; the Aghlabid emir needed the caliph’s formal approval.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
       },
       "institutions": {
-        "value": "Mosques and courts.",
+        "value": "Emirs’ courts, judges (qadis) following Maliki law, and great mosques as centres of learning.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
       },
       "stability": {
-        "value": "Idrisid lands split among heirs.",
-        "year": null,
+        "value": "After Idris II died (828), Idrisid lands were split among his sons and weakened.",
+        "year": 828,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
       },
       "eliteConflict": {
-        "value": "Rival heirs.",
+        "value": "Rival heirs among the Idrisids; army revolts against the Aghlabid emirs.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
@@ -175,20 +175,20 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Navy (Aghlabids).",
+        "value": "The Aghlabids had a strong navy and coastal forts (ribats) such as Sousse and Monastir.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
       },
       "majorWars": {
-        "value": "Conquest of Sicily (827–902).",
+        "value": "The Aghlabid conquest of Sicily from the Byzantines (827–902), from Mazara to Taormina.",
         "year": 827,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
       },
       "territoryChange": {
-        "value": "Gained Sicily and Malta.",
-        "year": null,
+        "value": "The Aghlabids gained Sicily (827–902) and Malta (870).",
+        "year": 870,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
       },
@@ -201,14 +201,14 @@
     },
     "technology": {
       "inventions": {
-        "value": "No major inventions are recorded.",
+        "value": "No major inventions; the Aghlabid reservoirs of Kairouan were impressive water engineering.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Aghlabids"
       },
       "scienceEducation": {
-        "value": "Mosques of Kairouan and Fez.",
-        "year": null,
+        "value": "The Qarawiyyin mosque in Fez (founded 857 by Fatima al-Fihri) and the Great Mosque of Kairouan were centres of learning.",
+        "year": 857,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
       },
@@ -219,7 +219,7 @@
         "source": "Wikipedia: Aghlabids"
       },
       "communicationTransport": {
-        "value": "Roads, rivers and coastal shipping.",
+        "value": "Roads, caravan routes and coastal shipping.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Aghlabids"
@@ -233,25 +233,25 @@
         "source": "Wikipedia: Aghlabids"
       },
       "languageWriting": {
-        "value": "Arabic; Berber.",
+        "value": "Arabic for government and religion; Berber languages spoken by most people.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
       },
       "artsArchitecture": {
-        "value": "Kairouan mosque.",
-        "year": null,
+        "value": "The Great Mosque of Kairouan (rebuilt in 836), the Great Mosque of Sousse and the ribats; early Islamic Fez.",
+        "year": 836,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
       },
       "socialStructure": {
-        "value": "Arabs and Berbers.",
+        "value": "Arabs, Berbers, Andalusi settlers, Jewish and Christian communities, and slaves.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
       },
       "sharedIdentity": {
-        "value": "Loyalty to the ruler, faith and region.",
+        "value": "Loyalty to the ruler and to Islam, alongside Berber tribal identities.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Aghlabids"
@@ -265,45 +265,45 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Umayyad Córdoba, Rustamids, Abbasids.",
+        "value": "The Umayyads of Córdoba, the Rustamids of Tahert, the Abbasid Caliphate and the Byzantine Empire.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
       },
       "ideasReligions": {
-        "value": "Spread of Islam among Berbers.",
+        "value": "Spread Sunni Islam among the Berbers; Kairouan became a centre of Maliki law.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
       },
       "colonisation": {
-        "value": "Took Sicily.",
-        "year": null,
+        "value": "The Aghlabids conquered Byzantine Sicily and settled Muslims there.",
+        "year": 831,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Idris I arrives (788).",
+        "value": "Idris I, a descendant of the Prophet fleeing the Abbasids, was welcomed by Berbers at Walili (788).",
         "year": 788,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
       },
       "peakPeriod": {
-        "value": "800s.",
+        "value": "The 800s: Aghlabid Kairouan and the conquest of Sicily; the founding of Fez and the Qarawiyyin.",
         "year": 850,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
       },
       "declineSignals": {
-        "value": "Fatimid rise (909).",
+        "value": "The Fatimids, backed by the Kutama Berbers, overthrew the Aghlabids (909).",
         "year": 909,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
       },
       "outcome": {
-        "value": "Ended by the Fatimids and Umayyads.",
+        "value": "The Aghlabids fell to the Fatimids (909); the last Idrisids were defeated by the Umayyads of Córdoba (974).",
         "year": 974,
         "certainty": "confirmed",
         "source": "Wikipedia: Aghlabids"
