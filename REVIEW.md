@@ -12,7 +12,8 @@ Thank you for reviewing History Globe. This guide shows **where to look first** 
 1. **Wikipedia** (infobox and lead), read on 5–6 Nov 2026. Items labelled “(checked …)” were confirmed there.
 2. **Wikidata** cross-check of start/end dates and capitals for every civilisation: 83% of dates agree; every difference was reviewed (see `reports/wikidata-crosscheck.md`).
 3. **Britannica** spot-check of 4 civilisations (see `reports/britannica-spotcheck.md`). Britannica blocks automated access, so the rest need a person.
-4. Items that cite a book but no “checked” Wikipedia page were written from general knowledge and marked *estimated*: **these are the ones most worth checking.**
+4. **Wikipedia full-article pass (from 8 Nov 2026, issue #4):** each item is compared with the whole article; only items the article supports are marked “(checked 8 Nov 2026)”, and wrong figures are corrected (e.g. UK and Australian population, Papua 1905). Done so far: United Kingdom, Canada, Australia, Mexico (82 items, 23 corrected or reworded). Items the article does not cover stay unchecked.
+5. Items that cite a book but no “checked” Wikipedia page were written from general knowledge and marked *estimated*: **these are the ones most worth checking.**
 
 ## Priority 0 — added 6 Nov 2026, not yet checked against a source
 These were written from general knowledge (sources named, but no page was re-read), so every fact needs a second look:
