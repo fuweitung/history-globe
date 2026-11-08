@@ -45,7 +45,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 - [ ] Optional last gaps: one-map oddities (Great Khanate 1400, Canada 1815), Libya, Kazakhstan, Angola, Dutch East Indies, Xinjiang
 - [ ] Britannica check of the 20 major civilisations (REVIEW.md, Priority 1)
 
-- [ ] Pictures for the remaining “Known for” items and the 21 civilisations without one (many have no free picture on Commons)
+- [ ] Pictures for the remaining “Known for” items and the 21 civilisations without one (many have no free picture on Commons); 17 of the 21 civilisations done, still without: Dendi, Mongol tribes, Rouran, Xiongnu (#79, Mike)
 
 ### Later
 - [ ] Quiz mode for students
@@ -70,7 +70,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | Civilisations with events | `████████████████████` 100% | 499 of 499 |
 | Civilisations with famous people | `██████████████░░░░░░` 72% | 357 of 499; many prehistoric cultures have no known names |
 | Civilisations linked to others | `████████████████████` 100% | 499 of 499 (succeeded, conquered, traded with…) |
-| Civilisation pictures | `███████████████████░` 96% | 478 of 499 |
+| Civilisation pictures | `████████████████████` 99% | 495 of 499 |
 | “Known for” pictures | `█████████████░░░░░░░` 63% | 985 of 1557 items |
 | People pictures | `██████████████████░░` 91% | 412 of 451 |
 | Event pictures | `████████████████░░░░` 78% | 753 of 962 |
