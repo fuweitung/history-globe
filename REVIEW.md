@@ -51,7 +51,7 @@ These were written from general knowledge (sources named, but no page was re-rea
 
 ## Priority 1 — major civilisations: second-source check done, some points left
 Rome, Han, Ottoman, Mughal, Inca, Aztec, Mongol, Abbasid, Byzantium, Tang, Song, Ming, Qing, Maurya, Gupta, Achaemenid Persia, Sasanian Persia, Carthage, Assyria and Melaka were checked on 8–9 Nov 2026 against Britannica (excerpts) and World History Encyclopedia for start/end dates, capital, founder, peak and how each ended (#77, `reports/major-civs-spotcheck.md`). No wrong facts were found; differences in convention are noted in each entry, and Assyria’s start date is now marked *disputed*.
-Follow-up on 9 Nov 2026 (#77): the points the excerpts missed were checked in other second sources (see `reports/major-civs-spotcheck.md`). Changed: Carthage’s independence from Tyre is now *disputed* (7th vs mid-6th century BCE); Gupta capital now includes Ujjain; Melaka’s religion item adds Britannica’s 1414 date for Parameswara’s conversion. Still open: the Mughal peak (greatest extent around 1690) has no second source yet.
+Follow-up on 9 Nov 2026 (#77): the points the excerpts missed were checked in other second sources (see `reports/major-civs-spotcheck.md`). Changed: Carthage’s independence from Tyre is now *disputed* (7th vs mid-6th century BCE); Gupta capital now includes Ujjain; Melaka’s religion item adds Britannica’s 1414 date for Parameswara’s conversion. The Mughal peak was checked last (World History Encyclopedia map, Britannica); the second-source check of the 20 is complete.
 
 ## Priority 2 — sensitive topics (check wording is neutral and fair)
 - Israel and the Nakba (event israel-nakba)
