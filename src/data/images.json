@@ -5590,7 +5590,16 @@
   "france-republic|Laïcité": null,
   "french-colonial-empire|Foreign Legion": null,
   "french-colonial-empire|Suez Canal (French-built)": null,
-  "french-colonial-empire|Francophonie": null,
+  "french-colonial-empire|Francophonie": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Map-Francophone_World.svg/960px-Map-Francophone_World.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Map-Francophone_World.svg",
+   "page": "https://commons.wikimedia.org/wiki/File:Map-Francophone_World.svg",
+   "artist": "aaker (original PNG file: https://commons.wikimedia.org/wiki/File:New-Map-Francophone_World.PNG )",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "The French language in the world States where French is the majority native language (Dots: cities with native transmission, typically a minority) States where ",
+   "article": "Francophonie"
+  },
   "funan|Port of Óc Eo": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/N%C3%BAi_Ba_Th%C3%AA.jpg/960px-N%C3%BAi_Ba_Th%C3%AA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Núi_Ba_Thê.jpg",
@@ -8780,7 +8789,16 @@
   "finno-ugric-peoples|Reindeer herding": null,
   "kazakh-khanate|Yurt": null,
   "kazakh-khanate|Three zhuz (hordes)": null,
-  "kazakh-khanate|Dombra": null,
+  "kazakh-khanate|Dombra": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Kazakh_Dombra2.png/960px-Kazakh_Dombra2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Kazakh_Dombra2.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Kazakh_Dombra2.png",
+   "artist": "User:Mizu basyo",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "Казахская домбра.",
+   "article": "Dombra"
+  },
   "khoisan|San rock art": null,
   "khoisan|Click languages": {
    "src": "https://upload.wikimedia.org/wikipedia/commons/3/38/Khoi-San.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -9949,7 +9967,16 @@
    "article": "Butrint"
   },
   "andorra|Co-princes": null,
-  "andorra|Ski resorts": null,
+  "andorra|Ski resorts": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Andorra_Ski_Resort.jpg/960px-Andorra_Ski_Resort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Andorra Ski Resort.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Andorra_Ski_Resort.jpg",
+   "artist": "Luis Argerich",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "caption": "Grandvalira ski resort, Encamp, Andorra",
+   "article": null
+  },
   "andorra|Romanesque churches": null,
   "antigua-and-barbuda|Nelson’s Dockyard": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Nelson%27s_Dockyard.jpg/960px-Nelson%27s_Dockyard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -9991,7 +10018,16 @@
    "caption": "Armenian alphabet Use in Traffic sign.",
    "article": "Armenian alphabet"
   },
-  "armenia|Khachkars": null,
+  "armenia|Khachkars": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Khachkars_of_13th_century_at_Dadivank_Monastery.jpg/960px-Khachkars_of_13th_century_at_Dadivank_Monastery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Khachkars of 13th century at Dadivank Monastery.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Khachkars_of_13th_century_at_Dadivank_Monastery.jpg",
+   "artist": "Lusnyak93",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "Khachkars of 13th century at Dadivank Monastery.",
+   "article": null
+  },
   "armenia|Mount Ararat": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Mount_Ararat_and_the_Yerevan_skyline_in_spring_%2850mm%29.jpg/960px-Mount_Ararat_and_the_Yerevan_skyline_in_spring_%2850mm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Mount_Ararat_and_the_Yerevan_skyline_in_spring_(50mm).jpg",
@@ -10002,9 +10038,27 @@
    "caption": "Mount Ararat and the Yerevan skyline in spring. The Opera house is visible in the bottom right.",
    "article": "Mount Ararat"
   },
-  "austria|Vienna State Opera": null,
+  "austria|Vienna State Opera": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Wiener_Staatsoper_Front.jpg/960px-Wiener_Staatsoper_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Wiener_Staatsoper_Front.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Wiener_Staatsoper_Front.jpg",
+   "artist": "Wiener Staatsoper GmbH",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "Front der Wiener Staatsoper",
+   "article": "Vienna State Opera"
+  },
   "austria|Sigmund Freud": null,
-  "austria|Sachertorte": null,
+  "austria|Sachertorte": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Sachertorte_DSC03027.JPG/960px-Sachertorte_DSC03027.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Sachertorte_DSC03027.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Sachertorte_DSC03027.JPG",
+   "artist": "David Monniaux",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "caption": "Sachertorte from the Hotel Sacher, Vienna.",
+   "article": "Sachertorte"
+  },
   "azerbaijan|Baku oil": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Baku_city_at_night.jpg/960px-Baku_city_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Baku_city_at_night.jpg",
@@ -10015,7 +10069,16 @@
    "caption": "Beautiful view of Baku, the capital of the Republic of Azerbaijan at night",
    "article": "Baku"
   },
-  "azerbaijan|Carpets": null,
+  "azerbaijan|Carpets": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Azerbaijani_carpets_in_Museum_of_Azerbaijani_carpet_2.JPG/960px-Azerbaijani_carpets_in_Museum_of_Azerbaijani_carpet_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Azerbaijani carpets in Museum of Azerbaijani carpet 2.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Azerbaijani_carpets_in_Museum_of_Azerbaijani_carpet_2.JPG",
+   "artist": "Interfase",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "Azerbaijani carpets in Museum of Azerbaijani carpet",
+   "article": null
+  },
   "azerbaijan|Mugham": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Seyid_Shushinski_ansambl.jpg/960px-Seyid_Shushinski_ansambl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Seyid_Shushinski_ansambl.jpg",
@@ -10081,8 +10144,26 @@
    "article": "2010 Bahrain Grand Prix"
   },
   "bambara-kingdoms|Tonjon soldiers": null,
-  "bambara-kingdoms|Biton Coulibaly": null,
-  "bambara-kingdoms|Bogolanfini": null,
+  "bambara-kingdoms|Biton Coulibaly": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Tombe_Biton_Coulibaly.jpg/960px-Tombe_Biton_Coulibaly.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Tombe_Biton_Coulibaly.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Tombe_Biton_Coulibaly.jpg",
+   "artist": "KaTeznik",
+   "license": "CC BY-SA 2.0 fr",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+   "caption": "Grave of Biton Mamary Coulibaly (1712-1755), near Segou, Mali.",
+   "article": "Bitòn Coulibaly"
+  },
+  "bambara-kingdoms|Bogolanfini": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Traditional_mud_cloth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Traditional_mud_cloth.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Traditional_mud_cloth.jpg",
+   "artist": "Malidirect at English Wikipedia",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "I took the picture myself. Mud Cloth is handmade here in Mali using natural ingredients - including mud. Mud cloth and mud cloth products are becoming popular.",
+   "article": "Bògòlanfini"
+  },
   "bangladesh|Sundarbans": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Save_the_sundarbans_20.jpg/960px-Save_the_sundarbans_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Save_the_sundarbans_20.jpg",
@@ -10136,7 +10217,16 @@
    "caption": "Białowieski Park Narodowy",
    "article": "Białowieża Forest"
   },
-  "belarus|Draniki": null,
+  "belarus|Draniki": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/2023.02.01_Draniki_with_Guliash_in_Cafe_Vasilki_in_Minsk_Belarus.jpg/960px-2023.02.01_Draniki_with_Guliash_in_Cafe_Vasilki_in_Minsk_Belarus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "2023.02.01 Draniki with Guliash in Cafe Vasilki in Minsk Belarus.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:2023.02.01_Draniki_with_Guliash_in_Cafe_Vasilki_in_Minsk_Belarus.jpg",
+   "artist": "Dina Panayotis",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "Драники с говяжьим гуляшом в кафе \"Васильки\" в Минске. Начало февраля 2023 года.",
+   "article": null
+  },
   "belgium|Belgian comics": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Tintin_and_Snowy_on_the_roof.jpg/960px-Tintin_and_Snowy_on_the_roof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Tintin_and_Snowy_on_the_roof.jpg",
@@ -10157,7 +10247,16 @@
    "caption": "This photo of immovable heritage has been taken in the Brussels Capital Region",
    "article": "Atomium"
   },
-  "belgium|Chocolate and waffles": null,
+  "belgium|Chocolate and waffles": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Belgian_chocolate_waffles_%282026%29_04.jpg/960px-Belgian_chocolate_waffles_%282026%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Belgian chocolate waffles (2026) 04.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Belgian_chocolate_waffles_(2026)_04.jpg",
+   "artist": "Gpkp",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "Belgian chocolate waffles (2026)",
+   "article": null
+  },
   "belize|Belize Barrier Reef": {
    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Satellite_image_of_Belize_in_March_31%2C_2002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "file": "Satellite_image_of_Belize_in_March_31,_2002.jpg",
@@ -10253,7 +10352,16 @@
    "article": "Stari Most"
   },
   "bosnia-and-herzegovina|Sarajevo 1984 Olympics": null,
-  "bosnia-and-herzegovina|Burek": null,
+  "bosnia-and-herzegovina|Burek": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Burek_and_sour_milk_on_Ni%C5%A1i%C4%87i_Plateau_%282026%29-bs.jpg/960px-Burek_and_sour_milk_on_Ni%C5%A1i%C4%87i_Plateau_%282026%29-bs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Burek and sour milk on Nišići Plateau (2026)-bs.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Burek_and_sour_milk_on_Ni%C5%A1i%C4%87i_Plateau_(2026)-bs.jpg",
+   "artist": "Minja Klarić",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "Traditional Bosnian burek served in a baking pan with sour milk in clay pots on the Nišići Plateau.",
+   "article": null
+  },
   "botswana|Okavango Delta": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Okavango_Delta%2C_Botswana1.jpg/960px-Okavango_Delta%2C_Botswana1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Okavango_Delta,_Botswana1.jpg",
@@ -10295,8 +10403,26 @@
    "caption": "Kampong Ayer is the historic heart of Brunei, where vibrant water-village life thrives gracefully upon the Brunei River.",
    "article": "Kampong Ayer"
   },
-  "brunei|Oil and gas": null,
-  "bulgaria|Rose oil": null,
+  "brunei|Oil and gas": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/I_LOVE_SERIA_at_Oil_and_Gas_Discovery_Centre.jpg/960px-I_LOVE_SERIA_at_Oil_and_Gas_Discovery_Centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "I LOVE SERIA at Oil and Gas Discovery Centre.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:I_LOVE_SERIA_at_Oil_and_Gas_Discovery_Centre.jpg",
+   "artist": "DeltaSquad833",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "I LOVE SERIA at Oil and Gas Discovery Centre",
+   "article": null
+  },
+  "bulgaria|Rose oil": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/RoseEssentialOil.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "RoseEssentialOil.png",
+   "page": "https://commons.wikimedia.org/wiki/File:RoseEssentialOil.png",
+   "artist": "Itineranttrader",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "Rose (Rosa damascena) Essential Oil in clear glass vial",
+   "article": "Rose oil"
+  },
   "bulgaria|Rila Monastery": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Monta%C3%B1as_cercanas_a_Rila_donde_se_aprecian_rocas_escarpadas_y_nieve%2C_Rila%2C_Bulgaria%2C_2011.JPG/960px-Monta%C3%B1as_cercanas_a_Rila_donde_se_aprecian_rocas_escarpadas_y_nieve%2C_Rila%2C_Bulgaria%2C_2011.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Montañas_cercanas_a_Rila_donde_se_aprecian_rocas_escarpadas_y_nieve,_Rila,_Bulgaria,_2011.JPG",
@@ -10318,7 +10444,16 @@
    "caption": "Thomas Sankara giving a speech in Harlem, New York, 1984.",
    "article": "Thomas Sankara"
   },
-  "burkina-faso|FESPACO": null,
+  "burkina-faso|FESPACO": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Siege_FESPACO_Ouaga.jpg/960px-Siege_FESPACO_Ouaga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Siege FESPACO Ouaga.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Siege_FESPACO_Ouaga.jpg",
+   "artist": "Sputniktilt",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "FESPACO headquarters, Ouagadougou",
+   "article": null
+  },
   "burkina-faso|Ruins of Loropéni": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/2016.05-441-131ap_wall_Lorop%C3%A9ni_Ruins_nr.Lorop%C3%A9ni%28Poni_Prv.%29%2CBF_sun15may2016-1106h.jpg/960px-2016.05-441-131ap_wall_Lorop%C3%A9ni_Ruins_nr.Lorop%C3%A9ni%28Poni_Prv.%29%2CBF_sun15may2016-1106h.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "2016.05-441-131ap_wall_Loropéni_Ruins_nr.Loropéni(Poni_Prv.),BF_sun15may2016-1106h.jpg",
@@ -10466,7 +10601,16 @@
    "caption": "Mount Karthala (2,361 meters) with its four-kilometer-wide crater is the dominant feature of Grande Comore, Union of the Comoros,",
    "article": "Mount Karthala"
   },
-  "comoros|Grand mariage": null,
+  "comoros|Grand mariage": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Bijoux_d%27un_grand_mariage_Comorien.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Bijoux d'un grand mariage Comorien.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bijoux_d%27un_grand_mariage_Comorien.jpg",
+   "artist": "Vincnet at French Wikipedia",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "Bijoux offert lors d'un Grand mariage aux Comores. Licence GFDL. Numérisation par Vincnet G à partir d'une photo d'amateur libre de droit, par accord avec l'aut",
+   "article": null
+  },
   "costa-rica|No army": null,
   "costa-rica|Pura vida": null,
   "costa-rica|Ecotourism": {
@@ -10519,8 +10663,26 @@
    "caption": "A map of the municipality of Habana Vieja (shown in red) within the city of Havana (yellow). The little Cuban map in the corner shows Havana (dark red) within t",
    "article": "Old Havana"
   },
-  "cuba|Cuban music": null,
-  "cuba|Cigars": null,
+  "cuba|Cuban music": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Two_Cuban_Guitarists_In_A_Club_in_Santiago_de_Cuba.jpg/960px-Two_Cuban_Guitarists_In_A_Club_in_Santiago_de_Cuba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Two Cuban Guitarists In A Club in Santiago de Cuba.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Two_Cuban_Guitarists_In_A_Club_in_Santiago_de_Cuba.jpg",
+   "artist": "Savageblu",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "This media has been taken in the country: Cuba",
+   "article": null
+  },
+  "cuba|Cigars": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Cohiba_Habanos_Cigars_from_Cuba.jpg/960px-Cohiba_Habanos_Cigars_from_Cuba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Cohiba Habanos Cigars from Cuba.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Cohiba_Habanos_Cigars_from_Cuba.jpg",
+   "artist": "Lupus in Saxonia",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "Cohiba Habanos Cigars from Cuba",
+   "article": null
+  },
   "cyprus|Halloumi": {
    "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/Halloumislice_zoom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "file": "Halloumislice_zoom.jpg",
@@ -10531,7 +10693,16 @@
    "caption": "Fresh sliced Halloumi cheese. The strip in the middle contains whole leaves of mint.",
    "article": "Halloumi"
   },
-  "cyprus|Green Line": null,
+  "cyprus|Green Line": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Nicosia_Green_Line_11.JPG/960px-Nicosia_Green_Line_11.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Nicosia Green Line 11.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Nicosia_Green_Line_11.JPG",
+   "artist": "Julian Nyča",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "At the \"Green Line\" in Nicosia, Cyprus.",
+   "article": null
+  },
   "cyprus|Kourion": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Episkopi_01-2017_img06_Kourion.jpg/960px-Episkopi_01-2017_img06_Kourion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Episkopi_01-2017_img06_Kourion.jpg",
@@ -10542,7 +10713,16 @@
    "caption": "Ancient town of Kourion near Limassol, Cyprus. Agora.",
    "article": "Kourion"
   },
-  "czechoslovakia-czechia|Velvet Revolution": null,
+  "czechoslovakia-czechia|Velvet Revolution": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Praha_1989-11-25%2C_Letn%C3%A1%2C_dav_%2801%29.jpg/960px-Praha_1989-11-25%2C_Letn%C3%A1%2C_dav_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Praha_1989-11-25,_Letná,_dav_(01).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Praha_1989-11-25,_Letn%C3%A1,_dav_(01).jpg",
+   "artist": "ŠJů (cs:ŠJů)",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "Prague during the Velvet Revolution.",
+   "article": "Velvet Revolution"
+  },
   "czechoslovakia-czechia|Prague Castle": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Prague_%286365119737%29.jpg/960px-Prague_%286365119737%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Prague_(6365119737).jpg",
@@ -10553,7 +10733,16 @@
    "caption": "Prague, panoramic view from Charles Bridge east tower",
    "article": "Prague"
   },
-  "czechoslovakia-czechia|Pilsner beer": null,
+  "czechoslovakia-czechia|Pilsner beer": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/Pilsner_urquell_mug.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Pilsner_urquell_mug.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Pilsner_urquell_mug.jpg",
+   "artist": "Steven Walling",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "Pilsner Urquell in a branded mug.",
+   "article": "Pilsner"
+  },
   "djibouti|Lake Assal": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Lake_Assal_NASA.jpg/960px-Lake_Assal_NASA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Lake_Assal_NASA.jpg",
@@ -10564,7 +10753,16 @@
    "caption": "Lake Assal in Djibouti. Satellite view.",
    "article": "Lake Assal (Djibouti)"
   },
-  "djibouti|Foreign military bases": null,
+  "djibouti|Foreign military bases": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Foreign_bases_2.png/960px-Foreign_bases_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Foreign bases 2.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Foreign_bases_2.png",
+   "artist": "Wikideas1",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "caption": "Foreign bases",
+   "article": null
+  },
   "djibouti|Port of Djibouti": null,
   "dominica|Boiling Lake": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Dominica_Boiling_Lake.jpg/960px-Dominica_Boiling_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -10627,8 +10825,26 @@
    "caption": "This image of the Berlin Wall was taken in 1986 by Thierry Noir at Bethaniendamm in Berlin-Kreuzberg.",
    "article": "Berlin Wall"
   },
-  "east-germany|Trabant": null,
-  "east-germany|Ampelmännchen": null,
+  "east-germany|Trabant": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Camping_with_Wartburg_311_and_Trabant_P_50_in_East_Germany%2C_1975.jpg/960px-Camping_with_Wartburg_311_and_Trabant_P_50_in_East_Germany%2C_1975.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Camping with Wartburg 311 and Trabant P 50 in East Germany, 1975.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Camping_with_Wartburg_311_and_Trabant_P_50_in_East_Germany,_1975.jpg",
+   "artist": "Leo.lichtfangerarchiv",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "Camping in 1975, German Democratic Republic.",
+   "article": null
+  },
+  "east-germany|Ampelmännchen": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Ampelmann.svg/960px-Ampelmann.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Ampelmann.svg",
+   "page": "https://commons.wikimedia.org/wiki/File:Ampelmann.svg",
+   "artist": "German Democratic Republic / Karl Peglau (original design); Matthew Gates (SVG version)",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "“Ampelmännchen” – Used in some German traffic lights.",
+   "article": "Ampelmännchen"
+  },
   "ecuador|Galápagos Islands": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Lobo_marino_%28Zalophus_californianus_wollebaeki%29%2C_Punta_Pitt%2C_isla_de_San_Crist%C3%B3bal%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-24%2C_DD_11.JPG/960px-Lobo_marino_%28Zalophus_californianus_wollebaeki%29%2C_Punta_Pitt%2C_isla_de_San_Crist%C3%B3bal%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-24%2C_DD_11.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Lobo_marino_(Zalophus_californianus_wollebaeki),_Punta_Pitt,_isla_de_San_Cristóbal,_islas_Galápagos,_Ecuador,_2015-07-24,_DD_11.JPG",
@@ -10649,7 +10865,16 @@
    "caption": "Panama hat. Woven in Ecuador, made in England. Purchased in London, July 2009.",
    "article": "Panama hat"
   },
-  "ecuador|Bananas": null,
+  "ecuador|Bananas": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Premature_ripening_of_bananas_during_oversea_transport_from_Ecuador_to_Egypt_due_to_high_air_temperature_in_shipping_container_%2814906550275%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Premature ripening of bananas during oversea transport from Ecuador to Egypt due to high air temperature in shipping container (14906550275).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Premature_ripening_of_bananas_during_oversea_transport_from_Ecuador_to_Egypt_due_to_high_air_temperature_in_shipping_container_(14906550275).jpg",
+   "artist": "Scot Nelson from Honolulu, Hawaii, USA",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "caption": "Harvested while completely green, the bananas were packed in 20KG boxes and transported for 30 days by a shipping container that was supposed to be cooled to 13",
+   "article": null
+  },
   "el-salvador|Óscar Romero": {
    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Monse%C3%B1or_Romero_%28colour%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "file": "Monseñor_Romero_(colour).jpg",
@@ -10660,7 +10885,16 @@
    "caption": "Óscar Arnulfo Romero y Galdámez in 1978 on a visit to Rome. Photo first published in the Republic of Italy in the same year. It was also used by the Office for ",
    "article": "Óscar Romero"
   },
-  "el-salvador|Pupusas": null,
+  "el-salvador|Pupusas": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Pupusas_olocuilta_el_salvador_2012.jpg/960px-Pupusas_olocuilta_el_salvador_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Pupusas olocuilta el salvador 2012.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Pupusas_olocuilta_el_salvador_2012.jpg",
+   "artist": "Ll1324",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "caption": "Pupusas, made in Olocuilta, La Paz, El Salvador. Note the way they are served here for an individual person is typical of pupuserias en El Salvador, i.e. plasti",
+   "article": null
+  },
   "el-salvador|Joya de Cerén": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/ES_Joya_Ceren_05_2012_Estructura_9_Area_2_Tamazcal_wide_angle_1479.JPG/960px-ES_Joya_Ceren_05_2012_Estructura_9_Area_2_Tamazcal_wide_angle_1479.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "ES_Joya_Ceren_05_2012_Estructura_9_Area_2_Tamazcal_wide_angle_1479.JPG",
@@ -10672,8 +10906,26 @@
    "article": "Joya de Cerén"
   },
   "emirate-of-jabal-shammar|Rashidi dynasty": null,
-  "emirate-of-jabal-shammar|Battle of Mulayda": null,
-  "emirate-of-jabal-shammar|Barzan Palace": null,
+  "emirate-of-jabal-shammar|Battle of Mulayda": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Battle_of_Mulayda.jpg/960px-Battle_of_Mulayda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Battle_of_Mulayda.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Battle_of_Mulayda.jpg",
+   "artist": "RR1886",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "caption": "معركة المليداء",
+   "article": "Battle of Mulayda"
+  },
+  "emirate-of-jabal-shammar|Barzan Palace": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/%D8%A8%D8%B1%D8%B2%D8%A7%D9%86.jpg/960px-%D8%A8%D8%B1%D8%B2%D8%A7%D9%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "برزان.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D8%A8%D8%B1%D8%B2%D8%A7%D9%86.jpg",
+   "artist": "Heritage Commission",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "قصر برزان قصر تاريخي يقع في مدينة حائل شمال الجزيرة العربية وهو قصر الحكم لعائلة آل علي ومن بعدهم لعائلة آل رشيد. سمي برزان لبروزه عن المباني في ذلك الوقت",
+   "article": "Barzan Palace"
+  },
   "equatorial-guinea|Bioko Island": {
    "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bioko.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "file": "Bioko.png",
@@ -10685,8 +10937,26 @@
    "article": "Bioko"
   },
   "equatorial-guinea|Oil boom": null,
-  "equatorial-guinea|Spanish language": null,
-  "eritrea|Asmara modernist city": null,
+  "equatorial-guinea|Spanish language": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Map-Hispanophone_World.svg/960px-Map-Hispanophone_World.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Map-Hispanophone_World.svg",
+   "page": "https://commons.wikimedia.org/wiki/File:Map-Hispanophone_World.svg",
+   "artist": "Salvabl",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "Majority native language Co-official or administrative language but not majority native language Secondary language (more than 20% Spanish speakers) or cultural",
+   "article": "Spanish language"
+  },
+  "eritrea|Asmara modernist city": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Asmara_City_Eritrea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Asmara City Eritrea.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Asmara_City_Eritrea.jpg",
+   "artist": "Robel Weldeab",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "A Modernist African City. Asmara is Located at over 2,000 m above sea level, the capital of Eritrea developed from the 1890s.",
+   "article": null
+  },
   "eritrea|Massawa": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Massawa_harbour.JPG/960px-Massawa_harbour.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Massawa_harbour.JPG",
@@ -10719,9 +10989,27 @@
    "caption": "25th Estonian Song Celebration.",
    "article": "Estonian Song Festival"
   },
-  "eswatini|Umhlanga Reed Dance": null,
+  "eswatini|Umhlanga Reed Dance": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Eswatini_Reed_Dance_2006_-01.jpg/960px-Eswatini_Reed_Dance_2006_-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Eswatini Reed Dance 2006 -01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Eswatini_Reed_Dance_2006_-01.jpg",
+   "artist": "Amada44",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "Eswatini: The Reed Dance Festival 2006",
+   "article": null
+  },
   "eswatini|Absolute monarchy": null,
-  "eswatini|Sugar cane": null,
+  "eswatini|Sugar cane": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Sugar_cane_production%2C_SWZ.svg/960px-Sugar_cane_production%2C_SWZ.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Sugar cane production, SWZ.svg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sugar_cane_production,_SWZ.svg",
+   "artist": "Our World In Data",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "caption": "Sugar cane production, SWZ",
+   "article": null
+  },
   "ethiopia-modern|African Union headquarters": null,
   "ethiopia-modern|Grand Ethiopian Renaissance Dam": {
    "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/GERD_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -10755,8 +11043,26 @@
    "caption": "Scan of photo taken by myself in Fiji town of Levuka",
    "article": "Levuka"
   },
-  "finland|Sauna": null,
-  "finland|Nokia": null,
+  "finland|Sauna": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/Sauna_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Sauna_2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sauna_2.jpg",
+   "artist": "Bleiglass~enwiki",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "caption": "sauna traditionnel finlandais",
+   "article": "Sauna"
+  },
+  "finland|Nokia": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Midpoint_Nokia_Karaportti.jpg/960px-Midpoint_Nokia_Karaportti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Midpoint_Nokia_Karaportti.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Midpoint_Nokia_Karaportti.jpg",
+   "artist": "pikkuanna",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "caption": "Офис Nokia. Финляндия, Уусимаа, Эспоо, Суур-Леппяваара, Кило, улица Карапортти, 3",
+   "article": "Nokia"
+  },
   "finland|Kalevala": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Kalevala1.jpg/960px-Kalevala1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Kalevala1.jpg",
@@ -10768,7 +11074,16 @@
    "article": "Kalevala"
   },
   "france-1792-1830|Napoleonic Code": null,
-  "france-1792-1830|Metric system": null,
+  "france-1792-1830|Metric system": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/FourMetricInstruments.JPG/960px-FourMetricInstruments.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "FourMetricInstruments.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:FourMetricInstruments.JPG",
+   "artist": "Martinvl",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "Four metric measuring devices - a tape measure, a thermometer, a one kilogram weight and an electrical multimeter. These instruments were selected to show some ",
+   "article": "Metric system"
+  },
   "france-1792-1830|Grande Armée": null,
   "funj-sultanate|Sennar": null,
   "funj-sultanate|Sufi holy men": null,
@@ -10826,7 +11141,16 @@
    "caption": "The kora is a 21-string bridge-harp used extensively in West Africa",
    "article": "Kora (instrument)"
   },
-  "gambia|Groundnuts": null,
+  "gambia|Groundnuts": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Your_Groundnuts_Help_To_Feed_Fighting_Forces_-_Thank_You_Gambia%21_Art.IWMPST8239.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Your Groundnuts Help To Feed Fighting Forces - Thank You Gambia! Art.IWMPST8239.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Your_Groundnuts_Help_To_Feed_Fighting_Forces_-_Thank_You_Gambia!_Art.IWMPST8239.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "Your Groundnuts Help To Feed Fighting Forces - Thank You Gambia! image: poster divided into two sections. Top illustration shows three workers processing ground",
+   "article": null
+  },
   "georgia|Georgian alphabet": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Kartuli%2C_Georgian_scripts.png/960px-Kartuli%2C_Georgian_scripts.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Kartuli,_Georgian_scripts.png",
@@ -10837,7 +11161,16 @@
    "caption": "Kartuli, Georgian scripts",
    "article": "Georgian scripts"
   },
-  "georgia|Qvevri wine": null,
+  "georgia|Qvevri wine": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/A_terracotta_Kvevri_used_to_ferment_and_age_wine_decorated_with_depictions_of_bunches_of_grapes%2C_First_half_of_the_6th_millennium_BC%2C_from_Khramis_Didid_Gora%2C_National_Museum_of_Georgia%2C_Tbilisi%2C_Georgia.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "A terracotta Kvevri used to ferment and age wine decorated with depictions of bunches of grapes, First half of the 6th millennium BC, from Khramis Didid Gora, National Museum of Georgia, Tbilisi, Georgia.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:A_terracotta_Kvevri_used_to_ferment_and_age_wine_decorated_with_depictions_of_bunches_of_grapes,_First_half_of_the_6th_millennium_BC,_from_Khramis_Didid_Gora,_National_Museum_of_Georgia,_Tbilisi,_Georgia.jpg",
+   "artist": "Carole Raddato",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "caption": "The earliest Neolithic evidence for the beginnings of a wine culture in which wine dominated social and economic life has been found in Georgia. The qvevri has ",
+   "article": null
+  },
   "georgia|Polyphonic singing": null,
   "german-states|Weimar classicism": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Oer-Weimarer_Musenhof.jpg/960px-Oer-Weimarer_Musenhof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -10893,12 +11226,30 @@
    "caption": "Akosombo Dam as seen from Volta Hotel",
    "article": "Akosombo Dam"
   },
-  "great-lakes-kingdoms|Kasubi Tombs": null,
+  "great-lakes-kingdoms|Kasubi Tombs": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Kampala_Kasubi_Tombs.jpg/960px-Kampala_Kasubi_Tombs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Kampala_Kasubi_Tombs.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kampala_Kasubi_Tombs.jpg",
+   "artist": "not not phil from SF, CA, US",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "caption": "The Kasubi Tombs in Kampala, Uganda.",
+   "article": "Kasubi Tombs"
+  },
   "great-lakes-kingdoms|Royal drums": null,
   "great-lakes-kingdoms|Bark cloth": null,
   "greece-modern|Revival of the Olympic Games": null,
   "greece-modern|Feta and olive oil": null,
-  "greece-modern|Rebetiko": null,
+  "greece-modern|Rebetiko": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Rembetes_Karaiskaki_1933.jpg/960px-Rembetes_Karaiskaki_1933.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Rembetes_Karaiskaki_1933.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Rembetes_Karaiskaki_1933.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "FAL",
+   "licenseUrl": "http://artlibre.org/licence/lal/en",
+   "caption": "Rebetes 1933 in Karaiskaki, Piraeus. Left with bouzouki Márkos Vamvakáris, in middle with guitar Yiorgos Batis.",
+   "article": "Rebetiko"
+  },
   "greenland|Ice sheet": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Greenland_ice_sheet_AMSL_thickness_map-en.png/960px-Greenland_ice_sheet_AMSL_thickness_map-en.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Greenland_ice_sheet_AMSL_thickness_map-en.png",
@@ -10931,7 +11282,16 @@
    "caption": "Grenada Featured at: photosforclass.com/search?text=Underwater+park+grenada www.thecrazytourist.com/15-best-things-grenada/7/",
    "article": "Molinere Underwater Sculpture Park"
   },
-  "grenada|Grand Anse beach": null,
+  "grenada|Grand Anse beach": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Grenada_%28Grand_Anse_Beach%29_2.JPG/960px-Grenada_%28Grand_Anse_Beach%29_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Grenada (Grand Anse Beach) 2.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Grenada_(Grand_Anse_Beach)_2.JPG",
+   "artist": "dpursoo",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "View of Grand Anse Beach, St. George's, Grenada.",
+   "article": null
+  },
   "guatemala|Tikal": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Tikal_3.jpg/960px-Tikal_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Tikal_3.jpg",
@@ -10973,7 +11333,16 @@
    "caption": "L'Archipel des Bijagos en Guinée Bissau vu par le satellite Sentinel 2 le 9 avril 2021",
    "article": "Bijagós Islands"
   },
-  "guinea-bissau|Cashew nuts": null,
+  "guinea-bissau|Cashew nuts": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Cashew_apples.jpg/960px-Cashew_apples.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Cashew_apples.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Cashew_apples.jpg",
+   "artist": "Abhishek Jacob",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "Ripe cashew apples",
+   "article": "Cashew"
+  },
   "guinea|Bauxite": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Bauxite_h%C3%A9rault.JPG/960px-Bauxite_h%C3%A9rault.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Bauxite_hérault.JPG",
@@ -11024,7 +11393,16 @@
    "caption": "Caerte van de Rivier Demerary van ouds Immenary, geleger op Suyd Americaes Noordkust, op de Noorder Breedte van 6 Gr. 40",
    "article": "Demerara"
   },
-  "guyana|Offshore oil": null,
+  "guyana|Offshore oil": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Stabroek_and_Block_58_in_Suriname-Guyana_Basin_Offshore_map.png/960px-Stabroek_and_Block_58_in_Suriname-Guyana_Basin_Offshore_map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Stabroek and Block 58 in Suriname-Guyana Basin Offshore map.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Stabroek_and_Block_58_in_Suriname-Guyana_Basin_Offshore_map.png",
+   "artist": "SurinameCentral",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "This is a map showing the Guyana-Suriname basin in a red color, along with the Stabroek block in blue and the Suriname Block 58 a red Color. The EEZ of these 3 ",
+   "article": null
+  },
   "haiti|Citadelle Laferrière": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Citadelle_Laferri%C3%A8re.jpg/960px-Citadelle_Laferri%C3%A8re.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Citadelle_Laferrière.jpg",
@@ -11057,7 +11435,16 @@
    "article": "Copán"
   },
   "honduras|Bananas": null,
-  "honduras|Baleadas": null,
+  "honduras|Baleadas": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Large_baleadas_%282%29_with_knife_and_fork_on_foil.jpg/960px-Large_baleadas_%282%29_with_knife_and_fork_on_foil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Large baleadas (2) with knife and fork on foil.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Large_baleadas_(2)_with_knife_and_fork_on_foil.jpg",
+   "artist": "Ser Amantio di Nicolao",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "Baleadas with beef, beans, queso, and crema",
+   "article": null
+  },
   "hong-kong|Victoria Harbour skyline": null,
   "hong-kong|Dim sum": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Chinese_DimSum_%289023590541%29.jpg/960px-Chinese_DimSum_%289023590541%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -11080,8 +11467,26 @@
    "caption": "Hungarian Revolution of 1956 collage: The flag of the rebels was the flag of Hungary colors with the coat of arms of the Hungarian People's Republic cut out of ",
    "article": "Hungarian Revolution of 1956"
   },
-  "hungary|Rubik’s Cube": null,
-  "hungary|Goulash": null,
+  "hungary|Rubik’s Cube": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Rubiks_cube_solved.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Rubiks_cube_solved.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Rubiks_cube_solved.jpg",
+   "artist": "Mike Gonzalez (TheCoffee)",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "Solved Rubik's Cube. July 2008: Swapped the green and blue channels to make the colouring consistent with the other Rubik's Cube image on the Wikipedia article ",
+   "article": "Rubik's Cube"
+  },
+  "hungary|Goulash": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Gulyas080.jpg/960px-Gulyas080.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Gulyas080.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Gulyas080.jpg",
+   "artist": "Lily15",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "caption": "Bográcsgulyás, készült a fegyverneki gulyásfesztiválon",
+   "article": "Goulash"
+  },
   "iceland|Althing": null,
   "iceland|Sagas": {
    "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Egil_Skallagrimsson_17c_manuscript.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -11143,7 +11548,16 @@
    "caption": "A montage of notable Irish Writers. Top left: Jonathan Swift. Top centre: W. B. Yeats. Top right: Oscar Wilde. Centre left: G.B. Shaw. Centre right: James Joyce",
    "article": "Irish literature"
   },
-  "ireland|Celtic Tiger": null,
+  "ireland|Celtic Tiger": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Historical_economic_growth_of_Ireland_and_the_UK.jpg/960px-Historical_economic_growth_of_Ireland_and_the_UK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Historical_economic_growth_of_Ireland_and_the_UK.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Historical_economic_growth_of_Ireland_and_the_UK.jpg",
+   "artist": "Max Roser",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "caption": "Historical economic growth of Ireland and the UK",
+   "article": "Celtic Tiger"
+  },
   "ireland|Easter Rising": null,
   "israel|Western Wall": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Westernwall2.jpg/960px-Westernwall2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -11207,7 +11621,16 @@
    "caption": "This is an image of \"African people at work\" from",
    "article": "Cocoa production in Ivory Coast"
   },
-  "ivory-coast|Coupé-décalé": null,
+  "ivory-coast|Coupé-décalé": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Monument_de_HOUON_Ange-Didier%2C_artiste_ivoirien_du_coup%C3%A9%26_d%C3%A9cal%C3%A9_d%C3%A9c%C3%A9d%C3%A9%2C_Cocody_Angree_7eme_tranche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Monument de HOUON Ange-Didier, artiste ivoirien du coupé& décalé décédé, Cocody Angree 7eme tranche.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Monument_de_HOUON_Ange-Didier,_artiste_ivoirien_du_coup%C3%A9%26_d%C3%A9cal%C3%A9_d%C3%A9c%C3%A9d%C3%A9,_Cocody_Angree_7eme_tranche.jpg",
+   "artist": "LoulouBape",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": null,
+   "article": null
+  },
   "jamaica|Reggae": null,
   "jamaica|Usain Bolt": {
    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Usain_Bolt_smiling_Berlin_2009.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -11321,7 +11744,16 @@
    "caption": "From a illuminated manuscript of Jean Froissart's Chronicles",
    "article": "English longbow"
   },
-  "kingdom-of-england|Shakespeare": null,
+  "kingdom-of-england|Shakespeare": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Shakespeare.jpg/960px-Shakespeare.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Shakespeare.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Shakespeare.jpg",
+   "artist": "Attributed to John Taylor",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "This was long thought to be the only portrait of William Shakespeare that had any claim to have been painted from life, until another possible life portrait, th",
+   "article": null
+  },
   "kingdom-of-hejaz|Arab Revolt": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/030Arab.jpg/960px-030Arab.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "030Arab.jpg",
@@ -11342,8 +11774,26 @@
    "caption": "One of pictures of the buildings exterior and interior. The Hejaz railway station, which was built in 1917 to transport pilgrims from Damascus to Mecca. Inside ",
    "article": "Hejaz railway"
   },
-  "kingdom-of-hejaz|Holy cities": null,
-  "kingdom-of-ireland|Plantation of Ulster": null,
+  "kingdom-of-hejaz|Holy cities": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Four_holy_cities_plaque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Four_holy_cities_plaque.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Four_holy_cities_plaque.jpg",
+   "artist": "AnonymousUnknown author",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "Holy Cities Plaque (Palestine, nineteenth century). Depicting the four Holy Cities of the Holy Land, this plaque is divided into four quadrants, with Jerusalem ",
+   "article": "Four Holy Cities"
+  },
+  "kingdom-of-ireland|Plantation of Ulster": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Plantation_of_Ulster.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Plantation_of_Ulster.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Plantation_of_Ulster.png",
+   "artist": "User:Asarlaí",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "A map highlighting the areas subjected to British plantations in Ulster, using modern county boundaries.",
+   "article": "Plantation of Ulster"
+  },
   "kingdom-of-ireland|Trinity College Dublin": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Long_Room_Interior%2C_Trinity_College_Dublin%2C_Ireland_-_Diliff.jpg/960px-Long_Room_Interior%2C_Trinity_College_Dublin%2C_Ireland_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Long_Room_Interior,_Trinity_College_Dublin,_Ireland_-_Diliff.jpg",
@@ -11451,7 +11901,16 @@
    "caption": "A Dhow in the Indian Ocean. Crew members pull the ropes to adjust sails. The background shows the Zanzibar Island.",
    "article": "Dhow"
   },
-  "kyrgyzstan|Manas epic": null,
+  "kyrgyzstan|Manas epic": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/The_Soviet_Union_1990_CPA_6202_stamp_with_label_%28Manas%2C_Kyrgyz_epic_poem._Warrior_with_saber_leading_battle._T._Gertsen%29.jpg/960px-The_Soviet_Union_1990_CPA_6202_stamp_with_label_%28Manas%2C_Kyrgyz_epic_poem._Warrior_with_saber_leading_battle._T._Gertsen%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "The Soviet Union 1990 CPA 6202 stamp with label (Manas, Kyrgyz epic poem. Warrior with saber leading battle. T. Gertsen).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Soviet_Union_1990_CPA_6202_stamp_with_label_(Manas,_Kyrgyz_epic_poem._Warrior_with_saber_leading_battle._T._Gertsen).jpg",
+   "artist": "USSR Post",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "Manas, Kyrgyz epic poem. T. Gertsen.",
+   "article": null
+  },
   "kyrgyzstan|Yurt": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/SK_yurt_camp_%281_of_1%29-8.jpg/960px-SK_yurt_camp_%281_of_1%29-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "SK_yurt_camp_(1_of_1)-8.jpg",
@@ -11472,7 +11931,16 @@
    "caption": "Бұл суретте Қырғыстандағы Иссык-көл көлі",
    "article": "Issyk-Kul"
   },
-  "lao-kingdoms|Wat Xieng Thong": null,
+  "lao-kingdoms|Wat Xieng Thong": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Temple_Wat_Xieng_Thong_-_Luang_Prabang_-_Laos.jpg/960px-Temple_Wat_Xieng_Thong_-_Luang_Prabang_-_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Temple_Wat_Xieng_Thong_-_Luang_Prabang_-_Laos.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Temple_Wat_Xieng_Thong_-_Luang_Prabang_-_Laos.jpg",
+   "artist": "Basile Morin",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "Temple Wat Xieng Thong, Luang Prabang, Laos",
+   "article": "Wat Xieng Thong"
+  },
   "lao-kingdoms|Anouvong": {
    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/StadAnouvong-entrance-2011_%28version_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "file": "StadAnouvong-entrance-2011_(version_2).jpg",
@@ -11483,7 +11951,16 @@
    "caption": "SAMSUNG DIGITAL CAMERA",
    "article": "Anouvong"
   },
-  "lao-kingdoms|Khaen": null,
+  "lao-kingdoms|Khaen": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Khenesarong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Khenesarong.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Khenesarong.jpg",
+   "artist": "Unknown author",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "caption": null,
+   "article": "Khaen"
+  },
   "laos|Luang Prabang": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Phou_si_Luang_Prabang_Laos_%E3%83%97%E3%83%BC%E3%82%B7%E3%83%BC%E3%81%AE%E4%B8%98_%E3%83%A9%E3%82%AA%E3%82%B9%E3%83%BB%E3%83%AB%E3%82%A2%E3%83%B3%E3%83%97%E3%83%A9%E3%83%90%E3%83%BC%E3%83%B3_DSCF6777.jpg/960px-Phou_si_Luang_Prabang_Laos_%E3%83%97%E3%83%BC%E3%82%B7%E3%83%BC%E3%81%AE%E4%B8%98_%E3%83%A9%E3%82%AA%E3%82%B9%E3%83%BB%E3%83%AB%E3%82%A2%E3%83%B3%E3%83%97%E3%83%A9%E3%83%90%E3%83%BC%E3%83%B3_DSCF6777.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Phou_si_Luang_Prabang_Laos_プーシーの丘_ラオス・ルアンプラバーン_DSCF6777.jpg",
@@ -11544,7 +12021,16 @@
    "caption": "Photo of the Baltic Way published in Moteris magazine. Participants hold candles and Lithuanian flags with black ribbons to express mourning and disagreement ab",
    "article": "Baltic Way"
   },
-  "lebanon|Cedar of Lebanon": null,
+  "lebanon|Cedar of Lebanon": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Cedar_of_Lebanon_%28Cedar_of_God%29%2C_Lebanon.jpg/960px-Cedar_of_Lebanon_%28Cedar_of_God%29%2C_Lebanon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Cedar of Lebanon (Cedar of God), Lebanon.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Cedar_of_Lebanon_(Cedar_of_God),_Lebanon.jpg",
+   "artist": "Vyacheslav Argenberg",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "caption": "Cedrus libani, known as the Cedar of Lebanon, a species of cedar native to the mountains of the Eastern Mediterranean. Slopes of Mount Lebanon. Kadisha Valley.",
+   "article": null
+  },
   "lebanon|Baalbek": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Temple_of_Bacchus%2C_Baalbek%2C_Lebanon_%2849890013476%29.jpg/960px-Temple_of_Bacchus%2C_Baalbek%2C_Lebanon_%2849890013476%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Temple_of_Bacchus,_Baalbek,_Lebanon_(49890013476).jpg",
@@ -11649,7 +12135,16 @@
   },
   "lithuania|Basketball": null,
   "lithuania|First to leave the USSR": null,
-  "lozi-kingdom|Kuomboka": null,
+  "lozi-kingdom|Kuomboka": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Nalikwanda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Nalikwanda.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Nalikwanda.jpg",
+   "artist": "Dietmar Hatzenbichler",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "caption": "Royal barge, Barotseland, Zambia",
+   "article": "Kuomboka"
+  },
   "lozi-kingdom|Nalikwanda barge": null,
   "lozi-kingdom|Litunga": {
    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/The_Litunga_in_2010s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -11693,9 +12188,27 @@
    "article": "Ruins of Saint Paul's"
   },
   "macau|Egg tarts": null,
-  "macau|Casinos": null,
+  "macau|Casinos": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Vista_de_los_casinos_desde_el_Centro_de_Ciencia%2C_Macao%2C_2013-08-08%2C_DD_01.jpg/960px-Vista_de_los_casinos_desde_el_Centro_de_Ciencia%2C_Macao%2C_2013-08-08%2C_DD_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Vista de los casinos desde el Centro de Ciencia, Macao, 2013-08-08, DD 01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Vista_de_los_casinos_desde_el_Centro_de_Ciencia,_Macao,_2013-08-08,_DD_01.jpg",
+   "artist": "Diego Delso",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "View of the casinos from Science Center, Macau",
+   "article": null
+  },
   "malawi|Lake Malawi": null,
-  "malawi|Gule Wamkulu": null,
+  "malawi|Gule Wamkulu": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Gule_wamkulu_Malawi_culture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Gule wamkulu Malawi culture.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Gule_wamkulu_Malawi_culture.jpg",
+   "artist": "Leinman11",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "This another nyau culture. They believed to be most fearful people in chewa tribe..",
+   "article": null
+  },
   "malawi|Tea": null,
   "maldives|Coral atolls": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Maldives.visibleearth.nasa.jpg/960px-Maldives.visibleearth.nasa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -11727,7 +12240,16 @@
    "caption": "Monetaria caputserpentis (synonym : Cypraea caputserpentis), very common in intertidal rocky areas.",
    "article": "Cowrie"
   },
-  "mali-modern|Great Mosque of Djenné": null,
+  "mali-modern|Great Mosque of Djenné": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Djenne_great_mud_mosque.jpg/960px-Djenne_great_mud_mosque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Djenne_great_mud_mosque.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Djenne_great_mud_mosque.jpg",
+   "artist": "Ruud Zwart",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "caption": "Great Mud Mosque, Djenné, Mali",
+   "article": "Great Mosque of Djenné"
+  },
   "mali-modern|Timbuktu manuscripts": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Donkeys%2C_Timbuktu.jpg/960px-Donkeys%2C_Timbuktu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Donkeys,_Timbuktu.jpg",
@@ -11961,11 +12483,29 @@
    "caption": null,
    "article": "Petar II Petrović-Njegoš"
   },
-  "mossi-kingdoms|Mogho Naba": null,
+  "mossi-kingdoms|Mogho Naba": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/BF-Ouaga-Entr%C3%A9e_du_Palais_du_Mogho_Naaba_%28Roi%29_%28cropped%29.jpg/960px-BF-Ouaga-Entr%C3%A9e_du_Palais_du_Mogho_Naaba_%28Roi%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "BF-Ouaga-Entrée du Palais du Mogho Naaba (Roi) (cropped).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:BF-Ouaga-Entr%C3%A9e_du_Palais_du_Mogho_Naaba_(Roi)_(cropped).jpg",
+   "artist": "WILLAV-FR",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "This is an image with the theme \"Home + Habitat in Africa\" from:",
+   "article": null
+  },
   "mossi-kingdoms|Mossi cavalry": null,
   "mossi-kingdoms|Nakomse and Tengabisi": null,
   "mozambique|Island of Mozambique": null,
-  "mozambique|Marrabenta": null,
+  "mozambique|Marrabenta": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Festival_da_Marrabenta_%285400568029%29.jpg/960px-Festival_da_Marrabenta_%285400568029%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Festival da Marrabenta (5400568029).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Festival_da_Marrabenta_(5400568029).jpg",
+   "artist": "Andrés Moreno from Joensuu, Spain",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "caption": "Marrabenta Festival at Centro Cultural Franco-Moçambicano, Maputo, Mozambique",
+   "article": null
+  },
   "mozambique|AK-47 on the flag": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/AK-47_type_II_noBG.png/960px-AK-47_type_II_noBG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "AK-47_type_II_noBG.png",
@@ -12027,7 +12567,16 @@
    "caption": null,
    "article": "Longyi"
   },
-  "namibia|Namib Desert dunes": null,
+  "namibia|Namib Desert dunes": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Sossusvlei_Dune_Namib_Desert_Namibia_Luca_Galuzzi_2004.JPG/960px-Sossusvlei_Dune_Namib_Desert_Namibia_Luca_Galuzzi_2004.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Sossusvlei Dune Namib Desert Namibia Luca Galuzzi 2004.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Sossusvlei_Dune_Namib_Desert_Namibia_Luca_Galuzzi_2004.JPG",
+   "artist": "Luca Galuzzi (Lucag)",
+   "license": "CC BY-SA 2.5",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "caption": "Dunes in Sossusvlei region, Namib-Naukluft National Park, Namib Desert, Namibia.",
+   "article": null
+  },
   "namibia|Herero and Nama genocide": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Herero_and_Nama_prisoners.jpg/960px-Herero_and_Nama_prisoners.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Herero_and_Nama_prisoners.jpg",
@@ -12058,8 +12607,26 @@
    "caption": "The site of secondary mining of Phosphate rock in Nauru, 2007.",
    "article": "Phosphate mining in Banaba and Nauru"
   },
-  "nauru|Smallest republic": null,
-  "nauru|Topside": null,
+  "nauru|Smallest republic": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/This_is_The_Republic_of_Nauru.jpg/960px-This_is_The_Republic_of_Nauru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "This is The Republic of Nauru.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:This_is_The_Republic_of_Nauru.jpg",
+   "artist": "Tatiana Gerus",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "caption": "Nauru is the world's smallest island nation, covering just 21 km² (8.1 sq. mi), the smallest independent republic, and the only republican state in the world wi",
+   "article": null
+  },
+  "nauru|Topside": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Dining_Hall_-_Topside_immigration_processing_compound%2C_Nauru.jpg/960px-Dining_Hall_-_Topside_immigration_processing_compound%2C_Nauru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Dining Hall - Topside immigration processing compound, Nauru.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Dining_Hall_-_Topside_immigration_processing_compound,_Nauru.jpg",
+   "artist": "DIAC images",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "caption": "Dining Hall - Topside immigration processing compound, Nauru",
+   "article": null
+  },
   "ndebele-kingdom|Mzilikazi": {
    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Mzilikazi~detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "file": "Mzilikazi~detail.jpg",
@@ -12071,7 +12638,16 @@
    "article": "Mzilikazi"
   },
   "ndebele-kingdom|Impi regiments": null,
-  "ndebele-kingdom|Rudd Concession": null,
+  "ndebele-kingdom|Rudd Concession": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Rudd_Concession.jpg/960px-Rudd_Concession.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Rudd_Concession.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Rudd_Concession.jpg",
+   "artist": "Charles Rudd (died 1916) and Lobengula Kumalo (died 1894)",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "Rudd Concession",
+   "article": "Rudd Concession"
+  },
   "nepal|Mount Everest": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Mount-Everest.jpg/960px-Mount-Everest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Mount-Everest.jpg",
@@ -12082,7 +12658,16 @@
    "caption": "Mt. Everest, seen from Tingri, a small village on the Tibetan plateau at around 4050m above sea level.",
    "article": "2015 Mount Everest avalanches"
   },
-  "nepal|Gurkhas": null,
+  "nepal|Gurkhas": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/British_Gurkhas_Nepal_TRF.png/960px-British_Gurkhas_Nepal_TRF.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "British Gurkhas Nepal TRF.png",
+   "page": "https://commons.wikimedia.org/wiki/File:British_Gurkhas_Nepal_TRF.png",
+   "artist": "Coldstreamer20",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "caption": "Tactical Recognition Flash (TRF) of British Gurkhas Nepal.",
+   "article": null
+  },
   "nepal|Lumbini": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/BRP_Lumbini_Mayadevi_temple.jpg/960px-BRP_Lumbini_Mayadevi_temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "BRP_Lumbini_Mayadevi_temple.jpg",
@@ -12104,7 +12689,16 @@
    "caption": null,
    "article": "Asnières (Van Gogh series)"
   },
-  "netherlands|Bicycles": null,
+  "netherlands|Bicycles": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Bicycles_%26_Canals_%285719321178%29.jpg/960px-Bicycles_%26_Canals_%285719321178%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Bicycles & Canals (5719321178).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bicycles_%26_Canals_(5719321178).jpg",
+   "artist": "Rob Young from United Kingdom",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "caption": "Bicycles & Canals",
+   "article": null
+  },
   "new-zealand|Treaty of Waitangi": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Treatyofwaitangi.jpg/960px-Treatyofwaitangi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Treatyofwaitangi.jpg",
@@ -12125,7 +12719,16 @@
    "caption": "A cropped version of the Kate Sheppard National Memorial, Christchurch https://commons.wikimedia.org/wiki/File:Tribute_to_the_Suffragettes,_Christchurch,_NZ.jpg",
    "article": "Women's suffrage in New Zealand"
   },
-  "new-zealand|All Blacks and the haka": null,
+  "new-zealand|All Blacks and the haka": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Maori_All_Blacks_haka_practise_at_Sydney.jpg/960px-Maori_All_Blacks_haka_practise_at_Sydney.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Maori All Blacks haka practise at Sydney.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Maori_All_Blacks_haka_practise_at_Sydney.jpg",
+   "artist": "New Zealand Herald",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "caption": "Māori All Blacks haka practise at Sydney Cricket Ground on their 1935 tour of Australia",
+   "article": null
+  },
   "nicaragua|Lake Nicaragua": null,
   "nicaragua|Rubén Darío": {
    "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Rub%C3%A9n_Dar%C3%ADo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -12158,7 +12761,16 @@
    "article": "Agadez Mosque"
   },
   "niger|Uranium": null,
-  "niger|Gerewol festival": null,
+  "niger|Gerewol festival": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Wodaabe_during_Gerewol%2C_Cure_Salee%2C_In-Gall%2C_Niger_%2815380276990%29.jpg/960px-Wodaabe_during_Gerewol%2C_Cure_Salee%2C_In-Gall%2C_Niger_%2815380276990%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Wodaabe during Gerewol, Cure Salee, In-Gall, Niger (15380276990).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Wodaabe_during_Gerewol,_Cure_Salee,_In-Gall,_Niger_(15380276990).jpg",
+   "artist": "Alfred Weidinger from Vienna, Austria",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "caption": "Cure Salee 2014, In-Gall, Niger The first sun rays. At the end of the rainy season in September, the Wodaabe travel to In-Gall to gather salt and participate at",
+   "article": null
+  },
   "north-korea|Juche": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Juche_Tower_torch.jpg/960px-Juche_Tower_torch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Juche_Tower_torch.jpg",
@@ -12295,7 +12907,16 @@
    "caption": "Map of the Panama Canal (English version)",
    "article": "Panama Canal"
   },
-  "panama|Molas": null,
+  "panama|Molas": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/3/35/Butterfly_detail%2C_Molas_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Butterfly detail, Molas (cropped).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Butterfly_detail,_Molas_(cropped).jpg",
+   "artist": "Laktos",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "Molas hechas por kunas (raza indígena de Panamá)",
+   "article": null
+  },
   "panama|Casco Viejo": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Casco_Antiguo_%28San_Felipe%29_-_Pamama.jpg/960px-Casco_Antiguo_%28San_Felipe%29_-_Pamama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Casco_Antiguo_(San_Felipe)_-_Pamama.jpg",
@@ -12347,7 +12968,16 @@
    "caption": "Depicted person: Marie Curie",
    "article": "Marie Curie"
   },
-  "poland-modern|Pierogi": null,
+  "poland-modern|Pierogi": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Pierogi_z_mas%C5%82em_-_2023.03.31.jpg/960px-Pierogi_z_mas%C5%82em_-_2023.03.31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Pierogi_z_masłem_-_2023.03.31.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Pierogi_z_mas%C5%82em_-_2023.03.31.jpg",
+   "artist": "Aw58",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "Pierogi z masłem.",
+   "article": "Pierogi"
+  },
   "portugal-modern|Carnation Revolution": {
    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Revolu%C3%A7%C3%A3o_dos_Cravos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "file": "Revolução_dos_Cravos.jpg",
@@ -12358,7 +12988,16 @@
    "caption": "Populares em festa num carro de combate em Lisboa, durante a Revolução dos Cravos",
    "article": "Carnation Revolution"
   },
-  "portugal-modern|Fado": null,
+  "portugal-modern|Fado": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Jose_malhoa_fado.jpg/960px-Jose_malhoa_fado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Jose_malhoa_fado.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Jose_malhoa_fado.jpg",
+   "artist": "José Malhoa",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": null,
+   "article": "Fado"
+  },
   "portugal-modern|Azulejos": null,
   "post-angkor-cambodia|Oudong": {
    "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Oudong_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -12411,8 +13050,26 @@
    "caption": "Mofongo is a popular Puerto Rican dish, made from fried green plantains or fried yuca, seasoned with garlic, olive oil and pork cracklings, then mashed. Mofongo",
    "article": "Mofongo"
   },
-  "qatar|Al Jazeera": null,
-  "qatar|Museum of Islamic Art": null,
+  "qatar|Al Jazeera": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Al_Jazeera_Network_building_in_Wadi_Al_Sail_Doha.jpg/960px-Al_Jazeera_Network_building_in_Wadi_Al_Sail_Doha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Al Jazeera Network building in Wadi Al Sail Doha.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Al_Jazeera_Network_building_in_Wadi_Al_Sail_Doha.jpg",
+   "artist": "Carlos Duarte Do Nascimento @ Flickr.com",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "caption": "Al Jazeera Network building in the Wadi Al Sail district of Doha, Qatar.",
+   "article": null
+  },
+  "qatar|Museum of Islamic Art": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/View_of_the_Persian_Gulf_and_the_Museum_of_Islamic_Art_in_Qatar_at_dusk.jpg/960px-View_of_the_Persian_Gulf_and_the_Museum_of_Islamic_Art_in_Qatar_at_dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "View of the Persian Gulf and the Museum of Islamic Art in Qatar at dusk.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:View_of_the_Persian_Gulf_and_the_Museum_of_Islamic_Art_in_Qatar_at_dusk.jpg",
+   "artist": "Alex Sergeev (www.asergeev.com)",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "caption": "View of the Persian Gulf and the Museum of Islamic Art in Qatar at dusk.",
+   "article": null
+  },
   "qatar|2022 World Cup": null,
   "republic-of-congo|Brazzaville and Kinshasa": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Brazzaville_bird_eye_view.jpg/960px-Brazzaville_bird_eye_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -12436,7 +13093,16 @@
   },
   "republic-of-congo|Sapeurs": null,
   "romania|Painted monasteries of Bukovina": null,
-  "romania|Palace of the Parliament": null,
+  "romania|Palace of the Parliament": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Palace_of_the_Parliament_Balcony_View.jpg/960px-Palace_of_the_Parliament_Balcony_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Palace of the Parliament Balcony View.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Palace_of_the_Parliament_Balcony_View.jpg",
+   "artist": "Kaljami",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "Picture from the balcony of the Palace of the Parliament",
+   "article": null
+  },
   "romania|Dracula legend": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Romania-1850_-_Dracula%27s_Castle_%28Bran_Castle%29_%287706908996%29.jpg/960px-Romania-1850_-_Dracula%27s_Castle_%28Bran_Castle%29_%287706908996%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Romania-1850_-_Dracula's_Castle_(Bran_Castle)_(7706908996).jpg",
@@ -12487,8 +13153,26 @@
    "caption": "The Prince of Wales Bastion at the Brimstone Hill Fortress National Park, St Kitts, Leeward Islands",
    "article": "Brimstone Hill Fortress National Park"
   },
-  "saint-kitts-and-nevis|Alexander Hamilton": null,
-  "saint-kitts-and-nevis|Sugar railway": null,
+  "saint-kitts-and-nevis|Alexander Hamilton": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Alexander_Hamilton_%28NPG%29.jpg/960px-Alexander_Hamilton_%28NPG%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Alexander_Hamilton_(NPG).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Alexander_Hamilton_(NPG).jpg",
+   "artist": "John Trumbull / Giuseppe Ceracchi",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": null,
+   "article": "Alexander Hamilton"
+  },
+  "saint-kitts-and-nevis|Sugar railway": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/St._Kitts_old_sugar_cane_railway_-_panoramio.jpg/960px-St._Kitts_old_sugar_cane_railway_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "St. Kitts old sugar cane railway - panoramio.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:St._Kitts_old_sugar_cane_railway_-_panoramio.jpg",
+   "artist": "SV Zanshin",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "St. Kitts old sugar cane railway",
+   "article": null
+  },
   "saint-lucia|The Pitons": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Pitons-aerial.jpg/960px-Pitons-aerial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Pitons-aerial.jpg",
@@ -12521,10 +13205,28 @@
    "article": "La Soufrière (Saint Vincent)"
   },
   "saint-vincent-and-the-grenadines|Garifuna homeland": null,
-  "saint-vincent-and-the-grenadines|Breadfruit": null,
+  "saint-vincent-and-the-grenadines|Breadfruit": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Artocarpus_altilis_%28fruit%29.jpg/960px-Artocarpus_altilis_%28fruit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Artocarpus_altilis_(fruit).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Artocarpus_altilis_(fruit).jpg",
+   "artist": "Hans Hillewaert",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "Breadfruit at Tortuguero, Costa Rica",
+   "article": "Breadfruit"
+  },
   "samoa|Fa’a Samoa": null,
   "samoa|Tatau (tattoo)": null,
-  "samoa|Fale": null,
+  "samoa|Fale": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Fale_O_Samoa%2C_M%C4%81ngere_PA01.jpg/960px-Fale_O_Samoa%2C_M%C4%81ngere_PA01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Fale O Samoa, Māngere PA01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Fale_O_Samoa,_M%C4%81ngere_PA01.jpg",
+   "artist": "Paora",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "caption": "Fale o Samoa, 141 Bader Drive, Māngere, photographed on 25 December 2025",
+   "article": null
+  },
   "san-marino|Three Towers": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/View_of_Mount_Titano_-_San_Marino.jpg/960px-View_of_Mount_Titano_-_San_Marino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "View_of_Mount_Titano_-_San_Marino.jpg",
@@ -12536,8 +13238,26 @@
    "article": "Three Towers of San Marino"
   },
   "san-marino|Captains Regent": null,
-  "san-marino|Oldest republic": null,
-  "sao-tome-and-principe|Cocoa": null,
+  "san-marino|Oldest republic": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/San_Marino%2C_one_of_the_world%E2%80%99s_oldest_republics_in_the_world_%28Copernicus_2025-06-16%29.webp/960px-San_Marino%2C_one_of_the_world%E2%80%99s_oldest_republics_in_the_world_%28Copernicus_2025-06-16%29.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "San Marino, one of the world’s oldest republics in the world (Copernicus 2025-06-16).webp",
+   "page": "https://commons.wikimedia.org/wiki/File:San_Marino,_one_of_the_world%E2%80%99s_oldest_republics_in_the_world_(Copernicus_2025-06-16).webp",
+   "artist": "European Union, Copernicus Sentinel-2 imagery",
+   "license": "Attribution",
+   "licenseUrl": null,
+   "caption": "San Marino, one of the world’s smallest and oldest republics, is a landlocked microstate nestled within central Italy. Founded in 301 A.D, and despite its small",
+   "article": null
+  },
+  "sao-tome-and-principe|Cocoa": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Cocoa_fermentation_chambers%2C_early_1900s%2C_Rio_Do_Uoro%2C_S%C3%A3o_Tom%C3%A9.png/960px-Cocoa_fermentation_chambers%2C_early_1900s%2C_Rio_Do_Uoro%2C_S%C3%A3o_Tom%C3%A9.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Cocoa fermentation chambers, early 1900s, Rio Do Uoro, São Tomé.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Cocoa_fermentation_chambers,_early_1900s,_Rio_Do_Uoro,_S%C3%A3o_Tom%C3%A9.png",
+   "artist": "W. H. Johnson",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "Cocoa fermentation chambers, early 1900s, Rio Do Uoro, Sao Tome",
+   "article": null
+  },
   "sao-tome-and-principe|Pico Cão Grande": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Pico_C%C3%A3o_Grande.jpg/960px-Pico_C%C3%A3o_Grande.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Pico_Cão_Grande.jpg",
@@ -12548,7 +13268,16 @@
    "caption": "Photo of Pico Cão Grande on São Tomé taken 18/03/2014 during a voyage on the island.",
    "article": "Pico Cão Grande"
   },
-  "sao-tome-and-principe|Tchiloli": null,
+  "sao-tome-and-principe|Tchiloli": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Tchiloli_%C3%A0_S%C3%A3o_Tom%C3%A9_%2829%29.jpg/960px-Tchiloli_%C3%A0_S%C3%A3o_Tom%C3%A9_%2829%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Tchiloli à São Tomé (29).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Tchiloli_%C3%A0_S%C3%A3o_Tom%C3%A9_(29).jpg",
+   "artist": "Ji-Elle",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "This image was uploaded as part of Wiki Loves Africa 2019 photographic contest.",
+   "article": null
+  },
   "senegal|Gorée Island": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Ile-de-goree.jpg/960px-Ile-de-goree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Ile-de-goree.jpg",
@@ -12622,11 +13351,29 @@
   },
   "seychelles|Granite islands": null,
   "shan-states|Saophas": null,
-  "shan-states|Inle Lake": null,
+  "shan-states|Inle Lake": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Inle_Lake_%28Myanmar%29.jpg/960px-Inle_Lake_%28Myanmar%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Inle_Lake_(Myanmar).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Inle_Lake_(Myanmar).jpg",
+   "artist": "Marc Veraart from Haarlem, Netherlands",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "caption": "The Inle Lake.",
+   "article": "Inle Lake"
+  },
   "shan-states|Shan noodles": null,
   "shona-kingdoms|Gold trade": null,
   "shona-kingdoms|Stone enclosures": null,
-  "shona-kingdoms|Mbira": null,
+  "shona-kingdoms|Mbira": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Ene_mbira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Ene_mbira.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Ene_mbira.jpg",
+   "artist": "Zanzambira at English Wikipedia",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "Mbira Dza Vadzimu \"Kanuchi\" by Fradreck Mujuru",
+   "article": "Mbira"
+  },
   "sierra-leone|Cotton Tree of Freetown": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cotton_Tree_with_stump_and_Sierra_Leonean_flag.jpg/960px-Cotton_Tree_with_stump_and_Sierra_Leonean_flag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Cotton_Tree_with_stump_and_Sierra_Leonean_flag.jpg",
@@ -12638,7 +13385,16 @@
    "article": "Cotton Tree (Sierra Leone)"
   },
   "sierra-leone|Diamonds": null,
-  "sierra-leone|Krio language": null,
+  "sierra-leone|Krio language": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Krio_language_in_Sierra_Leone%2C_2015_%28ru%29.svg/960px-Krio_language_in_Sierra_Leone%2C_2015_%28ru%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Krio language in Sierra Leone, 2015 (ru).svg",
+   "page": "https://commons.wikimedia.org/wiki/File:Krio_language_in_Sierra_Leone,_2015_(ru).svg",
+   "artist": "Etažy",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "caption": "Distribution of the Krio language in Sierra Leone (by district)",
+   "article": null
+  },
   "slovakia|High Tatras": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Tatry_Panorama01xxx.jpg/960px-Tatry_Panorama01xxx.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Tatry_Panorama01xxx.jpg",
@@ -12670,7 +13426,16 @@
    "caption": "View of the lake from the mountain",
    "article": "Lake Bled"
   },
-  "slovenia|Lipizzaner horses": null,
+  "slovenia|Lipizzaner horses": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Lipizzaner_Horse.jpg/960px-Lipizzaner_Horse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Lipizzaner Horse.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Lipizzaner_Horse.jpg",
+   "artist": "Hank Miller",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "Taken at Lipica, Slovenia of a Lipizzaner and rider.",
+   "article": null
+  },
   "slovenia|Potica": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/MintpoticabySara.jpg/960px-MintpoticabySara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "MintpoticabySara.jpg",
@@ -12705,7 +13470,16 @@
   },
   "somalia|Somali poetry": null,
   "somalia|Hawala": null,
-  "south-korea|K-pop": null,
+  "south-korea|K-pop": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Korean.culture-K-pop-01.jpg/960px-Korean.culture-K-pop-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Korean.culture-K-pop-01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Korean.culture-K-pop-01.jpg",
+   "artist": "chunjaegirl",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "caption": "A dance contest was being held on the stage in front of migliore, Myeongdong, Seoul, Korea",
+   "article": null
+  },
   "south-korea|Kimchi": {
    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Various_kimchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "file": "Various_kimchi.jpg",
@@ -12716,7 +13490,16 @@
    "caption": "various kimchi",
    "article": "Kimchi"
   },
-  "south-korea|Samsung": null,
+  "south-korea|Samsung": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Samsung_headquarters.jpg/960px-Samsung_headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Samsung_headquarters.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Samsung_headquarters.jpg",
+   "artist": "Oskar Alexanderson",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "caption": "The Samsung headquarters",
+   "article": "Samsung"
+  },
   "south-sudan|Sudd wetland": {
    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Sudd_swamp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "file": "Sudd_swamp.jpg",
@@ -12760,7 +13543,16 @@
    "caption": "Paramaribo city, capital of Suriname.",
    "article": "Paramaribo"
   },
-  "suriname|Maroon communities": null,
+  "suriname|Maroon communities": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Washing_and_bathing_-_Maroon_village_%2823406406280%29.jpg/960px-Washing_and_bathing_-_Maroon_village_%2823406406280%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Washing and bathing - Maroon village (23406406280).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Washing_and_bathing_-_Maroon_village_(23406406280).jpg",
+   "artist": "Dan Sloan",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "caption": "After giving me the explanation about the Maroons being camera shy, my guide said \"This is a nice scene.\" I said: \"Yeah, it will be a great memory\". \"Give me yo",
+   "article": null
+  },
   "suriname|Rainforest": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Amazon17_%285641020319%29.jpg/960px-Amazon17_%285641020319%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Amazon17_(5641020319).jpg",
@@ -12833,8 +13625,26 @@
    "caption": "Haft-sin, Nowruz",
    "article": "Nowruz"
   },
-  "tajikistan|Rudaki": null,
-  "timor-leste|Tais": null,
+  "tajikistan|Rudaki": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Miniature_of_Rudaki_by_Hossein_Behzad.jpg/960px-Miniature_of_Rudaki_by_Hossein_Behzad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Miniature_of_Rudaki_by_Hossein_Behzad.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Miniature_of_Rudaki_by_Hossein_Behzad.jpg",
+   "artist": "Hossein Behzad",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": null,
+   "article": "Rudaki"
+  },
+  "timor-leste|Tais": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Tais_Cova_Lima_3.jpg/960px-Tais_Cova_Lima_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Tais_Cova_Lima_3.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Tais_Cova_Lima_3.jpg",
+   "artist": "David Palazón, Tatoli ba Kultura",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "Tais weben in Cova Lima",
+   "article": "Tais"
+  },
   "timor-leste|Coffee": null,
   "timor-leste|Xanana Gusmão": {
    "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/PM_Kishida_meeting_with_PM_Gusm%C3%A3o_of_Timor-Leste_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -12856,7 +13666,16 @@
    "caption": "A Tammari house with granaries. The forked poles at the left granary are ladders, with steps cut along their lengths.",
    "article": "Koutammakou"
   },
-  "togo|Phosphates": null,
+  "togo|Phosphates": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Togo_phosphates_mining.jpg/960px-Togo_phosphates_mining.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Togo phosphates mining.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Togo_phosphates_mining.jpg",
+   "artist": "Александра Пугачевская (Alexandra Pugachevsky)",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "Phosphate Mining at SNPT (Societe Nouvelle des Phosphates de Togo), 2007-12-02",
+   "article": null
+  },
   "togo|Lomé port": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/C%E2%80%99est_Lom%C3%A9.jpg/960px-C%E2%80%99est_Lom%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "C’est_Lomé.jpg",
@@ -12868,7 +13687,16 @@
    "article": "Lomé"
   },
   "tonga|Never colonised": null,
-  "tonga|Ta’ovala": null,
+  "tonga|Ta’ovala": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/d/df/Tonga_-_Mr_Marles%27_visit_to_Vaiola_Hospital_%2810730055895%29_-_cropped_%28man_with_ta%27ovala%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Tonga - Mr Marles' visit to Vaiola Hospital (10730055895) - cropped (man with ta'ovala).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Tonga_-_Mr_Marles%27_visit_to_Vaiola_Hospital_(10730055895)_-_cropped_(man_with_ta%27ovala).jpg",
+   "artist": "Department of Foreign Affairs and Trade",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "caption": "Lord Tu'ivakano (Prime Minister of Tonga), Hon. Richard Marles MP (Parliamentary Secretary for Pacific Islands Affairs). Visit to Vaiola Hospital, Tonga 17-18 M",
+   "article": null
+  },
   "tonga|Ha’amonga ’a Maui": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Ha%CA%BBamonga.jpg/960px-Ha%CA%BBamonga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Haʻamonga.jpg",
@@ -12997,7 +13825,16 @@
    "article": "Kasubi Tombs"
   },
   "ukraine|Black earth (chornozem)": null,
-  "ukraine|Vyshyvanka": null,
+  "ukraine|Vyshyvanka": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Girl_from_Podolye_by_V.Tropinin_%28b._1821%2C_Kursk%29.jpg/960px-Girl_from_Podolye_by_V.Tropinin_%28b._1821%2C_Kursk%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Girl_from_Podolye_by_V.Tropinin_(b._1821,_Kursk).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Girl_from_Podolye_by_V.Tropinin_(b._1821,_Kursk).jpg",
+   "artist": "Vasily Andreevich Tropinin",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": null,
+   "article": "Vyshyvanka"
+  },
   "ukraine|Chernobyl disaster": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/IAEA_02790015_%285613115146%29.jpg/960px-IAEA_02790015_%285613115146%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "IAEA_02790015_(5613115146).jpg",
@@ -13030,8 +13867,26 @@
   },
   "united-arab-emirates|Dubai airport": null,
   "united-kingdom|National Health Service": null,
-  "united-kingdom|The Beatles": null,
-  "united-kingdom|Winston Churchill": null,
+  "united-kingdom|The Beatles": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg/960px-The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg",
+   "artist": "Dezo Hoffmann, Distributed by Capitol Records",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "The Beatles 1963 publicity photo used on the cover of I Want to Hold Your Hand",
+   "article": "The Beatles"
+  },
+  "united-kingdom|Winston Churchill": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg/960px-Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Sir_Winston_Churchill_-_19086236948_(restored).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sir_Winston_Churchill_-_19086236948_(restored).jpg",
+   "artist": "Unknown author",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "Karsh called this picture \"The Roaring Lion\" at the Wayback Machine",
+   "article": "Winston Churchill"
+  },
   "uruguay|First football World Cup": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Uruguay_national_football_team_1930.jpg/960px-Uruguay_national_football_team_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Uruguay_national_football_team_1930.jpg",
@@ -13267,7 +14122,16 @@
    "caption": "Contemporary portrait of Karim Khan Zand.",
    "article": "Karim Khan Zand"
   },
-  "zand-persia|Vakil Bazaar": null,
+  "zand-persia|Vakil Bazaar": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Bazaar_de_Vakil%2C_Shiraz%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_48.jpg/960px-Bazaar_de_Vakil%2C_Shiraz%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_48.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Bazaar_de_Vakil,_Shiraz,_Irán,_2016-09-24,_DD_48.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bazaar_de_Vakil,_Shiraz,_Ir%C3%A1n,_2016-09-24,_DD_48.jpg",
+   "artist": "Diego Delso",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "Vakil Bazaar, Shiraz, Iran",
+   "article": "Vakil Bazaar"
+  },
   "zand-persia|Arg of Karim Khan": null,
   "zanzibar-sultanate|Stone Town": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Zanzibar_sultan_palace.jpg/960px-Zanzibar_sultan_palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -13341,7 +14205,16 @@
    "article": "Madinat al-Zahra"
   },
   "al-andalus-cordoba|Translation of learning": null,
-  "almoravids|Marrakesh": null,
+  "almoravids|Marrakesh": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Marrakech%2C_Morocco_%285421595453%29_%285%29.jpg/960px-Marrakech%2C_Morocco_%285421595453%29_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Marrakech,_Morocco_(5421595453)_(5).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Marrakech,_Morocco_(5421595453)_(5).jpg",
+   "artist": "YoTuT from United States",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "caption": "Marrakech, Morocco",
+   "article": "Marrakesh"
+  },
   "almoravids|Almoravid dinar": null,
   "almoravids|Battle of Sagrajas": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Batalha_de_Zalaka_-_Hist%C3%B3ria_de_Portugal%2C_popular_e_ilustrada.png/960px-Batalha_de_Zalaka_-_Hist%C3%B3ria_de_Portugal%2C_popular_e_ilustrada.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -13363,7 +14236,16 @@
    "caption": "Outside view of Adina Mosque",
    "article": "Adina Mosque"
   },
-  "bengal-sultanate|Muslin": null,
+  "bengal-sultanate|Muslin": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Woman%27s_muslin_dress_c._1855.jpg/960px-Woman%27s_muslin_dress_c._1855.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Woman's_muslin_dress_c._1855.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Woman%27s_muslin_dress_c._1855.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "Woman's white muslin dress with tiered flounces, Europe, c. 1855.",
+   "article": "Muslin"
+  },
   "bengal-sultanate|Bengali literature": null,
   "crown-of-aragon|Catalan Atlas": {
    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Compass_rose_from_Catalan_Atlas_%281375%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -13395,10 +14277,37 @@
    "caption": "\"Aragon, Aragon\", grito de guerra de los almogávares en la Crónica de Ramon Muntaner, 1325, f. 114r (Nota la tilde del manuscrito original sobre estas palabras ",
    "article": "Almogavars"
   },
-  "deccan-sultanates|Gol Gumbaz": null,
+  "deccan-sultanates|Gol Gumbaz": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Gol_Gumbaz_-4%2C_Bijapur%2C_Karnataka.jpg/960px-Gol_Gumbaz_-4%2C_Bijapur%2C_Karnataka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Gol_Gumbaz_-4,_Bijapur,_Karnataka.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Gol_Gumbaz_-4,_Bijapur,_Karnataka.jpg",
+   "artist": "Mukul Banerjee",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "This is a photo of ASI monument number",
+   "article": "Gol Gumbaz"
+  },
   "deccan-sultanates|Golconda diamonds": null,
-  "deccan-sultanates|Charminar": null,
-  "early-maghreb-dynasties|Great Mosque of Kairouan": null,
+  "deccan-sultanates|Charminar": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Charminar_Hyderabad_1.jpg/960px-Charminar_Hyderabad_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Charminar_Hyderabad_1.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Charminar_Hyderabad_1.jpg",
+   "artist": "DidierTais",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "Charminar at Hyderabad, India",
+   "article": "Charminar"
+  },
+  "early-maghreb-dynasties|Great Mosque of Kairouan": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Great_Mosque_of_Kairouan_Panorama_-_Grande_Mosqu%C3%A9e_de_Kairouan_Panorama.jpg/960px-Great_Mosque_of_Kairouan_Panorama_-_Grande_Mosqu%C3%A9e_de_Kairouan_Panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Great_Mosque_of_Kairouan_Panorama_-_Grande_Mosquée_de_Kairouan_Panorama.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Kairouan_Panorama_-_Grande_Mosqu%C3%A9e_de_Kairouan_Panorama.jpg",
+   "artist": "MAREK SZAREJKO from CLONMEL, IRELAND - POLAND",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "caption": "Stitched Panorama of the Great Mosque of Kairouan, in Tunisia. This mosque, also called the Mosque of Uqba, extends over a surface area of 9,000 square metres. ",
+   "article": "Great Mosque of Kairouan"
+  },
   "early-maghreb-dynasties|Founding of Fez": null,
   "early-maghreb-dynasties|Conquest of Sicily": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Map_of_Islamic_Sicily_under_the_Kalbid_Dynasty_c.1000_AD.png/960px-Map_of_Islamic_Sicily_under_the_Kalbid_Dynasty_c.1000_AD.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -13410,9 +14319,27 @@
    "caption": "Map of Sicily in the Islamic period under Kalbid rule",
    "article": "Muslim Sicily"
   },
-  "iranian-dynasties|Shahnameh": null,
+  "iranian-dynasties|Shahnameh": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/The_Court_of_Gayumars_%28Cropped%29.jpg/960px-The_Court_of_Gayumars_%28Cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "The_Court_of_Gayumars_(Cropped).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Court_of_Gayumars_(Cropped).jpg",
+   "artist": "Attributed to Sultan Muhammad",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "Sultan Mohammed. Kayumars' Court. Miniature, detail. \"Shahnameh\" by Ferdowsi. 1525-1535. Geneva, Collection of Sadruddin Aga Khan.",
+   "article": "Shahnameh"
+  },
   "iranian-dynasties|Ismail Samani Mausoleum": null,
-  "iranian-dynasties|Avicenna": null,
+  "iranian-dynasties|Avicenna": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Avicenna_Bust%2C_left_profile_%28cropped%29.jpg/960px-Avicenna_Bust%2C_left_profile_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Avicenna_Bust,_left_profile_(cropped).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Avicenna_Bust,_left_profile_(cropped).jpg",
+   "artist": "National Library of Medicine",
+   "license": "No restrictions",
+   "licenseUrl": "https://www.flickr.com/commons/usage/",
+   "caption": "Format: Still image Genre(s): Portraits Abstract: Bust, left profile. Extent: 1 photomechanical reproduction Technique: halftone, color NLM Unique ID: 101408284",
+   "article": "Avicenna"
+  },
   "jolof-and-wolof-kingdoms|Damel of Cayor": null,
   "jolof-and-wolof-kingdoms|Lat Dior": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/BelAirMurals6.JPG/960px-BelAirMurals6.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -13445,7 +14372,16 @@
    "caption": "This book have been written by Mahmud al-Kashgari in 11th century.",
    "article": "Dīwān Lughāt al-Turk"
   },
-  "kara-khanids|Burana Tower": null,
+  "kara-khanids|Burana Tower": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Burana_Tower%2C_Kyrgyzstan.jpg/960px-Burana_Tower%2C_Kyrgyzstan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Burana_Tower,_Kyrgyzstan.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Burana_Tower,_Kyrgyzstan.jpg",
+   "artist": "Bernard Gagnon",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "caption": "Burana Tower near Tokmok, Kyrgyzstan",
+   "article": "Burana Tower"
+  },
   "kingdom-of-alwa|Soba": {
    "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/Christian_Nubia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "file": "Christian_Nubia.png",
@@ -13481,15 +14417,69 @@
   "kingdom-of-castile|Merino wool": null,
   "kingdom-of-hungary-medieval|Holy Crown of Hungary": null,
   "kingdom-of-hungary-medieval|Black Army": null,
-  "kingdom-of-hungary-medieval|Bibliotheca Corviniana": null,
-  "maghreb-sultanates|Bou Inania Madrasa": null,
-  "maghreb-sultanates|Ibn Battuta": null,
+  "kingdom-of-hungary-medieval|Bibliotheca Corviniana": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Corvina_Codex_Mathias_rex_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Corvina_Codex_Mathias_rex_portrait.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Corvina_Codex_Mathias_rex_portrait.jpg",
+   "artist": "Eusebius Corradus Mediolanensis",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "Mátyás, Magyarország, Csehország és Dalmácia uralkodója. Portré a Marlianus Mediolanensis-corvinában. Volterra, Biblioteca Guarnacci, Cod. Lat. 5518.IV.49.3.7.",
+   "article": "Bibliotheca Corviniana"
+  },
+  "maghreb-sultanates|Bou Inania Madrasa": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Courtyard_Minaret_Bou_Inania_Fes_Nov25_A7CR_09138-42_HDR3.jpg/960px-Courtyard_Minaret_Bou_Inania_Fes_Nov25_A7CR_09138-42_HDR3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Courtyard_Minaret_Bou_Inania_Fes_Nov25_A7CR_09138-42_HDR3.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Courtyard_Minaret_Bou_Inania_Fes_Nov25_A7CR_09138-42_HDR3.jpg",
+   "artist": "This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but please mention me as the author. I would m",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "The main courtyard and minaret, Bou Inania Madrasa, Fes, Morocco",
+   "article": "Bou Inania Madrasa"
+  },
+  "maghreb-sultanates|Ibn Battuta": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Handmade_oil_painting_reproduction_of_Ibn_Battuta_in_Egypt%2C_a_painting_by_Hippolyte_Leon_Benett..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Handmade_oil_painting_reproduction_of_Ibn_Battuta_in_Egypt,_a_painting_by_Hippolyte_Leon_Benett..jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Handmade_oil_painting_reproduction_of_Ibn_Battuta_in_Egypt,_a_painting_by_Hippolyte_Leon_Benett..jpg",
+   "artist": "Léon Benett",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "An illustration from Jules Verne's book \"Découverte de la terre\" (\"Discovery of the Earth\") drawn by Léon Benett. Ibn Battuta (1304-68/69) was a Maghrebi Berber",
+   "article": "Ibn Battuta"
+  },
   "maghreb-sultanates|Battle of the Three Kings": null,
-  "medieval-japan|Samurai": null,
+  "medieval-japan|Samurai": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Samurai_on_horseback0.jpg/960px-Samurai_on_horseback0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Samurai_on_horseback0.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Samurai_on_horseback0.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "Samurai on horseback, wearing armor and horned helmet, carrying bow and arrows",
+   "article": "Samurai"
+  },
   "medieval-japan|Zen gardens": null,
-  "medieval-japan|Kinkaku-ji": null,
+  "medieval-japan|Kinkaku-ji": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Golden_Pavilion_Kinkaku-ji_water_mirror_2024.jpg/960px-Golden_Pavilion_Kinkaku-ji_water_mirror_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Golden_Pavilion_Kinkaku-ji_water_mirror_2024.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Golden_Pavilion_Kinkaku-ji_water_mirror_2024.jpg",
+   "artist": "Nacaru",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "A picture of the golden pavilion at the Kinkaku-ji in 2024, with its structure mirrored on the water",
+   "article": "Kinkaku-ji"
+  },
   "medieval-norway|Stave churches": null,
-  "medieval-norway|Bryggen": null,
+  "medieval-norway|Bryggen": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Bryggen%2C_Bergen%2C_Noruega%2C_2019-09-08%2C_DD_115-117_PAN.jpg/960px-Bryggen%2C_Bergen%2C_Noruega%2C_2019-09-08%2C_DD_115-117_PAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Bryggen,_Bergen,_Noruega,_2019-09-08,_DD_115-117_PAN.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bryggen,_Bergen,_Noruega,_2019-09-08,_DD_115-117_PAN.jpg",
+   "artist": "Diego Delso",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "Bryggen, Bergen, Norway",
+   "article": "Bryggen"
+  },
   "medieval-norway|King’s sagas": null,
   "medieval-sweden|Rune stones": null,
   "medieval-sweden|Gustav Vasa": null,
@@ -13514,7 +14504,16 @@
    "caption": "Le roi Childebert III rend un jugement qui accorde à l'abbaye de Saint-Denis la terre de Hodenc-l'Évêque dans l'Oise, 23 décembre 695. Parchemin d'environ 26 x ",
    "article": "Salic law"
   },
-  "merovingian-franks|Battle of Tours": null,
+  "merovingian-franks|Battle of Tours": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Steuben_-_Bataille_de_Poitiers.png/960px-Steuben_-_Bataille_de_Poitiers.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Steuben_-_Bataille_de_Poitiers.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Steuben_-_Bataille_de_Poitiers.png",
+   "artist": "Charles de Steuben",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "Charles Martel in the Battle of Tours",
+   "article": "Battle of Tours"
+  },
   "novgorod-republic|Birch-bark letters": null,
   "novgorod-republic|Alexander Nevsky": {
    "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/AlexanderNevskyTitul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -13536,8 +14535,26 @@
    "caption": "Saint Sophia Cathedral in Veliky Novgorod",
    "article": "Cathedral of Saint Sophia, Novgorod"
   },
-  "oirats-dzungars|Tumu Crisis": null,
-  "oirats-dzungars|Galdan Boshugtu": null,
+  "oirats-dzungars|Tumu Crisis": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Tumu_Crisis.jpg/960px-Tumu_Crisis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Tumu_Crisis.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Tumu_Crisis.jpg",
+   "artist": "SY",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "Tumu Fortress Crisis of Ming Dynasty",
+   "article": "Tumu Crisis"
+  },
+  "oirats-dzungars|Galdan Boshugtu": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/Seal_of_Galdan_Boshugtu_Khan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Seal of Galdan Boshugtu Khan.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Seal_of_Galdan_Boshugtu_Khan.png",
+   "artist": "HorseBro the hemionus",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "This is the seal of Galdan Boshugtu Khan.",
+   "article": null
+  },
   "oirats-dzungars|Kalmyks": null,
   "qara-khitai|Battle of Qatwan": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Battle_of_Qatwan.png/960px-Battle_of_Qatwan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -13550,9 +14567,27 @@
    "article": "Battle of Qatwan"
   },
   "qara-khitai|Yelü Dashi": null,
-  "qara-khitai|Prester John legend": null,
+  "qara-khitai|Prester John legend": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Prester_John.jpg/960px-Prester_John.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Prester_John.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Prester_John.jpg",
+   "artist": "Diogo Homem",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "Image of Prester John, enthroned, in a map of East Africa from Queen Mary's Atlas",
+   "article": "Prester John"
+  },
   "tatar-khanates|Kazan Kremlin": null,
-  "tatar-khanates|St Basil’s Cathedral": null,
+  "tatar-khanates|St Basil’s Cathedral": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Saint_Basil%27s_Cathedral_in_Moscow.jpg/960px-Saint_Basil%27s_Cathedral_in_Moscow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Saint_Basil's_Cathedral_in_Moscow.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Saint_Basil%27s_Cathedral_in_Moscow.jpg",
+   "artist": "Tsy1980",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "Покровский собор на рву (собор Василия Блаженного): Красная площадь, б/н, Тверской, Центральный округ, Москва",
+   "article": "Saint Basil's Cathedral"
+  },
   "tatar-khanates|Yermak": {
    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Yermak_Timofeyevich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "file": "Yermak_Timofeyevich.jpg",
@@ -13603,8 +14638,26 @@
    "caption": "Uzun Hasan on horse, 1460s–1470s, Aq Qoyunlu ruler Uzun Hasa hunting (detail) Saint Peterburg, Russian National Library, Dorn 434, fols. 81 v.-82. «Hunting Sult",
    "article": "Uzun Hasan"
   },
-  "turkmen-confederations|Blue Mosque of Tabriz": null,
-  "turkmen-confederations|Battle of Otlukbeli": null,
+  "turkmen-confederations|Blue Mosque of Tabriz": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Blue_Mosque_%28Tabriz%29_General_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Blue_Mosque_(Tabriz)_General_view.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Blue_Mosque_(Tabriz)_General_view.jpg",
+   "artist": "Saeedeh Joshaghani et al.",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "Blue Mosque (Tabriz) General view",
+   "article": "Blue Mosque, Tabriz"
+  },
+  "turkmen-confederations|Battle of Otlukbeli": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Otlukbeli_savasi.png/960px-Otlukbeli_savasi.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Otlukbeli_savasi.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Otlukbeli_savasi.png",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": null,
+   "article": "Battle of Otlukbeli"
+  },
   "visigothic-kingdom|Sack of Rome": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Visigoths_sack_Rome.jpg/960px-Visigoths_sack_Rome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "file": "Visigoths_sack_Rome.jpg",
@@ -13616,7 +14669,541 @@
    "article": "Sack of Rome (410)"
   },
   "visigothic-kingdom|Visigothic Code": null,
-  "visigothic-kingdom|Votive crowns of Guarrazar": null
+  "visigothic-kingdom|Votive crowns of Guarrazar": null,
+  "aridoamerica-peoples|Chichimeca War": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Mapa_de_San_Miguel_y_San_Felipe_de_los_Chichimecas_%281580%29_-_Chichimecas_1.jpg/960px-Mapa_de_San_Miguel_y_San_Felipe_de_los_Chichimecas_%281580%29_-_Chichimecas_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Mapa_de_San_Miguel_y_San_Felipe_de_los_Chichimecas_(1580)_-_Chichimecas_1.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Mapa_de_San_Miguel_y_San_Felipe_de_los_Chichimecas_(1580)_-_Chichimecas_1.jpg",
+   "artist": "Juan Carlos Fonseca Mata",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "Map Detail of San Miguel and San Felipe de los Chichimecas (1580). Library of the Royal Academy of History, Madrid, Spain.",
+   "article": "Chichimeca War"
+  },
+  "aridoamerica-peoples|Rarámuri runners": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Tarahumaras1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Tarahumaras1.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Tarahumaras1.jpg",
+   "artist": "Carl S. Lumholtz",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "Dos varones tarahumaras, fotografiados en Tuaripa, Chihuahua, México",
+   "article": "Rarámuri"
+  },
+  "aridoamerica-peoples|Yaqui Deer Dance": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Danza_del_venado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Danza_del_venado.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Danza_del_venado.jpg",
+   "artist": "No machine-readable author provided. JensUhlenbrock~commonswiki assumed (based on copyright claims).",
+   "license": "CC BY-SA 2.5",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "caption": "Presentación de la danza del venado en San Carlos, Sonora, México.",
+   "article": "Deer dance (folk dance)"
+  },
+  "ava-and-hanthawaddy|Shwedagon Pagoda": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Shwedagon_Pagoda_2017.jpg/960px-Shwedagon_Pagoda_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Shwedagon_Pagoda_2017.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Shwedagon_Pagoda_2017.jpg",
+   "artist": "Bjørn Christian Tørrissen",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "The south-eastern side of Shwedagon Pagoda. A monk is walking on the facade, demonstrating the large scale of the stupa.",
+   "article": "Shwedagon Pagoda"
+  },
+  "ava-and-hanthawaddy|Forty Years’ War": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Burma_in_1450.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Burma_in_1450.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Burma_in_1450.png",
+   "artist": "Hybernator",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "Political map of Burma (Myanmar) c. 1450",
+   "article": "Forty Years' War"
+  },
+  "ava-and-hanthawaddy|Razadarit Ayedawbon": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Rajadhirat-kamarwet-2.jpg/960px-Rajadhirat-kamarwet-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Rajadhirat-kamarwet-2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Rajadhirat-kamarwet-2.jpg",
+   "artist": "Htawmonzel",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "rajadhirat.jpg",
+   "article": "Razadarit"
+  },
+  "avar-khaganate|Siege of Constantinople": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/42-manasses-chronicle.jpg/960px-42-manasses-chronicle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "42-manasses-chronicle.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:42-manasses-chronicle.jpg",
+   "artist": "Original: Constantine Manasses",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "Miniature 42 from the Constantine Manasses Chronicle, 14 century: Emperor Heraclius attacks a Persian fortress, while the Persians attack Constantinople.",
+   "article": "Siege of Constantinople (626)"
+  },
+  "avar-khaganate|Stirrups": null,
+  "avar-khaganate|Avar treasure": null,
+  "borgu-states|Gaani festival": null,
+  "borgu-states|Cavalry": null,
+  "borgu-states|Bussa rapids": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/BasNiger1889_Boussa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "BasNiger1889_Boussa.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:BasNiger1889_Boussa.jpg",
+   "artist": "Bibliographisches Institut in Leipzig",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "Cours du Niger méridional selon une carte allemande de 1889 (détail). \"Boussa\" souligné.",
+   "article": "Bussa, Nigeria"
+  },
+  "california-peoples|Chumash tomol": null,
+  "california-peoples|Pomo baskets": null,
+  "california-peoples|Acorn food": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Quercus_robur_acorn_-_Keila.jpg/960px-Quercus_robur_acorn_-_Keila.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Quercus_robur_acorn_-_Keila.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Quercus_robur_acorn_-_Keila.jpg",
+   "artist": "Ivar Leidus",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "European oak acorn (length 25 mm)",
+   "article": "Acorn"
+  },
+  "chenla|Sambor Prei Kuk": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Sambor_Prei_Kuk-Map1.png/960px-Sambor_Prei_Kuk-Map1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Sambor_Prei_Kuk-Map1.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Sambor_Prei_Kuk-Map1.png",
+   "artist": "Saxula",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "caption": "Map of the temple area of Sambor Prei Kuk",
+   "article": "Sambor Prei Kuk"
+  },
+  "chenla|Early Khmer inscriptions": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/03-National_Museum_of_Cambodia-nX-1.jpg/960px-03-National_Museum_of_Cambodia-nX-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "03-National_Museum_of_Cambodia-nX-1.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:03-National_Museum_of_Cambodia-nX-1.jpg",
+   "artist": "PsamatheM",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "National Museum of Cambodia",
+   "article": "Khmer inscriptions"
+  },
+  "chenla|Harihara statues": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Harihara_V%26A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Harihara_V&A.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Harihara_V%26A.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "Harihara",
+   "article": "Harihara"
+  },
+  "dendi-kingdom|Askia Nuh": null,
+  "dendi-kingdom|Niger River": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Niger%2C_Niamey%2C_Pont_Kennedy_%281%29.jpg/960px-Niger%2C_Niamey%2C_Pont_Kennedy_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Niger,_Niamey,_Pont_Kennedy_(1).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Niger,_Niamey,_Pont_Kennedy_(1).jpg",
+   "artist": "NigerTZai",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "Pont Kennedy (Kennedy Bridge) over the Niger River, in Niamey, Niger.",
+   "article": "Niger River"
+  },
+  "dendi-kingdom|Songhai cavalry": null,
+  "early-slavs|Glagolitic script": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Glagolitic_script.svg/960px-Glagolitic_script.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Glagolitic_script.svg",
+   "page": "https://commons.wikimedia.org/wiki/File:Glagolitic_script.svg",
+   "artist": "Лобачев Владимир",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "caption": "Above: example fragment from “Kiev Leaflets” (11th-century Bulgarian), written in round Glagolitic alphabet. Below: example fragment from the “Reims Gospel” (So",
+   "article": "Glagolitic script"
+  },
+  "early-slavs|Wooden hill forts": null,
+  "early-slavs|Perun": null,
+  "east-java-kingdoms|Kakawin poetry": null,
+  "east-java-kingdoms|Airlangga": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Airlangga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Airlangga.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Airlangga.jpg",
+   "artist": "Gunawan Kartapranata",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "caption": "Deified statue of King Airlangga depicted as Vishnu mounting Garuda, found in 11th century CE Belahan Temple, East Java, Indonesia",
+   "article": "Airlangga"
+  },
+  "east-java-kingdoms|Singhasari temples": null,
+  "isthmo-colombian-peoples|Stone spheres of Costa Rica": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Parque_de_las_Esferas_de_Costa_Rica.JPG/960px-Parque_de_las_Esferas_de_Costa_Rica.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Parque_de_las_Esferas_de_Costa_Rica.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Parque_de_las_Esferas_de_Costa_Rica.JPG",
+   "artist": "Axxis10",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "Some of the stone spheres found in Finca 6 in the care of the National Museum of Costa Rica",
+   "article": "Stone spheres of Costa Rica"
+  },
+  "isthmo-colombian-peoples|Muisca goldwork": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Gold_Museum%2C_Bogota_%2836145671394%29.jpg/960px-Gold_Museum%2C_Bogota_%2836145671394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Gold_Museum,_Bogota_(36145671394).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Gold_Museum,_Bogota_(36145671394).jpg",
+   "artist": "Pedro Szekely from Los Angeles, USA",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "caption": "Muisca raft in the Gold Museum, Bogotá, Colombia. This raft made of gold was found in Pasca, Cundinamarca, in 1969, and is associated with the legend of El Dora",
+   "article": "Muisca"
+  },
+  "isthmo-colombian-peoples|Mola textiles": null,
+  "kuba-kingdom|Kuba cloth": null,
+  "kuba-kingdom|Ndop figures": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Brooklyn_Museum_61.33_Ndop_Portrait_of_King_Mishe_miShyaang_maMbul_%285%29.jpg/960px-Brooklyn_Museum_61.33_Ndop_Portrait_of_King_Mishe_miShyaang_maMbul_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Brooklyn_Museum_61.33_Ndop_Portrait_of_King_Mishe_miShyaang_maMbul_(5).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_61.33_Ndop_Portrait_of_King_Mishe_miShyaang_maMbul_(5).jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "caption": "Ndop figures are idealized portraits of individual Kuba rulers. This ndop, considered the oldest in existence, displays the king's symbol, a drum with a severed",
+   "article": "Ndop (Kuba)"
+  },
+  "kuba-kingdom|Shyaam a-Mbul": null,
+  "magyar-principality|Hungarian Conquest": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Kalandozasok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Kalandozasok.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kalandozasok.jpg",
+   "artist": "hu:User:Csanády",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "caption": "Hungarian campaigns",
+   "article": "Hungarian invasions of Europe"
+  },
+  "magyar-principality|Battle of Lechfeld": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Lechfeld1457.jpg/960px-Lechfeld1457.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Lechfeld1457.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Lechfeld1457.jpg",
+   "artist": "Hektor Mülich[1] (d. 1490)",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "The Battle of Lechfeld on an illustration in Sigmund Meisterlin' codex about the history of Nuremberg.",
+   "article": "Battle of Lechfeld"
+  },
+  "magyar-principality|Árpád": null,
+  "malla-nepal|Durbar Squares": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/View_of_Bhaktapur_Durbar_Square.jpg/960px-View_of_Bhaktapur_Durbar_Square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "View_of_Bhaktapur_Durbar_Square.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:View_of_Bhaktapur_Durbar_Square.jpg",
+   "artist": "Bikram Pratap Singh",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "An early morning view of Bhaktapur Durbar Square",
+   "article": "Bhaktapur Durbar Square"
+  },
+  "malla-nepal|Nyatapola Temple": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/3/38/Kathmandu_und_Bhaktapur_2013-05-11_16-03-39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Kathmandu_und_Bhaktapur_2013-05-11_16-03-39.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kathmandu_und_Bhaktapur_2013-05-11_16-03-39.jpg",
+   "artist": "Thomas Fuhrmann",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "Bhaktapur",
+   "article": "Nyatapola Temple"
+  },
+  "malla-nepal|Kumari": null,
+  "mesoamerican-peoples|Purépecha metalwork": null,
+  "mesoamerican-peoples|Mixtec codices": null,
+  "mesoamerican-peoples|Tlaxcala alliance": null,
+  "mongol-tribes|Temüjin": null,
+  "mongol-tribes|Khamag Mongol": null,
+  "mongol-tribes|Ger tents": null,
+  "nyamwezi-states|Mirambo": null,
+  "nyamwezi-states|Ruga-ruga": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Bundesarchiv_Bild_146-1984-067-35%2C_Deutsch-Ostafrika%2C_Hilfstruppen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Bundesarchiv_Bild_146-1984-067-35,_Deutsch-Ostafrika,_Hilfstruppen.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-1984-067-35,_Deutsch-Ostafrika,_Hilfstruppen.jpg",
+   "artist": "Hoffmann, Paul",
+   "license": "CC BY-SA 3.0 de",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+   "caption": "For documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme.",
+   "article": "Ruga-Ruga"
+  },
+  "nyamwezi-states|Tabora": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Around_Kanyenye_Street_%2CTabora_Manicipality%2C_Tanzania.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Around_Kanyenye_Street_,Tabora_Manicipality,_Tanzania.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Around_Kanyenye_Street_,Tabora_Manicipality,_Tanzania.jpg",
+   "artist": "Wesellgold entertainment",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "This is an image from",
+   "article": "Tabora"
+  },
+  "oghuz-yabgu|Book of Dede Korkut": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Kitab-%C4%B1_Dede_Korkut_ala-lisan-i_Ta%27ife-i_O%C4%9Fuzhan%2C_Dresden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Kitab-ı_Dede_Korkut_ala-lisan-i_Ta'ife-i_Oğuzhan,_Dresden.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kitab-%C4%B1_Dede_Korkut_ala-lisan-i_Ta%27ife-i_O%C4%9Fuzhan,_Dresden.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "Dede Korkut Kitabı'nın Dresden Şehir Kütüphanesi nüshasından bir sayfa.",
+   "article": "Book of Dede Korkut"
+  },
+  "oghuz-yabgu|Seljuk origins": null,
+  "oghuz-yabgu|Yangikent": null,
+  "oman-imamate|Bahla Fort": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Bahla_Fort.jpg/960px-Bahla_Fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Bahla_Fort.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bahla_Fort.jpg",
+   "artist": "Francisco Anzola",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "caption": "Pevnost Bahla v Ománu",
+   "article": "Bahla Fort"
+  },
+  "oman-imamate|Expulsion of the Portuguese": null,
+  "oman-imamate|Aflaj": null,
+  "ostrogothic-kingdom|Theodoric the Great": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Teodorico_re_dei_Goti_%28493-526%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Teodorico_re_dei_Goti_(493-526).png",
+   "page": "https://commons.wikimedia.org/wiki/File:Teodorico_re_dei_Goti_(493-526).png",
+   "artist": "Unknown authorUnknown author",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "caption": "Coin depicting Flavius Theodoricus (Theodoric the Great). Roman Vassal and King of the Ostrogoths. Only a single coin with this design is known; it is in the co",
+   "article": "Theodoric the Great"
+  },
+  "ostrogothic-kingdom|Mausoleum of Theodoric": null,
+  "ostrogothic-kingdom|Boethius": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Boethius.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Boethius.jpeg",
+   "page": "https://commons.wikimedia.org/wiki/File:Boethius.jpeg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "Medieval illustration of Anicius Manlius Severinus Boëthius (a late-antique philosopher).",
+   "article": "Boethius"
+  },
+  "ovimbundu-kingdoms|Caravan trade": null,
+  "ovimbundu-kingdoms|Bailundo revolt": null,
+  "ovimbundu-kingdoms|Umbundu": null,
+  "pechenegs|Skull cup of Sviatoslav": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Skull_cup.jpg/960px-Skull_cup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Skull_cup.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Skull_cup.jpg",
+   "artist": "Velatrix",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "caption": "A real skull cup, Natural History Museum, London. Found in Gough's cave, Sommerset, England. About 14,700 years old, this skull bears cut marks inflicted shortl",
+   "article": "Skull cup"
+  },
+  "pechenegs|Battle of Levounion": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/Alexius_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Alexius_I.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Alexius_I.jpg",
+   "artist": "AnonymousUnknown author",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "Painting of Alexius I, from a Greek manuscript in the Vatican library Español: Retrat de Alejo I Comneno procedente de un manuscrito griego de la biblioteca del",
+   "article": "Battle of Levounion"
+  },
+  "pechenegs|Horse archers": null,
+  "postclassic-maya|Popol Vuh": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Popol_vuh.jpg/960px-Popol_vuh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Popol_vuh.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Popol_vuh.jpg",
+   "artist": "Francisco Ximénez",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "First page of the Popol Vuh manuscript, Saved at Newberry Library, Chicago, Yesterday Collection",
+   "article": "Popol Vuh"
+  },
+  "postclassic-maya|Chichén Itzá": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/960px-Chichen_Itza_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Chichen_Itza_3.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg",
+   "artist": "Daniel Schwen",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "El Castillo (pyramid of Kukulcán) in Chichén Itzá",
+   "article": "Chichen Itza"
+  },
+  "postclassic-maya|Dresden Codex": null,
+  "precolonial-philippines|Laguna Copperplate Inscription": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Laguna_Copperplate_Inscription_in_the_National_Museum_of_Anthropology.jpg/960px-Laguna_Copperplate_Inscription_in_the_National_Museum_of_Anthropology.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Laguna_Copperplate_Inscription_in_the_National_Museum_of_Anthropology.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Laguna_Copperplate_Inscription_in_the_National_Museum_of_Anthropology.jpg",
+   "artist": "Chipmunkdavis",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "The Laguna Copperplate Inscription on display",
+   "article": "Laguna Copperplate Inscription"
+  },
+  "precolonial-philippines|Lapulapu": null,
+  "precolonial-philippines|Balangay boats": null,
+  "rabih-state|Battle of Kousséri": null,
+  "rabih-state|Slave soldiers": null,
+  "rabih-state|Dikoa": null,
+  "sixteen-kingdoms|Battle of Fei River": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/Battle_of_Fei_River.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Battle_of_Fei_River.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Battle_of_Fei_River.png",
+   "artist": "SY",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "The map showing the situation of Battle of Fei River",
+   "article": "Battle of Fei River"
+  },
+  "sixteen-kingdoms|Buddhism spreads": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Buddhist_Expansion.svg/960px-Buddhist_Expansion.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Buddhist_Expansion.svg",
+   "page": "https://commons.wikimedia.org/wiki/File:Buddhist_Expansion.svg",
+   "artist": "Gunawan Kartapranata",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "Expansion of Buddhism, starting from India in the 6th century BCE through the rest of Asia until the present day.",
+   "article": "Silk Road transmission of Buddhism"
+  },
+  "sixteen-kingdoms|Mogao Caves": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Jiucenglou_of_Mogao_Caves.jpg/960px-Jiucenglou_of_Mogao_Caves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Jiucenglou_of_Mogao_Caves.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Jiucenglou_of_Mogao_Caves.jpg",
+   "artist": "慕尼黑啤酒",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "caption": "​莫高窟中段第96窟的窟檐建筑（九层楼）",
+   "article": "Mogao Caves"
+  },
+  "southern-ming|Koxinga": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/The_Portrait_of_Koxinga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "The_Portrait_of_Koxinga.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Portrait_of_Koxinga.jpg",
+   "artist": "AnonymousUnknown author",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": null,
+   "article": "Koxinga"
+  },
+  "southern-ming|Fort Zeelandia": null,
+  "southern-ming|Queue order": null,
+  "southwest-peoples|Pueblo Revolt": null,
+  "southwest-peoples|Navajo weaving": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Navajo_rug.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Navajo_rug.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Navajo_rug.jpg",
+   "artist": "teofilo",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "caption": "Navajo Rug",
+   "article": "Navajo weaving"
+  },
+  "southwest-peoples|Kachina dolls": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Palahiko_Mana_Water-Drinking_Maiden_1899_Hopi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Palahiko_Mana_Water-Drinking_Maiden_1899_Hopi.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Palahiko_Mana_Water-Drinking_Maiden_1899_Hopi.jpg",
+   "artist": "unknown Hopi artist",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "A late-19th C painting of Palahiko Mana katsina, “Water Drinking Woman,” shows her wearing a Tablita headdress with stepped Earth signs and corn ears. Water Dri",
+   "article": "Kachina"
+  },
+  "teke-kingdom|Makoko treaty": null,
+  "teke-kingdom|Teke figures": null,
+  "teke-kingdom|Malebo Pool": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Kinshasa_%26_Brazzaville_-_ISS007-E-6305.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Kinshasa_&_Brazzaville_-_ISS007-E-6305.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kinshasa_%26_Brazzaville_-_ISS007-E-6305.jpg",
+   "artist": "Unknown author",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": null,
+   "article": "Pool Malebo"
+  },
+  "utetera|Tippu Tip": null,
+  "utetera|Ivory raids": null,
+  "utetera|Congo Arab war": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Arab_Congo_War.svg/960px-Arab_Congo_War.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Arab_Congo_War.svg",
+   "page": "https://commons.wikimedia.org/wiki/File:Arab_Congo_War.svg",
+   "artist": "User:BorysMapping",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "Map of Arab Congo War 1890 – 1894",
+   "article": "Congo Arab war"
+  },
+  "uyghur-kingdoms|Bezeklik murals": null,
+  "uyghur-kingdoms|Old Uyghur script": null,
+  "uyghur-kingdoms|Manichaean texts": null,
+  "xhosa-kingdom|Nongqawuse": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Nongqawuse_and_Nonkosi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Nongqawuse_and_Nonkosi.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Nongqawuse_and_Nonkosi.jpg",
+   "artist": "Unknown author",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": null,
+   "article": "Nongqawuse"
+  },
+  "xhosa-kingdom|Frontier wars": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Frederick_Timpson_I%27Ons08.JPG/960px-Frederick_Timpson_I%27Ons08.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Frederick_Timpson_I'Ons08.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Frederick_Timpson_I%27Ons08.JPG",
+   "artist": "J. J. Redgrave & Edna Bradlow",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "\"Column of Xhosas crossing a River in a Deep Ravine\", painting by Frederick Timpson I'Ons (1802-1887)",
+   "article": "Xhosa Wars"
+  },
+  "xhosa-kingdom|Click consonants": null,
+  "yaka-kingdom|Kiamfu": null,
+  "yaka-kingdom|Yaka masks": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Brooklyn_Museum_1991.172.1_Anthropomorphic_Mask.jpg/960px-Brooklyn_Museum_1991.172.1_Anthropomorphic_Mask.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Brooklyn_Museum_1991.172.1_Anthropomorphic_Mask.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_1991.172.1_Anthropomorphic_Mask.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "caption": "Anthropomorphic Mask",
+   "article": "Yaka people"
+  },
+  "yaka-kingdom|Kwango River": null,
+  "yamato-japan|Kofun tombs": null,
+  "yamato-japan|Hōryū-ji": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Horyu-ji11s3200.jpg/960px-Horyu-ji11s3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Horyu-ji11s3200.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Horyu-ji11s3200.jpg",
+   "artist": "663highland",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "caption": "Golden Hall and Five-storied Pagoda of Hōryū-ji are Japan's National Treasures. Hōryū-ji is a Buddhist temple in Ikaruga, Nara prefecture, Japan. It was registe",
+   "article": "Hōryū-ji"
+  },
+  "yamato-japan|Prince Shōtoku": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Sh%C5%8Dtoku_Taishi_Sh%C5%8Dmanky%C5%8D_K%C5%8Dsan.jpg/960px-Sh%C5%8Dtoku_Taishi_Sh%C5%8Dmanky%C5%8D_K%C5%8Dsan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Shōtoku_Taishi_Shōmankyō_Kōsan.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sh%C5%8Dtoku_Taishi_Sh%C5%8Dmanky%C5%8D_K%C5%8Dsan.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "From \"Lectures on the Shōman scripture by Prince Shotoku\" (Kamakura period), part of Shotoku Taishi.",
+   "article": "Prince Shōtoku"
+  },
+  "yeke-kingdom|Msiri": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Msiri_1830_1891.jpg/960px-Msiri_1830_1891.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "Msiri_1830_1891.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Msiri_1830_1891.jpg",
+   "artist": "CAPELLO & IVENS (H. - R.)",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "caption": "le chef Mwenda M'Siri Ngelengwa Shitambi, aussi appelé Msiri.",
+   "article": "Msiri"
+  },
+  "yeke-kingdom|Katanga copper": null,
+  "yeke-kingdom|Bunkeya": {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/Stairs_Expedition_Map_lo-res.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "file": "Stairs_Expedition_Map_lo-res.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Stairs_Expedition_Map_lo-res.jpg",
+   "artist": "Rexparry sydney",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "caption": "Map of the route of the Stairs Expedition to Katanga, Congo, Central Africa in 1891–2. Borders of Msiri's Kingdom and other territories are approximate. Owing t",
+   "article": "Bunkeya"
+  }
  },
  "people": {
   "iskandar-muda": {
