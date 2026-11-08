@@ -2,7 +2,7 @@
 
 How complete History Globe is. **The numbers are calculated by `npm run progress`**; run it after a change and commit the new file. Only the Roadmap section below is edited by hand.
 
-_Last updated: 2026-11-07_
+_Last updated: 2026-11-08_
 
 <!-- roadmap:start -->
 ## Roadmap
@@ -61,7 +61,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | · Prehistory | `██████████████████░░` 92% |  |
 | · Ancient | `██████████████████░░` 91% |  |
 | · Medieval | `███████████████████░` 93% |  |
-| · Early modern | `██████████████████░░` 92% |  |
+| · Early modern | `███████████████████░` 93% |  |
 | · Modern | `████████████████████` 98% |  |
 | Civilisations shown on the map | `███████████████████░` 93% | 466 of 499; the rest fly to their capital |
 | Checklist filled in | `████████████████████` 100% | 21457 of 21457 items (499 × 43) |
@@ -113,10 +113,10 @@ Also in the app: 962 events · 451 people · 18 routes · 11 stories.
 | 1279 | `███████████████████░` 97% |
 | 1300 | `███████████████████░` 97% |
 | 1400 | `███████████████████░` 96% |
-| 1492 | `███████████████░░░░░` 77% |
-| 1500 | `███████████████████░` 93% |
+| 1492 | `████████████████░░░░` 81% |
+| 1500 | `███████████████████░` 95% |
 | 1530 | `██████████████████░░` 88% |
-| 1600 | `██████████████████░░` 89% |
+| 1600 | `██████████████████░░` 90% |
 | 1650 | `██████████████████░░` 92% |
 | 1700 | `██████████████████░░` 91% |
 | 1715 | `███████████████████░` 94% |
