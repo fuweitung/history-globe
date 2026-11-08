@@ -48,51 +48,51 @@
         "source": "Wikipedia: Liechtenstein"
       },
       "terrain": {
-        "value": "Alps and the Rhine valley.",
+        "value": "About 160 km² in the Alps: the flat Rhine valley in the west and mountains rising to over 2,500 m in the east.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liechtenstein"
       },
       "climate": {
-        "value": "Alpine.",
+        "value": "Mild for the Alps: the warm föhn wind softens winters in the Rhine valley; colder and snowier in the mountains.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liechtenstein"
       },
       "resources": {
-        "value": "Industry and finance.",
+        "value": "Little land and no raw materials; its wealth comes from skilled industry, banking and a favourable tax system.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liechtenstein"
       },
       "disasters": {
-        "value": "No major natural disasters recorded.",
-        "year": null,
+        "value": "The Rhine burst its dykes in 1927 and flooded much of the valley floor.",
+        "year": 1927,
         "certainty": "estimated",
         "source": "Wikipedia: Liechtenstein"
       }
     },
     "population": {
       "population": {
-        "value": "About 40,000.",
-        "year": null,
+        "value": "About 40,000 people; about a third are foreign citizens.",
+        "year": 2024,
         "certainty": "confirmed",
         "source": "Wikipedia: Liechtenstein"
       },
       "urbanisation": {
-        "value": "Vaduz is the main town.",
+        "value": "Small towns and villages: Schaan is the largest, Vaduz the capital; no city has more than about 6,000 people.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liechtenstein"
       },
       "disease": {
-        "value": "Very good public health.",
+        "value": "Very good public health and one of the highest life expectancies in Europe.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Liechtenstein"
       },
       "migration": {
-        "value": "Many cross-border workers.",
+        "value": "There are more jobs than residents: about half the workforce commutes daily from Switzerland and Austria.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liechtenstein"
@@ -100,14 +100,14 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Precision industry, finance.",
+        "value": "Precision manufacturing (Hilti tools, Ivoclar dental products), financial services and trusts.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liechtenstein"
       },
       "tradeRoutes": {
-        "value": "Customs union with Switzerland.",
-        "year": null,
+        "value": "A customs union with Switzerland since 1923; part of the European Economic Area since 1995.",
+        "year": 1923,
         "certainty": "confirmed",
         "source": "Wikipedia: Liechtenstein"
       },
@@ -118,13 +118,13 @@
         "source": "Wikipedia: Liechtenstein"
       },
       "moneyAndTax": {
-        "value": "The Swiss franc.",
-        "year": null,
+        "value": "The Swiss franc since 1924; low taxes attracted companies and trusts.",
+        "year": 1924,
         "certainty": "confirmed",
         "source": "Wikipedia: Liechtenstein"
       },
       "inequality": {
-        "value": "Low inequality.",
+        "value": "Low by international standards; one of the highest incomes per person in the world.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Liechtenstein"
@@ -144,25 +144,25 @@
         "source": "Wikipedia: Liechtenstein"
       },
       "succession": {
-        "value": "Hereditary prince; elected parliament.",
+        "value": "The Prince is hereditary in the House of Liechtenstein; the people elect the 25-member Landtag.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liechtenstein"
       },
       "institutions": {
-        "value": "Landtag (parliament).",
-        "year": null,
+        "value": "The Landtag (parliament), a government responsible to both Prince and parliament, and frequent referendums; a 2003 referendum confirmed the Prince’s strong powers.",
+        "year": 2003,
         "certainty": "confirmed",
         "source": "Wikipedia: Liechtenstein"
       },
       "stability": {
-        "value": "Very stable.",
+        "value": "Very stable: no wars, no revolutions; the princely family moved to Vaduz in 1938.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liechtenstein"
       },
       "eliteConflict": {
-        "value": "Little conflict among leaders.",
+        "value": "Occasional disputes between the Prince and politicians over his powers, settled by referendum.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Liechtenstein"
@@ -170,19 +170,19 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "No army since 1868.",
-        "year": null,
+        "value": "No army since 1868; police only.",
+        "year": 1868,
         "certainty": "confirmed",
         "source": "Wikipedia: Liechtenstein"
       },
       "majorWars": {
-        "value": "Neutral in both World Wars.",
+        "value": "Neutral in both World Wars; it has fought in no war since 1866.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liechtenstein"
       },
       "territoryChange": {
-        "value": "No territorial change in modern times.",
+        "value": "Its borders have not changed in modern times.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liechtenstein"
@@ -196,25 +196,25 @@
     },
     "technology": {
       "inventions": {
-        "value": "Few major inventions.",
+        "value": "Few inventions; companies such as Hilti developed new power tools.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Liechtenstein"
       },
       "scienceEducation": {
-        "value": "High education levels.",
+        "value": "Schools in German; a small university in Vaduz; many students study in Switzerland or Austria.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liechtenstein"
       },
       "openness": {
-        "value": "Very open.",
+        "value": "Very open: joined the UN (1990) and the EEA (1995); about a third of residents are foreigners.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liechtenstein"
       },
       "communicationTransport": {
-        "value": "Roads and buses.",
+        "value": "Roads and buses; one railway line crosses the country; no airport (Zurich is the nearest).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liechtenstein"
@@ -222,37 +222,37 @@
     },
     "culture": {
       "religion": {
-        "value": "Mostly Catholic.",
+        "value": "Mostly Roman Catholic; Catholicism is the state religion.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liechtenstein"
       },
       "languageWriting": {
-        "value": "German.",
+        "value": "German is the official language; people speak an Alemannic dialect.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liechtenstein"
       },
       "artsArchitecture": {
-        "value": "Princely art collections.",
+        "value": "Vaduz Castle; the Kunstmuseum in Vaduz; the princely family’s great art collection (Rubens and others), shown partly in Vienna.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liechtenstein"
       },
       "socialStructure": {
-        "value": "Prosperous society.",
+        "value": "A prosperous society with a small princely and noble elite; women gained the national vote only in 1984.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Liechtenstein"
       },
       "sharedIdentity": {
-        "value": "Loyalty to the princely house.",
+        "value": "Loyalty to the princely house and pride in a small, independent state.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liechtenstein"
       },
       "dailyLife": {
-        "value": "Houses; cheese dishes.",
+        "value": "Houses and flats in villages; Käsknöpfle (cheese dumplings); many people work across the border.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liechtenstein"
@@ -260,13 +260,13 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Switzerland, Austria.",
+        "value": "Switzerland and Austria; it is one of only two doubly landlocked countries.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liechtenstein"
       },
       "ideasReligions": {
-        "value": "Shares the culture of its neighbours.",
+        "value": "Shares the German-speaking Alpine culture of its neighbours.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Liechtenstein"
@@ -280,20 +280,20 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Sovereignty in 1806.",
-        "year": null,
+        "value": "Became sovereign in 1806 when it joined the Confederation of the Rhine; fully independent after 1866.",
+        "year": 1806,
         "certainty": "confirmed",
         "source": "Wikipedia: Liechtenstein"
       },
       "peakPeriod": {
-        "value": "Modern prosperity.",
-        "year": null,
+        "value": "Rapid growth from a poor farming country to one of the richest in the world after 1945.",
+        "year": 1970,
         "certainty": "estimated",
         "source": "Wikipedia: Liechtenstein"
       },
       "declineSignals": {
-        "value": "None major.",
-        "year": null,
+        "value": "No major decline; criticism of banking secrecy led to tax reforms after 2008.",
+        "year": 2008,
         "certainty": "estimated",
         "source": "Wikipedia: Liechtenstein"
       },
