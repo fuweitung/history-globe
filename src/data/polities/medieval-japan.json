@@ -107,16 +107,16 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Rice farming on warrior-held estates.",
+        "value": "Rice farming on estates (shōen), where warrior landlords gained control of the land.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: shoen (checked 9 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "Trade with Ming China and Portuguese ships (from 1543).",
+        "value": "Merchants at the port of Sakai traded with China, Korea, the Ryukyu Islands and Europe (mid-14th to mid-17th century).",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Sakai (checked 9 Nov 2026)"
       },
       "wealth": {
         "value": "Silver mining at Iwami boomed in the 16th and 17th centuries.",
@@ -139,16 +139,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Emperor in Kyoto; real power with the shogun and regional lords (daimyo).",
+        "value": "The emperor stayed at the imperial court; the shogunate (bakufu) ran military government beside it.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Kamakura period (checked 9 Nov 2026)"
       },
       "keyRulers": {
         "value": "Minamoto no Yoritomo. Ashikaga Takauji. Oda Nobunaga. Toyotomi Hideyoshi.",
         "year": 1192,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Minamoto Yoritomo; Ashikaga family; Oda Nobunaga summary; Toyotomi Hideyoshi summary (checked 9 Nov 2026)"
       },
       "succession": {
         "value": "Shogunal families; Hōjō regents ruled for Kamakura.",
@@ -308,7 +308,7 @@
         "value": "Tokugawa shogunate (1603).",
         "year": 1603,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Tokugawa shogunate (checked 9 Nov 2026)"
       }
     },
     "dataQuality": {
