@@ -55,48 +55,48 @@
         "source": "Wikipedia: Kamakura shogunate"
       },
       "terrain": {
-        "value": "Mountains and small plains.",
+        "value": "About 75% mountainous; plains and basins cover about 25%, with the Kantō Plain (Tokyo) the largest.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Library of Congress Country Studies: Japan, geography (checked 9 Nov 2026)"
       },
       "climate": {
-        "value": "Temperate, with typhoons.",
+        "value": "Humid and temperate; cool in Hokkaido and subtropical in Kyushu; five or six typhoons pass near Japan each year.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Library of Congress Country Studies: Japan, climate (checked 9 Nov 2026)"
       },
       "resources": {
-        "value": "Rice, silver, copper, timber.",
+        "value": "Rice and silver (Iwami mine).",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: shoen; UNESCO: Iwami Ginzan Silver Mine (checked 9 Nov 2026)"
       },
       "disasters": {
-        "value": "Earthquakes and tsunamis; the “divine winds” wrecked Mongol fleets.",
+        "value": "Typhoons (the “divine winds”) wrecked Mongol invasion fleets in 1274 and 1281.",
         "year": 1281,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Kamikaze of 1274 and 1281 (checked 9 Nov 2026)"
       }
     },
     "population": {
       "population": {
-        "value": "About 7 million (1200) to 12–17 million (1600).",
-        "year": null,
+        "value": "About 5.5–6.3 million in 1150 and 15–17 million in 1600 (Farris); Kitō’s series gives 6.9 million (1150) and 12.3 million (1600). Figures exclude Hokkaido and the Ryukyu chain.",
+        "year": 1600,
         "certainty": "estimated",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Farris, Japan’s Medieval Population (2006), Table E.1 and Table I.1 (checked 9 Nov 2026)"
       },
       "urbanisation": {
-        "value": "Kyoto, Kamakura, port towns like Sakai.",
+        "value": "Kamakura (shogunate headquarters from 1192); Kyoto (imperial court and Ashikaga-era arts); Sakai (a port).",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Minamoto Yoritomo; Ashikaga Yoshimitsu; Sakai (checked 9 Nov 2026)"
       },
       "disease": {
-        "value": "Epidemics and famines.",
+        "value": "Killer infections, famine and war are the main causes of mortality; epidemics kept population nearly flat before 1150.",
         "year": null,
         "certainty": "estimated",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Farris, Japan’s Medieval Population (2006), Epilogue, p. 264 (checked 9 Nov 2026)"
       },
       "migration": {
         "value": "Little.",
@@ -107,66 +107,66 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Rice farming on warrior-held estates.",
+        "value": "Rice farming on estates (shōen), where warrior landlords gained control of the land.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: shoen (checked 9 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "Trade with Ming China and Portuguese ships (from 1543).",
+        "value": "Merchants at the port of Sakai traded with China, Korea, the Ryukyu Islands and Europe (mid-14th to mid-17th century).",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Sakai (checked 9 Nov 2026)"
       },
       "wealth": {
-        "value": "Silver mining (Iwami) boomed in the 1500s.",
+        "value": "Silver mining at Iwami boomed in the 16th and 17th centuries.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "UNESCO: Iwami Ginzan Silver Mine and its Cultural Landscape (checked 9 Nov 2026)"
       },
       "moneyAndTax": {
-        "value": "Chinese copper coins; rice taxes.",
+        "value": "Copper coins from Song China circulated in markets; bills of exchange were used for payments to distant places.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Japan, samurai groups and farming villages (checked 9 Nov 2026)"
       },
       "inequality": {
-        "value": "Rulers and military elites above farmers and herders.",
+        "value": "Samurai and estate lords above farmers; the lowest peasants were called genin.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Kamakura shogunate"
+        "certainty": "confirmed",
+        "source": "Britannica: Samurai groups and farming villages (checked 9 Nov 2026)"
       }
     },
     "politics": {
       "governmentType": {
-        "value": "Emperor in Kyoto; real power with the shogun and regional lords (daimyo).",
+        "value": "The emperor stayed at the imperial court; the shogunate (bakufu) ran military government beside it.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Kamakura period (checked 9 Nov 2026)"
       },
       "keyRulers": {
         "value": "Minamoto no Yoritomo. Ashikaga Takauji. Oda Nobunaga. Toyotomi Hideyoshi.",
         "year": 1192,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Minamoto Yoritomo; Ashikaga family; Oda Nobunaga summary; Toyotomi Hideyoshi summary (checked 9 Nov 2026)"
       },
       "succession": {
         "value": "Shogunal families; Hōjō regents ruled for Kamakura.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Kamakura period; Hōjō Yasutoki (checked 9 Nov 2026)"
       },
       "institutions": {
-        "value": "Goseibai Shikimoku law code (1232).",
+        "value": "Jōei Shikimoku law code (1232), setting out inheritance rules, a new land system and standards for fair trials.",
         "year": 1232,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Hōjō Yasutoki (checked 9 Nov 2026)"
       },
       "stability": {
-        "value": "Ōnin War (1467–77) began a century of civil war.",
+        "value": "Ōnin War (1467–77) led into the Age of Warring States (Sengoku).",
         "year": 1467,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Ōnin War (checked 9 Nov 2026)"
       },
       "eliteConflict": {
         "value": "Daimyo fighting each other.",
@@ -177,28 +177,28 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Samurai cavalry and archers; muskets from 1543.",
+        "value": "Samurai cavalry and archers; Portuguese arrived at Tanegashima in 1543 and matchlock guns were copied locally; matchlock musketeers by 1575 (Oda Nobunaga’s 3,000 at Nagashino).",
         "year": 1543,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "certainty": "estimated",
+        "source": "Boxer, The Christian Century in Japan (1951), pp. 26–27 (checked 9 Nov 2026); Britannica: Battle of Nagashino (checked 9 Nov 2026)"
       },
       "majorWars": {
-        "value": "Mongol invasions (1274, 1281); Sengoku wars; invasions of Korea (1592–98).",
+        "value": "Mongol invasions (1274, 1281); Sengoku wars; Hideyoshi’s invasions of Korea (1592 and 1597).",
         "year": 1274,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Kamikaze of 1274 and 1281; Toyotomi Hideyoshi (checked 9 Nov 2026)"
       },
       "territoryChange": {
-        "value": "Unified by 1590.",
-        "year": null,
+        "value": "Unified under Toyotomi Hideyoshi’s alliance of daimyo by 1590.",
+        "year": 1590,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Toyotomi Hideyoshi (checked 9 Nov 2026)"
       },
       "alliancesRivals": {
-        "value": "Mongols, Ming China, Korea.",
+        "value": "Formal trade relations with Ming China and Korea; Mongol invasions in 1274 and 1281.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Japan, Muromachi (Ashikaga) period; Kamikaze of 1274 and 1281 (checked 9 Nov 2026)"
       }
     },
     "technology": {
@@ -215,10 +215,10 @@
         "source": "Wikipedia: Kamakura shogunate"
       },
       "openness": {
-        "value": "Open to trade.",
+        "value": "Traded abroad through ports such as Sakai, with China, Korea, the Ryukyu Islands and Europe.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Kamakura shogunate"
+        "certainty": "confirmed",
+        "source": "Britannica: Sakai (checked 9 Nov 2026)"
       },
       "communicationTransport": {
         "value": "Caravan roads, rivers and horses.",
@@ -229,28 +229,28 @@
     },
     "culture": {
       "religion": {
-        "value": "Buddhism (Zen, Pure Land, Nichiren) and Shinto.",
+        "value": "Buddhism, including Rinzai Zen (introduced by Eisai in 1191), and Shinto, which blended with Buddhism (shinbutsu shūgō).",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Eisai; Shinbutsu shūgō (checked 9 Nov 2026)"
       },
       "languageWriting": {
-        "value": "Japanese with kanji and kana.",
+        "value": "Written with kanji (Chinese characters) and two kana syllabaries, hiragana and katakana, both derived from Chinese characters.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: hiragana (checked 9 Nov 2026)"
       },
       "artsArchitecture": {
-        "value": "Noh theatre, tea ceremony, ink painting.",
+        "value": "Noh theatre and the tea ceremony, promoted by Ashikaga Yoshimasa (Higashiyama culture).",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Ashikaga Yoshimasa (checked 9 Nov 2026)"
       },
       "socialStructure": {
-        "value": "Emperor, court nobles, samurai, farmers, artisans, merchants.",
+        "value": "Samurai, farmers, artisans attached to estates, and merchants with guilds; the imperial court stood beside the shogunate.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Samurai groups and farming villages; Kamakura period (checked 9 Nov 2026)"
       },
       "sharedIdentity": {
         "value": "Loyalty to the dynasty and faith.",
@@ -267,16 +267,16 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Korea, Ming China, Ryukyu, Ainu.",
+        "value": "Korea, Ming China, the Ryukyu Islands and the Ainu of Hokkaido.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Sakai; Ainu; Ashikaga period (checked 9 Nov 2026)"
       },
       "ideasReligions": {
-        "value": "Zen Buddhism and the warrior code.",
-        "year": null,
+        "value": "Rinzai Zen Buddhism, brought by Eisai in 1191 and patronised by lords and warriors.",
+        "year": 1191,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Eisai (checked 9 Nov 2026)"
       },
       "colonisation": {
         "value": "None.",
@@ -287,36 +287,36 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Minamoto victory (1185).",
-        "year": 1185,
+        "value": "Minamoto no Yoritomo takes the title of shogun (1192).",
+        "year": 1192,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Kamakura period (checked 9 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Muromachi culture (1390s).",
-        "year": 1397,
+        "value": "Higashiyama culture flourished under Ashikaga Yoshimasa, shogun from 1449.",
+        "year": 1449,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Ashikaga Yoshimasa (checked 9 Nov 2026)"
       },
       "declineSignals": {
         "value": "Ōnin War (1467).",
         "year": 1467,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Ōnin War (checked 9 Nov 2026)"
       },
       "outcome": {
         "value": "Tokugawa shogunate (1603).",
         "year": 1603,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Tokugawa shogunate (checked 9 Nov 2026)"
       }
     },
     "dataQuality": {
       "sources": {
-        "value": "Wikipedia: Kamakura shogunate.",
+        "value": "Britannica, UNESCO and Library of Congress pages, listed per item.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica; UNESCO; Library of Congress Country Studies (checked 9 Nov 2026)"
       },
       "overallCertainty": {
         "value": "Main events are known from chronicles; population figures are estimates.",
