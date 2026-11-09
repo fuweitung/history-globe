@@ -67,10 +67,10 @@
         "source": "Wikipedia: Kamakura shogunate"
       },
       "resources": {
-        "value": "Rice, silver, copper, timber.",
+        "value": "Rice and silver (Iwami mine).",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: shoen; UNESCO: Iwami Ginzan Silver Mine (checked 9 Nov 2026)"
       },
       "disasters": {
         "value": "Typhoons (the “divine winds”) wrecked Mongol invasion fleets in 1274 and 1281.",
@@ -87,10 +87,10 @@
         "source": "Wikipedia: Kamakura shogunate"
       },
       "urbanisation": {
-        "value": "Kyoto, Kamakura, port towns like Sakai.",
+        "value": "Kamakura (shogunate headquarters from 1192); Kyoto (imperial court and Ashikaga-era arts); Sakai (a port).",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Minamoto Yoritomo; Ashikaga Yoshimitsu; Sakai (checked 9 Nov 2026)"
       },
       "disease": {
         "value": "Epidemics and famines.",
@@ -131,10 +131,10 @@
         "source": "Britannica: Japan, samurai groups and farming villages (checked 9 Nov 2026)"
       },
       "inequality": {
-        "value": "Rulers and military elites above farmers and herders.",
+        "value": "Samurai and estate lords above farmers; the lowest peasants were called genin.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Kamakura shogunate"
+        "certainty": "confirmed",
+        "source": "Britannica: Samurai groups and farming villages (checked 9 Nov 2026)"
       }
     },
     "politics": {
@@ -215,10 +215,10 @@
         "source": "Wikipedia: Kamakura shogunate"
       },
       "openness": {
-        "value": "Open to trade.",
+        "value": "Traded abroad through ports such as Sakai, with China, Korea, the Ryukyu Islands and Europe.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Kamakura shogunate"
+        "certainty": "confirmed",
+        "source": "Britannica: Sakai (checked 9 Nov 2026)"
       },
       "communicationTransport": {
         "value": "Caravan roads, rivers and horses.",
@@ -247,10 +247,10 @@
         "source": "Britannica: Ashikaga Yoshimasa (checked 9 Nov 2026)"
       },
       "socialStructure": {
-        "value": "Emperor, court nobles, samurai, farmers, artisans, merchants.",
+        "value": "Samurai, farmers, artisans attached to estates, and merchants with guilds; the imperial court stood beside the shogunate.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Samurai groups and farming villages; Kamakura period (checked 9 Nov 2026)"
       },
       "sharedIdentity": {
         "value": "Loyalty to the dynasty and faith.",
@@ -267,16 +267,16 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Korea, Ming China, Ryukyu, Ainu.",
+        "value": "Korea, Ming China, the Ryukyu Islands and the Ainu of Hokkaido.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Sakai; Ainu; Ashikaga period (checked 9 Nov 2026)"
       },
       "ideasReligions": {
-        "value": "Zen Buddhism and the warrior code.",
-        "year": null,
+        "value": "Rinzai Zen Buddhism, brought by Eisai in 1191 and patronised by lords and warriors.",
+        "year": 1191,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Eisai (checked 9 Nov 2026)"
       },
       "colonisation": {
         "value": "None.",
@@ -293,10 +293,10 @@
         "source": "Britannica: Kamakura period (checked 9 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Muromachi culture (1390s).",
-        "year": 1397,
+        "value": "Higashiyama culture flourished under Ashikaga Yoshimasa, shogun from 1449.",
+        "year": 1449,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica: Ashikaga Yoshimasa (checked 9 Nov 2026)"
       },
       "declineSignals": {
         "value": "Ōnin War (1467).",
@@ -313,10 +313,10 @@
     },
     "dataQuality": {
       "sources": {
-        "value": "Wikipedia: Kamakura shogunate.",
+        "value": "Britannica, UNESCO and Library of Congress pages, listed per item.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kamakura shogunate"
+        "source": "Britannica; UNESCO; Library of Congress Country Studies (checked 9 Nov 2026)"
       },
       "overallCertainty": {
         "value": "Main events are known from chronicles; population figures are estimates.",
