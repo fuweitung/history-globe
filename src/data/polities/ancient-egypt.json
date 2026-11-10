@@ -82,10 +82,10 @@
     },
     "population": {
       "population": {
-        "value": "Not stated in the Wikipedia infobox. Modern estimates range from about 1–2 million in the Old Kingdom to 3–5 million in the New Kingdom and Ptolemaic periods.",
-        "year": -1250,
+        "value": "Not stated in the sources checked; the Old Kingdom saw population growth.",
+        "year": null,
         "certainty": "disputed",
-        "source": "Shaw (ed.), The Oxford History of Ancient Egypt (2000)"
+        "source": "Wikipedia: Ancient Egypt (checked 10 Nov 2026)"
       },
       "urbanisation": {
         "value": "Capitals included Memphis, Thebes (New Kingdom), Akhetaten (Akhenaten’s city) and Alexandria (Ptolemaic). Most people lived in farming villages along the river.",
@@ -94,10 +94,10 @@
         "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "disease": {
-        "value": "Studies of mummies and skeletons show common parasitic diseases (e.g. schistosomiasis). Medicine was well developed for its time. No major epidemics are described in the sources checked.",
+        "value": "Malaria and schistosomiasis were Nile-related hazards.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Shaw (ed.), The Oxford History of Ancient Egypt (2000)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Egypt (checked 10 Nov 2026)"
       },
       "migration": {
         "value": "The Hyksos, a West Asian people, settled in and ruled the Delta (c. 1650–1550 BCE). Later, Libyan, Nubian, Persian and Greek groups became ruling elites.",
@@ -120,10 +120,10 @@
         "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "wealth": {
-        "value": "No GDP estimate is possible. Egypt was the richest grain producer of the ancient Mediterranean.",
-        "year": null,
+        "value": "No GDP estimate is possible. After Egypt became a Roman province in 30 BC, Rome relied heavily on its grain shipments.",
+        "year": -30,
         "certainty": "disputed",
-        "source": "—"
+        "source": "Wikipedia: Ancient Egypt (checked 10 Nov 2026)"
       },
       "moneyAndTax": {
         "value": "No coinage until the Late Period. Value was measured in grain and copper (the deben). Taxes were paid in crops and labour (corvée), stored in state and temple granaries.",
@@ -210,10 +210,10 @@
         "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "scienceEducation": {
-        "value": "Scribal schools taught writing and arithmetic. Literacy was limited to a small elite of scribes.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Shaw (ed.), The Oxford History of Ancient Egypt (2000)"
+        "value": "Writing was mainly the work of scribes, who worked from the House of Life; hieroglyphs date to c. 3000 BC.",
+        "year": -3000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Egypt (checked 10 Nov 2026)"
       },
       "openness": {
         "value": "Mostly self-sufficient and conservative, but it adopted foreign technologies such as the chariot (from the Hyksos) and welcomed Greek traders and mercenaries in the Late Period.",
@@ -254,16 +254,16 @@
         "source": "Wikipedia: Ancient Egypt (checked 5 Nov 2026)"
       },
       "sharedIdentity": {
-        "value": "Unity of “the Two Lands” (Upper and Lower Egypt) under a god-king, and the order of the universe (ma’at).",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Shaw (ed.), The Oxford History of Ancient Egypt (2000)"
+        "value": "Unity of “the Two Lands” (Upper and Lower Egypt) under a pharaoh, and the order he maintained, ma’at.",
+        "year": -3150,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Ancient Egypt (checked 10 Nov 2026)"
       },
       "dailyLife": {
-        "value": "Mud-brick houses with flat roofs; bread and beer as daily staples, with onions, fish and lentils; light linen clothing.",
+        "value": "Mud-brick homes; bread and beer as staples, with onions, garlic, pulses and fish from the Nile; clothing of linen.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ancient Egypt"
+        "source": "Wikipedia: Ancient Egypt (checked 10 Nov 2026)"
       }
     },
     "connections": {
