@@ -42,10 +42,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "West Africa on the Gulf of Guinea; about 115,000 km².",
+        "value": "West Africa on the Gulf of Guinea; about 113,000–115,000 km² (sources give 114,763 km² and 112,622 km²).",
         "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Benin"
+        "certainty": "disputed",
+        "source": "Wikipedia: Benin (checked 11 Nov 2026)"
       },
       "terrain": {
         "value": "Coastal lagoons and plateaus.",
@@ -74,16 +74,16 @@
     },
     "population": {
       "population": {
-        "value": "About 14 million.",
-        "year": 2024,
+        "value": "About 15.2 million (2026 estimate); about 13 million in 2021.",
+        "year": 2026,
         "certainty": "confirmed",
-        "source": "Wikipedia: Benin"
+        "source": "Wikipedia: Benin (checked 11 Nov 2026)"
       },
       "urbanisation": {
-        "value": "Cotonou.",
+        "value": "Cotonou is the economic capital.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Benin"
+        "source": "Wikipedia: Benin (checked 11 Nov 2026)"
       },
       "disease": {
         "value": "Malaria.",
@@ -100,16 +100,16 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Cotton, re-export trade with Nigeria.",
+        "value": "Cotton and palm oil are the main exports; regional trade and transit are important.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Benin"
+        "source": "Wikipedia: Benin (checked 11 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "Port of Cotonou.",
+        "value": "Cotonou has the only seaport.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Benin"
+        "source": "Wikipedia: Benin (checked 11 Nov 2026)"
       },
       "wealth": {
         "value": "A lower-middle-income country.",
@@ -118,10 +118,10 @@
         "source": "Wikipedia: Benin"
       },
       "moneyAndTax": {
-        "value": "The West African CFA franc, shared with neighbours and pegged to the euro.",
+        "value": "The West African CFA franc (XOF).",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Benin"
+        "source": "Wikipedia: Benin (checked 11 Nov 2026)"
       },
       "inequality": {
         "value": "Large gaps between the capital and rural areas.",
@@ -144,10 +144,10 @@
         "source": "Wikipedia: Benin"
       },
       "succession": {
-        "value": "Elections since 1991.",
-        "year": null,
+        "value": "Multi-party elections since 1991; observers called the 2026 vote not free or fair.",
+        "year": 2026,
         "certainty": "confirmed",
-        "source": "Wikipedia: Benin"
+        "source": "Wikipedia: Benin (checked 11 Nov 2026)"
       },
       "institutions": {
         "value": "Constitutional Court.",
@@ -156,10 +156,10 @@
         "source": "Wikipedia: Benin"
       },
       "stability": {
-        "value": "Many coups in the 1960s; Marxist rule (1972–90).",
+        "value": "Coups after independence; Marxist rule after Kérékou's 1972 coup, until about 1990.",
         "year": 1972,
         "certainty": "confirmed",
-        "source": "Wikipedia: Benin"
+        "source": "Wikipedia: Benin (checked 11 Nov 2026)"
       },
       "eliteConflict": {
         "value": "Competition between political parties and leaders.",
@@ -222,10 +222,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Christian, Muslim and Vodun.",
+        "value": "Christianity (53%), Islam (31%) and traditional or other faiths (11%).",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Benin"
+        "source": "Wikipedia: Benin (checked 11 Nov 2026)"
       },
       "languageWriting": {
         "value": "French; Fon, Yoruba.",
@@ -272,18 +272,18 @@
         "source": "Wikipedia: Benin"
       },
       "colonisation": {
-        "value": "A French colony (part of French West Africa) until 1960.",
+        "value": "A French colony until independence on 1 August 1960.",
         "year": 1960,
         "certainty": "confirmed",
-        "source": "Wikipedia: Benin"
+        "source": "Wikipedia: Benin (checked 11 Nov 2026)"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Independence (1960).",
+        "value": "Independence on 1 August 1960.",
         "year": 1960,
         "certainty": "confirmed",
-        "source": "Wikipedia: Benin"
+        "source": "Wikipedia: Benin (checked 11 Nov 2026)"
       },
       "peakPeriod": {
         "value": "Too recent to judge.",

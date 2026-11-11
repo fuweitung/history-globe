@@ -40,10 +40,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "South-west Africa; about 1.25 million km².",
+        "value": "South-west Africa; about 1,246,700 km².",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Angola"
+        "source": "Wikipedia: Angola (checked 11 Nov 2026)"
       },
       "terrain": {
         "value": "Coastal plain, central plateau, Namib desert in the south.",
@@ -72,10 +72,10 @@
     },
     "population": {
       "population": {
-        "value": "About 37 million.",
+        "value": "About 36.6 million (2024 census).",
         "year": 2024,
         "certainty": "confirmed",
-        "source": "Wikipedia: Angola"
+        "source": "Wikipedia: Angola (checked 11 Nov 2026)"
       },
       "urbanisation": {
         "value": "Luanda is one of Africa’s largest cities.",
@@ -84,10 +84,10 @@
         "source": "Wikipedia: Angola"
       },
       "disease": {
-        "value": "Malaria; landmines injured many.",
+        "value": "Malaria; landmines and minefields remain from the war.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Angola"
+        "source": "Wikipedia: Angola (checked 11 Nov 2026)"
       },
       "migration": {
         "value": "Millions displaced in the war.",
@@ -98,10 +98,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Oil (Africa’s second-largest producer at times) and diamonds.",
-        "year": null,
+        "value": "Oil (an OPEC member; about 1.165 million barrels a day in 2022).",
+        "year": 2022,
         "certainty": "confirmed",
-        "source": "Wikipedia: Angola"
+        "source": "Wikipedia: Angola (checked 11 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Oil sold to China and others.",
@@ -122,24 +122,24 @@
         "source": "Wikipedia: Angola"
       },
       "inequality": {
-        "value": "Very high inequality.",
+        "value": "High inequality: Gini index 51.3.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Angola"
+        "source": "Wikipedia: Angola (checked 11 Nov 2026)"
       }
     },
     "politics": {
       "governmentType": {
-        "value": "A presidential republic; one party ruled until 1991.",
-        "year": null,
+        "value": "A unitary presidential republic; the MPLA ran a one-party state from 1975 to 1991.",
+        "year": 1975,
         "certainty": "confirmed",
-        "source": "Wikipedia: Angola"
+        "source": "Wikipedia: Angola (checked 11 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Agostinho Neto. José Eduardo dos Santos (1979–2017).",
-        "year": 1979,
+        "value": "Agostinho Neto (MPLA chairman). José Eduardo dos Santos (led the country for 38 years, until 2017).",
+        "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Angola"
+        "source": "Wikipedia: Angola (checked 11 Nov 2026)"
       },
       "succession": {
         "value": "Long rule by the MPLA party.",
@@ -168,10 +168,10 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Cold War outside involvement (Cuba, South Africa, US, USSR).",
+        "value": "The USSR and Cuba backed the MPLA; the US and South Africa backed UNITA.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Angola"
+        "source": "Wikipedia: Angola (checked 11 Nov 2026)"
       },
       "majorWars": {
         "value": "Angolan Civil War (1975–2002).",
@@ -220,16 +220,16 @@
     },
     "culture": {
       "religion": {
-        "value": "Mostly Christian.",
+        "value": "About 79% Christian.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Angola"
+        "source": "Wikipedia: Angola (checked 11 Nov 2026)"
       },
       "languageWriting": {
-        "value": "Portuguese; Umbundu, Kimbundu, Kikongo.",
+        "value": "Portuguese is official; Umbundu, Kimbundu and Kikongo are the most widely spoken indigenous languages.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Angola"
+        "source": "Wikipedia: Angola (checked 11 Nov 2026)"
       },
       "artsArchitecture": {
         "value": "Music and dance; sculpture.",
@@ -284,16 +284,16 @@
         "source": "Wikipedia: Angola"
       },
       "peakPeriod": {
-        "value": "Oil boom after 2002.",
-        "year": 2005,
-        "certainty": "estimated",
-        "source": "Wikipedia: Angola"
+        "value": "Growth after the 2002 peace settlement, driven largely by oil revenue.",
+        "year": 2002,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola (checked 11 Nov 2026)"
       },
       "declineSignals": {
-        "value": "Falling oil prices.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Angola"
+        "value": "The 2014 oil price collapse led to IMF support and fiscal consolidation.",
+        "year": 2014,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Angola (checked 11 Nov 2026)"
       },
       "outcome": {
         "value": "Still in existence.",
