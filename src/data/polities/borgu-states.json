@@ -40,10 +40,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Northern Benin and western Nigeria.",
+        "value": "A region and former country split between north-west Nigeria and northern Benin.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Borgu"
+        "source": "Wikipedia: Borgu (checked 12 Nov 2026)"
       },
       "terrain": {
         "value": "Savanna.",
@@ -58,10 +58,10 @@
         "source": "Wikipedia: Borgu"
       },
       "resources": {
-        "value": "Yams, horses, shea.",
+        "value": "Yam and sorghum, the staple foods.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Borgu"
+        "source": "Wikipedia: Borgu (checked 12 Nov 2026)"
       },
       "disasters": {
         "value": "Uncertain.",
@@ -98,16 +98,16 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming, horses, trade.",
+        "value": "Agriculture is the basis of the economy (yam and sorghum); trade.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Borgu"
+        "source": "Wikipedia: Borgu (checked 12 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "Routes between Hausa and the coast.",
+        "value": "From the 16th century a crossroads for kola trade from Gonja and Ashanti to Hausaland; Wangara dominated long-distance trade until the 19th century.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Borgu"
+        "source": "Wikipedia: Borgu (checked 12 Nov 2026)"
       },
       "wealth": {
         "value": "Modest.",
@@ -116,10 +116,10 @@
         "source": "Wikipedia: Borgu"
       },
       "moneyAndTax": {
-        "value": "Tribute, cloth, cowries and trade goods.",
+        "value": "The infobox lists the mithqal; the article does not discuss currency further.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Borgu"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Borgu (checked 12 Nov 2026)"
       },
       "inequality": {
         "value": "Rulers and nobles above farmers; captives and slaves at the bottom.",
@@ -130,16 +130,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Kingdoms ruled by Wasangari nobles.",
+        "value": "The Wasangari political class led a confederation formed for mutual defence.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Borgu"
+        "source": "Wikipedia: Borgu (checked 12 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Kings of Nikki and Bussa.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Borgu"
+        "value": "Siru Kpera, king of Nikki, was killed in 1837. Bussa is the traditional and Nikki the political centre.",
+        "year": 1837,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Borgu (checked 12 Nov 2026)"
       },
       "succession": {
         "value": "Rotating royal lines.",
@@ -174,22 +174,22 @@
         "source": "Wikipedia: Borgu"
       },
       "majorWars": {
-        "value": "Resisted Oyo and Sokoto.",
-        "year": 1820,
+        "value": "Borgu defeated Oyo at Gberegburu, regaining independence in 1783; contingents were defeated at the Battle of Ilorin in 1837. Sokoto is not named in the article.",
+        "year": 1783,
         "certainty": "confirmed",
-        "source": "Wikipedia: Borgu"
+        "source": "Wikipedia: Borgu (checked 12 Nov 2026)"
       },
       "territoryChange": {
-        "value": "Split between France and Britain (1898).",
-        "year": null,
+        "value": "The border was settled in 1898, dividing Borgu in two: the British half joined the Northern Nigeria Protectorate, the French half French Dahomey.",
+        "year": 1898,
         "certainty": "confirmed",
-        "source": "Wikipedia: Borgu"
+        "source": "Wikipedia: Borgu (checked 12 Nov 2026)"
       },
       "alliancesRivals": {
-        "value": "Oyo, Sokoto.",
-        "year": null,
+        "value": "Oyo reduced much of Borgu to vassalage after the fall of Songhai in 1591; Borgu paid tribute until 1818.",
+        "year": 1591,
         "certainty": "confirmed",
-        "source": "Wikipedia: Borgu"
+        "source": "Wikipedia: Borgu (checked 12 Nov 2026)"
       }
     },
     "technology": {
@@ -220,16 +220,16 @@
     },
     "culture": {
       "religion": {
-        "value": "Traditional religion; some Islam.",
-        "year": null,
+        "value": "The Wasangari were historically pagan; Muslim Wangara traders were tolerated but held no political power; the Emir of Bussa converted in 1920.",
+        "year": 1920,
         "certainty": "confirmed",
-        "source": "Wikipedia: Borgu"
+        "source": "Wikipedia: Borgu (checked 12 Nov 2026)"
       },
       "languageWriting": {
-        "value": "Baatonum.",
+        "value": "The people are called Bariba or Borgawa; the article does not name Baatonum.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Borgu"
+        "source": "Wikipedia: Borgu (checked 12 Nov 2026)"
       },
       "artsArchitecture": {
         "value": "Earth buildings.",
@@ -270,18 +270,18 @@
         "source": "Wikipedia: Borgu"
       },
       "colonisation": {
-        "value": "Divided between France and Britain (1898).",
+        "value": "Divided by the Anglo-French Convention of 14 June 1898.",
         "year": 1898,
         "certainty": "confirmed",
-        "source": "Wikipedia: Borgu"
+        "source": "Wikipedia: Borgu (checked 12 Nov 2026)"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": "About 1400s.",
-        "year": null,
+        "value": "The Kisra legend; the article says it likely reflects a 15th-century invasion by horse-mounted warriors.",
+        "year": 1400,
         "certainty": "estimated",
-        "source": "Wikipedia: Borgu"
+        "source": "Wikipedia: Borgu (checked 12 Nov 2026)"
       },
       "peakPeriod": {
         "value": "1700s.",
@@ -290,16 +290,16 @@
         "source": "Wikipedia: Borgu"
       },
       "declineSignals": {
-        "value": "Colonial division.",
-        "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Borgu"
-      },
-      "outcome": {
-        "value": "Part of French Dahomey and British Nigeria.",
+        "value": "Colonial division between France and Britain (1898).",
         "year": 1898,
         "certainty": "confirmed",
-        "source": "Wikipedia: Borgu"
+        "source": "Wikipedia: Borgu (checked 12 Nov 2026)"
+      },
+      "outcome": {
+        "value": "Split: the British half joined the Northern Nigeria Protectorate; the French half joined French Dahomey.",
+        "year": 1898,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Borgu (checked 12 Nov 2026)"
       }
     },
     "dataQuality": {
