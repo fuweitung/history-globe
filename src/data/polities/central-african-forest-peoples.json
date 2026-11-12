@@ -41,10 +41,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "The rainforest of the Congo Basin.",
+        "value": "Central Africa, mostly the Congo Basin.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: African Pygmies"
+        "source": "Wikipedia: African Pygmies (checked 12 Nov 2026)"
       },
       "terrain": {
         "value": "Dense tropical forest and rivers.",
@@ -91,10 +91,10 @@
         "source": "Wikipedia: African Pygmies"
       },
       "migration": {
-        "value": "Bantu-speaking farmers arrived from about 1000 BCE.",
-        "year": -1000,
+        "value": "The Bantu expansion began about 3,500 years ago (roughly 1500 BCE); earlier farming migrations began about 5,500 years ago.",
+        "year": -1500,
         "certainty": "confirmed",
-        "source": "Wikipedia: African Pygmies"
+        "source": "Wikipedia: African Pygmies (checked 12 Nov 2026)"
       }
     },
     "economy": {
@@ -227,16 +227,16 @@
         "source": "Wikipedia: African Pygmies"
       },
       "languageWriting": {
-        "value": "Today they speak languages of their farming neighbours.",
+        "value": "They adopted the languages of neighbouring farmers (Bantu, Ubangian and Central Sudanic); Aka and Baka keep non-Bantu, non-Ubangian vocabulary, about 30% of the lexicon.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: African Pygmies"
+        "source": "Wikipedia: African Pygmies (checked 12 Nov 2026)"
       },
       "artsArchitecture": {
-        "value": "Polyphonic music and dance.",
+        "value": "Dense, contrapuntal vocal polyphony (found among the Aka–Baka and Mbuti, not the Gyele or Twa); the n’dehou bamboo flute.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: African Pygmies"
+        "source": "Wikipedia: African Pygmies (checked 12 Nov 2026)"
       },
       "socialStructure": {
         "value": "Equal bands.",
@@ -297,10 +297,10 @@
         "source": "Wikipedia: African Pygmies"
       },
       "outcome": {
-        "value": "Forest peoples still live in the Congo Basin.",
-        "year": null,
+        "value": "About 900,000 Pygmies were estimated in the central African forests in 2016, about 60% in the DRC.",
+        "year": 2016,
         "certainty": "confirmed",
-        "source": "Wikipedia: African Pygmies"
+        "source": "Wikipedia: African Pygmies (checked 12 Nov 2026)"
       }
     },
     "dataQuality": {
