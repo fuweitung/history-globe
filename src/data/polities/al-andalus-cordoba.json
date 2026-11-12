@@ -78,10 +78,10 @@
     },
     "population": {
       "population": {
-        "value": "Córdoba perhaps 100,000 or more around 1000.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Caliphate of Córdoba"
+        "value": "Córdoba most likely passed 100,000 in the 10th century; one estimate gives about 450,000 around 1000.",
+        "year": 1000,
+        "certainty": "disputed",
+        "source": "Wikipedia: Caliphate of Córdoba (checked 12 Nov 2026)"
       },
       "urbanisation": {
         "value": "Large cities: Córdoba, Seville, Toledo.",
@@ -122,16 +122,16 @@
         "source": "Wikipedia: Caliphate of Córdoba"
       },
       "moneyAndTax": {
-        "value": "Gold dinars and silver dirhams.",
+        "value": "Gold and silver coins were minted in the 10th century; revenue was counted in dinars.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Caliphate of Córdoba"
+        "source": "Wikipedia: Caliphate of Córdoba (checked 12 Nov 2026)"
       },
       "inequality": {
-        "value": "Muslims above Christians and Jews, who paid a special tax.",
+        "value": "Jews and Christians paid a special tax called the jizya.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Caliphate of Córdoba"
+        "source": "Wikipedia: Caliphate of Córdoba (checked 12 Nov 2026)"
       }
     },
     "politics": {
@@ -142,10 +142,10 @@
         "source": "Wikipedia: Caliphate of Córdoba"
       },
       "keyRulers": {
-        "value": "Abd al-Rahman I. Abd al-Rahman III. Al-Mansur.",
+        "value": "Abd al-Rahman I (independent emir from 756). Abd al-Rahman III (took the title of caliph in 929). Al-Mansur.",
         "year": 756,
         "certainty": "confirmed",
-        "source": "Wikipedia: Caliphate of Córdoba"
+        "source": "Wikipedia: Caliphate of Córdoba (checked 12 Nov 2026)"
       },
       "succession": {
         "value": "Umayyad family; later chamberlains ruled.",
@@ -163,7 +163,7 @@
         "value": "Civil war (fitna) from 1009.",
         "year": 1009,
         "certainty": "confirmed",
-        "source": "Wikipedia: Caliphate of Córdoba"
+        "source": "Wikipedia: Caliphate of Córdoba (checked 12 Nov 2026)"
       },
       "eliteConflict": {
         "value": "Arabs, Berbers and slave soldiers.",
@@ -176,8 +176,8 @@
       "armyAndTech": {
         "value": "Professional army with slave soldiers.",
         "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Caliphate of Córdoba"
+        "certainty": "estimated",
+        "source": "Wikipedia: Caliphate of Córdoba (checked 12 Nov 2026)"
       },
       "majorWars": {
         "value": "Raids on the Christian north (Al-Mansur, 980s–1002).",
@@ -200,10 +200,10 @@
     },
     "technology": {
       "inventions": {
-        "value": "Abbas ibn Firnas tried gliding (about 875).",
+        "value": "Abbas ibn Firnas, a polymath who brought scientific knowledge from the east.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Caliphate of Córdoba"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Caliphate of Córdoba (checked 12 Nov 2026)"
       },
       "scienceEducation": {
         "value": "Large libraries; astronomy and medicine (Abulcasis).",
@@ -238,10 +238,10 @@
         "source": "Wikipedia: Caliphate of Córdoba"
       },
       "artsArchitecture": {
-        "value": "Horseshoe arches, mosaics, ivory boxes.",
+        "value": "Horseshoe arches, including on the Great Mosque of Córdoba.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Caliphate of Córdoba"
+        "source": "Wikipedia: Caliphate of Córdoba (checked 12 Nov 2026)"
       },
       "socialStructure": {
         "value": "Arabs, Berbers, converts (muwalladun), Christians, Jews.",
@@ -276,36 +276,36 @@
         "source": "Wikipedia: Caliphate of Córdoba"
       },
       "colonisation": {
-        "value": "Umayyad conquest (711).",
-        "year": null,
+        "value": "Full-scale Umayyad conquest began in April 711.",
+        "year": 711,
         "certainty": "confirmed",
-        "source": "Wikipedia: Caliphate of Córdoba"
+        "source": "Wikipedia: Caliphate of Córdoba (checked 12 Nov 2026)"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Abd al-Rahman I arrives (756).",
+        "value": "Abd al-Rahman I becomes an independent emir (756).",
         "year": 756,
         "certainty": "confirmed",
-        "source": "Wikipedia: Caliphate of Córdoba"
+        "source": "Wikipedia: Caliphate of Córdoba (checked 12 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Caliphate (929–1009).",
-        "year": 950,
+        "value": "Caliphate (from 929), when Abd al-Rahman III took the title of caliph.",
+        "year": 929,
         "certainty": "confirmed",
-        "source": "Wikipedia: Caliphate of Córdoba"
+        "source": "Wikipedia: Caliphate of Córdoba (checked 12 Nov 2026)"
       },
       "declineSignals": {
-        "value": "Fitna of al-Andalus (1009–31).",
+        "value": "The fitna of al-Andalus begins in 1009 with the death of Abd al-Rahman Sanchuelo.",
         "year": 1009,
         "certainty": "confirmed",
-        "source": "Wikipedia: Caliphate of Córdoba"
+        "source": "Wikipedia: Caliphate of Córdoba (checked 12 Nov 2026)"
       },
       "outcome": {
-        "value": "Broke into taifa kingdoms (1031).",
+        "value": "The caliphate crumbled in 1031 into independent taifa kingdoms.",
         "year": 1031,
         "certainty": "confirmed",
-        "source": "Wikipedia: Caliphate of Córdoba"
+        "source": "Wikipedia: Caliphate of Córdoba (checked 12 Nov 2026)"
       }
     },
     "dataQuality": {
