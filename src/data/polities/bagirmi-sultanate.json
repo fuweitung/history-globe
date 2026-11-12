@@ -72,10 +72,10 @@
     },
     "population": {
       "population": {
-        "value": "Uncertain; 19th-century visitors gave very different figures.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Kingdom of Baguirmi"
+        "value": "No national figure is given; Massenya had about 15,000 people in 1850.",
+        "year": 1850,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi (checked 12 Nov 2026)"
       },
       "urbanisation": {
         "value": "Mostly villages; a royal capital and market towns.",
@@ -104,28 +104,28 @@
         "source": "Wikipedia: Kingdom of Baguirmi"
       },
       "tradeRoutes": {
-        "value": "Trade north to Bornu and Wadai and on to the trans-Saharan routes; captives, ivory and cloth were traded.",
+        "value": "Depended on Bornu for trans-Saharan trade; eunuchs were sold to Bornu and Wadai.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Baguirmi"
+        "source": "Wikipedia: Kingdom of Baguirmi (checked 12 Nov 2026)"
       },
       "wealth": {
-        "value": "Mostly from tribute and slave raiding.",
+        "value": "Slavery was fundamental to the economy; tributaries sent slaves as tribute.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Baguirmi"
+        "source": "Wikipedia: Kingdom of Baguirmi (checked 12 Nov 2026)"
       },
       "moneyAndTax": {
-        "value": "Tribute, market taxes and trade goods; cowrie shells in many markets.",
+        "value": "Cowrie shells were the currency, alongside copper.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Kingdom of Baguirmi"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi (checked 12 Nov 2026)"
       },
       "inequality": {
-        "value": "Rulers and nobles above free farmers; enslaved people at the bottom.",
+        "value": "The article does not use the term; slavery was fundamental, with chattel slaves, agricultural labourers, retainers and officials.",
         "year": null,
         "certainty": "estimated",
-        "source": "Wikipedia: Kingdom of Baguirmi"
+        "source": "Wikipedia: Kingdom of Baguirmi (checked 12 Nov 2026)"
       }
     },
     "politics": {
@@ -136,10 +136,10 @@
         "source": "Wikipedia: Kingdom of Baguirmi"
       },
       "keyRulers": {
-        "value": "Mbang Abd Allah (about 1561–1602), who made Islam the court religion; Mbang Gaourang II, who accepted French protection (1897).",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Kingdom of Baguirmi"
+        "value": "Mbang Abd Allah (reigned 1568–1608), under whom the court converted to Islam. Mbang Gaourang II (reigned 1885–1912 per the infobox), who appealed to the French.",
+        "year": 1568,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi (checked 12 Nov 2026)"
       },
       "succession": {
         "value": "Within the royal dynasty, often disputed between royal brothers and sons.",
@@ -174,10 +174,10 @@
         "source": "Wikipedia: Kingdom of Baguirmi"
       },
       "majorWars": {
-        "value": "Wadai sacked Massenya (1871); Rabih az-Zubayr attacked and burned it again (1893).",
-        "year": 1871,
+        "value": "Wadai invaded in 1805 (about 20,000 people taken and sold into slavery) and again in 1870; Rabih az-Zubayr conquered Bagirmi in 1893.",
+        "year": 1805,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Baguirmi"
+        "source": "Wikipedia: Kingdom of Baguirmi (checked 12 Nov 2026)"
       },
       "territoryChange": {
         "value": "Its core changed little, but it was squeezed between Bornu, Wadai and later Rabih and the French.",
@@ -206,10 +206,10 @@
         "source": "Wikipedia: Kingdom of Baguirmi"
       },
       "openness": {
-        "value": "Open to trade and to Muslim scholars; European travellers Heinrich Barth (1852) and Gustav Nachtigal (1872) visited.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Kingdom of Baguirmi"
+        "value": "Open to trade and to Muslim scholars; Heinrich Barth’s account of a visit is dated 1852.",
+        "year": 1852,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi (checked 12 Nov 2026)"
       },
       "communicationTransport": {
         "value": "Footpaths, horses, boats on the Chari River and messengers.",
@@ -220,16 +220,16 @@
     },
     "culture": {
       "religion": {
-        "value": "Islam at the court from about 1600, alongside older local beliefs among many subjects.",
-        "year": null,
+        "value": "The court converted to Islam under Mbang Abd Allah (1568–1608); most of the population kept traditional religions.",
+        "year": 1568,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Baguirmi"
+        "source": "Wikipedia: Kingdom of Baguirmi (checked 12 Nov 2026)"
       },
       "languageWriting": {
-        "value": "Bagirmi (Tar Barma), a Nilo-Saharan language; Arabic for religion and letters.",
+        "value": "Bagirmi is the common language, per the infobox.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Baguirmi"
+        "source": "Wikipedia: Kingdom of Baguirmi (checked 12 Nov 2026)"
       },
       "artsArchitecture": {
         "value": "Mud-brick palaces and mosques at Massenya; woven cloth and leather work.",
@@ -270,36 +270,36 @@
         "source": "Wikipedia: Kingdom of Baguirmi"
       },
       "colonisation": {
-        "value": "Mbang Gaourang II accepted a French protectorate (1897); later part of French Chad.",
+        "value": "Became a French protectorate by treaty in 1897.",
         "year": 1897,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Baguirmi"
+        "source": "Wikipedia: Kingdom of Baguirmi (checked 12 Nov 2026)"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Founded around 1522 by Barma leaders near Massenya.",
+        "value": "Emerged from a group of chiefdoms around 1522; king lists disagree on the founder (Birni Besse or Abd al-Mahmud Begli).",
         "year": 1522,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Baguirmi"
+        "certainty": "disputed",
+        "source": "Wikipedia: Kingdom of Baguirmi (checked 12 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Around 1600, under Mbang Abd Allah, when Bagirmi expanded and adopted Islam.",
-        "year": 1600,
-        "certainty": "estimated",
-        "source": "Wikipedia: Kingdom of Baguirmi"
+        "value": "Under Mbang Abd Allah (reigned 1568–1608), when the court converted to Islam.",
+        "year": 1568,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Baguirmi (checked 12 Nov 2026)"
       },
       "declineSignals": {
-        "value": "Wadai sacked Massenya (1871) and Rabih az-Zubayr devastated it (1893).",
-        "year": 1871,
+        "value": "Wadai invaded in 1805 and again in 1870, partly destroying Massenya; Rabih az-Zubayr burnt Massenya in 1893.",
+        "year": 1870,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Baguirmi"
+        "source": "Wikipedia: Kingdom of Baguirmi (checked 12 Nov 2026)"
       },
       "outcome": {
-        "value": "Became a French protectorate (1897) and part of the colony of Chad.",
+        "value": "A French protectorate after a treaty in 1897.",
         "year": 1897,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Baguirmi"
+        "source": "Wikipedia: Kingdom of Baguirmi (checked 12 Nov 2026)"
       }
     },
     "dataQuality": {
