@@ -43,10 +43,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "North, Central and South America.",
-        "year": null,
+        "value": "North and South America; people reached both by about 14,000 years ago (possibly earlier).",
+        "year": -12000,
         "certainty": "confirmed",
-        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+        "source": "Wikipedia: Archaic period (North America) (checked 12 Nov 2026); Wikipedia: Settlement of the Americas (checked 12 Nov 2026)"
       },
       "terrain": {
         "value": "Every landscape, from forests and plains to deserts and coasts.",
@@ -55,22 +55,22 @@
         "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
       },
       "climate": {
-        "value": "The climate warmed after the Ice Age; big animals such as mammoths had died out.",
+        "value": "The last glacial period ended around 8000 BC; large mammals such as mammoth and mastodon went extinct soon after (cause not given).",
         "year": -8000,
         "certainty": "confirmed",
-        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+        "source": "Wikipedia: Archaic period (North America) (checked 12 Nov 2026); Wikipedia: Settlement of the Americas (checked 12 Nov 2026)"
       },
       "resources": {
-        "value": "Deer, bison, fish, shellfish, nuts and seeds.",
-        "year": null,
+        "value": "Deer, nuts and wild grains in the north-east; caribou; salmon from about 5500 BC in the north-west; oysters from about 3000 BC.",
+        "year": -5500,
         "certainty": "confirmed",
-        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+        "source": "Wikipedia: Archaic period (North America) (checked 12 Nov 2026); Wikipedia: Settlement of the Americas (checked 12 Nov 2026)"
       },
       "disasters": {
-        "value": "Droughts during the warm mid-Holocene (about 6000–3000 BCE).",
-        "year": -5000,
-        "certainty": "estimated",
-        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+        "value": "The Holocene climatic optimum began about 6,500 years ago; the article does not mention droughts.",
+        "year": -4500,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Archaic period (North America) (checked 12 Nov 2026); Wikipedia: Settlement of the Americas (checked 12 Nov 2026)"
       }
     },
     "population": {
@@ -81,10 +81,10 @@
         "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
       },
       "urbanisation": {
-        "value": "Seasonal camps; some large shell-mound sites.",
-        "year": null,
+        "value": "Large shell middens formed along south-eastern rivers from about 4000 BC.",
+        "year": -4000,
         "certainty": "confirmed",
-        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+        "source": "Wikipedia: Archaic period (North America) (checked 12 Nov 2026); Wikipedia: Settlement of the Americas (checked 12 Nov 2026)"
       },
       "disease": {
         "value": "Unknown.",
@@ -107,10 +107,10 @@
         "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
       },
       "tradeRoutes": {
-        "value": "Exchange of copper, shells and stone over long distances.",
-        "year": -3000,
+        "value": "Great Lakes copper was traded across the Plains and Ohio Valley (undated); hammered copper tools date to about 5000 BC.",
+        "year": -5000,
         "certainty": "confirmed",
-        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+        "source": "Wikipedia: Archaic period (North America) (checked 12 Nov 2026); Wikipedia: Settlement of the Americas (checked 12 Nov 2026)"
       },
       "wealth": {
         "value": "No estimate is possible.",
@@ -171,10 +171,10 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Spear-throwers (atlatl), stone points, nets.",
-        "year": null,
+        "value": "Atlatl (spear-thrower) used by south-western hunters by 8000 BC.",
+        "year": -8000,
         "certainty": "confirmed",
-        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+        "source": "Wikipedia: Archaic period (North America) (checked 12 Nov 2026); Wikipedia: Settlement of the Americas (checked 12 Nov 2026)"
       },
       "majorWars": {
         "value": "None known.",
@@ -197,10 +197,10 @@
     },
     "technology": {
       "inventions": {
-        "value": "Ground-stone tools, fish weirs, early pottery (from about 3000 BCE in places).",
-        "year": -3000,
+        "value": "Pottery: the Stallings culture on the Savannah River began making it in 2888 BC; pottery was widespread in the Eastern Woodlands by 1000 BC.",
+        "year": -2888,
         "certainty": "confirmed",
-        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+        "source": "Wikipedia: Archaic period (North America) (checked 12 Nov 2026); Wikipedia: Settlement of the Americas (checked 12 Nov 2026)"
       },
       "scienceEducation": {
         "value": "No writing; knowledge passed on orally.",
@@ -235,10 +235,10 @@
         "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
       },
       "artsArchitecture": {
-        "value": "Carved stone, bone and shell objects; early earth mounds.",
+        "value": "Earth mounds: Watson Brake was built 3500–3000 BC, considered the oldest mound complex in the Americas.",
         "year": -3500,
         "certainty": "confirmed",
-        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+        "source": "Wikipedia: Archaic period (North America) (checked 12 Nov 2026); Wikipedia: Settlement of the Americas (checked 12 Nov 2026)"
       },
       "socialStructure": {
         "value": "Families and bands.",
@@ -281,10 +281,10 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Adaptation to new environments after the Ice Age.",
+        "value": "The last glacial period ended around 8000 BC; people were in both continents by about 14,000 years ago.",
         "year": -8000,
-        "certainty": "estimated",
-        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Archaic period (North America) (checked 12 Nov 2026); Wikipedia: Settlement of the Americas (checked 12 Nov 2026)"
       },
       "peakPeriod": {
         "value": "No single peak.",
@@ -293,10 +293,10 @@
         "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
       },
       "declineSignals": {
-        "value": "Not a decline: farming and villages slowly replaced this way of life.",
+        "value": "The period ends around 1000 BC; the article defines the end by the adoption of settled farming.",
         "year": -1000,
-        "certainty": "estimated",
-        "source": "Wikipedia: Archaic period (North America); Wikipedia: Settlement of the Americas"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Archaic period (North America) (checked 12 Nov 2026); Wikipedia: Settlement of the Americas (checked 12 Nov 2026)"
       },
       "outcome": {
         "value": "Followed by farming and mound-building cultures.",

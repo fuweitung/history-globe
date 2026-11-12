@@ -51,10 +51,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "The steppes from Ukraine to Kazakhstan and southern Siberia.",
+        "value": "Andronovo culture: the southern Urals to the upper Yenisei and western Xinjiang, with sites in Kazakhstan, Tajikistan and Uzbekistan (not Ukraine).",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+        "source": "Wikipedia: Andronovo culture (checked 12 Nov 2026)"
       },
       "terrain": {
         "value": "Grassland and river valleys.",
@@ -89,16 +89,16 @@
         "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
       },
       "urbanisation": {
-        "value": "Mobile camps; fortified settlements such as Sintashta (about 2000 BCE).",
-        "year": -2000,
+        "value": "Villages of about two to twenty houses, some up to a hundred; Sintashta (c. 2200–1900 BC) is now thought distinct from Andronovo.",
+        "year": -2200,
         "certainty": "confirmed",
-        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+        "source": "Wikipedia: Andronovo culture (checked 12 Nov 2026)"
       },
       "disease": {
-        "value": "Plague bacteria have been found in some steppe burials.",
-        "year": -2800,
+        "value": "A Yersinia pestis strain from the Kytmanovo site (1746–1626 BC) has been studied; the article says it was “not the plague”.",
+        "year": -1746,
         "certainty": "confirmed",
-        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+        "source": "Wikipedia: Andronovo culture (checked 12 Nov 2026)"
       },
       "migration": {
         "value": "Steppe peoples moved into Europe and Asia; their genes are found widely.",
@@ -115,10 +115,10 @@
         "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
       },
       "tradeRoutes": {
-        "value": "Trade in metals across the steppe.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+        "value": "Copper ore mined in the Altai Mountains from about the 14th century BC; the article does not describe a metals trade.",
+        "year": -1400,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andronovo culture (checked 12 Nov 2026)"
       },
       "wealth": {
         "value": "No estimate is possible.",
@@ -179,10 +179,10 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Wagons, chariots, bronze weapons.",
+        "value": "Bronze weapons among grave goods; spoke-wheeled chariots credited around 2000 BC (counting Sintashta).",
         "year": -2000,
         "certainty": "confirmed",
-        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+        "source": "Wikipedia: Andronovo culture (checked 12 Nov 2026)"
       },
       "majorWars": {
         "value": "Unknown.",
@@ -205,10 +205,10 @@
     },
     "technology": {
       "inventions": {
-        "value": "Wheeled wagons, spoked-wheel chariots, horse riding.",
+        "value": "Wheeled vehicles in burials; spoke-wheeled chariot credited around 2000 BC; the horse was used for riding and traction.",
         "year": -2000,
         "certainty": "confirmed",
-        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+        "source": "Wikipedia: Andronovo culture (checked 12 Nov 2026)"
       },
       "scienceEducation": {
         "value": "No writing.",
@@ -231,22 +231,22 @@
     },
     "culture": {
       "religion": {
-        "value": "Sky gods and horse sacrifice in burials.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
-      },
-      "languageWriting": {
-        "value": "Probably early Indo-European languages (debated).",
-        "year": null,
-        "certainty": "disputed",
-        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
-      },
-      "artsArchitecture": {
-        "value": "Kurgans, bronze work.",
+        "value": "A ritual “head and hooves” horse burial cult; burials with livestock, wheeled vehicles and horse cheek-pieces.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+        "source": "Wikipedia: Andronovo culture (checked 12 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Most researchers associate Andronovo with early Indo-Iranian languages; the link is debated (the lead calls it agreed).",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Andronovo culture (checked 12 Nov 2026)"
+      },
+      "artsArchitecture": {
+        "value": "Kurgans with timber or stone chambers; copper-working workshops.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andronovo culture (checked 12 Nov 2026)"
       },
       "socialStructure": {
         "value": "Chiefs, warriors, herders.",
@@ -261,10 +261,10 @@
         "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
       },
       "dailyLife": {
-        "value": "Wagons, tents and pit houses; meat and milk.",
+        "value": "Timber houses of pine, cedar or birch, often by rivers; larger homes of 80–300 m².",
         "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andronovo culture (checked 12 Nov 2026)"
       }
     },
     "connections": {
@@ -275,10 +275,10 @@
         "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
       },
       "ideasReligions": {
-        "value": "Spread of horse riding and possibly Indo-European languages.",
-        "year": -3000,
+        "value": "The Indo-Iranian link is debated: Klejn and Brentjes argue the culture is too late for it.",
+        "year": -2000,
         "certainty": "disputed",
-        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+        "source": "Wikipedia: Andronovo culture (checked 12 Nov 2026)"
       },
       "colonisation": {
         "value": "Moved into Europe, Iran and India (debated).",
@@ -295,10 +295,10 @@
         "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
       },
       "peakPeriod": {
-        "value": "About 2000–1500 BCE (Sintashta, Andronovo).",
-        "year": -1800,
-        "certainty": "estimated",
-        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+        "value": "Andronovo culture, c. 2000–1150 BC (per the infobox; the first stage may have begun in the late 3rd millennium BC).",
+        "year": -2000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Andronovo culture (checked 12 Nov 2026)"
       },
       "declineSignals": {
         "value": "Unknown.",
@@ -307,10 +307,10 @@
         "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
       },
       "outcome": {
-        "value": "Followed by the Scythians and other Iron Age nomads.",
-        "year": -800,
+        "value": "Karasuk succeeded Andronovo in southern Siberia and Kazakhstan (1500–800 BC); Iranian-speaking nomads (Saka, Sarmatians, Alans) dominated the 1st millennium BC.",
+        "year": -1500,
         "certainty": "confirmed",
-        "source": "Wikipedia: Yamnaya culture; Wikipedia: Andronovo culture"
+        "source": "Wikipedia: Andronovo culture (checked 12 Nov 2026)"
       }
     },
     "dataQuality": {
