@@ -142,10 +142,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Central Europe; dozens of states.",
-        "year": null,
+        "value": "Central Europe; the Confederation had 39 predominantly German-speaking sovereign states (34 at its dissolution in 1866).",
+        "year": 1815,
         "certainty": "confirmed",
-        "source": "Wikipedia: German Confederation"
+        "source": "Wikipedia: German Confederation (checked 12 Nov 2026)"
       },
       "terrain": {
         "value": "Plains, uplands, Alps.",
@@ -174,10 +174,10 @@
     },
     "population": {
       "population": {
-        "value": "About 30 million (1815) outside Prussia and Austria.",
+        "value": "The article gives the population excluding Austria as about 21 million in 1815, rising to about 34 million in 1865. No figure of 30 million is given.",
         "year": 1815,
         "certainty": "confirmed",
-        "source": "Wikipedia: German Confederation"
+        "source": "Wikipedia: German Confederation (checked 12 Nov 2026)"
       },
       "urbanisation": {
         "value": "Munich, Dresden, Hamburg, Frankfurt.",
@@ -232,10 +232,10 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Monarchies and free cities in a loose confederation.",
+        "value": "A loose confederation of monarchies and four free cities: Bremen, Frankfurt, Hamburg and Lübeck.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: German Confederation"
+        "source": "Wikipedia: German Confederation (checked 12 Nov 2026)"
       },
       "keyRulers": {
         "value": "Ludwig I and Ludwig II of Bavaria. Kings of Saxony and Hanover.",
@@ -276,10 +276,10 @@
         "source": "Wikipedia: German Confederation"
       },
       "majorWars": {
-        "value": "Napoleonic Wars; Austro-Prussian War (1866).",
+        "value": "The Austro-Prussian War (1866) ended the Confederation.",
         "year": 1866,
         "certainty": "confirmed",
-        "source": "Wikipedia: German Confederation"
+        "source": "Wikipedia: German Confederation (checked 12 Nov 2026)"
       },
       "territoryChange": {
         "value": "Hundreds of states merged into about 39 (1803–15).",
@@ -380,10 +380,10 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Peace of Westphalia gave states more power (1648).",
-        "year": 1648,
+        "value": "Established by the Ninth Act of the Congress of Vienna on 8 June 1815. The Peace of Westphalia is not mentioned in the article.",
+        "year": 1815,
         "certainty": "confirmed",
-        "source": "Wikipedia: German Confederation"
+        "source": "Wikipedia: German Confederation (checked 12 Nov 2026)"
       },
       "peakPeriod": {
         "value": "Cultural golden age (1770–1830).",
@@ -398,10 +398,10 @@
         "source": "Wikipedia: German Confederation"
       },
       "outcome": {
-        "value": "Joined the German Empire (1871).",
-        "year": 1871,
+        "value": "Dissolved after the Austro-Prussian War; the Peace of Prague (23 August 1866) recognised its dissolution. The German Empire was proclaimed in 1871 (the article gives 1 or 18 January).",
+        "year": 1866,
         "certainty": "confirmed",
-        "source": "Wikipedia: German Confederation"
+        "source": "Wikipedia: German Confederation (checked 12 Nov 2026)"
       }
     },
     "dataQuality": {
