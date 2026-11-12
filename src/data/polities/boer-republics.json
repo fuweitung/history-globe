@@ -46,10 +46,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Highveld of South Africa.",
+        "value": "The Transvaal lay north of the Vaal River; the article gives no location for the Orange Free State.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Boer republics"
+        "source": "Wikipedia: Boer republics (checked 12 Nov 2026)"
       },
       "terrain": {
         "value": "Grassland plateau.",
@@ -64,10 +64,10 @@
         "source": "Wikipedia: Boer republics"
       },
       "resources": {
-        "value": "Gold (1886), diamonds, cattle.",
-        "year": 1886,
+        "value": "Gold: the article mentions gold discoveries but gives no discovery year.",
+        "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Boer republics"
+        "source": "Wikipedia: Boer republics (checked 12 Nov 2026)"
       },
       "disasters": {
         "value": "Droughts; rinderpest.",
@@ -78,10 +78,10 @@
     },
     "population": {
       "population": {
-        "value": "About 300,000 Boers and a much larger African population.",
+        "value": "No overall figure is given; the article has a 16,000-person delegation (1852–53) and about 300 Voortrekkers at Blood River.",
         "year": null,
         "certainty": "estimated",
-        "source": "Wikipedia: Boer republics"
+        "source": "Wikipedia: Boer republics (checked 12 Nov 2026)"
       },
       "urbanisation": {
         "value": "Mostly villages; a royal capital and market towns.",
@@ -160,10 +160,10 @@
         "source": "Wikipedia: Boer republics"
       },
       "stability": {
-        "value": "British annexation of the Transvaal (1877–81).",
+        "value": "The article’s state list shows the South African Republic absent from 1877 to 1881; the text does not explain the gap.",
         "year": 1877,
         "certainty": "confirmed",
-        "source": "Wikipedia: Boer republics"
+        "source": "Wikipedia: Boer republics (checked 12 Nov 2026)"
       },
       "eliteConflict": {
         "value": "Boers and uitlanders.",
@@ -180,16 +180,16 @@
         "source": "Wikipedia: Boer republics"
       },
       "majorWars": {
-        "value": "First (1880–81) and Second Boer War (1899–1902).",
+        "value": "First Boer War (dates not given in the article read) and Second Boer War (1899–1902).",
         "year": 1899,
         "certainty": "confirmed",
-        "source": "Wikipedia: Boer republics"
+        "source": "Wikipedia: Boer republics (checked 12 Nov 2026)"
       },
       "territoryChange": {
-        "value": "Annexed by Britain (1900–02).",
+        "value": "Both republics were defeated and annexed; they ceased to exist on 31 May 1902 with the Treaty of Vereeniging.",
         "year": 1902,
         "certainty": "confirmed",
-        "source": "Wikipedia: Boer republics"
+        "source": "Wikipedia: Boer republics (checked 12 Nov 2026)"
       },
       "alliancesRivals": {
         "value": "Opposed to Britain.",
@@ -226,16 +226,16 @@
     },
     "culture": {
       "religion": {
-        "value": "Dutch Reformed Church.",
+        "value": "Membership of the Dutch Reformed Church was required for citizenship in the South African Republic.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Boer republics"
+        "source": "Wikipedia: Boer republics (checked 12 Nov 2026)"
       },
       "languageWriting": {
-        "value": "Dutch and Afrikaans.",
+        "value": "Dutch. The article describes British language laws that made English the only official language of the Cape Colony and banned Dutch.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Boer republics"
+        "source": "Wikipedia: Boer republics (checked 12 Nov 2026)"
       },
       "artsArchitecture": {
         "value": "Farmhouses; Pretoria Raadsaal.",
@@ -270,24 +270,24 @@
         "source": "Wikipedia: Boer republics"
       },
       "ideasReligions": {
-        "value": "Calvinism; Afrikaner nationalism.",
-        "year": null,
+        "value": "Dutch Calvinist churches, approved by the Volksraad in 1858.",
+        "year": 1858,
         "certainty": "confirmed",
-        "source": "Wikipedia: Boer republics"
+        "source": "Wikipedia: Boer republics (checked 12 Nov 2026)"
       },
       "colonisation": {
-        "value": "British conquest (1902).",
+        "value": "Defeated and annexed in the Second Boer War; both republics ended on 31 May 1902.",
         "year": 1902,
         "certainty": "confirmed",
-        "source": "Wikipedia: Boer republics"
+        "source": "Wikipedia: Boer republics (checked 12 Nov 2026)"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Sand River Convention (1852).",
+        "value": "The Sand River Convention, signed 17 January 1852, recognised the Transvaal.",
         "year": 1852,
         "certainty": "confirmed",
-        "source": "Wikipedia: Boer republics"
+        "source": "Wikipedia: Boer republics (checked 12 Nov 2026)"
       },
       "peakPeriod": {
         "value": "Gold boom under Kruger (1886–99).",
@@ -299,13 +299,13 @@
         "value": "Second Boer War (1899–1902).",
         "year": 1899,
         "certainty": "confirmed",
-        "source": "Wikipedia: Boer republics"
+        "source": "Wikipedia: Boer republics (checked 12 Nov 2026)"
       },
       "outcome": {
-        "value": "Part of the Union of South Africa (1910).",
+        "value": "Incorporated into the Union of South Africa in 1910, under the South Africa Act 1909.",
         "year": 1910,
         "certainty": "confirmed",
-        "source": "Wikipedia: Boer republics"
+        "source": "Wikipedia: Boer republics (checked 12 Nov 2026)"
       }
     },
     "dataQuality": {
