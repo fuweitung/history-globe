@@ -41,10 +41,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Central Africa: Bioko Island and Río Muni on the mainland; about 28,000 km².",
+        "value": "Central Africa: Bioko Island, Annobón and the mainland Río Muni; about 28,000 km².",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Equatorial Guinea"
+        "source": "Wikipedia: Equatorial Guinea (checked 12 Nov 2026)"
       },
       "terrain": {
         "value": "Volcanic island and rainforest.",
@@ -65,18 +65,18 @@
         "source": "Wikipedia: Equatorial Guinea"
       },
       "disasters": {
-        "value": "Bata explosions (2021).",
+        "value": "Bata explosions on 7 March 2021 at a military base, with 107 deaths.",
         "year": 2021,
         "certainty": "confirmed",
-        "source": "Wikipedia: Equatorial Guinea"
+        "source": "Wikipedia: Equatorial Guinea (checked 12 Nov 2026)"
       }
     },
     "population": {
       "population": {
-        "value": "About 1.7 million.",
-        "year": 2024,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Equatorial Guinea"
+        "value": "About 1.85 million (2025, main text); the infobox gives 1.80 million.",
+        "year": 2025,
+        "certainty": "disputed",
+        "source": "Wikipedia: Equatorial Guinea (checked 12 Nov 2026)"
       },
       "urbanisation": {
         "value": "Malabo and Bata.",
@@ -111,22 +111,22 @@
         "source": "Wikipedia: Equatorial Guinea"
       },
       "wealth": {
-        "value": "High income per person on paper, but most people are poor.",
-        "year": null,
-        "certainty": "disputed",
-        "source": "Wikipedia: Equatorial Guinea"
+        "value": "Wealth is very unevenly distributed and few people benefit from oil revenue; a 2016 UN figure says 70% of people live on about one dollar a day.",
+        "year": 2016,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Equatorial Guinea (checked 12 Nov 2026)"
       },
       "moneyAndTax": {
-        "value": "The Central African CFA franc, pegged to the euro.",
-        "year": null,
+        "value": "The Central African CFA franc (XAF); the country joined the franc zone on 1 January 1985. The article mentions no euro peg.",
+        "year": 1985,
         "certainty": "confirmed",
-        "source": "Wikipedia: Equatorial Guinea"
+        "source": "Wikipedia: Equatorial Guinea (checked 12 Nov 2026)"
       },
       "inequality": {
-        "value": "Large gaps between the capital and rural areas.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Equatorial Guinea"
+        "value": "Wealth inequality is high; the Gini figures conflict (38.5 in the infobox, 58.8 in the text, both for 2022).",
+        "year": 2022,
+        "certainty": "disputed",
+        "source": "Wikipedia: Equatorial Guinea (checked 12 Nov 2026)"
       }
     },
     "politics": {
@@ -137,28 +137,28 @@
         "source": "Wikipedia: Equatorial Guinea"
       },
       "keyRulers": {
-        "value": "Francisco Macías Nguema. Teodoro Obiang (since 1979).",
-        "year": 1979,
+        "value": "Francisco Macías Nguema (elected 1968; declared president for life in 1972). Teodoro Obiang Nguema Mbasogo (deposed his uncle on 3 August 1979).",
+        "year": 1968,
         "certainty": "confirmed",
-        "source": "Wikipedia: Equatorial Guinea"
+        "source": "Wikipedia: Equatorial Guinea (checked 12 Nov 2026)"
       },
       "succession": {
-        "value": "Coup (1979).",
-        "year": null,
+        "value": "Obiang deposed Macías on 3 August 1979; Macías was captured, tried and executed.",
+        "year": 1979,
         "certainty": "confirmed",
-        "source": "Wikipedia: Equatorial Guinea"
+        "source": "Wikipedia: Equatorial Guinea (checked 12 Nov 2026)"
       },
       "institutions": {
-        "value": "Weak.",
+        "value": "An authoritarian, sultanist government (the article does not describe institutions as weak).",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Equatorial Guinea"
+        "source": "Wikipedia: Equatorial Guinea (checked 12 Nov 2026)"
       },
       "stability": {
-        "value": "Terror under Macías Nguema (1968–79).",
+        "value": "Terror under Macías Nguema: opposition parties were outlawed in July 1970; a 1974 World Council of Churches statement put killings at about 80,000.",
         "year": 1970,
         "certainty": "confirmed",
-        "source": "Wikipedia: Equatorial Guinea"
+        "source": "Wikipedia: Equatorial Guinea (checked 12 Nov 2026)"
       },
       "eliteConflict": {
         "value": "Competition between political parties and leaders.",
@@ -227,10 +227,10 @@
         "source": "Wikipedia: Equatorial Guinea"
       },
       "languageWriting": {
-        "value": "Spanish, French, Portuguese; Fang, Bubi.",
+        "value": "Spanish (official since 1844), French (added 1998) and Portuguese (added 2010); Fang and Bubi are recognised regional languages.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Equatorial Guinea"
+        "source": "Wikipedia: Equatorial Guinea (checked 12 Nov 2026)"
       },
       "artsArchitecture": {
         "value": "Fang art.",
@@ -239,10 +239,10 @@
         "source": "Wikipedia: Equatorial Guinea"
       },
       "socialStructure": {
-        "value": "Fang, Bubi and others.",
-        "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Equatorial Guinea"
+        "value": "Fang are the largest group (80% in the text, 85.7% in the infobox); Bubi are indigenous to Bioko (15% in the text, 6.5% in the infobox).",
+        "year": 2020,
+        "certainty": "disputed",
+        "source": "Wikipedia: Equatorial Guinea (checked 12 Nov 2026)"
       },
       "sharedIdentity": {
         "value": "National identity.",
@@ -271,18 +271,18 @@
         "source": "Wikipedia: Equatorial Guinea"
       },
       "colonisation": {
-        "value": "A Spanish colony until 1968.",
+        "value": "Spain took possession of Bioko in 1778 under the Treaty of El Pardo; independence on 12 October 1968.",
         "year": 1778,
         "certainty": "confirmed",
-        "source": "Wikipedia: Equatorial Guinea"
+        "source": "Wikipedia: Equatorial Guinea (checked 12 Nov 2026)"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Independence (1968).",
+        "value": "Independence on 12 October 1968.",
         "year": 1968,
         "certainty": "confirmed",
-        "source": "Wikipedia: Equatorial Guinea"
+        "source": "Wikipedia: Equatorial Guinea (checked 12 Nov 2026)"
       },
       "peakPeriod": {
         "value": "Too recent to judge.",

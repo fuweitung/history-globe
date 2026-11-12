@@ -40,10 +40,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "The Horn of Africa on the Red Sea; about 118,000 km².",
+        "value": "The Horn of Africa, bordering the Red Sea; about 117,600 km² (text) or 120,000 km² (infobox).",
         "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Eritrea"
+        "certainty": "disputed",
+        "source": "Wikipedia: Eritrea (checked 12 Nov 2026)"
       },
       "terrain": {
         "value": "Highlands and hot coastal plains.",
@@ -58,10 +58,10 @@
         "source": "Wikipedia: Eritrea"
       },
       "resources": {
-        "value": "Gold, copper, potash.",
+        "value": "Gold and silver (Bisha Mine), copper, zinc and Colluli potash.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Eritrea"
+        "source": "Wikipedia: Eritrea (checked 12 Nov 2026)"
       },
       "disasters": {
         "value": "Droughts.",
@@ -72,10 +72,10 @@
     },
     "population": {
       "population": {
-        "value": "About 3.5–6 million (no recent census).",
-        "year": null,
+        "value": "Sources disagree; Eritrea has never conducted an official government census (infobox: 3.5–6.4 million, 2024).",
+        "year": 2024,
         "certainty": "estimated",
-        "source": "Wikipedia: Eritrea"
+        "source": "Wikipedia: Eritrea (checked 12 Nov 2026)"
       },
       "urbanisation": {
         "value": "Asmara.",
@@ -110,10 +110,10 @@
         "source": "Wikipedia: Eritrea"
       },
       "wealth": {
-        "value": "A low-income country.",
+        "value": "Not stated as an income group in the article read; HDI 0.503, rated “low” (178th).",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Eritrea"
+        "source": "Wikipedia: Eritrea (checked 12 Nov 2026)"
       },
       "moneyAndTax": {
         "value": "The nakfa.",
@@ -130,22 +130,22 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A one-party state; no elections held.",
+        "value": "A one-party state: the PFDJ is the only legal party.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Eritrea"
+        "source": "Wikipedia: Eritrea (checked 12 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Isaias Afwerki (since 1993).",
+        "value": "Isaias Afwerki has been in office since independence in 1993.",
         "year": 1993,
         "certainty": "confirmed",
-        "source": "Wikipedia: Eritrea"
+        "source": "Wikipedia: Eritrea (checked 12 Nov 2026)"
       },
       "succession": {
-        "value": "No elections since independence.",
+        "value": "National elections have never been held.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Eritrea"
+        "source": "Wikipedia: Eritrea (checked 12 Nov 2026)"
       },
       "institutions": {
         "value": "Very weak.",
@@ -168,28 +168,28 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Large army.",
+        "value": "One of the largest armed forces in Africa.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Eritrea"
+        "source": "Wikipedia: Eritrea (checked 12 Nov 2026)"
       },
       "majorWars": {
-        "value": "Eritrean War of Independence (1961–91); war with Ethiopia (1998–2000).",
-        "year": 1998,
+        "value": "Eritrean War of Independence (began 1 September 1961; de facto independence 1991). Eritrean–Ethiopian War (1998–2000; about 70,000 deaths).",
+        "year": 1961,
         "certainty": "confirmed",
-        "source": "Wikipedia: Eritrea"
+        "source": "Wikipedia: Eritrea (checked 12 Nov 2026)"
       },
       "territoryChange": {
-        "value": "Independence from Ethiopia (1993).",
-        "year": null,
+        "value": "De facto independence 24 May 1991; de jure independence 24 May 1993; admitted to the UN on 28 May 1993.",
+        "year": 1993,
         "certainty": "confirmed",
-        "source": "Wikipedia: Eritrea"
+        "source": "Wikipedia: Eritrea (checked 12 Nov 2026)"
       },
       "alliancesRivals": {
-        "value": "Peace with Ethiopia (2018).",
-        "year": null,
+        "value": "A peace treaty with Ethiopia was signed on 9 July 2018.",
+        "year": 2018,
         "certainty": "confirmed",
-        "source": "Wikipedia: Eritrea"
+        "source": "Wikipedia: Eritrea (checked 12 Nov 2026)"
       }
     },
     "technology": {
@@ -226,16 +226,16 @@
         "source": "Wikipedia: Eritrea"
       },
       "languageWriting": {
-        "value": "Tigrinya, Arabic, English.",
+        "value": "Tigrinya, Arabic and English are the three working languages; Eritrea has no official language.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Eritrea"
+        "source": "Wikipedia: Eritrea (checked 12 Nov 2026)"
       },
       "artsArchitecture": {
-        "value": "Italian modernism.",
-        "year": null,
+        "value": "Art deco architecture in Asmara: more than 400 Italian-designed buildings; UNESCO World Heritage status in 2017.",
+        "year": 2017,
         "certainty": "confirmed",
-        "source": "Wikipedia: Eritrea"
+        "source": "Wikipedia: Eritrea (checked 12 Nov 2026)"
       },
       "socialStructure": {
         "value": "Nine ethnic groups.",
@@ -270,18 +270,18 @@
         "source": "Wikipedia: Eritrea"
       },
       "colonisation": {
-        "value": "An Italian colony (1890–1941), then British administration.",
+        "value": "Italian colony from 1890 (proclaimed 1889). The article says Italian rule continued until 1942, followed by British administration until 1950.",
         "year": 1890,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Eritrea"
+        "certainty": "disputed",
+        "source": "Wikipedia: Eritrea (checked 12 Nov 2026)"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Independence (1993).",
-        "year": 1993,
+        "value": "De facto independence on 24 May 1991; de jure independence on 24 May 1993.",
+        "year": 1991,
         "certainty": "confirmed",
-        "source": "Wikipedia: Eritrea"
+        "source": "Wikipedia: Eritrea (checked 12 Nov 2026)"
       },
       "peakPeriod": {
         "value": "Too recent to judge.",
