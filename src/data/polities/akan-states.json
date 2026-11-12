@@ -45,10 +45,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Forest and coast of Ghana.",
+        "value": "Ghana and parts of Côte d'Ivoire in West Africa.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Akan people"
+        "source": "Wikipedia: Akan people (checked 12 Nov 2026)"
       },
       "terrain": {
         "value": "Rainforest and coast.",
@@ -77,10 +77,10 @@
     },
     "population": {
       "population": {
-        "value": "Uncertain.",
+        "value": "About 25 million (estimate given in the article's infobox).",
         "year": null,
         "certainty": "estimated",
-        "source": "Wikipedia: Akan people"
+        "source": "Wikipedia: Akan people (checked 12 Nov 2026)"
       },
       "urbanisation": {
         "value": "Mostly villages; a royal capital and market towns.",
@@ -103,16 +103,16 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Gold mining and trade; farming.",
+        "value": "Gold was the backbone of Bono's economy; farming.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Akan people"
+        "source": "Wikipedia: Akan people (checked 12 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "North to Mali; south to European forts.",
+        "value": "Bono and Begho were linked to trans-Saharan trade (gold, kola and ivory).",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Akan people"
+        "source": "Wikipedia: Akan people (checked 12 Nov 2026)"
       },
       "wealth": {
         "value": "Gold wealth.",
@@ -121,10 +121,10 @@
         "source": "Wikipedia: Akan people"
       },
       "moneyAndTax": {
-        "value": "Gold dust as money.",
+        "value": "Not stated in the article read; gold was central to Bono's economy.",
         "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Akan people"
+        "certainty": "estimated",
+        "source": "Wikipedia: Akan people (checked 12 Nov 2026)"
       },
       "inequality": {
         "value": "Rulers and nobles above free farmers; enslaved people at the bottom.",
@@ -147,10 +147,10 @@
         "source": "Wikipedia: Akan people"
       },
       "succession": {
-        "value": "Matrilineal.",
+        "value": "Royal succession and property inheritance follow the female line (matrilineal).",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Akan people"
+        "source": "Wikipedia: Akan people (checked 12 Nov 2026)"
       },
       "institutions": {
         "value": "Stools as symbols of office.",
@@ -179,16 +179,16 @@
         "source": "Wikipedia: Akan people"
       },
       "majorWars": {
-        "value": "Asante defeats Denkyira (1701).",
+        "value": "Asante defeated Denkyira at Feyiase (1701).",
         "year": 1701,
         "certainty": "confirmed",
-        "source": "Wikipedia: Akan people"
+        "source": "Wikipedia: Akan people (checked 12 Nov 2026)"
       },
       "territoryChange": {
-        "value": "Asante absorbed most of them.",
-        "year": null,
+        "value": "Asante overran Bono in 1722–23 and absorbed much of the region.",
+        "year": 1722,
         "certainty": "confirmed",
-        "source": "Wikipedia: Akan people"
+        "source": "Wikipedia: Akan people (checked 12 Nov 2026)"
       },
       "alliancesRivals": {
         "value": "Fante allied with Britain.",
@@ -225,10 +225,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Akan religion (Nyame and ancestors).",
+        "value": "Akan religion alongside Christianity and Islam: God, the deity Bona, and ancestor veneration.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Akan people"
+        "source": "Wikipedia: Akan people (checked 12 Nov 2026)"
       },
       "languageWriting": {
         "value": "Twi and Fante.",
@@ -237,10 +237,10 @@
         "source": "Wikipedia: Akan people"
       },
       "artsArchitecture": {
-        "value": "Gold regalia; Adinkra symbols.",
+        "value": "Gold regalia, including the Golden Stool, and Asafo flags.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Akan people"
+        "source": "Wikipedia: Akan people (checked 12 Nov 2026)"
       },
       "socialStructure": {
         "value": "Matrilineal clans.",
@@ -275,24 +275,24 @@
         "source": "Wikipedia: Akan people"
       },
       "colonisation": {
-        "value": "British Gold Coast Colony (1874).",
-        "year": 1874,
+        "value": "Asante was incorporated into the British colony by 1901; the article gives no founding date for the Gold Coast Colony.",
+        "year": 1901,
         "certainty": "confirmed",
-        "source": "Wikipedia: Akan people"
+        "source": "Wikipedia: Akan people (checked 12 Nov 2026)"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Bono state by about 1400.",
+        "value": "Bono Manso consolidated into a polity between the 11th and 13th centuries.",
         "year": null,
         "certainty": "estimated",
-        "source": "Wikipedia: Akan people"
+        "source": "Wikipedia: Akan people (checked 12 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Akwamu and Denkyira (1600s).",
-        "year": 1650,
+        "value": "Akwamu and Denkyira were dominant in the late 17th century; Akwamu took Accra by 1681.",
+        "year": 1681,
         "certainty": "confirmed",
-        "source": "Wikipedia: Akan people"
+        "source": "Wikipedia: Akan people (checked 12 Nov 2026)"
       },
       "declineSignals": {
         "value": "Rise of Asante (1701).",
@@ -301,10 +301,10 @@
         "source": "Wikipedia: Akan people"
       },
       "outcome": {
-        "value": "Absorbed by Asante or the British Gold Coast.",
-        "year": 1874,
+        "value": "Absorbed by Asante or the British Gold Coast (Asante under British control by 1901).",
+        "year": 1901,
         "certainty": "confirmed",
-        "source": "Wikipedia: Akan people"
+        "source": "Wikipedia: Akan people (checked 12 Nov 2026)"
       }
     },
     "dataQuality": {

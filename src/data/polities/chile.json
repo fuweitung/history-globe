@@ -41,10 +41,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "A long, narrow strip between the Andes and the Pacific, over 4,300 km from north to south.",
+        "value": "Long, narrow country on South America's Pacific coast.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Chile (checked 8 Nov 2026)"
+        "source": "Wikipedia: Chile (checked 12 Nov 2026)"
       },
       "terrain": {
         "value": "The Atacama Desert in the north, the Andes along the east, and fjords along the southern coast.",
@@ -131,10 +131,10 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A presidential republic.",
-        "year": null,
+        "value": "A presidential republic under the 1981 constitution (in force 11 March 1981). The republic was declared in 1818.",
+        "year": 1981,
         "certainty": "confirmed",
-        "source": "Wikipedia: Chile"
+        "source": "Wikipedia: Chile (checked 12 Nov 2026)"
       },
       "keyRulers": {
         "value": "Bernardo O’Higgins. Salvador Allende. Augusto Pinochet. Michelle Bachelet.",
@@ -149,10 +149,10 @@
         "source": "Wikipedia: Chile (checked 8 Nov 2026)"
       },
       "institutions": {
-        "value": "Congress, courts.",
+        "value": "A bicameral National Congress (Senate and Chamber of Deputies), a Constitutional Court and a Supreme Court.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Chile"
+        "source": "Wikipedia: Chile (checked 12 Nov 2026)"
       },
       "stability": {
         "value": "Military dictatorship under Pinochet (1973–90), with more than 3,000 deaths and disappearances.",
@@ -169,10 +169,10 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "A professional army and navy.",
+        "value": "Described as among the most professional armies in Latin America.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Chile"
+        "source": "Wikipedia: Chile (checked 12 Nov 2026)"
       },
       "majorWars": {
         "value": "War of the Pacific (1879–83) against Peru and Bolivia.",
@@ -207,10 +207,10 @@
         "source": "Wikipedia: Chile"
       },
       "openness": {
-        "value": "Very open to trade.",
-        "year": null,
+        "value": "Free-trade agreement with the United States signed in 2003.",
+        "year": 2003,
         "certainty": "confirmed",
-        "source": "Wikipedia: Chile"
+        "source": "Wikipedia: Chile (checked 12 Nov 2026)"
       },
       "communicationTransport": {
         "value": "A railway system; the Santiago Metro (1975).",
@@ -279,22 +279,22 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Independence in 1818.",
+        "value": "The republic was declared in 1818.",
         "year": 1818,
         "certainty": "confirmed",
-        "source": "Wikipedia: Chile (checked 8 Nov 2026)"
+        "source": "Wikipedia: Chile (checked 12 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Growth after 1990.",
-        "year": 1995,
-        "certainty": "estimated",
-        "source": "Wikipedia: Chile"
+        "value": "Poverty fell from 45.1% (1987) to 11.5% (2009).",
+        "year": 1987,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile (checked 12 Nov 2026)"
       },
       "declineSignals": {
-        "value": "Political crises.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Chile"
+        "value": "Protests in 2019–22 led to a constitutional process.",
+        "year": 2019,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Chile (checked 12 Nov 2026)"
       },
       "outcome": {
         "value": "Still in existence.",
