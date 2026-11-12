@@ -50,10 +50,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Western Europe; about 550,000 km², much larger at its peak (1812).",
-        "year": null,
+        "value": "Western Europe; the infobox gives 3,000,000 km² for 1800, including colonies.",
+        "year": 1800,
         "certainty": "confirmed",
-        "source": "Wikipedia: French First Republic"
+        "source": "Wikipedia: French First Republic (checked 12 Nov 2026)"
       },
       "terrain": {
         "value": "Plains, Massif Central, Alps, Pyrenees.",
@@ -82,10 +82,10 @@
     },
     "population": {
       "population": {
-        "value": "About 29 million.",
+        "value": "About 29 million in 1800, not including colonies.",
         "year": 1800,
         "certainty": "confirmed",
-        "source": "Wikipedia: French First Republic"
+        "source": "Wikipedia: French First Republic (checked 12 Nov 2026)"
       },
       "urbanisation": {
         "value": "Paris about 550,000.",
@@ -120,10 +120,10 @@
         "source": "Wikipedia: French First Republic"
       },
       "wealth": {
-        "value": "Church and noble land sold off.",
+        "value": "The article read does not cover the sale of Church and noble land.",
         "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: French First Republic"
+        "certainty": "estimated",
+        "source": "Wikipedia: French First Republic (checked 12 Nov 2026)"
       },
       "moneyAndTax": {
         "value": "Assignats, then the franc (1795) and Bank of France (1800).",
@@ -140,10 +140,10 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Republic (1792), Consulate (1799), Empire (1804), restored monarchy (1814).",
+        "value": "Republic (21 September 1792), Directory (3 November 1795), Consulate (after the 18 Brumaire coup, 9 November 1799), Empire (18 May 1804).",
         "year": 1804,
         "certainty": "confirmed",
-        "source": "Wikipedia: French First Republic"
+        "source": "Wikipedia: French First Republic (checked 12 Nov 2026)"
       },
       "keyRulers": {
         "value": "Robespierre. Napoleon Bonaparte. Louis XVIII. Charles X.",
@@ -164,10 +164,10 @@
         "source": "Wikipedia: French First Republic"
       },
       "stability": {
-        "value": "Reign of Terror (1793–94); coups.",
+        "value": "Reign of Terror, 10 March 1793 to 27 July 1794; Louis XVI was executed on 21 January 1793.",
         "year": 1793,
         "certainty": "confirmed",
-        "source": "Wikipedia: French First Republic"
+        "source": "Wikipedia: French First Republic (checked 12 Nov 2026)"
       },
       "eliteConflict": {
         "value": "Revolutionary factions; royalists against republicans.",
@@ -288,10 +288,10 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Monarchy abolished (1792).",
+        "value": "The monarchy was abolished on 21 September 1792; the Republic was declared on 25 September 1792.",
         "year": 1792,
         "certainty": "confirmed",
-        "source": "Wikipedia: French First Republic"
+        "source": "Wikipedia: French First Republic (checked 12 Nov 2026)"
       },
       "peakPeriod": {
         "value": "Napoleon’s Empire (1804–12).",
@@ -306,10 +306,10 @@
         "source": "Wikipedia: French First Republic"
       },
       "outcome": {
-        "value": "July Revolution (1830) brought the July Monarchy.",
-        "year": 1830,
+        "value": "Napoleon took power in the 18 Brumaire coup and, on 18 May 1804, was proclaimed Emperor, ending the First Republic.",
+        "year": 1804,
         "certainty": "confirmed",
-        "source": "Wikipedia: French First Republic"
+        "source": "Wikipedia: French First Republic (checked 12 Nov 2026)"
       }
     },
     "dataQuality": {
