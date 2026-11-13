@@ -44,31 +44,31 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "North-west Russia to the Urals.",
+        "value": "North-west Russia, from the Baltic region to the White Sea and the Ural Mountains.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Novgorod Republic"
       },
       "terrain": {
-        "value": "Forests and lakes.",
+        "value": "Forests, marshes, lakes and rivers, with the city on the Volkhov River near Lake Ilmen.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Novgorod Republic"
       },
       "climate": {
-        "value": "Cold.",
+        "value": "Cold winters and short, cool summers; poor soil for grain.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Novgorod Republic"
       },
       "resources": {
-        "value": "Furs, wax, timber.",
+        "value": "Furs, wax, honey, timber, fish and salt from the vast northern forests.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Novgorod Republic"
       },
       "disasters": {
-        "value": "Famines and fires.",
+        "value": "Famines when grain imports failed, such as the famine of 1230, and great fires in the wooden city.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Novgorod Republic"
@@ -76,7 +76,7 @@
     },
     "population": {
       "population": {
-        "value": "Novgorod city about 30,000.",
+        "value": "The city may have had 20,000–30,000 people; the lands it ruled were thinly settled.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Novgorod Republic"
@@ -94,7 +94,7 @@
         "source": "Wikipedia: Novgorod Republic"
       },
       "migration": {
-        "value": "Settlers moved to the far north.",
+        "value": "Settlers and fur traders moved into the far north and towards the Urals.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Novgorod Republic"
@@ -102,31 +102,31 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Fur trade.",
+        "value": "Trade in furs and forest goods; grain was imported from the south.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Novgorod Republic"
       },
       "tradeRoutes": {
-        "value": "Hanseatic trade (Peterhof).",
+        "value": "Trade with the Hanseatic League through its office (the Peterhof) in Novgorod; rivers linked the city to the north and south.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Novgorod Republic"
       },
       "wealth": {
-        "value": "Merchant wealth.",
+        "value": "Rich boyar and merchant families grew wealthy from the fur trade.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Novgorod Republic"
       },
       "moneyAndTax": {
-        "value": "Silver bars (grivna).",
+        "value": "Silver bars (grivnas) and later coins; tribute in furs was collected from northern peoples.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Novgorod Republic"
       },
       "inequality": {
-        "value": "Boyars and merchants over commoners.",
+        "value": "A small group of boyar families dominated; merchants were next; artisans and peasants had less say.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Novgorod Republic"
@@ -140,31 +140,31 @@
         "source": "Wikipedia: Novgorod Republic"
       },
       "keyRulers": {
-        "value": "Alexander Nevsky (prince).",
-        "year": 1236,
+        "value": "Alexander Nevsky, an invited prince who defeated the Swedes (1240) and the Teutonic knights (1242).",
+        "year": 1240,
         "certainty": "confirmed",
         "source": "Wikipedia: Novgorod Republic"
       },
       "succession": {
-        "value": "Princes invited and dismissed.",
+        "value": "Princes were invited by the city and could be dismissed; elected officials (posadniki) ran the city.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Novgorod Republic"
       },
       "institutions": {
-        "value": "Veche; archbishop.",
+        "value": "The veche (town assembly), the elected posadnik, and the archbishop, who was chosen by lot.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Novgorod Republic"
       },
       "stability": {
-        "value": "Factional conflict.",
+        "value": "Often troubled by feuds between boyar factions, but the republic lasted over three centuries.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Novgorod Republic"
       },
       "eliteConflict": {
-        "value": "Boyar families.",
+        "value": "Rival boyar families and city districts competed for the office of posadnik.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Novgorod Republic"
@@ -172,7 +172,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Militia and princely troops.",
+        "value": "A city militia plus the invited prince’s troops; river boats for raids into the north.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Novgorod Republic"
@@ -184,13 +184,13 @@
         "source": "Wikipedia: Novgorod Republic"
       },
       "territoryChange": {
-        "value": "Lost to Moscow.",
-        "year": null,
+        "value": "Annexed by Ivan III of Moscow (1478), who took the veche bell to Moscow.",
+        "year": 1478,
         "certainty": "confirmed",
         "source": "Wikipedia: Novgorod Republic"
       },
       "alliancesRivals": {
-        "value": "Moscow, Lithuania, Teutonic Order.",
+        "value": "Moscow, Tver, Lithuania, Sweden and the Teutonic Order; paid tribute to the Golden Horde but was never sacked by it.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Novgorod Republic"
@@ -204,7 +204,7 @@
         "source": "Wikipedia: Novgorod Republic"
       },
       "scienceEducation": {
-        "value": "High literacy (birch-bark letters).",
+        "value": "High literacy among townspeople, known from over a thousand letters written on birch bark.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Novgorod Republic"
@@ -216,7 +216,7 @@
         "source": "Wikipedia: Novgorod Republic"
       },
       "communicationTransport": {
-        "value": "Roads, rivers and coastal shipping.",
+        "value": "Rivers and portages in summer, sledges on frozen rivers in winter; wooden streets in the city.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Novgorod Republic"
@@ -224,31 +224,31 @@
     },
     "culture": {
       "religion": {
-        "value": "Orthodox Christian.",
+        "value": "Orthodox Christianity, centred on the Cathedral of St Sophia.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Novgorod Republic"
       },
       "languageWriting": {
-        "value": "Old Novgorod dialect.",
+        "value": "Old Russian, with a distinct Old Novgorod dialect known from birch-bark letters.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Novgorod Republic"
       },
       "artsArchitecture": {
-        "value": "Icons and churches.",
+        "value": "The Cathedral of St Sophia (1045–50), many stone churches, and the Novgorod school of icon painting.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Novgorod Republic"
       },
       "socialStructure": {
-        "value": "Boyars, merchants, artisans.",
+        "value": "Boyars, merchants, artisans, clergy and peasants, with slaves at the bottom.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Novgorod Republic"
       },
       "sharedIdentity": {
-        "value": "Loyalty to the ruler, faith and region.",
+        "value": "Pride in “Lord Novgorod the Great”, its freedoms and its cathedral.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Novgorod Republic"
@@ -262,19 +262,19 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Moscow, Pskov, Lithuania, Sweden.",
+        "value": "Moscow, Tver, Pskov, Lithuania, Sweden and the Livonian Order.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Novgorod Republic"
       },
       "ideasReligions": {
-        "value": "Orthodoxy.",
+        "value": "Orthodox Christianity, with movements such as the Strigolniki who criticised the clergy.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Novgorod Republic"
       },
       "colonisation": {
-        "value": "Northern lands.",
+        "value": "Expanded into the far north and towards the Urals, taking furs as tribute from Finnic and Ugric peoples.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Novgorod Republic"
@@ -282,19 +282,19 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Republic (1136).",
+        "value": "The city expelled its prince in 1136 and began to choose its own princes.",
         "year": 1136,
         "certainty": "confirmed",
         "source": "Wikipedia: Novgorod Republic"
       },
       "peakPeriod": {
-        "value": "1200s–1300s.",
+        "value": "The 1200s–1300s, when Novgorod led trade with the Hanseatic League.",
         "year": 1300,
         "certainty": "confirmed",
         "source": "Wikipedia: Novgorod Republic"
       },
       "declineSignals": {
-        "value": "Defeat by Moscow (1471).",
+        "value": "Defeat by Moscow at the Battle of Shelon (1471).",
         "year": 1471,
         "certainty": "confirmed",
         "source": "Wikipedia: Novgorod Republic"

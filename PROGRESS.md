@@ -2,7 +2,7 @@
 
 How complete History Globe is. **The numbers are calculated by `npm run progress`**; run it after a change and commit the new file. Only the Roadmap section below is edited by hand.
 
-_Last updated: 2026-11-12_
+_Last updated: 2026-11-13_
 
 <!-- roadmap:start -->
 ## Roadmap
@@ -65,7 +65,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | · Modern | `████████████████████` 99% |  |
 | Civilisations shown on the map | `███████████████████░` 93% | 466 of 499; the rest fly to their capital |
 | Checklist filled in | `████████████████████` 100% | 21457 of 21457 items (499 × 43) |
-| Answers with real detail | `█████████████░░░░░░░` 66% | 6988 answers are still under 40 characters |
+| Answers with real detail | `█████████████░░░░░░░` 66% | 6855 answers are still under 40 characters |
 | Fact-checked against a source | `███████░░░░░░░░░░░░░` 36% | 7635 items say “(checked …)”; the rest still need a second look |
 | Civilisations with events | `████████████████████` 100% | 499 of 499 |
 | Civilisations with famous people | `██████████████░░░░░░` 72% | 357 of 499; many prehistoric cultures have no known names |
