@@ -12,6 +12,26 @@ _Generated 13 Nov 2026 from the current data. For a human reviewer; nothing here
 
 Mark the result at the end of each topic: **OK**, **Reword** (say how) or **Remove**.
 
+## First-pass review by Claude (13 Nov 2026)
+
+The owner asked Claude to do a first pass. Claude read the Wikipedia pages named below on 13 Nov 2026 and changed wording only where a page supported it. **This is not a sign-off:** Claude is not a regional or subject expert, and the reader should still check the items marked “open”. The topic sections below show the wording **before** these changes; the data files have the new wording.
+
+**Changed (source read 13 Nov 2026):**
+- China `colonisation` and Turkey `colonisation`: removed “According to Wikipedia…”; now state who reports what and give the government’s response (Wikipedia: Xinjiang re-education camps; Armenian genocide).
+- Armenian genocide event: “almost all historians and scholars outside Turkey” (as the page says); the 600,000–1.5 million range matches the page.
+- Israel/Nakba event: added that Israel’s own account calls the war its War of Independence (Wikipedia: Nakba).
+- First Opium War event: source added (it had none).
+- India `territoryChange`: Kashmir now says who administers what share (about 55% / 30% / 15%) and that wars followed (Wikipedia: Kashmir conflict).
+- Benin `colonisation`: now covers the looting, the British and critical accounts of the 1897 expedition, and the return debate (Wikipedia: Benin Bronzes).
+- Nanjing event: gives the range of estimates and notes denial by some in Japan (Wikipedia: Nanjing Massacre).
+- Herero and Nama: Herero deaths now 40,000–80,000 (the page; the old figure was 65,000); Germany’s 2015 acknowledgement and the controversial 2021 deal added; removed “first genocide of the 20th century”, which the page does not say.
+
+**Open (needs a person):**
+- British Empire `climate` still has no source. Native American displacement (US entry) and the Dutch colonial entry were not changed.
+- Israel `sharedIdentity` is still one short line; Tibet, Taiwan, Holodomor, slave-trade figures were not re-read.
+- Wikipedia is the only source for most of these. A historian or a second source should confirm the most sensitive claims (genocide wording, death tolls).
+- Not on the list but disputed: Hong Kong 2019–20, Crimea, Cyprus, Western Sahara, Nagorno-Karabakh, Rohingya.
+
 ## Points I noticed first (from reading the pack once; not a review)
 
 - **People’s Republic of China, `colonisation`** and **Republic of Turkey, `colonisation`:** both say “According to Wikipedia…” / “Wikipedia states…” about persecution and genocide. Attributing a claim to Wikipedia is weak. Better to name the underlying sources (UN reports, courts, historians) and the governments’ responses, or reword to state the facts and the disagreement directly.
