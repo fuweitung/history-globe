@@ -43,10 +43,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Yunnan in south-west China, centred on the Erhai Lake basin, reaching at times into Sichuan, Burma and northern Vietnam.",
+        "value": "Yunnan in China, with capitals in modern Dali City and its core around Lake Erhai.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+        "source": "Wikipedia: Nanzhao (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "High mountains and deep river gorges, with fertile lake basins such as Erhai and Dian (Kunming).",
@@ -75,10 +75,10 @@
     },
     "population": {
       "population": {
-        "value": "Perhaps one to two million, including the Bai, Yi and many other peoples.",
+        "value": "No total is given; most people were the more sinicised Baiman, and the ruling class was mostly Wuman.",
         "year": null,
         "certainty": "estimated",
-        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+        "source": "Wikipedia: Nanzhao (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Walled capitals beside Erhai Lake, first Taihe and then Yangjumie (Dali), and Tuodong (Kunming).",
@@ -101,10 +101,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Rice farming in the lake basins, horse breeding, salt production and trade.",
-        "year": null,
+        "value": "In 754 Nanzhao gained the salt marshes of Yanyuan County; the page does not describe rice farming or horse breeding as its base.",
+        "year": 754,
         "certainty": "confirmed",
-        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+        "source": "Wikipedia: Nanzhao (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Routes linking Sichuan with Burma and India; horses and tea were traded along what later became the Tea Horse Road.",
@@ -139,10 +139,10 @@
         "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
       },
       "keyRulers": {
-        "value": "Piluoge, who united the six kingdoms (738); Geluofeng, who defeated the Tang (751); Duan Siping, founder of Dali (937).",
-        "year": 937,
+        "value": "In 738 the Tang granted Piluoge the name Meng Guiyi and title Prince of Yunnan after he united the Six Zhaos; in 751 a Tang attack was defeated in the Tianbao War; Duan Siping seized power in 937 and founded the Dali Kingdom.",
+        "year": 738,
         "certainty": "confirmed",
-        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+        "source": "Wikipedia: Nanzhao (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Hereditary in the royal family; in Dali the Gao family of chief ministers held much real power.",
@@ -287,10 +287,10 @@
         "source": "Wikipedia: Nanzhao (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "The 800s, when Nanzhao raided Sichuan, Burma and Annam.",
+        "value": "Nanzhao conquered the Pyu city-states in the 820s, destroyed Halin in 832, raided Annan in 846 and occupied it again from 863 for three years, and attacked Chengdu in 869.",
         "year": 830,
-        "certainty": "estimated",
-        "source": "Wikipedia: Nanzhao; Wikipedia: Dali Kingdom"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Nanzhao (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "The Mongol invasion of 1253; the Duan family stayed on as local governors under the Mongols.",
