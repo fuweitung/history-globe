@@ -80,10 +80,10 @@
     },
     "population": {
       "population": {
-        "value": "About 4–5 million by 1500.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Crown of Castile"
+        "value": "About 3 million around 1300, up from about 1 million earlier. The page gives no figure for 1500.",
+        "year": 1300,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Mostly rural; a few walled towns and a royal or ducal capital.",
@@ -228,10 +228,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Catholic; Jews expelled (1492).",
+        "value": "Roman Catholic, with Muslim and Sephardic Jewish minorities. In 1492 the monarchs decided that Jews who would not convert must leave; the page estimates 50,000 to 70,000 were expelled from Castile.",
         "year": 1492,
         "certainty": "confirmed",
-        "source": "Wikipedia: Crown of Castile"
+        "source": "Wikipedia: Crown of Castile (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Castilian Spanish.",
