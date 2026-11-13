@@ -35,10 +35,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "South Pacific west of Fiji; about 12,200 km².",
+        "value": "South Pacific archipelago; the infobox gives 12,189 km² and the text about 12,274 km²; capital and largest city Port Vila on Efate.",
         "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Vanuatu"
+        "certainty": "disputed",
+        "source": "Wikipedia: Vanuatu (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Volcanic islands.",
@@ -59,18 +59,18 @@
         "source": "Wikipedia: Vanuatu"
       },
       "disasters": {
-        "value": "Cyclone Pam (2015).",
+        "value": "Cyclone Pam struck in March 2015 as a Category 5 cyclone; the page gives 11 deaths early on and 16 deaths later.",
         "year": 2015,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Vanuatu"
+        "certainty": "disputed",
+        "source": "Wikipedia: Vanuatu (checked 13 Nov 2026)"
       }
     },
     "population": {
       "population": {
-        "value": "About 330,000.",
-        "year": 2024,
+        "value": "300,019 at the 2020 census; 335,908 in the 2023 estimate.",
+        "year": 2020,
         "certainty": "confirmed",
-        "source": "Wikipedia: Vanuatu"
+        "source": "Wikipedia: Vanuatu (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Most people live on the main island.",
@@ -105,10 +105,10 @@
         "source": "Wikipedia: Vanuatu"
       },
       "wealth": {
-        "value": "A lower- or upper-middle-income economy, depending on aid and fishing licences.",
-        "year": null,
+        "value": "HDI 0.621, medium (146th, 2023).",
+        "year": 2023,
         "certainty": "confirmed",
-        "source": "Wikipedia: Vanuatu"
+        "source": "Wikipedia: Vanuatu (checked 13 Nov 2026)"
       },
       "moneyAndTax": {
         "value": "Vatu.",
@@ -169,10 +169,10 @@
         "source": "Wikipedia: Vanuatu"
       },
       "majorWars": {
-        "value": "Coconut War on Espiritu Santo (1980).",
+        "value": "In 1980 Espiritu Santo seceded as the Republic of Vemarana, followed by a brief conflict the page calls the Coconut War.",
         "year": 1980,
         "certainty": "confirmed",
-        "source": "Wikipedia: Vanuatu"
+        "source": "Wikipedia: Vanuatu (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "None since independence.",
@@ -273,10 +273,10 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Independence (1980).",
-        "year": 1980,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Vanuatu"
+        "value": "The islands were first settled about 3,000 years ago, roughly between 1100 BCE and 700 BCE; Europeans first arrived in April 1606 (Queirós) and Cook named them the New Hebrides in 1774.",
+        "year": -1100,
+        "certainty": "estimated",
+        "source": "Wikipedia: Vanuatu (checked 13 Nov 2026)"
       },
       "peakPeriod": {
         "value": "Too recent to judge.",
@@ -291,10 +291,10 @@
         "source": "Wikipedia: Vanuatu"
       },
       "outcome": {
-        "value": "Still in existence.",
-        "year": null,
+        "value": "France and the United Kingdom agreed in 1906 to rule the islands jointly; independence came on 30 July 1980.",
+        "year": 1980,
         "certainty": "confirmed",
-        "source": "Wikipedia: Vanuatu"
+        "source": "Wikipedia: Vanuatu (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {
