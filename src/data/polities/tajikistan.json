@@ -46,25 +46,25 @@
         "source": "Wikipedia: Tajikistan (checked 13 Nov 2026)"
       },
       "terrain": {
-        "value": "Pamir Mountains.",
+        "value": "Mostly high mountains: the Pamirs in the east, with Ismoil Somoni Peak (7,495 m), and the Turkestan and Zarafshan ranges; lowlands in the Fergana Valley and south-west.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Tajikistan"
       },
       "climate": {
-        "value": "Continental.",
+        "value": "Continental: hot, dry summers in the valleys and very cold winters in the high Pamirs, whose snow and glaciers feed the rivers.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Tajikistan"
       },
       "resources": {
-        "value": "Hydropower, aluminium, cotton.",
+        "value": "Large hydropower potential on rivers such as the Vakhsh, an aluminium smelter, cotton, and gold, silver and antimony.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Tajikistan"
       },
       "disasters": {
-        "value": "Earthquakes, landslides.",
+        "value": "Frequent earthquakes, mudflows, avalanches and floods; Lake Sarez, held back by a natural landslide dam, is watched as a flood risk.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Tajikistan"
@@ -78,21 +78,21 @@
         "source": "Wikipedia: Tajikistan (checked 13 Nov 2026)"
       },
       "urbanisation": {
-        "value": "Mostly rural.",
+        "value": "Mostly rural: only about a quarter of people live in towns, chiefly Dushanbe, Khujand, Bokhtar and Kulob.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Tajikistan"
       },
       "disease": {
-        "value": "Weak health care.",
+        "value": "Health care weakened after 1991; problems include child malnutrition, tuberculosis and typhoid outbreaks, as in the late 1990s.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Tajikistan"
       },
       "migration": {
-        "value": "Many work in Russia.",
+        "value": "Hundreds of thousands of workers, mostly young men, go to Russia each year; many people also fled during the 1992–97 civil war.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Tajikistan"
       }
     },
@@ -104,7 +104,7 @@
         "source": "Wikipedia: Tajikistan (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "Mountain roads.",
+        "value": "Mountain roads link it to Uzbekistan, Kyrgyzstan, China (via the Kulma Pass) and Afghanistan (via a bridge over the Panj River, 2007).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Tajikistan"
@@ -116,8 +116,8 @@
         "source": "Wikipedia: Tajikistan (checked 13 Nov 2026)"
       },
       "moneyAndTax": {
-        "value": "The somoni.",
-        "year": null,
+        "value": "The somoni, introduced in 2000 and named after the Samanid ruler Ismail Samani, replaced the Tajik rouble.",
+        "year": 2000,
         "certainty": "confirmed",
         "source": "Wikipedia: Tajikistan"
       },
@@ -142,19 +142,19 @@
         "source": "Wikipedia: Tajikistan (checked 13 Nov 2026)"
       },
       "succession": {
-        "value": "One ruler since 1992.",
+        "value": "The same president has held power since 1992, re-elected in votes criticised by observers; 2016 constitutional changes lifted term limits for him.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Tajikistan"
       },
       "institutions": {
-        "value": "Strong presidency.",
+        "value": "A strong presidency, a two-chamber Supreme Assembly (Majlisi Oli) and courts, under the constitution of 1994.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Tajikistan"
       },
       "stability": {
-        "value": "Civil war (1992–97).",
+        "value": "Civil war (1992–97) between the government and the United Tajik Opposition killed tens of thousands; a peace accord was signed in June 1997.",
         "year": 1992,
         "certainty": "confirmed",
         "source": "Wikipedia: Tajikistan"
@@ -168,7 +168,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Russian base.",
+        "value": "A small national army; Russia’s 201st Military Base, its largest abroad, is stationed in Dushanbe and Bokhtar.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Tajikistan"
@@ -180,13 +180,13 @@
         "source": "Wikipedia: Tajikistan (checked 13 Nov 2026)"
       },
       "territoryChange": {
-        "value": "None.",
+        "value": "No change since 1991; a long border dispute with Kyrgyzstan led to deadly clashes in 2021 and 2022 before a border treaty in 2025.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Tajikistan"
       },
       "alliancesRivals": {
-        "value": "Close to Russia.",
+        "value": "A member of the Russian-led CSTO and of the Shanghai Cooperation Organisation; China is a major lender and investor.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Tajikistan"
@@ -200,7 +200,7 @@
         "source": "Wikipedia: Tajikistan"
       },
       "scienceEducation": {
-        "value": "Soviet-era schools.",
+        "value": "Inherited Soviet-era schools and high literacy; universities include the Tajik National University, with the Academy of Sciences in Dushanbe.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Tajikistan"
@@ -212,7 +212,7 @@
         "source": "Wikipedia: Tajikistan"
       },
       "communicationTransport": {
-        "value": "Mountain roads.",
+        "value": "Mountain roads, including the Pamir Highway, and tunnels such as Anzob linking Dushanbe and Khujand; a few short railways and airports.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Tajikistan"
@@ -226,33 +226,33 @@
         "source": "Wikipedia: Tajikistan (checked 13 Nov 2026)"
       },
       "languageWriting": {
-        "value": "Tajik (Persian in Cyrillic).",
+        "value": "Tajik, a form of Persian written in Cyrillic since 1940, is the state language; Russian is widely used, and Pamiri languages are spoken in Badakhshan.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Tajikistan"
       },
       "artsArchitecture": {
-        "value": "Persian poetry.",
+        "value": "Persian poetry such as that of Rudaki is honoured; Dushanbe has Soviet buildings and new monuments such as a statue of Ismail Samani.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Tajikistan"
       },
       "socialStructure": {
-        "value": "Tajik majority; Uzbek minority.",
+        "value": "Tajiks are the majority, with Uzbek, Kyrgyz and Pamiri communities; family, clan and regional ties matter in jobs and politics.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Tajikistan"
       },
       "sharedIdentity": {
-        "value": "Persian heritage.",
+        "value": "Pride in Persian culture and the Samanid dynasty (819–999), promoted as a national symbol since independence.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Tajikistan"
       },
       "dailyLife": {
-        "value": "Houses; plov, bread.",
+        "value": "Large families live in courtyard houses or Soviet flats; meals include plov, non (flatbread), qurutob and green tea.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Tajikistan"
       }
     },
@@ -264,7 +264,7 @@
         "source": "Wikipedia: Tajikistan"
       },
       "ideasReligions": {
-        "value": "Islam.",
+        "value": "Mostly Sunni Islam of the Hanafi school, with Ismaili Shia Muslims in the Pamirs; the state is secular and closely controls religious life.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Tajikistan"
@@ -284,7 +284,7 @@
         "source": "Wikipedia: Tajikistan (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Too recent to judge.",
+        "value": "Too recent to judge; the years after the 1997 peace saw steady growth, much of it from money sent home by migrants.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Tajikistan"

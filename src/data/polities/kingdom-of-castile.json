@@ -54,25 +54,25 @@
         "source": "Wikipedia: Kingdom of Castile (checked 13 Nov 2026)"
       },
       "terrain": {
-        "value": "The high Meseta plateau.",
+        "value": "Mostly the high Meseta plateau, crossed by the Duero and Tagus rivers and ringed by mountains such as the Cantabrian range and the Guadarrama.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Crown of Castile"
       },
       "climate": {
-        "value": "Continental, dry.",
+        "value": "Continental on the Meseta, with hot, dry summers and cold winters; milder and wetter on the northern coast and hotter in Andalusia.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Crown of Castile"
       },
       "resources": {
-        "value": "Wool, grain, iron.",
+        "value": "Merino wool from huge sheep flocks, grain from the Meseta, iron from Biscay, and olive oil and wine from Andalusia.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Crown of Castile"
       },
       "disasters": {
-        "value": "Black Death (1348–50).",
+        "value": "The Black Death (1348–50) killed King Alfonso XI during the siege of Gibraltar in 1350; plague and famine returned later.",
         "year": 1348,
         "certainty": "confirmed",
         "source": "Wikipedia: Crown of Castile"
@@ -118,13 +118,13 @@
         "source": "Wikipedia: Crown of Castile"
       },
       "wealth": {
-        "value": "Wool wealth.",
+        "value": "Wool exports, Andalusian farms and tribute (parias) once taken from Muslim kingdoms enriched the crown and great nobles.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Crown of Castile"
       },
       "moneyAndTax": {
-        "value": "Maravedí; the alcabala sales tax.",
+        "value": "The maravedí, first a gold coin and later a unit of account; the alcabala sales tax and other taxes voted by the Cortes.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Crown of Castile"
@@ -150,27 +150,27 @@
         "source": "Wikipedia: Kingdom of Castile (checked 13 Nov 2026)"
       },
       "succession": {
-        "value": "Hereditary, with civil wars.",
+        "value": "Hereditary, and women could inherit, as Urraca and Isabella I did; disputes caused civil wars, as in 1366–69 and 1475–79.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Crown of Castile"
       },
       "institutions": {
-        "value": "Cortes; Siete Partidas law code (1265).",
+        "value": "The Cortes, royal councils, the Siete Partidas law code of Alfonso X (about 1265), and the Santa Hermandad police force (1476).",
         "year": 1265,
         "certainty": "confirmed",
         "source": "Wikipedia: Crown of Castile"
       },
       "stability": {
-        "value": "Civil wars in the 1300s–1400s.",
+        "value": "Frequent noble revolts and civil wars, including the war between Peter I and Henry of Trastámara (1366–69) and strife under Henry IV.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Crown of Castile"
       },
       "eliteConflict": {
-        "value": "Nobles against the crown.",
+        "value": "Great noble families such as the Lara and later the Mendoza fought the kings and each other, especially in the 1300s and 1400s.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Crown of Castile"
       }
     },
@@ -188,13 +188,13 @@
         "source": "Wikipedia: Kingdom of Castile (checked 13 Nov 2026)"
       },
       "territoryChange": {
-        "value": "Took most of Andalusia.",
+        "value": "Took Toledo (1085), most of Andalusia including Córdoba (1236) and Seville (1248), Murcia, and finally Granada (1492).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Crown of Castile"
       },
       "alliancesRivals": {
-        "value": "Rivals of Portugal, Aragon, Granada.",
+        "value": "Rivals of Portugal, Aragon, Navarre and Granada; allied with France in the Hundred Years’ War, and joined to Aragon by Isabella and Ferdinand’s marriage (1469).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Crown of Castile"
@@ -202,13 +202,13 @@
     },
     "technology": {
       "inventions": {
-        "value": "No major inventions are recorded.",
+        "value": "No major inventions, but the Toledo School of Translators turned Arabic science and philosophy into Latin and Castilian.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Crown of Castile"
       },
       "scienceEducation": {
-        "value": "University of Salamanca (1218).",
+        "value": "The University of Salamanca (founded 1218), cathedral schools, and the Toledo translators, who passed Arabic learning to Latin Europe.",
         "year": 1218,
         "certainty": "confirmed",
         "source": "Wikipedia: Crown of Castile"
@@ -220,7 +220,7 @@
         "source": "Wikipedia: Crown of Castile"
       },
       "communicationTransport": {
-        "value": "Roads, rivers and coastal shipping.",
+        "value": "Old Roman roads, mule trains and the Mesta’s sheep tracks (cañadas) across the Meseta, with coastal shipping from Biscay and Seville.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Crown of Castile"
@@ -234,7 +234,7 @@
         "source": "Wikipedia: Crown of Castile (checked 13 Nov 2026)"
       },
       "languageWriting": {
-        "value": "Castilian Spanish.",
+        "value": "Castilian Spanish, which Alfonso X made a language of law and scholarship; Antonio de Nebrija published the first Castilian grammar in 1492.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Crown of Castile"
@@ -252,7 +252,7 @@
         "source": "Wikipedia: Crown of Castile"
       },
       "sharedIdentity": {
-        "value": "Loyalty to the ruler, faith and region.",
+        "value": "Loyalty to the crown, the Catholic faith and the crusading Reconquista, alongside strong local and town identities.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Crown of Castile"
@@ -266,7 +266,7 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Aragon, Portugal, Navarre, Granada.",
+        "value": "Aragon, Navarre and Portugal, the Muslim kingdom of Granada to the south, and France across the western Pyrenees.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Crown of Castile"
@@ -278,7 +278,7 @@
         "source": "Wikipedia: Crown of Castile"
       },
       "colonisation": {
-        "value": "Canary Islands conquered (1402–96).",
+        "value": "Conquered the Canary Islands (1402–96) and, after Columbus’s voyage of 1492, began settling Hispaniola and other Caribbean islands.",
         "year": 1402,
         "certainty": "confirmed",
         "source": "Wikipedia: Crown of Castile"
@@ -298,7 +298,7 @@
         "source": "Wikipedia: Kingdom of Castile (checked 13 Nov 2026)"
       },
       "declineSignals": {
-        "value": "None; it merged into Spain.",
+        "value": "No real decline; after Isabella’s death (1504) it passed to her daughter Joanna and merged into Spain under Charles I (1516).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Crown of Castile"
