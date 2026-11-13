@@ -165,7 +165,7 @@ ${row('People pictures', peopleList.length ? personPics / peopleList.length : 0,
 ${row('Event pictures', eventList.length ? eventPics / eventList.length : 0, `${eventPics} of ${eventList.length}`)}
 
 Certainty of all items: ${cert.confirmed} confirmed · ${cert.estimated} estimated · ${cert.disputed} disputed.
-Also in the app: ${read('src/data/events.json').length} events · ${read('src/data/people.json').length} people · ${read('src/data/routes.json').length} routes · ${read('src/data/stories.json').length} stories.
+Also in the app: ${read('src/data/events.json').length} events · ${read('src/data/people.json').length} people · ${read('src/data/routes.json').length} routes · ${read('src/data/stories.json').length} stories written (hidden in the app for now).
 
 ## Map coverage by year
 

@@ -14,7 +14,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 - [x] Timeline with five eras; events, people, trade routes and migrations
 - [x] Civilisation checklist (43 items in 10 categories) with year, certainty and source
 - [x] “Known for” culture chips, search, Compare, territory and population charts
-- [x] 11 guided stories
+- [x] 11 guided stories written (hidden in the app for now)
 - [x] 238 civilisations and peoples, all with full checklists
 - [x] Wikidata date cross-check; Britannica spot-check of 4 civilisations
 - [x] Team setup: private GitHub repo, CLAUDE.md rules, issues and pull requests
@@ -76,7 +76,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | Event pictures | `████████████████░░░░` 78% | 753 of 962 |
 
 Certainty of all items: 14155 confirmed · 6727 estimated · 575 disputed.
-Also in the app: 962 events · 451 people · 18 routes · 11 stories.
+Also in the app: 962 events · 451 people · 18 routes · 11 stories written (hidden in the app for now).
 
 ## Map coverage by year
 
