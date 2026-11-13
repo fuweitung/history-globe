@@ -84,7 +84,7 @@
         "source": "Wikipedia: Montenegro"
       },
       "disease": {
-        "value": "Life expectancy about 77 years.",
+        "value": "Life expectancy is about 77 years.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Montenegro"
@@ -194,14 +194,14 @@
     },
     "technology": {
       "inventions": {
-        "value": "No major inventions.",
+        "value": "No major inventions are recorded.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Montenegro"
       },
       "scienceEducation": {
-        "value": "University of Montenegro (1974).",
-        "year": null,
+        "value": "The University of Montenegro was founded in 1974.",
+        "year": 1974,
         "certainty": "confirmed",
         "source": "Wikipedia: Montenegro"
       },
@@ -290,8 +290,8 @@
         "source": "Wikipedia: Montenegro"
       },
       "declineSignals": {
-        "value": "Absorbed into Yugoslavia in 1918.",
-        "year": null,
+        "value": "Absorbed into Yugoslavia in 1918, which ended the old kingdom.",
+        "year": 1918,
         "certainty": "estimated",
         "source": "Wikipedia: Montenegro"
       },
