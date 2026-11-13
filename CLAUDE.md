@@ -24,6 +24,7 @@ Two people work on this project, each with their own Claude Code: **fuweitung** 
 - Every fact has a source; write “(checked <date>)” only if the page was actually read.
 - Certainty: `confirmed`, `estimated` or `disputed` (give each side’s view for disputed points).
 - Neutral wording; plain English for students. BCE years are negative; there is no year 0.
+- **No living people.** Do not name current or recent leaders or other people who may be alive (including in “Key rulers”, government, succession and stability answers); describe the office or the event instead. Name only people known to have died, and when unsure leave the name out.
 - After changing `borderNames`/`borderYears`, run `npm run compute-territory`.
 - Pictures: only freely licensed Wikimedia Commons files, with credits (`npm run fetch-images`). Be gentle with Wikimedia APIs (batch requests; stop if rate-limited).
 
