@@ -67,7 +67,7 @@
         "source": "Wikipedia: South Africa (checked 8 Nov 2026)"
       },
       "disasters": {
-        "value": "Droughts and floods.",
+        "value": "Droughts, such as the Cape Town water crisis of 2018, and floods, such as the KwaZulu-Natal floods of 2022.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: South Africa"
@@ -107,19 +107,19 @@
         "source": "Wikipedia: South Africa (checked 8 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "Ports at Durban and Cape Town.",
+        "value": "The ports of Durban and Cape Town, and railways, serve the whole region.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: South Africa"
       },
       "wealth": {
-        "value": "An upper-middle-income country.",
+        "value": "An upper-middle-income country with the most developed economy in Africa, though unequal.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: South Africa"
       },
       "moneyAndTax": {
-        "value": "The rand.",
+        "value": "The rand, named for the Witwatersrand gold fields.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: South Africa"
@@ -163,7 +163,7 @@
         "source": "Wikipedia: South Africa"
       },
       "eliteConflict": {
-        "value": "Party politics.",
+        "value": "Competition among parties after 1994, and rivalry within the ruling ANC.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: South Africa"
@@ -171,7 +171,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "A regional military power.",
+        "value": "A regional military power, which once built nuclear weapons and gave them up in 1989–91.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: South Africa"
@@ -203,19 +203,19 @@
         "source": "Wikipedia: South Africa (checked 8 Nov 2026)"
       },
       "scienceEducation": {
-        "value": "Unequal schooling under apartheid.",
+        "value": "Under apartheid, schooling was unequal and designed to restrict Black South Africans; reforms since 1994 have narrowed some gaps.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: South Africa"
       },
       "openness": {
-        "value": "Isolated under apartheid.",
-        "year": null,
+        "value": "Isolated by sanctions and sports boycotts under apartheid, and more open since 1994.",
+        "year": 1994,
         "certainty": "estimated",
         "source": "Wikipedia: South Africa"
       },
       "communicationTransport": {
-        "value": "Railways and ports.",
+        "value": "Railways and ports, though rail and electricity systems have struggled in recent years.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: South Africa"
@@ -223,7 +223,7 @@
     },
     "culture": {
       "religion": {
-        "value": "Mostly Christian.",
+        "value": "Mostly Christian, with Muslim, Hindu, Jewish and traditional African beliefs.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: South Africa"
@@ -235,19 +235,19 @@
         "source": "Wikipedia: South Africa (checked 8 Nov 2026)"
       },
       "artsArchitecture": {
-        "value": "Literature, music (kwaito, jazz), art.",
+        "value": "Literature, jazz and kwaito music, rock art and the Apartheid Museum.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: South Africa"
       },
       "socialStructure": {
-        "value": "Apartheid classified people by race.",
-        "year": null,
+        "value": "Apartheid classified people by race (white, coloured, Indian, Black), and its effects are still visible.",
+        "year": 1948,
         "certainty": "confirmed",
         "source": "Wikipedia: South Africa"
       },
       "sharedIdentity": {
-        "value": "The “Rainbow Nation” idea after 1994.",
+        "value": "The “Rainbow Nation” idea, named by Desmond Tutu, aims to unite the country’s many groups.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: South Africa"
@@ -267,7 +267,7 @@
         "source": "Wikipedia: South Africa (checked 8 Nov 2026)"
       },
       "ideasReligions": {
-        "value": "Anti-apartheid ideas spread worldwide.",
+        "value": "Anti-apartheid ideas and the 1996 constitution, which protects human rights, spread worldwide.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: South Africa"
@@ -293,13 +293,13 @@
         "source": "Wikipedia: South Africa (checked 8 Nov 2026)"
       },
       "declineSignals": {
-        "value": "Inequality and power shortages.",
-        "year": null,
+        "value": "Inequality, unemployment and electricity shortages (load-shedding) since 2008.",
+        "year": 2008,
         "certainty": "estimated",
         "source": "Wikipedia: South Africa"
       },
       "outcome": {
-        "value": "Still in existence.",
+        "value": "South Africa continues as an independent republic.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: South Africa"

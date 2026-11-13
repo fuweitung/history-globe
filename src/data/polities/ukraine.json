@@ -53,13 +53,13 @@
         "source": "Wikipedia: Ukraine"
       },
       "climate": {
-        "value": "Continental.",
+        "value": "Continental, with cold winters, warm summers and a milder Black Sea coast and Crimean peninsula.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ukraine"
       },
       "resources": {
-        "value": "Very fertile farmland, iron ore, coal.",
+        "value": "Very fertile black-earth farmland, iron ore, coal and titanium.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ukraine"
@@ -85,7 +85,7 @@
         "source": "Wikipedia: Ukraine (checked 8 Nov 2026)"
       },
       "disease": {
-        "value": "Health care disrupted by war.",
+        "value": "Health care has been disrupted by the war, with many hospitals damaged.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Ukraine"
@@ -105,15 +105,15 @@
         "source": "Wikipedia: Ukraine"
       },
       "tradeRoutes": {
-        "value": "Black Sea ports.",
-        "year": null,
+        "value": "Black Sea ports such as Odesa carry grain exports; the 2022 invasion blocked them and a grain corridor was agreed in 2022–23.",
+        "year": 2022,
         "certainty": "confirmed",
         "source": "Wikipedia: Ukraine"
       },
       "wealth": {
-        "value": "A lower-middle-income country.",
+        "value": "A lower-middle-income country, hard hit by the war.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Ukraine"
       },
       "moneyAndTax": {
@@ -123,7 +123,7 @@
         "source": "Wikipedia: Ukraine (checked 8 Nov 2026)"
       },
       "inequality": {
-        "value": "Oligarch influence.",
+        "value": "Wealth was concentrated among a few oligarchs before the war, and many people have been displaced since.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Ukraine"
@@ -143,8 +143,8 @@
         "source": "Wikipedia: Ukraine"
       },
       "succession": {
-        "value": "Elections.",
-        "year": null,
+        "value": "Presidents are elected, and power has changed hands after the Orange Revolution (2004) and the Maidan protests (2014).",
+        "year": 2014,
         "certainty": "confirmed",
         "source": "Wikipedia: Ukraine"
       },
@@ -161,7 +161,7 @@
         "source": "Wikipedia: Ukraine (checked 8 Nov 2026)"
       },
       "eliteConflict": {
-        "value": "Rival political groups.",
+        "value": "Rival political groups and business-linked elites have competed for power, with debates about ties to Russia or Europe.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Ukraine"
@@ -195,25 +195,25 @@
     },
     "technology": {
       "inventions": {
-        "value": "Aircraft (Antonov) and rocket industry.",
+        "value": "The Antonov aircraft design bureau (including the huge An-225) and a rocket industry came from Ukraine.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Ukraine"
       },
       "scienceEducation": {
-        "value": "High literacy.",
+        "value": "Literacy is almost universal, with strong schools in engineering and sciences.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ukraine"
       },
       "openness": {
-        "value": "Open.",
+        "value": "Open to Europe and the West, with the EU association agreement and candidate status (2022).",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Ukraine"
       },
       "communicationTransport": {
-        "value": "Railways.",
+        "value": "Railways carry most long-distance passengers and goods, and many were damaged by the war.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ukraine"
@@ -221,13 +221,13 @@
     },
     "culture": {
       "religion": {
-        "value": "Mostly Orthodox Christian.",
+        "value": "Mostly Orthodox Christian, with Greek Catholic, Muslim (Crimean Tatar) and Jewish minorities.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ukraine"
       },
       "languageWriting": {
-        "value": "Ukrainian; Russian also widely spoken.",
+        "value": "Ukrainian is the official language; Russian is widely spoken, especially in the east and south.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ukraine"
@@ -239,7 +239,7 @@
         "source": "Wikipedia: Ukraine (checked 8 Nov 2026)"
       },
       "socialStructure": {
-        "value": "Large gaps after the war.",
+        "value": "Large gaps opened after the war, with millions displaced inside the country and abroad.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Ukraine"
@@ -251,9 +251,9 @@
         "source": "Wikipedia: Ukraine"
       },
       "dailyLife": {
-        "value": "Apartments and houses; borscht, bread.",
+        "value": "Many people live in apartment blocks or houses and eat borscht, varenyky and bread.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Ukraine"
       }
     },
@@ -265,8 +265,8 @@
         "source": "Wikipedia: Ukraine"
       },
       "ideasReligions": {
-        "value": "European integration.",
-        "year": null,
+        "value": "European integration and national sovereignty have become central political ideas.",
+        "year": 2014,
         "certainty": "confirmed",
         "source": "Wikipedia: Ukraine"
       },
@@ -285,8 +285,8 @@
         "source": "Wikipedia: Ukraine (checked 8 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Growth in the 2000s.",
-        "year": null,
+        "value": "Growth in the 2000s, when the economy expanded rapidly before the 2008 crisis.",
+        "year": 2005,
         "certainty": "estimated",
         "source": "Wikipedia: Ukraine"
       },
@@ -297,7 +297,7 @@
         "source": "Wikipedia: Ukraine (checked 8 Nov 2026)"
       },
       "outcome": {
-        "value": "Still in existence, at war.",
+        "value": "Ukraine continues as an independent state, at war since 2022.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ukraine"

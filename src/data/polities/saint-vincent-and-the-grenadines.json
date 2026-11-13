@@ -53,13 +53,13 @@
         "source": "Wikipedia: Saint Vincent and the Grenadines"
       },
       "climate": {
-        "value": "Tropical, with a hurricane season.",
+        "value": "Tropical, with a hurricane season and a dry season from January to May.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Saint Vincent and the Grenadines"
       },
       "resources": {
-        "value": "Bananas, arrowroot, tourism.",
+        "value": "Bananas, arrowroot and tourism.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Saint Vincent and the Grenadines"
@@ -105,7 +105,7 @@
         "source": "Wikipedia: Saint Vincent and the Grenadines (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "A cruise and cargo port.",
+        "value": "The port of Kingstown handles cargo, and sailing yachts cruise the Grenadines.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Saint Vincent and the Grenadines"
@@ -143,7 +143,7 @@
         "source": "Wikipedia: Saint Vincent and the Grenadines (checked 13 Nov 2026)"
       },
       "succession": {
-        "value": "Elections.",
+        "value": "Elections choose the prime minister, and the monarch is head of state.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Saint Vincent and the Grenadines"
@@ -155,8 +155,8 @@
         "source": "Wikipedia: Saint Vincent and the Grenadines"
       },
       "stability": {
-        "value": "Stable democracy since independence.",
-        "year": null,
+        "value": "The volcano La Soufrière erupted in April 2021, forcing thousands to evacuate, but the government remained stable.",
+        "year": 2021,
         "certainty": "confirmed",
         "source": "Wikipedia: Saint Vincent and the Grenadines"
       },
@@ -181,13 +181,13 @@
         "source": "Wikipedia: Saint Vincent and the Grenadines (checked 13 Nov 2026)"
       },
       "territoryChange": {
-        "value": "None since independence.",
+        "value": "None since independence in 1979.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Saint Vincent and the Grenadines"
       },
       "alliancesRivals": {
-        "value": "Commonwealth; CARICOM; OECS.",
+        "value": "A member of the Commonwealth, CARICOM and the OECS.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Saint Vincent and the Grenadines"
@@ -213,7 +213,7 @@
         "source": "Wikipedia: Saint Vincent and the Grenadines"
       },
       "communicationTransport": {
-        "value": "Ferries, small airports, roads.",
+        "value": "Roads, ferries and small planes link the main island and the Grenadines.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Saint Vincent and the Grenadines"
@@ -227,13 +227,13 @@
         "source": "Wikipedia: Saint Vincent and the Grenadines (checked 13 Nov 2026)"
       },
       "languageWriting": {
-        "value": "English; a local Creole.",
+        "value": "English is official; a local English-based Creole is widely spoken.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Saint Vincent and the Grenadines"
       },
       "artsArchitecture": {
-        "value": "Carnival, calypso and soca.",
+        "value": "Carnival (Vincy Mas), calypso and soca music.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Saint Vincent and the Grenadines"
@@ -245,9 +245,9 @@
         "source": "Wikipedia: Saint Vincent and the Grenadines"
       },
       "sharedIdentity": {
-        "value": "Island and Caribbean identity.",
+        "value": "A shared Vincentian identity, shaped by the island’s Garifuna and African heritage.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Saint Vincent and the Grenadines"
       },
       "dailyLife": {
@@ -259,7 +259,7 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Saint Lucia, Grenada.",
+        "value": "Saint Lucia to the north and Grenada to the south.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Saint Vincent and the Grenadines"

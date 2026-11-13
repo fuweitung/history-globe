@@ -47,19 +47,19 @@
         "source": "Wikipedia: Bangladesh (checked 13 Nov 2026)"
       },
       "terrain": {
-        "value": "Flat delta and rivers.",
+        "value": "A flat, low-lying delta where the Ganges, Brahmaputra and Meghna rivers meet and flow into the Bay of Bengal.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bangladesh"
       },
       "climate": {
-        "value": "Tropical monsoon.",
+        "value": "Tropical monsoon, with hot, wet summers and cyclones, and a cooler dry winter.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bangladesh"
       },
       "resources": {
-        "value": "Rice, jute, natural gas.",
+        "value": "Fertile land for rice and jute, natural gas and fish.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bangladesh"
@@ -85,7 +85,7 @@
         "source": "Wikipedia: Bangladesh"
       },
       "disease": {
-        "value": "Cholera; big gains in child health.",
+        "value": "Cholera and diarrhoeal diseases occur, but child health and life expectancy have improved greatly since 1990.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bangladesh"
@@ -105,7 +105,7 @@
         "source": "Wikipedia: Bangladesh (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "Port of Chittagong.",
+        "value": "The port of Chittagong handles most trade, and garments are shipped to Europe and North America.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bangladesh"
@@ -117,7 +117,7 @@
         "source": "Wikipedia: Bangladesh"
       },
       "moneyAndTax": {
-        "value": "The taka.",
+        "value": "The taka; garment exports are a main source of foreign income.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bangladesh"
@@ -143,13 +143,13 @@
         "source": "Wikipedia: Bangladesh (checked 13 Nov 2026)"
       },
       "succession": {
-        "value": "Elections and coups.",
+        "value": "Governments have changed through elections and coups; the 1975 and 1981 coups killed two presidents.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bangladesh"
       },
       "institutions": {
-        "value": "Parliament (Jatiya Sangsad).",
+        "value": "A parliament (Jatiya Sangsad), a presidency and local government.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bangladesh"
@@ -169,7 +169,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Armed forces; UN peacekeepers.",
+        "value": "Armed forces that also serve as UN peacekeepers, among the largest contributors in the world.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bangladesh"
@@ -187,7 +187,7 @@
         "source": "Wikipedia: Bangladesh"
       },
       "alliancesRivals": {
-        "value": "Close to India, later to China.",
+        "value": "Close to India, which helped in 1971, and increasingly to China.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bangladesh"
@@ -201,8 +201,8 @@
         "source": "Wikipedia: Bangladesh"
       },
       "scienceEducation": {
-        "value": "Universities; Dhaka (1921).",
-        "year": null,
+        "value": "The University of Dhaka (1921) and many newer universities; literacy has grown strongly.",
+        "year": 1921,
         "certainty": "confirmed",
         "source": "Wikipedia: Bangladesh"
       },
@@ -213,8 +213,8 @@
         "source": "Wikipedia: Bangladesh"
       },
       "communicationTransport": {
-        "value": "Rivers, ferries; Padma Bridge (2022).",
-        "year": null,
+        "value": "Rivers and ferries carry much traffic; the Padma Bridge (2022) links the south-west to Dhaka.",
+        "year": 2022,
         "certainty": "confirmed",
         "source": "Wikipedia: Bangladesh"
       }
@@ -227,19 +227,19 @@
         "source": "Wikipedia: Bangladesh (checked 13 Nov 2026)"
       },
       "languageWriting": {
-        "value": "Bengali; the 1952 Language Movement.",
+        "value": "Bengali; the Language Movement of 1952 for Bengali as a state language became a symbol of identity.",
         "year": 1952,
         "certainty": "confirmed",
         "source": "Wikipedia: Bangladesh"
       },
       "artsArchitecture": {
-        "value": "Baul songs; Bengali literature.",
+        "value": "Baul songs, Bengali literature (including Rabindranath Tagore’s and Kazi Nazrul Islam’s works) and terracotta temples.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bangladesh"
       },
       "socialStructure": {
-        "value": "Mostly Bengali.",
+        "value": "Mostly Bengali, with small Indigenous groups in the Chittagong Hill Tracts.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bangladesh"
@@ -251,22 +251,22 @@
         "source": "Wikipedia: Bangladesh"
       },
       "dailyLife": {
-        "value": "Houses; rice and fish.",
+        "value": "Many families live in rural homes and eat rice and fish; dense cities such as Dhaka are crowded.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Bangladesh"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "India, Myanmar.",
+        "value": "India (on three sides) and Myanmar.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bangladesh"
       },
       "ideasReligions": {
-        "value": "Bengali nationalism.",
-        "year": null,
+        "value": "Bengali nationalism drove the independence movement of 1971, and Islam is the majority faith.",
+        "year": 1971,
         "certainty": "confirmed",
         "source": "Wikipedia: Bangladesh"
       },
