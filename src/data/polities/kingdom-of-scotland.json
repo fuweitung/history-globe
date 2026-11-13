@@ -41,10 +41,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "The northern third of Great Britain with the Hebrides, and Orkney and Shetland from 1472; the border with England ran from the Tweed to the Solway.",
-        "year": null,
+        "value": "Orkney and Shetland were incorporated in 1472, annexed from Norway.",
+        "year": 1472,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Scotland"
+        "source": "Wikipedia: Kingdom of Scotland (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Mountainous Highlands and islands in the north and west, fertile Central Lowlands, and the hilly Southern Uplands.",
@@ -131,16 +131,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A monarchy whose kings governed with a Parliament of three estates, a Privy Council and great nobles.",
+        "value": "The page says Parliament was never as central to national life as England’s; it does not describe three estates.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Scotland"
+        "source": "Wikipedia: Kingdom of Scotland (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Kenneth MacAlpin. Robert the Bruce. Mary, Queen of Scots. James VI.",
-        "year": 1306,
+        "value": "Cínaed mac Ailpín (Kenneth MacAlpin) became king of the Picts in the 840s, traditionally 843; Robert I’s parliament at Scone enacted a code of law in 1318; James VI inherited the English and Irish thrones in 1603.",
+        "year": 843,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Scotland"
+        "source": "Wikipedia: Kingdom of Scotland (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Hereditary in the royal line: the House of Bruce from 1306, and the Stewart dynasty from 1371 to 1707.",
@@ -221,10 +221,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Catholic, then Presbyterian (Reformation 1560).",
+        "value": "By 1560 a small group of Protestants was able to impose reform on the Scottish church.",
         "year": 1560,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Scotland"
+        "source": "Wikipedia: Kingdom of Scotland (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Gaelic in the Highlands, Scots in the Lowlands, Norn in Orkney and Shetland, and Latin and English in writing.",
@@ -285,10 +285,10 @@
         "source": "Wikipedia: Kingdom of Scotland (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "The reign of James IV (1488–1513), with a strong navy, a printing press in Edinburgh (1508) and a vibrant court.",
-        "year": 1500,
+        "value": "James IV was killed when the Scots were beaten at Flodden in 1513; the page does not give 1488 or the 1508 printing press.",
+        "year": 1513,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Scotland"
+        "source": "Wikipedia: Kingdom of Scotland (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "The Darien disaster (1698–1700) bankrupted many investors and helped push Scotland into union with England.",
