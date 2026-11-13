@@ -44,10 +44,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Poland, Lithuania, Belarus and much of Ukraine.",
+        "value": "The Grand Duchy of Lithuania covered Lithuania, Belarus, most of Ukraine and parts of Latvia. The Kingdom of Poland was the Polish Crown lands.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+        "source": "Wikipedia: Grand Duchy of Lithuania (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Plains, forests, rivers (Vistula, Dnieper).",
@@ -76,10 +76,10 @@
     },
     "population": {
       "population": {
-        "value": "Perhaps about 2 million in Poland around 1340 and several million in both lands by 1500 (estimates).",
-        "year": null,
+        "value": "Lithuania: about 400,000 people in 1260 (68% ethnic Lithuanians), 2.5 million in 1430 (infobox). The page gives no figure for Poland around 1340.",
+        "year": 1430,
         "certainty": "estimated",
-        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+        "source": "Wikipedia: Grand Duchy of Lithuania (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Kraków, Vilnius, Gdańsk.",
@@ -102,10 +102,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming and the grain trade.",
+        "value": "Not described for the grain trade; the pages mention only Vytautas's economic reforms.",
         "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Poland (1385–1569) (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Baltic grain exports through Gdańsk.",
@@ -134,16 +134,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Monarchy (Poland) and grand duchy (Lithuania), united in 1386.",
+        "value": "A personal union under the Union of Krewo; the pages date it to August 1385 or 1386 (the body and infobox disagree). Poland was a monarchy and Lithuania a grand duchy.",
         "year": 1386,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+        "certainty": "disputed",
+        "source": "Wikipedia: Grand Duchy of Lithuania and Kingdom of Poland (1385–1569) (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Bolesław I the Brave. Casimir III the Great. Jadwiga and Władysław II Jagiełło. Vytautas the Great.",
+        "value": "Bolesław I Chrobry, first crowned king of Poland in 1025; Jadwiga, who married Jagiełło; Jogaila (Władysław II Jagiełło); and Vytautas, regent 1392–1401 and grand duke 1401–30, under whom Lithuania reached its greatest extent. Casimir III is not on these pages.",
         "year": 1386,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+        "source": "Wikipedia: Grand Duchy of Lithuania and Kingdom of Poland (1385–1569) (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Hereditary, increasingly elected by nobles.",
@@ -224,10 +224,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Catholic; Orthodox in Lithuanian lands; Jewish communities.",
+        "value": "Lithuanian nobles followed a polytheistic religion until 1387, when Lithuania converted to Catholicism; most Ruthenian lands stayed Orthodox. Catholicism was Poland's state religion.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Poland (1385–1569); Wikipedia: Grand Duchy of Lithuania"
+        "source": "Wikipedia: Grand Duchy of Lithuania and Kingdom of Poland (1385–1569) (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Polish, Lithuanian, Ruthenian; Latin.",
