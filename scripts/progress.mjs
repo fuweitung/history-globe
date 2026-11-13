@@ -91,6 +91,10 @@ const fmtYear = (y) => (y < 0 ? `${-y} BCE` : `${y}`);
 const avg = (xs) => xs.reduce((s, v) => s + v, 0) / (xs.length || 1);
 
 // ── Content ──
+// A "thin" answer is empty or a placeholder ("Unknown.", "Not documented…"). Short answers such as "The birr." or
+// "None since independence." are complete, so length alone no longer counts against an answer.
+const PLACEHOLDER = /^(not (documented|detailed|well documented)|unknown|uncertain|n\/?a|tbd|no (reliable|specific|estimate)|little is (known|recorded))/i;
+const isThin = (v) => { const t = String(v ?? '').trim(); return !t || PLACEHOLDER.test(t); };
 let items = 0, filled = 0, shortAns = 0, checked = 0;
 const cert = { confirmed: 0, estimated: 0, disputed: 0 };
 for (const p of polities)
@@ -98,7 +102,7 @@ for (const p of polities)
     for (const it of Object.values(fields)) {
       items++;
       if (it.value !== null && String(it.value).trim()) filled++;
-      if (cat !== 'dataQuality' && String(it.value ?? '').length < 40) shortAns++;
+      if (cat !== 'dataQuality' && isThin(it.value)) shortAns++;
       if (/\(checked/i.test(it.source ?? '')) checked++;
       if (cert[it.certainty] !== undefined) cert[it.certainty]++;
     }
@@ -150,7 +154,7 @@ ${row('Map coverage (all years)', avg(perYear.map((r) => r.pct)), 'Named land on
 ${ERAS.map(([name]) => row(`· ${name}`, avg(perYear.filter((r) => eraOf(r.y) === name).map((r) => r.pct)))).join('\n')}
 ${row('Civilisations shown on the map', onMap / polities.length, `${onMap} of ${polities.length}; the rest fly to their capital`)}
 ${row('Checklist filled in', filled / items, `${filled} of ${items} items (${polities.length} × ${items / polities.length})`)}
-${row('Answers with real detail', 1 - shortAns / (items - 2 * polities.length), `${shortAns} answers are still under 40 characters`)}
+${row('Answers with real detail', 1 - shortAns / (items - 2 * polities.length), `${shortAns} answers are still empty or placeholders such as “Unknown.”`)}
 ${row('Fact-checked against a source', checked / items, `${checked} items say “(checked …)”; the rest still need a second look`)}
 ${row('Civilisations with events', withEvents / polities.length, `${withEvents} of ${polities.length}`)}
 ${row('Civilisations with famous people', withPeople / polities.length, `${withPeople} of ${polities.length}; many prehistoric cultures have no known names`)}
