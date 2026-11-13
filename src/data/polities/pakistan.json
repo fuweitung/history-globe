@@ -41,7 +41,7 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "South Asia; about 882,000 km².",
+        "value": "South Asia, between India, Iran, Afghanistan and China, on the Arabian Sea, covering about 882,000 km².",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Pakistan"
@@ -53,29 +53,29 @@
         "source": "Wikipedia: Pakistan"
       },
       "climate": {
-        "value": "Hot and dry; monsoon.",
+        "value": "Hot and dry in most of the country, with summer monsoon rains and cold highlands in the north.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Pakistan"
       },
       "resources": {
-        "value": "Farmland, gas, coal.",
+        "value": "Farmland irrigated by the Indus, natural gas, coal and cotton.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Pakistan"
       },
       "disasters": {
-        "value": "Floods (2010, 2022); earthquake (2005).",
-        "year": 2022,
+        "value": "Earthquake in Kashmir (2005), and floods in 2010 and 2022, which affected tens of millions of people.",
+        "year": 2010,
         "certainty": "confirmed",
         "source": "Wikipedia: Pakistan"
       }
     },
     "population": {
       "population": {
-        "value": "About 240 million.",
+        "value": "About 240 million people (2023 census), the fifth-largest population in the world.",
         "year": 2024,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Pakistan"
       },
       "urbanisation": {
@@ -85,7 +85,7 @@
         "source": "Wikipedia: Pakistan (checked 8 Nov 2026)"
       },
       "disease": {
-        "value": "One of the last places with wild polio.",
+        "value": "Pakistan is one of the last places with wild polio, and malaria and dengue are widespread.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Pakistan"
@@ -99,7 +99,7 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming, textiles, remittances.",
+        "value": "Farming, textiles and money sent home by workers abroad.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Pakistan"
@@ -111,13 +111,13 @@
         "source": "Wikipedia: Pakistan (checked 8 Nov 2026)"
       },
       "wealth": {
-        "value": "A lower-middle-income country.",
+        "value": "A lower-middle-income country, with a large informal economy and heavy debt.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Pakistan"
       },
       "moneyAndTax": {
-        "value": "The rupee.",
+        "value": "The Pakistani rupee; taxes are collected from a small share of the population.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Pakistan"
@@ -131,7 +131,7 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A federal parliamentary republic.",
+        "value": "A federal parliamentary republic, with four provinces and several territories.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Pakistan"
@@ -143,13 +143,13 @@
         "source": "Wikipedia: Pakistan (checked 8 Nov 2026)"
       },
       "succession": {
-        "value": "Elections and coups.",
+        "value": "Governments have been changed by elections and by military coups (1958, 1977, 1999).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Pakistan"
       },
       "institutions": {
-        "value": "Strong army.",
+        "value": "The army holds great influence, and the parliament and courts have often clashed with it.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Pakistan"
@@ -181,13 +181,13 @@
         "source": "Wikipedia: Pakistan (checked 8 Nov 2026)"
       },
       "territoryChange": {
-        "value": "Kashmir is disputed with India.",
-        "year": null,
+        "value": "East Pakistan broke away as Bangladesh in 1971; Kashmir remains disputed with India.",
+        "year": 1971,
         "certainty": "disputed",
         "source": "Wikipedia: Pakistan"
       },
       "alliancesRivals": {
-        "value": "Close to China; rival of India.",
+        "value": "Close to China and Saudi Arabia, with a long rivalry with India and an on-off partnership with the United States.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Pakistan"
@@ -233,7 +233,7 @@
         "source": "Wikipedia: Pakistan (checked 8 Nov 2026)"
       },
       "artsArchitecture": {
-        "value": "Qawwali music; truck art.",
+        "value": "Qawwali music, truck art, Mughal buildings such as the Badshahi Mosque in Lahore, and Urdu poetry.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Pakistan"
@@ -251,9 +251,9 @@
         "source": "Wikipedia: Pakistan"
       },
       "dailyLife": {
-        "value": "Houses; biryani, roti, chai.",
+        "value": "Many families eat biryani, roti and chai, and large extended families often live together.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Pakistan"
       }
     },
@@ -297,7 +297,7 @@
         "source": "Wikipedia: Pakistan"
       },
       "outcome": {
-        "value": "Still in existence.",
+        "value": "Pakistan continues as an independent state.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Pakistan"
