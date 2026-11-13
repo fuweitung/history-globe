@@ -41,19 +41,19 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Central and western Japan.",
+        "value": "Central and western Japan, centred on the Nara basin (Yamato).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kofun period"
       },
       "terrain": {
-        "value": "Mountainous islands with small plains.",
+        "value": "Mountainous islands with small coastal plains and river basins.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kofun period"
       },
       "climate": {
-        "value": "Temperate.",
+        "value": "Temperate, with four seasons and a rainy season in summer.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kofun period"
@@ -65,7 +65,7 @@
         "source": "Wikipedia: Yamato period (checked 8 Nov 2026)"
       },
       "disasters": {
-        "value": "Earthquakes and epidemics.",
+        "value": "Earthquakes and epidemics struck repeatedly.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Kofun period"
@@ -73,19 +73,19 @@
     },
     "population": {
       "population": {
-        "value": "Perhaps 3–5 million by 700.",
+        "value": "Perhaps 3–5 million people by the year 700.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Kofun period"
       },
       "urbanisation": {
-        "value": "Palace sites in the Asuka area.",
+        "value": "Palaces and capital sites in the Asuka area, and later Fujiwara-kyō (694).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kofun period"
       },
       "disease": {
-        "value": "Smallpox epidemics (from the 500s).",
+        "value": "Smallpox epidemics from the 500s, and the great smallpox epidemic of 735–37.",
         "year": 585,
         "certainty": "confirmed",
         "source": "Wikipedia: Kofun period"
@@ -99,7 +99,7 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Rice farming.",
+        "value": "Rice farming, with iron working and fishing.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kofun period"
@@ -155,7 +155,7 @@
         "source": "Wikipedia: Asuka period (checked 8 Nov 2026)"
       },
       "stability": {
-        "value": "Jinshin War (672).",
+        "value": "The Jinshin War of 672 was a succession struggle that strengthened the throne.",
         "year": 672,
         "certainty": "confirmed",
         "source": "Wikipedia: Kofun period"
@@ -169,7 +169,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Armoured cavalry and iron weapons.",
+        "value": "Armoured cavalry and iron weapons, influenced by Korea and China.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kofun period"
@@ -195,7 +195,7 @@
     },
     "technology": {
       "inventions": {
-        "value": "No major inventions are recorded.",
+        "value": "No major inventions are recorded, though Japan adapted Chinese writing and law.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Kofun period"
@@ -213,7 +213,7 @@
         "source": "Wikipedia: Kofun period"
       },
       "communicationTransport": {
-        "value": "Roads and ships.",
+        "value": "Roads and ships linked the Yamato court to Korea and the provinces.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kofun period"
@@ -245,15 +245,15 @@
         "source": "Wikipedia: Kofun period"
       },
       "sharedIdentity": {
-        "value": "Loyalty to the ruler and lineage.",
+        "value": "Loyalty to the Yamato rulers and the idea of divine descent.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Kofun period"
       },
       "dailyLife": {
-        "value": "Pit and raised-floor houses; rice.",
+        "value": "Most people lived in pit houses or raised-floor houses and ate rice and fish.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Kofun period"
       }
     },
@@ -291,13 +291,13 @@
         "source": "Wikipedia: Asuka period (checked 8 Nov 2026)"
       },
       "declineSignals": {
-        "value": "None; it became the Nara state.",
+        "value": "No decline: the state grew into the Nara state with its first permanent capital.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kofun period"
       },
       "outcome": {
-        "value": "Capital moved to Nara (710).",
+        "value": "The capital moved to Nara in 710, beginning the Nara period.",
         "year": 710,
         "certainty": "confirmed",
         "source": "Wikipedia: Kofun period"
