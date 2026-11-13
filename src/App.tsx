@@ -755,7 +755,10 @@ function About() {
       </p>
       <h3 className="pt-2 text-[11px] font-semibold tracking-wider text-parchment-300 uppercase">Made by</h3>
       <div className="rounded-xl bg-ink-800/60 px-3 py-3 ring-1 ring-white/10">
-        <div className="font-semibold text-parchment-50">Tung Fu Wei</div>
+        <div className="flex items-center gap-3">
+          <img src={`${import.meta.env.BASE_URL}tung-fu-wei.jpg`} alt="Tung Fu Wei" width={48} height={48} className="size-12 rounded-full ring-1 ring-white/15" />
+          <div className="font-semibold text-parchment-50">Tung Fu Wei</div>
+        </div>
         <p className="mt-1 text-parchment-200">
           I’m Malaysian and study mechanical engineering at Northumbria University, with experience in engineering, finance and real estate. I made History Globe because we need to remember what happened in the past, to avoid repeating the same mistakes.
         </p>
