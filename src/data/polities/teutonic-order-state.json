@@ -73,10 +73,10 @@
     },
     "population": {
       "population": {
-        "value": "Perhaps a few hundred thousand people in Prussia around 1400; numbers are uncertain.",
-        "year": null,
+        "value": "About 220,000 inhabitants at the beginning of the 14th century; the page gives no peak figure.",
+        "year": 1300,
         "certainty": "estimated",
-        "source": "Wikipedia: State of the Teutonic Order"
+        "source": "Wikipedia: State of the Teutonic Order (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Hanseatic towns: Danzig, Elbing, Königsberg.",
@@ -175,10 +175,10 @@
         "source": "Wikipedia: State of the Teutonic Order"
       },
       "majorWars": {
-        "value": "Prussian crusade (1230–83); Grunwald (1410).",
+        "value": "Battle of Grunwald, 15 July 1410, a Polish–Lithuanian victory that the page says marked the start of the state’s decline; Thirteen Years’ War 1454–1466, after the Prussian Confederation asked Casimir IV for support (he signed incorporation on 6 March 1454).",
         "year": 1410,
         "certainty": "confirmed",
-        "source": "Wikipedia: State of the Teutonic Order"
+        "source": "Wikipedia: State of the Teutonic Order (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Second Peace of Thorn (1466): lost Danzig, Marienburg and western Prussia to Poland and became a Polish vassal.",
@@ -279,16 +279,16 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Invited by Duke Konrad of Masovia; the knights began the conquest of Prussia in 1230.",
-        "year": 1230,
+        "value": "The Golden Bull of Rimini (March 1226) tied Prussia to the Order; the Knights began the Prussian Crusade in 1230. The 1224 decree of Frederick II placed the region under imperial immediacy but is not described as the founding.",
+        "year": 1226,
         "certainty": "confirmed",
-        "source": "Wikipedia: State of the Teutonic Order"
+        "source": "Wikipedia: State of the Teutonic Order (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "About 1350–1400, under Grand Masters such as Winrich von Kniprode (1351–82).",
-        "year": 1400,
+        "value": "At its greatest extent in the early 15th century the state included Chełmno Land, Courland, Gotland, Livonia, Estonia, Neumark, Pomerelia, Prussia and Samogitia; the page gives no total area. Marienburg was capital 1308–1454 (infobox), then Königsberg 1454–1525.",
+        "year": 1410,
         "certainty": "confirmed",
-        "source": "Wikipedia: State of the Teutonic Order"
+        "source": "Wikipedia: State of the Teutonic Order (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "Defeat at Grunwald (Tannenberg) by Poland–Lithuania in 1410, followed by heavy war costs and taxes.",
@@ -297,10 +297,10 @@
         "source": "Wikipedia: State of the Teutonic Order"
       },
       "outcome": {
-        "value": "Grand Master Albert of Brandenburg made Prussia a Lutheran duchy under Polish overlordship in 1525.",
-        "year": 1525,
+        "value": "Second Peace of Thorn, 19 October 1466: the west became Royal Prussia and the rest a Polish fief. Albert of Brandenburg-Ansbach resigned as Grand Master, adopted Lutheranism and became Duke of Prussia (Prussian Homage, 10 April 1525).",
+        "year": 1466,
         "certainty": "confirmed",
-        "source": "Wikipedia: State of the Teutonic Order"
+        "source": "Wikipedia: State of the Teutonic Order (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {
