@@ -70,7 +70,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | Civilisations with events | `████████████████████` 100% | 499 of 499 |
 | Civilisations with famous people | `██████████████░░░░░░` 72% | 357 of 499; many prehistoric cultures have no known names |
 | Civilisations linked to others | `████████████████████` 100% | 499 of 499 (succeeded, conquered, traded with…) |
-| Civilisation pictures | `████████████████████` 99% | 495 of 499 |
+| Civilisation pictures | `████████████████████` 100% | 498 of 499 |
 | “Known for” pictures | `█████████████░░░░░░░` 63% | 980 of 1551 items |
 | People pictures | `██████████████████░░` 91% | 412 of 451 |
 | Event pictures | `████████████████░░░░` 78% | 753 of 962 |
