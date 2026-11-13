@@ -1,3 +1,4 @@
+import { reportUrl } from './lib/report';
 import { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react';
 import MapView, { type CameraRequest, type VisibleEvent } from './components/MapView';
 import TimelineSlider from './components/TimelineSlider';
@@ -563,7 +564,16 @@ export default function App() {
 
       <Panel open={view.kind !== 'none' && panelBody !== null} onClose={closePanel} contentKey={panelKey} title={panelTitle} wide={view.kind === 'compare'} snapOnOpen={view.kind === 'story' ? 'half' : 'peek'}>
         {panelBody}
+        {panelBody && view.kind !== 'about' && panelTitle && (
+          <p className="px-5 pb-8 text-[12px] text-parchment-300">
+            Found a mistake?{' '}
+            <a className="text-gold-300 underline" href={reportUrl(panelTitle)} target="_blank" rel="noopener noreferrer">
+              Report it
+            </a>
+          </p>
+        )}
       </Panel>
+      <BetaBanner />
 
       {/* ── Timeline ── */}
       <div ref={timelineRef} className="pointer-events-none absolute inset-x-0 bottom-0 z-20 px-2 pb-[max(0.5rem,env(safe-area-inset-bottom))] sm:px-4 sm:pb-4">
@@ -690,6 +700,43 @@ function EventLegend({
   );
 }
 
+const BETA_KEY = 'history-globe-beta-dismissed';
+
+function BetaBanner() {
+  const [shown, setShown] = useState(() => {
+    try {
+      return localStorage.getItem(BETA_KEY) !== '1';
+    } catch {
+      return true;
+    }
+  });
+  if (!shown) return null;
+  const dismiss = () => {
+    setShown(false);
+    try {
+      localStorage.setItem(BETA_KEY, '1');
+    } catch {
+      /* ignore */
+    }
+  };
+  return (
+    <div
+      role="note"
+      className="absolute bottom-[calc(var(--tl-h,6rem)+0.5rem)] left-2 z-20 flex max-w-[calc(100%-1rem)] items-start gap-2 rounded-xl bg-ink-900/90 px-3 py-2 text-[12px] leading-snug text-parchment-200 shadow-xl ring-1 ring-white/10 backdrop-blur-md sm:left-4 sm:max-w-sm"
+    >
+      <span>
+        <strong className="text-gold-300">Beta:</strong> an early version. Some facts are still being checked.{' '}
+        <a className="text-gold-300 underline" href={reportUrl()} target="_blank" rel="noopener noreferrer">
+          Report a mistake
+        </a>
+      </span>
+      <button type="button" onClick={dismiss} aria-label="Dismiss beta notice" className="-mt-0.5 shrink-0 rounded px-1 text-base leading-none text-parchment-300 hover:text-parchment-50">
+        ×
+      </button>
+    </div>
+  );
+}
+
 function About() {
   return (
     <div className="space-y-4 px-5 pt-4 pb-8 text-[13px] leading-relaxed text-parchment-200 md:pt-5">
@@ -713,6 +760,14 @@ function About() {
       </p>
       <p>Land outlines: <a className="text-gold-300 underline" href="https://www.naturalearthdata.com/" target="_blank" rel="noopener">Natural Earth</a> (public domain). Map engine: MapLibre GL JS.</p>
       <p>Figures such as populations and GDP are scholarly estimates and are labelled with their certainty and source.</p>
+      <h3 className="pt-2 text-[11px] font-semibold tracking-wider text-parchment-300 uppercase">Beta, mistakes and licence</h3>
+      <p>
+        This is an early version and some facts are still being checked. Spotted something wrong?{' '}
+        <a className="text-gold-300 underline" href={reportUrl()} target="_blank" rel="noopener noreferrer">Report a mistake</a>.
+      </p>
+      <p>
+        The code is open source under the GPL-3.0 licence. Written content and pictures stay under the licences of their sources, shown beside each item and picture.
+      </p>
     </div>
   );
 }
