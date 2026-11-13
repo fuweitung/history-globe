@@ -47,7 +47,7 @@
         "source": "Wikipedia: East Germany (checked 8 Nov 2026)"
       },
       "terrain": {
-        "value": "North European Plain, uplands.",
+        "value": "The North European Plain in the north and uplands in the south, with the Baltic coast.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: East Germany"
@@ -59,13 +59,13 @@
         "source": "Wikipedia: East Germany"
       },
       "resources": {
-        "value": "Brown coal (lignite), potash.",
+        "value": "Brown coal (lignite), potash and some uranium.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: East Germany"
       },
       "disasters": {
-        "value": "Heavy pollution from lignite.",
+        "value": "Heavy air and water pollution from lignite mining and chemical plants.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: East Germany"
@@ -73,9 +73,9 @@
     },
     "population": {
       "population": {
-        "value": "About 17 million and falling.",
+        "value": "About 17 million at the start, falling to under 16.5 million by 1990 as people left.",
         "year": 1960,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: East Germany"
       },
       "urbanisation": {
@@ -85,7 +85,7 @@
         "source": "Wikipedia: East Germany (checked 8 Nov 2026)"
       },
       "disease": {
-        "value": "Good basic health care.",
+        "value": "Basic health care was free and widely available, but air pollution was serious in industrial regions.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: East Germany"
@@ -105,7 +105,7 @@
         "source": "Wikipedia: East Germany (checked 8 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "Trade with the Soviet bloc (Comecon).",
+        "value": "Trade mostly with the Soviet bloc through Comecon.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: East Germany"
@@ -123,7 +123,7 @@
         "source": "Wikipedia: East Germany (checked 8 Nov 2026)"
       },
       "inequality": {
-        "value": "Party elite had privileges.",
+        "value": "The party elite had privileges, such as access to better housing and goods.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: East Germany"
@@ -161,27 +161,27 @@
         "source": "Wikipedia: East Germany (checked 8 Nov 2026)"
       },
       "eliteConflict": {
-        "value": "Party power struggles.",
-        "year": null,
+        "value": "Struggles within the ruling party, such as the removal of Walter Ulbricht in 1971.",
+        "year": 1971,
         "certainty": "confirmed",
         "source": "Wikipedia: East Germany"
       }
     },
     "military": {
       "armyAndTech": {
-        "value": "National People’s Army; Soviet troops.",
+        "value": "The National People’s Army, and large Soviet forces stationed on its soil.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: East Germany"
       },
       "majorWars": {
-        "value": "None.",
+        "value": "No wars; the state was part of the Warsaw Pact.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: East Germany"
       },
       "territoryChange": {
-        "value": "None.",
+        "value": "No changes between 1949 and the reunification of Germany in 1990.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: East Germany"
@@ -195,9 +195,9 @@
     },
     "technology": {
       "inventions": {
-        "value": "Few.",
+        "value": "Few notable inventions; East Germany was known for sport science and the Trabant car.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: East Germany"
       },
       "scienceEducation": {
@@ -213,7 +213,7 @@
         "source": "Wikipedia: East Germany (checked 8 Nov 2026)"
       },
       "communicationTransport": {
-        "value": "Railways; Trabant cars.",
+        "value": "Railways and Trabant cars; people often waited years to buy a car.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: East Germany"
@@ -239,15 +239,15 @@
         "source": "Wikipedia: East Germany (checked 8 Nov 2026)"
       },
       "socialStructure": {
-        "value": "Workers’ state; full employment.",
+        "value": "A workers’ state with full employment; the Stasi secret police monitored many citizens.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: East Germany"
       },
       "sharedIdentity": {
-        "value": "Weak; many felt German first.",
+        "value": "Weak; many people felt German first, and watched West German television.",
         "year": null,
-        "certainty": "disputed",
+        "certainty": "estimated",
         "source": "Wikipedia: East Germany"
       },
       "dailyLife": {
@@ -285,8 +285,8 @@
         "source": "Wikipedia: East Germany (checked 8 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "1970s under Honecker.",
-        "year": 1971,
+        "value": "The 1970s under Erich Honecker, when living standards rose.",
+        "year": 1975,
         "certainty": "confirmed",
         "source": "Wikipedia: East Germany"
       },

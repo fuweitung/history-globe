@@ -56,25 +56,25 @@
         "source": "Wikipedia: French First Republic (checked 12 Nov 2026)"
       },
       "terrain": {
-        "value": "Plains, Massif Central, Alps, Pyrenees.",
+        "value": "Plains, the Massif Central, the Alps and the Pyrenees.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: French First Republic"
       },
       "climate": {
-        "value": "Temperate.",
+        "value": "Temperate, with an Atlantic climate in the west and a Mediterranean one in the south.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: French First Republic"
       },
       "resources": {
-        "value": "Farmland, wine, iron.",
+        "value": "Farmland, wine, iron and coal.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: French First Republic"
       },
       "disasters": {
-        "value": "Year Without a Summer (1816).",
+        "value": "The Year Without a Summer (1816) caused harvest failures after the Tambora eruption.",
         "year": 1816,
         "certainty": "confirmed",
         "source": "Wikipedia: French First Republic"
@@ -88,19 +88,19 @@
         "source": "Wikipedia: French First Republic (checked 12 Nov 2026)"
       },
       "urbanisation": {
-        "value": "Paris about 550,000.",
+        "value": "Paris had about 550,000 people, followed by Lyon, Marseille and Bordeaux.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: French First Republic"
       },
       "disease": {
-        "value": "Typhus in armies.",
+        "value": "Typhus spread among armies, notably during the retreat from Russia in 1812.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: French First Republic"
       },
       "migration": {
-        "value": "Nobles fled abroad (émigrés).",
+        "value": "Nobles and priests fled abroad during the Revolution (the émigrés).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: French First Republic"
@@ -108,7 +108,7 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming; early industry.",
+        "value": "Farming dominated, with early industry in textiles and ironworks.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: French First Republic"
@@ -132,8 +132,8 @@
         "source": "Wikipedia: French First Republic"
       },
       "inequality": {
-        "value": "Privileges of nobles abolished (1789).",
-        "year": null,
+        "value": "The privileges of nobles and clergy were abolished in 1789 and replaced by equality before the law.",
+        "year": 1789,
         "certainty": "confirmed",
         "source": "Wikipedia: French First Republic"
       }
@@ -152,13 +152,13 @@
         "source": "Wikipedia: French First Republic"
       },
       "succession": {
-        "value": "Coups and restorations.",
+        "value": "Power changed through coups and restorations, from the Directory to Napoleon and then to the Bourbons.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: French First Republic"
       },
       "institutions": {
-        "value": "Prefects, lycées, Legion of Honour.",
+        "value": "Prefects, lycées (state schools), the Legion of Honour and the Napoleonic Code.",
         "year": 1802,
         "certainty": "confirmed",
         "source": "Wikipedia: French First Republic"
@@ -204,9 +204,9 @@
     },
     "technology": {
       "inventions": {
-        "value": "Semaphore telegraph; food canning.",
+        "value": "The Chappe semaphore telegraph (1790s) and food canning (Nicolas Appert, 1809).",
         "year": 1795,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: French First Republic"
       },
       "scienceEducation": {
@@ -216,13 +216,13 @@
         "source": "Wikipedia: French First Republic"
       },
       "openness": {
-        "value": "Spread revolutionary ideas by conquest.",
+        "value": "Spread revolutionary ideas, laws and administration across Europe by conquest.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: French First Republic"
       },
       "communicationTransport": {
-        "value": "Roads; Chappe telegraph.",
+        "value": "Roads and the Chappe semaphore telegraph carried messages quickly.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: French First Republic"
@@ -236,7 +236,7 @@
         "source": "Wikipedia: French First Republic"
       },
       "languageWriting": {
-        "value": "French.",
+        "value": "French, which spread through schools and government as the national language.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: French First Republic"
@@ -248,21 +248,21 @@
         "source": "Wikipedia: French First Republic"
       },
       "socialStructure": {
-        "value": "Citizens equal before the law.",
+        "value": "Citizens equal before the law, though wealth and property still divided society.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: French First Republic"
       },
       "sharedIdentity": {
-        "value": "Nation and citizenship.",
+        "value": "A new idea of the nation and of citizenship, rather than loyalty to a king.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: French First Republic"
       },
       "dailyLife": {
-        "value": "Bread prices drove protests.",
+        "value": "Bread prices drove protests, and conscription affected many families.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: French First Republic"
       }
     },
@@ -294,7 +294,7 @@
         "source": "Wikipedia: French First Republic (checked 12 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Napoleon’s Empire (1804–12).",
+        "value": "Napoleon’s Empire at its greatest extent (1804–12).",
         "year": 1810,
         "certainty": "confirmed",
         "source": "Wikipedia: French First Republic"
