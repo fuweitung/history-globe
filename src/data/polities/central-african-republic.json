@@ -47,25 +47,25 @@
         "source": "Wikipedia: Central African Republic (checked 12 Nov 2026)"
       },
       "terrain": {
-        "value": "Plateau, savanna, rainforest.",
+        "value": "A landlocked plateau of savanna in the north and east and rainforest in the south-west.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Central African Republic"
       },
       "climate": {
-        "value": "Tropical.",
+        "value": "Tropical, with a rainy season from May to October and a dry season.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Central African Republic"
       },
       "resources": {
-        "value": "Diamonds, gold, timber, uranium.",
+        "value": "Diamonds, gold, timber, uranium and farmland.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Central African Republic"
       },
       "disasters": {
-        "value": "Floods.",
+        "value": "Floods along the Ubangi River and droughts in the north.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Central African Republic"
@@ -85,7 +85,7 @@
         "source": "Wikipedia: Central African Republic (checked 12 Nov 2026)"
       },
       "disease": {
-        "value": "Malaria; HIV.",
+        "value": "Malaria and HIV are widespread, and health care is very limited.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Central African Republic"
@@ -99,21 +99,21 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming, diamonds, timber.",
+        "value": "Subsistence farming, diamonds and timber, with most people living in poverty.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Central African Republic"
       },
       "tradeRoutes": {
-        "value": "Ubangi River.",
+        "value": "Goods travel along the Ubangi River and by road through Cameroon, since the country is landlocked.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Central African Republic"
       },
       "wealth": {
-        "value": "One of the poorest countries.",
+        "value": "One of the poorest countries in the world, despite its minerals.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Central African Republic"
       },
       "moneyAndTax": {
@@ -149,7 +149,7 @@
         "source": "Wikipedia: Central African Republic (checked 12 Nov 2026)"
       },
       "institutions": {
-        "value": "Weak.",
+        "value": "Weak state institutions, with little control outside the capital Bangui.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Central African Republic"
@@ -169,14 +169,14 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Weak army; foreign forces present.",
+        "value": "A weak national army, with UN peacekeepers and foreign security forces present.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Central African Republic"
       },
       "majorWars": {
-        "value": "Central African Republic Civil War.",
-        "year": null,
+        "value": "The Central African Republic Civil War, which began in 2012 and killed thousands.",
+        "year": 2012,
         "certainty": "confirmed",
         "source": "Wikipedia: Central African Republic"
       },
@@ -213,7 +213,7 @@
         "source": "Wikipedia: Central African Republic"
       },
       "communicationTransport": {
-        "value": "River boats.",
+        "value": "River boats on the Ubangi, and a few poor roads.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Central African Republic"
@@ -239,21 +239,21 @@
         "source": "Wikipedia: Central African Republic (checked 12 Nov 2026)"
       },
       "socialStructure": {
-        "value": "Many groups.",
+        "value": "Many ethnic groups, including the Banda, Gbaya and Mandjia.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Central African Republic"
       },
       "sharedIdentity": {
-        "value": "Sango as a shared language.",
+        "value": "Sango, used as a common language, is the main shared symbol of national identity.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Central African Republic"
       },
       "dailyLife": {
-        "value": "Houses; cassava.",
+        "value": "Most families farm cassava and live in simple houses in villages.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Central African Republic"
       }
     },
@@ -265,7 +265,7 @@
         "source": "Wikipedia: Central African Republic"
       },
       "ideasReligions": {
-        "value": "Christianity.",
+        "value": "Christianity (Catholic and Protestant) and Islam, with traditional beliefs also widely held.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Central African Republic"
@@ -291,13 +291,13 @@
         "source": "Wikipedia: Central African Republic"
       },
       "declineSignals": {
-        "value": "Conflict.",
+        "value": "Repeated coups and conflicts since the 1960s have weakened the state.",
         "year": 2012,
         "certainty": "confirmed",
         "source": "Wikipedia: Central African Republic"
       },
       "outcome": {
-        "value": "Still in existence.",
+        "value": "The Central African Republic continues as an independent state.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Central African Republic"

@@ -85,7 +85,7 @@
         "source": "Wikipedia: El Salvador (checked 8 Nov 2026)"
       },
       "disease": {
-        "value": "Dengue.",
+        "value": "Dengue and chikungunya are the main mosquito-borne diseases.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: El Salvador"
@@ -105,15 +105,15 @@
         "source": "Wikipedia: El Salvador (checked 8 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "Pacific ports.",
+        "value": "Pacific ports such as Acajutla carry coffee, textiles and imports.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: El Salvador"
       },
       "wealth": {
-        "value": "An upper-middle-income country.",
+        "value": "An upper-middle-income country, with much income from money sent home by emigrants.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: El Salvador"
       },
       "moneyAndTax": {
@@ -143,7 +143,7 @@
         "source": "Wikipedia: El Salvador (checked 8 Nov 2026)"
       },
       "succession": {
-        "value": "Elections since 1992.",
+        "value": "Elections have been held since the peace accords of 1992.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: El Salvador"
@@ -169,7 +169,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Armed forces.",
+        "value": "A small armed force, reformed after the civil war, plus a large police and security presence.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: El Salvador"
@@ -181,7 +181,7 @@
         "source": "Wikipedia: El Salvador (checked 8 Nov 2026)"
       },
       "territoryChange": {
-        "value": "None.",
+        "value": "The border with Honduras, fought over in the 1969 “Football War”, was settled in part by the International Court of Justice in 1992.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: El Salvador"
@@ -213,7 +213,7 @@
         "source": "Wikipedia: El Salvador"
       },
       "communicationTransport": {
-        "value": "Roads.",
+        "value": "Roads and the Pan-American Highway; the railways are limited.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: El Salvador"
@@ -233,7 +233,7 @@
         "source": "Wikipedia: El Salvador (checked 8 Nov 2026)"
       },
       "artsArchitecture": {
-        "value": "Folk art.",
+        "value": "Folk art, including the colourful naive paintings of La Palma and the ceramics of Ilobasco.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: El Salvador"
@@ -245,9 +245,9 @@
         "source": "Wikipedia: El Salvador (checked 8 Nov 2026)"
       },
       "sharedIdentity": {
-        "value": "National identity.",
+        "value": "A shared identity shaped by the civil war and by a large diaspora in the United States.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: El Salvador"
       },
       "dailyLife": {
@@ -265,8 +265,8 @@
         "source": "Wikipedia: El Salvador (checked 8 Nov 2026)"
       },
       "ideasReligions": {
-        "value": "Liberation theology.",
-        "year": null,
+        "value": "Liberation theology was influential, and Archbishop Óscar Romero was killed in 1980.",
+        "year": 1980,
         "certainty": "confirmed",
         "source": "Wikipedia: El Salvador"
       },
@@ -297,7 +297,7 @@
         "source": "Wikipedia: El Salvador"
       },
       "outcome": {
-        "value": "Still in existence.",
+        "value": "El Salvador continues as an independent republic.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: El Salvador"
