@@ -161,7 +161,7 @@
         "source": "Wikipedia: Aridoamerica (checked 12 Nov 2026)"
       },
       "disasters": {
-        "value": "Droughts.",
+        "value": "Droughts, which made farming and foraging hard in the desert.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aridoamerica"
@@ -175,19 +175,19 @@
         "source": "Wikipedia: Aridoamerica"
       },
       "urbanisation": {
-        "value": "Camps and small villages.",
+        "value": "Camps and small villages; there were no large cities.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aridoamerica"
       },
       "disease": {
-        "value": "Epidemics from the 1500s.",
-        "year": 1576,
+        "value": "Epidemics of smallpox and other diseases followed contact with the Spanish from the 1500s.",
+        "year": 1520,
         "certainty": "confirmed",
         "source": "Wikipedia: Aridoamerica"
       },
       "migration": {
-        "value": "Seasonal movement.",
+        "value": "Seasonal movement between camps followed food sources.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aridoamerica"
@@ -207,13 +207,13 @@
         "source": "Wikipedia: Aridoamerica"
       },
       "wealth": {
-        "value": "Small-scale.",
+        "value": "Small-scale wealth, based on food stores, tools and trade goods.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Aridoamerica"
       },
       "moneyAndTax": {
-        "value": "Barter.",
+        "value": "Barter and gift exchange; there were no coins or state taxes.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aridoamerica"
@@ -227,31 +227,31 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Bands and villages.",
+        "value": "Bands and small villages led by respected members.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aridoamerica"
       },
       "keyRulers": {
-        "value": "Band leaders.",
+        "value": "No kings; bands were led by respected hunters, elders or war leaders.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Aridoamerica"
       },
       "succession": {
-        "value": "Leaders chosen by ability.",
+        "value": "Leaders were chosen for their skill and reputation.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aridoamerica"
       },
       "institutions": {
-        "value": "Councils.",
+        "value": "Councils of elders and family heads made decisions.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aridoamerica"
       },
       "stability": {
-        "value": "Mobile societies.",
+        "value": "Mobile societies, with few permanent settlements.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aridoamerica"
@@ -265,7 +265,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Bows and arrows.",
+        "value": "Bows and arrows, and strong tactics suited to the desert; they resisted Spain for decades.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aridoamerica"
@@ -277,13 +277,13 @@
         "source": "Wikipedia: Aridoamerica"
       },
       "territoryChange": {
-        "value": "Spanish missions and mines.",
-        "year": null,
+        "value": "Spanish missions, ranches and silver mines pushed into their lands after 1546.",
+        "year": 1546,
         "certainty": "confirmed",
         "source": "Wikipedia: Aridoamerica"
       },
       "alliancesRivals": {
-        "value": "Fought Spain.",
+        "value": "Fought the Spanish in the Chichimeca War (1550–90), and traded with neighbouring peoples.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aridoamerica"
@@ -297,19 +297,19 @@
         "source": "Wikipedia: Aridoamerica"
       },
       "scienceEducation": {
-        "value": "Desert plant knowledge.",
+        "value": "Deep knowledge of desert plants, water sources and animals.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aridoamerica"
       },
       "openness": {
-        "value": "Trade and exchange with neighbours.",
+        "value": "Open to trade and exchange with neighbours, but resisted conquest.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Aridoamerica"
       },
       "communicationTransport": {
-        "value": "On foot.",
+        "value": "On foot along known trails.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aridoamerica"
@@ -317,7 +317,7 @@
     },
     "culture": {
       "religion": {
-        "value": "Traditional religions.",
+        "value": "Traditional religions tied to nature and the seasons.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aridoamerica"
@@ -329,13 +329,13 @@
         "source": "Wikipedia: Aridoamerica (checked 12 Nov 2026)"
       },
       "artsArchitecture": {
-        "value": "Rock art.",
+        "value": "Rock art, basketry and body painting.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aridoamerica"
       },
       "socialStructure": {
-        "value": "Bands and families.",
+        "value": "Bands, families and kin groups.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aridoamerica"
@@ -347,9 +347,9 @@
         "source": "Wikipedia: Aridoamerica"
       },
       "dailyLife": {
-        "value": "Mesquite and agave foods.",
+        "value": "Foods included mesquite pods, agave hearts and cactus fruit, plus game.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Aridoamerica"
       }
     },
@@ -361,7 +361,7 @@
         "source": "Wikipedia: Aridoamerica"
       },
       "ideasReligions": {
-        "value": "Peyote ceremonies (Huichol).",
+        "value": "Ceremonies such as the Huichol peyote pilgrimage show strong spiritual traditions.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Aridoamerica"
@@ -387,7 +387,7 @@
         "source": "Wikipedia: Aridoamerica"
       },
       "declineSignals": {
-        "value": "Mining frontier (1546).",
+        "value": "The mining frontier from 1546 and war and disease reduced their numbers.",
         "year": 1546,
         "certainty": "confirmed",
         "source": "Wikipedia: Aridoamerica"

@@ -47,25 +47,25 @@
         "source": "Wikipedia: Chenla (checked 8 Nov 2026)"
       },
       "terrain": {
-        "value": "Mekong plains and the Tonlé Sap.",
+        "value": "Mekong plains, the Tonlé Sap lake and forested hills.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Chenla"
       },
       "climate": {
-        "value": "Tropical monsoon.",
+        "value": "Tropical monsoon, with a wet and a dry season.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Chenla"
       },
       "resources": {
-        "value": "Rice, fish.",
+        "value": "Rice, fish and forest products.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Chenla"
       },
       "disasters": {
-        "value": "Floods.",
+        "value": "Floods of the Mekong and Tonlé Sap.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Chenla"
@@ -99,7 +99,7 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Rice farming.",
+        "value": "Rice farming, fishing and trade.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Chenla"
@@ -117,13 +117,13 @@
         "source": "Wikipedia: Chenla"
       },
       "moneyAndTax": {
-        "value": "Taxes in kind.",
+        "value": "Taxes were paid in kind, such as rice and labour.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Chenla"
       },
       "inequality": {
-        "value": "Kings, priests, farmers, slaves.",
+        "value": "Kings, priests and nobles ruled over farmers and slaves.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Chenla"
@@ -143,13 +143,13 @@
         "source": "Wikipedia: Chenla (checked 8 Nov 2026)"
       },
       "succession": {
-        "value": "Royal family.",
+        "value": "The throne passed through the royal family, with frequent disputes.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Chenla"
       },
       "institutions": {
-        "value": "Temples with lands.",
+        "value": "Temples held lands and played a role in government.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Chenla"
@@ -161,7 +161,7 @@
         "source": "Wikipedia: Chenla (checked 8 Nov 2026)"
       },
       "eliteConflict": {
-        "value": "Rival princes.",
+        "value": "Rival princes divided the kingdom into Land and Water Chenla.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Chenla"
@@ -169,20 +169,20 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Infantry and elephants.",
+        "value": "Infantry and war elephants.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Chenla"
       },
       "majorWars": {
-        "value": "Wars that absorbed Funan.",
+        "value": "Wars that absorbed Funan and divided the kingdom.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Chenla"
       },
       "territoryChange": {
-        "value": "Split, then reunited as Angkor.",
-        "year": null,
+        "value": "Split into Land Chenla and Water Chenla, then reunited under Jayavarman II in 802.",
+        "year": 802,
         "certainty": "confirmed",
         "source": "Wikipedia: Chenla"
       },
@@ -201,7 +201,7 @@
         "source": "Wikipedia: Chenla"
       },
       "scienceEducation": {
-        "value": "Sanskrit learning.",
+        "value": "Sanskrit learning in temples, shown in inscriptions.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Chenla"
@@ -213,7 +213,7 @@
         "source": "Wikipedia: Chenla"
       },
       "communicationTransport": {
-        "value": "Rivers.",
+        "value": "Rivers and trails.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Chenla"
@@ -233,7 +233,7 @@
         "source": "Wikipedia: Chenla (checked 8 Nov 2026)"
       },
       "artsArchitecture": {
-        "value": "Brick temples.",
+        "value": "Brick temples and carved lintels in the pre-Angkor style.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Chenla"
@@ -251,15 +251,15 @@
         "source": "Wikipedia: Chenla"
       },
       "dailyLife": {
-        "value": "Rice and fish.",
+        "value": "Rice and fish were the staple foods.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Chenla"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "Funan, Champa, Dvaravati.",
+        "value": "Funan, Champa and Dvaravati.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Chenla"
@@ -285,8 +285,8 @@
         "source": "Wikipedia: Chenla (checked 8 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Isanavarman I (about 616–637).",
-        "year": 625,
+        "value": "Under Isanavarman I (about 616–637), who built the capital Isanapura.",
+        "year": 616,
         "certainty": "confirmed",
         "source": "Wikipedia: Chenla"
       },
