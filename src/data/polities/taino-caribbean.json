@@ -73,10 +73,10 @@
     },
     "population": {
       "population": {
-        "value": "Hispaniola alone may have had hundreds of thousands to over a million people in 1492.",
+        "value": "Pre-1492 estimates for Hispaniola range from 10,000 to 1,000,000; a 2020 genetic analysis suggests no more than a few tens of thousands.",
         "year": 1492,
         "certainty": "disputed",
-        "source": "Wikipedia: Taíno"
+        "source": "Wikipedia: Taíno (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Villages of a few hundred to a few thousand.",
@@ -175,10 +175,10 @@
         "source": "Wikipedia: Taíno"
       },
       "majorWars": {
-        "value": "Resistance to Spanish conquest (Hatuey, 1512).",
+        "value": "Hatuey was burned at the stake on 2 February 1512; Enriquillo led a successful rebellion on Hispaniola in the 1520s.",
         "year": 1512,
         "certainty": "confirmed",
-        "source": "Wikipedia: Taíno"
+        "source": "Wikipedia: Taíno (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Lost their islands to Spain.",
@@ -279,10 +279,10 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Farming villages with cassava gardens spread across the islands after about 600 CE.",
-        "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Taíno"
+        "value": "DNA studies link the Taíno to pottery-making farmers who entered the Caribbean from north-eastern South America about 2,500 years ago.",
+        "year": -500,
+        "certainty": "estimated",
+        "source": "Wikipedia: Taíno (checked 13 Nov 2026)"
       },
       "peakPeriod": {
         "value": "About 1200–1500, when large chiefdoms existed on Hispaniola.",
@@ -291,16 +291,16 @@
         "source": "Wikipedia: Taíno"
       },
       "declineSignals": {
-        "value": "Conquest and disease after 1492.",
+        "value": "Columbus landed in the Bahamas on 12 October 1492; forced labour under the encomienda and infectious disease followed; famine in 1495–96 reportedly killed about 50,000.",
         "year": 1492,
         "certainty": "confirmed",
-        "source": "Wikipedia: Taíno"
+        "source": "Wikipedia: Taíno (checked 13 Nov 2026)"
       },
       "outcome": {
-        "value": "Descendants survive in Caribbean populations today.",
-        "year": null,
+        "value": "80–90% of the Taíno died within 30 years of contact, mostly from disease; Spanish documents declared them extinct as early as 1550.",
+        "year": 1550,
         "certainty": "confirmed",
-        "source": "Wikipedia: Taíno"
+        "source": "Wikipedia: Taíno (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {
