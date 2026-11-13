@@ -700,52 +700,29 @@ function EventLegend({
   );
 }
 
-const BETA_KEY = 'history-globe-beta-dismissed';
-
+/** Always-visible beta notice (not dismissible, so everyone knows this is an early version). */
 function BetaBanner() {
-  const [shown, setShown] = useState(() => {
-    try {
-      return localStorage.getItem(BETA_KEY) !== '1';
-    } catch {
-      return true;
-    }
-  });
   const ref = useRef<HTMLDivElement>(null);
   // Tell the layout how tall the banner is, so the top bar, legend, zoom buttons and panel sit below it.
   useLayoutEffect(() => {
     const root = document.documentElement;
     const el = ref.current;
-    if (!shown || !el) {
-      root.style.setProperty('--banner-h', '0px');
-      return;
-    }
+    if (!el) return;
     const ro = new ResizeObserver(() => root.style.setProperty('--banner-h', `${el.offsetHeight}px`));
     ro.observe(el);
     return () => {
       ro.disconnect();
       root.style.setProperty('--banner-h', '0px');
     };
-  }, [shown]);
-  if (!shown) return null;
-  const dismiss = () => {
-    setShown(false);
-    try {
-      localStorage.setItem(BETA_KEY, '1');
-    } catch {
-      /* ignore */
-    }
-  };
+  }, []);
   return (
-    <div ref={ref} role="note" className="absolute inset-x-0 top-0 z-30 flex items-center justify-center gap-3 bg-gold-400 px-3 py-1.5 text-[12px] leading-snug text-ink-900 shadow-md">
-      <span className="text-center">
+    <div ref={ref} role="note" className="absolute inset-x-0 top-0 z-30 flex items-center justify-center bg-gold-400 px-3 py-1.5 text-center text-[12px] leading-snug text-ink-900 shadow-md">
+      <span>
         <strong>Beta:</strong> an early version, and some facts are still being checked.{' '}
         <a className="font-semibold underline" href={reportUrl()} target="_blank" rel="noopener noreferrer">
           Report a mistake
         </a>
       </span>
-      <button type="button" onClick={dismiss} aria-label="Dismiss beta notice" className="shrink-0 rounded px-1.5 text-lg leading-none hover:bg-black/10">
-        ×
-      </button>
     </div>
   );
 }
@@ -773,6 +750,20 @@ function About() {
       </p>
       <p>Land outlines: <a className="text-gold-300 underline" href="https://www.naturalearthdata.com/" target="_blank" rel="noopener">Natural Earth</a> (public domain). Map engine: MapLibre GL JS.</p>
       <p>Figures such as populations and GDP are scholarly estimates and are labelled with their certainty and source.</p>
+      <h3 className="pt-2 text-[11px] font-semibold tracking-wider text-parchment-300 uppercase">Made by</h3>
+      {/* TODO: replace the placeholders with the creators' real names, roles and links. */}
+      <ul className="space-y-2">
+        <li className="rounded-xl bg-ink-800/60 px-3 py-2 ring-1 ring-white/10">
+          <div className="font-semibold text-parchment-50">[Name]</div>
+          <div className="text-parchment-300">[Role, e.g. creator and project owner]</div>
+          <div className="text-parchment-300">[Links]</div>
+        </li>
+        <li className="rounded-xl bg-ink-800/60 px-3 py-2 ring-1 ring-white/10">
+          <div className="font-semibold text-parchment-50">[Name]</div>
+          <div className="text-parchment-300">[Role, e.g. fact-checking and data]</div>
+          <div className="text-parchment-300">[Links]</div>
+        </li>
+      </ul>
       <h3 className="pt-2 text-[11px] font-semibold tracking-wider text-parchment-300 uppercase">Beta, mistakes and licence</h3>
       <p>
         This is an early version and some facts are still being checked. Spotted something wrong?{' '}
