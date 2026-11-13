@@ -754,19 +754,20 @@ function About() {
         <strong className="text-parchment-50">Who is included:</strong> only people known to have died. The app does not name living people, such as current leaders, because their stories are still unfolding and could change or become contested. For modern countries it describes the office or the event instead.
       </p>
       <h3 className="pt-2 text-[11px] font-semibold tracking-wider text-parchment-300 uppercase">Made by</h3>
-      {/* TODO: replace the placeholders with the creators' real names, roles and links. */}
-      <ul className="space-y-2">
-        <li className="rounded-xl bg-ink-800/60 px-3 py-2 ring-1 ring-white/10">
-          <div className="font-semibold text-parchment-50">[Name]</div>
-          <div className="text-parchment-300">[Role, e.g. creator and project owner]</div>
-          <div className="text-parchment-300">[Links]</div>
-        </li>
-        <li className="rounded-xl bg-ink-800/60 px-3 py-2 ring-1 ring-white/10">
-          <div className="font-semibold text-parchment-50">[Name]</div>
-          <div className="text-parchment-300">[Role, e.g. fact-checking and data]</div>
-          <div className="text-parchment-300">[Links]</div>
-        </li>
-      </ul>
+      <div className="rounded-xl bg-ink-800/60 px-3 py-3 ring-1 ring-white/10">
+        <div className="font-semibold text-parchment-50">Tung Fu Wei</div>
+        <p className="mt-1 text-parchment-200">
+          I’m Malaysian and study mechanical engineering at Northumbria University, with experience in engineering, finance and real estate. I made History Globe because we need to remember what happened in the past, to avoid repeating the same mistakes.
+        </p>
+        <blockquote className="mt-2 border-l-2 border-gold-400/60 pl-3 text-parchment-300 italic">
+          “Those who cannot remember the past are condemned to repeat it.” <span className="not-italic">George Santayana</span>
+        </blockquote>
+        <p className="mt-2">
+          <a className="text-gold-300 underline" href="https://github.com/fuweitung" target="_blank" rel="noopener noreferrer">GitHub</a>
+          {' · '}
+          <a className="text-gold-300 underline" href="https://x.com/TungFuWei" target="_blank" rel="noopener noreferrer">X</a>
+        </p>
+      </div>
       <h3 className="pt-2 text-[11px] font-semibold tracking-wider text-parchment-300 uppercase">Beta, mistakes and licence</h3>
       <p>
         This is an early version and some facts are still being checked. Spotted something wrong?{' '}
