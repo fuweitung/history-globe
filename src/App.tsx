@@ -486,7 +486,7 @@ export default function App() {
       />
 
       {/* ── Top bar ── */}
-      <div className="pointer-events-none absolute inset-x-0 top-0 z-10 flex items-start gap-2 p-3">
+      <div className="pointer-events-none absolute inset-x-0 top-[var(--banner-h,0px)] z-10 flex items-start gap-2 p-3">
         <div className="pointer-events-auto flex items-center gap-2 rounded-2xl bg-ink-900/85 py-1.5 pr-1.5 pl-3 shadow-xl ring-1 ring-white/10 backdrop-blur-md">
           <span className="text-xl" aria-hidden="true">🌍</span>
           <h1 className="font-display hidden text-base font-bold tracking-tight whitespace-nowrap text-parchment-50 min-[400px]:block sm:text-lg">History Globe</h1>
@@ -553,7 +553,7 @@ export default function App() {
       />
 
       {loadError && (
-        <div role="alert" className="absolute top-20 left-1/2 z-40 max-w-md -translate-x-1/2 rounded-xl bg-dispute/90 px-4 py-3 text-sm text-white shadow-xl">
+        <div role="alert" className="absolute top-[calc(5rem+var(--banner-h,0px))] left-1/2 z-40 max-w-md -translate-x-1/2 rounded-xl bg-dispute/90 px-4 py-3 text-sm text-white shadow-xl">
           {loadError} Check your connection and{' '}
           <button type="button" onClick={() => { setLoadError(null); setLoading(true); setRetryKey((k) => k + 1); }} className="font-semibold underline">
             try again
@@ -617,7 +617,7 @@ function EventLegend({
 }) {
   const [open, setOpen] = useState(false);
   return (
-    <div className="pointer-events-none absolute top-[64px] left-3 z-10 md:top-[68px]">
+    <div className="pointer-events-none absolute top-[calc(64px+var(--banner-h,0px))] left-3 z-10 md:top-[calc(68px+var(--banner-h,0px))]">
       <div className="pointer-events-auto w-max rounded-2xl bg-ink-900/85 text-xs shadow-xl ring-1 ring-white/10 backdrop-blur-md">
         <button
           type="button"
@@ -710,6 +710,22 @@ function BetaBanner() {
       return true;
     }
   });
+  const ref = useRef<HTMLDivElement>(null);
+  // Tell the layout how tall the banner is, so the top bar, legend, zoom buttons and panel sit below it.
+  useLayoutEffect(() => {
+    const root = document.documentElement;
+    const el = ref.current;
+    if (!shown || !el) {
+      root.style.setProperty('--banner-h', '0px');
+      return;
+    }
+    const ro = new ResizeObserver(() => root.style.setProperty('--banner-h', `${el.offsetHeight}px`));
+    ro.observe(el);
+    return () => {
+      ro.disconnect();
+      root.style.setProperty('--banner-h', '0px');
+    };
+  }, [shown]);
   if (!shown) return null;
   const dismiss = () => {
     setShown(false);
@@ -720,17 +736,14 @@ function BetaBanner() {
     }
   };
   return (
-    <div
-      role="note"
-      className="absolute bottom-[calc(var(--tl-h,6rem)+0.5rem)] left-2 z-20 flex max-w-[calc(100%-1rem)] items-start gap-2 rounded-xl bg-ink-900/90 px-3 py-2 text-[12px] leading-snug text-parchment-200 shadow-xl ring-1 ring-white/10 backdrop-blur-md sm:left-4 sm:max-w-sm"
-    >
-      <span>
-        <strong className="text-gold-300">Beta:</strong> an early version. Some facts are still being checked.{' '}
-        <a className="text-gold-300 underline" href={reportUrl()} target="_blank" rel="noopener noreferrer">
+    <div ref={ref} role="note" className="absolute inset-x-0 top-0 z-30 flex items-center justify-center gap-3 bg-gold-400 px-3 py-1.5 text-[12px] leading-snug text-ink-900 shadow-md">
+      <span className="text-center">
+        <strong>Beta:</strong> an early version, and some facts are still being checked.{' '}
+        <a className="font-semibold underline" href={reportUrl()} target="_blank" rel="noopener noreferrer">
           Report a mistake
         </a>
       </span>
-      <button type="button" onClick={dismiss} aria-label="Dismiss beta notice" className="-mt-0.5 shrink-0 rounded px-1 text-base leading-none text-parchment-300 hover:text-parchment-50">
+      <button type="button" onClick={dismiss} aria-label="Dismiss beta notice" className="shrink-0 rounded px-1.5 text-lg leading-none hover:bg-black/10">
         ×
       </button>
     </div>
