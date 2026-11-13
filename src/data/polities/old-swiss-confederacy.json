@@ -42,10 +42,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "The central Alps and Swiss plateau; about 40,000 km².",
-        "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Old Swiss Confederacy"
+        "value": "The page gives no area in km². The confederacy grew by purchase and conquest, adding Aargau in 1415, Thurgau in 1460 and Ticino by 1515.",
+        "year": 1415,
+        "certainty": "estimated",
+        "source": "Wikipedia: Old Swiss Confederacy (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Alps, Jura and the plateau.",
@@ -74,10 +74,10 @@
     },
     "population": {
       "population": {
-        "value": "About 1.7 million.",
+        "value": "Not stated on the page. The entry’s 1.7 million in 1798 is unconfirmed.",
         "year": 1798,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Old Swiss Confederacy"
+        "certainty": "estimated",
+        "source": "Wikipedia: Old Swiss Confederacy (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Zürich, Bern, Basel, Geneva (ally).",
@@ -138,10 +138,10 @@
         "source": "Wikipedia: Old Swiss Confederacy (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "No single ruler; leaders such as Huldrych Zwingli (religious).",
+        "value": "No single ruler: a loose confederation of independent small states whose diet was the Tagsatzung. Zwingli is not named on the page, which says only that the Reformation split the cantons into Protestant and Catholic camps (the Wars of Kappel).",
         "year": 1519,
         "certainty": "confirmed",
-        "source": "Wikipedia: Old Swiss Confederacy"
+        "source": "Wikipedia: Old Swiss Confederacy (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Assemblies and councils.",
