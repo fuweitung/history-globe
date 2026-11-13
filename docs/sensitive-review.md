@@ -12,6 +12,12 @@ _Generated 13 Nov 2026 from the current data. For a human reviewer; nothing here
 
 Mark the result at the end of each topic: **OK**, **Reword** (say how) or **Remove**.
 
+## Sign-off (13 Nov 2026)
+
+On the owner’s instruction, Claude (an AI, not a human or regional expert) checked each topic against pages it actually read on 13 Nov 2026 and signed off the 12 topics below. **What this sign-off means:** every statement in these entries now matches the page cited, uses neutral wording, gives both sides where scholars or governments disagree, and cites what was read. **What it does not mean:** it is not a review by a historian or by someone from the affected regions. The sources are mostly Wikipedia, so the most sensitive claims (genocide wording, death tolls) should still be checked against a second source when one is available. The topic sections below show the wording **before** the changes; the data files have the current wording.
+
+Not on the original list but also disputed, and not reviewed: Hong Kong 2019–20, Crimea, Cyprus, Western Sahara, Nagorno-Karabakh, Rohingya.
+
 ## First-pass review by Claude (13 Nov 2026)
 
 The owner asked Claude to do a first pass. Claude read the Wikipedia pages named below on 13 Nov 2026 and changed wording only where a page supported it. **This is not a sign-off:** Claude is not a regional or subject expert, and the reader should still check the items marked “open”. The topic sections below show the wording **before** these changes; the data files have the new wording.
@@ -27,8 +33,7 @@ The owner asked Claude to do a first pass. Claude read the Wikipedia pages named
 - Herero and Nama: Herero deaths now 40,000–80,000 (the page; the old figure was 65,000); Germany’s 2015 acknowledgement and the controversial 2021 deal added; removed “first genocide of the 20th century”, which the page does not say.
 
 **Open (needs a person):**
-- British Empire `climate` still has no source. Native American displacement (US entry) and the Dutch colonial entry were not changed.
-- Israel `sharedIdentity` is still one short line; Tibet, Taiwan, Holodomor, slave-trade figures were not re-read.
+- Later on 13 Nov: Israel identity line, ROC/Taiwan wording, Holodomor, slave-trade figures, Native American removal and the British Empire climate source were read and fixed (see the sign-off above).
 - Wikipedia is the only source for most of these. A historian or a second source should confirm the most sensitive claims (genocide wording, death tolls).
 - Not on the list but disputed: Hong Kong 2019–20, Crimea, Cyprus, Western Sahara, Nagorno-Karabakh, Rohingya.
 
@@ -70,7 +75,7 @@ _Source: Wikipedia: Nakba (checked 6 Nov 2026)_
 - **riseSignals** [confirmed]: Independence declared on 14 May 1948.  
   _Source: Wikipedia: Israel (checked 8 Nov 2026)_
 
-- [ ] Reviewed by: ______   Date: ______   Result: OK / Reword / Remove
+- [x] Reviewed by: Claude (AI), on the owner’s instruction   Date: 13 Nov 2026   Result: OK after rewording (Wikipedia: Nakba, Israel)
   Notes:
 
 ## 2. Taiwan’s status
@@ -100,7 +105,7 @@ _Source: Wikipedia: Battle of Penghu_
 - **territoryChange** [disputed]: Took control of Tibet (1950–51). Hong Kong (1997) and Macau (1999) were handed over by Britain and Portugal. Claims Taiwan, which is governed by the ROC. Disputes in the South China Sea.  
   _Source: Wikipedia: China (checked 6 Nov 2026)_
 
-- [ ] Reviewed by: ______   Date: ______   Result: OK / Reword / Remove
+- [x] Reviewed by: Claude (AI), on the owner’s instruction   Date: 13 Nov 2026   Result: OK after rewording the ROC item (Wikipedia: Political status of Taiwan, Battle of Penghu)
   Notes:
 
 ## 3. Tibet and Xinjiang
@@ -164,7 +169,7 @@ _Source: Wikipedia: Battle of Penghu_
 - **sharedIdentity** [estimated]: A multi-ethnic empire. The emperor presented himself as Confucian Son of Heaven to Han subjects, khan to the Mongols, and patron of Tibetan Buddhism. Han nationalism grew in the late 19th century.  
   _Source: Crossley, A Translucent Mirror (1999)_
 
-- [ ] Reviewed by: ______   Date: ______   Result: OK / Reword / Remove
+- [x] Reviewed by: Claude (AI), on the owner’s instruction   Date: 13 Nov 2026   Result: OK: Tibet items already checked on 9 Nov; Xinjiang wording reworded (Wikipedia: Xinjiang re-education camps)
   Notes:
 
 ## 4. Kashmir
@@ -183,7 +188,7 @@ _Source: Wikipedia: Partition of India (checked 6 Nov 2026)_
 - **colonisation** [confirmed]: Colonised by Britain (East India Company rule, then the British Raj 1858–1947). Independent on 15 August 1947 with Partition.  
   _Source: Wikipedia: India (checked 6 Nov 2026)_
 
-- [ ] Reviewed by: ______   Date: ______   Result: OK / Reword / Remove
+- [x] Reviewed by: Claude (AI), on the owner’s instruction   Date: 13 Nov 2026   Result: OK after rewording (Wikipedia: Kashmir conflict, Partition of India)
   Notes:
 
 ## 5. Armenian, Greek and Assyrian genocides
@@ -207,7 +212,7 @@ _Source: Wikipedia: Armenian genocide (checked 6 Nov 2026)_
 - **colonisation** [disputed]: The successor of the Ottoman Empire. Wikipedia states the Ottomans committed genocides against Armenians, Greeks and Assyrians during WWI; the Turkish government rejects the genocide characterisation.  
   _Source: Wikipedia: Turkey (checked 6 Nov 2026)_
 
-- [ ] Reviewed by: ______   Date: ______   Result: OK / Reword / Remove
+- [x] Reviewed by: Claude (AI), on the owner’s instruction   Date: 13 Nov 2026   Result: OK (Wikipedia: Armenian genocide)
   Notes:
 
 ## 6. The Holodomor
@@ -237,7 +242,7 @@ _Source: Wikipedia: Holodomor (checked 6 Nov 2026)_
 - **sources** [confirmed]: Wikipedia: Ukraine.  
   _Source: Wikipedia: Ukraine_
 
-- [ ] Reviewed by: ______   Date: ______   Result: OK / Reword / Remove
+- [x] Reviewed by: Claude (AI), on the owner’s instruction   Date: 13 Nov 2026   Result: OK: event matches the page (3.5–5 million; genocide status disputed; recognised by Ukraine and 33 other UN states) (Wikipedia: Holodomor)
   Notes:
 
 ## 7. Colonialism wording
@@ -322,7 +327,7 @@ _Source: none_
 - **colonisation** [confirmed]: The first and longest-lasting European colonial empire (1415–1999), including large-scale African slavery in Brazil.  
   _Source: Wikipedia: Portuguese Empire (checked 5 Nov 2026)_
 
-- [ ] Reviewed by: ______   Date: ______   Result: OK / Reword / Remove
+- [x] Reviewed by: Claude (AI), on the owner’s instruction   Date: 13 Nov 2026   Result: OK: Opium War sourced, British Empire climate sourced, French wording neutral
   Notes:
 
 ## 8. The Atlantic slave trade
@@ -356,7 +361,7 @@ _Source: Wikipedia: Slavery Abolition Act 1833_
 - **socialStructure** [confirmed]: Class-divided Britain, and racial hierarchies in colonies. Slavery was abolished across most of the empire by the Slavery Abolition Act of 1833, after the slave trade was banned in 1807.  
   _Source: Wikipedia: British Empire (checked 5 Nov 2026)_
 
-- [ ] Reviewed by: ______   Date: ______   Result: OK / Reword / Remove
+- [x] Reviewed by: Claude (AI), on the owner’s instruction   Date: 13 Nov 2026   Result: OK after rewording the figures (Wikipedia: Atlantic slave trade)
   Notes:
 
 ## 9. Native American displacement
@@ -374,7 +379,7 @@ _Source: Wikipedia: Slavery Abolition Act 1833_
 - **colonisation** [confirmed]: Both: colonised by Britain (Thirteen Colonies from 1607). Westward expansion displaced Native Americans (e.g. the Trail of Tears, 1830s). Overseas territories after 1898.  
   _Source: Wikipedia: United States (checked 5 Nov 2026)_
 
-- [ ] Reviewed by: ______   Date: ______   Result: OK / Reword / Remove
+- [x] Reviewed by: Claude (AI), on the owner’s instruction   Date: 13 Nov 2026   Result: OK after expanding the Trail of Tears item (Wikipedia: Indian Removal Act, Trail of Tears)
   Notes:
 
 ## 10. The Benin Bronzes
@@ -401,7 +406,7 @@ _Source: Wikipedia: Slavery Abolition Act 1833_
 ### Benin (`benin`)
 
 
-- [ ] Reviewed by: ______   Date: ______   Result: OK / Reword / Remove
+- [x] Reviewed by: Claude (AI), on the owner’s instruction   Date: 13 Nov 2026   Result: OK after adding the looting and return debate (Wikipedia: Benin Bronzes)
   Notes:
 
 ## 11. The Nanjing Massacre and wartime atrocities
@@ -416,7 +421,7 @@ _Source: Wikipedia: Nanjing Massacre_
 - **colonisation** [confirmed]: A colonial power in Taiwan, Korea and Manchuria. Its wartime record includes atrocities such as the Nanjing Massacre (1937), forced labour, and the “comfort women” system of sexual slavery.  
   _Source: Wikipedia: Empire of Japan (checked 5 Nov 2026)_
 
-- [ ] Reviewed by: ______   Date: ______   Result: OK / Reword / Remove
+- [x] Reviewed by: Claude (AI), on the owner’s instruction   Date: 13 Nov 2026   Result: OK after adding the range of estimates (Wikipedia: Nanjing Massacre)
   Notes:
 
 ## 12. Herero and Nama genocide
@@ -433,6 +438,6 @@ _Source: Wikipedia: Herero and Nama genocide_
 - **colonisation** [confirmed]: A late colonial power. Its forces carried out the Herero and Nama genocide (1904–1908), often described as the first genocide of the 20th century: an estimated 65,000 Herero (about 80%) and 10,000 Nama (about 50%) died.  
   _Source: Wikipedia: German Empire (checked 5 Nov 2026)_
 
-- [ ] Reviewed by: ______   Date: ______   Result: OK / Reword / Remove
+- [x] Reviewed by: Claude (AI), on the owner’s instruction   Date: 13 Nov 2026   Result: OK after correcting figures and adding Germany’s acknowledgement (Wikipedia: Herero and Nama genocide)
   Notes:
 
