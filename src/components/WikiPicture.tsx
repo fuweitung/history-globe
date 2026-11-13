@@ -4,7 +4,7 @@ import type { WikiImage } from '../types';
 /** A freely licensed Commons picture with its required credit line. */
 export default function WikiPicture({ image, alt, className = '', height = 'h-40' }: { image: WikiImage; alt: string; className?: string; height?: string }) {
   const [failed, setFailed] = useState(false);
-  if (failed) return null;
+  if (failed) return <NoPicture className={className} />;
   return (
     <figure className={className}>
       <div className={`${height} overflow-hidden rounded-xl bg-ink-800 ring-1 ring-white/10`}>
@@ -24,5 +24,14 @@ export default function WikiPicture({ image, alt, className = '', height = 'h-40
         </a>
       </figcaption>
     </figure>
+  );
+}
+
+/** Shown in place of a picture when no freely licensed one has been found yet. */
+export function NoPicture({ className = '' }: { className?: string }) {
+  return (
+    <div className={`flex h-14 items-center justify-center rounded-xl border border-dashed border-white/15 bg-ink-800/60 px-3 text-center text-[11px] text-parchment-400 ${className}`}>
+      No picture available yet
+    </div>
   );
 }

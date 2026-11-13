@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { CHECKLIST_SCHEMA, isFilled } from '../lib/checklistSchema';
 import { ERA_LABEL, EVENT_TYPES, PERSON_ROLES, POLITY_BY_ID, eventsForPolity, formatSpan, formatYear, isActive, knownImage, linksForPolity, peopleForPolity, polityImage, wikiUrl } from '../lib/data';
-import WikiPicture from './WikiPicture';
+import WikiPicture, { NoPicture } from './WikiPicture';
 import type { FullPolity, KnownForKind, LinkRelation, PolitySummary } from '../types';
 import { useImages, usePolity } from '../lib/usePolity';
 import ChecklistCategory, { CertaintyBadge } from './ChecklistCategory';
@@ -213,7 +213,7 @@ export default function PolityDetail({ polity, year, onJumpToYear, onFlyTo, onOp
           )}
         </div>
 
-        {polityImage(polity.id) && <WikiPicture image={polityImage(polity.id)!} alt={polity.name} className="relative mt-3" />}
+        {polityImage(polity.id) ? <WikiPicture image={polityImage(polity.id)!} alt={polity.name} className="relative mt-3" /> : <NoPicture className="relative mt-3" />}
 
         {polity.summary && <p className="relative mt-3 text-[13px] leading-relaxed text-parchment-100">{polity.summary}</p>}
         {polity.wikiTitle && (

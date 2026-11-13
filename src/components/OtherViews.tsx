@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react';
 import { ERAS, EVENT_TYPES, PERSON_ROLES, POLITIES, POLITY_BY_ID, ROUTE_KINDS, eventImage, formatSpan, formatYear, isActive, personImage, wikiUrl } from '../lib/data';
 import { useImages } from '../lib/usePolity';
-import WikiPicture from './WikiPicture';
+import WikiPicture, { NoPicture } from './WikiPicture';
 import type { BorderProps } from '../lib/borders';
 import type { HistoryEvent, HistoryRoute, Person } from '../types';
 import { ProgressBar } from './ChecklistCategory';
@@ -38,7 +38,7 @@ export function PersonDetail({
         {!person.datesApproximate && <> · lived about {age} years</>}
         {alive && <span className="ml-2 rounded-full bg-ok/15 px-2 py-0.5 text-[10px] font-semibold text-ok">Alive in {formatYear(year)}</span>}
       </p>
-      {picture && <WikiPicture image={picture} alt={person.name} height="h-56" className="mt-3" />}
+      {picture ? <WikiPicture image={picture} alt={person.name} height="h-56" className="mt-3" /> : <NoPicture className="mt-3" />}
       <p className="mt-3 text-[13px] leading-relaxed text-parchment-100 first-letter:uppercase">{person.description}</p>
       <div className="mt-3 flex flex-wrap gap-2">
         <button type="button" onClick={() => onJumpToYear(person.born)} className="rounded-full bg-white/[0.06] px-3 py-1.5 text-xs font-semibold text-parchment-100 ring-1 ring-white/10 hover:bg-white/10">
@@ -172,7 +172,7 @@ export function EventDetail({
         {event.endYear ? ` – ${formatYear(event.endYear)}` : ''}
       </button>
       {event.yearApproximate && <p className="mt-1 text-[11px] text-warn">≈ Date is approximate.</p>}
-      {picture && <WikiPicture image={picture} alt={event.title} height="h-44" className="mt-3" />}
+      {picture ? <WikiPicture image={picture} alt={event.title} height="h-44" className="mt-3" /> : <NoPicture className="mt-3" />}
       <p className="mt-4 text-[14px] leading-relaxed text-parchment-100">{event.description}</p>
       <p className="mt-3 text-[11px] text-parchment-400 tabular-nums">
         Location: {event.lat.toFixed(2)}°, {event.lng.toFixed(2)}°
