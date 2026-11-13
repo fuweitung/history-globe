@@ -100,10 +100,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Dairy, meat, wool, tourism.",
-        "year": null,
+        "value": "Dairy was the largest export earner (17.7% of exports, NZ$14.1 billion, in the year to June 2018); tourism was 5.6% of GDP in 2016. Meat and wool are not covered in the part of the page read.",
+        "year": 2018,
         "certainty": "confirmed",
-        "source": "Wikipedia: New Zealand"
+        "source": "Wikipedia: New Zealand (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Refrigerated ships carried meat to Britain from 1882.",
@@ -132,16 +132,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A parliamentary democracy in the Commonwealth.",
+        "value": "A unitary parliamentary constitutional monarchy (King Charles III) with a one-chamber Parliament.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: New Zealand"
+        "source": "Wikipedia: New Zealand (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Richard Seddon. Michael Joseph Savage. Jacinda Ardern.",
+        "value": "Richard Seddon led the Liberal government that took office in 1891; New Zealand gave all women the vote in 1893. Michael Joseph Savage declared war on Germany in 1939. Christopher Luxon has been prime minister since 27 November 2023. The page does not mention Jacinda Ardern.",
         "year": 1893,
         "certainty": "confirmed",
-        "source": "Wikipedia: New Zealand"
+        "source": "Wikipedia: New Zealand (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Elections.",
@@ -176,10 +176,10 @@
         "source": "Wikipedia: New Zealand"
       },
       "majorWars": {
-        "value": "New Zealand Wars (1845–72); Gallipoli (1915).",
-        "year": 1845,
-        "certainty": "confirmed",
-        "source": "Wikipedia: New Zealand"
+        "value": "The page dates armed conflict between the colonial government and Māori from 1843 (the Wairau Affray); the wars, mainly in the North Island, led to large confiscations of Māori land. It gives no end year, and Gallipoli is not covered. The entry’s earlier 1845–72 dates are not on this page.",
+        "year": 1843,
+        "certainty": "estimated",
+        "source": "Wikipedia: New Zealand (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Ruled Samoa (1914–62).",
@@ -222,10 +222,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Christian; many non-religious.",
-        "year": null,
+        "value": "2023 census: 51.6% no religion, 32.3% Christian.",
+        "year": 2023,
         "certainty": "confirmed",
-        "source": "Wikipedia: New Zealand"
+        "source": "Wikipedia: New Zealand (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "English and Māori.",

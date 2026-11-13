@@ -78,10 +78,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Taxing the gold, ivory and slave trade passing between Africa and the Indian Ocean.",
+        "value": "Sofala was the main entrepot for the gold and ivory trade and its acquisition brought the Kilwa sultans a windfall of gold revenue. The slave trade is not mentioned.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kilwa Sultanate (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Indian Ocean routes to Arabia, Persia, India and China; gold from Sofala.",
@@ -110,16 +110,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A sultanate ruled by Shirazi and later Mahdali dynasties.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+        "value": "A sultanate: the Shirazi dynasty to about 1277, then the Mahdali dynasty of Yemeni Arab sayyids to about 1495.",
+        "year": 1277,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kilwa Sultanate (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Ali ibn al-Hassan Shirazi (legendary founder), al-Hasan ibn Sulaiman (14th century, builder of Husuni Kubwa).",
-        "year": 1310,
-        "certainty": "estimated",
-        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+        "value": "Ali ibn al-Hassan Shirazi, a Persian prince, is the legendary founder (10th century; the infobox gives 957). Al-Hasan ibn Sulaiman ruled from 1310 for 24 years and died without heirs; the page does not describe a peak under him.",
+        "year": 957,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kilwa Sultanate (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Hereditary, with disputes between rival branches.",
@@ -154,10 +154,10 @@
         "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
       },
       "majorWars": {
-        "value": "The Portuguese sacked Kilwa in 1505.",
+        "value": "In 1505 Francisco de Almeida landed about 500 Portuguese soldiers, drove out Emir Ibrahim and installed Muhammad Arcone as a vassal sultan. The infobox gives 1513 as the end.",
         "year": 1505,
-        "certainty": "estimated",
-        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kilwa Sultanate (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "At its height its authority stretched over the entire length of the Swahili Coast.",
@@ -264,10 +264,10 @@
         "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
       },
       "peakPeriod": {
-        "value": "The 13th–14th centuries, when it controlled the gold trade from Sofala.",
-        "year": 1350,
-        "certainty": "estimated",
-        "source": "Chittick, Kilwa: An Islamic Trading City on the East African Coast (1974)"
+        "value": "The page places the sultanate’s zenith in the 15th century, after it acquired Sofala; this conflicts with the entry’s earlier 13th–14th-century peak.",
+        "year": 1400,
+        "certainty": "disputed",
+        "source": "Wikipedia: Kilwa Sultanate (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "Falling gold trade and the Portuguese attack.",

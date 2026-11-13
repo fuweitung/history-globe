@@ -98,10 +98,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Gold mining, money sent home by migrant workers, livestock herding, farming and re-exporting Chinese goods.",
+        "value": "Gold (the Kumtor mine and other regions) and remittances, which are currently about 15% of GDP, down from a high of 35%. Livestock and re-exports are not mentioned in the part of the page read.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kyrgyzstan"
+        "source": "Wikipedia: Kyrgyzstan (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Mountain passes to China such as Torugart and Irkeshtam; Bishkek’s Dordoi bazaar re-sells Chinese goods across the region.",
@@ -130,16 +130,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A presidential republic; the president’s powers were cut in 2010 and strengthened again by the 2021 constitution.",
-        "year": null,
+        "value": "A unitary presidential republic; it reverted to a presidential system in 2021.",
+        "year": 2021,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kyrgyzstan"
+        "source": "Wikipedia: Kyrgyzstan (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "The first president ruled from 1991 until the 2005 uprising; later presidents came to power through elections and the 2010 and 2020 upheavals.",
+        "value": "Askar Akayev (elected 1990, ousted 2005), Kurmanbek Bakiyev (2005–2010), Roza Otunbayeva (led the provisional government after 2010), Almazbek Atambayev (2011–2017), Sooronbay Jeenbekov (2017–2020) and Sadyr Japarov (elected January 2021).",
         "year": 1991,
-        "certainty": "estimated",
-        "source": "Wikipedia: Kyrgyzstan"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kyrgyzstan (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Presidents are elected, but popular uprisings forced presidents from power in 2005, 2010 and 2020.",
@@ -174,10 +174,10 @@
         "source": "Wikipedia: Kyrgyzstan"
       },
       "majorWars": {
-        "value": "No major wars, but deadly border clashes with Tajikistan in 2021 and 2022, and ethnic violence in Osh in 2010.",
-        "year": null,
+        "value": "No major wars. Clashes between Kyrgyz and Uzbek communities in Osh and Jalal-Abad in June 2010 caused over 400 deaths. Protests ousted the president in 2005, 2010 and 2020. The Tajikistan border clashes are not covered by the part of the page read.",
+        "year": 2010,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kyrgyzstan"
+        "source": "Wikipedia: Kyrgyzstan (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Borders inherited from the Soviet Union; long-disputed lines were settled by treaties with Uzbekistan (2023) and Tajikistan (2025).",
@@ -220,10 +220,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Mostly Sunni Muslim (about 90%), with a Russian Orthodox minority; religious practice grew after 1991.",
+        "value": "About 91% Muslim in the infobox (2026); the text cites 90% (CIA, 2017) and 86.3% (Pew, 2009).",
         "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Kyrgyzstan"
+        "certainty": "disputed",
+        "source": "Wikipedia: Kyrgyzstan (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Kyrgyz is the state language and Russian is official; both are written in the Cyrillic alphabet.",
