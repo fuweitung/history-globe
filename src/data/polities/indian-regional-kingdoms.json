@@ -283,16 +283,16 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Varied: new kingdoms often rose when larger empires weakened, as Rajput states did after the decline of the Gurjara-Pratiharas.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
+        "value": "The Pallavas ruled 300–888 CE from Kanchipuram, rising in the 7th century; the Chalukyas (556–757 on the page) were overthrown by the Rashtrakutas in the mid-8th century.",
+        "year": 300,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Classical India (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Varied by kingdom; for example, Mewar was strong under Rana Kumbha and Rana Sanga in the 1400s and early 1500s.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
+        "value": "The Palas (750–1120) peaked under Dharmapala and Devapala; the Gurjara-Pratiharas peaked c. 836–910; the Rashtrakutas ruled 753–973. The page gives no Chola dates.",
+        "year": 836,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Classical India (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "Conquest by the sultanates, the Mughals or the British.",
@@ -301,10 +301,10 @@
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
       },
       "outcome": {
-        "value": "Absorbed by larger empires or the British.",
-        "year": null,
+        "value": "The page ends the Middle Kingdoms period in 1206 CE with the founding of the Delhi Sultanate.",
+        "year": 1206,
         "certainty": "confirmed",
-        "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
+        "source": "Wikipedia: Classical India (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {
