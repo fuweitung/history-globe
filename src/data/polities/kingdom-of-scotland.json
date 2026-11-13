@@ -41,25 +41,25 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Northern Great Britain and islands.",
+        "value": "The northern third of Great Britain with the Hebrides, and Orkney and Shetland from 1472; the border with England ran from the Tweed to the Solway.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Scotland"
       },
       "terrain": {
-        "value": "Highlands, lowlands, islands.",
+        "value": "Mountainous Highlands and islands in the north and west, fertile Central Lowlands, and the hilly Southern Uplands.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Scotland"
       },
       "climate": {
-        "value": "Cool and wet.",
+        "value": "Cool, wet and windy; colder years in the 1600s, during the Little Ice Age, brought harvest failures.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Scotland"
       },
       "resources": {
-        "value": "Wool, fish, coal.",
+        "value": "Wool, hides and cattle, herring and salmon, coal and salt, and oats and barley grown in the Lowlands.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Scotland"
@@ -73,25 +73,25 @@
     },
     "population": {
       "population": {
-        "value": "About 1 million by 1700.",
+        "value": "Perhaps about 1 million people by 1700; the first census-like count in 1755 found about 1.27 million.",
         "year": 1700,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Scotland"
       },
       "urbanisation": {
-        "value": "Edinburgh, Glasgow, Aberdeen.",
+        "value": "Mostly rural; royal burghs grew as trading towns, led by Edinburgh, with Glasgow, Aberdeen, Dundee and Perth.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Scotland"
       },
       "disease": {
-        "value": "Black Death (1348–49).",
-        "year": 1348,
+        "value": "The Black Death reached Scotland in 1349, and plague returned many times until the 1640s.",
+        "year": 1349,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Scotland"
       },
       "migration": {
-        "value": "Ulster plantation settlers (1600s).",
+        "value": "Thousands of Scots settled in Ulster from 1609; others went as soldiers and traders to Poland and Sweden.",
         "year": 1609,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Scotland"
@@ -99,7 +99,7 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming, cattle, fishing, wool.",
+        "value": "Farming oats and barley, raising cattle and sheep, fishing, and exporting wool, hides, fish and coal.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Scotland"
@@ -111,19 +111,19 @@
         "source": "Wikipedia: Kingdom of Scotland"
       },
       "wealth": {
-        "value": "Poorer than England.",
+        "value": "Much poorer than England; the failure of the Darien scheme around 1700 cost a large share of the country’s capital.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Scotland"
       },
       "moneyAndTax": {
-        "value": "Pound Scots.",
+        "value": "The pound Scots, which lost value over time and was worth one-twelfth of a pound sterling by 1707.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Scotland"
       },
       "inequality": {
-        "value": "Lairds and clan chiefs above tenants.",
+        "value": "Great nobles, lairds and clan chiefs held the land; tenants, cottars and labourers paid rents in kind and service.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Scotland"
@@ -131,7 +131,7 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Monarchy with a Parliament.",
+        "value": "A monarchy whose kings governed with a Parliament of three estates, a Privy Council and great nobles.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Scotland"
@@ -143,25 +143,25 @@
         "source": "Wikipedia: Kingdom of Scotland"
       },
       "succession": {
-        "value": "Hereditary; Stewart dynasty from 1371.",
+        "value": "Hereditary in the royal line: the House of Bruce from 1306, and the Stewart dynasty from 1371 to 1707.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Scotland"
       },
       "institutions": {
-        "value": "Parliament of Scotland; Kirk (1560).",
+        "value": "The Parliament of Scotland, the Privy Council, the Court of Session (1532) and, from 1560, the Church of Scotland (Kirk).",
         "year": 1560,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Scotland"
       },
       "stability": {
-        "value": "Frequent noble feuds.",
+        "value": "Often unsettled: many kings came to the throne as children, and James I (1437) and James III (1488) were killed.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Scotland"
       },
       "eliteConflict": {
-        "value": "Clans and nobles.",
+        "value": "Feuds among great noble families such as the Douglases, and among Highland clans such as the Campbells and MacDonalds.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Scotland"
@@ -169,7 +169,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Spearmen (schiltrons).",
+        "value": "Spearmen in schiltron formations won at Bannockburn (1314); later armies used cannon such as Mons Meg and Highland charges.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Scotland"
@@ -181,13 +181,13 @@
         "source": "Wikipedia: Kingdom of Scotland"
       },
       "territoryChange": {
-        "value": "Gained Orkney and Shetland (1472).",
+        "value": "Gained the Western Isles from Norway (1266) and Orkney and Shetland (1472), but lost Berwick to England in 1482.",
         "year": 1472,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Scotland"
       },
       "alliancesRivals": {
-        "value": "Auld Alliance with France (1295).",
+        "value": "The Auld Alliance with France from 1295, against the long rivalry with England.",
         "year": 1295,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Scotland"
@@ -195,7 +195,7 @@
     },
     "technology": {
       "inventions": {
-        "value": "No major inventions are recorded.",
+        "value": "John Napier published his invention of logarithms in 1614, which made complex calculations much faster.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Scotland"
@@ -207,13 +207,13 @@
         "source": "Wikipedia: Kingdom of Scotland"
       },
       "openness": {
-        "value": "Open to trade with Europe.",
+        "value": "Open to Europe through trade with the Low Countries, France and the Baltic, and students studying abroad.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Scotland"
       },
       "communicationTransport": {
-        "value": "Sea and drove roads.",
+        "value": "Ships along the coasts and to Europe; cattle walked south on drove roads, and inland roads were poor.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Scotland"
@@ -227,13 +227,13 @@
         "source": "Wikipedia: Kingdom of Scotland"
       },
       "languageWriting": {
-        "value": "Gaelic, Scots and English.",
+        "value": "Gaelic in the Highlands, Scots in the Lowlands, Norn in Orkney and Shetland, and Latin and English in writing.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Scotland"
       },
       "artsArchitecture": {
-        "value": "Castles and abbeys.",
+        "value": "Castles such as Edinburgh and Stirling, abbeys such as Melrose, and poets (makars) such as Robert Henryson and William Dunbar.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Scotland"
@@ -245,27 +245,27 @@
         "source": "Wikipedia: Kingdom of Scotland"
       },
       "sharedIdentity": {
-        "value": "Independence from England.",
-        "year": null,
+        "value": "A shared sense of independence from England, expressed in the Declaration of Arbroath (1320).",
+        "year": 1320,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Scotland"
       },
       "dailyLife": {
-        "value": "Oats, cattle, peat fires.",
+        "value": "Most people farmed in small townships, ate oatmeal and kale, kept cattle and burned peat for warmth.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Scotland"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "England, Ireland, Norway.",
+        "value": "England to the south, Ireland across the North Channel, Norway (which held the northern isles until 1468–69) and France as ally.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Scotland"
       },
       "ideasReligions": {
-        "value": "Presbyterianism (John Knox).",
+        "value": "Presbyterian Protestantism after John Knox and the 1560 Reformation; the National Covenant of 1638 defended it.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Scotland"
@@ -279,19 +279,19 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Kenneth MacAlpin (843).",
+        "value": "Kenneth MacAlpin traditionally united the Picts and Scots in 843.",
         "year": 843,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Scotland"
       },
       "peakPeriod": {
-        "value": "Under James IV (1488–1513).",
+        "value": "The reign of James IV (1488–1513), with a strong navy, a printing press in Edinburgh (1508) and a vibrant court.",
         "year": 1500,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Scotland"
       },
       "declineSignals": {
-        "value": "Darien disaster bankrupted many.",
+        "value": "The Darien disaster (1698–1700) bankrupted many investors and helped push Scotland into union with England.",
         "year": 1700,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Scotland"

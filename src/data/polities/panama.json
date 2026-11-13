@@ -47,39 +47,39 @@
         "source": "Wikipedia: Panama"
       },
       "terrain": {
-        "value": "Mountains and rainforest.",
+        "value": "Mountains run along the centre, rising to Volcán Barú (about 3,475 m); lowlands on both coasts and the Darién rainforest in the east.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Panama"
       },
       "climate": {
-        "value": "Tropical.",
+        "value": "Tropical, hot and humid, with a rainy season from about May to December and a drier season early in the year.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Panama"
       },
       "resources": {
-        "value": "The canal, banking.",
+        "value": "Its position for the canal, Pacific and Caribbean fisheries, tropical forests, bananas, and copper deposits.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Panama"
       },
       "disasters": {
-        "value": "Floods.",
+        "value": "Floods and landslides in the rainy season; droughts, as in 2023, lower the lakes that feed the canal.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Panama"
       }
     },
     "population": {
       "population": {
-        "value": "About 4.5 million.",
-        "year": 2024,
-        "certainty": "confirmed",
+        "value": "About 4 million people; the 2023 census counted about 4.06 million.",
+        "year": 2023,
+        "certainty": "estimated",
         "source": "Wikipedia: Panama"
       },
       "urbanisation": {
-        "value": "Panama City.",
+        "value": "Mostly urban; Panama City holds about half the population, with other cities such as Colón and David.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Panama"
@@ -91,7 +91,7 @@
         "source": "Wikipedia: Panama"
       },
       "migration": {
-        "value": "Caribbean workers built the canal.",
+        "value": "Tens of thousands of workers from the Caribbean, especially Barbados and Jamaica, came to build the canal (1904–14).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Panama"
@@ -99,25 +99,25 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Canal, banking, logistics.",
+        "value": "Canal tolls, banking, shipping and logistics, the Colón Free Zone, and tourism.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Panama"
       },
       "tradeRoutes": {
-        "value": "The Panama Canal.",
+        "value": "The Panama Canal (opened 1914, expanded locks 2016) carries a large share of world shipping between the Atlantic and Pacific.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Panama"
       },
       "wealth": {
-        "value": "A high-income economy.",
+        "value": "A high-income economy and one of the richest in Latin America, though wealth is very unequally shared.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Panama"
       },
       "moneyAndTax": {
-        "value": "The balboa and US dollar.",
+        "value": "The balboa, fixed at par with the US dollar since 1904; in practice US dollar notes are used for paper money.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Panama"
@@ -131,31 +131,31 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A presidential republic.",
+        "value": "A presidential republic: a president elected for five years and a single-chamber National Assembly.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Panama"
       },
       "keyRulers": {
-        "value": "Omar Torrijos. Manuel Noriega.",
+        "value": "Omar Torrijos (military ruler 1968–81, who signed the 1977 canal treaties) and Manuel Noriega (military ruler 1983–89).",
         "year": 1968,
         "certainty": "confirmed",
         "source": "Wikipedia: Panama"
       },
       "succession": {
-        "value": "Elections since 1989.",
+        "value": "Free elections every five years since 1994, with power passing peacefully between parties; presidents cannot serve back-to-back terms.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Panama"
       },
       "institutions": {
-        "value": "National Assembly.",
+        "value": "The National Assembly, the Supreme Court, the Electoral Tribunal and the Panama Canal Authority, which runs the canal.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Panama"
       },
       "stability": {
-        "value": "US invasion removed Noriega (1989).",
+        "value": "Military rule from the 1968 coup until a US invasion removed Noriega in December 1989; democratic since then.",
         "year": 1989,
         "certainty": "confirmed",
         "source": "Wikipedia: Panama"
@@ -169,25 +169,25 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "No army since 1990.",
+        "value": "Abolished its army in 1990 and confirmed this in the constitution in 1994; it keeps police, border and air–naval services.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Panama"
       },
       "majorWars": {
-        "value": "US invasion (1989).",
-        "year": null,
+        "value": "The US invasion of December 1989 (Operation Just Cause), which removed Manuel Noriega from power.",
+        "year": 1989,
         "certainty": "confirmed",
         "source": "Wikipedia: Panama"
       },
       "territoryChange": {
-        "value": "Canal Zone returned (1999).",
+        "value": "The US-run Canal Zone was handed back in stages, ending with full control of the canal on 31 December 1999.",
         "year": 1999,
         "certainty": "confirmed",
         "source": "Wikipedia: Panama"
       },
       "alliancesRivals": {
-        "value": "Close to the US.",
+        "value": "Closely tied to the United States since 1903; a member of the Organization of American States and the UN.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Panama"
@@ -201,7 +201,7 @@
         "source": "Wikipedia: Panama"
       },
       "scienceEducation": {
-        "value": "Universities.",
+        "value": "The University of Panama (1935) and the Smithsonian Tropical Research Institute, famous for rainforest research.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Panama"
@@ -213,7 +213,7 @@
         "source": "Wikipedia: Panama"
       },
       "communicationTransport": {
-        "value": "Panama Canal and railway.",
+        "value": "The Panama Canal, the trans-isthmus railway, Tocumen airport as a regional hub, and the Panama City Metro (2014).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Panama"
@@ -221,19 +221,19 @@
     },
     "culture": {
       "religion": {
-        "value": "Mostly Catholic.",
+        "value": "Mostly Catholic, with a growing Protestant and evangelical minority and smaller Muslim, Jewish and other groups.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Panama"
       },
       "languageWriting": {
-        "value": "Spanish.",
+        "value": "Spanish is the official language; Indigenous languages such as Ngäbere and Guna and Caribbean English are also spoken.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Panama"
       },
       "artsArchitecture": {
-        "value": "Molas.",
+        "value": "Colourful molas sewn by Guna women, the pollera dress, and the colonial Casco Viejo of Panama City.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Panama"
@@ -245,33 +245,33 @@
         "source": "Wikipedia: Panama"
       },
       "sharedIdentity": {
-        "value": "Canal pride.",
+        "value": "National pride in the canal and in sovereignty over it, remembered in the protests of January 1964.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Panama"
       },
       "dailyLife": {
-        "value": "Apartments; sancocho.",
+        "value": "City life in apartments for many; foods include sancocho chicken stew, rice and beans, and plantains.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Panama"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "Costa Rica, Colombia.",
+        "value": "Costa Rica to the west and Colombia to the east, across the roadless Darién Gap.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Panama"
       },
       "ideasReligions": {
-        "value": "Trade hub.",
+        "value": "Nationalist demands for control of the canal, which drove the 1964 protests and the 1977 Torrijos–Carter Treaties.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Panama"
       },
       "colonisation": {
-        "value": "Part of Colombia until 1903.",
+        "value": "Spanish from the 1500s, then part of Gran Colombia and Colombia from 1821 until separation in 1903.",
         "year": 1903,
         "certainty": "confirmed",
         "source": "Wikipedia: Panama"
@@ -279,13 +279,13 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Independence (1903).",
+        "value": "Separated from Colombia on 3 November 1903 with US backing, then granted the US the Canal Zone.",
         "year": 1903,
         "certainty": "confirmed",
         "source": "Wikipedia: Panama"
       },
       "peakPeriod": {
-        "value": "Too recent to judge.",
+        "value": "Too recent to judge; full control of the canal from 1999 brought strong economic growth.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Panama"
@@ -297,7 +297,7 @@
         "source": "Wikipedia: Panama"
       },
       "outcome": {
-        "value": "Still in existence.",
+        "value": "Still in existence as an independent republic that owns and runs the Panama Canal.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Panama"

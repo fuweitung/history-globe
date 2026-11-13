@@ -41,57 +41,57 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "North coast of Borneo; about 5,765 km².",
+        "value": "The north-west coast of Borneo, in two parts split by the Malaysian state of Sarawak; about 5,765 km².",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
       },
       "terrain": {
-        "value": "Rainforest and coast.",
+        "value": "A low coastal plain with rivers and swamps; tropical rainforest in the hills, especially in Temburong district.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
       },
       "climate": {
-        "value": "Tropical.",
+        "value": "Equatorial: hot and humid all year, with heavy rain especially from about October to January.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
       },
       "resources": {
-        "value": "Oil and gas.",
+        "value": "Oil (found at Seria in 1929) and natural gas, both onshore and offshore; also rainforest timber.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
       },
       "disasters": {
-        "value": "Floods.",
+        "value": "Floods and landslides in heavy rain; smoke haze from forest fires elsewhere in Borneo, as in 1997–98.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Brunei"
       }
     },
     "population": {
       "population": {
-        "value": "About 460,000.",
+        "value": "About 450,000–460,000 people in the mid-2020s, including many foreign workers.",
         "year": 2024,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Brunei"
       },
       "urbanisation": {
-        "value": "Bandar Seri Begawan.",
+        "value": "Most people live in towns; the capital Bandar Seri Begawan includes the water village Kampong Ayer, and Seria and Kuala Belait are oil towns.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
       },
       "disease": {
-        "value": "Free health care.",
+        "value": "Free public health care for citizens; lifestyle illnesses such as diabetes and heart disease are major concerns.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
       },
       "migration": {
-        "value": "Foreign workers.",
+        "value": "Many foreign workers from Indonesia, the Philippines, Malaysia and South Asia work in building, services and homes.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
@@ -99,25 +99,25 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Oil and gas.",
+        "value": "Oil and gas provide most export income and government revenue, mainly through Brunei Shell Petroleum and LNG exports.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
       },
       "tradeRoutes": {
-        "value": "Oil exports.",
+        "value": "Liquefied natural gas and crude oil shipped mainly to Japan, South Korea and other Asian buyers.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
       },
       "wealth": {
-        "value": "A high-income economy.",
+        "value": "A high-income economy thanks to oil and gas, with a large sovereign wealth fund, the Brunei Investment Agency.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
       },
       "moneyAndTax": {
-        "value": "Brunei dollar; no income tax.",
+        "value": "The Brunei dollar, kept equal in value to the Singapore dollar; there is no personal income tax.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
@@ -131,7 +131,7 @@
     },
     "politics": {
       "governmentType": {
-        "value": "An absolute monarchy.",
+        "value": "An absolute monarchy: the sultan is head of state and prime minister, and rules by decree.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
@@ -143,19 +143,19 @@
         "source": "Wikipedia: Brunei"
       },
       "succession": {
-        "value": "Sultans.",
+        "value": "Hereditary within the royal family that has ruled Brunei for centuries; the sultan names the crown prince.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
       },
       "institutions": {
-        "value": "Advisory Legislative Council.",
+        "value": "The Council of Cabinet Ministers, Privy Council and Religious Council, and an appointed Legislative Council restored in 2004.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
       },
       "stability": {
-        "value": "Brunei revolt (1962).",
+        "value": "Stable since independence in 1984; emergency powers first declared after the 1962 revolt are still renewed.",
         "year": 1962,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
@@ -169,26 +169,26 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Small army; Gurkha battalion.",
+        "value": "The small Royal Brunei Armed Forces, plus a British Army Gurkha battalion based at Seria under a defence agreement.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
       },
       "majorWars": {
-        "value": "None.",
+        "value": "No wars since independence in 1984; the last fighting was the brief 1962 revolt, before independence.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
       },
       "territoryChange": {
-        "value": "Chose not to join Malaysia (1963).",
+        "value": "No changes since independence; Brunei had chosen not to join Malaysia in 1963 and claims part of the South China Sea.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
       },
       "alliancesRivals": {
-        "value": "ASEAN.",
-        "year": null,
+        "value": "Joined ASEAN and the United Nations in 1984; also a member of the Commonwealth and the Organisation of Islamic Cooperation.",
+        "year": 1984,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
       }
@@ -201,7 +201,7 @@
         "source": "Wikipedia: Brunei"
       },
       "scienceEducation": {
-        "value": "Free education.",
+        "value": "Free education for citizens; Universiti Brunei Darussalam was founded in 1985, followed by other universities.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
@@ -213,7 +213,7 @@
         "source": "Wikipedia: Brunei"
       },
       "communicationTransport": {
-        "value": "Roads.",
+        "value": "Good roads, the Temburong Bridge (2020) joining the two parts, Brunei International Airport and Muara port.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
@@ -221,52 +221,52 @@
     },
     "culture": {
       "religion": {
-        "value": "Muslim majority.",
+        "value": "Islam (Sunni, Shafi’i) is the state religion followed by most people, with Christian and Buddhist minorities.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
       },
       "languageWriting": {
-        "value": "Malay.",
+        "value": "Malay is the official language, written in Latin and Jawi script; English is widely used in business and education.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
       },
       "artsArchitecture": {
-        "value": "Mosques.",
+        "value": "Grand mosques such as the Omar Ali Saifuddien Mosque (1958), stilt houses of Kampong Ayer, and brass and silver crafts.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
       },
       "socialStructure": {
-        "value": "Malay majority; Chinese minority.",
+        "value": "A Malay majority, a Chinese minority, Indigenous groups such as the Dusun and Murut, and many foreign workers.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
       },
       "sharedIdentity": {
-        "value": "Malay Islamic Monarchy.",
+        "value": "The official ideology of Melayu Islam Beraja (Malay Islamic Monarchy), proclaimed at independence in 1984.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
       },
       "dailyLife": {
-        "value": "Houses; ambuyat.",
+        "value": "Comfortable town life for most citizens; foods include ambuyat (sago starch) and nasi katok rice packs.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Brunei"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "Malaysia.",
+        "value": "Malaysia (the state of Sarawak), which surrounds Brunei on land, and the South China Sea to the north.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
       },
       "ideasReligions": {
-        "value": "Sharia law (2014).",
-        "year": null,
+        "value": "A strongly Islamic state; it began bringing in a Sharia penal code in stages from 2014.",
+        "year": 2014,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
       },
@@ -285,7 +285,7 @@
         "source": "Britannica, \"Brunei\" (checked 10 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Too recent to judge.",
+        "value": "Too recent to judge; oil wealth since independence in 1984 has kept living standards high.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Brunei"
@@ -297,7 +297,7 @@
         "source": "Wikipedia: Brunei"
       },
       "outcome": {
-        "value": "Still in existence.",
+        "value": "Still in existence as an independent sultanate and member of ASEAN and the United Nations.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Brunei"
