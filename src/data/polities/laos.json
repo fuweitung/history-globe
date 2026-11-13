@@ -40,10 +40,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Landlocked Southeast Asia; about 237,000 km².",
+        "value": "Southeast Asia, landlocked; 236,800 km².",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Laos"
+        "source": "Wikipedia: Laos (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Rugged mountains and plateaus, such as the Annamite Range and the Plain of Jars, with lowlands along the Mekong.",
@@ -72,10 +72,10 @@
     },
     "population": {
       "population": {
-        "value": "About 7.6 million people in 2024, many of them young and rural.",
-        "year": 2024,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Laos"
+        "value": "7,545,800 (mid-2023 estimate, infobox); the body gives 7,769,819 for 2024.",
+        "year": 2023,
+        "certainty": "disputed",
+        "source": "Wikipedia: Laos (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Mostly rural, though towns are growing; about a third of people live in towns such as Vientiane, Savannakhet and Pakse.",
@@ -174,10 +174,10 @@
         "source": "Wikipedia: Laos"
       },
       "majorWars": {
-        "value": "The Laotian Civil War (1959–75) between the royal government and the Pathet Lao, with heavy US and North Vietnamese involvement.",
-        "year": 1959,
+        "value": "US bombing between 1964 and 1973 dropped more than 2 million tons of bombs, making Laos the most heavily bombed country relative to its population.",
+        "year": 1964,
         "certainty": "confirmed",
-        "source": "Wikipedia: Laos"
+        "source": "Wikipedia: Laos (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Borders inherited from French Indochina; a brief border war with Thailand (1987–88) did not change them.",
@@ -278,10 +278,10 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Full independence from France by the Franco-Lao treaty of 1953, confirmed at Geneva in 1954.",
-        "year": 1953,
+        "value": "French rule from 1893, when the kingdoms were unified under French control; full independence on 22 October 1953 (infobox).",
+        "year": 1893,
         "certainty": "confirmed",
-        "source": "Wikipedia: Laos"
+        "source": "Wikipedia: Laos (checked 13 Nov 2026)"
       },
       "peakPeriod": {
         "value": "Too recent to judge; strong growth since the 1990s market reforms, but debt has risen sharply since about 2020.",
@@ -296,10 +296,10 @@
         "source": "Wikipedia: Laos"
       },
       "outcome": {
-        "value": "Still in existence as the Lao People’s Democratic Republic, founded in 1975 when the monarchy was abolished.",
-        "year": null,
+        "value": "On 2 December 1975 the Pathet Lao government renamed the country the Lao People’s Democratic Republic.",
+        "year": 1975,
         "certainty": "confirmed",
-        "source": "Wikipedia: Laos"
+        "source": "Wikipedia: Laos (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {
