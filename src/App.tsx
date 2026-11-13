@@ -750,6 +750,9 @@ function About() {
       </p>
       <p>Land outlines: <a className="text-gold-300 underline" href="https://www.naturalearthdata.com/" target="_blank" rel="noopener">Natural Earth</a> (public domain). Map engine: MapLibre GL JS.</p>
       <p>Figures such as populations and GDP are scholarly estimates and are labelled with their certainty and source.</p>
+      <p>
+        <strong className="text-parchment-50">Who is included:</strong> only people known to have died. The app does not name living people, such as current leaders, because their stories are still unfolding and could change or become contested. For modern countries it describes the office or the event instead.
+      </p>
       <h3 className="pt-2 text-[11px] font-semibold tracking-wider text-parchment-300 uppercase">Made by</h3>
       {/* TODO: replace the placeholders with the creators' real names, roles and links. */}
       <ul className="space-y-2">
