@@ -41,27 +41,27 @@
         "source": "Wikipedia: Macau"
       },
       "terrain": {
-        "value": "Peninsula and reclaimed islands.",
+        "value": "A small peninsula and the former islands of Taipa and Coloane, now joined by the reclaimed Cotai strip.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Macau"
       },
       "climate": {
-        "value": "Subtropical with typhoons.",
+        "value": "Humid subtropical, with hot, rainy summers, mild winters and typhoons mainly from July to September.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Macau"
       },
       "resources": {
-        "value": "Its harbour and position.",
+        "value": "A sheltered harbour at the mouth of the Pearl River and its position between China and the sea; almost no natural resources.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Macau"
       },
       "disasters": {
-        "value": "Typhoons.",
+        "value": "Typhoons such as Hato (2017), which flooded much of the city, and storm surges in low-lying areas.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Macau"
       }
     },
@@ -73,19 +73,19 @@
         "source": "Wikipedia: Macau"
       },
       "urbanisation": {
-        "value": "Entirely urban.",
+        "value": "Entirely urban, with high-rise housing, casinos on the Cotai strip and the old city centre on the peninsula.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Macau"
       },
       "disease": {
-        "value": "Good health care.",
+        "value": "Plague and cholera outbreaks struck in the 1800s and early 1900s; modern health care is good.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Macau"
       },
       "migration": {
-        "value": "Mainland Chinese workers and tourists.",
+        "value": "Refugees from mainland China in the 1930s–40s and after 1949, and later migrant workers from the mainland and Southeast Asia.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Macau"
@@ -105,21 +105,21 @@
         "source": "Wikipedia: Macau"
       },
       "wealth": {
-        "value": "One of the highest incomes per person.",
+        "value": "Casino income made Macau one of the world’s richest places per person in the 2010s, after gambling was opened to competition in 2002.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Macau"
       },
       "moneyAndTax": {
-        "value": "Macanese pataca.",
+        "value": "The Macanese pataca, issued by the Banco Nacional Ultramarino since 1906; most government income comes from casino taxes.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Macau"
       },
       "inequality": {
-        "value": "Large gaps.",
+        "value": "Large gaps between casino owners and high earners and low-paid service and migrant workers.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Macau"
       }
     },
@@ -143,33 +143,33 @@
         "source": "Wikipedia: Macau"
       },
       "institutions": {
-        "value": "Basic Law (1999); Legislative Assembly.",
-        "year": null,
+        "value": "The Basic Law of 1999 sets out “one country, two systems”, with a Chief Executive, a partly elected Legislative Assembly and its own courts.",
+        "year": 1999,
         "certainty": "confirmed",
         "source": "Wikipedia: Macau"
       },
       "stability": {
-        "value": "1-2-3 incident riots (1966).",
+        "value": "Mostly calm, but the 1-2-3 incident riots of December 1966 weakened Portuguese authority.",
         "year": 1966,
         "certainty": "confirmed",
         "source": "Wikipedia: Macau"
       },
       "eliteConflict": {
-        "value": "Casino owners and pro-Beijing elites.",
+        "value": "Casino owners and pro-Beijing business elites dominate politics; earlier, Portuguese officials depended on Chinese merchants.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Macau"
       }
     },
     "military": {
       "armyAndTech": {
-        "value": "Chinese garrison since 1999.",
+        "value": "Portuguese forts such as the Monte Fortress defended the city; a garrison of China’s People’s Liberation Army has been based there since 1999.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Macau"
       },
       "majorWars": {
-        "value": "Dutch attack repelled (1622).",
+        "value": "A Dutch attack on Macau was beaten off on 24 June 1622; Macau stayed neutral in the Second World War.",
         "year": 1622,
         "certainty": "confirmed",
         "source": "Wikipedia: Macau"
@@ -181,7 +181,7 @@
         "source": "Wikipedia: Macau"
       },
       "alliancesRivals": {
-        "value": "Part of China.",
+        "value": "Portugal and China shared power for centuries; rivals included the Dutch and, after 1842, British Hong Kong.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Macau"
@@ -189,26 +189,26 @@
     },
     "technology": {
       "inventions": {
-        "value": "None of note.",
+        "value": "No major inventions; Macau was a channel for European printing, maps and science reaching China.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Macau"
       },
       "scienceEducation": {
-        "value": "University of Macau.",
+        "value": "St Paul’s College (1594), a Jesuit college, was one of the first Western-style colleges in East Asia; the University of Macau dates from 1981.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Macau"
       },
       "openness": {
-        "value": "An open port.",
+        "value": "A free port open to many nations; it was the main European gateway to China until Hong Kong grew after 1842.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Macau"
       },
       "communicationTransport": {
-        "value": "Bridge to Hong Kong and Zhuhai (2018).",
-        "year": null,
+        "value": "Ferries, an international airport (1995) and the Hong Kong–Zhuhai–Macau Bridge, opened in 2018.",
+        "year": 2018,
         "certainty": "confirmed",
         "source": "Wikipedia: Macau"
       }
@@ -221,39 +221,39 @@
         "source": "Wikipedia: Macau"
       },
       "languageWriting": {
-        "value": "Cantonese and Portuguese.",
+        "value": "Chinese (mostly spoken as Cantonese) and Portuguese are both official; the Macanese creole, Patuá, is now nearly extinct.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Macau"
       },
       "artsArchitecture": {
-        "value": "Historic Centre (World Heritage).",
-        "year": null,
+        "value": "The Historic Centre of Macau, with the ruins of St Paul’s and the A-Ma Temple, became a World Heritage Site in 2005.",
+        "year": 2005,
         "certainty": "confirmed",
         "source": "Wikipedia: Macau"
       },
       "socialStructure": {
-        "value": "Chinese majority; Macanese community.",
+        "value": "A large Chinese majority, a small Macanese (mixed Portuguese–Asian) community, Portuguese residents and migrant workers.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Macau"
       },
       "sharedIdentity": {
-        "value": "Mixed Chinese–Portuguese heritage.",
+        "value": "A mix of Chinese and Portuguese heritage, seen in food, buildings and festivals, alongside strong local Cantonese culture.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Macau"
       },
       "dailyLife": {
-        "value": "Macanese cuisine.",
+        "value": "Crowded apartment living, work in casinos and tourism, and Macanese dishes such as minchi and Portuguese egg tarts.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Macau"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "Zhuhai (mainland China), Hong Kong.",
+        "value": "Zhuhai in Guangdong province, mainland China, directly to the north, and Hong Kong about 60 km across the Pearl River estuary.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Macau"
@@ -265,7 +265,7 @@
         "source": "Wikipedia: Macau"
       },
       "colonisation": {
-        "value": "Portuguese (1557–1999).",
+        "value": "Portuguese settlement from 1557; Portugal gained full sovereignty by treaty in 1887 and handed Macau back to China in 1999.",
         "year": 1557,
         "certainty": "confirmed",
         "source": "Wikipedia: Macau"
@@ -273,13 +273,13 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Portuguese settlement (1557).",
+        "value": "Portuguese merchants were allowed to settle in 1557 and used Macau to link China with Japan, India and Europe.",
         "year": 1557,
         "certainty": "confirmed",
         "source": "Wikipedia: Macau"
       },
       "peakPeriod": {
-        "value": "Japan trade golden age (1570–1639).",
+        "value": "The Japan trade golden age (about 1570–1639), when ships carried Chinese silk to Nagasaki in exchange for Japanese silver.",
         "year": 1600,
         "certainty": "confirmed",
         "source": "Wikipedia: Macau"

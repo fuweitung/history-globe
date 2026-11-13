@@ -49,25 +49,25 @@
         "source": "Wikipedia: Sweden (checked 8 Nov 2026)"
       },
       "terrain": {
-        "value": "Forests, lakes, mountains in the north.",
+        "value": "Forests and lakes such as Vänern and Vättern, farmland in the south (Skåne), and mountains and tundra in the north along the border with Norway.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sweden"
       },
       "climate": {
-        "value": "Cold winters.",
+        "value": "Cold winters and mild summers; the south is milder, and the far north lies above the Arctic Circle with very long winters.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sweden"
       },
       "resources": {
-        "value": "Iron ore, timber, hydropower.",
+        "value": "Iron ore from Kiruna and Bergslagen, timber from vast forests, and hydropower from northern rivers.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sweden"
       },
       "disasters": {
-        "value": "Famine of 1867–69.",
+        "value": "Famine in 1867–69 after crop failures, which drove many to emigrate; smallpox and cholera epidemics struck earlier.",
         "year": 1867,
         "certainty": "confirmed",
         "source": "Wikipedia: Sweden"
@@ -75,19 +75,19 @@
     },
     "population": {
       "population": {
-        "value": "About 10.5 million.",
+        "value": "About 1.8 million in 1750 and about 10.5 million in the 2020s, growing through immigration in recent decades.",
         "year": 2024,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Sweden"
       },
       "urbanisation": {
-        "value": "Stockholm, Gothenburg, Malmö.",
+        "value": "Mostly rural until the late 1800s; today over 85% live in towns, mainly Stockholm, Gothenburg and Malmö.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Sweden"
       },
       "disease": {
-        "value": "Good public health.",
+        "value": "Smallpox vaccination from 1816 and later public health reforms gave Sweden one of the world’s longest life expectancies.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Sweden"
@@ -107,33 +107,33 @@
         "source": "Wikipedia: Sweden (checked 8 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "Export trade.",
+        "value": "Exports of iron, timber and paper, later cars and machines, through ports such as Gothenburg, and trade within the EU from 1995.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sweden"
       },
       "wealth": {
-        "value": "One of the richest countries.",
+        "value": "Poor in the 1800s, it became one of the richest countries in the world by the mid-1900s through industry.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Sweden"
       },
       "moneyAndTax": {
-        "value": "The krona.",
-        "year": null,
+        "value": "The krona, introduced in 1873 with the Scandinavian Monetary Union; high taxes fund the welfare state.",
+        "year": 1873,
         "certainty": "confirmed",
         "source": "Wikipedia: Sweden"
       },
       "inequality": {
-        "value": "Low inequality.",
+        "value": "Among the lowest income inequality in the world since the mid-1900s through taxes and welfare, though gaps have grown since the 1990s.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Sweden"
       }
     },
     "politics": {
       "governmentType": {
-        "value": "A constitutional monarchy.",
+        "value": "A constitutional monarchy and parliamentary democracy; since 1975 the monarch has had only ceremonial duties.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sweden"
@@ -145,25 +145,25 @@
         "source": "Wikipedia: Sweden (checked 8 Nov 2026)"
       },
       "succession": {
-        "value": "Elections.",
+        "value": "The crown passes in the Bernadotte family (to the eldest child regardless of sex since 1980); governments are formed after Riksdag elections.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sweden"
       },
       "institutions": {
-        "value": "Riksdag (parliament).",
+        "value": "The Riksdag (parliament), single-chamber since 1971, the government, the courts and the parliamentary ombudsman (1809).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sweden"
       },
       "stability": {
-        "value": "Stable since 1809.",
+        "value": "A stable constitutional state since the 1809 Instrument of Government; peaceful reforms brought full democracy by 1921.",
         "year": 1809,
         "certainty": "confirmed",
         "source": "Wikipedia: Sweden"
       },
       "eliteConflict": {
-        "value": "Coalition politics.",
+        "value": "The Hats and Caps parties competed in the Age of Liberty (1719–72) until Gustav III seized power in 1772; later, coalition politics.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Sweden"
@@ -177,7 +177,7 @@
         "source": "Wikipedia: Sweden (checked 8 Nov 2026)"
       },
       "majorWars": {
-        "value": "Last war in 1814.",
+        "value": "Wars with Russia (1741–43, 1788–90, 1808–09) and against Napoleon; its last war was the brief campaign against Norway in 1814.",
         "year": 1814,
         "certainty": "confirmed",
         "source": "Wikipedia: Sweden"
@@ -203,19 +203,19 @@
         "source": "Wikipedia: Sweden"
       },
       "scienceEducation": {
-        "value": "High literacy since the 18th century.",
+        "value": "Carl Linnaeus at Uppsala and the Royal Academy of Sciences (1739); compulsory schooling from 1842 and the Nobel Prizes from 1901.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sweden"
       },
       "openness": {
-        "value": "Open.",
+        "value": "Open to trade, ideas and immigration, and a member of the EU since 1995, though neutral in both World Wars.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sweden"
       },
       "communicationTransport": {
-        "value": "Railways and Stockholm’s metro.",
+        "value": "The Göta Canal (1832), railways from the 1850s, Stockholm’s metro (1950) and the Öresund Bridge to Denmark (2000).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sweden"
@@ -223,13 +223,13 @@
     },
     "culture": {
       "religion": {
-        "value": "Lutheran tradition; very secular today.",
+        "value": "The Lutheran Church of Sweden was the state church until 2000; today Sweden is one of the most secular countries.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sweden"
       },
       "languageWriting": {
-        "value": "Swedish; Sámi and Finnish minorities.",
+        "value": "Swedish; Sámi, Finnish, Meänkieli, Romani and Yiddish have been official minority languages since 2000.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sweden"
@@ -241,13 +241,13 @@
         "source": "Wikipedia: Sweden (checked 8 Nov 2026)"
       },
       "socialStructure": {
-        "value": "Large middle class.",
+        "value": "Once a society of nobles, clergy, burghers and peasants (the four estates of the Riksdag until 1866); now a large middle class.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Sweden"
       },
       "sharedIdentity": {
-        "value": "Strong welfare-state identity.",
+        "value": "A strong identity built on the folkhem (“people’s home”) welfare state, neutrality, and traditions such as Midsummer.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Sweden"
@@ -267,7 +267,7 @@
         "source": "Wikipedia: Sweden (checked 8 Nov 2026)"
       },
       "ideasReligions": {
-        "value": "Social democracy.",
+        "value": "Lutheranism, Enlightenment science, popular movements (temperance, free churches, labour) and social democracy from the 1930s.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sweden"
@@ -287,19 +287,19 @@
         "source": "Wikipedia: Sweden (checked 8 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Post-war welfare state.",
-        "year": null,
+        "value": "The post-war decades (about 1945–75), when industry boomed and the welfare state grew under Social Democratic governments.",
+        "year": 1945,
         "certainty": "estimated",
         "source": "Wikipedia: Sweden"
       },
       "declineSignals": {
-        "value": "Loss of Finland.",
+        "value": "No decline of the modern state; its biggest setbacks were losing Finland to Russia in 1809 and a severe banking crisis in the early 1990s.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Sweden"
       },
       "outcome": {
-        "value": "Still in existence.",
+        "value": "Still in existence as a constitutional monarchy and parliamentary democracy.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sweden"

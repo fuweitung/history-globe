@@ -48,27 +48,27 @@
         "source": "Wikipedia: Liberia (checked 13 Nov 2026)"
       },
       "terrain": {
-        "value": "Coast and rainforest.",
+        "value": "A flat coastal plain with lagoons and mangroves, rising to forested hills and the Nimba Mountains in the north, crossed by rivers such as the St Paul.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liberia"
       },
       "climate": {
-        "value": "Tropical, very wet.",
+        "value": "Hot and humid tropical climate with a long rainy season from about May to October; Monrovia is one of the wettest capitals in the world.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liberia"
       },
       "resources": {
-        "value": "Rubber, iron ore, timber.",
+        "value": "Rubber from the Firestone plantation (from 1926), iron ore from the Bong and Nimba ranges, timber, gold and diamonds.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liberia"
       },
       "disasters": {
-        "value": "Floods.",
+        "value": "Seasonal floods in Monrovia and coastal erosion at places like West Point; the Ebola epidemic of 2014–16 was its worst recent crisis.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Liberia"
       }
     },
@@ -80,13 +80,13 @@
         "source": "Wikipedia: Liberia (checked 13 Nov 2026)"
       },
       "urbanisation": {
-        "value": "Monrovia.",
+        "value": "Monrovia, the capital and main port, holds about a third of the population; other towns include Gbarnga, Buchanan and Harper.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liberia"
       },
       "disease": {
-        "value": "Ebola (2014–16).",
+        "value": "The Ebola epidemic of 2014–16 killed nearly 5,000 people in Liberia; malaria remains a leading cause of illness.",
         "year": 2014,
         "certainty": "confirmed",
         "source": "Wikipedia: Liberia"
@@ -100,25 +100,25 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Rubber, iron ore, ship registry.",
+        "value": "Exports of rubber, iron ore, gold and timber, plus fees from its ship registry, one of the largest in the world.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liberia"
       },
       "tradeRoutes": {
-        "value": "Monrovia port.",
+        "value": "Iron ore, rubber and gold leave through the Freeport of Monrovia and Buchanan; many foreign ships fly the Liberian flag.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liberia"
       },
       "wealth": {
-        "value": "A low-income country.",
+        "value": "A low-income country, among the poorest after the civil wars, though iron ore and rubber brought fast growth in the 1950s–70s.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liberia"
       },
       "moneyAndTax": {
-        "value": "The Liberian dollar and US dollar.",
+        "value": "The Liberian dollar and the US dollar are both used; government revenue comes from taxes, mining and shipping registry fees.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liberia"
@@ -144,13 +144,13 @@
         "source": "Wikipedia: Liberia"
       },
       "succession": {
-        "value": "Elections; peaceful since 2005.",
+        "value": "Presidents are elected for six-year terms with a two-term limit; the 2018 handover was the first peaceful transfer between elected presidents since 1944.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liberia"
       },
       "institutions": {
-        "value": "Legislature.",
+        "value": "A legislature of a Senate and House of Representatives, an elected president, the Supreme Court, and a constitution adopted in 1986.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liberia"
@@ -170,7 +170,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Rebuilt army.",
+        "value": "The Armed Forces of Liberia were disbanded and rebuilt from 2005 with US help; UN peacekeepers (UNMIL) stayed from 2003 to 2018.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liberia"
@@ -182,13 +182,13 @@
         "source": "Wikipedia: Liberia (checked 13 Nov 2026)"
       },
       "territoryChange": {
-        "value": "Lost land to colonial neighbours.",
+        "value": "Lost claimed lands to British Sierra Leone and to French Guinea and Ivory Coast in boundary treaties of the late 1800s and early 1900s.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liberia"
       },
       "alliancesRivals": {
-        "value": "Close to the US.",
+        "value": "Close ties to the United States, which recognised it in 1862; a founding member of the UN (1945), the OAU (1963) and ECOWAS (1975).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liberia"
@@ -202,7 +202,7 @@
         "source": "Wikipedia: Liberia"
       },
       "scienceEducation": {
-        "value": "University of Liberia.",
+        "value": "The University of Liberia (founded as Liberia College in 1862), Cuttington University, and schools rebuilt after the civil wars.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liberia"
@@ -214,7 +214,7 @@
         "source": "Wikipedia: Liberia"
       },
       "communicationTransport": {
-        "value": "Roads; iron ore railway.",
+        "value": "Roads, many unpaved, link Monrovia to the interior; railways carried iron ore from the Nimba and Bong mines to the coast.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liberia"
@@ -222,19 +222,19 @@
     },
     "culture": {
       "religion": {
-        "value": "Mostly Christian.",
+        "value": "Mostly Christian (about 85%), with a Muslim minority of about 12% and some followers of traditional beliefs.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liberia"
       },
       "languageWriting": {
-        "value": "English; Kpelle and others.",
+        "value": "English is official, and Liberian English is widely spoken, along with Kpelle, Bassa, Grebo and other languages; the Vai have their own script (1830s).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liberia"
       },
       "artsArchitecture": {
-        "value": "Masks.",
+        "value": "Carved wooden masks of the Dan and of the Poro and Sande societies, textiles, and American-style settler houses in towns such as Monrovia.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liberia"
@@ -246,33 +246,33 @@
         "source": "Wikipedia: Liberia"
       },
       "sharedIdentity": {
-        "value": "National identity rebuilt after war.",
+        "value": "A national identity rebuilt after the civil wars, bringing together Americo-Liberians and the country’s 16 ethnic groups.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Liberia"
       },
       "dailyLife": {
-        "value": "Houses; rice, cassava.",
+        "value": "Rice is the main food, with cassava, palm oil and fish; many people live in zinc-roofed houses and work in farming or trade.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Liberia"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "Sierra Leone, Guinea, Ivory Coast.",
+        "value": "Sierra Leone to the west, Guinea to the north, and Ivory Coast (Côte d’Ivoire) to the east, with the Atlantic Ocean to the south.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liberia"
       },
       "ideasReligions": {
-        "value": "Christianity.",
+        "value": "Christianity brought by settlers and missionaries, the Poro and Sande initiation societies, and Islam among the Mandingo and Vai.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liberia"
       },
       "colonisation": {
-        "value": "Never colonised by a European power.",
+        "value": "Never colonised by a European power, though it lost land to Britain and France and relied on US backing and Firestone investment.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liberia"
@@ -286,19 +286,19 @@
         "source": "Wikipedia: Liberia (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Too recent to judge.",
+        "value": "Too recent to judge; the Tubman years (1944–71) brought fast growth from iron ore and rubber, though gains went mainly to the elite.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Liberia"
       },
       "declineSignals": {
-        "value": "Civil wars.",
+        "value": "The 1980 coup and the civil wars of 1989–97 and 1999–2003, which wrecked the economy and killed around 250,000 people.",
         "year": 1989,
         "certainty": "confirmed",
         "source": "Wikipedia: Liberia"
       },
       "outcome": {
-        "value": "Still in existence.",
+        "value": "Still an independent republic, at peace since 2003, with UN peacekeepers withdrawn in 2018.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Liberia"

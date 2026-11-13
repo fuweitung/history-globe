@@ -46,27 +46,27 @@
         "source": "Wikipedia: Rwanda"
       },
       "terrain": {
-        "value": "“Land of a thousand hills”.",
+        "value": "“Land of a thousand hills”: steep green hills and mountains, the Virunga volcanoes in the north-west and Lake Kivu in the west.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Rwanda"
       },
       "climate": {
-        "value": "Mild highland.",
+        "value": "A mild tropical highland climate, cooled by altitude, with two rainy seasons (about February–May and September–December).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Rwanda"
       },
       "resources": {
-        "value": "Coffee, tea, tourism.",
+        "value": "Fertile volcanic soils for coffee and tea, minerals such as tin, tantalum (coltan) and tungsten, and mountain gorillas for tourism.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Rwanda"
       },
       "disasters": {
-        "value": "Landslides.",
+        "value": "Heavy rains cause landslides and floods, as in May 2023 in the north and west; droughts hit the east.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Rwanda"
       }
     },
@@ -78,45 +78,45 @@
         "source": "Wikipedia: Rwanda"
       },
       "urbanisation": {
-        "value": "Kigali.",
+        "value": "Mostly rural but urbanising fast; Kigali, the capital, has more than 1 million people.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Rwanda"
       },
       "disease": {
-        "value": "Malaria.",
+        "value": "Malaria remains common; health insurance and community health workers have greatly reduced child deaths since 2000.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Rwanda"
       },
       "migration": {
-        "value": "Over 2 million refugees in 1994.",
-        "year": null,
+        "value": "Over 2 million people fled to neighbouring countries in 1994; earlier, many Tutsi had fled in 1959–62.",
+        "year": 1994,
         "certainty": "confirmed",
         "source": "Wikipedia: Rwanda"
       }
     },
     "economy": {
       "economicBase": {
-        "value": "Farming, tourism, services.",
+        "value": "Small-scale farming of bananas, beans and cassava, exports of coffee, tea and minerals, and growing tourism and services.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Rwanda"
       },
       "tradeRoutes": {
-        "value": "Through Tanzania and Kenya.",
+        "value": "Goods travel by road along the Northern Corridor to Mombasa (Kenya) and the Central Corridor to Dar es Salaam (Tanzania).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Rwanda"
       },
       "wealth": {
-        "value": "A low-income country with fast growth.",
+        "value": "A low-income country with fast economic growth since the late 1990s.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Rwanda"
       },
       "moneyAndTax": {
-        "value": "The Rwandan franc.",
+        "value": "The Rwandan franc, the national currency since 1964; taxes are collected by the Rwanda Revenue Authority.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Rwanda"
@@ -130,7 +130,7 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A presidential republic.",
+        "value": "A presidential republic under the 2003 constitution, with an elected president and a two-chamber parliament.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Rwanda"
@@ -148,13 +148,13 @@
         "source": "Wikipedia: Rwanda"
       },
       "institutions": {
-        "value": "Parliament with a majority of women.",
+        "value": "A two-chamber parliament in which women hold over 60% of the lower-house seats, the highest share in the world.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Rwanda"
       },
       "stability": {
-        "value": "The genocide against the Tutsi (1994).",
+        "value": "The genocide against the Tutsi (April–July 1994) killed about 800,000 people; the country has been stable since about 2000.",
         "year": 1994,
         "certainty": "confirmed",
         "source": "Wikipedia: Rwanda"
@@ -168,7 +168,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Disciplined army.",
+        "value": "The Rwanda Defence Force, formed from the former rebel army after 1994, is known for its role in UN peacekeeping missions.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Rwanda"
@@ -180,13 +180,13 @@
         "source": "Wikipedia: Rwanda"
       },
       "territoryChange": {
-        "value": "None.",
+        "value": "No change since independence in 1962, when the Belgian territory of Ruanda-Urundi was split into Rwanda and Burundi.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Rwanda"
       },
       "alliancesRivals": {
-        "value": "Tensions with the DR Congo.",
+        "value": "Member of the East African Community (since 2007) and the Commonwealth (since 2009); tense relations with the DR Congo.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Rwanda"
@@ -200,9 +200,9 @@
         "source": "Wikipedia: Rwanda"
       },
       "scienceEducation": {
-        "value": "Rising literacy.",
+        "value": "About three-quarters of adults can read; the University of Rwanda was formed in 2013 by merging public colleges.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Rwanda"
       },
       "openness": {
@@ -212,7 +212,7 @@
         "source": "Wikipedia: Rwanda"
       },
       "communicationTransport": {
-        "value": "Roads.",
+        "value": "Roads link Kigali to Uganda, Tanzania and Burundi; Kigali International Airport is the base of the national airline, RwandAir.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Rwanda"
@@ -220,19 +220,19 @@
     },
     "culture": {
       "religion": {
-        "value": "Mostly Christian.",
+        "value": "Mostly Christian (Catholics, Protestants and Adventists), with a Muslim minority of a few per cent.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Rwanda"
       },
       "languageWriting": {
-        "value": "Kinyarwanda, French, English, Swahili.",
+        "value": "Kinyarwanda is spoken by almost everyone; French, English (official since 2003) and Swahili (since 2017) are also official.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Rwanda"
       },
       "artsArchitecture": {
-        "value": "Imigongo art.",
+        "value": "Imigongo art made from cow dung in geometric patterns, intore dance, and the rebuilt royal palace at Nyanza.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Rwanda"
@@ -244,21 +244,21 @@
         "source": "Wikipedia: Rwanda"
       },
       "sharedIdentity": {
-        "value": "“Rwandanness” promoted.",
+        "value": "The state promotes a single Rwandan identity (“Ndi Umunyarwanda”, I am Rwandan) instead of ethnic labels.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Rwanda"
       },
       "dailyLife": {
-        "value": "Houses; beans, bananas.",
+        "value": "Most families farm small plots and eat beans, bananas, sweet potatoes and cassava; Umuganda community work is held monthly.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Rwanda"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "Uganda, Tanzania, Burundi, DR Congo.",
+        "value": "Uganda to the north, Tanzania to the east, Burundi to the south and the Democratic Republic of the Congo to the west.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Rwanda"
@@ -278,25 +278,25 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Independence (1962).",
+        "value": "Independence from Belgian rule on 1 July 1962, after the revolution of 1959–61 ended the monarchy.",
         "year": 1962,
         "certainty": "confirmed",
         "source": "Wikipedia: Rwanda"
       },
       "peakPeriod": {
-        "value": "Too recent to judge.",
+        "value": "Too recent to judge; rapid recovery and growth since the 2000s are often noted.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Rwanda"
       },
       "declineSignals": {
-        "value": "Genocide (1994).",
+        "value": "The genocide against the Tutsi (1994) killed about 800,000 people and left the country devastated.",
         "year": 1994,
         "certainty": "confirmed",
         "source": "Wikipedia: Rwanda"
       },
       "outcome": {
-        "value": "Still in existence.",
+        "value": "Still in existence as an independent republic with its capital at Kigali.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Rwanda"

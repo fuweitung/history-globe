@@ -46,27 +46,27 @@
         "source": "Wikipedia: Togo (checked 13 Nov 2026)"
       },
       "terrain": {
-        "value": "Coast, plateaus, hills.",
+        "value": "A short coast with lagoons such as Lake Togo, a central plateau, the Togo Mountains running south-west to north-east, and northern savanna.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Togo"
       },
       "climate": {
-        "value": "Tropical.",
+        "value": "Tropical: humid in the south with two rainy seasons, and drier savanna in the north with one rainy season.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Togo"
       },
       "resources": {
-        "value": "Phosphates, cotton, cocoa.",
+        "value": "Phosphate rock near Lake Togo, fertile land for cotton, coffee and cocoa, limestone, and the deep-water harbour of Lomé.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Togo"
       },
       "disasters": {
-        "value": "Floods.",
+        "value": "Floods in the rainy season, such as the severe floods of 2007, droughts in the north, and erosion along the coast.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Togo"
       }
     },
@@ -78,41 +78,41 @@
         "source": "Wikipedia: Togo (checked 13 Nov 2026)"
       },
       "urbanisation": {
-        "value": "Lomé.",
+        "value": "Largely rural, but Lomé, the capital and port, has grown to well over a million people; other towns include Sokodé and Kara.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Togo"
       },
       "disease": {
-        "value": "Malaria.",
+        "value": "Malaria is the leading cause of illness; HIV, meningitis in the north and child malnutrition are also problems.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Togo"
       },
       "migration": {
-        "value": "Regional migration.",
+        "value": "Many Togolese work in Ghana, Nigeria and Benin; political unrest in 1993 and 2005 drove tens of thousands abroad as refugees.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Togo"
       }
     },
     "economy": {
       "economicBase": {
-        "value": "Farming, phosphates, port.",
+        "value": "Farming of maize, cassava, cotton, coffee and cocoa, phosphate mining, and the port of Lomé, a hub for re-exports.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Togo"
       },
       "tradeRoutes": {
-        "value": "Port of Lomé.",
+        "value": "The deep-water Port of Lomé serves Togo and landlocked Burkina Faso, Niger and Mali; a coastal highway links Lagos and Abidjan.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Togo"
       },
       "wealth": {
-        "value": "A low-income country.",
+        "value": "A low-income country in which many people live in poverty, though Lomé’s port and services have grown.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Togo"
       },
       "moneyAndTax": {
@@ -130,7 +130,7 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A republic dominated by one family.",
+        "value": "A republic dominated by the Gnassingbé family since 1967; a 2024 constitution changed it to a parliamentary system.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Togo"
@@ -148,13 +148,13 @@
         "source": "Wikipedia: Togo (checked 13 Nov 2026)"
       },
       "institutions": {
-        "value": "National Assembly.",
+        "value": "A National Assembly and courts; the 2024 constitution moved power from the president to a President of the Council of Ministers chosen by parliament.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Togo"
       },
       "stability": {
-        "value": "First president assassinated (1963).",
+        "value": "President Sylvanus Olympio was killed in a coup in January 1963; another coup followed in 1967, and protests in the 1990s and 2005 were put down.",
         "year": 1963,
         "certainty": "confirmed",
         "source": "Wikipedia: Togo"
@@ -168,25 +168,25 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Armed forces.",
+        "value": "The Togolese Armed Forces, recruited largely from the north, have been central to politics since the coups of 1963 and 1967.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Togo"
       },
       "majorWars": {
-        "value": "None.",
+        "value": "No major wars; violence has come mainly from coups and political unrest and, in the 2020s, from armed attacks in the far north.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Togo"
       },
       "territoryChange": {
-        "value": "Western Togoland joined Ghana (1956).",
-        "year": null,
+        "value": "British Togoland voted in 1956 to join the Gold Coast (Ghana); French Togoland became today’s Togo.",
+        "year": 1956,
         "certainty": "confirmed",
         "source": "Wikipedia: Togo"
       },
       "alliancesRivals": {
-        "value": "ECOWAS member.",
+        "value": "A member of ECOWAS (1975), the African Union and, since 2022, the Commonwealth; Lomé gave its name to the EEC’s Lomé Convention (1975).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Togo"
@@ -200,7 +200,7 @@
         "source": "Wikipedia: Togo"
       },
       "scienceEducation": {
-        "value": "Universities.",
+        "value": "The University of Lomé (founded 1970) and the University of Kara (2004); French is the language of schooling.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Togo"
@@ -212,7 +212,7 @@
         "source": "Wikipedia: Togo"
       },
       "communicationTransport": {
-        "value": "Port and roads.",
+        "value": "The port of Lomé, a north–south highway to Burkina Faso, a coastal road to Ghana and Benin, and the international airport at Lomé.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Togo"
@@ -220,51 +220,51 @@
     },
     "culture": {
       "religion": {
-        "value": "Christian, Muslim and traditional.",
+        "value": "A mix of Christians, Muslims (mostly in the north) and followers of traditional religions such as Vodun.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Togo"
       },
       "languageWriting": {
-        "value": "French; Ewe, Kabiyé.",
+        "value": "French is official; Ewe in the south and Kabiyè in the north are national languages, both written in the Latin alphabet.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Togo"
       },
       "artsArchitecture": {
-        "value": "Tower-houses.",
+        "value": "The earthen tower-houses (takienta) of the Batammariba in Koutammakou, a UNESCO site (2004), and Ewe weaving, drumming and dance.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Togo"
       },
       "socialStructure": {
-        "value": "Ewe, Kabye and others.",
+        "value": "About 40 ethnic groups; the Ewe dominate the south and the Kabye the north, with long rivalry between them.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Togo"
       },
       "sharedIdentity": {
-        "value": "National identity.",
+        "value": "A national identity, though often divided between the south (Ewe) and the north, which has dominated the army and government.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Togo"
       },
       "dailyLife": {
-        "value": "Houses; maize, fufu.",
+        "value": "People live in rural compounds or town houses; meals of fufu (pounded yam), maize paste (akoumé) and sauces with fish.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Togo"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "Ghana, Burkina Faso, Benin.",
+        "value": "Ghana to the west, Burkina Faso to the north and Benin to the east, with the Gulf of Guinea to the south.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Togo"
       },
       "ideasReligions": {
-        "value": "Christianity and Islam.",
+        "value": "Christianity and Islam, with Vodun and other traditional religions still widely practised alongside them.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Togo"
@@ -284,7 +284,7 @@
         "source": "Wikipedia: Togo (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Too recent to judge.",
+        "value": "Too recent to judge; phosphate earnings boomed briefly in the mid-1970s.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Togo"
@@ -296,7 +296,7 @@
         "source": "Wikipedia: Togo"
       },
       "outcome": {
-        "value": "Still in existence.",
+        "value": "Still in existence as an independent republic.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Togo"

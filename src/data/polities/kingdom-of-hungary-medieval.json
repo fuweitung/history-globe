@@ -48,25 +48,25 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "The Carpathian Basin.",
+        "value": "The Carpathian Basin in Central Europe, covering today’s Hungary, Slovakia and Transylvania, and from 1102 also Croatia.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
       },
       "terrain": {
-        "value": "Great Plain and Carpathian mountains.",
+        "value": "The Great Hungarian Plain along the Danube and Tisza rivers, ringed by the Carpathian Mountains, with Lake Balaton in the west.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
       },
       "climate": {
-        "value": "Continental.",
+        "value": "Continental: hot, dry summers on the plain and cold winters, with cooler, wetter weather in the mountains.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
       },
       "resources": {
-        "value": "Gold and silver mines, cattle, grain.",
+        "value": "Gold and silver from mines at Kremnica (Körmöcbánya) and Banská Štiavnica (Selmecbánya), copper, Transylvanian salt, cattle and grain.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
@@ -80,7 +80,7 @@
     },
     "population": {
       "population": {
-        "value": "About 3 million by 1500.",
+        "value": "Perhaps about 3 million people by 1500, though estimates vary widely.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
@@ -98,7 +98,7 @@
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
       },
       "migration": {
-        "value": "German settlers (Saxons), Cumans.",
+        "value": "German “Saxon” settlers came to Transylvania and Upper Hungary in the 1100s–1200s; Cumans settled on the plain from 1239.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
@@ -106,26 +106,26 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming, cattle, mining.",
+        "value": "Farming of grain and wine, cattle raising on the Great Plain, and mining of gold, silver and copper.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
       },
       "tradeRoutes": {
-        "value": "Cattle and metals to Germany and Italy.",
+        "value": "Grey cattle were driven to German and Italian markets; gold, silver and copper went out through Vienna, Venice and Kraków.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
       },
       "wealth": {
-        "value": "Rich mines (Kremnica gold).",
+        "value": "Hungary’s mines supplied a large share of Europe’s gold in the 1300s; the royal mint at Kremnica opened around 1328.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
       },
       "moneyAndTax": {
-        "value": "Gold florins.",
-        "year": null,
+        "value": "The gold florin, minted from 1325 under Charles I; royal income came from mines, salt, customs and taxes on peasant households.",
+        "year": 1325,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
       },
@@ -138,7 +138,7 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Monarchy with a diet.",
+        "value": "A Christian monarchy whose kings shared power with the great nobles and, from the 1400s, with an assembly called the Diet.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
@@ -156,19 +156,19 @@
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
       },
       "institutions": {
-        "value": "Golden Bull (1222).",
+        "value": "The Golden Bull of 1222 limited royal power and confirmed noble rights; counties and later the Diet ran local and national affairs.",
         "year": 1222,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
       },
       "stability": {
-        "value": "Noble revolts.",
+        "value": "Strong under some kings but often weakened by baronial revolts, disputed successions and, after 1490, weak kings.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
       },
       "eliteConflict": {
-        "value": "Barons against kings.",
+        "value": "Barons repeatedly challenged kings, as under Andrew II (1205–35); after 1490 the magnates dominated the weak Jagiellonian kings.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
@@ -176,7 +176,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Light cavalry, later mercenaries.",
+        "value": "Mounted archers early on, then armoured knights, stone castles built after 1241, and Matthias Corvinus’s paid Black Army.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
@@ -188,13 +188,13 @@
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
       },
       "territoryChange": {
-        "value": "Ruled Croatia (from 1102).",
-        "year": null,
+        "value": "Croatia came under the Hungarian crown in 1102; Matthias Corvinus later won Moravia, Silesia and, in 1485, Vienna.",
+        "year": 1102,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
       },
       "alliancesRivals": {
-        "value": "Holy Roman Empire, Ottomans.",
+        "value": "Rivals included the Holy Roman Empire, Venice (over Dalmatia), Bohemia and the Ottomans; Hungary shared kings with Poland in 1370–82 and 1440–44.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
@@ -202,13 +202,13 @@
     },
     "technology": {
       "inventions": {
-        "value": "No major inventions are recorded.",
+        "value": "No major inventions are recorded, though the first book printed in Hungary, the Chronica Hungarorum, appeared at Buda in 1473.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
       },
       "scienceEducation": {
-        "value": "Renaissance court of Matthias.",
+        "value": "Matthias Corvinus built a famous Renaissance library, the Bibliotheca Corviniana; universities were founded at Pécs (1367) and Pozsony (1460s).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
@@ -220,7 +220,7 @@
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
       },
       "communicationTransport": {
-        "value": "Roads, rivers and coastal shipping.",
+        "value": "Rivers such as the Danube and Tisza carried goods; roads linked Buda to Vienna, Kraków and the Adriatic coast.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
@@ -228,31 +228,31 @@
     },
     "culture": {
       "religion": {
-        "value": "Catholic.",
+        "value": "Catholic Christianity, adopted under Stephen I, with archbishoprics at Esztergom and Kalocsa; Orthodox Christians lived in the south and east.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
       },
       "languageWriting": {
-        "value": "Hungarian; Latin.",
+        "value": "Most people spoke Hungarian; Latin was the language of the church, law and government.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
       },
       "artsArchitecture": {
-        "value": "Romanesque and Renaissance buildings.",
+        "value": "Romanesque churches such as Ják Abbey, Gothic churches, and the Renaissance royal palaces of Matthias at Buda and Visegrád.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
       },
       "socialStructure": {
-        "value": "Magnates, nobles, serfs.",
+        "value": "Magnates (barons), lesser nobles, clergy, town burghers and a large majority of peasants, many of them serfs.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
       },
       "sharedIdentity": {
-        "value": "Loyalty to the ruler, faith and region.",
+        "value": "Loyalty to the Holy Crown of St Stephen and the Catholic faith; nobles saw themselves as the Hungarian “nation”.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
@@ -272,13 +272,13 @@
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
       },
       "ideasReligions": {
-        "value": "Catholic Christianity.",
+        "value": "Catholic Christianity and the cult of royal saints such as Stephen, Emeric and Ladislaus; Renaissance humanism at Matthias’s court.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
       },
       "colonisation": {
-        "value": "None.",
+        "value": "Hungary held no overseas colonies, though its kings ruled neighbouring lands such as Croatia and parts of Dalmatia.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
@@ -286,19 +286,19 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Coronation of Stephen I (1000).",
+        "value": "Stephen I was crowned king in 1000 and built a Christian kingdom with bishoprics and royal counties.",
         "year": 1000,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
       },
       "peakPeriod": {
-        "value": "Matthias Corvinus (1458–90).",
+        "value": "The reign of Matthias Corvinus (1458–90), who ruled a powerful kingdom and a famous Renaissance court.",
         "year": 1470,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"
       },
       "declineSignals": {
-        "value": "Mohács (1526).",
+        "value": "Weak Jagiellonian kings after 1490, the great peasant revolt of 1514 and the Ottoman victory at Mohács (1526).",
         "year": 1526,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Hungary (1000–1301)"

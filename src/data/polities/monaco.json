@@ -44,27 +44,27 @@
         "source": "Wikipedia: Monaco (checked 13 Nov 2026)"
       },
       "terrain": {
-        "value": "Rocky coast.",
+        "value": "A narrow strip of rocky coast below the Maritime Alps, with the Rock of Monaco headland; much land is reclaimed from the sea, as at Fontvieille.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Monaco"
       },
       "climate": {
-        "value": "Mediterranean.",
+        "value": "Mediterranean: mild, wet winters and hot, dry summers, sheltered from northern winds by the mountains.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Monaco"
       },
       "resources": {
-        "value": "Tourism and banking.",
+        "value": "Few natural resources: the harbour and, until 1848, lemons and olives from Menton and Roquebrune; today its wealth comes from tourism, banking and property.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Monaco"
       },
       "disasters": {
-        "value": "Few.",
+        "value": "Occasional storms and coastal flooding; earthquakes have struck the Riviera, notably the Ligurian earthquake of 1887.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Monaco"
       }
     },
@@ -76,27 +76,27 @@
         "source": "Wikipedia: Monaco (checked 13 Nov 2026)"
       },
       "urbanisation": {
-        "value": "Entirely urban.",
+        "value": "Entirely urban: one continuous city-state with districts such as Monaco-Ville on the Rock, La Condamine, Monte Carlo and Fontvieille.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Monaco"
       },
       "disease": {
-        "value": "Excellent health care.",
+        "value": "Plague hit the Riviera in earlier centuries; today residents have one of the world’s highest life expectancies.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Monaco"
       },
       "migration": {
-        "value": "Many residents are foreign.",
+        "value": "Foreign residents, especially French and Italians and wealthy people from many countries drawn by low taxes, far outnumber Monégasque citizens.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Monaco"
       }
     },
     "economy": {
       "economicBase": {
-        "value": "Tourism, banking, property.",
+        "value": "Tourism, the Monte Carlo casino, banking and finance, property and conferences; in earlier centuries, harbour dues and farm produce.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Monaco"
@@ -108,9 +108,9 @@
         "source": "Wikipedia: Monaco"
       },
       "wealth": {
-        "value": "One of the richest places per person.",
+        "value": "One of the richest places in the world per person; it struggled after losing Menton and Roquebrune in 1848, until the Monte Carlo casino opened (1863).",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Monaco"
       },
       "moneyAndTax": {
@@ -120,27 +120,27 @@
         "source": "Wikipedia: Monaco (checked 13 Nov 2026)"
       },
       "inequality": {
-        "value": "Very wealthy residents.",
+        "value": "Very wealthy residents live alongside many workers who commute daily from France and Italy because housing is so expensive.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Monaco"
       }
     },
     "politics": {
       "governmentType": {
-        "value": "A constitutional monarchy.",
+        "value": "A hereditary constitutional monarchy: the prince shares lawmaking with the elected National Council under the 1962 constitution.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Monaco"
       },
       "keyRulers": {
-        "value": "Charles III. Rainier III. Albert II.",
+        "value": "Charles III (1856–89), who founded Monte Carlo; Albert I (1889–1922), the oceanographer prince; and Rainier III (1949–2005), who modernised the economy.",
         "year": 1949,
         "certainty": "confirmed",
         "source": "Wikipedia: Monaco"
       },
       "succession": {
-        "value": "Grimaldi family.",
+        "value": "Hereditary in the House of Grimaldi; a 1918 treaty with France aimed to keep the throne in the family and out of foreign hands.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Monaco"
@@ -152,15 +152,15 @@
         "source": "Wikipedia: Monaco (checked 13 Nov 2026)"
       },
       "stability": {
-        "value": "Stable.",
+        "value": "Largely stable for centuries; the 1910 revolution led to the 1911 constitution, and a 1959–62 crisis to the 1962 constitution.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Monaco"
       },
       "eliteConflict": {
-        "value": "Few.",
+        "value": "Rare: disputes between princes and the National Council, as in 1959 when Rainier III suspended the constitution, ended in compromise.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Monaco"
       }
     },
@@ -178,13 +178,13 @@
         "source": "Wikipedia: Monaco (checked 13 Nov 2026)"
       },
       "territoryChange": {
-        "value": "None in modern times.",
-        "year": null,
+        "value": "Lost most of its land when Menton and Roquebrune broke away in 1848 and were sold to France in 1861; it has since grown by land reclamation.",
+        "year": 1861,
         "certainty": "confirmed",
         "source": "Wikipedia: Monaco"
       },
       "alliancesRivals": {
-        "value": "Defence by France.",
+        "value": "Under Spanish protection (1524–1641), then French; under treaties of 1861 and 1918, France guarantees its independence and defence.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Monaco"
@@ -192,25 +192,25 @@
     },
     "technology": {
       "inventions": {
-        "value": "None of note.",
+        "value": "No major inventions, but Prince Albert I founded the Oceanographic Museum (opened 1910), a centre for marine science.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Monaco"
       },
       "scienceEducation": {
-        "value": "Schools; universities abroad.",
+        "value": "State schools follow the French curriculum; the International University of Monaco teaches business, and the Oceanographic Museum supports marine research.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Monaco"
       },
       "openness": {
-        "value": "Open borders with the EU.",
+        "value": "Very open: an open border with France, use of the euro, and many foreign residents, businesses and visitors.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Monaco"
       },
       "communicationTransport": {
-        "value": "Roads and rail of its neighbour.",
+        "value": "A harbour at La Condamine, a station on the French coastal railway (opened 1868), buses and public lifts; the nearest airport is Nice.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Monaco"
@@ -218,19 +218,19 @@
     },
     "culture": {
       "religion": {
-        "value": "Catholic.",
+        "value": "Roman Catholicism is the state religion; the Archdiocese of Monaco centres on St Nicholas Cathedral, where many princes are buried.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Monaco"
       },
       "languageWriting": {
-        "value": "French; Monégasque.",
+        "value": "French is the official language; Monégasque, a Ligurian dialect close to Genoese, is taught in schools, and Italian and English are widely spoken.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Monaco"
       },
       "artsArchitecture": {
-        "value": "Belle Époque casino and opera.",
+        "value": "The Belle Époque casino and opera house (Salle Garnier, 1879) by Charles Garnier, Ballets Russes seasons from 1911, and the Prince’s Palace.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Monaco"
@@ -242,27 +242,27 @@
         "source": "Wikipedia: Monaco (checked 13 Nov 2026)"
       },
       "sharedIdentity": {
-        "value": "Pride in long independence.",
+        "value": "Pride in the Grimaldi dynasty, the Monégasque language and festivals such as Saint Devote’s day (27 January) and National Day (19 November).",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Monaco"
       },
       "dailyLife": {
-        "value": "Flats; Mediterranean food.",
+        "value": "Most people live in apartment blocks; local dishes include barbagiuan (fried pastries) and socca, and many workers commute from France.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Monaco"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "France.",
+        "value": "Surrounded on land by France (the Alpes-Maritimes department), with Italy a few kilometres east along the coast.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Monaco"
       },
       "ideasReligions": {
-        "value": "Catholicism.",
+        "value": "Catholicism as the state religion, Albert I’s support for ocean science and conservation, and the Grimaldis’ patronage of the arts.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Monaco"
@@ -282,19 +282,19 @@
         "source": "Wikipedia: Monaco (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Too recent to judge.",
+        "value": "Too recent to judge; its modern rise began with the Monte Carlo casino (1863) and grew under Rainier III (1949–2005).",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Monaco"
       },
       "declineSignals": {
-        "value": "None.",
+        "value": "No clear decline; its main setback was losing Menton and Roquebrune (1848–61), which removed most of its land and income.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Monaco"
       },
       "outcome": {
-        "value": "Still in existence.",
+        "value": "Still in existence as a sovereign principality ruled by the Grimaldi family, closely tied to France.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Monaco"

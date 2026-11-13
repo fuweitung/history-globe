@@ -48,25 +48,25 @@
         "source": "Wikipedia: Luxembourg (checked 13 Nov 2026)"
       },
       "terrain": {
-        "value": "Ardennes hills and river valleys.",
+        "value": "The wooded Ardennes hills (Oesling) in the north, and the farmland and river valleys of the Gutland in the south, including the Moselle.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Luxembourg"
       },
       "climate": {
-        "value": "Temperate.",
+        "value": "Temperate and mildly oceanic, with mild summers, cool winters and rain spread through the year.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Luxembourg"
       },
       "resources": {
-        "value": "Iron ore (historically), finance.",
+        "value": "Iron ore (minette) in the south, mined from the 1800s until 1981, plus farmland and Moselle vineyards.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Luxembourg"
       },
       "disasters": {
-        "value": "No major natural disasters recorded.",
+        "value": "No major natural disasters; floods along rivers such as the Sûre and Alzette, as in July 2021, and storms occur.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Luxembourg"
@@ -80,13 +80,13 @@
         "source": "Wikipedia: Luxembourg (checked 13 Nov 2026)"
       },
       "urbanisation": {
-        "value": "Luxembourg City is the main town.",
+        "value": "Luxembourg City, the capital, has about 135,000 people; Esch-sur-Alzette is the second town.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Luxembourg"
       },
       "disease": {
-        "value": "Very good public health.",
+        "value": "Very good public health and long life expectancy, of more than 80 years.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Luxembourg"
@@ -100,13 +100,13 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Banking, finance, steel (historically).",
+        "value": "Banking and investment funds, EU institutions and services, satellite companies such as SES, and historically steel (ARBED).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Luxembourg"
       },
       "tradeRoutes": {
-        "value": "EU single market.",
+        "value": "Part of the EU single market and the Schengen area; the Schengen Agreement was signed in Luxembourg in 1985.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Luxembourg"
@@ -118,13 +118,13 @@
         "source": "Wikipedia: Luxembourg"
       },
       "moneyAndTax": {
-        "value": "The euro.",
-        "year": null,
+        "value": "The euro since 1999 (notes and coins from 2002); before that the Luxembourg franc, tied to the Belgian franc.",
+        "year": 1999,
         "certainty": "confirmed",
         "source": "Wikipedia: Luxembourg"
       },
       "inequality": {
-        "value": "Low inequality.",
+        "value": "Fairly low inequality by world standards, but high housing costs create gaps between residents.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Luxembourg"
@@ -150,19 +150,19 @@
         "source": "Wikipedia: Luxembourg"
       },
       "institutions": {
-        "value": "Chamber of Deputies.",
+        "value": "The 60-seat Chamber of Deputies, the Council of State, the government led by a prime minister, and the grand duke.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Luxembourg"
       },
       "stability": {
-        "value": "Occupied by Germany in both World Wars.",
+        "value": "Stable in peacetime, but occupied by Germany in both World Wars (1914–18 and 1940–44).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Luxembourg"
       },
       "eliteConflict": {
-        "value": "Little conflict among leaders.",
+        "value": "Little conflict among leaders; politics is based on coalitions, often led by the Christian Social People’s Party.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Luxembourg"
@@ -170,7 +170,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "A small army; NATO member.",
+        "value": "A small volunteer army of under 1,000 soldiers; a founding member of NATO (1949).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Luxembourg"
@@ -182,7 +182,7 @@
         "source": "Wikipedia: Luxembourg (checked 13 Nov 2026)"
       },
       "territoryChange": {
-        "value": "No territorial change in modern times.",
+        "value": "Lost its western, French-speaking part to Belgium in 1839; its borders have not changed since.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Luxembourg"
@@ -196,19 +196,19 @@
     },
     "technology": {
       "inventions": {
-        "value": "Few major inventions.",
+        "value": "Few major inventions; the country is known for steel making and later for satellite broadcasting through SES (founded 1985).",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Luxembourg"
       },
       "scienceEducation": {
-        "value": "High education levels.",
+        "value": "High education levels; the University of Luxembourg, the country’s first university, was founded in 2003.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Luxembourg"
       },
       "openness": {
-        "value": "Very open.",
+        "value": "Very open: many workers commute daily from France, Belgium and Germany, and most trade is with the EU.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Luxembourg"
@@ -222,7 +222,7 @@
     },
     "culture": {
       "religion": {
-        "value": "Mostly Catholic.",
+        "value": "Mostly Roman Catholic by tradition, with growing numbers of non-religious people and followers of other faiths.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Luxembourg"
@@ -234,19 +234,19 @@
         "source": "Wikipedia: Luxembourg (checked 13 Nov 2026)"
       },
       "artsArchitecture": {
-        "value": "Castles, a UNESCO old town.",
-        "year": null,
+        "value": "The old town and fortifications of Luxembourg City (World Heritage since 1994) and castles such as Vianden.",
+        "year": 1994,
         "certainty": "confirmed",
         "source": "Wikipedia: Luxembourg"
       },
       "socialStructure": {
-        "value": "Prosperous society.",
+        "value": "A prosperous society with a large middle class; nearly half of residents are foreign nationals, especially Portuguese.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Luxembourg"
       },
       "sharedIdentity": {
-        "value": "“We want to remain what we are.”",
+        "value": "The national motto “Mir wëlle bleiwe wat mir sinn” (“We want to remain what we are”) and the Luxembourgish language.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Luxembourg"
@@ -260,19 +260,19 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Belgium, France, Germany.",
+        "value": "Belgium to the west and north, Germany to the east and France to the south.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Luxembourg"
       },
       "ideasReligions": {
-        "value": "Shares the culture of its neighbours.",
+        "value": "Catholic traditions such as the Echternach dancing procession, mixed with French and German culture.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Luxembourg"
       },
       "colonisation": {
-        "value": "None.",
+        "value": "Luxembourg had no colonies; before 1839 it was itself ruled in turn by Spain, Austria, France and the Netherlands.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Luxembourg"
@@ -286,19 +286,19 @@
         "source": "Wikipedia: Luxembourg (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Modern prosperity.",
-        "year": null,
+        "value": "Modern prosperity since the 1980s, as banking and EU institutions replaced steel.",
+        "year": 1990,
         "certainty": "estimated",
         "source": "Wikipedia: Luxembourg"
       },
       "declineSignals": {
-        "value": "None major.",
+        "value": "No major decline; the steel crisis of the 1970s cut jobs before finance grew.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Luxembourg"
       },
       "outcome": {
-        "value": "Still in existence.",
+        "value": "Still in existence as an independent grand duchy and a member of the European Union.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Luxembourg"
