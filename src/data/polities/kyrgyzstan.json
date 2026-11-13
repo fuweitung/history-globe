@@ -40,31 +40,31 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Central Asia; about 200,000 km².",
+        "value": "A landlocked country in Central Asia between Kazakhstan, China, Tajikistan and Uzbekistan; about 200,000 km².",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kyrgyzstan"
       },
       "terrain": {
-        "value": "Tian Shan mountains.",
+        "value": "Over 90% mountains, mainly the Tian Shan and Pamir-Alay, with the large Lake Issyk-Kul and part of the Fergana Valley.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kyrgyzstan"
       },
       "climate": {
-        "value": "Continental.",
+        "value": "Continental: cold, snowy winters and warm, dry summers, with much colder conditions high in the mountains.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kyrgyzstan"
       },
       "resources": {
-        "value": "Gold, hydropower.",
+        "value": "Gold (the Kumtor mine), hydropower from the Naryn River and Toktogul dam, coal, and pasture for herds.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kyrgyzstan"
       },
       "disasters": {
-        "value": "Earthquakes, mudslides.",
+        "value": "Earthquakes, mudflows, landslides and avalanches; Soviet-era uranium waste at Mailuu-Suu is a pollution risk.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kyrgyzstan"
@@ -72,25 +72,25 @@
     },
     "population": {
       "population": {
-        "value": "About 7 million.",
+        "value": "About 7 million people in 2024, most of them living in valleys and lowlands.",
         "year": 2024,
         "certainty": "confirmed",
         "source": "Wikipedia: Kyrgyzstan"
       },
       "urbanisation": {
-        "value": "Bishkek and Osh.",
+        "value": "About a third of people live in towns; Bishkek, the capital, has around a million and Osh is the second city.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Kyrgyzstan"
       },
       "disease": {
-        "value": "Fair health care.",
+        "value": "Tuberculosis and other infections remain problems; health care is weaker in remote mountain areas.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Kyrgyzstan"
       },
       "migration": {
-        "value": "Workers go to Russia.",
+        "value": "Hundreds of thousands work abroad, mostly in Russia and Kazakhstan; many ethnic Russians and Germans left in the 1990s.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kyrgyzstan"
@@ -98,26 +98,26 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Gold, remittances, herding.",
+        "value": "Gold mining, money sent home by migrant workers, livestock herding, farming and re-exporting Chinese goods.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kyrgyzstan"
       },
       "tradeRoutes": {
-        "value": "Trade with China.",
+        "value": "Mountain passes to China such as Torugart and Irkeshtam; Bishkek’s Dordoi bazaar re-sells Chinese goods across the region.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kyrgyzstan"
       },
       "wealth": {
-        "value": "A lower-middle-income country.",
+        "value": "A lower-middle-income country and one of the poorer former Soviet republics, heavily dependent on remittances.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kyrgyzstan"
       },
       "moneyAndTax": {
-        "value": "The som.",
-        "year": null,
+        "value": "The som, introduced in 1993, when Kyrgyzstan was the first Central Asian state to leave the Russian rouble zone.",
+        "year": 1993,
         "certainty": "confirmed",
         "source": "Wikipedia: Kyrgyzstan"
       },
@@ -130,25 +130,25 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A presidential republic.",
+        "value": "A presidential republic; the president’s powers were cut in 2010 and strengthened again by the 2021 constitution.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kyrgyzstan"
       },
       "keyRulers": {
-        "value": "Askar Akayev. Sadyr Japarov.",
+        "value": "The first president ruled from 1991 until the 2005 uprising; later presidents came to power through elections and the 2010 and 2020 upheavals.",
         "year": 1991,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Kyrgyzstan"
       },
       "succession": {
-        "value": "Elections and revolutions.",
+        "value": "Presidents are elected, but popular uprisings forced presidents from power in 2005, 2010 and 2020.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kyrgyzstan"
       },
       "institutions": {
-        "value": "Parliament.",
+        "value": "The Jogorku Kenesh (parliament), the presidency and courts, under constitutions changed in 2010 and 2021.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kyrgyzstan"
@@ -168,25 +168,25 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Russian base.",
+        "value": "Small armed forces; Russia has kept an air base at Kant since 2003, and the US used Manas airbase from 2001 to 2014.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kyrgyzstan"
       },
       "majorWars": {
-        "value": "Border clashes with Tajikistan.",
+        "value": "No major wars, but deadly border clashes with Tajikistan in 2021 and 2022, and ethnic violence in Osh in 2010.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kyrgyzstan"
       },
       "territoryChange": {
-        "value": "None.",
+        "value": "Borders inherited from the Soviet Union; long-disputed lines were settled by treaties with Uzbekistan (2023) and Tajikistan (2025).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kyrgyzstan"
       },
       "alliancesRivals": {
-        "value": "Close to Russia.",
+        "value": "A member of the Russian-led CSTO and Eurasian Economic Union (2015) and the Shanghai Cooperation Organisation.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kyrgyzstan"
@@ -200,7 +200,7 @@
         "source": "Wikipedia: Kyrgyzstan"
       },
       "scienceEducation": {
-        "value": "Universities.",
+        "value": "Near-universal literacy from Soviet schooling; universities include Kyrgyz National University and the American University of Central Asia.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kyrgyzstan"
@@ -212,7 +212,7 @@
         "source": "Wikipedia: Kyrgyzstan"
       },
       "communicationTransport": {
-        "value": "Mountain roads.",
+        "value": "Mountain highways such as the Bishkek–Osh road, few railways, and international airports at Bishkek and Osh.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kyrgyzstan"
@@ -220,39 +220,39 @@
     },
     "culture": {
       "religion": {
-        "value": "Mostly Sunni Muslim.",
+        "value": "Mostly Sunni Muslim (about 90%), with a Russian Orthodox minority; religious practice grew after 1991.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kyrgyzstan"
       },
       "languageWriting": {
-        "value": "Kyrgyz and Russian.",
+        "value": "Kyrgyz is the state language and Russian is official; both are written in the Cyrillic alphabet.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kyrgyzstan"
       },
       "artsArchitecture": {
-        "value": "Felt carpets.",
+        "value": "Shyrdak felt carpets, decorated yurts, the long oral Manas epic and music on the three-stringed komuz.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kyrgyzstan"
       },
       "socialStructure": {
-        "value": "Kyrgyz majority; Uzbek minority.",
+        "value": "Kyrgyz about three-quarters of the population, Uzbeks about one-seventh mainly in the south, plus Russians and others.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kyrgyzstan"
       },
       "sharedIdentity": {
-        "value": "Nomadic heritage.",
+        "value": "Pride in nomadic heritage, the Manas epic and the yurt; the yurt’s roof ring (tunduk) is on the national flag.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Kyrgyzstan"
       },
       "dailyLife": {
-        "value": "Houses and yurts; beshbarmak.",
+        "value": "Many families raise sheep and horses and take herds to summer pastures; beshbarmak and kymyz (mare’s milk) are traditional.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Kyrgyzstan"
       }
     },
@@ -264,7 +264,7 @@
         "source": "Wikipedia: Kyrgyzstan"
       },
       "ideasReligions": {
-        "value": "Islam and Tengrism.",
+        "value": "A revival of Islam since 1991, alongside interest in Tengrism, the old Turkic sky religion, and Soviet secular habits.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kyrgyzstan"
@@ -278,13 +278,13 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Independence (1991).",
+        "value": "Declared independence from the Soviet Union on 31 August 1991.",
         "year": 1991,
         "certainty": "confirmed",
         "source": "Wikipedia: Kyrgyzstan"
       },
       "peakPeriod": {
-        "value": "Too recent to judge.",
+        "value": "Too recent to judge; it has been one of the more open political systems in Central Asia, though also unstable.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Kyrgyzstan"
@@ -296,7 +296,7 @@
         "source": "Wikipedia: Kyrgyzstan"
       },
       "outcome": {
-        "value": "Still in existence.",
+        "value": "Still in existence as the Kyrgyz Republic, an independent member of the United Nations since 1992.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kyrgyzstan"

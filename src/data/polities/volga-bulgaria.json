@@ -43,31 +43,31 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "The middle Volga and Kama rivers.",
+        "value": "Where the Kama river joins the middle Volga, in today’s Tatarstan and Chuvashia in Russia.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Volga Bulgaria"
       },
       "terrain": {
-        "value": "Forest-steppe and rivers.",
+        "value": "Forest-steppe with rich black soils, broad river valleys and forests to the north.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Volga Bulgaria"
       },
       "climate": {
-        "value": "Cold winters.",
+        "value": "Continental: long, cold winters with frozen rivers, and warm summers good for grain.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Volga Bulgaria"
       },
       "resources": {
-        "value": "Furs, grain, honey.",
+        "value": "Furs from the northern forests, fertile soil for grain, honey and wax, fish, and control of river trade.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Volga Bulgaria"
       },
       "disasters": {
-        "value": "Not recorded in detail.",
+        "value": "Not recorded in detail; poor harvests and famine are mentioned in neighbouring Rus’ chronicles.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Volga Bulgaria"
@@ -81,13 +81,13 @@
         "source": "Wikipedia: Volga Bulgaria"
       },
       "urbanisation": {
-        "value": "Bolghar and Bilär were large towns.",
+        "value": "Bolghar, Bilär and Suvar were large walled towns; Bilär may have been one of the biggest towns in Eastern Europe.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Volga Bulgaria"
       },
       "disease": {
-        "value": "Not recorded in detail.",
+        "value": "Not recorded in detail; epidemics probably spread along the busy river trade routes.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Volga Bulgaria"
@@ -101,7 +101,7 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Trade, farming.",
+        "value": "Trade in furs, slaves and goods between the north, the Rus’ and the Islamic world; grain farming; crafts such as leather and metalwork.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Volga Bulgaria"
@@ -113,13 +113,13 @@
         "source": "Wikipedia: Volga Bulgaria"
       },
       "wealth": {
-        "value": "Rich trading centre.",
+        "value": "A rich trading centre whose merchants handled furs and silver dirhams from Central Asia.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Volga Bulgaria"
       },
       "moneyAndTax": {
-        "value": "Coins from the 10th century.",
+        "value": "Silver coins copying Samanid dirhams from the 900s; rulers taxed traders, often a tenth of their goods.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Volga Bulgaria"
@@ -133,25 +133,25 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Khanate under an emir.",
+        "value": "A monarchy ruled by an emir (earlier a khan), first under Khazar overlordship, then independent.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Volga Bulgaria"
       },
       "keyRulers": {
-        "value": "Almış (converted 922).",
+        "value": "Almış, who received an embassy from the Abbasid caliph and adopted Islam (922).",
         "year": 922,
         "certainty": "confirmed",
         "source": "Wikipedia: Volga Bulgaria"
       },
       "succession": {
-        "value": "Hereditary.",
+        "value": "Hereditary within the ruling family, though records are few.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Volga Bulgaria"
       },
       "institutions": {
-        "value": "Islamic law.",
+        "value": "Islamic law and judges, the emir’s court, and tax collectors at river trading posts.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Volga Bulgaria"
@@ -163,7 +163,7 @@
         "source": "Wikipedia: Volga Bulgaria"
       },
       "eliteConflict": {
-        "value": "Not well recorded.",
+        "value": "Not well recorded; local nobles and towns may have competed for power.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Volga Bulgaria"
@@ -171,25 +171,25 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Cavalry and fortified towns.",
+        "value": "Cavalry, archers and fortified towns with earth ramparts and wooden walls.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Volga Bulgaria"
       },
       "majorWars": {
-        "value": "Wars with Kievan Rus’ and the Mongols.",
+        "value": "Raids and wars with Kievan Rus’ and Vladimir-Suzdal (for example 985 and 1164) and with the Mongols in the 1220s–30s.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Volga Bulgaria"
       },
       "territoryChange": {
-        "value": "Conquered by the Mongols (1236).",
+        "value": "Conquered by the Mongols, who destroyed Bilär in 1236.",
         "year": 1236,
         "certainty": "confirmed",
         "source": "Wikipedia: Volga Bulgaria"
       },
       "alliancesRivals": {
-        "value": "Ties to the Abbasid Caliphate.",
+        "value": "Ties to the Abbasid Caliphate after 922; rivals of the Khazars and Rus’ princes; trading partners of Central Asia.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Volga Bulgaria"
@@ -203,19 +203,19 @@
         "source": "Wikipedia: Volga Bulgaria"
       },
       "scienceEducation": {
-        "value": "Islamic learning.",
+        "value": "Islamic schools and scholars; Ibn Fadlan’s 922 visit describes the court, and some local scholars wrote in Arabic.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Volga Bulgaria"
       },
       "openness": {
-        "value": "Open to trade.",
+        "value": "Open to trade with Rus’, Scandinavians, Central Asians and Baghdad, as described by Ibn Fadlan.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Volga Bulgaria"
       },
       "communicationTransport": {
-        "value": "River boats on the Volga.",
+        "value": "River boats on the Volga and Kama, and overland caravans to Central Asia.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Volga Bulgaria"
@@ -223,19 +223,19 @@
     },
     "culture": {
       "religion": {
-        "value": "Islam from 922.",
+        "value": "Sunni Islam, adopted officially in 922, the first Muslim state this far north.",
         "year": 922,
         "certainty": "confirmed",
         "source": "Wikipedia: Volga Bulgaria"
       },
       "languageWriting": {
-        "value": "Bulgar Turkic; Arabic script.",
+        "value": "Bulgar Turkic, related to modern Chuvash, written in Arabic script; Arabic for religion and learning.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Volga Bulgaria"
       },
       "artsArchitecture": {
-        "value": "Mosques, mausoleums.",
+        "value": "Mosques, bathhouses and mausoleums of brick and stone at Bilär and Bolghar; skilled metal, leather and pottery work.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Volga Bulgaria"
@@ -247,7 +247,7 @@
         "source": "Wikipedia: Volga Bulgaria"
       },
       "sharedIdentity": {
-        "value": "A Muslim Bulgar identity.",
+        "value": "A shared Muslim Bulgar identity among the townspeople, distinct from nearby Rus’ and forest peoples.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Volga Bulgaria"
@@ -261,19 +261,19 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Khazars, Rus’, Mongols.",
+        "value": "The Khazars to the south, the Rus’ to the west, Finno-Ugric forest peoples to the north, and Kipchak nomads; later the Mongols.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Volga Bulgaria"
       },
       "ideasReligions": {
-        "value": "Spread Islam north.",
+        "value": "Spread Islam north into the forest zone; its people later passed Islam to the Volga Tatars.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Volga Bulgaria"
       },
       "colonisation": {
-        "value": "None.",
+        "value": "None; it did not found colonies, though it collected tribute from forest peoples to the north.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Volga Bulgaria"
@@ -281,19 +281,19 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Fur trade.",
+        "value": "Bulgars settled the middle Volga in the 700s and grew rich from the fur trade with the Islamic world.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Volga Bulgaria"
       },
       "peakPeriod": {
-        "value": "10th–12th centuries.",
+        "value": "The 10th–12th centuries, when its towns, trade and coinage flourished.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Volga Bulgaria"
       },
       "declineSignals": {
-        "value": "Mongol invasion.",
+        "value": "The Mongol invasion destroyed its towns (1236), after an earlier Mongol defeat about 1223.",
         "year": 1236,
         "certainty": "confirmed",
         "source": "Wikipedia: Volga Bulgaria"

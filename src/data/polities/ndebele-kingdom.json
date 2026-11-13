@@ -41,39 +41,39 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "South-western Zimbabwe.",
+        "value": "Matabeleland in south-western Zimbabwe, centred on Bulawayo, the capital from 1870.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ndebele Kingdom"
       },
       "terrain": {
-        "value": "Grassland plateau.",
+        "value": "A high grassland plateau with granite hills such as the Matobo Hills, and river valleys.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ndebele Kingdom"
       },
       "climate": {
-        "value": "Dry savanna.",
+        "value": "Dry savanna, with summer rains from about November to March and dry, cool winters.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ndebele Kingdom"
       },
       "resources": {
-        "value": "Cattle, gold reefs.",
+        "value": "Good grazing for cattle, farmland for grain, and old gold workings that drew European prospectors.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ndebele Kingdom"
       },
       "disasters": {
-        "value": "Droughts.",
+        "value": "Droughts and locusts that hurt crops; cattle diseases also caused losses.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Ndebele Kingdom"
       }
     },
     "population": {
       "population": {
-        "value": "About 100,000–200,000.",
+        "value": "Perhaps 100,000–200,000 people, including incorporated subject peoples.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Ndebele Kingdom"
@@ -99,19 +99,19 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Cattle herding and tribute.",
+        "value": "Cattle herding, grain farming, and tribute and cattle taken from neighbouring peoples.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ndebele Kingdom"
       },
       "tradeRoutes": {
-        "value": "Trade with hunters and missionaries.",
+        "value": "Trade with traders and hunters from the south via the “Hunters’ Road”: ivory and cattle for guns, cloth and beads.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ndebele Kingdom"
       },
       "wealth": {
-        "value": "Cattle wealth.",
+        "value": "Wealth measured in cattle, much of it held by the king and given to regiments and chiefs.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ndebele Kingdom"
@@ -131,63 +131,63 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Military monarchy.",
+        "value": "A military monarchy: the king ruled through regiments (amabutho) and their commanders (izinduna).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ndebele Kingdom"
       },
       "keyRulers": {
-        "value": "Mzilikazi. Lobengula.",
+        "value": "Mzilikazi (ruled about 1823–68), the founder, and his son Lobengula (ruled 1870–94), the last king.",
         "year": 1838,
         "certainty": "confirmed",
         "source": "Wikipedia: Ndebele Kingdom"
       },
       "succession": {
-        "value": "Royal sons.",
+        "value": "A son of the king succeeded; after Mzilikazi died in 1868, Lobengula was installed in 1870 after a dispute.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ndebele Kingdom"
       },
       "institutions": {
-        "value": "Regimental towns.",
+        "value": "Regimental towns, izinduna chiefs, and the inxwala first-fruits ceremony that renewed the king’s power each year.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ndebele Kingdom"
       },
       "stability": {
-        "value": "Strong until 1893.",
+        "value": "Strong under Mzilikazi and Lobengula until the British South Africa Company invaded in 1893.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ndebele Kingdom"
       },
       "eliteConflict": {
-        "value": "Succession dispute (1868).",
-        "year": null,
+        "value": "A succession dispute after Mzilikazi died in 1868; regiments opposing Lobengula were defeated by 1872.",
+        "year": 1868,
         "certainty": "confirmed",
         "source": "Wikipedia: Ndebele Kingdom"
       }
     },
     "military": {
       "armyAndTech": {
-        "value": "Spear regiments; later some guns.",
+        "value": "Regiments with short stabbing spears and cowhide shields; rifles came later, including through the Rudd Concession.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ndebele Kingdom"
       },
       "majorWars": {
-        "value": "First Matabele War (1893).",
+        "value": "The First Matabele War (1893), lost to British South Africa Company forces with Maxim machine guns.",
         "year": 1893,
         "certainty": "confirmed",
         "source": "Wikipedia: Ndebele Kingdom"
       },
       "territoryChange": {
-        "value": "Moved north of the Limpopo (1838).",
+        "value": "Moved north of the Limpopo in 1838 after defeat by Boers in the Transvaal in 1837.",
         "year": 1838,
         "certainty": "confirmed",
         "source": "Wikipedia: Ndebele Kingdom"
       },
       "alliancesRivals": {
-        "value": "Raided Shona communities.",
+        "value": "Raided Shona communities for cattle and tribute, and clashed with the Ngwato (Tswana) to the south-west.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ndebele Kingdom"
@@ -195,7 +195,7 @@
     },
     "technology": {
       "inventions": {
-        "value": "No major inventions are recorded.",
+        "value": "No major inventions are recorded; its regimental system was its best-known innovation.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Ndebele Kingdom"
@@ -207,13 +207,13 @@
         "source": "Wikipedia: Ndebele Kingdom"
       },
       "openness": {
-        "value": "Open to trade, closed to rivals.",
+        "value": "Allowed traders, hunters and missionaries in, such as at Inyati (1859), but guarded its land.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Ndebele Kingdom"
       },
       "communicationTransport": {
-        "value": "Footpaths, rivers and messengers.",
+        "value": "Footpaths, messengers between regimental towns, and ox-wagon tracks from the south.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Ndebele Kingdom"
@@ -221,19 +221,19 @@
     },
     "culture": {
       "religion": {
-        "value": "Traditional religion.",
+        "value": "Belief in a high god and ancestor spirits; the king led key rituals, and the Mwari shrines of the Matobo were consulted.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ndebele Kingdom"
       },
       "languageWriting": {
-        "value": "isiNdebele.",
+        "value": "isiNdebele, a Nguni language close to Zulu; no writing until missionaries began recording it.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ndebele Kingdom"
       },
       "artsArchitecture": {
-        "value": "Beadwork.",
+        "value": "Beadwork, praise poetry (izibongo), dance at the inxwala ceremony, and thatched homesteads with cattle pens.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ndebele Kingdom"
@@ -245,13 +245,13 @@
         "source": "Wikipedia: Ndebele Kingdom"
       },
       "sharedIdentity": {
-        "value": "Loyalty to the ruler and lineage.",
+        "value": "Loyalty to the king and to one’s regiment helped join people of different origins.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Ndebele Kingdom"
       },
       "dailyLife": {
-        "value": "Farming households in villages.",
+        "value": "Homesteads with thatched huts and cattle pens; sorghum and millet porridge, beer and milk.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Ndebele Kingdom"
@@ -259,13 +259,13 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Shona chiefdoms, Boers, Tswana.",
+        "value": "Shona chiefdoms to the east, the Ngwato and other Tswana to the south-west, and the Boer Transvaal to the south.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ndebele Kingdom"
       },
       "ideasReligions": {
-        "value": "Sacred kingship.",
+        "value": "Sacred kingship: the inxwala ceremony each year confirmed the king’s link to ancestors and the land.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ndebele Kingdom"
@@ -279,19 +279,19 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Founded (1838).",
+        "value": "Mzilikazi settled his people north of the Limpopo in 1838.",
         "year": 1838,
         "certainty": "confirmed",
         "source": "Wikipedia: Ndebele Kingdom"
       },
       "peakPeriod": {
-        "value": "Under Lobengula (1870–93).",
+        "value": "Under Lobengula (1870–93), when Bulawayo was the centre of a strong kingdom.",
         "year": 1870,
         "certainty": "confirmed",
         "source": "Wikipedia: Ndebele Kingdom"
       },
       "declineSignals": {
-        "value": "Rudd Concession (1888).",
+        "value": "The Rudd Concession of 1888 gave mineral rights to Cecil Rhodes’s agents, leading to the 1890 Pioneer Column.",
         "year": 1888,
         "certainty": "confirmed",
         "source": "Wikipedia: Ndebele Kingdom"

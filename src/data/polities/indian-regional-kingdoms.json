@@ -45,57 +45,57 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Across the Indian subcontinent.",
+        "value": "Across the Indian subcontinent, from Rajasthan and central India to the Deccan and the far south.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
       },
       "terrain": {
-        "value": "Plains, deserts, plateaus.",
+        "value": "The Ganges plains, the Thar Desert of Rajasthan, the Aravalli hills, the Deccan plateau and the coastal plains.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
       },
       "climate": {
-        "value": "Monsoon.",
+        "value": "Monsoon climate: a hot dry season, heavy summer rains and a cooler winter; desert in the north-west.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
       },
       "resources": {
-        "value": "Farmland, gems.",
+        "value": "Fertile farmland, cotton, spices, timber, salt, iron, and gems such as diamonds from the Deccan.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
       },
       "disasters": {
-        "value": "Famines.",
+        "value": "Famines when the monsoon failed, floods along the great rivers, and epidemics in war and drought years.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
       }
     },
     "population": {
       "population": {
-        "value": "Unknown; varies by kingdom.",
+        "value": "Not known for most kingdoms; individual states ranged from small chiefdoms to kingdoms of several million people.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
       },
       "urbanisation": {
-        "value": "Many cities.",
+        "value": "Capitals and fort cities such as Chittorgarh, Ajmer, Jodhpur, Amber and Udaipur, plus temple and trading towns.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
       },
       "disease": {
-        "value": "Not recorded in detail.",
+        "value": "Malaria, cholera and smallpox were common, with epidemics after famines and during wars.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
       },
       "migration": {
-        "value": "Not recorded in detail.",
+        "value": "Clans, traders and pilgrims moved widely; Rajput clans settled in Rajasthan and central India in the early medieval period.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
@@ -103,39 +103,39 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming and trade.",
+        "value": "Farming of wheat, rice, millet and cotton, taxed by kings, along with crafts and trade in cloth and spices.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
       },
       "tradeRoutes": {
-        "value": "Land and sea trade.",
+        "value": "Overland routes across north India and the Deccan, and sea trade from western and eastern ports to Arabia and South-East Asia.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
       },
       "wealth": {
-        "value": "No estimate.",
+        "value": "No estimate; wealth came from land revenue, trade tolls and temple endowments, and varied greatly between kingdoms.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
       },
       "moneyAndTax": {
-        "value": "Coins.",
+        "value": "Kings minted gold, silver and copper coins and took a share of the harvest as land revenue, plus trade tolls.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
       },
       "inequality": {
-        "value": "Caste hierarchy.",
+        "value": "A hierarchy of castes, with kings, warrior clans and priests at the top and landless labourers at the bottom.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
       }
     },
     "politics": {
       "governmentType": {
-        "value": "Monarchies.",
+        "value": "Hereditary monarchies ruled by rajas or ranas, often supported by clan lords who held land in return for service.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
@@ -147,25 +147,25 @@
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
       },
       "succession": {
-        "value": "Hereditary.",
+        "value": "Usually hereditary, often to the eldest son, but disputed successions between brothers and clans were common.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
       },
       "institutions": {
-        "value": "Royal courts, temples and land grants.",
+        "value": "Royal courts with ministers, land grants to temples and Brahmins, and clan lords who served the king in war.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
       },
       "stability": {
-        "value": "Frequent wars.",
+        "value": "Uneven: wars between neighbouring kingdoms were frequent, and many states were short-lived.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
       },
       "eliteConflict": {
-        "value": "Rivalries between Rajput clans.",
+        "value": "Rivalries between Rajput clans and between royal brothers often weakened kingdoms against outside rivals.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
@@ -173,7 +173,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Cavalry and elephants.",
+        "value": "Armies of horsemen, war elephants and foot soldiers, defended by hill forts such as Chittorgarh and Kumbhalgarh.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
@@ -191,7 +191,7 @@
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
       },
       "alliancesRivals": {
-        "value": "Shifting alliances.",
+        "value": "Shifting alliances between kingdoms and with the Delhi Sultanate, the Mughals, the Marathas and later the British.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
@@ -199,25 +199,25 @@
     },
     "technology": {
       "inventions": {
-        "value": "Not specific to these kingdoms.",
+        "value": "Not specific to these kingdoms, which shared wider Indian advances in mathematics, metalwork and textiles.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
       },
       "scienceEducation": {
-        "value": "Sanskrit learning.",
+        "value": "Sanskrit learning in temples and courts, including astronomy, grammar and medicine; Jain and Buddhist scholars too.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
       },
       "openness": {
-        "value": "Varied by kingdom.",
+        "value": "Varied by kingdom; many welcomed traders and religious teachers, and some made alliances with outside powers.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
       },
       "communicationTransport": {
-        "value": "Roads and rivers.",
+        "value": "Roads for ox carts and caravans, river boats, and messengers on horseback between courts and forts.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
@@ -225,25 +225,25 @@
     },
     "culture": {
       "religion": {
-        "value": "Hinduism, Jainism, Buddhism.",
+        "value": "Mostly Hinduism, with Jainism (strong among merchants in Rajasthan and Gujarat) and Buddhism in earlier centuries.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
       },
       "languageWriting": {
-        "value": "Sanskrit and regional languages.",
+        "value": "Sanskrit for religion and courts, and regional languages such as Rajasthani, Hindi, Marathi, Telugu and Tamil.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
       },
       "artsArchitecture": {
-        "value": "Temples and forts.",
+        "value": "Hindu and Jain temples such as the Dilwara temples at Mount Abu, hill forts, palaces, and Rajput miniature painting.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
       },
       "socialStructure": {
-        "value": "Caste system.",
+        "value": "A caste society: kings and warrior clans, Brahmin priests, merchants, farmers and artisans, with outcaste groups at the bottom.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
@@ -263,19 +263,19 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Each other and outside powers.",
+        "value": "Each other, the Delhi Sultanate, the Mughal Empire, the Marathas and finally the British East India Company.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
       },
       "ideasReligions": {
-        "value": "Hindu traditions.",
+        "value": "Hindu traditions, including devotional (bhakti) movements, and Jain teachings that shaped trade and temple building.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
       },
       "colonisation": {
-        "value": "Became British princely states.",
+        "value": "By 1818 most surviving kingdoms, including the Rajput states, had signed treaties making them British princely states.",
         "year": 1818,
         "certainty": "confirmed",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
@@ -283,13 +283,13 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Varied by kingdom.",
+        "value": "Varied: new kingdoms often rose when larger empires weakened, as Rajput states did after the decline of the Gurjara-Pratiharas.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
       },
       "peakPeriod": {
-        "value": "Varied by kingdom.",
+        "value": "Varied by kingdom; for example, Mewar was strong under Rana Kumbha and Rana Sanga in the 1400s and early 1500s.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Middle kingdoms of India; Wikipedia: Rajputs"
