@@ -1,3 +1,4 @@
+import { reportUrl } from './lib/report';
 import { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react';
 import MapView, { type CameraRequest, type VisibleEvent } from './components/MapView';
 import TimelineSlider from './components/TimelineSlider';
@@ -485,7 +486,7 @@ export default function App() {
       />
 
       {/* ── Top bar ── */}
-      <div className="pointer-events-none absolute inset-x-0 top-0 z-10 flex items-start gap-2 p-3">
+      <div className="pointer-events-none absolute inset-x-0 top-[var(--banner-h,0px)] z-10 flex items-start gap-2 p-3">
         <div className="pointer-events-auto flex items-center gap-2 rounded-2xl bg-ink-900/85 py-1.5 pr-1.5 pl-3 shadow-xl ring-1 ring-white/10 backdrop-blur-md">
           <span className="text-xl" aria-hidden="true">🌍</span>
           <h1 className="font-display hidden text-base font-bold tracking-tight whitespace-nowrap text-parchment-50 min-[400px]:block sm:text-lg">History Globe</h1>
@@ -552,7 +553,7 @@ export default function App() {
       />
 
       {loadError && (
-        <div role="alert" className="absolute top-20 left-1/2 z-40 max-w-md -translate-x-1/2 rounded-xl bg-dispute/90 px-4 py-3 text-sm text-white shadow-xl">
+        <div role="alert" className="absolute top-[calc(5rem+var(--banner-h,0px))] left-1/2 z-40 max-w-md -translate-x-1/2 rounded-xl bg-dispute/90 px-4 py-3 text-sm text-white shadow-xl">
           {loadError} Check your connection and{' '}
           <button type="button" onClick={() => { setLoadError(null); setLoading(true); setRetryKey((k) => k + 1); }} className="font-semibold underline">
             try again
@@ -563,7 +564,16 @@ export default function App() {
 
       <Panel open={view.kind !== 'none' && panelBody !== null} onClose={closePanel} contentKey={panelKey} title={panelTitle} wide={view.kind === 'compare'} snapOnOpen={view.kind === 'story' ? 'half' : 'peek'}>
         {panelBody}
+        {panelBody && view.kind !== 'about' && panelTitle && (
+          <p className="px-5 pb-8 text-[12px] text-parchment-300">
+            Found a mistake?{' '}
+            <a className="text-gold-300 underline" href={reportUrl(panelTitle)} target="_blank" rel="noopener noreferrer">
+              Report it
+            </a>
+          </p>
+        )}
       </Panel>
+      <BetaBanner />
 
       {/* ── Timeline ── */}
       <div ref={timelineRef} className="pointer-events-none absolute inset-x-0 bottom-0 z-20 px-2 pb-[max(0.5rem,env(safe-area-inset-bottom))] sm:px-4 sm:pb-4">
@@ -607,7 +617,7 @@ function EventLegend({
 }) {
   const [open, setOpen] = useState(false);
   return (
-    <div className="pointer-events-none absolute top-[64px] left-3 z-10 md:top-[68px]">
+    <div className="pointer-events-none absolute top-[calc(64px+var(--banner-h,0px))] left-3 z-10 md:top-[calc(68px+var(--banner-h,0px))]">
       <div className="pointer-events-auto w-max rounded-2xl bg-ink-900/85 text-xs shadow-xl ring-1 ring-white/10 backdrop-blur-md">
         <button
           type="button"
@@ -690,6 +700,33 @@ function EventLegend({
   );
 }
 
+/** Always-visible beta notice (not dismissible, so everyone knows this is an early version). */
+function BetaBanner() {
+  const ref = useRef<HTMLDivElement>(null);
+  // Tell the layout how tall the banner is, so the top bar, legend, zoom buttons and panel sit below it.
+  useLayoutEffect(() => {
+    const root = document.documentElement;
+    const el = ref.current;
+    if (!el) return;
+    const ro = new ResizeObserver(() => root.style.setProperty('--banner-h', `${el.offsetHeight}px`));
+    ro.observe(el);
+    return () => {
+      ro.disconnect();
+      root.style.setProperty('--banner-h', '0px');
+    };
+  }, []);
+  return (
+    <div ref={ref} role="note" className="absolute inset-x-0 top-0 z-30 flex items-center justify-center bg-gold-400 px-3 py-1.5 text-center text-[12px] leading-snug text-ink-900 shadow-md">
+      <span>
+        <strong>Beta:</strong> an early version, and some facts are still being checked.{' '}
+        <a className="font-semibold underline" href={reportUrl()} target="_blank" rel="noopener noreferrer">
+          Report a mistake
+        </a>
+      </span>
+    </div>
+  );
+}
+
 function About() {
   return (
     <div className="space-y-4 px-5 pt-4 pb-8 text-[13px] leading-relaxed text-parchment-200 md:pt-5">
@@ -713,6 +750,28 @@ function About() {
       </p>
       <p>Land outlines: <a className="text-gold-300 underline" href="https://www.naturalearthdata.com/" target="_blank" rel="noopener">Natural Earth</a> (public domain). Map engine: MapLibre GL JS.</p>
       <p>Figures such as populations and GDP are scholarly estimates and are labelled with their certainty and source.</p>
+      <h3 className="pt-2 text-[11px] font-semibold tracking-wider text-parchment-300 uppercase">Made by</h3>
+      {/* TODO: replace the placeholders with the creators' real names, roles and links. */}
+      <ul className="space-y-2">
+        <li className="rounded-xl bg-ink-800/60 px-3 py-2 ring-1 ring-white/10">
+          <div className="font-semibold text-parchment-50">[Name]</div>
+          <div className="text-parchment-300">[Role, e.g. creator and project owner]</div>
+          <div className="text-parchment-300">[Links]</div>
+        </li>
+        <li className="rounded-xl bg-ink-800/60 px-3 py-2 ring-1 ring-white/10">
+          <div className="font-semibold text-parchment-50">[Name]</div>
+          <div className="text-parchment-300">[Role, e.g. fact-checking and data]</div>
+          <div className="text-parchment-300">[Links]</div>
+        </li>
+      </ul>
+      <h3 className="pt-2 text-[11px] font-semibold tracking-wider text-parchment-300 uppercase">Beta, mistakes and licence</h3>
+      <p>
+        This is an early version and some facts are still being checked. Spotted something wrong?{' '}
+        <a className="text-gold-300 underline" href={reportUrl()} target="_blank" rel="noopener noreferrer">Report a mistake</a>.
+      </p>
+      <p>
+        The code is open source under the GPL-3.0 licence. Written content and pictures stay under the licences of their sources, shown beside each item and picture.
+      </p>
     </div>
   );
 }

@@ -108,8 +108,9 @@ body,
 /* Markers on the far side of the globe are hidden by MapLibre (opacityWhenCovered: 0) but would still
    catch clicks and hovers through the sphere; make them non-interactive too. */
 .maplibregl-marker-covered { pointer-events: none !important; visibility: hidden; }
+.maplibregl-ctrl-top-right { top: var(--banner-h, 0px); }
 @media (max-width: 767px) {
-  .maplibregl-ctrl-top-right { top: 64px; }
+  .maplibregl-ctrl-top-right { top: calc(64px + var(--banner-h, 0px)); }
 }
 
 /* ── Timeline range input ─────────────────────────────────── */
