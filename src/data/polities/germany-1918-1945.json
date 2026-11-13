@@ -67,13 +67,13 @@
         "source": "Wikipedia: Weimar Republic"
       },
       "climate": {
-        "value": "Temperate.",
+        "value": "Temperate, with cold winters and mild summers.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Weimar Republic"
       },
       "resources": {
-        "value": "Coal (Ruhr), iron, farmland.",
+        "value": "Coal in the Ruhr, iron, potash and farmland.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Weimar Republic"
@@ -87,19 +87,19 @@
     },
     "population": {
       "population": {
-        "value": "About 65–70 million.",
+        "value": "About 65–70 million people.",
         "year": 1933,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Weimar Republic"
       },
       "urbanisation": {
-        "value": "Berlin, Hamburg, Ruhr cities.",
+        "value": "Berlin, Hamburg, Munich and the Ruhr cities were the largest.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Weimar Republic"
       },
       "disease": {
-        "value": "1918 flu pandemic.",
+        "value": "The 1918 influenza pandemic killed many, and food shortages after the First World War also harmed health.",
         "year": 1918,
         "certainty": "confirmed",
         "source": "Wikipedia: Weimar Republic"
@@ -113,13 +113,13 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Heavy industry, chemicals, engineering.",
+        "value": "Heavy industry, chemicals, engineering and a large armaments sector under the Nazis.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Weimar Republic"
       },
       "tradeRoutes": {
-        "value": "Rail, Rhine, Hamburg port.",
+        "value": "Railways, the Rhine and the port of Hamburg carried goods.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Weimar Republic"
@@ -189,7 +189,7 @@
         "source": "Wikipedia: Weimar Republic (checked 8 Nov 2026)"
       },
       "majorWars": {
-        "value": "Second World War (1939–45).",
+        "value": "The Second World War (1939–45), which Germany started by invading Poland.",
         "year": 1939,
         "certainty": "confirmed",
         "source": "Wikipedia: Weimar Republic"
@@ -201,7 +201,7 @@
         "source": "Wikipedia: Weimar Republic (checked 8 Nov 2026)"
       },
       "alliancesRivals": {
-        "value": "Axis with Italy and Japan.",
+        "value": "The Axis alliance with Italy and Japan, and war against Britain, France, the Soviet Union and the United States.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Weimar Republic"
@@ -209,9 +209,9 @@
     },
     "technology": {
       "inventions": {
-        "value": "Jet aircraft, V-2 rocket.",
+        "value": "Jet aircraft (the Me 262) and the V-2 rocket were developed, and the Autobahn network was expanded.",
         "year": 1944,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Weimar Republic"
       },
       "scienceEducation": {
@@ -227,7 +227,7 @@
         "source": "Wikipedia: Weimar Republic"
       },
       "communicationTransport": {
-        "value": "Radio propaganda; railways; Autobahn.",
+        "value": "Radio was used for propaganda; railways carried both goods and deported people, and the Autobahn was built.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Weimar Republic"
@@ -265,9 +265,9 @@
         "source": "Wikipedia: Weimar Republic (checked 8 Nov 2026)"
       },
       "dailyLife": {
-        "value": "Apartments; rationing in the war.",
+        "value": "Apartments in cities, with rationing and bombing during the war.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Weimar Republic"
       }
     },

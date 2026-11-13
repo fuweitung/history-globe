@@ -148,13 +148,13 @@
         "source": "Wikipedia: German Confederation (checked 12 Nov 2026)"
       },
       "terrain": {
-        "value": "Plains, uplands, Alps.",
+        "value": "Plains in the north, uplands in the middle, and the Alps in the south.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: German Confederation"
       },
       "climate": {
-        "value": "Temperate.",
+        "value": "Temperate, with cold winters and mild summers.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: German Confederation"
@@ -166,7 +166,7 @@
         "source": "Wikipedia: German Confederation"
       },
       "disasters": {
-        "value": "Hunger years (1816–17, 1846–47).",
+        "value": "Hunger years after the 1815 volcanic eruption (1816–17) and potato blight (1846–47).",
         "year": 1816,
         "certainty": "confirmed",
         "source": "Wikipedia: German Confederation"
@@ -180,13 +180,13 @@
         "source": "Wikipedia: German Confederation (checked 12 Nov 2026)"
       },
       "urbanisation": {
-        "value": "Munich, Dresden, Hamburg, Frankfurt.",
+        "value": "Munich, Dresden, Hamburg, Frankfurt and Cologne were the main cities.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: German Confederation"
       },
       "disease": {
-        "value": "Cholera (1831).",
+        "value": "Cholera struck in 1831–32 and again in later epidemics.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: German Confederation"
@@ -206,25 +206,25 @@
         "source": "Wikipedia: German Confederation (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "Rhine, Elbe; Hanseatic cities.",
+        "value": "The Rhine and Elbe rivers and the Hanseatic cities such as Hamburg and Bremen carried goods.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: German Confederation"
       },
       "wealth": {
-        "value": "Varied by state.",
+        "value": "Wealth varied by state, with industrial Saxony and the Rhineland richer than the rural east.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: German Confederation"
       },
       "moneyAndTax": {
-        "value": "Many currencies (gulden, thaler).",
+        "value": "Many currencies circulated, including the gulden and thaler.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: German Confederation"
       },
       "inequality": {
-        "value": "Nobles and peasants.",
+        "value": "A wide gap between nobles and peasants, easing after the reforms of the early 1800s.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: German Confederation"
@@ -244,19 +244,19 @@
         "source": "Wikipedia: German Confederation (checked 13 Nov 2026)"
       },
       "succession": {
-        "value": "Dynasties.",
+        "value": "Most states were ruled by hereditary dynasties.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: German Confederation"
       },
       "institutions": {
-        "value": "Federal Diet in Frankfurt (1815–66).",
-        "year": null,
+        "value": "The Federal Diet in Frankfurt (1815–66) united the states loosely.",
+        "year": 1815,
         "certainty": "confirmed",
         "source": "Wikipedia: German Confederation"
       },
       "stability": {
-        "value": "Revolutions of 1848.",
+        "value": "The Revolutions of 1848 challenged the princes and called for a united Germany.",
         "year": 1848,
         "certainty": "confirmed",
         "source": "Wikipedia: German Confederation"
@@ -270,7 +270,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Small state armies.",
+        "value": "Small state armies, with Prussia and Austria the main military powers.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: German Confederation"
@@ -288,7 +288,7 @@
         "source": "Wikipedia: German Confederation"
       },
       "alliancesRivals": {
-        "value": "Between Austria and Prussia.",
+        "value": "Caught between Austria and Prussia, which competed for leadership.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: German Confederation"
@@ -308,14 +308,14 @@
         "source": "Wikipedia: German Confederation"
       },
       "openness": {
-        "value": "Open trade after 1834.",
-        "year": null,
+        "value": "Trade opened up across the states after the Zollverein customs union (1834).",
+        "year": 1834,
         "certainty": "confirmed",
         "source": "Wikipedia: German Confederation"
       },
       "communicationTransport": {
-        "value": "Railways from 1835.",
-        "year": null,
+        "value": "Railways began in 1835 and spread quickly after 1840.",
+        "year": 1835,
         "certainty": "confirmed",
         "source": "Wikipedia: German Confederation"
       }
@@ -328,19 +328,19 @@
         "source": "Wikipedia: German Confederation (checked 13 Nov 2026)"
       },
       "languageWriting": {
-        "value": "German.",
+        "value": "German, with regional dialects.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: German Confederation"
       },
       "artsArchitecture": {
-        "value": "Music (Bach, Beethoven); Romanticism.",
+        "value": "Music by Bach, Beethoven and others, Romantic poetry and painting, and many Baroque palaces.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: German Confederation"
       },
       "socialStructure": {
-        "value": "Princes, nobles, burghers, peasants.",
+        "value": "Princes, nobles, townspeople (burghers) and peasants.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: German Confederation"
@@ -352,9 +352,9 @@
         "source": "Wikipedia: German Confederation"
       },
       "dailyLife": {
-        "value": "Villages and small capitals.",
+        "value": "Most people lived in villages or small capital towns, eating bread, potatoes and sausage.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: German Confederation"
       }
     },
@@ -372,7 +372,7 @@
         "source": "Wikipedia: German Confederation"
       },
       "colonisation": {
-        "value": "None.",
+        "value": "None; the German states had no overseas colonies before 1871.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: German Confederation"
@@ -392,7 +392,7 @@
         "source": "Wikipedia: German Confederation (checked 13 Nov 2026)"
       },
       "declineSignals": {
-        "value": "Prussia won the war of 1866.",
+        "value": "Prussia won the Austro-Prussian War of 1866 and went on to unify Germany in 1871.",
         "year": 1866,
         "certainty": "confirmed",
         "source": "Wikipedia: German Confederation"
