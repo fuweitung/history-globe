@@ -76,10 +76,10 @@
     },
     "population": {
       "population": {
-        "value": "Perhaps about 300,000–500,000 people before the Black Death, falling sharply after 1349.",
-        "year": null,
+        "value": "The Black Death cut the population by 65%, from roughly 350,000 to 125,000.",
+        "year": 1349,
         "certainty": "estimated",
-        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+        "source": "Wikipedia: Kingdom of Norway (872–1397) (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Mostly rural; a few walled towns and a royal or ducal capital.",
@@ -134,16 +134,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A Christian monarchy, with power shared with nobles and the church and limited by regional assemblies.",
-        "year": null,
+        "value": "A decentralised thing system alongside a non-feudal monarchy; after the male Fairhair line ended in 1319 the throne passed through the female line, and Norway became an elective kingdom in 1450.",
+        "year": 1319,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+        "source": "Wikipedia: Kingdom of Norway (872–1397) (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Harald Fairhair. Olaf II (St Olaf). Haakon IV.",
+        "value": "Harald I (872–932) is the first ruler; unification was completed under Saint Olav in the 1020s; royal power was strongest at the end of Haakon Haakonsson’s reign in 1263.",
         "year": 872,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+        "source": "Wikipedia: Kingdom of Norway (872–1397) (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Disputed among royal sons until laws of the 1160s and 1260s fixed the crown to one legitimate heir.",
@@ -178,10 +178,10 @@
         "source": "Wikipedia: Kingdom of Norway (872–1397)"
       },
       "majorWars": {
-        "value": "Battle of Stiklestad (1030); Battle of Largs (1263).",
-        "year": 1030,
+        "value": "The civil war era ran from 1130 to 1240; the page does not mention Stiklestad or Largs.",
+        "year": 1130,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+        "source": "Wikipedia: Kingdom of Norway (872–1397) (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Iceland and Greenland accepted Norwegian rule (1261–64); the Hebrides and Man were lost to Scotland in 1266.",
@@ -224,10 +224,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Christianity, accepted from about 1030; the archdiocese of Nidaros (Trondheim) was founded in 1152–53.",
-        "year": null,
+        "value": "Roman Catholicism was the state religion 1015–1397 (infobox), and the archdiocese of Nidaros held supremacy from 1152.",
+        "year": 1152,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+        "source": "Wikipedia: Kingdom of Norway (872–1397) (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Old Norse, written in runes and then the Latin alphabet; laws and sagas were written down.",
@@ -288,10 +288,10 @@
         "source": "Wikipedia: Kingdom of Norway (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Under Haakon IV (1217–63) Norway reached its greatest extent and cultural flowering.",
-        "year": 1240,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Norway (872–1397)"
+        "value": "The page places Norway’s peak of power in 1240–1319, not within Haakon IV’s reign (1217–1263) as in the entry.",
+        "year": 1263,
+        "certainty": "disputed",
+        "source": "Wikipedia: Kingdom of Norway (872–1397) (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "The Black Death in 1349 killed many people, and royal unions with Sweden and Denmark followed.",

@@ -46,10 +46,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Central Asia (Kyrgyzstan, Xinjiang, Uzbekistan).",
+        "value": "Central Asia; the capitals included Kashgar, Balasagun, Uzgen and Samarkand, and Transoxiana was independent from 999 to 1089.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kara-Khanid Khanate"
+        "source": "Wikipedia: Kara-Khanid Khanate (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "High mountains (Tian Shan and Pamirs) with fertile valleys such as the Chu and Fergana, and the oases of Transoxiana and Kashgar.",
@@ -136,16 +136,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A Turkic dynasty that split into an eastern and a western khanate, each with a senior and junior khan.",
-        "year": null,
+        "value": "A state organised in appanages with four main urban centres; the Eastern khagan held the title Arslan Qara Khaqan and the Western Bughra Qara Khaqan, and the khanate split into Eastern and Western Khanates in the 1040s.",
+        "year": 1040,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kara-Khanid Khanate"
+        "source": "Wikipedia: Kara-Khanid Khanate (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Satuq Bughra Khan (died 955), first Muslim khan; Nasr ibn Ali, who took Bukhara (999); Yusuf Qadir Khan, who took Khotan (about 1006).",
+        "value": "Satuq Bughra Khan converted to Islam in 934 (another passage says 932) and captured Kashgar; by 999 Ali’s son Nasr had taken Chach, Samarkand and Bukhara.",
         "year": 999,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Kara-Khanid Khanate"
+        "certainty": "disputed",
+        "source": "Wikipedia: Kara-Khanid Khanate (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Power was shared among branches of the family by seniority, which often led to rivalry.",
@@ -226,10 +226,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Sunni Islam, adopted by the dynasty in the 900s; one of the first Turkic dynasties to convert.",
-        "year": null,
+        "value": "The Kara-Khanids converted to Islam in the mid-10th century; a mass conversion of “200,000 tents of the Turks” in 960 is circumstantially linked to them.",
+        "year": 960,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kara-Khanid Khanate"
+        "source": "Wikipedia: Kara-Khanid Khanate (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Karakhanid Turkic written in Arabic script, alongside Persian and Arabic in the cities.",
