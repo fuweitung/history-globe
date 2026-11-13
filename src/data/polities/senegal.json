@@ -98,10 +98,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Fishing, groundnuts, services, mining.",
+        "value": "Fishing is the main foreign-exchange earner (3.2% of GDP, about 600,000 jobs); groundnuts are a primary crop and phosphates a historic export; oil and gas are now being exploited. The page gives no production figures.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Senegal"
+        "source": "Wikipedia: Senegal (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Port of Dakar.",
@@ -130,10 +130,10 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A presidential republic.",
+        "value": "A unitary semi-presidential republic with a 150-seat National Assembly.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Senegal"
+        "source": "Wikipedia: Senegal (checked 13 Nov 2026)"
       },
       "keyRulers": {
         "value": "Léopold Sédar Senghor (president 1960–80); Abdou Diouf (from 1981); Macky Sall (elected 2012); Bassirou Diomaye Faye (sworn in 2 April 2024).",
@@ -174,10 +174,10 @@
         "source": "Wikipedia: Senegal"
       },
       "majorWars": {
-        "value": "Casamance conflict.",
-        "year": null,
+        "value": "Clashes between government forces and the separatist MFDC in Casamance since 1982; the page says the conflict had not been fully concluded as of 2025.",
+        "year": 1982,
         "certainty": "confirmed",
-        "source": "Wikipedia: Senegal"
+        "source": "Wikipedia: Senegal (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Part of the Mali Federation with French Sudan until 20 August 1960.",
@@ -220,10 +220,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Mostly Muslim, with strong Sufi brotherhoods (Mourides).",
+        "value": "Sources differ: the infobox gives 91% Muslim and 5% Christian, Pew 89.0% Muslim and 10.0% Christian, and the CIA 97.2% Muslim. The Sufi brotherhoods are not covered in the part of the page read.",
         "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Senegal"
+        "certainty": "disputed",
+        "source": "Wikipedia: Senegal (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "French official; Wolof widely spoken.",
