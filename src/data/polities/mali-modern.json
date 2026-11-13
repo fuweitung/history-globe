@@ -52,20 +52,20 @@
         "source": "Wikipedia: Mali"
       },
       "climate": {
-        "value": "Hot and dry.",
+        "value": "Hot and dry, from the Sahara in the north to wetter savanna in the south.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Mali"
       },
       "resources": {
-        "value": "Gold, cotton.",
+        "value": "Gold, cotton, livestock and farmland along the Niger River.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Mali"
       },
       "disasters": {
-        "value": "Droughts (1970s–80s).",
-        "year": null,
+        "value": "The Sahel droughts of the 1970s and 1980s caused famine and loss of livestock.",
+        "year": 1973,
         "certainty": "confirmed",
         "source": "Wikipedia: Mali"
       }
@@ -78,19 +78,19 @@
         "source": "Wikipedia: Mali (checked 13 Nov 2026)"
       },
       "urbanisation": {
-        "value": "Bamako.",
+        "value": "Bamako, on the Niger River, is the capital and largest city; Timbuktu and Gao are historic towns.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Mali"
       },
       "disease": {
-        "value": "Malaria.",
+        "value": "Malaria, malnutrition and measles outbreaks are major problems.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Mali"
       },
       "migration": {
-        "value": "Displacement from conflict.",
+        "value": "Hundreds of thousands have been displaced by conflict in the north and centre since 2012.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Mali"
@@ -104,15 +104,15 @@
         "source": "Wikipedia: Mali (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "Through Senegal and Ivory Coast.",
+        "value": "The country is landlocked, and goods travel by road through Senegal, Ivory Coast and Guinea.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Mali"
       },
       "wealth": {
-        "value": "A low-income country.",
+        "value": "A low-income country, with gold exports but widespread poverty.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Mali"
       },
       "moneyAndTax": {
@@ -148,8 +148,8 @@
         "source": "Wikipedia: Mali"
       },
       "institutions": {
-        "value": "Weakened by conflict.",
-        "year": null,
+        "value": "Weakened by the 2012 rebellion and the military coups of 2012, 2020 and 2021.",
+        "year": 2012,
         "certainty": "confirmed",
         "source": "Wikipedia: Mali"
       },
@@ -168,7 +168,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Armed forces with foreign support.",
+        "value": "An army that took power in 2020–21 and fights jihadist groups, with foreign support that changed after French troops left in 2022.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Mali"
@@ -200,7 +200,7 @@
         "source": "Wikipedia: Mali"
       },
       "scienceEducation": {
-        "value": "Timbuktu’s scholarly tradition.",
+        "value": "Timbuktu’s scholarly tradition and manuscripts date back to the Mali and Songhai empires.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Mali"
@@ -212,7 +212,7 @@
         "source": "Wikipedia: Mali"
       },
       "communicationTransport": {
-        "value": "Niger River boats.",
+        "value": "Niger River boats, roads and a railway to Dakar.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Mali"
@@ -232,27 +232,27 @@
         "source": "Wikipedia: Mali"
       },
       "artsArchitecture": {
-        "value": "Mud-brick mosques, music.",
+        "value": "Mud-brick mosques such as Djenné’s Great Mosque, plus music from the Mande griot tradition.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Mali"
       },
       "socialStructure": {
-        "value": "Bambara, Fula, Tuareg and others.",
+        "value": "Bambara, Fula, Songhai, Tuareg and many other communities.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Mali"
       },
       "sharedIdentity": {
-        "value": "Pride in the Mali Empire.",
+        "value": "Pride in the medieval Mali Empire, from which the country takes its name.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Mali"
       },
       "dailyLife": {
-        "value": "Mud-brick houses; millet, rice.",
+        "value": "Many families live in mud-brick houses and eat millet or rice with sauce.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Mali"
       }
     },
@@ -264,7 +264,7 @@
         "source": "Wikipedia: Mali"
       },
       "ideasReligions": {
-        "value": "Sufi Islam.",
+        "value": "Islam, mostly Sufi and Sunni, with long scholarly traditions.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Mali"
@@ -290,7 +290,7 @@
         "source": "Wikipedia: Mali (checked 13 Nov 2026)"
       },
       "declineSignals": {
-        "value": "Conflict since 2012.",
+        "value": "Conflict since 2012, when Tuareg rebels and Islamist groups took the north.",
         "year": 2012,
         "certainty": "confirmed",
         "source": "Wikipedia: Mali"

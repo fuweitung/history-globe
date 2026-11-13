@@ -47,25 +47,25 @@
         "source": "Wikipedia: Zambia (checked 13 Nov 2026)"
       },
       "terrain": {
-        "value": "Plateau; the Zambezi River.",
+        "value": "A high plateau cut by the Zambezi River, with Victoria Falls on the border with Zimbabwe.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Zambia"
       },
       "climate": {
-        "value": "Tropical, with a dry season.",
+        "value": "Tropical but moderated by altitude, with a rainy season (November–April) and a dry season.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Zambia"
       },
       "resources": {
-        "value": "Copper, cobalt, hydropower.",
+        "value": "Copper and cobalt, emeralds, hydropower from Kariba and Kafue, and farmland.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Zambia"
       },
       "disasters": {
-        "value": "Droughts.",
+        "value": "Droughts and floods; the 2015–16 drought cut hydropower output.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Zambia"
@@ -79,19 +79,19 @@
         "source": "Wikipedia: Zambia (checked 13 Nov 2026)"
       },
       "urbanisation": {
-        "value": "Lusaka and the Copperbelt towns.",
+        "value": "Lusaka is the capital; Kitwe and Ndola in the Copperbelt are major mining towns.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Zambia"
       },
       "disease": {
-        "value": "HIV; malaria.",
+        "value": "HIV and malaria have been major problems, with progress in treatment since the 2000s.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Zambia"
       },
       "migration": {
-        "value": "Rural to urban migration.",
+        "value": "Many people moved to the Copperbelt for mining work, and rural-to-urban migration continues.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Zambia"
@@ -105,19 +105,19 @@
         "source": "Wikipedia: Zambia (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "TAZARA railway to Tanzania (1975).",
+        "value": "The TAZARA railway (1975) links the Copperbelt to the Tanzanian port of Dar es Salaam, avoiding white-ruled Rhodesia.",
         "year": 1975,
         "certainty": "confirmed",
         "source": "Wikipedia: Zambia"
       },
       "wealth": {
-        "value": "A lower-middle-income country.",
+        "value": "A lower-middle-income country, still dependent on copper prices.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Zambia"
       },
       "moneyAndTax": {
-        "value": "The kwacha.",
+        "value": "The kwacha (introduced 1968, replacing the Zambian pound); mining taxes are a big source of income.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Zambia"
@@ -149,7 +149,7 @@
         "source": "Wikipedia: Zambia"
       },
       "institutions": {
-        "value": "National Assembly.",
+        "value": "The National Assembly, an elected president and a court system based on English law.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Zambia"
@@ -169,7 +169,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Armed forces.",
+        "value": "A small army, air force and police, and a record of peaceful transfers of power.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Zambia"
@@ -181,13 +181,13 @@
         "source": "Wikipedia: Zambia (checked 13 Nov 2026)"
       },
       "territoryChange": {
-        "value": "None.",
+        "value": "The borders drawn in the colonial period have remained unchanged.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Zambia"
       },
       "alliancesRivals": {
-        "value": "Front-line state against apartheid.",
+        "value": "A “front-line state” against white-minority rule in Rhodesia, South Africa and Namibia, hosting liberation movements.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Zambia"
@@ -201,8 +201,8 @@
         "source": "Wikipedia: Zambia"
       },
       "scienceEducation": {
-        "value": "University of Zambia.",
-        "year": null,
+        "value": "The University of Zambia opened in 1966, soon after independence.",
+        "year": 1966,
         "certainty": "confirmed",
         "source": "Wikipedia: Zambia"
       },
@@ -213,7 +213,7 @@
         "source": "Wikipedia: Zambia"
       },
       "communicationTransport": {
-        "value": "Railways to the coast.",
+        "value": "Railways run south to Zimbabwe and east to Tanzania; many roads connect the main towns.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Zambia"
@@ -227,33 +227,33 @@
         "source": "Wikipedia: Zambia (checked 13 Nov 2026)"
       },
       "languageWriting": {
-        "value": "English; Bemba, Nyanja, Tonga.",
+        "value": "English is official; Bemba, Nyanja, Tonga and about 70 other languages are spoken.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Zambia"
       },
       "artsArchitecture": {
-        "value": "Makishi masquerade.",
+        "value": "Makishi masked dancers, Tonga basketry and Lozi royal festivals such as the Kuomboka.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Zambia"
       },
       "socialStructure": {
-        "value": "About 70 ethnic groups.",
+        "value": "About 70 ethnic groups and a growing urban middle class.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Zambia"
       },
       "sharedIdentity": {
-        "value": "“One Zambia, one nation.”",
+        "value": "“One Zambia, one nation” was the national motto, to unite many ethnic groups.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Zambia"
       },
       "dailyLife": {
-        "value": "Houses; nshima (maize porridge).",
+        "value": "Many families eat nshima (maize porridge) with relish and farm small plots or work in towns.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Zambia"
       }
     },
@@ -265,8 +265,8 @@
         "source": "Wikipedia: Zambia"
       },
       "ideasReligions": {
-        "value": "Humanism (Kaunda’s ideology).",
-        "year": null,
+        "value": "Kenneth Kaunda’s Humanism, an African philosophy of socialism and cooperation, was the official ideology after independence.",
+        "year": 1967,
         "certainty": "confirmed",
         "source": "Wikipedia: Zambia"
       },

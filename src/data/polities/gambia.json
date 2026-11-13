@@ -47,25 +47,25 @@
         "source": "Wikipedia: The Gambia (checked 12 Nov 2026)"
       },
       "terrain": {
-        "value": "Flat river valley.",
+        "value": "A narrow, flat strip of land on both sides of the Gambia River, about 400 km long and only 10–50 km wide.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: The Gambia"
       },
       "climate": {
-        "value": "Tropical.",
+        "value": "Tropical, with a hot rainy season (June–October) and a dry, dusty season.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: The Gambia"
       },
       "resources": {
-        "value": "Groundnuts, fish.",
+        "value": "Groundnuts (peanuts), fish, rice and tourism.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: The Gambia"
       },
       "disasters": {
-        "value": "Droughts and floods.",
+        "value": "Droughts and floods; coastal erosion also threatens the Atlantic shore.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: The Gambia"
@@ -79,19 +79,19 @@
         "source": "Wikipedia: The Gambia (checked 12 Nov 2026)"
       },
       "urbanisation": {
-        "value": "Banjul and Serekunda.",
+        "value": "Banjul is the capital; Serekunda is the largest urban area.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: The Gambia"
       },
       "disease": {
-        "value": "Malaria.",
+        "value": "Malaria is the main disease, with cases falling since the 2000s.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: The Gambia"
       },
       "migration": {
-        "value": "Emigration to Europe.",
+        "value": "Many young people migrate to Europe, often by dangerous routes.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: The Gambia"
@@ -105,7 +105,7 @@
         "source": "Wikipedia: The Gambia (checked 12 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "River and port.",
+        "value": "The river and port at Banjul carry groundnuts and imports; many goods move via Senegal.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: The Gambia"
@@ -131,8 +131,8 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A presidential republic.",
-        "year": null,
+        "value": "A presidential republic since 1970, after a referendum ended the British monarchy.",
+        "year": 1970,
         "certainty": "confirmed",
         "source": "Wikipedia: The Gambia"
       },
@@ -149,7 +149,7 @@
         "source": "Wikipedia: The Gambia (checked 12 Nov 2026)"
       },
       "institutions": {
-        "value": "National Assembly.",
+        "value": "A National Assembly and a president; the constitution has been under review since a political change in 2017.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: The Gambia"
@@ -169,13 +169,13 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Small army.",
+        "value": "A small army and police force.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: The Gambia"
       },
       "majorWars": {
-        "value": "None.",
+        "value": "No wars with other states; a coup in 1994 and later political unrest.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: The Gambia"
@@ -187,7 +187,7 @@
         "source": "Wikipedia: The Gambia (checked 12 Nov 2026)"
       },
       "alliancesRivals": {
-        "value": "Close to Senegal.",
+        "value": "Close to Senegal, which surrounds it, and a member of ECOWAS.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: The Gambia"
@@ -213,8 +213,8 @@
         "source": "Wikipedia: The Gambia"
       },
       "communicationTransport": {
-        "value": "River ferries.",
-        "year": null,
+        "value": "The river is a main transport route, and ferries cross at Banjul; a bridge at Farafenni opened in 2019.",
+        "year": 2019,
         "certainty": "confirmed",
         "source": "Wikipedia: The Gambia"
       }
@@ -227,7 +227,7 @@
         "source": "Wikipedia: The Gambia (checked 12 Nov 2026)"
       },
       "languageWriting": {
-        "value": "English; Mandinka, Wolof.",
+        "value": "English is official; Mandinka, Fula, Wolof and others are widely spoken.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: The Gambia"
@@ -245,27 +245,27 @@
         "source": "Wikipedia: The Gambia (checked 12 Nov 2026)"
       },
       "sharedIdentity": {
-        "value": "National identity.",
+        "value": "A shared Gambian identity along the river, with ties to Senegal across many ethnic groups.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: The Gambia"
       },
       "dailyLife": {
-        "value": "Houses; rice, groundnut stew.",
+        "value": "Many families eat rice with fish or groundnut stew and farm small plots along the river.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: The Gambia"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "Senegal.",
+        "value": "Surrounded by Senegal on three sides, with the Atlantic to the west.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: The Gambia"
       },
       "ideasReligions": {
-        "value": "Islam.",
+        "value": "Islam, practised by about 95 percent of Gambians.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: The Gambia"
@@ -297,7 +297,7 @@
         "source": "Wikipedia: The Gambia"
       },
       "outcome": {
-        "value": "Still in existence.",
+        "value": "The Gambia continues as an independent republic.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: The Gambia"

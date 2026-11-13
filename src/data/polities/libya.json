@@ -85,7 +85,7 @@
         "source": "Wikipedia: Libya (checked 8 Nov 2026)"
       },
       "disease": {
-        "value": "Health services damaged by war.",
+        "value": "Hospitals and clinics were damaged by the wars of 2011 and 2014 onward.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Libya"
@@ -99,25 +99,25 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Oil exports (discovered 1959).",
+        "value": "Oil exports, beginning after oil was discovered in 1959, make up most of the state’s income.",
         "year": 1959,
         "certainty": "confirmed",
         "source": "Wikipedia: Libya"
       },
       "tradeRoutes": {
-        "value": "Oil sold to Europe.",
+        "value": "Oil and gas are sent through Mediterranean ports to Europe, and migrants cross the desert and sea.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Libya"
       },
       "wealth": {
-        "value": "Rich from oil, but damaged by conflict.",
+        "value": "Rich in oil, but damaged by conflict and with uneven income.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Libya"
       },
       "moneyAndTax": {
-        "value": "The Libyan dinar.",
+        "value": "The Libyan dinar; the state controls most income through oil revenue.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Libya"
@@ -143,13 +143,13 @@
         "source": "Wikipedia: Libya (checked 8 Nov 2026)"
       },
       "succession": {
-        "value": "Coups and civil war.",
-        "year": null,
+        "value": "King Idris was overthrown by a coup in 1969; Gaddafi ruled until the uprising of 2011, and since then rival governments have competed.",
+        "year": 1969,
         "certainty": "confirmed",
         "source": "Wikipedia: Libya"
       },
       "institutions": {
-        "value": "Weak institutions since 2011.",
+        "value": "Very weak since 2011, with rival governments in the east and west.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Libya"
@@ -169,7 +169,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Rival militias and armed forces.",
+        "value": "Rival militias and forces loyal to different governments and commanders.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Libya"
@@ -181,13 +181,13 @@
         "source": "Wikipedia: Libya (checked 8 Nov 2026)"
       },
       "territoryChange": {
-        "value": "No border changes.",
+        "value": "The borders drawn in the colonial era remain the same, apart from the Aouzou Strip, which Libya held from 1973 to 1994.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Libya"
       },
       "alliancesRivals": {
-        "value": "Shifting foreign backers.",
+        "value": "Shifting foreign backers, including Turkey, Russia, Egypt and the United Arab Emirates, have supported rival sides since 2014.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Libya"
@@ -207,13 +207,13 @@
         "source": "Wikipedia: Libya"
       },
       "openness": {
-        "value": "Closed under Gaddafi.",
+        "value": "Closed under Muammar Gaddafi, with restricted travel and media; more open but unstable since 2011.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Libya"
       },
       "communicationTransport": {
-        "value": "Coastal highways; few railways.",
+        "value": "Coastal highways link the main towns; there are few railways.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Libya"
@@ -221,7 +221,7 @@
     },
     "culture": {
       "religion": {
-        "value": "Sunni Islam.",
+        "value": "Sunni Islam is practised by almost all Libyans.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Libya"
@@ -239,7 +239,7 @@
         "source": "Wikipedia: Libya"
       },
       "socialStructure": {
-        "value": "Tribal and regional loyalties.",
+        "value": "Tribal and regional loyalties, with a Berber (Amazigh) minority.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Libya"
@@ -251,9 +251,9 @@
         "source": "Wikipedia: Libya (checked 8 Nov 2026)"
       },
       "dailyLife": {
-        "value": "City apartments; couscous, bazin, tea.",
+        "value": "Many people live in city apartments and eat couscous, bazin (barley dough) and tea.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Libya"
       }
     },
@@ -265,8 +265,8 @@
         "source": "Wikipedia: Libya (checked 8 Nov 2026)"
       },
       "ideasReligions": {
-        "value": "Gaddafi’s “Third Universal Theory”.",
-        "year": null,
+        "value": "Muammar Gaddafi’s “Third Universal Theory”, set out in the Green Book (1975–79), mixed socialism and Islam.",
+        "year": 1975,
         "certainty": "confirmed",
         "source": "Wikipedia: Libya"
       },
@@ -279,13 +279,13 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Independence in 1951.",
+        "value": "Independence as a kingdom on 24 December 1951.",
         "year": 1951,
         "certainty": "confirmed",
         "source": "Wikipedia: Libya"
       },
       "peakPeriod": {
-        "value": "Oil boom of the 1970s.",
+        "value": "The oil boom of the 1970s raised incomes and public spending sharply.",
         "year": 1975,
         "certainty": "estimated",
         "source": "Wikipedia: Libya"

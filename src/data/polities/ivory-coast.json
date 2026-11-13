@@ -47,25 +47,25 @@
         "source": "Wikipedia: Ivory Coast (checked 13 Nov 2026)"
       },
       "terrain": {
-        "value": "Coastal lagoons, forest, savanna.",
+        "value": "Coastal lagoons and forests in the south, rolling savanna in the north and hills in the west.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ivory Coast"
       },
       "climate": {
-        "value": "Tropical.",
+        "value": "Tropical, humid in the south with two rainy seasons, and drier in the north.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ivory Coast"
       },
       "resources": {
-        "value": "Cocoa, coffee, oil, timber.",
+        "value": "Cocoa (the world’s largest producer), coffee, oil, gold and timber.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ivory Coast"
       },
       "disasters": {
-        "value": "Floods.",
+        "value": "Floods in Abidjan and coastal erosion are recurring problems.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ivory Coast"
@@ -79,13 +79,13 @@
         "source": "Wikipedia: Ivory Coast (checked 13 Nov 2026)"
       },
       "urbanisation": {
-        "value": "Abidjan has about 6 million people.",
+        "value": "Abidjan, the economic capital, has about 6 million people; Yamoussoukro is the political capital.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ivory Coast"
       },
       "disease": {
-        "value": "Malaria; HIV.",
+        "value": "Malaria and HIV are the main health problems, with outbreaks of yellow fever.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ivory Coast"
@@ -105,7 +105,7 @@
         "source": "Wikipedia: Ivory Coast (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "Port of Abidjan.",
+        "value": "Cocoa and coffee leave through the port of Abidjan, which also serves landlocked Mali and Burkina Faso.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ivory Coast"
@@ -143,13 +143,13 @@
         "source": "Wikipedia: Ivory Coast (checked 13 Nov 2026)"
       },
       "succession": {
-        "value": "Elections; disputed in 2010.",
-        "year": null,
+        "value": "After the first president died in 1993 power passed to his successor, and the disputed 2010 election led to a brief civil war.",
+        "year": 2010,
         "certainty": "confirmed",
         "source": "Wikipedia: Ivory Coast"
       },
       "institutions": {
-        "value": "National Assembly.",
+        "value": "A presidency, National Assembly and Senate under a constitution revised in 2016.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ivory Coast"
@@ -169,7 +169,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Armed forces.",
+        "value": "A national army formed after the 2002–11 conflicts from government and rebel forces.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ivory Coast"
@@ -181,13 +181,13 @@
         "source": "Wikipedia: Ivory Coast (checked 13 Nov 2026)"
       },
       "territoryChange": {
-        "value": "None.",
+        "value": "The borders drawn by France have stayed the same since independence.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ivory Coast"
       },
       "alliancesRivals": {
-        "value": "Close to France.",
+        "value": "Close to France, which has a military base there, and a member of ECOWAS.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ivory Coast"
@@ -201,7 +201,7 @@
         "source": "Wikipedia: Ivory Coast"
       },
       "scienceEducation": {
-        "value": "Universities in Abidjan.",
+        "value": "Universities in Abidjan and Bouaké; schooling has recovered after the war years.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ivory Coast"
@@ -213,8 +213,8 @@
         "source": "Wikipedia: Ivory Coast"
       },
       "communicationTransport": {
-        "value": "Abidjan–Ouagadougou railway.",
-        "year": null,
+        "value": "The Abidjan–Ouagadougou railway, built under French rule, links the port to Burkina Faso (completed 1954).",
+        "year": 1954,
         "certainty": "confirmed",
         "source": "Wikipedia: Ivory Coast"
       }
@@ -227,19 +227,19 @@
         "source": "Wikipedia: Ivory Coast (checked 13 Nov 2026)"
       },
       "languageWriting": {
-        "value": "French; Dioula, Baoulé and many others.",
+        "value": "French is official; Dioula, Baoulé and many other languages are widely spoken.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ivory Coast"
       },
       "artsArchitecture": {
-        "value": "Masks, music.",
+        "value": "Baoulé and Senufo masks and carvings, coupé-décalé music, and the huge basilica at Yamoussoukro (1989).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ivory Coast"
       },
       "socialStructure": {
-        "value": "About 60 ethnic groups.",
+        "value": "About 60 ethnic groups, with strong northern and southern regional identities.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ivory Coast"
@@ -251,9 +251,9 @@
         "source": "Wikipedia: Ivory Coast"
       },
       "dailyLife": {
-        "value": "Houses and flats; attiéké, alloco.",
+        "value": "Many families eat attiéké (cassava) and alloco (fried plantain), and farm small plots or work in towns.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Ivory Coast"
       }
     },
@@ -265,7 +265,7 @@
         "source": "Wikipedia: Ivory Coast"
       },
       "ideasReligions": {
-        "value": "French influence.",
+        "value": "French language and culture shaped the elite; Islam, Christianity and traditional beliefs are all widely held.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ivory Coast"
@@ -285,7 +285,7 @@
         "source": "Wikipedia: Ivory Coast (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "The “Ivorian miracle” of the 1960s–70s.",
+        "value": "The “Ivorian miracle” of the 1960s–70s, when cocoa and coffee exports raised incomes rapidly.",
         "year": 1970,
         "certainty": "estimated",
         "source": "Wikipedia: Ivory Coast"
@@ -297,7 +297,7 @@
         "source": "Wikipedia: Ivory Coast"
       },
       "outcome": {
-        "value": "Still in existence.",
+        "value": "Ivory Coast continues as an independent republic.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ivory Coast"
