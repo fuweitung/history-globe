@@ -65,13 +65,13 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | · Modern | `████████████████████` 99% |  |
 | Civilisations shown on the map | `███████████████████░` 93% | 466 of 499; the rest fly to their capital |
 | Checklist filled in | `████████████████████` 100% | 21457 of 21457 items (499 × 43) |
-| Answers with real detail | `████████████████░░░░` 80% | 4020 answers are still under 40 characters |
+| Answers with real detail | `████████████████░░░░` 80% | 4013 answers are still under 40 characters |
 | Fact-checked against a source | `████████░░░░░░░░░░░░` 42% | 9102 items say “(checked …)”; the rest still need a second look |
 | Civilisations with events | `████████████████████` 100% | 499 of 499 |
 | Civilisations with famous people | `██████████████░░░░░░` 72% | 357 of 499; many prehistoric cultures have no known names |
 | Civilisations linked to others | `████████████████████` 100% | 499 of 499 (succeeded, conquered, traded with…) |
 | Civilisation pictures | `████████████████████` 99% | 495 of 499 |
-| “Known for” pictures | `█████████████░░░░░░░` 63% | 985 of 1557 items |
+| “Known for” pictures | `█████████████░░░░░░░` 63% | 980 of 1551 items |
 | People pictures | `██████████████████░░` 91% | 412 of 451 |
 | Event pictures | `████████████████░░░░` 78% | 753 of 962 |
 
