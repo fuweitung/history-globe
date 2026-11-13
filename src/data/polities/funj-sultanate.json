@@ -46,27 +46,27 @@
         "source": "Wikipedia: Funj Sultanate (checked 12 Nov 2026)"
       },
       "terrain": {
-        "value": "Plain between rivers.",
+        "value": "A flat clay plain between the Blue and White Nile, with seasonal rivers and some hills.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Funj Sultanate"
       },
       "climate": {
-        "value": "Hot; summer rains.",
+        "value": "Hot and dry for most of the year, with summer rains from June to September.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Funj Sultanate"
       },
       "resources": {
-        "value": "Grain, gold, ivory.",
+        "value": "Grain (sorghum), cotton, gold from the south, ivory and livestock.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Funj Sultanate"
       },
       "disasters": {
-        "value": "Famines.",
+        "value": "Famines after poor rains and occasional epidemics.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Funj Sultanate"
       }
     },
@@ -90,7 +90,7 @@
         "source": "Wikipedia: Funj Sultanate"
       },
       "migration": {
-        "value": "Arab tribes moved in.",
+        "value": "Arab nomadic groups moved into the region, mixing with the Funj and local peoples.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Funj Sultanate"
@@ -104,7 +104,7 @@
         "source": "Wikipedia: Funj Sultanate (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "To Egypt and the Red Sea.",
+        "value": "Caravans carried gold, slaves and ivory north to Egypt and east to the Red Sea ports.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Funj Sultanate"
@@ -142,25 +142,25 @@
         "source": "Wikipedia: Funj Sultanate (checked 13 Nov 2026)"
       },
       "succession": {
-        "value": "Royal family; regents after 1762.",
-        "year": null,
+        "value": "The sultan came from the royal family, but after 1762 the Hamaj regents held real power.",
+        "year": 1762,
         "certainty": "confirmed",
         "source": "Wikipedia: Funj Sultanate"
       },
       "institutions": {
-        "value": "Sufi scholars.",
+        "value": "Sufi scholars, local chiefs and the royal court at Sennar ran justice and religion.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Funj Sultanate"
       },
       "stability": {
-        "value": "Hamaj regents took power (1762).",
+        "value": "The Hamaj regents took power in 1762 and the sultans became figureheads.",
         "year": 1762,
         "certainty": "confirmed",
         "source": "Wikipedia: Funj Sultanate"
       },
       "eliteConflict": {
-        "value": "Funj and Hamaj.",
+        "value": "Rivalry between the Funj royal family and the Hamaj regents.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Funj Sultanate"
@@ -168,7 +168,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Cavalry; slave soldiers.",
+        "value": "Cavalry and slave soldiers, with some firearms in the late period.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Funj Sultanate"
@@ -180,13 +180,13 @@
         "source": "Wikipedia: Funj Sultanate (checked 12 Nov 2026)"
       },
       "territoryChange": {
-        "value": "Expanded to Kordofan.",
+        "value": "Expanded west toward Kordofan in the 1600s and shrank by the late 1700s.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Funj Sultanate"
       },
       "alliancesRivals": {
-        "value": "Ethiopia, Ottomans.",
+        "value": "Ethiopia to the east, the Ottomans in Egypt to the north, and Darfur to the west.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Funj Sultanate"
@@ -206,13 +206,13 @@
         "source": "Wikipedia: Funj Sultanate"
       },
       "openness": {
-        "value": "Open to trade, closed to rivals.",
+        "value": "Open to trade and Muslim scholars, but wary of rival states.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Funj Sultanate"
       },
       "communicationTransport": {
-        "value": "Footpaths, rivers and messengers.",
+        "value": "Footpaths, the Nile and caravan routes carried people and messages.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Funj Sultanate"
@@ -226,31 +226,31 @@
         "source": "Wikipedia: Funj Sultanate (checked 13 Nov 2026)"
       },
       "languageWriting": {
-        "value": "Arabic.",
+        "value": "Arabic was used for religion and records, with local languages spoken.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Funj Sultanate"
       },
       "artsArchitecture": {
-        "value": "Mosque of Sennar.",
+        "value": "The old mosque of Sennar, mud-brick buildings and tombs of holy men.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Funj Sultanate"
       },
       "socialStructure": {
-        "value": "Funj nobles, Arab tribes, captives.",
+        "value": "Funj nobles, Arab tribes, farmers and captives.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Funj Sultanate"
       },
       "sharedIdentity": {
-        "value": "Loyalty to the ruler and lineage.",
+        "value": "Loyalty to the sultan and to Islam bound the many groups.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Funj Sultanate"
       },
       "dailyLife": {
-        "value": "Farming households in villages.",
+        "value": "Most families farmed sorghum and herded animals in villages along the rivers.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Funj Sultanate"
@@ -258,7 +258,7 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Ethiopia, Darfur, Ottoman Egypt.",
+        "value": "Ethiopia, Darfur and Ottoman Egypt.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Funj Sultanate"
@@ -270,7 +270,7 @@
         "source": "Wikipedia: Funj Sultanate (checked 12 Nov 2026)"
       },
       "colonisation": {
-        "value": "Egyptian (Ottoman) conquest (1821).",
+        "value": "Conquered by Egypt (under Ottoman rule) in 1821.",
         "year": 1821,
         "certainty": "confirmed",
         "source": "Wikipedia: Funj Sultanate"
@@ -290,7 +290,7 @@
         "source": "Wikipedia: Funj Sultanate (checked 13 Nov 2026)"
       },
       "declineSignals": {
-        "value": "Regent rule after 1762.",
+        "value": "Regent rule after 1762 and Egyptian conquest in 1821.",
         "year": 1762,
         "certainty": "confirmed",
         "source": "Wikipedia: Funj Sultanate"

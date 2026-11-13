@@ -52,13 +52,13 @@
         "source": "Wikipedia: Boer republics (checked 12 Nov 2026)"
       },
       "terrain": {
-        "value": "Grassland plateau.",
+        "value": "A high, open grassland plateau (the highveld).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Boer republics"
       },
       "climate": {
-        "value": "Dry, with summer rain.",
+        "value": "Dry, with summer rain and cold, dry winters.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Boer republics"
@@ -70,8 +70,8 @@
         "source": "Wikipedia: Boer republics (checked 12 Nov 2026)"
       },
       "disasters": {
-        "value": "Droughts; rinderpest.",
-        "year": null,
+        "value": "Droughts and the rinderpest epidemic of 1896–97, which killed much of the cattle.",
+        "year": 1896,
         "certainty": "confirmed",
         "source": "Wikipedia: Boer republics"
       }
@@ -104,25 +104,25 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming, then gold mining.",
+        "value": "Farming and cattle at first, then gold mining on the Witwatersrand from 1886.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Boer republics"
       },
       "tradeRoutes": {
-        "value": "Railway to Delagoa Bay (1895).",
-        "year": null,
+        "value": "The railway to Delagoa Bay (Maputo) opened in 1895, avoiding British territory.",
+        "year": 1895,
         "certainty": "confirmed",
         "source": "Wikipedia: Boer republics"
       },
       "wealth": {
-        "value": "Gold made the Transvaal rich.",
+        "value": "Gold made the Transvaal rich after 1886.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Boer republics"
       },
       "moneyAndTax": {
-        "value": "South African pound; mining taxes.",
+        "value": "The South African pound; the state taxed gold mining heavily.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Boer republics"
@@ -142,19 +142,19 @@
         "source": "Wikipedia: Boer republics"
       },
       "keyRulers": {
-        "value": "Paul Kruger. Marthinus Steyn.",
+        "value": "Paul Kruger (president of the Transvaal 1883–1900) and Marthinus Steyn (president of the Orange Free State 1896–1902).",
         "year": 1883,
         "certainty": "confirmed",
         "source": "Wikipedia: Boer republics"
       },
       "succession": {
-        "value": "Elections.",
+        "value": "Presidents were elected by white male citizens (burghers).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Boer republics"
       },
       "institutions": {
-        "value": "Volksraad parliaments.",
+        "value": "Volksraad parliaments and local magistrates, with the Dutch Reformed Church influential.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Boer republics"
@@ -166,7 +166,7 @@
         "source": "Wikipedia: Boer republics (checked 12 Nov 2026)"
       },
       "eliteConflict": {
-        "value": "Boers and uitlanders.",
+        "value": "Boers and uitlanders (foreign miners) disputed voting rights and taxes.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Boer republics"
@@ -174,7 +174,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Mounted commandos with modern rifles.",
+        "value": "Mounted commandos with modern rifles and artillery.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Boer republics"
@@ -192,7 +192,7 @@
         "source": "Wikipedia: Boer republics (checked 12 Nov 2026)"
       },
       "alliancesRivals": {
-        "value": "Opposed to Britain.",
+        "value": "Opposed to Britain, which wanted the gold and a unified South Africa.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Boer republics"
@@ -200,13 +200,13 @@
     },
     "technology": {
       "inventions": {
-        "value": "None of note.",
+        "value": "No major inventions are recorded.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Boer republics"
       },
       "scienceEducation": {
-        "value": "Church schools.",
+        "value": "Church schools taught Dutch and the Bible.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Boer republics"
@@ -218,7 +218,7 @@
         "source": "Wikipedia: Boer republics"
       },
       "communicationTransport": {
-        "value": "Ox wagons, then railways.",
+        "value": "Ox wagons, then railways and telegraph lines.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Boer republics"
@@ -238,27 +238,27 @@
         "source": "Wikipedia: Boer republics (checked 12 Nov 2026)"
       },
       "artsArchitecture": {
-        "value": "Farmhouses; Pretoria Raadsaal.",
+        "value": "Farmhouses and the Raadsaal in Pretoria.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Boer republics"
       },
       "socialStructure": {
-        "value": "White citizens over Africans.",
+        "value": "White citizens held rights; Africans and others were denied them.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Boer republics"
       },
       "sharedIdentity": {
-        "value": "Afrikaner nationalism.",
+        "value": "Afrikaner identity, language and faith.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Boer republics"
       },
       "dailyLife": {
-        "value": "Farms; biltong.",
+        "value": "Many Boer families lived on large farms, eating beef, biltong and maize.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Boer republics"
       }
     },
@@ -290,8 +290,8 @@
         "source": "Wikipedia: Boer republics (checked 12 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Gold boom under Kruger (1886–99).",
-        "year": 1886,
+        "value": "The gold boom under Kruger (1886–99).",
+        "year": 1890,
         "certainty": "confirmed",
         "source": "Wikipedia: Boer republics"
       },

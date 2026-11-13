@@ -50,27 +50,27 @@
         "source": "Wikipedia: Adal Sultanate (checked 13 Nov 2026)"
       },
       "terrain": {
-        "value": "Highlands and desert.",
+        "value": "Highlands, semi-desert plains and a hot coast on the Red Sea and Gulf of Aden.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Adal Sultanate"
       },
       "climate": {
-        "value": "Dry.",
+        "value": "Hot and dry, with little rain.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Adal Sultanate"
       },
       "resources": {
-        "value": "Livestock, trade goods.",
+        "value": "Livestock, salt, ivory and trade goods.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Adal Sultanate"
       },
       "disasters": {
-        "value": "Droughts.",
+        "value": "Droughts and famines were frequent.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Adal Sultanate"
       }
     },
@@ -94,8 +94,8 @@
         "source": "Wikipedia: Adal Sultanate"
       },
       "migration": {
-        "value": "Oromo migrations (1500s) weakened it.",
-        "year": null,
+        "value": "Oromo migrations in the 1500s weakened Adal and reshaped the region.",
+        "year": 1550,
         "certainty": "estimated",
         "source": "Wikipedia: Adal Sultanate"
       }
@@ -108,15 +108,15 @@
         "source": "Wikipedia: Adal Sultanate (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "Zeila and Berbera ports.",
+        "value": "The ports of Zeila and Berbera carried goods to Arabia, India and Egypt.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Adal Sultanate"
       },
       "wealth": {
-        "value": "Trade wealth.",
+        "value": "Trade wealth came from slaves, ivory, coffee and livestock.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Adal Sultanate"
       },
       "moneyAndTax": {
@@ -146,25 +146,25 @@
         "source": "Wikipedia: Adal Sultanate (checked 12 Nov 2026)"
       },
       "succession": {
-        "value": "Walashma dynasty; then imams.",
+        "value": "The Walashma dynasty ruled at first, followed by military imams.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Adal Sultanate"
       },
       "institutions": {
-        "value": "Islamic courts.",
+        "value": "Islamic courts and a sultan advised by religious scholars.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Adal Sultanate"
       },
       "stability": {
-        "value": "Long wars with Ethiopia.",
+        "value": "Long wars with Christian Ethiopia kept the region unstable.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Adal Sultanate"
       },
       "eliteConflict": {
-        "value": "Sultans and military leaders.",
+        "value": "Sultans and military leaders such as Ahmad ibn Ibrahim (Gragn) competed for power.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Adal Sultanate"
@@ -190,7 +190,7 @@
         "source": "Wikipedia: Adal Sultanate (checked 12 Nov 2026)"
       },
       "alliancesRivals": {
-        "value": "Ottomans against Ethiopia and Portugal.",
+        "value": "Ottomans helped Adal against Ethiopia, while Portugal helped Ethiopia.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Adal Sultanate"
@@ -210,13 +210,13 @@
         "source": "Wikipedia: Adal Sultanate"
       },
       "openness": {
-        "value": "Open to trade, closed to rivals.",
+        "value": "Open to Muslim trade networks across the Red Sea.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Adal Sultanate"
       },
       "communicationTransport": {
-        "value": "Footpaths, rivers and messengers.",
+        "value": "Camel caravans and coastal ships carried goods.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Adal Sultanate"
@@ -230,7 +230,7 @@
         "source": "Wikipedia: Adal Sultanate (checked 13 Nov 2026)"
       },
       "languageWriting": {
-        "value": "Harari, Somali, Afar; Arabic.",
+        "value": "Harari, Somali and Afar were spoken, with Arabic used for writing.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Adal Sultanate"
@@ -242,19 +242,19 @@
         "source": "Wikipedia: Adal Sultanate (checked 12 Nov 2026)"
       },
       "socialStructure": {
-        "value": "Nomads, townspeople, scholars.",
+        "value": "Nomads, townspeople, scholars and rulers.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Adal Sultanate"
       },
       "sharedIdentity": {
-        "value": "Loyalty to the ruler and lineage.",
+        "value": "A shared Muslim identity opposed to the Christian highland state.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Adal Sultanate"
       },
       "dailyLife": {
-        "value": "Farming households in villages.",
+        "value": "Pastoral families herded camels and cattle, while townspeople traded and farmed.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Adal Sultanate"
@@ -262,13 +262,13 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Ethiopian Empire, Ottomans.",
+        "value": "The Ethiopian Empire to the west and the Ottomans across the Red Sea.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Adal Sultanate"
       },
       "ideasReligions": {
-        "value": "Islamic scholarship.",
+        "value": "Islamic scholarship and Sufi brotherhoods shaped the sultanate.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Adal Sultanate"
@@ -294,7 +294,7 @@
         "source": "Wikipedia: Adal Sultanate (checked 13 Nov 2026)"
       },
       "declineSignals": {
-        "value": "Gragn killed (1543).",
+        "value": "Ahmad ibn Ibrahim (Gragn) was killed in 1543, ending the great Adal conquests.",
         "year": 1543,
         "certainty": "confirmed",
         "source": "Wikipedia: Adal Sultanate"
