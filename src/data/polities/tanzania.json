@@ -54,19 +54,19 @@
         "source": "Wikipedia: Tanzania (checked 8 Nov 2026)"
       },
       "climate": {
-        "value": "Tropical.",
+        "value": "Tropical on the coast and warm inland, with highlands that are cooler and two rainy seasons.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Tanzania"
       },
       "resources": {
-        "value": "Farmland, gold, gas, tourism.",
+        "value": "Farmland, gold, natural gas, tourism and wildlife, including Serengeti and Kilimanjaro.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Tanzania"
       },
       "disasters": {
-        "value": "Droughts and floods.",
+        "value": "Droughts, floods and occasional outbreaks of disease such as cholera.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Tanzania"
@@ -74,9 +74,9 @@
     },
     "population": {
       "population": {
-        "value": "About 68 million.",
+        "value": "About 62 million people (2022 census), one of the fastest-growing populations in Africa.",
         "year": 2024,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Tanzania"
       },
       "urbanisation": {
@@ -86,13 +86,13 @@
         "source": "Wikipedia: Tanzania (checked 8 Nov 2026)"
       },
       "disease": {
-        "value": "Malaria and HIV.",
+        "value": "Malaria and HIV have been the main diseases, with improving treatment since the 2000s.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Tanzania"
       },
       "migration": {
-        "value": "Rural to urban migration.",
+        "value": "Many people move from villages to cities such as Dar es Salaam; refugees from neighbouring countries have also settled.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Tanzania"
@@ -100,31 +100,31 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming, mining, tourism.",
+        "value": "Farming (coffee, cotton, cashews), mining (gold), tourism and, increasingly, gas.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Tanzania"
       },
       "tradeRoutes": {
-        "value": "Port of Dar es Salaam.",
+        "value": "The port of Dar es Salaam serves Tanzania and its landlocked neighbours, and the TAZARA railway reaches Zambia.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Tanzania"
       },
       "wealth": {
-        "value": "A lower-middle-income country.",
+        "value": "A lower-middle-income country; growth has been steady but many people remain poor.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Tanzania"
       },
       "moneyAndTax": {
-        "value": "The Tanzanian shilling.",
+        "value": "The Tanzanian shilling; taxes on trade, mining and consumption.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Tanzania"
       },
       "inequality": {
-        "value": "Moderate inequality.",
+        "value": "Moderate inequality, with more poverty in rural areas than in cities.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Tanzania"
@@ -144,7 +144,7 @@
         "source": "Wikipedia: Tanzania (checked 8 Nov 2026)"
       },
       "succession": {
-        "value": "Elections; dominant CCM party.",
+        "value": "Elections, with the CCM party in power since independence.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Tanzania"
@@ -162,7 +162,7 @@
         "source": "Wikipedia: Tanzania (checked 8 Nov 2026)"
       },
       "eliteConflict": {
-        "value": "Party politics.",
+        "value": "Rivalry between the dominant CCM party and the opposition, and tension over Zanzibar’s status.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Tanzania"
@@ -170,7 +170,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "A modest army.",
+        "value": "A modest army, the Tanzania People’s Defence Force, which also fought Uganda in 1978–79.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Tanzania"
@@ -196,19 +196,19 @@
     },
     "technology": {
       "inventions": {
-        "value": "Few inventions.",
+        "value": "No major inventions are recorded; Tanzania is better known for its art, music and Swahili culture.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Tanzania"
       },
       "scienceEducation": {
-        "value": "Literacy campaigns under Nyerere.",
-        "year": null,
+        "value": "Nyerere’s government ran mass literacy campaigns in the 1970s that raised literacy greatly.",
+        "year": 1970,
         "certainty": "confirmed",
         "source": "Wikipedia: Tanzania"
       },
       "openness": {
-        "value": "Open.",
+        "value": "Open to trade and tourists, with a socialist period of state control in the 1970s.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Tanzania"
@@ -234,13 +234,13 @@
         "source": "Wikipedia: Tanzania (checked 8 Nov 2026)"
       },
       "artsArchitecture": {
-        "value": "Tingatinga painting, taarab music.",
+        "value": "Tingatinga painting, taarab music from Zanzibar, and Swahili stone buildings such as Stone Town.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Tanzania"
       },
       "socialStructure": {
-        "value": "Relatively equal.",
+        "value": "Relatively equal in the early years; today a small urban elite and a large farming majority.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Tanzania"
@@ -266,7 +266,7 @@
         "source": "Wikipedia: Tanzania (checked 8 Nov 2026)"
       },
       "ideasReligions": {
-        "value": "Ujamaa (African socialism).",
+        "value": "Ujamaa, Julius Nyerere’s African socialism, based on cooperative village farming (Arusha Declaration, 1967).",
         "year": 1967,
         "certainty": "confirmed",
         "source": "Wikipedia: Tanzania"
@@ -286,19 +286,19 @@
         "source": "Wikipedia: Tanzania (checked 8 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Steady growth after 2000.",
+        "value": "Steady economic growth of about 6–7 percent a year after 2000.",
         "year": 2005,
         "certainty": "estimated",
         "source": "Wikipedia: Tanzania"
       },
       "declineSignals": {
-        "value": "Ujamaa economic problems.",
+        "value": "The Ujamaa villagisation programme of the 1970s slowed farming output and led to economic problems.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Tanzania"
       },
       "outcome": {
-        "value": "Still in existence.",
+        "value": "Tanzania continues as an independent state.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Tanzania"
