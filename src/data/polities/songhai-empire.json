@@ -135,15 +135,15 @@
         "source": "Wikipedia: Songhai Empire (checked 6 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Sonni Ali (1464–1492, conqueror). Askia Muhammad the Great (1493–1528). Askia Daoud (1549–1582). Askia Ishaq II (1588–1591/2, last).",
+        "value": "Sonni Ali (1464–1492, conqueror). Askia Muhammad the Great (1493–1528; World History Encyclopedia gives 1494–1528). Askia Daoud (1549–1582). Askia Ishaq II (1588–1591/2, last).",
         "year": 1493,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Songhai Empire (checked 6 Nov 2026) (infobox)"
+        "certainty": "disputed",
+        "source": "Wikipedia: Songhai Empire (checked 6 Nov 2026) (infobox); World History Encyclopedia, Songhai Empire and Spread of Islam pages (search excerpts)"
       },
       "succession": {
-        "value": "Disputed: Askia Muhammad seized power from Sonni Ali’s son (1493). His sons later deposed him (1528). Succession wars after 1583.",
+        "value": "Disputed: Askia Muhammad seized power from Sonni Ali’s son (1493; World History Encyclopedia says 1494). His sons later deposed him (1528). Succession wars after 1583.",
         "year": 1528,
-        "certainty": "confirmed",
+        "certainty": "disputed",
         "source": "Wikipedia: Songhai Empire (checked 6 Nov 2026)"
       },
       "institutions": {
@@ -277,10 +277,10 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Independence from Mali (c. 1430s), and Sonni Ali’s conquests of Timbuktu and Djenné.",
+        "value": "Independence from Mali (World History Encyclopedia dates the raids to the early 15th century), and Sonni Ali’s conquests of Timbuktu and Djenné.",
         "year": 1468,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Songhai Empire (checked 6 Nov 2026)"
+        "certainty": "estimated",
+        "source": "Wikipedia: Songhai Empire (checked 6 Nov 2026); World History Encyclopedia, Songhai Empire (search excerpt)"
       },
       "peakPeriod": {
         "value": "The reign of Askia Muhammad the Great (1493–1528).",
@@ -298,7 +298,7 @@
         "value": "Conquest. A Moroccan army with firearms under Judar Pasha defeated Songhai at Tondibi (1591). Nobles fled south and founded the Dendi kingdom.",
         "year": 1591,
         "certainty": "confirmed",
-        "source": "Wikipedia: Songhai Empire (checked 6 Nov 2026)"
+        "source": "Wikipedia: Songhai Empire (checked 6 Nov 2026); World History Encyclopedia, Songhai Empire (search excerpt): Moroccan force attacks 1590–1591 and absorbs the empire c. 1591"
       }
     },
     "dataQuality": {
