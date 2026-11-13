@@ -44,33 +44,33 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Upper Niger, Mali.",
+        "value": "The upper Niger valley, in today’s Mali.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bamana Empire"
       },
       "terrain": {
-        "value": "Niger floodplain and savanna.",
+        "value": "The Niger floodplain and savanna.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bamana Empire"
       },
       "climate": {
-        "value": "Sahel.",
+        "value": "A Sahel climate with a short rainy season.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bamana Empire"
       },
       "resources": {
-        "value": "Grain, fish, cattle.",
+        "value": "Grain, fish, cattle and iron.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bamana Empire"
       },
       "disasters": {
-        "value": "Droughts.",
+        "value": "Droughts occasionally brought famine.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Bamana Empire"
       }
     },
@@ -94,7 +94,7 @@
         "source": "Wikipedia: Bamana Empire"
       },
       "migration": {
-        "value": "Captives settled in farming villages.",
+        "value": "Captives taken in war were settled in farming villages.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Bamana Empire"
@@ -102,7 +102,7 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming with captive labour.",
+        "value": "Farming worked by captive labour, and trade on the Niger.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bamana Empire"
@@ -114,9 +114,9 @@
         "source": "Wikipedia: Bamana Empire (checked 12 Nov 2026)"
       },
       "wealth": {
-        "value": "Tribute and war captives.",
+        "value": "Tribute and war captives enriched the rulers.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Bamana Empire"
       },
       "moneyAndTax": {
@@ -134,7 +134,7 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Monarchy backed by the army.",
+        "value": "A monarchy backed by a standing slave-soldier army.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bamana Empire"
@@ -146,7 +146,7 @@
         "source": "Wikipedia: Bamana Empire (checked 12 Nov 2026)"
       },
       "succession": {
-        "value": "Coulibaly, then Diarra dynasty.",
+        "value": "The Coulibaly dynasty first, followed by the Diarra dynasty in Ségou.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bamana Empire"
@@ -164,7 +164,7 @@
         "source": "Wikipedia: Bamana Empire (checked 12 Nov 2026)"
       },
       "eliteConflict": {
-        "value": "Ségou against Kaarta.",
+        "value": "Ségou and Kaarta fought each other, as well as neighbouring states.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bamana Empire"
@@ -172,7 +172,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Infantry and war canoes.",
+        "value": "Infantry and war canoes on the Niger.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bamana Empire"
@@ -184,13 +184,13 @@
         "source": "Wikipedia: Bamana Empire (checked 12 Nov 2026)"
       },
       "territoryChange": {
-        "value": "Expanded along the Niger.",
+        "value": "Expanded along the Niger in the 1700s.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bamana Empire"
       },
       "alliancesRivals": {
-        "value": "Masina, Toucouleur.",
+        "value": "The Fulani of Masina and, later, the Toucouleur were the main rivals.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bamana Empire"
@@ -210,13 +210,13 @@
         "source": "Wikipedia: Bamana Empire"
       },
       "openness": {
-        "value": "Open to trade, closed to rivals.",
+        "value": "Open to trade along the Niger, but hostile to rivals.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Bamana Empire"
       },
       "communicationTransport": {
-        "value": "Footpaths, rivers and messengers.",
+        "value": "Footpaths and the Niger River carried goods and news.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Bamana Empire"
@@ -236,7 +236,7 @@
         "source": "Wikipedia: Bamana Empire (checked 12 Nov 2026)"
       },
       "artsArchitecture": {
-        "value": "Chiwara headdresses.",
+        "value": "Chiwara headdresses, which honour the mythical antelope of farming.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bamana Empire"
@@ -248,13 +248,13 @@
         "source": "Wikipedia: Bamana Empire"
       },
       "sharedIdentity": {
-        "value": "Loyalty to the ruler and lineage.",
+        "value": "Loyalty to the ruler, the lineage and Bambara traditions.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Bamana Empire"
       },
       "dailyLife": {
-        "value": "Farming households in villages.",
+        "value": "Families farmed millet and rice in villages, with warriors living in garrison towns.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Bamana Empire"
@@ -262,7 +262,7 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Masina, Kaarta, Toucouleur.",
+        "value": "Masina, Kaarta and the Toucouleur.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Bamana Empire"

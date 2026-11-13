@@ -54,13 +54,13 @@
         "source": "Wikipedia: Sultanate of Darfur (checked 12 Nov 2026)"
       },
       "climate": {
-        "value": "Hot and dry.",
+        "value": "Hot and dry, with a short rainy season in summer.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sultanate of Darfur"
       },
       "resources": {
-        "value": "Farmland, cattle, trade.",
+        "value": "Farmland, cattle, ivory, gum arabic and trade goods.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sultanate of Darfur"
@@ -86,7 +86,7 @@
         "source": "Wikipedia: Sultanate of Darfur (checked 12 Nov 2026)"
       },
       "disease": {
-        "value": "Not recorded in detail.",
+        "value": "No detailed records survive; epidemics and famines occurred from time to time.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Sultanate of Darfur"
@@ -100,7 +100,7 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming, herding, trade.",
+        "value": "Farming, herding and trade along the Forty Days Road.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sultanate of Darfur"
@@ -112,19 +112,19 @@
         "source": "Wikipedia: Sultanate of Darfur (checked 12 Nov 2026)"
       },
       "wealth": {
-        "value": "No estimate.",
+        "value": "Trade wealth came from slaves, ivory and camels, but no reliable figures survive.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Sultanate of Darfur"
       },
       "moneyAndTax": {
-        "value": "Trade goods.",
+        "value": "Trade goods, cloth and livestock served as money and tribute.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sultanate of Darfur"
       },
       "inequality": {
-        "value": "Sultan and nobles.",
+        "value": "A gap between the sultan, nobles and ordinary farmers and herders.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Sultanate of Darfur"
@@ -132,7 +132,7 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Sultanate.",
+        "value": "A sultanate ruled by Fur kings of the Keira dynasty.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sultanate of Darfur"
@@ -144,7 +144,7 @@
         "source": "Wikipedia: Sultanate of Darfur (checked 12 Nov 2026)"
       },
       "succession": {
-        "value": "Royal family.",
+        "value": "The throne passed within the royal family.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Sultanate of Darfur"
@@ -156,7 +156,7 @@
         "source": "Wikipedia: Sultanate of Darfur (checked 12 Nov 2026)"
       },
       "stability": {
-        "value": "Wars with neighbours.",
+        "value": "Wars with neighbours such as Wadai and Kordofan.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Sultanate of Darfur"
@@ -196,13 +196,13 @@
     },
     "technology": {
       "inventions": {
-        "value": "Few inventions.",
+        "value": "No major inventions are recorded.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Sultanate of Darfur"
       },
       "scienceEducation": {
-        "value": "Islamic learning.",
+        "value": "Islamic learning was supported by scholars and Quranic schools.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sultanate of Darfur"
@@ -214,7 +214,7 @@
         "source": "Wikipedia: Sultanate of Darfur"
       },
       "communicationTransport": {
-        "value": "Camel caravans.",
+        "value": "Camel caravans along the Forty Days Road to Egypt.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sultanate of Darfur"
@@ -234,7 +234,7 @@
         "source": "Wikipedia: Sultanate of Darfur (checked 12 Nov 2026)"
       },
       "artsArchitecture": {
-        "value": "Palace architecture.",
+        "value": "Palaces and mosques built of mud-brick, such as the royal capital at El Fasher.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Sultanate of Darfur"
@@ -252,21 +252,21 @@
         "source": "Wikipedia: Sultanate of Darfur"
       },
       "dailyLife": {
-        "value": "Mud houses; millet.",
+        "value": "Most families lived in mud houses and ate millet.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Sultanate of Darfur"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "Wadai, Kordofan, Egypt.",
+        "value": "Wadai, Kordofan and Egypt.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sultanate of Darfur"
       },
       "ideasReligions": {
-        "value": "Islam.",
+        "value": "Islam, which the Keira sultans adopted and promoted.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Sultanate of Darfur"
@@ -280,14 +280,14 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Trade wealth.",
+        "value": "Growing trade wealth along the caravan routes.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Sultanate of Darfur"
       },
       "peakPeriod": {
-        "value": "18th century.",
-        "year": null,
+        "value": "The 18th century, when Darfur controlled the caravan trade.",
+        "year": 1750,
         "certainty": "estimated",
         "source": "Wikipedia: Sultanate of Darfur"
       },
@@ -298,8 +298,8 @@
         "source": "Wikipedia: Sultanate of Darfur"
       },
       "outcome": {
-        "value": "Part of Sudan today.",
-        "year": null,
+        "value": "Conquered and absorbed into Sudan by Britain in 1916; today part of Sudan.",
+        "year": 1916,
         "certainty": "confirmed",
         "source": "Wikipedia: Sultanate of Darfur"
       }

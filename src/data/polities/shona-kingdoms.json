@@ -50,27 +50,27 @@
         "source": "Wikipedia: Mutapa Empire (checked 13 Nov 2026)"
       },
       "terrain": {
-        "value": "Granite plateau and river valleys.",
+        "value": "A high granite plateau with river valleys, between the Zambezi and Limpopo rivers.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Mutapa"
       },
       "climate": {
-        "value": "Savanna.",
+        "value": "A savanna climate, with a warm rainy season and a dry season.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Mutapa"
       },
       "resources": {
-        "value": "Gold, cattle, ivory.",
+        "value": "Gold, cattle, ivory and iron.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Mutapa"
       },
       "disasters": {
-        "value": "Droughts.",
+        "value": "Droughts and famines, which hit farming and herding.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Mutapa"
       }
     },
@@ -94,7 +94,7 @@
         "source": "Wikipedia: Kingdom of Mutapa"
       },
       "migration": {
-        "value": "Moved north from Great Zimbabwe.",
+        "value": "People moved north from Great Zimbabwe, spreading Shona rule and culture.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Mutapa"
@@ -114,9 +114,9 @@
         "source": "Wikipedia: Kingdom of Mutapa"
       },
       "wealth": {
-        "value": "Gold trade.",
+        "value": "Wealth came from the gold and ivory trade to the coast.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Mutapa"
       },
       "moneyAndTax": {
@@ -146,25 +146,25 @@
         "source": "Wikipedia: Kingdom of Mutapa (checked 13 Nov 2026)"
       },
       "succession": {
-        "value": "Royal lineage; disputes common.",
+        "value": "The ruler came from a royal lineage, and succession disputes were common.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Mutapa"
       },
       "institutions": {
-        "value": "Spirit mediums advised rulers.",
+        "value": "Spirit mediums advised rulers, and provincial chiefs paid tribute to the king.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Mutapa"
       },
       "stability": {
-        "value": "Civil wars weakened Mutapa.",
-        "year": null,
+        "value": "Civil wars and Portuguese interference weakened Mutapa in the 1600s.",
+        "year": 1600,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Mutapa"
       },
       "eliteConflict": {
-        "value": "Rival princes.",
+        "value": "Rival princes and provincial rulers fought for the throne.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Mutapa"
@@ -172,7 +172,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Spear armies.",
+        "value": "Armies of spearmen and archers; Rozvi rulers used strong regiments.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Mutapa"
@@ -190,7 +190,7 @@
         "source": "Wikipedia: Kingdom of Mutapa"
       },
       "alliancesRivals": {
-        "value": "Portuguese traders and soldiers.",
+        "value": "Portuguese traders and soldiers allied with and fought Mutapa rulers.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Mutapa"
@@ -210,13 +210,13 @@
         "source": "Wikipedia: Kingdom of Mutapa"
       },
       "openness": {
-        "value": "Open to trade, closed to rivals.",
+        "value": "Open to trade but wary of the Portuguese.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Mutapa"
       },
       "communicationTransport": {
-        "value": "Footpaths, rivers and messengers.",
+        "value": "Footpaths, rivers and messengers carried goods and news.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Mutapa"
@@ -230,31 +230,31 @@
         "source": "Wikipedia: Mutapa Empire (checked 13 Nov 2026)"
       },
       "languageWriting": {
-        "value": "Shona.",
+        "value": "Shona (with no writing before missionaries) and Portuguese records from outsiders.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Mutapa"
       },
       "artsArchitecture": {
-        "value": "Dry-stone walls.",
+        "value": "Dry-stone walled enclosures (zimbabwes) such as Khami and Danangombe.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Mutapa"
       },
       "socialStructure": {
-        "value": "Ruling lineage, chiefs, farmers.",
+        "value": "A ruling lineage, chiefs, and farmers who paid tribute.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Mutapa"
       },
       "sharedIdentity": {
-        "value": "Loyalty to the ruler and lineage.",
+        "value": "Loyalty to the ruler, the lineage and ancestral spirits.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Mutapa"
       },
       "dailyLife": {
-        "value": "Farming households in villages.",
+        "value": "Families farmed millet and sorghum, kept cattle, and lived in thatched homes in villages.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Mutapa"
@@ -268,7 +268,7 @@
         "source": "Wikipedia: Kingdom of Mutapa"
       },
       "ideasReligions": {
-        "value": "Spirit mediums (mhondoro).",
+        "value": "Belief in ancestral spirits (mhondoro), with mediums speaking for the dead.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Mutapa"
@@ -294,7 +294,7 @@
         "source": "Wikipedia: Kingdom of Mutapa (checked 13 Nov 2026)"
       },
       "declineSignals": {
-        "value": "Nguni and Ndebele invasions (1830s).",
+        "value": "Nguni and Ndebele invasions in the 1830s shattered the Rozvi state.",
         "year": 1834,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Mutapa"
