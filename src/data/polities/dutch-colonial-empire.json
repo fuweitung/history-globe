@@ -50,13 +50,13 @@
         "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
       },
       "terrain": {
-        "value": "Tropical islands and coasts.",
+        "value": "Tropical islands, coasts and river deltas.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
       },
       "climate": {
-        "value": "Tropical.",
+        "value": "Tropical, with monsoon rains.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
@@ -94,15 +94,15 @@
         "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
       },
       "migration": {
-        "value": "Javanese workers were sent to Suriname.",
-        "year": null,
+        "value": "Javanese workers were sent to Suriname from 1890, and Indian workers also went.",
+        "year": 1890,
         "certainty": "confirmed",
         "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
       }
     },
     "economy": {
       "economicBase": {
-        "value": "Export plantations, mining and oil.",
+        "value": "Export plantations (sugar, coffee, rubber), mining and oil.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
@@ -134,7 +134,7 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Governor-general under the Dutch crown.",
+        "value": "A governor-general ruled the Dutch East Indies under the Dutch crown.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
@@ -146,13 +146,13 @@
         "source": "Wikipedia: Dutch East Indies (checked 12 Nov 2026)"
       },
       "succession": {
-        "value": "Appointed governors.",
+        "value": "Governors were appointed in the Netherlands.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
       },
       "institutions": {
-        "value": "Colonial administration and courts.",
+        "value": "Colonial administration and courts, with local rulers kept in place in some regions.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
@@ -210,7 +210,7 @@
         "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
       },
       "openness": {
-        "value": "Closed.",
+        "value": "Closed: political rights were limited for the colonised.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
@@ -230,7 +230,7 @@
         "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
       },
       "languageWriting": {
-        "value": "Dutch and Malay (later Indonesian).",
+        "value": "Dutch was used by the administration, and Malay became the base of Indonesian.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
@@ -242,13 +242,13 @@
         "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
       },
       "socialStructure": {
-        "value": "Racial hierarchy.",
+        "value": "A racial hierarchy of Europeans, then “foreign orientals” and “natives”.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
       },
       "sharedIdentity": {
-        "value": "Rising Indonesian nationalism.",
+        "value": "A growing Indonesian nationalism in the 1900s.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
@@ -262,7 +262,7 @@
     },
     "connections": {
       "neighbours": {
-        "value": "British Malaya, Portuguese Timor.",
+        "value": "British Malaya, Portuguese Timor and Australian New Guinea.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
@@ -274,7 +274,7 @@
         "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
       },
       "colonisation": {
-        "value": "A colonial empire.",
+        "value": "A colonial empire, with forced cultivation and labour in the 1800s.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
@@ -288,8 +288,8 @@
         "source": "Wikipedia: Dutch East Indies (checked 12 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Around 1900–1930.",
-        "year": null,
+        "value": "Around 1900–1930, when Dutch control reached its widest extent.",
+        "year": 1915,
         "certainty": "estimated",
         "source": "Wikipedia: Dutch East Indies; Wikipedia: Dutch colonial empire"
       },
