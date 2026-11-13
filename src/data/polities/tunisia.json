@@ -42,10 +42,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "North Africa on the Mediterranean; about 163,000 km².",
+        "value": "North Africa; area 163,610 km²; capital and largest city Tunis.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Tunisia"
+        "source": "Wikipedia: Tunisia (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "A Mediterranean coastline with the Sahel plain, the Dorsal mountains and Medjerda valley in the north, and salt lakes and the Sahara in the south.",
@@ -74,10 +74,10 @@
     },
     "population": {
       "population": {
-        "value": "About 12 million people in the mid-2020s, most living along the coast.",
+        "value": "11,972,169 at the 2024 census (infobox); the text says 12.1 million without giving a year.",
         "year": 2024,
-        "certainty": "estimated",
-        "source": "Wikipedia: Tunisia"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Tunisia (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "About two-thirds of people live in cities; Tunis is the capital and largest city, followed by Sfax and Sousse.",
@@ -100,10 +100,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Tourism, olive oil, textiles and car parts made for Europe, and phosphate mining.",
-        "year": null,
+        "value": "Tourism was 7% of GDP and 370,000 jobs in 2009; the Sahel is among the world’s premier olive-growing areas; industry is mainly clothing and footwear, with car parts and electrical machinery. Phosphates are not covered in the part read.",
+        "year": 2009,
         "certainty": "confirmed",
-        "source": "Wikipedia: Tunisia"
+        "source": "Wikipedia: Tunisia (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Most trade is with the European Union under a 1995 association agreement, through ports such as Radès, Sfax and Bizerte.",
@@ -112,10 +112,10 @@
         "source": "Wikipedia: Tunisia"
       },
       "wealth": {
-        "value": "A lower-middle-income country, with richer coastal cities and poorer inland regions.",
-        "year": null,
+        "value": "HDI 0.746, high (105th, 2023).",
+        "year": 2023,
         "certainty": "confirmed",
-        "source": "Wikipedia: Tunisia"
+        "source": "Wikipedia: Tunisia (checked 13 Nov 2026)"
       },
       "moneyAndTax": {
         "value": "The Tunisian dinar, introduced in 1958 to replace the franc; income taxes and value-added tax.",
@@ -132,16 +132,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A presidential republic since 1957, with constitutions in 1959, 2014 and 2022.",
-        "year": null,
+        "value": "The republic was declared on 25 July 1957 with Bourguiba as first president; after a 2022 referendum (about 30% turnout) approved a new constitution strengthening the presidency, Tunisia became a unitary presidential republic.",
+        "year": 1957,
         "certainty": "confirmed",
-        "source": "Wikipedia: Tunisia"
+        "source": "Wikipedia: Tunisia (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Habib Bourguiba. Zine El Abidine Ben Ali. Kais Saied.",
+        "value": "Habib Bourguiba (prime minister at independence on 20 March 1956, president 1957–87, declared unfit in November 1987); Zine El Abidine Ben Ali (ousted on 14 January 2011, after 23 or 24 years); Kais Saied (sworn in 23 October 2019, suspended parliament on 25 July 2021, re-elected on 6 October 2024 with over 90% on a 28.8% turnout).",
         "year": 1956,
         "certainty": "confirmed",
-        "source": "Wikipedia: Tunisia"
+        "source": "Wikipedia: Tunisia (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Bourguiba was removed in 1987 and Ben Ali fled in 2011; since then presidents have been chosen in popular elections.",
@@ -156,10 +156,10 @@
         "source": "Wikipedia: Tunisia"
       },
       "stability": {
-        "value": "A revolution from December 2010 to January 2011 ended Ben Ali’s rule; terrorist attacks followed in 2015.",
+        "value": "Ben Ali took the presidency from Habib Bourguiba in November 1987 (7 November was celebrated as a holiday); he resigned and fled on 14 January 2011. On 25 July 2021 Kais Saied suspended parliament, dismissed the prime minister and withdrew MPs’ immunity.",
         "year": 2011,
         "certainty": "confirmed",
-        "source": "Wikipedia: Tunisia"
+        "source": "Wikipedia: Tunisia (checked 13 Nov 2026)"
       },
       "eliteConflict": {
         "value": "Competition between political parties and leaders.",
@@ -182,10 +182,10 @@
         "source": "Wikipedia: Tunisia"
       },
       "territoryChange": {
-        "value": "Borders unchanged since independence; France left its Bizerte naval base in 1963.",
-        "year": null,
+        "value": "French protectorate from 12 May 1881 (Treaty of Bardo); independence from France on 20 March 1956; republic declared on 25 July 1957.",
+        "year": 1881,
         "certainty": "confirmed",
-        "source": "Wikipedia: Tunisia"
+        "source": "Wikipedia: Tunisia (checked 13 Nov 2026)"
       },
       "alliancesRivals": {
         "value": "Joined the Arab League in 1958 and the African Union; close ties with France, the EU and the United States.",
@@ -222,10 +222,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Sunni Islam of the Maliki school is the faith of most people; a small Jewish community lives on Djerba.",
+        "value": "Around 98% Muslim in the text, 99% Sunni in the infobox. The Maliki school and the Jewish community are not covered in the part read.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Tunisia"
+        "source": "Wikipedia: Tunisia (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Arabic is the official language and Tunisian Arabic is spoken daily; French is widely used in business and education.",
@@ -280,10 +280,10 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Independence from France on 20 March 1956, after years of nationalist campaigning.",
-        "year": 1956,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Tunisia"
+        "value": "Legend credits Dido of Tyre with founding Carthage in 814 BC, as told by Timaeus of Tauromenium.",
+        "year": -814,
+        "certainty": "estimated",
+        "source": "Wikipedia: Tunisia (checked 13 Nov 2026)"
       },
       "peakPeriod": {
         "value": "Too recent to judge; it was seen as a democratic model after the 2011 revolution.",

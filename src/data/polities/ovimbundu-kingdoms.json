@@ -45,10 +45,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "The central highlands (Benguela plateau) of Angola, inland from the coastal towns of Benguela and Catumbela.",
+        "value": "The Bié Plateau of central Angola and a coastal strip west of the highlands, per the page on the Ovimbundu people.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ovimbundu"
+        "source": "Wikipedia: Ovimbundu (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "A high plateau mostly 1,500–2,000 m above sea level, with Mount Moco, Angola’s highest peak, at its western edge.",
@@ -77,10 +77,10 @@
     },
     "population": {
       "population": {
-        "value": "Unknown; probably several hundred thousand by the late 1800s, making the Ovimbundu one of Angola’s largest peoples.",
+        "value": "About 12.7 million (marked citation needed), 38% of Angola’s population.",
         "year": null,
         "certainty": "estimated",
-        "source": "Wikipedia: Ovimbundu"
+        "source": "Wikipedia: Ovimbundu (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Mostly villages; a royal or market town.",
@@ -103,16 +103,16 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming maize and beans, cattle herding and, above all, long-distance caravan trade for coastal merchants.",
-        "year": null,
+        "value": "Caravan trade between Benguela and peoples of the east; ivory, wax, rubber and honey came from neighbouring peoples such as the Chokwe, Luvale and Mbunda; slavery and the slave trade were integral. Caravan trading ended shortly after 1910.",
+        "year": 1910,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ovimbundu"
+        "source": "Wikipedia: Ovimbundu (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "Caravans linked Benguela and Catumbela on the coast to Bié and on to the Lunda, Katanga and the upper Zambezi.",
-        "year": null,
+        "value": "Caravans from Benguela traded with the Chokwe, Luvale and Mbunda for wax, rubber, honey and ivory; slavery was integral. Caravan trade ended shortly after 1910, after the Benguela Railway opened in 1904.",
+        "year": 1904,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ovimbundu"
+        "source": "Wikipedia: Ovimbundu (checked 13 Nov 2026)"
       },
       "wealth": {
         "value": "Kings and leading traders grew rich from the caravan trade, especially during the rubber boom of 1870s–1900.",
@@ -135,10 +135,10 @@
     },
     "politics": {
       "governmentType": {
-        "value": "About a dozen separate kingdoms, the strongest Mbailundu (Bailundo) and Bié, each with its own king and council.",
+        "value": "The page speaks only of “small kingdoms” that valued caravan trade; Bailundo, Bié and Huambo are not described as kingdoms on it, so the entry’s “about a dozen” is unconfirmed.",
         "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Ovimbundu"
+        "certainty": "estimated",
+        "source": "Wikipedia: Ovimbundu (checked 13 Nov 2026)"
       },
       "keyRulers": {
         "value": "Ndunduma of Bié, deposed by a Portuguese expedition in 1890, and Mutu-ya-Kevela, who led the 1902 Bailundo revolt.",
@@ -225,10 +225,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Traditional religion; missions from 1880.",
+        "value": "Today overwhelmingly Christian (mainly the IECA and the Catholic Church), with some traditional beliefs; the page does not date the missions.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Ovimbundu"
+        "source": "Wikipedia: Ovimbundu (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Umbundu, a Bantu language; it was first written down by Christian missionaries in the late 1800s.",
@@ -275,10 +275,10 @@
         "source": "Wikipedia: Ovimbundu"
       },
       "colonisation": {
-        "value": "Conquered by Portugal, which crushed the Bailundo revolt (1902–04).",
-        "year": 1904,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Ovimbundu"
+        "value": "The Portuguese set up a colonial base at Benguela in the 16th century; the article gives no conquest dates.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ovimbundu (checked 13 Nov 2026)"
       }
     },
     "riseFall": {
@@ -301,10 +301,10 @@
         "source": "Wikipedia: Ovimbundu"
       },
       "outcome": {
-        "value": "Became part of Portuguese Angola; the Ovimbundu are now Angola’s largest ethnic group.",
-        "year": 1904,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Ovimbundu"
+        "value": "Caravan trading ended shortly after 1910, and the Ovimbundu are about 38% of Angola’s population. The page does not describe the end of the kingdoms.",
+        "year": 1910,
+        "certainty": "estimated",
+        "source": "Wikipedia: Ovimbundu (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

@@ -45,10 +45,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Zanzibar, Pemba and the East African coast.",
+        "value": "The Zanzibar Archipelago, with its capital at Stone Town, plus a 16 km coastal strip of Kenya under Zanzibari sovereignty until 1963.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sultanate of Zanzibar"
+        "source": "Wikipedia: Sultanate of Zanzibar (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Low coral islands (Unguja and Pemba) with fertile soils in the west, plus a strip of the Swahili mainland coast until the 1880s.",
@@ -77,10 +77,10 @@
     },
     "population": {
       "population": {
-        "value": "Perhaps 200,000–300,000 on Unguja and Pemba in the late 1800s, a large share of them enslaved; about 300,000 by the 1950s.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Sultanate of Zanzibar"
+        "value": "300,000 in 1964: about 230,000 native Africans, 50,000 Arabs and 20,000 South Asians.",
+        "year": 1964,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Sultanate of Zanzibar (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Mostly villages; a royal capital and market towns.",
@@ -103,10 +103,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Clove and coconut plantations worked by enslaved people, the ivory trade, and slave trading until 1873; later cloves and copra.",
+        "value": "Said encouraged clove plantations worked by slave labour, and the East African slave trade flourished greatly in the later 19th century.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sultanate of Zanzibar"
+        "source": "Wikipedia: Sultanate of Zanzibar (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Caravans from Bagamoyo inland to Tabora, Lake Tanganyika and beyond brought ivory and captives to the coast; dhows and steamers linked it to Arabia and India.",
@@ -135,16 +135,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Sultanate; British protectorate from 1890.",
-        "year": null,
+        "value": "A sultanate that became a British protectorate under the Heligoland–Zanzibar Treaty of 1 July 1890. The protectorate ended on 10 December 1963 and Zanzibar became a constitutional monarchy; the sultan was overthrown on 12 January 1964.",
+        "year": 1890,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sultanate of Zanzibar"
+        "source": "Wikipedia: Sultanate of Zanzibar (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Sultans Majid bin Said (1856–70) and Barghash bin Said (1870–88); later Khalifa bin Harub (1911–60) under British rule.",
+        "value": "Majid bin Said (1856–1870) was the first sultan after Zanzibar split from Oman; then Barghash, Khalifa, Hamad (died 1896), Khalid (seized power 1896), Hamoud (installed by the British) and Jamshid (1963–64, the last).",
         "year": 1856,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sultanate of Zanzibar"
+        "source": "Wikipedia: Sultanate of Zanzibar (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Al Said family; Britain chose some sultans.",
@@ -179,10 +179,10 @@
         "source": "Wikipedia: Sultanate of Zanzibar"
       },
       "majorWars": {
-        "value": "The Anglo-Zanzibar War of 27 August 1896, under an hour long and often called the shortest war in history, settled a disputed succession.",
+        "value": "The Anglo-Zanzibar War lasted 38 minutes on the morning of 27 August 1896.",
         "year": 1896,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sultanate of Zanzibar"
+        "source": "Wikipedia: Sultanate of Zanzibar (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Lost the mainland to Germany and Britain (1886–90).",
@@ -225,10 +225,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Mostly Sunni Islam, while the ruling Omani family followed Ibadi Islam; Hindu and Christian minorities lived in town.",
+        "value": "Islam: the page calls it an East African Muslim state.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sultanate of Zanzibar"
+        "source": "Wikipedia: Sultanate of Zanzibar (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Swahili was the everyday language, written in Arabic script and later in Latin letters; Arabic was used at court and in religion.",
@@ -283,16 +283,16 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Sultan Said bin Sultan died in 1856; his sons split Oman and Zanzibar, a division confirmed by the Canning Award (1861).",
+        "value": "Said bin Sultan moved his court from Muscat to Stone Town, dated to 1832 or 1840; after his death his sons divided Zanzibar and Oman into two realms and the page dates the sultanate to 1856–1964.",
         "year": 1856,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Sultanate of Zanzibar"
+        "certainty": "disputed",
+        "source": "Wikipedia: Sultanate of Zanzibar (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Under Barghash (1870–88), when Zanzibar Town was East Africa’s main port and the House of Wonders was built.",
-        "year": 1870,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Sultanate of Zanzibar"
+        "value": "The page gives no peak; it says Said encouraged clove plantations, which relied on slave labour, and that Barghash helped abolish the slave trade (no dates given).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Sultanate of Zanzibar (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "Slave market closed (1873); protectorate (1890).",
@@ -301,10 +301,10 @@
         "source": "Wikipedia: Sultanate of Zanzibar"
       },
       "outcome": {
-        "value": "Revolution (1964); united with Tanganyika as Tanzania.",
+        "value": "British protectorate from 1890; the protectorate ended on 10 December 1963 (the UK did not grant independence as such); a revolution on 12 January 1964 deposed Sultan Jamshid, and the new People’s Republic merged with Tanganyika in April 1964.",
         "year": 1964,
         "certainty": "confirmed",
-        "source": "Wikipedia: Sultanate of Zanzibar"
+        "source": "Wikipedia: Sultanate of Zanzibar (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

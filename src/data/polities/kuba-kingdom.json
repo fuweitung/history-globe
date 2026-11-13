@@ -40,10 +40,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "The Kasai region of today’s DR Congo, between the Sankuru, Kasai and Lulua rivers.",
+        "value": "The region bordered by the Sankuru, Lulua and Kasai rivers in the DR Congo.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kuba Kingdom"
+        "source": "Wikipedia: Kuba Kingdom (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "A mix of forest and savanna cut by rivers.",
@@ -72,10 +72,10 @@
     },
     "population": {
       "population": {
-        "value": "Perhaps about 150,000 people in the 1800s.",
+        "value": "Not stated on the page; the kingdom included nineteen ethnic groups. The entry’s 150,000 is unconfirmed.",
         "year": null,
         "certainty": "estimated",
-        "source": "Wikipedia: Kuba Kingdom"
+        "source": "Wikipedia: Kuba Kingdom (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Mostly villages; a royal or market town.",
@@ -98,10 +98,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming maize, cassava and millet, and making fine raffia cloth, carvings and ironwork.",
+        "value": "Crops introduced from the Americas such as maize, tobacco, cassava and beans; known crafts include raffia embroidered textiles and carved palm-wine cups.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kuba Kingdom"
+        "source": "Wikipedia: Kuba Kingdom (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Traded ivory and later rubber to Atlantic markets through middlemen; cloth and cowries moved within the region.",
@@ -130,16 +130,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A monarchy ruled by a king (nyim) of the Bushong people, with a large council of titled officials.",
+        "value": "A king (nyim) from the Bushoong clan who answered to a court council in which all Kuba subgroups’ elites were represented equally.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kuba Kingdom"
+        "source": "Wikipedia: Kuba Kingdom (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Shyaam a-Mbul a-Ngwoong, the founding king (about 1625); Kot a-Pe, king when the Congo Free State arrived (around 1900).",
+        "value": "An outsider, Shyaam a-Mbul a Ngoong, took control of the region around 1625 and unified the chiefdoms.",
         "year": 1625,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kuba Kingdom"
+        "source": "Wikipedia: Kuba Kingdom (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "The king came from the royal clan, with brothers and nephews (on the mother’s side) as heirs.",
@@ -220,10 +220,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Traditional religion centred on the creator ancestor Woot, nature spirits and the sacred king.",
+        "value": "Woot is described as a supernatural being, the first human and bringer of civilisation.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kuba Kingdom"
+        "source": "Wikipedia: Kuba Kingdom (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Bushong (Kuba), a Bantu language; no writing until missionaries arrived.",
@@ -232,10 +232,10 @@
         "source": "Wikipedia: Kuba Kingdom"
       },
       "artsArchitecture": {
-        "value": "Raffia “Kasai velvet” cloth, ndop royal portrait statues, carved cups and masks such as Mwaash aMbooy.",
+        "value": "Known for raffia embroidered textiles, beaded hats, carved cups and boxes, and helmet masks.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kuba Kingdom"
+        "source": "Wikipedia: Kuba Kingdom (checked 13 Nov 2026)"
       },
       "socialStructure": {
         "value": "The king and royal clan, titled officials, artists and craftsmen, villagers, and slaves.",
@@ -270,24 +270,24 @@
         "source": "Wikipedia: Kuba Kingdom"
       },
       "colonisation": {
-        "value": "Brought under the Congo Free State (1899–1904); the American missionary William Sheppard reported rubber atrocities there.",
-        "year": 1899,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Kuba Kingdom"
+        "value": "Europeans first reached the area in 1884. The infobox says the state was disestablished in 1884; the text says the kingdom still exists under the nyim. The article does not resolve this.",
+        "year": 1884,
+        "certainty": "disputed",
+        "source": "Wikipedia: Kuba Kingdom (checked 13 Nov 2026)"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Shyaam a-Mbul a-Ngwoong united the Bushong and neighbouring groups (about 1625).",
+        "value": "Established about 1625 when Shyaam a-Mbul a Ngoong, an outsider, took over a local ruler’s position and united the chiefdoms.",
         "year": 1625,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kuba Kingdom"
+        "source": "Wikipedia: Kuba Kingdom (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "The 1700s–1800s, when the court produced its most famous art.",
-        "year": 1750,
-        "certainty": "estimated",
-        "source": "Wikipedia: Kuba Kingdom"
+        "value": "The kingdom reached its height in the mid-19th century; the Kuba are most famous for monumental helmet masks.",
+        "year": 1850,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kuba Kingdom (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "Violence and forced labour in the rubber trade after 1899.",

@@ -48,10 +48,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Central and northern Spain, from the Bay of Biscay coast around Santander south across the Meseta to Andalusia and Murcia.",
+        "value": "A polity in the Iberian Peninsula in the Middle Ages, now part of Spain.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Crown of Castile"
+        "source": "Wikipedia: Kingdom of Castile (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Mostly the high Meseta plateau, crossed by the Duero and Tagus rivers and ringed by mountains such as the Cantabrian range and the Guadarrama.",
@@ -80,10 +80,10 @@
     },
     "population": {
       "population": {
-        "value": "Perhaps 4–5 million by 1500, far more than the Crown of Aragon.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Crown of Castile"
+        "value": "About 3 million around 1300, up from about 1 million earlier. The page gives no figure for 1500.",
+        "year": 1300,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Crown of Castile (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Mostly rural; a few walled towns and a royal or ducal capital.",
@@ -106,10 +106,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Sheep herding, organised by the Mesta guild (1273), wool exports, and grain farming on the Meseta.",
+        "value": "Moorish rule had made Castile’s high central plateau a vast sheep pasturage; the page does not mention the Mesta or wool exports.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Crown of Castile"
+        "source": "Wikipedia: Kingdom of Castile (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Wool to Flanders through Burgos and Bilbao.",
@@ -138,16 +138,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A monarchy whose kings consulted the Cortes (assemblies of nobles, clergy and towns), which voted on taxes.",
+        "value": "Had no settled capital, according to the infobox.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Crown of Castile"
+        "source": "Wikipedia: Kingdom of Castile (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Alfonso VI, who took Toledo (1085); Ferdinand III, who united León and Castile (1230); Alfonso X the Wise; and Isabella I (1474–1504).",
-        "year": 1217,
+        "value": "The Catholic Monarchs: marriage at Valladolid in 1469; personal union of the Crowns in 1479.",
+        "year": 1469,
         "certainty": "confirmed",
-        "source": "Wikipedia: Crown of Castile"
+        "source": "Wikipedia: Kingdom of Castile (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Hereditary, and women could inherit, as Urraca and Isabella I did; disputes caused civil wars, as in 1366–69 and 1475–79.",
@@ -182,10 +182,10 @@
         "source": "Wikipedia: Crown of Castile"
       },
       "majorWars": {
-        "value": "Las Navas de Tolosa (1212); conquest of Seville (1248) and Granada (1492).",
-        "year": 1212,
+        "value": "Castile conquered Granada, the last Moorish state, in 1492, ending Muslim rule in Iberia; the page gives no dates for Las Navas de Tolosa or Seville.",
+        "year": 1492,
         "certainty": "confirmed",
-        "source": "Wikipedia: Crown of Castile"
+        "source": "Wikipedia: Kingdom of Castile (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Took Toledo (1085), most of Andalusia including Córdoba (1236) and Seville (1248), Murcia, and finally Granada (1492).",
@@ -228,10 +228,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Catholic, with Muslim and Jewish minorities; Jews were expelled in 1492, and Muslims were forced to convert from 1502.",
+        "value": "Roman Catholic, with Muslim and Sephardic Jewish minorities. In 1492 the monarchs decided that Jews who would not convert must leave; the page estimates 50,000 to 70,000 were expelled from Castile.",
         "year": 1492,
         "certainty": "confirmed",
-        "source": "Wikipedia: Crown of Castile"
+        "source": "Wikipedia: Crown of Castile (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Castilian Spanish, which Alfonso X made a language of law and scholarship; Antonio de Nebrija published the first Castilian grammar in 1492.",
@@ -286,16 +286,16 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Became a kingdom under Ferdinand I (1035), who also took León; Alfonso VI’s capture of Toledo in 1085 marked its rise.",
-        "year": 1035,
+        "value": "The name Castile first appears in a document of AD 800; Rodrigo is named as first count in 850; it became a separate kingdom from León in 1065.",
+        "year": 1065,
         "certainty": "confirmed",
-        "source": "Wikipedia: Crown of Castile"
+        "source": "Wikipedia: Kingdom of Castile (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "The reign of Isabella I (1474–1504), when Castile conquered Granada, backed Columbus and led a united Spain.",
-        "year": 1480,
+        "value": "Isabella I succeeded her brother and died in 1504; her 1469 marriage to Ferdinand II of Aragon began a union of the two kingdoms, which became a personal union after Ferdinand succeeded in Aragon in 1479. The page does not give 1474 as the start of her reign.",
+        "year": 1479,
         "certainty": "confirmed",
-        "source": "Wikipedia: Crown of Castile"
+        "source": "Wikipedia: Kingdom of Castile (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "No real decline; after Isabella’s death (1504) it passed to her daughter Joanna and merged into Spain under Charles I (1516).",
@@ -304,10 +304,10 @@
         "source": "Wikipedia: Crown of Castile"
       },
       "outcome": {
-        "value": "United with Aragon to form Spain (1516).",
-        "year": 1516,
+        "value": "Permanent union with León from 23 September 1230. Toledo was taken in 1085 and Granada in 1492. The Crowns of Castile and Aragon were united in a personal union in 1479.",
+        "year": 1230,
         "certainty": "confirmed",
-        "source": "Wikipedia: Crown of Castile"
+        "source": "Wikipedia: Kingdom of Castile (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

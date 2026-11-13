@@ -98,10 +98,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming of maize, cassava, cotton, coffee and cocoa, phosphate mining, and the port of Lomé, a hub for re-exports.",
+        "value": "Agriculture is the backbone: cotton is a cash crop and coffee, cocoa and peanuts give about 30% of export earnings. Togo has the world’s fourth-largest phosphate deposits (about 2.1 million tons a year) and the Port of Lomé is its only large container port.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Togo"
+        "source": "Wikipedia: Togo (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "The deep-water Port of Lomé serves Togo and landlocked Burkina Faso, Niger and Mali; a coastal highway links Lagos and Abidjan.",
@@ -130,10 +130,10 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A republic dominated by the Gnassingbé family since 1967; a 2024 constitution changed it to a parliamentary system.",
-        "year": null,
+        "value": "Described as an authoritarian parliamentary republic. A new constitution (adopted 6 May 2024, in force 3 May 2025) moved Togo from a presidential to a parliamentary system; Faure Gnassingbé, in power since 2005, is President of the Council of Ministers.",
+        "year": 2025,
         "certainty": "confirmed",
-        "source": "Wikipedia: Togo"
+        "source": "Wikipedia: Togo (checked 13 Nov 2026)"
       },
       "keyRulers": {
         "value": "Gnassingbé Eyadéma (took power in a coup on 13 January 1967; died 5 February 2005); Faure Gnassingbé (took office in February 2005).",
@@ -220,10 +220,10 @@
     },
     "culture": {
       "religion": {
-        "value": "A mix of Christians, Muslims (mostly in the north) and followers of traditional religions such as Vodun.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Togo"
+        "value": "2022 census: Christian 49.2%, Muslim 18.6%, traditional faiths 17.0%, no religion 9.4%.",
+        "year": 2022,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Togo (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "French is official; Ewe in the south and Kabiyè in the north are national languages, both written in the Latin alphabet.",

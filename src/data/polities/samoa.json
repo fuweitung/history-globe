@@ -41,10 +41,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "The western Samoan Islands in the South Pacific: Upolu and Savai’i plus smaller islands, about 2,840 km² in total.",
+        "value": "South Pacific; land area 2,842 km² in the text, 2,831 km² in the infobox and 2,934 km² in a farming passage, so the figures conflict.",
         "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Samoa"
+        "certainty": "disputed",
+        "source": "Wikipedia: Samoa (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Volcanic islands with rugged mountainous interiors, rainforest and coastal plains; Savai’i rises to about 1,860 m at Mount Silisili.",
@@ -73,10 +73,10 @@
     },
     "population": {
       "population": {
-        "value": "About 220,000 people, almost all Samoan; around three-quarters live on Upolu.",
-        "year": 2024,
-        "certainty": "estimated",
-        "source": "Wikipedia: Samoa"
+        "value": "205,557 at the 2021 census (194,320 in 2016).",
+        "year": 2021,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Samoa (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Mostly rural villages; Apia on Upolu is the capital and only town, home to roughly 35,000–40,000 people.",
@@ -99,10 +99,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Money sent home by Samoans abroad, tourism, fishing and farming of coconuts, taro and cocoa, plus foreign aid.",
-        "year": null,
+        "value": "Agriculture employs two-thirds of the workforce and provides 90% of exports; tourism was about 20% of GDP in 2024 (24.5% in 2019). Remittances are not covered in the part of the page read.",
+        "year": 2024,
         "certainty": "confirmed",
-        "source": "Wikipedia: Samoa"
+        "source": "Wikipedia: Samoa (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Sea and air links mainly with New Zealand, Australia and American Samoa; Faleolo International Airport serves Upolu.",
@@ -111,10 +111,10 @@
         "source": "Wikipedia: Samoa"
       },
       "wealth": {
-        "value": "Classed by the World Bank as lower- or upper-middle income in different years; many families depend on money from relatives overseas.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Samoa"
+        "value": "HDI 0.708, high (122nd, 2023).",
+        "year": 2023,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Samoa (checked 13 Nov 2026)"
       },
       "moneyAndTax": {
         "value": "The tālā (Samoan dollar), introduced in 1967; the government also collects a value-added goods and services tax.",
@@ -131,16 +131,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A parliamentary democracy with chiefly (matai) voting until 1990.",
-        "year": null,
+        "value": "A unitary parliamentary republic with a 51-seat Fono; 49 seats go to matai (chiefly title-holders) and only matai can stand for them. Universal suffrage was adopted in 1990.",
+        "year": 1990,
         "certainty": "confirmed",
-        "source": "Wikipedia: Samoa"
+        "source": "Wikipedia: Samoa (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Malietoa Tanumafili II. Fiamē Mata’afa. Fiamē Naomi Mata’afa.",
-        "year": 1962,
+        "value": "Tuilaʻepa Saʻilele Malielegaoi’s 22-year premiership ended in 2021; Fiamē Naomi Mataʻafa became the first female prime minister in May 2021; the head of state is Tuimalealiʻifano Vaʻaletoʻa Sualauvi II (elected 2017 and 2022). Malietoa Tanumafili II is not covered in the part of the page read.",
+        "year": 2021,
         "certainty": "confirmed",
-        "source": "Wikipedia: Samoa"
+        "source": "Wikipedia: Samoa (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Elections to the Fono choose the government; the Fono elects the head of state (O le Ao o le Malo) for five-year terms.",
@@ -221,10 +221,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Almost entirely Christian: Congregational, Catholic, Methodist, Latter-day Saint and other churches.",
-        "year": null,
+        "value": "2021: Christian 97.9% (Protestant 54.9%, Catholic 18.8%, Mormon 16.9%); Parliament made Christianity the state religion in 2017.",
+        "year": 2021,
         "certainty": "confirmed",
-        "source": "Wikipedia: Samoa"
+        "source": "Wikipedia: Samoa (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Samoan, a Polynesian language spoken by nearly everyone and written in the Latin alphabet since missionaries arrived in the 1830s, and English.",
@@ -271,18 +271,18 @@
         "source": "Wikipedia: Samoa"
       },
       "colonisation": {
-        "value": "German (1900–14), then New Zealand (1914–62).",
+        "value": "The German Empire governed western Samoa from 1900 to 1914; New Zealand then controlled it until 1962 as a Class C Mandate.",
         "year": 1900,
         "certainty": "confirmed",
-        "source": "Wikipedia: Samoa"
+        "source": "Wikipedia: Samoa (checked 13 Nov 2026)"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Independence on 1 January 1962 as Western Samoa, ending New Zealand rule under a UN trusteeship.",
-        "year": 1962,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Samoa"
+        "value": "The Lapita people settled the Samoan Islands around 3,500 years ago; the earliest human remains are dated 2,900 to 3,500 years ago.",
+        "year": -1500,
+        "certainty": "estimated",
+        "source": "Wikipedia: Samoa (checked 13 Nov 2026)"
       },
       "peakPeriod": {
         "value": "Too recent to judge; growth in tourism and remittances since the 1990s has raised living standards.",
@@ -297,10 +297,10 @@
         "source": "Wikipedia: Samoa"
       },
       "outcome": {
-        "value": "Still an independent country; it changed its name from Western Samoa to Samoa in 1997.",
-        "year": null,
+        "value": "Independence as Western Samoa, effective 1 January 1962.",
+        "year": 1962,
         "certainty": "confirmed",
-        "source": "Wikipedia: Samoa"
+        "source": "Wikipedia: Samoa (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

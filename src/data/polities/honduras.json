@@ -40,10 +40,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Central America, with a long Caribbean coast in the north and a short Pacific shore on the Gulf of Fonseca; about 112,000 km².",
+        "value": "Central America, with coasts on the Caribbean and the Pacific; about 112,492 km².",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Honduras"
+        "source": "Wikipedia: Honduras (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Mostly mountains and high valleys, with Lake Yojoa in the centre, the Caribbean lowlands in the north and the Mosquitia forests in the east.",
@@ -72,10 +72,10 @@
     },
     "population": {
       "population": {
-        "value": "About 10 million people (2024), up from roughly 300,000 at independence in the 1800s.",
-        "year": 2024,
+        "value": "10,278,345 (2021, per the article’s body); the infobox gives 10,186,738 for 2026.",
+        "year": 2021,
         "certainty": "confirmed",
-        "source": "Wikipedia: Honduras"
+        "source": "Wikipedia: Honduras (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "About 60% live in towns; the capital Tegucigalpa and the industrial city of San Pedro Sula are by far the largest.",
@@ -98,10 +98,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Exports of coffee, bananas and palm oil, clothing made in maquila factories, and money sent home by emigrants (remittances).",
-        "year": null,
+        "value": "Coffee was the leading export (US$340 million, 22% of export revenue in 2013); bananas were formerly the second-largest export; the maquila (clothing assembly) sector was the third-largest in the world in 2000, employing over 120,000 people; remittances are more than a quarter of GDP. Palm oil is not mentioned on the page.",
+        "year": 2013,
         "certainty": "confirmed",
-        "source": "Wikipedia: Honduras"
+        "source": "Wikipedia: Honduras (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Puerto Cortés on the Caribbean is the main port; San Lorenzo serves the Pacific, and highways link Honduras to its neighbours.",
@@ -110,10 +110,10 @@
         "source": "Wikipedia: Honduras"
       },
       "wealth": {
-        "value": "A lower-middle-income country and one of the poorer nations of the Americas, with many people living in poverty.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Honduras"
+        "value": "HDI 0.645, medium (139th, infobox, 2023). The body gives 0.624 (138th) with no year, so the figures conflict.",
+        "year": 2023,
+        "certainty": "disputed",
+        "source": "Wikipedia: Honduras (checked 13 Nov 2026)"
       },
       "moneyAndTax": {
         "value": "The lempira, introduced in 1931 and named after a Lenca leader who resisted the Spanish; taxes include a sales tax and income tax.",
@@ -130,10 +130,10 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A presidential republic under the 1982 constitution, with a president, a single-chamber National Congress and a Supreme Court.",
+        "value": "A unitary presidential republic with a 128-member National Congress. The 1982 constitution is not mentioned on the page.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Honduras"
+        "source": "Wikipedia: Honduras (checked 13 Nov 2026)"
       },
       "keyRulers": {
         "value": "Francisco Morazán. Tiburcio Carías Andino. Xiomara Castro.",
@@ -154,10 +154,10 @@
         "source": "Wikipedia: Honduras"
       },
       "stability": {
-        "value": "Coups and dictatorships were common until 1982; in the early 2010s it had one of the world’s highest murder rates, linked to gangs and drug trafficking.",
-        "year": 2010,
+        "value": "A 1963 military coup removed President Ramón Villeda Morales; a 2009 coup toppled Manuel Zelaya.",
+        "year": 1963,
         "certainty": "confirmed",
-        "source": "Wikipedia: Honduras"
+        "source": "Wikipedia: Honduras (checked 13 Nov 2026)"
       },
       "eliteConflict": {
         "value": "Competition between political parties and leaders.",
@@ -174,10 +174,10 @@
         "source": "Wikipedia: Honduras"
       },
       "majorWars": {
-        "value": "The brief Football War with El Salvador (July 1969), set off by border and migration tensions during World Cup qualifying matches.",
+        "value": "The Football War with El Salvador: El Salvador invaded on 14 July 1969, the OAS arranged a ceasefire effective 20 July, and as many as 130,000 Salvadoran immigrants were expelled afterwards.",
         "year": 1969,
         "certainty": "confirmed",
-        "source": "Wikipedia: Honduras"
+        "source": "Wikipedia: Honduras (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Gained the Bay Islands by a treaty with Britain (1859); border disputes with Nicaragua (1960) and El Salvador (1992) were settled at the World Court.",
@@ -220,10 +220,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Mostly Christian: once mainly Catholic, but evangelical Protestant churches have grown fast and now include a large share of people.",
+        "value": "Sources differ: the 2025 CIA Factbook gives 55% Protestant and 34% Catholic, while a 2008 religious freedom report gave 51.4% Catholic and 36.2% evangelical Protestant.",
         "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Honduras"
+        "certainty": "disputed",
+        "source": "Wikipedia: Honduras (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Spanish is official; Garifuna, Miskito, Lenca heritage and other Indigenous languages, and English creole on the Bay Islands.",
@@ -278,10 +278,10 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Left the collapsing Federal Republic of Central America and became a separate independent republic in 1838.",
-        "year": 1838,
+        "value": "The Spanish conquest began in 1524, when Gil González Dávila entered the country; Maya civilisation (centred on Copán) was in the west before that.",
+        "year": 1524,
         "certainty": "confirmed",
-        "source": "Wikipedia: Honduras"
+        "source": "Wikipedia: Honduras (checked 13 Nov 2026)"
       },
       "peakPeriod": {
         "value": "Hard to judge for a living country; return to civilian rule in 1982 and growth in the 1990s and 2000s are often seen as high points.",
@@ -296,10 +296,10 @@
         "source": "Wikipedia: Honduras"
       },
       "outcome": {
-        "value": "Still in existence as an independent republic in Central America, with its capital at Tegucigalpa.",
-        "year": null,
+        "value": "Independence from Spain in 1821; the article also gives 1838 as the date of separate statehood after the Federal Republic of Central America.",
+        "year": 1821,
         "certainty": "confirmed",
-        "source": "Wikipedia: Honduras"
+        "source": "Wikipedia: Honduras (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

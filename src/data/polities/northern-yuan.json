@@ -43,10 +43,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Mongolia and Inner Mongolia, from the Oirat lands of the Altai in the west to the Khingan Mountains in the east, north of the Ming Great Wall.",
-        "year": null,
+        "value": "At the height of Dayan Khan’s reign it stretched from the Siberian tundra and Lake Baikal in the north across the Gobi into the Ordos.",
+        "year": 1500,
         "certainty": "confirmed",
-        "source": "Wikipedia: Northern Yuan"
+        "source": "Wikipedia: Northern Yuan (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Grassy steppe, the Gobi Desert, the Khangai and Altai mountains, and the Ordos plateau inside the Yellow River bend.",
@@ -75,10 +75,10 @@
     },
     "population": {
       "population": {
-        "value": "Unknown; few records survive, and herders spread thinly across the steppe were never fully counted.",
+        "value": "Not stated on the page.",
         "year": null,
         "certainty": "estimated",
-        "source": "Wikipedia: Northern Yuan"
+        "source": "Wikipedia: Northern Yuan (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Mostly nomadic; a few towns such as Hohhot.",
@@ -101,10 +101,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Herding; trade with Ming China at border markets.",
-        "year": null,
+        "value": "The Ming reopened trade with the three Right Wing Tumens in 1571; a lack of trade drove repeated raids into China; the infobox lists barter and the dirham as currency.",
+        "year": 1571,
         "certainty": "confirmed",
-        "source": "Wikipedia: Northern Yuan"
+        "source": "Wikipedia: Northern Yuan (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Horse markets on the Ming frontier, opened after the 1571 peace with Altan Khan, where horses were traded for silk, tea, grain and iron goods.",
@@ -133,16 +133,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A khanate claiming the Yuan title: a Great Khan of Genghis Khan’s line ruled over tumens (large tribal units), though regional lords were often stronger.",
+        "value": "A dynastic state ruled by the Mongol Borjigin clan, in which the Great Khan’s role became often only nominal.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Northern Yuan"
+        "source": "Wikipedia: Northern Yuan (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Dayan Khan (ruled about 1480–1517), who reunited the eastern Mongols; Altan Khan (died 1582); and Ligdan Khan (1604–34), the last Great Khan.",
-        "year": 1500,
+        "value": "Toghon Temür retreated north in 1368 and died at Yingchang in 1370; Biligtü ruled 1370–1378; Esen Taishi took the Yuan imperial title in 1453; Dayan Khan and Mandukhai reunited most Mongol tribes in the late 15th century; Ligdan Khan ruled 1604–1634.",
+        "year": 1368,
         "certainty": "confirmed",
-        "source": "Wikipedia: Northern Yuan"
+        "source": "Wikipedia: Northern Yuan (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Within the Genghisid line, often disputed.",
@@ -177,10 +177,10 @@
         "source": "Wikipedia: Northern Yuan"
       },
       "majorWars": {
-        "value": "Wars with the Ming (Tumu Crisis, 1449, when the Oirats captured the Ming emperor).",
+        "value": "The Ming sacked Karakorum in 1380; at the Tumu Crisis of 1449 Esen defeated a 500,000-strong Ming army and captured the Zhengtong Emperor.",
         "year": 1449,
         "certainty": "confirmed",
-        "source": "Wikipedia: Northern Yuan"
+        "source": "Wikipedia: Northern Yuan (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Lost Inner Mongolia to the Later Jin (Qing) in 1635.",
@@ -223,10 +223,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Tibetan Buddhism from 1578, alongside shamanism.",
-        "year": 1578,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Northern Yuan"
+        "value": "Tengrism, Buddhism and Islam (infobox); Altan Khan and Sechen received the 3rd Dalai Lama in 1577 (the page says 1577, not 1578), beginning mass conversion to Tibetan Buddhism.",
+        "year": 1577,
+        "certainty": "disputed",
+        "source": "Wikipedia: Northern Yuan (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Mongolian, written in the Uyghur-derived Mongolian script; many Buddhist texts were translated, and the Kangyur was completed under Ligdan Khan.",
@@ -281,16 +281,16 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "The Yuan court fled Dadu (Beijing) for the steppe in 1368 as Ming armies advanced, keeping the Yuan title in Mongolia.",
+        "value": "Dated from 1368, when the Ming took Dadu and Toghon Temür fled north; capitals Shangdu, Yingchang, then Karakorum (1371–1388).",
         "year": 1368,
         "certainty": "confirmed",
-        "source": "Wikipedia: Northern Yuan"
+        "source": "Wikipedia: Northern Yuan (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Under Dayan Khan and Altan Khan (about 1480–1580).",
-        "year": 1550,
-        "certainty": "estimated",
-        "source": "Wikipedia: Northern Yuan"
+        "value": "Dayan Khan reunited the Mongols from 1483 to 1510 and divided the realm among his sons; Esen Taishi (1438–1454) brought the Oirats to their height.",
+        "year": 1483,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Northern Yuan (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "Long divisions between eastern Mongols and Oirats, Ligdan Khan’s failed attempt to reunite them, and the rise of the Manchus in the early 1600s.",
@@ -299,10 +299,10 @@
         "source": "Wikipedia: Northern Yuan"
       },
       "outcome": {
-        "value": "Absorbed by the Manchu Later Jin in 1635.",
+        "value": "Ligdan Khan (1604–1634) died in 1634; his son Ejei Khan surrendered the Imperial Seal to Hong Taiji in February 1635, ending Kublaid rule.",
         "year": 1635,
         "certainty": "confirmed",
-        "source": "Wikipedia: Northern Yuan"
+        "source": "Wikipedia: Northern Yuan (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

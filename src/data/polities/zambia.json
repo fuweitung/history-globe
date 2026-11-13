@@ -131,16 +131,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A presidential republic.",
+        "value": "A unitary presidential republic with a multi-party system.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Zambia"
+        "source": "Wikipedia: Zambia (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Kenneth Kaunda. Frederick Chiluba. Hakainde Hichilema.",
+        "value": "Kenneth Kaunda (1964–91, lost the 1991 election), Frederick Chiluba (from 1991), Michael Sata (2011–2014), Edgar Lungu (from 2015) and Hakainde Hichilema (won 2021 with 59%, sworn in 24 August 2021).",
         "year": 1964,
         "certainty": "confirmed",
-        "source": "Wikipedia: Zambia"
+        "source": "Wikipedia: Zambia (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "One-party state (1972–91); peaceful elections since.",
@@ -221,10 +221,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Mostly Christian (declared a Christian nation, 1991).",
-        "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Zambia"
+        "value": "Sources differ: the infobox gives 95.5% Christian and the text cites 98.0% (2022). The 1991 declaration of a Christian nation is not covered in the part of the page read.",
+        "year": 2022,
+        "certainty": "disputed",
+        "source": "Wikipedia: Zambia (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "English; Bemba, Nyanja, Tonga.",

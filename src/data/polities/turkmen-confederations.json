@@ -46,10 +46,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Eastern Anatolia, Azerbaijan, Iraq, western Iran.",
-        "year": null,
+        "value": "The Aq Qoyunlu ruled parts of eastern Turkey from 1378 to 1508 and later held Armenia, Azerbaijan, much of Iran, Iraq and Oman; the Kara Koyunlu held present-day Azerbaijan, Armenia and parts of north-west Iran, eastern Turkey and north-east Iraq.",
+        "year": 1378,
         "certainty": "confirmed",
-        "source": "Wikipedia: Aq Qoyunlu"
+        "source": "Wikipedia: Aq Qoyunlu and Kara Koyunlu (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Highlands of eastern Anatolia and Azerbaijan, Mesopotamian plains and the Iranian plateau.",
@@ -142,10 +142,10 @@
         "source": "Wikipedia: Aq Qoyunlu"
       },
       "keyRulers": {
-        "value": "Qara Yusuf and Jahan Shah (Kara Koyunlu); Uzun Hasan and Ya’qub (Aq Qoyunlu).",
+        "value": "Kara Koyunlu: Qara Yusuf (took Tabriz and executed Shaykh Uways in 1410) and Jahan Shah (crowned 1438, died at Chapakchur in 1467). Aq Qoyunlu: Uzun Hasan (seized power 1452, reunified the state 1457, zenith) and Yaqub (1478–1490).",
         "year": 1410,
         "certainty": "confirmed",
-        "source": "Wikipedia: Aq Qoyunlu"
+        "source": "Wikipedia: Aq Qoyunlu and Kara Koyunlu (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Contested between brothers and sons, often by war.",
@@ -180,10 +180,10 @@
         "source": "Wikipedia: Aq Qoyunlu"
       },
       "majorWars": {
-        "value": "Aq Qoyunlu defeat the Kara Koyunlu (1467); Otlukbeli (1473).",
-        "year": 1467,
+        "value": "Timur defeated the Qara Qoyunlu in 1400 and Qara Yusuf fled to Egypt; Uzun Hasan lost to the Ottomans at Otlukbeli but the dynasty survived.",
+        "year": 1400,
         "certainty": "confirmed",
-        "source": "Wikipedia: Aq Qoyunlu"
+        "source": "Wikipedia: Aq Qoyunlu and Kara Koyunlu (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "The Aq Qoyunlu defeated the Kara Koyunlu (1467) and took most of Iran.",
@@ -226,10 +226,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Islam: Kara Koyunlu leaned Shia, Aq Qoyunlu Sunni.",
+        "value": "The Aq Qoyunlu are listed as Sunni, though Uzun Hasan kept ties to Shi’ism-leaning dervish orders. For the Kara Koyunlu, Minorsky wrote that they adopted Shia Islam as a unifying ideology while Bosworth disputed strong Shi’i sympathies among many Turkmen.",
         "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Aq Qoyunlu"
+        "certainty": "disputed",
+        "source": "Wikipedia: Aq Qoyunlu and Kara Koyunlu (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Turkic and Persian.",
@@ -284,16 +284,16 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Rise after Timur’s death (1405).",
-        "year": 1405,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Aq Qoyunlu"
+        "value": "Aq Qoyunlu: founded in the Diyarbakır region by Qara Yuluk Uthman Beg, ruling from 1378. Qara Qoyunlu: dated from about 1374 in the article and about 1375 in a cited Britannica line, so the start differs by a year.",
+        "year": 1378,
+        "certainty": "disputed",
+        "source": "Wikipedia: Aq Qoyunlu and Kara Koyunlu (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Uzun Hasan’s reign (1453–78).",
-        "year": 1470,
+        "value": "The Aq Qoyunlu reached their zenith under Uzun Hasan, who moved to a new capital at Tabriz (Tabriz 1468–1478, Âmid/Diyarbakır 1403–1468 in the infobox). He beat Jahan Shah of the Qara Qoyunlu at Chapakchur in 1467.",
+        "year": 1467,
         "certainty": "confirmed",
-        "source": "Wikipedia: Aq Qoyunlu"
+        "source": "Wikipedia: Aq Qoyunlu and Kara Koyunlu (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "Civil war after 1490.",
@@ -302,10 +302,10 @@
         "source": "Wikipedia: Aq Qoyunlu"
       },
       "outcome": {
-        "value": "Replaced by the Safavids (1501–08).",
-        "year": 1508,
+        "value": "Qara Qoyunlu ended 1467–1468 after Jahan Shah died at Chapakchur. Aq Qoyunlu: Ismail I’s Safavids beat them at Nakhchivan in 1501; the infobox gives summer 1503 for the collapse in Iran and 1508 for the end in Mesopotamia.",
+        "year": 1468,
         "certainty": "confirmed",
-        "source": "Wikipedia: Aq Qoyunlu"
+        "source": "Wikipedia: Aq Qoyunlu and Kara Koyunlu (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

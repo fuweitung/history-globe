@@ -42,10 +42,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "The central Alps and Swiss plateau; about 40,000 km².",
-        "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Old Swiss Confederacy"
+        "value": "The page gives no area in km². The confederacy grew by purchase and conquest, adding Aargau in 1415, Thurgau in 1460 and Ticino by 1515.",
+        "year": 1415,
+        "certainty": "estimated",
+        "source": "Wikipedia: Old Swiss Confederacy (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "The high Alps in the south, the Jura hills in the north-west, and the lower Swiss plateau with its lakes between them.",
@@ -74,10 +74,10 @@
     },
     "population": {
       "population": {
-        "value": "Roughly 800,000 people around 1500, rising to about 1.7 million by 1798.",
+        "value": "Not stated on the page. The entry’s 1.7 million in 1798 is unconfirmed.",
         "year": 1798,
         "certainty": "estimated",
-        "source": "Wikipedia: Old Swiss Confederacy"
+        "source": "Wikipedia: Old Swiss Confederacy (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Mostly villages; the main cities were Zürich, Bern, Basel and Lucerne, each with perhaps 5,000–10,000 people around 1500, plus allied Geneva.",
@@ -100,10 +100,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Herding, mercenary service, later textiles and watches.",
+        "value": "Many Swiss served privately as mercenaries in the Italian Wars.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Old Swiss Confederacy"
+        "source": "Wikipedia: Old Swiss Confederacy (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "The Gotthard Pass, opened to traffic around 1230, linked Germany with Milan; Basel and Geneva were trade hubs on the Rhine and Rhône.",
@@ -132,16 +132,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A loose league of self-governing cantons.",
-        "year": null,
+        "value": "A loose confederation of independent small states that grew from eight to thirteen cantons by the early 1500s, with allied associates and jointly ruled territories alongside the full members.",
+        "year": 1500,
         "certainty": "confirmed",
-        "source": "Wikipedia: Old Swiss Confederacy"
+        "source": "Wikipedia: Old Swiss Confederacy (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "No single ruler; leaders such as Huldrych Zwingli (religious).",
+        "value": "No single ruler: a loose confederation of independent small states whose diet was the Tagsatzung. Zwingli is not named on the page, which says only that the Reformation split the cantons into Protestant and Catholic camps (the Wars of Kappel).",
         "year": 1519,
         "certainty": "confirmed",
-        "source": "Wikipedia: Old Swiss Confederacy"
+        "source": "Wikipedia: Old Swiss Confederacy (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "No monarch: cantons were run by councils in the cities and by open-air assemblies (Landsgemeinde) in rural cantons such as Uri and Schwyz.",
@@ -156,10 +156,10 @@
         "source": "Wikipedia: Old Swiss Confederacy"
       },
       "stability": {
-        "value": "Fairly stable but split by religious wars at Kappel (1529, 1531) and Villmergen (1656, 1712), and by the Peasants’ War of 1653.",
-        "year": 1531,
+        "value": "The Reformation divided the cantons into Protestant and Catholic; Wars of Kappel in 1529 and 1531.",
+        "year": 1529,
         "certainty": "confirmed",
-        "source": "Wikipedia: Old Swiss Confederacy"
+        "source": "Wikipedia: Old Swiss Confederacy (checked 13 Nov 2026)"
       },
       "eliteConflict": {
         "value": "After the Reformation, Catholic central cantons opposed Protestant cities such as Zürich and Bern; city and rural cantons also clashed.",
@@ -176,10 +176,10 @@
         "source": "Wikipedia: Old Swiss Confederacy"
       },
       "majorWars": {
-        "value": "Battles of Morgarten (1315) and Sempach (1386); Burgundian Wars (1474–77).",
-        "year": 1315,
+        "value": "Victories over the Habsburgs in 1315 (battle not named), at Sempach in 1386 and at Näfels in 1388; the “Burgundy Wars of the 1470s” (no exact years); the confederacy fell to a French invasion in 1798.",
+        "year": 1386,
         "certainty": "confirmed",
-        "source": "Wikipedia: Old Swiss Confederacy"
+        "source": "Wikipedia: Old Swiss Confederacy (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Grew from 3 founding cantons (Uri, Schwyz, Unterwalden) in 1291 to 13 cantons by 1513, plus allied and subject lands.",
@@ -222,10 +222,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Catholic and Reformed Protestant (Zwingli, Calvin).",
-        "year": 1523,
+        "value": "The Reformation led to doctrinal division among the cantons; the page does not name Zwingli.",
+        "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Old Swiss Confederacy"
+        "source": "Wikipedia: Old Swiss Confederacy (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Mostly Swiss German dialects, with French in western lands such as Vaud and Italian in Ticino; German was used for official records.",
@@ -280,16 +280,16 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "The Federal Charter of 1291, an alliance between Uri, Schwyz and Unterwalden; later legend linked it to the Rütli oath and William Tell.",
+        "value": "The Federal Charter of 1291 among Uri, Schwyz and Unterwalden, regarded since 1889 as the founding document.",
         "year": 1291,
         "certainty": "confirmed",
-        "source": "Wikipedia: Old Swiss Confederacy"
+        "source": "Wikipedia: Old Swiss Confederacy (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Military high point around 1500, after victories over Burgundy (1476–77) and in the Swabian War (1499), and control of Milan (1512–15).",
-        "year": 1500,
+        "value": "Expanded to eight cantons, then ten in 1481, twelve in 1501 and thirteen by 1513.",
+        "year": 1513,
         "certainty": "confirmed",
-        "source": "Wikipedia: Old Swiss Confederacy"
+        "source": "Wikipedia: Old Swiss Confederacy (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "Defeat at Marignano (1515) led to neutrality.",
@@ -298,10 +298,10 @@
         "source": "Wikipedia: Old Swiss Confederacy"
       },
       "outcome": {
-        "value": "Conquered by France (1798) and replaced by the Helvetic Republic.",
+        "value": "Recognised as independent of the Holy Roman Empire in 1648; fell to a French invasion in 1798 and became the Helvetic Republic.",
         "year": 1798,
         "certainty": "confirmed",
-        "source": "Wikipedia: Old Swiss Confederacy"
+        "source": "Wikipedia: Old Swiss Confederacy (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

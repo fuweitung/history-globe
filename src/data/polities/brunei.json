@@ -41,10 +41,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "The north-west coast of Borneo, in two parts split by the Malaysian state of Sarawak; about 5,765 km².",
+        "value": "North-west Borneo in two unconnected parts; total area 5,765 km².",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Brunei"
+        "source": "Wikipedia: Brunei (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "A low coastal plain with rivers and swamps; tropical rainforest in the hills, especially in Temburong district.",
@@ -73,10 +73,10 @@
     },
     "population": {
       "population": {
-        "value": "About 450,000–460,000 people in the mid-2020s, including many foreign workers.",
-        "year": 2024,
-        "certainty": "estimated",
-        "source": "Wikipedia: Brunei"
+        "value": "458,600 (2025 estimate) and 440,715 (2021 census) in the infobox, but 466,330 (2025) in the text and 445,373 (2021, UN) in the body, so the sources differ.",
+        "year": 2025,
+        "certainty": "disputed",
+        "source": "Wikipedia: Brunei (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Most people live in towns; the capital Bandar Seri Begawan includes the water village Kampong Ayer, and Seria and Kuala Belait are oil towns.",
@@ -99,10 +99,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Oil and gas provide most export income and government revenue, mainly through Brunei Shell Petroleum and LNG exports.",
+        "value": "Crude oil and natural gas production account for about 90% of GDP; the page gives no share of exports.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Brunei"
+        "source": "Wikipedia: Brunei (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Liquefied natural gas and crude oil shipped mainly to Japan, South Korea and other Asian buyers.",
@@ -131,16 +131,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "An absolute monarchy: the sultan is head of state and prime minister, and rules by decree.",
-        "year": null,
+        "value": "An absolute monarchy: under the 1959 constitution the sultan is head of state and also prime minister, finance minister and defence minister; the Legislative Council is consultative, and emergency powers renewed every two years mean it has technically been under martial law since 1962.",
+        "year": 1959,
         "certainty": "confirmed",
-        "source": "Wikipedia: Brunei"
+        "source": "Wikipedia: Brunei (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Omar Ali Saifuddien III. Hassanal Bolkiah.",
+        "value": "Omar Ali Saifuddien III signed the Constitution Agreement on 29 September 1959; Hassanal Bolkiah has ruled since 1967 and read the proclamation of independence at midnight on 1 January 1984.",
         "year": 1967,
         "certainty": "confirmed",
-        "source": "Wikipedia: Brunei"
+        "source": "Wikipedia: Brunei (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Hereditary within the royal family that has ruled Brunei for centuries; the sultan names the crown prince.",
@@ -175,10 +175,10 @@
         "source": "Wikipedia: Brunei"
       },
       "majorWars": {
-        "value": "No wars since independence in 1984; the last fighting was the brief 1962 revolt, before independence.",
-        "year": null,
+        "value": "A small rebellion on 8 December 1962 was suppressed with UK help and helped persuade the sultan not to join Malaysia; no wars since independence on 1 January 1984.",
+        "year": 1962,
         "certainty": "confirmed",
-        "source": "Wikipedia: Brunei"
+        "source": "Wikipedia: Brunei (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "No changes since independence; Brunei had chosen not to join Malaysia in 1963 and claims part of the South China Sea.",
@@ -221,10 +221,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Islam (Sunni, Shafi’i) is the state religion followed by most people, with Christian and Buddhist minorities.",
-        "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Brunei"
+        "value": "Sunni Islam is the official religion: 80.7% in 2023 (infobox) but more than 82% in the body text.",
+        "year": 2023,
+        "certainty": "disputed",
+        "source": "Wikipedia: Brunei (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Malay is the official language, written in Latin and Jawi script; English is widely used in business and education.",
@@ -285,10 +285,10 @@
         "source": "Britannica, \"Brunei\" (checked 10 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Too recent to judge; oil wealth since independence in 1984 has kept living standards high.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Brunei"
+        "value": "The sultanate’s historical peak came under Sultan Bolkiah (1485–1528). Today crude oil and gas are about 90% of GDP; the country gained independence on 1 January 1984.",
+        "year": 1485,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Brunei (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "None that define the country as a whole.",

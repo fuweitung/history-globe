@@ -35,10 +35,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "In the central Pacific north of the equator: 29 atolls and 5 islands in two chains, Ratak and Ralik, with about 180 km² of land.",
+        "value": "Central Pacific; 181.43 km² of land.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Marshall Islands"
+        "source": "Wikipedia: Marshall Islands (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Low coral atolls, about 2 m above sea level.",
@@ -67,10 +67,10 @@
     },
     "population": {
       "population": {
-        "value": "About 40,000 in the mid-2020s and falling as people move to the US; the 2021 census counted about 42,000.",
+        "value": "37,548 (2024 estimate, infobox); the 2021 census counted 42,418.",
         "year": 2024,
-        "certainty": "estimated",
-        "source": "Wikipedia: Marshall Islands"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Marshall Islands (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Most people live on crowded Majuro, the capital, and on Ebeye in Kwajalein Atoll.",
@@ -93,10 +93,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "US Compact aid, fishing licences for tuna boats, copra, rent for the US base on Kwajalein, and a large international ship registry.",
+        "value": "A mainly service economy with fishing, agriculture and US aid as major sources of income; Majuro is the world’s busiest tuna transshipment port. The ship registry is not mentioned on the page.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Marshall Islands"
+        "source": "Wikipedia: Marshall Islands (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Shipping through Majuro, a busy tuna transshipment port, and air links via Majuro and Kwajalein to Hawaii and Guam.",
@@ -105,10 +105,10 @@
         "source": "Wikipedia: Marshall Islands"
       },
       "wealth": {
-        "value": "A lower- or upper-middle-income economy, depending on aid and fishing licences.",
-        "year": null,
+        "value": "HDI 0.733, high (108th, 2023).",
+        "year": 2023,
         "certainty": "confirmed",
-        "source": "Wikipedia: Marshall Islands"
+        "source": "Wikipedia: Marshall Islands (checked 13 Nov 2026)"
       },
       "moneyAndTax": {
         "value": "The US dollar is the currency; government income comes mostly from Compact grants, fishing fees and import taxes.",
@@ -125,16 +125,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A parliamentary republic: the Nitijela (parliament) elects a president who is both head of state and head of government.",
+        "value": "A unitary parliamentary republic with an executive president; the legislature is the Nitijela.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Marshall Islands"
+        "source": "Wikipedia: Marshall Islands (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Amata Kabua, a high chief, was the first president (1979–96); foreign minister Tony deBrum (died 2017) led its climate diplomacy.",
+        "value": "Amata Kabua was the founding president (self-government from 1 May 1979). Hilda Heine was elected in January 2016 as the first female president; the page says David Kabua replaced her in January 2020 but its infobox still lists Heine.",
         "year": 1979,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Marshall Islands"
+        "certainty": "disputed",
+        "source": "Wikipedia: Marshall Islands (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Presidents are chosen by the Nitijela after general elections every four years and can be removed by votes of no confidence.",
@@ -169,10 +169,10 @@
         "source": "Wikipedia: Marshall Islands"
       },
       "majorWars": {
-        "value": "Battles of Kwajalein and Enewetak (1944).",
-        "year": 1944,
+        "value": "Between 1946 and 1958 the US conducted 67 nuclear tests at Bikini and Enewetak atolls.",
+        "year": 1946,
         "certainty": "confirmed",
-        "source": "Wikipedia: Marshall Islands"
+        "source": "Wikipedia: Marshall Islands (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "No change since 1986; it claims Wake Island (Enen-kio), which the United States holds.",
@@ -215,10 +215,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Mostly Protestant Christian, especially the United Church of Christ, brought by American missionaries from 1857; also Catholics and others.",
-        "year": null,
+        "value": "Christian 96.2% (2021 census): Protestant 79.9%, Catholic 9.3%, other 2.7%, none 1.1%.",
+        "year": 2021,
         "certainty": "confirmed",
-        "source": "Wikipedia: Marshall Islands"
+        "source": "Wikipedia: Marshall Islands (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Marshallese and English are official; Marshallese is written in a Latin alphabet devised by missionaries in the 1800s.",
@@ -273,10 +273,10 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Self-government under its own constitution from 1979; full self-rule in free association with the US when the Compact took effect in 1986.",
-        "year": 1986,
+        "value": "Annexed as a German protectorate in 1885; Japan occupied the islands in autumn 1914 and held them under a League of Nations mandate; the US administered them as part of the Trust Territory after the war.",
+        "year": 1885,
         "certainty": "confirmed",
-        "source": "Wikipedia: Marshall Islands"
+        "source": "Wikipedia: Marshall Islands (checked 13 Nov 2026)"
       },
       "peakPeriod": {
         "value": "Too recent to judge; its world profile rose through climate diplomacy, as at the 2015 Paris climate talks.",
@@ -291,10 +291,10 @@
         "source": "Wikipedia: Marshall Islands"
       },
       "outcome": {
-        "value": "Still in existence as an independent republic in free association with the United States.",
-        "year": null,
+        "value": "Self-government on 1 May 1979; the Compact of Free Association with the US took effect on 21 October 1986.",
+        "year": 1986,
         "certainty": "confirmed",
-        "source": "Wikipedia: Marshall Islands"
+        "source": "Wikipedia: Marshall Islands (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

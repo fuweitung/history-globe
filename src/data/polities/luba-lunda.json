@@ -42,10 +42,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "South-eastern DR Congo, Angola and Zambia.",
+        "value": "The Lunda state lay in what is now the DR Congo, north-eastern Angola and north-western Zambia, with its central state in Katanga.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Luba Empire; Wikipedia: Kingdom of Lunda"
+        "source": "Wikipedia: Lunda Empire (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Open savanna and woodland, with the Upemba lakes and Lualaba River for the Luba and the upper Kasai for the Lunda.",
@@ -74,10 +74,10 @@
     },
     "population": {
       "population": {
-        "value": "Unknown; the Lunda ruled a large area through tributary chiefs.",
+        "value": "The Lunda grew strong from a base of 175,000 inhabitants.",
         "year": null,
         "certainty": "estimated",
-        "source": "Wikipedia: Luba Empire; Wikipedia: Kingdom of Lunda"
+        "source": "Wikipedia: Lunda Empire (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Mostly villages; royal capitals such as Musumba of the Lunda king and Luba royal towns that moved with each new king.",
@@ -100,10 +100,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming of millet, sorghum and later cassava and maize, with fishing, salt and copper working, and tribute.",
+        "value": "Fishing, farming and metalworking around the Upemba depression. Luba rulers held a near-monopoly on trade in salt, copper and iron ore, and tribute redistributed farm, hunting and mining goods. The Lunda page does not describe its trade.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Luba Empire; Wikipedia: Kingdom of Lunda"
+        "source": "Wikipedia: Luba Empire and Lunda Empire (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Trade in copper and ivory, later slaves.",
@@ -132,16 +132,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Sacred kingship: the Luba king (mulopwe) held sacred royal power, and the Lunda king (Mwant Yav) ruled through tributary chiefs.",
+        "value": "A confederation of chieftainships with local autonomy under the Mwata Yamvo as paramount ruler, with a ruling council, tribute from chiefs, a queen mother (Rukonkesh) and an heir (Swan Mulop).",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Luba Empire; Wikipedia: Kingdom of Lunda"
+        "source": "Wikipedia: Lunda Empire (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Kalala Ilunga (Luba). Mwata Yamvo (Lunda title).",
-        "year": null,
+        "value": "The first paramount ruler created the title Mwane-a-Yamvu around 1665; Nawej, ruling from about 1695, is another well-attested founder and was killed by Kanyok forces.",
+        "year": 1665,
         "certainty": "confirmed",
-        "source": "Wikipedia: Luba Empire; Wikipedia: Kingdom of Lunda"
+        "source": "Wikipedia: Lunda Empire (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Kings came from royal lineages, but contests were common; the Lunda used positional succession, where an heir inherits a title’s ties.",
@@ -150,10 +150,10 @@
         "source": "Wikipedia: Luba Empire; Wikipedia: Kingdom of Lunda"
       },
       "institutions": {
-        "value": "Royal councils, titled officials, the Mbudye society of Luba memory keepers, and Lunda “perpetual kinship” between titles.",
+        "value": "Lunda capital was Mwibele (Haut-Lomami), according to the infobox.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Luba Empire; Wikipedia: Kingdom of Lunda"
+        "source": "Wikipedia: Luba Empire (checked 13 Nov 2026)"
       },
       "stability": {
         "value": "Generally strong, but weakened by succession disputes among royal princes, especially in the 1800s.",
@@ -176,10 +176,10 @@
         "source": "Wikipedia: Luba Empire; Wikipedia: Kingdom of Lunda"
       },
       "majorWars": {
-        "value": "Wars of expansion against neighbouring chiefdoms, and late 1800s wars with Chokwe and Yeke raiders.",
+        "value": "Early conflicts with Luba-speaking groups (Sala Mpasu, Kete) and the Kanyok Kingdom; the Chokwe invaded in the 19th century.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Luba Empire; Wikipedia: Kingdom of Lunda"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Lunda Empire (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Spread across the southern savanna from the Kwango to the Luapula, through conquest and tribute links.",
@@ -222,10 +222,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Beliefs in ancestors and spirits; Luba kings were linked to spirits, and spirit mediums advised them.",
+        "value": "Luba kings became deities after death and their villages became shrines. The page also mentions ancestor worship and the god Mijibu Kalenga. The Lunda page gives no religion.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Luba Empire; Wikipedia: Kingdom of Lunda"
+        "source": "Wikipedia: Luba Empire and Lunda Empire (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Bantu languages such as Kiluba (Luba) and Uruund (Lunda); no writing, so history was kept orally and on lukasa.",
@@ -280,16 +280,16 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Oral tradition credits Kalala Ilunga with founding Luba kingship; states formed around 1600.",
-        "year": 1600,
+        "value": "Origins are dated before the 15th century by Western scholars; Congolese historians give the 8th, 12th, 14th or 15th centuries.",
+        "year": null,
         "certainty": "estimated",
-        "source": "Wikipedia: Luba Empire; Wikipedia: Kingdom of Lunda"
+        "source": "Wikipedia: Luba Empire (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "The 1700s, when the Lunda king and Kazembe dominated large areas.",
-        "year": 1750,
-        "certainty": "estimated",
-        "source": "Wikipedia: Luba Empire; Wikipedia: Kingdom of Lunda"
+        "value": "The Lunda state doubled to about 300,000 km² at its height in the 19th century, which conflicts with the 1700s peak in the entry.",
+        "year": 1800,
+        "certainty": "disputed",
+        "source": "Wikipedia: Lunda Empire (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "From the mid-1800s, slave and ivory raids, Chokwe invasions and Yeke conquests weakened them.",
@@ -298,10 +298,10 @@
         "source": "Wikipedia: Luba Empire; Wikipedia: Kingdom of Lunda"
       },
       "outcome": {
-        "value": "Absorbed into colonial Congo and Angola.",
+        "value": "Long-distance trade destroyed the Luba kingdom; in 1889 the Lunda empire was split by a succession dispute.",
         "year": 1889,
         "certainty": "confirmed",
-        "source": "Wikipedia: Luba Empire; Wikipedia: Kingdom of Lunda"
+        "source": "Wikipedia: Luba Empire (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

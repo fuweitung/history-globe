@@ -40,7 +40,7 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "South-east Africa, landlocked; 118,484 km².",
+        "value": "Southern Africa; area 118,484 km².",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malawi (checked 13 Nov 2026)"
@@ -72,7 +72,7 @@
     },
     "population": {
       "population": {
-        "value": "21,240,689 (2024 estimate, infobox); the article also gives 22,224,282 for July 2025.",
+        "value": "21,240,689 in a 2024 estimate (infobox) but 22,224,282 as of July 2025 in the text; 17,563,749 at the 2018 census.",
         "year": 2024,
         "certainty": "disputed",
         "source": "Wikipedia: Malawi (checked 13 Nov 2026)"
@@ -98,10 +98,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming employs most people: maize for food and tobacco as the main export, along with tea and sugar.",
+        "value": "Heavily agricultural: agriculture is 35% of GDP (industry 19%, services 46%) and provides 90% of export revenues; tobacco is the first-listed product.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Malawi"
+        "source": "Wikipedia: Malawi (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "As a landlocked country, it sends goods by rail and road to the ports of Beira and Nacala in Mozambique and Dar es Salaam in Tanzania.",
@@ -130,16 +130,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A presidential republic; it was a one-party state under the Malawi Congress Party until a 1993 referendum restored multiparty politics.",
-        "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Malawi"
-      },
-      "keyRulers": {
-        "value": "Hastings Banda. Bakili Muluzi. Joyce Banda.",
+        "value": "A unitary presidential republic; Nyasaland became independent as Malawi on 6 July 1964.",
         "year": 1964,
         "certainty": "confirmed",
-        "source": "Wikipedia: Malawi"
+        "source": "Wikipedia: Malawi (checked 13 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Hastings Banda was prime minister in 1963 and president for life from 1971; Bakili Muluzi beat him in 1994 and served to 2004; Bingu wa Mutharika (elected 2004) died in April 2012 and Joyce Banda succeeded him; Lazarus Chakwera won in 2020 and Peter Mutharika returned to power in 2025.",
+        "year": 1964,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Malawi (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "One-party state until 1994; elections since.",
@@ -220,10 +220,10 @@
     },
     "culture": {
       "religion": {
-        "value": "About three-quarters Christian (Presbyterian, Catholic and others) and about an eighth Muslim, mainly Yao near the lake.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Malawi"
+        "value": "The infobox gives 82.3% Christian and 13.8% Muslim (2018 census); the text gives Christianity at 77.3% and government surveys 87%, so the figures conflict.",
+        "year": 2018,
+        "certainty": "disputed",
+        "source": "Wikipedia: Malawi (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "English is official; Chichewa is the national language, with Chitumbuka, Chiyao and others widely spoken.",

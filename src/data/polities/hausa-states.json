@@ -43,10 +43,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Northern Nigeria and southern Niger.",
+        "value": "Between the Niger River and Lake Chad, in modern northern Nigeria. Southern Niger is not mentioned in the part read.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Hausa Kingdoms"
+        "source": "Wikipedia: Hausa Kingdoms (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Savanna plains.",
@@ -75,10 +75,10 @@
     },
     "population": {
       "population": {
-        "value": "Unknown.",
+        "value": "Not stated on the page.",
         "year": null,
         "certainty": "estimated",
-        "source": "Wikipedia: Hausa Kingdoms"
+        "source": "Wikipedia: Hausa Kingdoms (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Walled cities such as Kano and Katsina.",
@@ -101,10 +101,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming, crafts (cloth, leather) and trade.",
+        "value": "Farming was the traditional livelihood; the main exports were leather, gold, cloth, salt, kola nuts, slaves and henna.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Hausa Kingdoms"
+        "source": "Wikipedia: Hausa people (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Trans-Saharan trade; kola nuts from the forest.",
@@ -133,16 +133,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Independent city-states, each ruled by a sarki (king).",
-        "year": null,
+        "value": "The Hausa Bakwai were the seven “true” states and the Banza Bakwai the “illegitimate” ones; administration ran under the supervision of a sarki (king). The page does not call them independent city-states. Bornu vassalised the Hausa states, they were mostly tributary to Songhai, and Usman dan Fodio conquered them by 1808 into the Sokoto Caliphate.",
+        "year": 1808,
         "certainty": "confirmed",
-        "source": "Wikipedia: Hausa Kingdoms"
+        "source": "Wikipedia: Hausa Kingdoms (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Muhammad Rumfa of Kano (1463–99). Queen Amina of Zazzau (legendary).",
-        "year": 1463,
-        "certainty": "estimated",
-        "source": "Wikipedia: Hausa Kingdoms"
+        "value": "Kano: Yaji I (reigned 1349–85), thought to be the first Kano ruler to convert to Islam; Muhammad Rumfa (1463–99). Katsina: Ibrahim Maje (1549–66).",
+        "year": 1349,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hausa states (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Royal families.",
@@ -177,10 +177,10 @@
         "source": "Wikipedia: Hausa Kingdoms"
       },
       "majorWars": {
-        "value": "Wars with Songhai, Bornu and each other.",
-        "year": null,
+        "value": "The Sokoto jihad (1804–1808) under Usman dan Fodio overthrew most Hausa kingdoms; the page does not mention wars with Songhai, Bornu or Kebbi.",
+        "year": 1804,
         "certainty": "confirmed",
-        "source": "Wikipedia: Hausa Kingdoms"
+        "source": "Wikipedia: Hausa people (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Conquered by the Fulani jihad (1804–08).",
@@ -223,10 +223,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Islam (from the 14th century) and traditional religion.",
-        "year": null,
+        "value": "Islam was widespread in the Hausa states by the 14th century through commerce, and was present as early as the 11th.",
+        "year": 1300,
         "certainty": "confirmed",
-        "source": "Wikipedia: Hausa Kingdoms"
+        "source": "Wikipedia: Hausa people (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Hausa, written in Arabic script (Ajami).",
@@ -281,16 +281,16 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Trade and crafts.",
+        "value": "Seven original Hausa states (the Hausa Bakwai), traditionally founded by the sons and grandsons of Bayajidda.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Hausa Kingdoms"
+        "source": "Wikipedia: Hausa states (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "15th–16th centuries.",
+        "value": "The page says the states emerged mainly in the 16th century as powerful trading states; Muhammad Rumfa ruled Kano 1463–1499.",
         "year": 1500,
         "certainty": "estimated",
-        "source": "Wikipedia: Hausa Kingdoms"
+        "source": "Wikipedia: Hausa people (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "Wars and heavy taxes.",
@@ -299,10 +299,10 @@
         "source": "Wikipedia: Hausa Kingdoms"
       },
       "outcome": {
-        "value": "Absorbed into the Sokoto Caliphate; Hausa culture continues.",
+        "value": "Usuman dan Fodio’s jihad conquered the Hausa states by 1808; the Sokoto Caliphate was proclaimed in 1809. The British conquest date is not stated in the article.",
         "year": 1808,
         "certainty": "confirmed",
-        "source": "Wikipedia: Hausa Kingdoms"
+        "source": "Wikipedia: Hausa states (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

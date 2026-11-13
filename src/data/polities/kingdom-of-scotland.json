@@ -41,10 +41,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "The northern third of Great Britain with the Hebrides, and Orkney and Shetland from 1472; the border with England ran from the Tweed to the Solway.",
-        "year": null,
+        "value": "Orkney and Shetland were incorporated in 1472, annexed from Norway.",
+        "year": 1472,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Scotland"
+        "source": "Wikipedia: Kingdom of Scotland (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Mountainous Highlands and islands in the north and west, fertile Central Lowlands, and the hilly Southern Uplands.",
@@ -73,10 +73,10 @@
     },
     "population": {
       "population": {
-        "value": "Perhaps about 1 million people by 1700; the first census-like count in 1755 found about 1.27 million.",
-        "year": 1700,
-        "certainty": "estimated",
-        "source": "Wikipedia: Kingdom of Scotland"
+        "value": "About 500,000 (1500), 800,000 (1600) and 1,250,000 (1700) per the infobox; hearth-tax returns for 1691 indicate 1,234,575.",
+        "year": 1691,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Kingdom of Scotland (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Mostly rural; royal burghs grew as trading towns, led by Edinburgh, with Glasgow, Aberdeen, Dundee and Perth.",
@@ -99,10 +99,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming oats and barley, raising cattle and sheep, fishing, and exporting wool, hides, fish and coal.",
-        "year": null,
+        "value": "The fertile Central Lowlands supported most farming and towns, while the Highlands and Southern Uplands were less productive. The currency was the Pound Scots (the Bank of Scotland issued notes from 1704), and the 1690s brought severe economic dislocation. Oats, cattle, sheep, fishing and wool exports are not detailed in the part of the page read.",
+        "year": 1704,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Scotland"
+        "source": "Wikipedia: Kingdom of Scotland (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Trade with the Low Countries and Scandinavia.",
@@ -131,16 +131,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A monarchy whose kings governed with a Parliament of three estates, a Privy Council and great nobles.",
+        "value": "The page says Parliament was never as central to national life as England’s; it does not describe three estates.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Scotland"
+        "source": "Wikipedia: Kingdom of Scotland (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Kenneth MacAlpin. Robert the Bruce. Mary, Queen of Scots. James VI.",
-        "year": 1306,
+        "value": "Cínaed mac Ailpín (Kenneth MacAlpin) became king of the Picts in the 840s, traditionally 843; Robert I’s parliament at Scone enacted a code of law in 1318; James VI inherited the English and Irish thrones in 1603.",
+        "year": 843,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Scotland"
+        "source": "Wikipedia: Kingdom of Scotland (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Hereditary in the royal line: the House of Bruce from 1306, and the Stewart dynasty from 1371 to 1707.",
@@ -175,10 +175,10 @@
         "source": "Wikipedia: Kingdom of Scotland"
       },
       "majorWars": {
-        "value": "Wars of Independence (1296–1357); Flodden (1513).",
+        "value": "Battle of Bannockburn (1314), an English defeat.",
         "year": 1314,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Scotland"
+        "source": "Wikipedia: Kingdom of Scotland (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Gained the Western Isles from Norway (1266) and Orkney and Shetland (1472), but lost Berwick to England in 1482.",
@@ -221,10 +221,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Catholic, then Presbyterian (Reformation 1560).",
+        "value": "By 1560 a small group of Protestants was able to impose reform on the Scottish church.",
         "year": 1560,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Scotland"
+        "source": "Wikipedia: Kingdom of Scotland (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Gaelic in the Highlands, Scots in the Lowlands, Norn in Orkney and Shetland, and Latin and English in writing.",
@@ -279,16 +279,16 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Kenneth MacAlpin traditionally united the Picts and Scots in 843.",
+        "value": "Traditionally dated to 843, when Kenneth MacAlpin became king of the Picts.",
         "year": 843,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Scotland"
+        "source": "Wikipedia: Kingdom of Scotland (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "The reign of James IV (1488–1513), with a strong navy, a printing press in Edinburgh (1508) and a vibrant court.",
-        "year": 1500,
+        "value": "James IV was killed when the Scots were beaten at Flodden in 1513; the page does not give 1488 or the 1508 printing press.",
+        "year": 1513,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Scotland"
+        "source": "Wikipedia: Kingdom of Scotland (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "The Darien disaster (1698–1700) bankrupted many investors and helped push Scotland into union with England.",
@@ -297,10 +297,10 @@
         "source": "Wikipedia: Kingdom of Scotland"
       },
       "outcome": {
-        "value": "United with England as Great Britain (1707).",
+        "value": "Union of the Crowns in 1603 (a personal union with England) and the Acts of Union of 1707 created the Kingdom of Great Britain.",
         "year": 1707,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Scotland"
+        "source": "Wikipedia: Kingdom of Scotland (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

@@ -42,10 +42,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Ifriqiya: Tunisia, eastern Algeria (Constantine and Béjaïa) and at times Tripoli in western Libya.",
+        "value": "Ifriqiya: today’s Tunisia, eastern Algeria and western Libya; Tunis was the capital.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Hafsid dynasty"
+        "source": "Wikipedia: Hafsid dynasty (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Mediterranean coast and plains, the Tell hills, inland steppe and Saharan oases.",
@@ -74,10 +74,10 @@
     },
     "population": {
       "population": {
-        "value": "Unknown; Tunis may have had about 100,000 people at its height.",
-        "year": null,
+        "value": "Tunis had grown to 100,000 people by the mid-14th century, one of the largest cities of its time; the page gives no figure for the whole realm.",
+        "year": 1350,
         "certainty": "estimated",
-        "source": "Wikipedia: Hafsid dynasty"
+        "source": "Wikipedia: Hafsid dynasty (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Tunis was the capital and a major city; others included Béjaïa, Constantine, Kairouan, Sfax and Tripoli.",
@@ -100,10 +100,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming of grain and olives, herding, crafts and Mediterranean trade, plus corsair raiding.",
+        "value": "A land rich in agriculture and trade, with commerce with Christian Europe growing significantly; piracy against Christian shipping also grew, especially under Abd al-Aziz II. Grain and olives are not named.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Hafsid dynasty"
+        "source": "Wikipedia: Hafsid dynasty (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Trade with Italian cities and Aragon by sea, and trans-Saharan routes for gold and slaves.",
@@ -132,16 +132,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A sultanate ruled by the Hafsid dynasty, which for a time claimed the title of caliph.",
-        "year": null,
+        "value": "A monarchy; Abu Zakariya Yahya adopted the caliphal title Amir al-Mu’minin in 1236 or 1237, challenging the Almohad caliph, and the Sharif of Mecca temporarily recognised al-Mustansir as caliph in 1259.",
+        "year": 1236,
         "certainty": "confirmed",
-        "source": "Wikipedia: Hafsid dynasty"
+        "source": "Wikipedia: Hafsid dynasty (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Abu Zakariya Yahya. Abu Abdallah al-Mustansir.",
+        "value": "Abu Zakariya Yahya declared independence in 1229; al-Mustansir ruled 1249–1277.",
         "year": 1229,
         "certainty": "confirmed",
-        "source": "Wikipedia: Hafsid dynasty"
+        "source": "Wikipedia: Hafsid dynasty (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Hereditary within the Hafsid family, but often contested between brothers, sons and cousins.",
@@ -176,10 +176,10 @@
         "source": "Wikipedia: Hafsid dynasty"
       },
       "majorWars": {
-        "value": "The Eighth Crusade attacked Tunis (1270).",
+        "value": "The Eighth Crusade, led by Louis IX of France, failed at Tunis: Louis died of dysentery in 1270 amid an army decimated by disease.",
         "year": 1270,
         "certainty": "confirmed",
-        "source": "Wikipedia: Hafsid dynasty"
+        "source": "Wikipedia: Hafsid dynasty (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Tunis was contested by Spain and the Ottomans from 1535, and fell to the Ottomans in 1574.",
@@ -222,10 +222,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Sunni Islam of the Maliki school; Sufi brotherhoods were influential.",
+        "value": "Religious life followed the Maliki school, and Maliki scholars held most religious offices by the 14th century; Sufism became one of the most important parts of Islam in the region.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Hafsid dynasty"
+        "source": "Wikipedia: Hafsid dynasty (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Arabic in Arabic script; Berber languages were spoken in rural areas.",
@@ -280,16 +280,16 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Abu Zakariya Yahya, the Almohad governor of Ifriqiya, declared independence in 1229.",
+        "value": "Founded in 1229 by Abu Zakariya Yahya, first appointed governor by the Almohads.",
         "year": 1229,
         "certainty": "confirmed",
-        "source": "Wikipedia: Hafsid dynasty"
+        "source": "Wikipedia: Hafsid dynasty (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "The 13th century under al-Mustansir, when the Hafsids claimed the title of caliph.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Hafsid dynasty"
+        "value": "Apogee under Abu al-Abbas Ahmad II (reigned 1370–1394), then Abu Faris Abd al-Aziz II (1394–1434).",
+        "year": 1370,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Hafsid dynasty (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "Civil wars between princes and pressure from Spain and the Ottomans.",
@@ -298,10 +298,10 @@
         "source": "Wikipedia: Hafsid dynasty"
       },
       "outcome": {
-        "value": "The Ottomans conquered Tunis in 1574, ending Hafsid rule.",
+        "value": "Ended by the final Ottoman conquest of Tunis in 1574; the last ruler was Muhammad VI. Spain had restored a Hafsid as a tributary after taking Tunis in 1535.",
         "year": 1574,
         "certainty": "confirmed",
-        "source": "Wikipedia: Hafsid dynasty"
+        "source": "Wikipedia: Hafsid dynasty (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

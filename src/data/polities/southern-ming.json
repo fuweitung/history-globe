@@ -41,10 +41,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Southern China from Nanjing to Guangdong, Guangxi and Yunnan, plus the Fujian coast around Xiamen and, from 1662, Taiwan.",
+        "value": "The remnants of the Ming survived south of the Huai River, with capitals including Nanjing (Yingtian), Guangzhou, Zhaoqing, Fuzhou and Anlong; the Zheng family set up the Kingdom of Tungning on the former Dutch colony in Taiwan.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Southern Ming"
+        "source": "Wikipedia: Southern Ming (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "The lower Yangtze plain, the hills and mountains of the south and southwest, the Fujian coast and islands such as Xiamen and Jinmen, and western Taiwan’s plains.",
@@ -73,10 +73,10 @@
     },
     "population": {
       "population": {
-        "value": "Tens of millions in the regions they briefly held.",
-        "year": null,
+        "value": "No total is given for the Southern Ming; Tungning Taiwan had 140,000 people in 1662, rising to 200,000 in 1683 (infobox).",
+        "year": 1683,
         "certainty": "estimated",
-        "source": "Wikipedia: Southern Ming"
+        "source": "Wikipedia: Southern Ming and Kingdom of Tungning (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Mostly villages and farming land around a royal capital.",
@@ -99,10 +99,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Rice and sugar farming, land taxes, and above all the Zheng family’s overseas trade in silk, sugar and deerskins with Japan and Southeast Asia.",
-        "year": null,
+        "value": "Zheng merchant fleets traded between Japan and Southeast Asia, the kingdom taxed private traders for safe passage through the Taiwan Strait, and it held monopolies on sugarcane and deer skins; sugar exports reached about 1,194,000 kg a year.",
+        "year": 1683,
         "certainty": "confirmed",
-        "source": "Wikipedia: Southern Ming"
+        "source": "Wikipedia: Kingdom of Tungning (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Maritime trade with Japan and Southeast Asia (Zheng family).",
@@ -131,16 +131,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Rival Ming princes as emperors; Zheng family rule in Taiwan.",
-        "year": null,
+        "value": "A monarchy: the Hongguang Emperor was crowned in Nanjing on 19 June 1644, the Longwu Emperor on 18 August 1645, and the Yongli Emperor reigned 1646–1662 until he was captured in Burma and executed by Wu Sangui. A Zheng prince claimed the Ming succession on Taiwan until 1683.",
+        "year": 1644,
         "certainty": "confirmed",
-        "source": "Wikipedia: Southern Ming"
+        "source": "Wikipedia: Southern Ming (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Hongguang Emperor. Yongli Emperor. Koxinga (Zheng Chenggong).",
+        "value": "Hongguang was enthroned in Nanjing on 19 June 1644; Longwu was executed at Tingzhou on 6 October 1646; Shaowu was proclaimed on 11 December 1646 and killed himself after the Qing took Guangzhou on 20 January 1647; Yongli (proclaimed 24 December 1646) was the last and longest reigning, to 1662.",
         "year": 1646,
         "certainty": "confirmed",
-        "source": "Wikipedia: Southern Ming"
+        "source": "Wikipedia: Southern Ming (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Disputed among Ming princes: the Hongguang (1644–45), Longwu (1645–46) and Yongli (1646–62) emperors; in Taiwan the Zheng ruled father to son.",
@@ -175,10 +175,10 @@
         "source": "Wikipedia: Southern Ming"
       },
       "majorWars": {
-        "value": "Qing conquest of the south; siege of Fort Zeelandia (1661–62).",
+        "value": "Koxinga’s army surrounded Fort Zeelandia on 7 April 1661; the Dutch surrendered on 12 January 1662 and the remaining Dutch left on 9 February 1662, ending 38 years of Dutch rule.",
         "year": 1661,
         "certainty": "confirmed",
-        "source": "Wikipedia: Southern Ming"
+        "source": "Wikipedia: Kingdom of Tungning (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Steadily lost the south to the Qing: Nanjing in 1645, Fujian in 1646 and Yunnan in 1659; Taiwan was won from the Dutch in 1662 and lost in 1683.",
@@ -221,10 +221,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Confucianism, Buddhism, Chinese folk religion.",
+        "value": "The page names no official religion. Some at the Yongli court, including the empress dowager and the crown prince, converted to Catholicism, and Muslim loyalists in Gansu joined the resistance.",
         "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Southern Ming"
+        "certainty": "estimated",
+        "source": "Wikipedia: Southern Ming (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Chinese, written in Chinese characters; people spoke southern Chinese languages such as Hokkien and Cantonese.",
@@ -279,16 +279,16 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "The fall of Beijing to Li Zicheng’s rebels and then the Qing (1644) led Ming officials to enthrone the Hongguang Emperor at Nanjing.",
+        "value": "The Prince of Fu was crowned the Hongguang Emperor at Nanjing on 19 June 1644, marking the start of the Southern Ming.",
         "year": 1644,
         "certainty": "confirmed",
-        "source": "Wikipedia: Southern Ming"
+        "source": "Wikipedia: Southern Ming (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Koxinga’s Yangtze campaign (1659) reached the walls of Nanjing before it was defeated; Li Dingguo also won victories in the southwest in 1652.",
-        "year": 1659,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Southern Ming"
+        "value": "Around 1648 the Yongli regime retook most of southern China, leaving the Qing only a few enclaves in Guangdong and southern Jiangxi. The page does not mention a 1659 Yangtze campaign; it says a Qing army took Yunnan’s capital in January 1659, forcing Yongli into Burma.",
+        "year": 1648,
+        "certainty": "disputed",
+        "source": "Wikipedia: Southern Ming (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "The Yongli Emperor was handed over by Burma and killed in Kunming (1662); Koxinga died the same year, and Tungning surrendered in 1683.",
@@ -297,10 +297,10 @@
         "source": "Wikipedia: Southern Ming"
       },
       "outcome": {
-        "value": "Tungning surrendered to the Qing (1683).",
-        "year": 1683,
+        "value": "The Yongli Emperor (reigned 1646–1662) was captured in Myanmar and killed in 1662; Koxinga’s grandson Zheng Keshuang surrendered Tungning to the Qing in 1683.",
+        "year": 1662,
         "certainty": "confirmed",
-        "source": "Wikipedia: Southern Ming"
+        "source": "Wikipedia: Southern Ming (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

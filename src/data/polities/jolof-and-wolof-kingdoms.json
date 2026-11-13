@@ -40,10 +40,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Northern and central Senegal, between the Senegal and Gambia rivers.",
+        "value": "Extended over parts of Mauritania and The Gambia; five coastal kingdoms: Waalo, Kayor, Baol, Sine and Saloum.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Jolof Empire"
+        "source": "Wikipedia: Jolof Empire (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Flat savanna and dry grassland, with the Atlantic coast to the west.",
@@ -72,10 +72,10 @@
     },
     "population": {
       "population": {
-        "value": "Perhaps several hundred thousand across the Wolof kingdoms.",
+        "value": "Mostly Wolof, Serer and Fula people north of the Senegal River; the page gives no total.",
         "year": null,
         "certainty": "estimated",
-        "source": "Wikipedia: Jolof Empire"
+        "source": "Wikipedia: Jolof Empire (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Mostly villages; royal capitals moved; trading posts such as Saint-Louis and Gorée grew on the coast.",
@@ -98,10 +98,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming millet, herding, trading horses, and later growing groundnuts for export.",
+        "value": "Markets dealt in millet, salt, beans and cattle; horses were bought from Portuguese traders; coins were not used and iron bars and cloth served as money. The page does not mention groundnuts.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Jolof Empire"
+        "source": "Wikipedia: Jolof Empire (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Trade with Portuguese, Dutch, French on the coast.",
@@ -130,16 +130,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Kingdoms ruled by titled kings: the Burba of Jolof, the Damel of Kayor, the Teigne of Baol and the Brak of Waalo.",
+        "value": "The ruler, the Buurba Jolof, was chosen by a college of electors that included the rulers of the five main constituent kingdoms; the page does not describe the titles Damel, Teigne or Brak as such.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Jolof Empire"
+        "source": "Wikipedia: Jolof Empire (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Ndiadiane Ndiaye (legendary founder); Lat Dior Diop, Damel of Kayor, who resisted the French until killed in 1886.",
-        "year": 1350,
+        "value": "Ndiadiane Ndiaye (c. 1360); Leele Fuli Fak (1543–1549).",
+        "year": 1360,
         "certainty": "confirmed",
-        "source": "Wikipedia: Jolof Empire"
+        "source": "Wikipedia: Jolof Empire (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Kings were chosen by councils of nobles from eligible royal lineages, often with rivalry.",
@@ -174,10 +174,10 @@
         "source": "Wikipedia: Jolof Empire"
       },
       "majorWars": {
-        "value": "Battle of Danki (1549); wars with France.",
+        "value": "Kayor broke away by beating Jolof at the Battle of Danki (1549), after which Waalo and Baol also left; Futa Toro was lost in 1513 and Sine and Saloum broke away in 1520.",
         "year": 1549,
         "certainty": "confirmed",
-        "source": "Wikipedia: Jolof Empire"
+        "source": "Wikipedia: Jolof Empire (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Split into Jolof, Kayor, Baol and Waalo after 1549; conquered by France in the 1800s.",
@@ -220,10 +220,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Islam spread slowly; traditional religion.",
+        "value": "Traditional religion (Serer religion); the nobility were nominally animist and some combined this with Islam, which did not dominate Wolof society until about the 19th century.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Jolof Empire"
+        "source": "Wikipedia: Jolof Empire (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Wolof, an Atlantic language of the Niger–Congo family; Arabic script (Wolofal) was used by Muslims.",
@@ -278,16 +278,16 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "The Jolof Empire formed around 1350, uniting Wolof states under the Burba.",
-        "year": 1350,
-        "certainty": "estimated",
-        "source": "Wikipedia: Jolof Empire"
+        "value": "Established around 1360 (infobox) by Ndiadiane Ndiaye, a possibly mythical founder; capital Ouarkhokh.",
+        "year": 1360,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jolof Empire (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "About 1450–1549, when Jolof ruled Waalo, Kayor, Baol, Sine and Saloum.",
+        "value": "After the 1440s Jolof was at the height of its power; in the early 16th century it could field 100,000 infantry and 10,000 cavalry.",
         "year": 1500,
         "certainty": "confirmed",
-        "source": "Wikipedia: Jolof Empire"
+        "source": "Wikipedia: Jolof Empire (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "Defeat by Kayor at the Battle of Danki (1549).",
@@ -296,10 +296,10 @@
         "source": "Wikipedia: Jolof Empire"
       },
       "outcome": {
-        "value": "The kingdoms became part of French Senegal (by 1886–90).",
-        "year": 1886,
+        "value": "Battle of Danki (1549) reduced the empire to a rump kingdom; by 1600 it was effectively over.",
+        "year": 1549,
         "certainty": "confirmed",
-        "source": "Wikipedia: Jolof Empire"
+        "source": "Wikipedia: Jolof Empire (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

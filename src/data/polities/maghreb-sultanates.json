@@ -50,10 +50,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Morocco and western Algeria: the Marinids and Wattasids ruled from Fez, the Zayyanids from Tlemcen, and the Saadis from Marrakesh.",
-        "year": null,
+        "value": "The Marinids ruled much of the Maghreb, chiefly Morocco, from the mid-13th to the 15th century, at times also parts of Algeria, Tunisia and southern Spain near Gibraltar, with Fez as capital (Fes Jdid founded in 1276).",
+        "year": 1276,
         "certainty": "confirmed",
-        "source": "Wikipedia: Marinid Sultanate"
+        "source": "Wikipedia: Marinid dynasty (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "The Rif and Atlas mountains, fertile Atlantic plains, the Moulouya valley, and Saharan oases such as Sijilmasa and the Draa.",
@@ -82,10 +82,10 @@
     },
     "population": {
       "population": {
-        "value": "Perhaps a few million people across Morocco and western Algeria; no reliable count exists.",
+        "value": "No figure for the whole region. For the Hafsids, the population of Tunis had grown to 100,000 by the mid-1300s.",
         "year": null,
         "certainty": "estimated",
-        "source": "Wikipedia: Marinid Sultanate"
+        "source": "Wikipedia: Hafsid dynasty (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Fez (with the new royal city Fez el-Jdid, begun 1276), Marrakesh, Tlemcen, Meknes, Taza, Salé and Sijilmasa.",
@@ -108,10 +108,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming and herding, crafts in towns such as Fez, and taxes on trans-Saharan and Mediterranean trade.",
+        "value": "Farming and herding, town crafts and taxes on trade. For the Hafsids the page describes growing trade with Christian Europe, piracy against Christian shipping, and a large stake in trans-Saharan caravan trade from Tunis to Timbuktu.",
         "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Marinid Sultanate"
+        "certainty": "estimated",
+        "source": "Wikipedia: Hafsid dynasty (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Trans-Saharan caravans through Sijilmasa and Tlemcen for gold and slaves; sea trade with Genoa, Venice, Aragon and later England.",
@@ -146,10 +146,10 @@
         "source": "Wikipedia: Marinid Sultanate"
       },
       "keyRulers": {
-        "value": "Abu al-Hasan (Marinid). Ahmad al-Mansur (Saadi).",
+        "value": "Abu al-Hasan (1331–1348) briefly held most of the Maghreb and died in 1348, succeeded by Abu Inan Faris; the Wattasids were de facto rulers between 1420 and 1459; the last Marinid, Abd al-Haqq II, was killed in a revolt in Fez in 1465. The page barely mentions the Saadis.",
         "year": 1331,
         "certainty": "confirmed",
-        "source": "Wikipedia: Marinid Sultanate"
+        "source": "Wikipedia: Marinid dynasty (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Within the ruling family but often disputed; Wattasid viziers took power from the Marinids, and Saadi brothers fought after 1603.",
@@ -184,10 +184,10 @@
         "source": "Wikipedia: Marinid Sultanate"
       },
       "majorWars": {
-        "value": "Battle of Alcácer Quibir (1578); Saadi conquest of Songhai (1591).",
-        "year": 1578,
+        "value": "A Portuguese–Castilian army beat the Marinids at the Battle of Río Salado in 1340 and they withdrew from Iberia after Castile took Algeciras in 1344; the Marinids conquered Tlemcen in 1337 and it revived in 1359. The page does not mention Kairouan.",
+        "year": 1340,
         "certainty": "confirmed",
-        "source": "Wikipedia: Marinid Sultanate"
+        "source": "Wikipedia: Marinid dynasty (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Portugal took Ceuta (1415) and Tangier (1471); Spain took Melilla (1497) and Oran (1509); Ottoman Algiers absorbed Tlemcen in 1554.",
@@ -230,10 +230,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Sunni Islam of the Maliki school, with growing Sufi brotherhoods; Jewish communities lived in town quarters (mellahs).",
+        "value": "The Marinids sponsored Maliki Sunnism as the official religion, using it as a counterweight to Sufism and maraboutism, which were more prominent in rural areas.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Marinid Sultanate"
+        "source": "Wikipedia: Marinid dynasty (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Arabic for religion, law and government; Berber languages widely spoken; Hebrew among Jewish communities.",
@@ -288,16 +288,16 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "The Zayyanids took Tlemcen in 1235, and the Marinids captured Marrakesh in 1269, ending the Almohads.",
-        "year": 1269,
+        "value": "Marinid dynasty established in 1244 (infobox); Abd al-Haqq, son of Mahyu, was the effective founder; Fez was made the capital.",
+        "year": 1244,
         "certainty": "confirmed",
-        "source": "Wikipedia: Marinid Sultanate"
+        "source": "Wikipedia: Marinid dynasty (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "The Marinid peak under Abu al-Hasan (1331–48), who briefly took Tunis in 1347, and Abu Inan (1348–58).",
-        "year": 1340,
+        "value": "Height of Marinid power under Abu al-Hasan Ali (1331–1348).",
+        "year": 1331,
         "certainty": "confirmed",
-        "source": "Wikipedia: Marinid Sultanate"
+        "source": "Wikipedia: Marinid dynasty (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "The Portuguese capture of Ceuta in 1415 began a long loss of coastal towns.",
@@ -306,10 +306,10 @@
         "source": "Wikipedia: Marinid Sultanate"
       },
       "outcome": {
-        "value": "Followed by the Alaouite dynasty (Morocco) and Ottoman Algiers.",
-        "year": 1659,
+        "value": "Abd al-Haqq II, the last Marinid sultan, was overthrown and killed in a revolt in Fez in 1465.",
+        "year": 1465,
         "certainty": "confirmed",
-        "source": "Wikipedia: Marinid Sultanate"
+        "source": "Wikipedia: Marinid dynasty (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

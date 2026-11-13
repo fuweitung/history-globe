@@ -130,10 +130,10 @@
     },
     "politics": {
       "governmentType": {
-        "value": "About 30–40 principalities, each under a hereditary saopha (“lord of the sky”).",
-        "year": null,
+        "value": "A monarchy of principalities (möng) ruled by saophas, including Hsipaw and Kengtung; under British rule after 1885 they were nominally sovereign princely states under a subsidiary alliance.",
+        "year": 1885,
         "certainty": "confirmed",
-        "source": "Wikipedia: Shan States"
+        "source": "Wikipedia: Shan States (checked 13 Nov 2026)"
       },
       "keyRulers": {
         "value": "Saophas of Mong Mao, Hsenwi and Kengtung; Sao Shwe Thaik of Yawnghwe (first president of Burma, 1948).",
@@ -154,10 +154,10 @@
         "source": "Wikipedia: Shan States"
       },
       "stability": {
-        "value": "Frequent wars between principalities and with Burmese kings.",
-        "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Shan States"
+        "value": "The infobox gives 1959 as the year the states were fully annexed into Burma, while the text says the saophas’ hereditary rights were removed by Ne Win’s military government in 1962.",
+        "year": 1959,
+        "certainty": "disputed",
+        "source": "Wikipedia: Shan States (checked 13 Nov 2026)"
       },
       "eliteConflict": {
         "value": "Rival saophas and succession disputes.",
@@ -174,10 +174,10 @@
         "source": "Wikipedia: Shan States"
       },
       "majorWars": {
-        "value": "A Shan confederation took Ava and ruled Upper Burma (1527–55); Toungoo conquest (1557).",
+        "value": "The Shan Confederation defeated Ava in 1527; Bayinnaung captured Ava in 1555 and conquered all the Shan States in 1556–57.",
         "year": 1527,
         "certainty": "confirmed",
-        "source": "Wikipedia: Shan States"
+        "source": "Wikipedia: Shan States (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Under Toungoo and Konbaung Burma; British protectorate from 1887; Federated Shan States (1922).",
@@ -270,18 +270,18 @@
         "source": "Wikipedia: Shan States"
       },
       "colonisation": {
-        "value": "British protectorate (1887–1948).",
-        "year": 1887,
+        "value": "By 1885 the British occupied all of present-day Myanmar; the states became princely states under British paramountcy and were federated in 1922.",
+        "year": 1885,
         "certainty": "confirmed",
-        "source": "Wikipedia: Shan States"
+        "source": "Wikipedia: Shan States (checked 13 Nov 2026)"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Tai principalities grew after Pagan fell (1287).",
-        "year": 1287,
+        "value": "Möng Mao arose in the power vacuum left by the fall of the Kingdom of Dali (about 1254) and ended the kingdoms of Sagaing and Pinya in 1364.",
+        "year": 1364,
         "certainty": "confirmed",
-        "source": "Wikipedia: Shan States"
+        "source": "Wikipedia: Shan States (checked 13 Nov 2026)"
       },
       "peakPeriod": {
         "value": "Shan rule over Ava (1527–55).",
@@ -296,10 +296,10 @@
         "source": "Wikipedia: Shan States"
       },
       "outcome": {
-        "value": "Joined independent Burma (1948); the saophas gave up their powers in 1959.",
-        "year": 1959,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Shan States"
+        "value": "The saophas’ hereditary rights were removed by General Ne Win’s government in 1962; the infobox says the states were fully annexed in 1959, so the dates conflict.",
+        "year": 1962,
+        "certainty": "disputed",
+        "source": "Wikipedia: Shan States (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

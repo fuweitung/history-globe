@@ -40,10 +40,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "East-central Africa, landlocked; about 26,000 km².",
+        "value": "Central/East Africa, landlocked; 26,338 km².",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Rwanda"
+        "source": "Wikipedia: Rwanda (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "“Land of a thousand hills”: steep green hills and mountains, the Virunga volcanoes in the north-west and Lake Kivu in the west.",
@@ -72,10 +72,10 @@
     },
     "population": {
       "population": {
-        "value": "About 14 million; very densely populated.",
-        "year": 2024,
+        "value": "14,104,969 (2025 estimate); 13,206,731 at the 2022 census.",
+        "year": 2025,
         "certainty": "confirmed",
-        "source": "Wikipedia: Rwanda"
+        "source": "Wikipedia: Rwanda (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Mostly rural but urbanising fast; Kigali, the capital, has more than 1 million people.",
@@ -98,10 +98,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Small-scale farming of bananas, beans and cassava, exports of coffee, tea and minerals, and growing tourism and services.",
-        "year": null,
+        "value": "Services 52%, industry 22% and agriculture 20% of GDP; agriculture employs 64.5% of workers; coffee and tea are the main cash crops; tourism (over 1.4 million visitors in 2023, about US$620 million) is the leading foreign-exchange earner.",
+        "year": 2023,
         "certainty": "confirmed",
-        "source": "Wikipedia: Rwanda"
+        "source": "Wikipedia: Rwanda (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Goods travel by road along the Northern Corridor to Mombasa (Kenya) and the Central Corridor to Dar es Salaam (Tanzania).",
@@ -110,10 +110,10 @@
         "source": "Wikipedia: Rwanda"
       },
       "wealth": {
-        "value": "A low-income country with fast economic growth since the late 1990s.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Rwanda"
+        "value": "HDI 0.578, medium (159th, 2023).",
+        "year": 2023,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Rwanda (checked 13 Nov 2026)"
       },
       "moneyAndTax": {
         "value": "The Rwandan franc, the national currency since 1964; taxes are collected by the Rwanda Revenue Authority.",
@@ -130,16 +130,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A presidential republic under the 2003 constitution, with an elected president and a two-chamber parliament.",
-        "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Rwanda"
-      },
-      "keyRulers": {
-        "value": "Grégoire Kayibanda. Juvénal Habyarimana. Paul Kagame.",
+        "value": "The infobox calls it a semi-presidential republic under an authoritarian dictatorship; the text calls it a de facto one-party state ruled by the RPF since 1994. Paul Kagame has been president since 2000.",
         "year": 2000,
         "certainty": "confirmed",
-        "source": "Wikipedia: Rwanda"
+        "source": "Wikipedia: Rwanda (checked 13 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Paul Kagame, president since 2000.",
+        "year": 2000,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Rwanda (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "A coup (1973); the RPF took power after the genocide (1994); Kagame has led since 2000.",
@@ -174,10 +174,10 @@
         "source": "Wikipedia: Rwanda"
       },
       "majorWars": {
-        "value": "Civil war (1990–94); wars in the DR Congo.",
-        "year": null,
+        "value": "Genocide from 6 April 1994, lasting about 100 days: between 500,000 and 1,000,000 Tutsi and moderate Hutu were killed; the RPF controlled the country by mid-July.",
+        "year": 1994,
         "certainty": "confirmed",
-        "source": "Wikipedia: Rwanda"
+        "source": "Wikipedia: Rwanda (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "No change since independence in 1962, when the Belgian territory of Ruanda-Urundi was split into Rwanda and Burundi.",
@@ -220,10 +220,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Mostly Christian (Catholics, Protestants and Adventists), with a Muslim minority of a few per cent.",
-        "year": null,
+        "value": "Infobox: Christianity 93.8%, no religion 3.0%, Islam 2.2%. 2012 census: Catholic 43.7%, Protestant 37.7%, Seventh-day Adventist 11.8%, Muslim 2.0%.",
+        "year": 2012,
         "certainty": "confirmed",
-        "source": "Wikipedia: Rwanda"
+        "source": "Wikipedia: Rwanda (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Kinyarwanda is spoken by almost everyone; French, English (official since 2003) and Swahili (since 2017) are also official.",
@@ -270,18 +270,18 @@
         "source": "Wikipedia: Rwanda"
       },
       "colonisation": {
-        "value": "A German, then Belgian, territory until 1962.",
-        "year": 1916,
+        "value": "German rule from 1897 as part of German East Africa; Belgian rule from 1916 (Ruanda-Urundi, 1916–1962).",
+        "year": 1897,
         "certainty": "confirmed",
-        "source": "Wikipedia: Rwanda"
+        "source": "Wikipedia: Rwanda (checked 13 Nov 2026)"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Independence from Belgian rule on 1 July 1962, after the revolution of 1959–61 ended the monarchy.",
-        "year": 1962,
+        "value": "In the 15th century one kingdom under King Gihanga absorbed several neighbours; it reached its greatest extent in the 19th century under Kigeli Rwabugiri.",
+        "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Rwanda"
+        "source": "Wikipedia: Rwanda (checked 13 Nov 2026)"
       },
       "peakPeriod": {
         "value": "Too recent to judge; rapid recovery and growth since the 2000s are often noted.",
@@ -296,10 +296,10 @@
         "source": "Wikipedia: Rwanda"
       },
       "outcome": {
-        "value": "Still in existence as an independent republic with its capital at Kigali.",
-        "year": null,
+        "value": "Independence from Belgium on 1 July 1962.",
+        "year": 1962,
         "certainty": "confirmed",
-        "source": "Wikipedia: Rwanda"
+        "source": "Wikipedia: Rwanda (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

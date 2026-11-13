@@ -41,10 +41,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "The Greater Antilles (Hispaniola, Cuba, Puerto Rico, Jamaica) and the Bahamas; Kalinago lived in the Lesser Antilles.",
+        "value": "Most of the West Indies, from the Bahamas through the Greater Antilles to Guadeloupe in the northern Lesser Antilles.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Taíno"
+        "source": "Wikipedia: Taíno (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Islands with mountains, forests and coasts.",
@@ -73,10 +73,10 @@
     },
     "population": {
       "population": {
-        "value": "Hispaniola alone may have had hundreds of thousands to over a million people in 1492.",
+        "value": "Pre-1492 estimates for Hispaniola range from 10,000 to 1,000,000; a 2020 genetic analysis suggests no more than a few tens of thousands.",
         "year": 1492,
         "certainty": "disputed",
-        "source": "Wikipedia: Taíno"
+        "source": "Wikipedia: Taíno (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Villages of a few hundred to a few thousand.",
@@ -99,10 +99,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming cassava in mounds (conucos), fishing.",
+        "value": "Cassava (yuca) grown in raised mounds (conucos) was the staple, followed by sweet potato; maize, squash, beans, peppers, peanuts and pineapples were also grown, with fishing and hunting.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Taíno"
+        "source": "Wikipedia: Taíno (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Canoes carried goods and people between islands and to the South American coast.",
@@ -131,16 +131,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Chiefdoms led by caciques.",
+        "value": "Villages were ruled by a cacique (or cacica) and chiefdoms (cacicazgos) could form a confederation; chiefs generally gained power through the maternal line. There were four classes: cacique, nitaínos, bohíques (priests) and naborias (workers).",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Taíno"
+        "source": "Wikipedia: Taíno (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Caciques such as Anacaona and Guarionex of Hispaniola, and Hatuey, who resisted the Spanish in Cuba.",
-        "year": 1500,
+        "value": "Hatuey fled to Cuba to unite its people and was burned at the stake on 2 February 1512. Enriquillo led more than 3,000 Taíno in a successful rebellion on Hispaniola in the 1520s. Anacaona and Guarionex are not covered in the part of the page read.",
+        "year": 1512,
         "certainty": "confirmed",
-        "source": "Wikipedia: Taíno"
+        "source": "Wikipedia: Taíno (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Often through the mother’s line.",
@@ -175,10 +175,10 @@
         "source": "Wikipedia: Taíno"
       },
       "majorWars": {
-        "value": "Resistance to Spanish conquest (Hatuey, 1512).",
+        "value": "Hatuey was burned at the stake on 2 February 1512; Enriquillo led a successful rebellion on Hispaniola in the 1520s.",
         "year": 1512,
         "certainty": "confirmed",
-        "source": "Wikipedia: Taíno"
+        "source": "Wikipedia: Taíno (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Lost their islands to Spain.",
@@ -221,10 +221,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Zemí spirits and ancestors.",
+        "value": "Worship centred on zemis (spirits or ancestors); the major zemis were Atabey and her son Yúcahu.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Taíno"
+        "source": "Wikipedia: Taíno (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Taíno (Arawakan); words like hurricane, canoe, barbecue.",
@@ -279,10 +279,10 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Farming villages with cassava gardens spread across the islands after about 600 CE.",
-        "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Taíno"
+        "value": "DNA studies link the Taíno to pottery-making farmers who entered the Caribbean from north-eastern South America about 2,500 years ago.",
+        "year": -500,
+        "certainty": "estimated",
+        "source": "Wikipedia: Taíno (checked 13 Nov 2026)"
       },
       "peakPeriod": {
         "value": "About 1200–1500, when large chiefdoms existed on Hispaniola.",
@@ -291,16 +291,16 @@
         "source": "Wikipedia: Taíno"
       },
       "declineSignals": {
-        "value": "Conquest and disease after 1492.",
+        "value": "Columbus landed in the Bahamas on 12 October 1492; forced labour under the encomienda and infectious disease followed; famine in 1495–96 reportedly killed about 50,000.",
         "year": 1492,
         "certainty": "confirmed",
-        "source": "Wikipedia: Taíno"
+        "source": "Wikipedia: Taíno (checked 13 Nov 2026)"
       },
       "outcome": {
-        "value": "Descendants survive in Caribbean populations today.",
-        "year": null,
+        "value": "80–90% of the Taíno died within 30 years of contact, mostly from disease; Spanish documents declared them extinct as early as 1550.",
+        "year": 1550,
         "certainty": "confirmed",
-        "source": "Wikipedia: Taíno"
+        "source": "Wikipedia: Taíno (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

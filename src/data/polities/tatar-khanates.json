@@ -53,10 +53,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Middle and lower Volga, western Siberia, the steppe.",
+        "value": "Kazan Khanate: contemporary Tatarstan, Mari El, Chuvashia, Mordovia and parts of Udmurtia and Bashkortostan.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Khanate of Kazan"
+        "source": "Wikipedia: Khanate of Kazan (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Forest-steppe along the middle Volga (Kazan), the lower Volga delta (Astrakhan), western Siberian forests (Sibir) and open steppe (Nogai).",
@@ -85,10 +85,10 @@
     },
     "population": {
       "population": {
-        "value": "Kazan perhaps 400,000; the Nogai Horde several hundred thousand nomads.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Khanate of Kazan"
+        "value": "450,000 in the mid-16th century (infobox).",
+        "year": 1550,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Khanate of Kazan (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Kazan and Astrakhan were trading towns; Sibir’s capital Isker was small.",
@@ -111,10 +111,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Trade on the Volga, fur trade, herding and farming.",
-        "year": null,
+        "value": "In the 16th century Russia was Kazan’s main trading partner, with markets such as the Taşayaq Bazaar and a fair on the Volga; prisoners of war were usually sold abroad.",
+        "year": 1500,
         "certainty": "confirmed",
-        "source": "Wikipedia: Khanate of Kazan"
+        "source": "Wikipedia: Khanate of Kazan (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "The Volga route linking Russia, Persia and Central Asia.",
@@ -143,16 +143,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Khanates ruled by descendants of Genghis Khan, with powerful noble clans (beys).",
+        "value": "The khan governed with a cabinet council (Diwan); nobles held ranks such as beg, emir and morza.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Khanate of Kazan"
+        "source": "Wikipedia: Khanate of Kazan (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Ulugh Muhammad (Kazan), Söyembikä (regent of Kazan), Kuchum (Sibir), Edigu (Nogai founder).",
+        "value": "Ulugh Muhammad founded the Khanate of Kazan, taking the throne around 1437–1438.",
         "year": 1438,
         "certainty": "confirmed",
-        "source": "Wikipedia: Khanate of Kazan"
+        "source": "Wikipedia: Khanate of Kazan (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Chinggisid princes chosen with the backing of noble clans, often under Moscow or Crimea’s influence.",
@@ -187,10 +187,10 @@
         "source": "Wikipedia: Khanate of Kazan"
       },
       "majorWars": {
-        "value": "Siege of Kazan (1552); fall of Astrakhan (1556); Yermak’s invasion of Sibir (1582).",
+        "value": "Ivan III occupied Kazan in July 1487 and seated a puppet; Kazan made a mutual-aid treaty with Astrakhan in 1521; the Russians entered Kazan on 3 October 1552 and dismantled its administration.",
         "year": 1552,
         "certainty": "confirmed",
-        "source": "Wikipedia: Khanate of Kazan"
+        "source": "Wikipedia: Khanate of Kazan (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Absorbed by Russia between 1552 and 1598.",
@@ -233,10 +233,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Sunni Islam.",
+        "value": "Islam was the state religion.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Khanate of Kazan"
+        "source": "Wikipedia: Khanate of Kazan (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Tatar and other Kipchak Turkic languages, written in Arabic script.",
@@ -291,16 +291,16 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Breakup of the Golden Horde (1430s–60s).",
+        "value": "Ulugh Muhammad took the Kazan throne in 1437 or 1438 (infobox 1438), finalised by his son in 1445; a successor state of the Golden Horde with its capital at Kazan.",
         "year": 1438,
         "certainty": "confirmed",
-        "source": "Wikipedia: Khanate of Kazan"
+        "source": "Wikipedia: Khanate of Kazan (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Late 1400s, when Kazan sometimes dominated Moscow.",
-        "year": 1480,
+        "value": "The Crimean Khanate page names no peak; its map shows the limit of expansion in 1523. Devlet I Giray burned Moscow in 1571. The claim about Kazan dominating Moscow is unchecked.",
+        "year": 1571,
         "certainty": "estimated",
-        "source": "Wikipedia: Khanate of Kazan"
+        "source": "Wikipedia: Crimean Khanate (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "Russian conquest of Kazan (1552).",
@@ -309,10 +309,10 @@
         "source": "Wikipedia: Khanate of Kazan"
       },
       "outcome": {
-        "value": "Part of Russia; Tatars remain a large people (Tatarstan).",
-        "year": 1598,
+        "value": "Ivan IV conquered Kazan in 1552; Russian troops entered the city on 3 October 1552.",
+        "year": 1552,
         "certainty": "confirmed",
-        "source": "Wikipedia: Khanate of Kazan"
+        "source": "Wikipedia: Khanate of Kazan (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

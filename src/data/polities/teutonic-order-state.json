@@ -41,10 +41,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Prussia and Livonia on the Baltic coast.",
-        "year": null,
+        "value": "Prussia and Livonia on the Baltic coast; the headquarters moved to Marienburg in 1309 and to Königsberg in 1466.",
+        "year": 1309,
         "certainty": "confirmed",
-        "source": "Wikipedia: State of the Teutonic Order"
+        "source": "Wikipedia: Teutonic Order (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Low plains and forests along the Baltic, the Vistula delta, coastal lagoons, and the Masurian lake district.",
@@ -73,10 +73,10 @@
     },
     "population": {
       "population": {
-        "value": "Perhaps a few hundred thousand people in Prussia around 1400; numbers are uncertain.",
-        "year": null,
+        "value": "About 220,000 inhabitants at the beginning of the 14th century; the page gives no peak figure.",
+        "year": 1300,
         "certainty": "estimated",
-        "source": "Wikipedia: State of the Teutonic Order"
+        "source": "Wikipedia: State of the Teutonic Order (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Hanseatic towns: Danzig, Elbing, Königsberg.",
@@ -99,10 +99,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming of grain on the Order’s estates and villages, with grain and amber exported through Baltic ports.",
+        "value": "Control of port cities and trade, especially with the Hanseatic League, plus shipbuilding and a Baltic naval presence. Grain and amber are not mentioned in the part of the page read.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: State of the Teutonic Order"
+        "source": "Wikipedia: Teutonic Order (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Baltic and Hanseatic trade from Danzig, Elbing and Königsberg to Flanders and England; the Order itself was a Hanse member.",
@@ -131,16 +131,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Rule by a religious military order under a Grand Master.",
+        "value": "A religious military order under a Grand Master (Hochmeister), elected by the General Chapter until 1525 and in practice only “first among equals”.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: State of the Teutonic Order"
+        "source": "Wikipedia: Teutonic Order (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Hermann von Salza. Winrich von Kniprode. Albert of Brandenburg.",
-        "year": 1351,
+        "value": "Hermann von Salza was Grand Master 1209–1239; Winrich von Kniprode (1351–1382) brought it to its height of prestige; Albert of Brandenburg, after converting to Lutheranism, secularised the Prussian lands in 1525.",
+        "year": 1209,
         "certainty": "confirmed",
-        "source": "Wikipedia: State of the Teutonic Order"
+        "source": "Wikipedia: Teutonic Order (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Grand Masters were elected for life by the Order’s chapter; the knights were monks with no heirs.",
@@ -175,10 +175,10 @@
         "source": "Wikipedia: State of the Teutonic Order"
       },
       "majorWars": {
-        "value": "Prussian crusade (1230–83); Grunwald (1410).",
+        "value": "Battle of Grunwald, 15 July 1410, a Polish–Lithuanian victory that the page says marked the start of the state’s decline; Thirteen Years’ War 1454–1466, after the Prussian Confederation asked Casimir IV for support (he signed incorporation on 6 March 1454).",
         "year": 1410,
         "certainty": "confirmed",
-        "source": "Wikipedia: State of the Teutonic Order"
+        "source": "Wikipedia: State of the Teutonic Order (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Second Peace of Thorn (1466): lost Danzig, Marienburg and western Prussia to Poland and became a Polish vassal.",
@@ -221,10 +221,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Catholic Christianity; the Order was devoted to the Virgin Mary; Albert of Brandenburg adopted Lutheranism in 1525.",
-        "year": null,
+        "value": "A Catholic religious order; many Prussians stayed pagan for a time; Albert of Brandenburg converted to Lutheranism before secularising the order’s Prussian lands in 1525.",
+        "year": 1525,
         "certainty": "confirmed",
-        "source": "Wikipedia: State of the Teutonic Order"
+        "source": "Wikipedia: Teutonic Order (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "German in daily use and government, Latin in the Church; Old Prussian declined but survived among peasants.",
@@ -279,16 +279,16 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Invited by Duke Konrad of Masovia; the knights began the conquest of Prussia in 1230.",
-        "year": 1230,
+        "value": "The Golden Bull of Rimini (March 1226) tied Prussia to the Order; the Knights began the Prussian Crusade in 1230. The 1224 decree of Frederick II placed the region under imperial immediacy but is not described as the founding.",
+        "year": 1226,
         "certainty": "confirmed",
-        "source": "Wikipedia: State of the Teutonic Order"
+        "source": "Wikipedia: State of the Teutonic Order (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "About 1350–1400, under Grand Masters such as Winrich von Kniprode (1351–82).",
-        "year": 1400,
+        "value": "At its greatest extent in the early 15th century the state included Chełmno Land, Courland, Gotland, Livonia, Estonia, Neumark, Pomerelia, Prussia and Samogitia; the page gives no total area. Marienburg was capital 1308–1454 (infobox), then Königsberg 1454–1525.",
+        "year": 1410,
         "certainty": "confirmed",
-        "source": "Wikipedia: State of the Teutonic Order"
+        "source": "Wikipedia: State of the Teutonic Order (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "Defeat at Grunwald (Tannenberg) by Poland–Lithuania in 1410, followed by heavy war costs and taxes.",
@@ -297,10 +297,10 @@
         "source": "Wikipedia: State of the Teutonic Order"
       },
       "outcome": {
-        "value": "Grand Master Albert of Brandenburg made Prussia a Lutheran duchy under Polish overlordship in 1525.",
-        "year": 1525,
+        "value": "Second Peace of Thorn, 19 October 1466: the west became Royal Prussia and the rest a Polish fief. Albert of Brandenburg-Ansbach resigned as Grand Master, adopted Lutheranism and became Duke of Prussia (Prussian Homage, 10 April 1525).",
+        "year": 1466,
         "certainty": "confirmed",
-        "source": "Wikipedia: State of the Teutonic Order"
+        "source": "Wikipedia: State of the Teutonic Order (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

@@ -46,10 +46,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "South-west France, then the Iberian Peninsula.",
-        "year": null,
+        "value": "Toledo was capital from 542 to 711 in the infobox, with Barcelona serving temporarily from 507 to 542; the page does not give a date for the move.",
+        "year": 542,
         "certainty": "confirmed",
-        "source": "Wikipedia: Visigothic Kingdom"
+        "source": "Wikipedia: Visigothic Kingdom (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Meseta plateau, mountains and river valleys.",
@@ -78,10 +78,10 @@
     },
     "population": {
       "population": {
-        "value": "About 4–6 million Hispano-Romans ruled by perhaps 200,000 Goths.",
+        "value": "The page gives no population figures; it says the Gothic–Roman distinction had largely disappeared by the late 6th century. The entry’s 4–6 million and 200,000 are unconfirmed.",
         "year": null,
         "certainty": "estimated",
-        "source": "Wikipedia: Visigothic Kingdom"
+        "source": "Wikipedia: Visigothic Kingdom (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Mostly rural; a few walled towns and a royal or ducal capital.",
@@ -136,16 +136,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Elective monarchy.",
+        "value": "An elective monarchy: the page says the monarchy took on a completely elective character with the fall of the Balti.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Visigothic Kingdom"
+        "source": "Wikipedia: Visigothic Kingdom (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Euric. Leovigild. Reccared. Roderic.",
-        "year": 466,
+        "value": "Liuvigild reigned 569–586; the royal family’s conversion to Catholicism under Recared came in 587, and he announced the Nicene creed at the Third Council of Toledo in 589.",
+        "year": 569,
         "certainty": "confirmed",
-        "source": "Wikipedia: Visigothic Kingdom"
+        "source": "Wikipedia: Visigothic Kingdom (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Kings elected by nobles and bishops; many murdered.",
@@ -154,10 +154,10 @@
         "source": "Wikipedia: Visigothic Kingdom"
       },
       "institutions": {
-        "value": "Councils of Toledo (church and state).",
-        "year": 589,
+        "value": "The Visigothic Code, completed in 654, ended the old tradition of separate laws for Hispano-Romans and Visigoths.",
+        "year": 654,
         "certainty": "confirmed",
-        "source": "Wikipedia: Visigothic Kingdom"
+        "source": "Wikipedia: Visigothic Kingdom (checked 13 Nov 2026)"
       },
       "stability": {
         "value": "Frequent coups.",
@@ -180,10 +180,10 @@
         "source": "Wikipedia: Visigothic Kingdom"
       },
       "majorWars": {
-        "value": "Battle of Vouillé (507); Muslim conquest (711).",
-        "year": 711,
+        "value": "Alaric II was killed at the Battle of Campus Vogladensis near Poitiers in 507 and Toulouse was sacked; by 508 only Septimania was left in Gaul.",
+        "year": 507,
         "certainty": "confirmed",
-        "source": "Wikipedia: Visigothic Kingdom"
+        "source": "Wikipedia: Visigothic Kingdom (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Lost Gaul to the Franks (507).",
@@ -226,10 +226,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Arian Christianity, then Catholic from 589.",
+        "value": "Arian Christianity until 589, then Catholic; Reccared’s conversion is dated 587 in one passage and 589 in another, and the Third Council of Toledo in 589 denounced Arianism.",
         "year": 589,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Visigothic Kingdom"
+        "certainty": "disputed",
+        "source": "Wikipedia: Visigothic Kingdom (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Latin; Gothic faded.",
@@ -284,16 +284,16 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Settled in Aquitaine by treaty (418).",
+        "value": "Alaric’s Visigoths sacked Rome in 410; in 418 Honorius rewarded King Wallia’s federates with land in the Garonne valley, and the kingdom was based at Toulouse (418–507 in the infobox).",
         "year": 418,
         "certainty": "confirmed",
-        "source": "Wikipedia: Visigothic Kingdom"
+        "source": "Wikipedia: Visigothic Kingdom (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Under Leovigild (568–86).",
-        "year": 575,
+        "value": "By the end of his reign Liuvigild (568/9–586) had united the whole Iberian peninsula, conquering the Suebic Kingdom in 585; the kingdom covered 600,000 km² in 580.",
+        "year": 585,
         "certainty": "confirmed",
-        "source": "Wikipedia: Visigothic Kingdom"
+        "source": "Wikipedia: Visigothic Kingdom (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "Civil war in 710.",
@@ -302,10 +302,10 @@
         "source": "Wikipedia: Visigothic Kingdom"
       },
       "outcome": {
-        "value": "Conquered by the Umayyads (711–21); Asturias carried on in the north.",
+        "value": "A battle at the Guadalete River in late July 711 ended with King Roderic killed; most of the kingdom was taken by Umayyad troops between 711 and 719, and the infobox gives 721 for the Umayyad occupation of Septimania.",
         "year": 711,
         "certainty": "confirmed",
-        "source": "Wikipedia: Visigothic Kingdom"
+        "source": "Wikipedia: Visigothic Kingdom (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

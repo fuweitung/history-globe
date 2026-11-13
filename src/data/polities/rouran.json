@@ -43,10 +43,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "The Mongolian steppe north of the Gobi, at times reaching west to the Tarim Basin oases and east toward Manchuria.",
+        "value": "All of modern Mongolia and Inner Mongolia, plus parts of Manchuria, eastern Siberia, Xinjiang and Kazakhstan.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Rouran Khaganate"
+        "source": "Wikipedia: Rouran Khaganate (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Wide grasslands, the Gobi Desert to the south, and the Altai and Khangai mountains to the west.",
@@ -75,10 +75,10 @@
     },
     "population": {
       "population": {
-        "value": "Unknown; perhaps a few hundred thousand people, including many subject tribes. Few records survive.",
+        "value": "Not stated; the page says the state was undoubtedly multi-ethnic.",
         "year": null,
         "certainty": "estimated",
-        "source": "Wikipedia: Rouran Khaganate"
+        "source": "Wikipedia: Rouran Khaganate (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "No towns of their own; people lived in mobile camps, though they controlled oasis cities such as Turfan at times.",
@@ -101,10 +101,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Herding and tribute from subject peoples.",
+        "value": "Controlled trade routes and raided oasis towns such as Gaochang; the state aimed at requisitioning surplus products from neighbours. Herding appears only in a quoted Chinese account.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Rouran Khaganate"
+        "source": "Wikipedia: Rouran Khaganate (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Silk Road routes north of China; they traded horses and furs to China and took tribute from the Turfan oasis.",
@@ -133,16 +133,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A khaganate: a confederation of tribes under a supreme ruler, the khagan, from the Yujiulü clan.",
+        "value": "An imperial confederation under a khagan, with a kurultai as its assembly.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Rouran Khaganate"
+        "source": "Wikipedia: Rouran Khaganate (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Shelun (first to take the title khagan, 402). Anagui.",
+        "value": "Yujiulü Shelun united the Rouran clans around 402; Anagui was the last great khan and killed himself after defeat.",
         "year": 402,
         "certainty": "confirmed",
-        "source": "Wikipedia: Rouran Khaganate"
+        "source": "Wikipedia: Rouran Khaganate (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Within the ruling Yujiulü clan; brothers and sons often fought over the throne.",
@@ -177,10 +177,10 @@
         "source": "Wikipedia: Rouran Khaganate"
       },
       "majorWars": {
-        "value": "Long wars with the Northern Wei, whose Emperor Taiwu led a great campaign into the steppe in 429.",
+        "value": "Perpetual conflict with Northern Wei, which launched a major offensive in 429; Göktürk rebels defeated the Rouran in 552.",
         "year": 429,
         "certainty": "confirmed",
-        "source": "Wikipedia: Rouran Khaganate"
+        "source": "Wikipedia: Rouran Khaganate (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Defeated by the Göktürks under Bumin (552), after which the khaganate quickly collapsed.",
@@ -223,10 +223,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Steppe beliefs with shamans; some Buddhism, especially among the elite in the early 500s.",
+        "value": "Tengrism, shamanism and Buddhism (infobox); a shaman figurine was found in a princess’s tomb.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Rouran Khaganate"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Rouran Khaganate (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Their language is uncertain (perhaps Mongolic).",
@@ -281,16 +281,16 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "United steppe tribes in the 4th century.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Rouran Khaganate"
+        "value": "The infobox gives 330; Shelun united the Rouran in 402 and took the title Qiudoufa Khagan (reigned 402–410). The Rouran were the first people to use the titles khagan and khan.",
+        "year": 402,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Rouran Khaganate (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "The early 400s under Shelun and his successors, when they ruled most of the Mongolian steppe.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Rouran Khaganate"
+        "value": "Sources on the page differ: the infobox gives 2,800,000 km² in 405, after Shelun united the Rouran in 402, while the text says the Rouran were “at the peak of their might” in 552 when the Turks defeated them. The khaganate ended in 555.",
+        "year": 552,
+        "certainty": "disputed",
+        "source": "Wikipedia: Rouran Khaganate (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "Revolt of the Göktürks, their former iron-working subjects.",
@@ -299,10 +299,10 @@
         "source": "Wikipedia: Rouran Khaganate"
       },
       "outcome": {
-        "value": "Destroyed by the Göktürks (552–555); the Avars of Europe may have been linked to them, but this is disputed.",
+        "value": "The Rouran were said to be at the peak of their might shortly before the Turks defeated them in 552; Turks invaded in 555 and Muqan annihilated them.",
         "year": 555,
         "certainty": "confirmed",
-        "source": "Wikipedia: Rouran Khaganate"
+        "source": "Wikipedia: Rouran Khaganate (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

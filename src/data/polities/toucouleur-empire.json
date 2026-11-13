@@ -99,10 +99,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming of millet and rice, cattle herding, tribute from conquered peoples, and booty and captives taken in war.",
+        "value": "Taxes (religious and secular) and customs duties on trade; insecurity and the arms trade shifted trade from north–south Niger routes to an east–west axis linking Nioro and Segou. Millet, rice and cattle are not mentioned in the part of the page read.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Toucouleur Empire"
+        "source": "Wikipedia: Toucouleur Empire (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "River trade on the Niger and Senegal; caravans carried gold, grain and captives, and traders bought guns from French and British posts.",
@@ -131,16 +131,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "An Islamic state ruled by Umar Tall as caliph of the Tijaniyya Sufi order, then by his son Ahmadu as Commander of the Faithful.",
+        "value": "An Islamic state founded by Umar Tall, who returned from the Hajj as caliph of the Tijaniyya brotherhood of the Sudan; his son Ahmadu was enthroned as successor and Amir al-Mu’minin. Qadis and marabouts handled justice and Islamisation, and the state was funded by religious and secular taxes and customs duties.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Toucouleur Empire"
+        "source": "Wikipedia: Toucouleur Empire (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "El Hadj Umar Tall, founder (1852–64); his son Ahmadu Tall (ruled from Ségou 1864–90); his nephew Tijani Tall in Masina.",
-        "year": 1852,
+        "value": "Umar Tall (killed 1864) and his son Ahmadu, who continued to reign at Ségou and moved his court to Nioro after a revolt by his brother Muntaga in 1884.",
+        "year": 1864,
         "certainty": "confirmed",
-        "source": "Wikipedia: Toucouleur Empire"
+        "source": "Wikipedia: Toucouleur Empire (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Ahmadu succeeded his father in 1864, but his brothers ruled their own provinces, such as Nioro, and challenged his authority.",
@@ -175,10 +175,10 @@
         "source": "Wikipedia: Toucouleur Empire"
       },
       "majorWars": {
-        "value": "Siege of Médine (1857); conquest of Ségou (1861) and Hamdullahi (1862).",
-        "year": 1861,
+        "value": "Djenné fell quickly, followed by Hamdullahi in May 1862; rebels retook Hamdullahi in February 1864 and Umar Tall fled but was killed soon after.",
+        "year": 1862,
         "certainty": "confirmed",
-        "source": "Wikipedia: Toucouleur Empire"
+        "source": "Wikipedia: Toucouleur Empire (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Conquered Kaarta (1855), Ségou (1861) and Masina (1862) quickly, then lost all of them to France in 1890–93.",
@@ -221,10 +221,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Sunni Islam with the Tijaniyya Sufi order; Umar was the order’s chief leader (khalifa) in West Africa.",
+        "value": "Islam with the Tijaniyya order: Umar Tall returned from the Hajj as caliph of the Tijaniyya brotherhood of the Sudan.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Toucouleur Empire"
+        "source": "Wikipedia: Toucouleur Empire (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Fula (Pulaar) was spoken by the Toucouleur elite; Arabic for religion and letters; Bambara among many subjects.",
@@ -279,16 +279,16 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Umar launched his jihad from Dinguiraye in 1852 with disciples from Futa Toro.",
-        "year": 1852,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Toucouleur Empire"
-      },
-      "peakPeriod": {
-        "value": "After taking Ségou (1861) and Hamdullahi (1862), it ruled from the upper Senegal to Timbuktu’s region.",
+        "value": "After conquering Tamba (its king Yambi was beaten in September 1852) Umar Tall launched his jihad; he won the Battle of Ségou on 10 March 1861 and made the city his capital.",
         "year": 1861,
         "certainty": "confirmed",
-        "source": "Wikipedia: Toucouleur Empire"
+        "source": "Wikipedia: Toucouleur Empire (checked 13 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": "Umar took Segou in March 1861 and Hamdullahi fell in May 1862; the page’s map shows the greatest extent at the time of Umar’s death in 1864.",
+        "year": 1862,
+        "certainty": "estimated",
+        "source": "Wikipedia: Toucouleur Empire (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "Umar was killed near Bandiagara (1864) during the Masina revolt, and the state split among his heirs.",
@@ -297,10 +297,10 @@
         "source": "Wikipedia: Toucouleur Empire"
       },
       "outcome": {
-        "value": "Absorbed into French Sudan (today’s Mali) by 1893; Ahmadu fled east and died in exile.",
+        "value": "The French captured Nioro in 1891 and drove Ahmadu to Bandiagara; the text says the French took final control in 1893, ending the empire, while the infobox gives 1903.",
         "year": 1893,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Toucouleur Empire"
+        "certainty": "disputed",
+        "source": "Wikipedia: Toucouleur Empire (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

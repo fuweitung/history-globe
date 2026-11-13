@@ -40,10 +40,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Central Asia; about 449,000 km²; double landlocked.",
+        "value": "Central Asia; area 448,978 km²; capital and largest city Tashkent.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Uzbekistan"
+        "source": "Wikipedia: Uzbekistan (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "The Kyzylkum desert and Ustyurt plateau, the Amu Darya and Syr Darya rivers, irrigated oases, and the Fergana Valley in the east.",
@@ -72,10 +72,10 @@
     },
     "population": {
       "population": {
-        "value": "About 37 million people in the mid-2020s, the largest in Central Asia.",
-        "year": 2024,
-        "certainty": "estimated",
-        "source": "Wikipedia: Uzbekistan"
+        "value": "39,047,321 (infobox, 2026 census entry).",
+        "year": 2026,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "About half the population lives in cities; Tashkent is the capital and largest, followed by Samarkand, Namangan and Andijan.",
@@ -98,10 +98,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Cotton, gold, natural gas and other minerals, plus remittances from migrant workers.",
+        "value": "A major cotton producer and exporter; it mines about 80 tonnes of gold a year (7th in the world); Uzbekneftegaz produces 60–70 billion cubic metres of gas a year; almost 10% of the labour force works abroad.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Uzbekistan"
+        "source": "Wikipedia: Uzbekistan (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Rail and road links across Central Asia, gas pipelines to China, and the old Silk Road cities.",
@@ -110,10 +110,10 @@
         "source": "Wikipedia: Uzbekistan"
       },
       "wealth": {
-        "value": "A lower-middle-income country, with richer cities and poorer rural areas.",
-        "year": null,
+        "value": "HDI 0.740, high (107th, 2023).",
+        "year": 2023,
         "certainty": "confirmed",
-        "source": "Wikipedia: Uzbekistan"
+        "source": "Wikipedia: Uzbekistan (checked 13 Nov 2026)"
       },
       "moneyAndTax": {
         "value": "The Uzbek som, introduced in 1994; currency exchange was freed in 2017.",
@@ -130,16 +130,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A presidential republic with a strong presidency and little political opposition.",
-        "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Uzbekistan"
-      },
-      "keyRulers": {
-        "value": "Islam Karimov, president from independence in 1991 until his death in 2016; later leaders followed through elections.",
+        "value": "A unitary semi-presidential republic with a two-chamber Oliy Majlis; Islam Karimov was president from 1991 to his death in 2016, then Shavkat Mirziyoyev.",
         "year": 1991,
         "certainty": "confirmed",
-        "source": "Wikipedia: Uzbekistan"
+        "source": "Wikipedia: Uzbekistan (checked 13 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Islam Karimov was elected first president on 29 December 1991 and died on 2 September 2016; Shavkat Mirziyoyev became interim president and was elected with 88.6% of the vote.",
+        "year": 1991,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Uzbekistan (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Presidential elections, generally without strong rivals; after Karimov’s death in 2016, power passed peacefully.",
@@ -154,10 +154,10 @@
         "source": "Wikipedia: Uzbekistan"
       },
       "stability": {
-        "value": "Mostly stable but tightly controlled; security forces killed many protesters at Andijan in 2005.",
+        "value": "At Andijan in 2005 troops fired on protesters: 187 killed by official reports, several hundred by unofficial and witness accounts.",
         "year": 2005,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Uzbekistan"
+        "certainty": "disputed",
+        "source": "Wikipedia: Uzbekistan (checked 13 Nov 2026)"
       },
       "eliteConflict": {
         "value": "Competition between political parties and leaders.",
@@ -174,16 +174,16 @@
         "source": "Wikipedia: Uzbekistan"
       },
       "majorWars": {
-        "value": "No major wars; armed militants entered from Tajikistan and Kyrgyzstan in 1999–2000.",
-        "year": null,
+        "value": "No wars are described. Troops fired into crowds at Andijan in 2005, killing 187 by official count and several hundred by witness accounts. The 1999–2000 incursions are not covered in the part read.",
+        "year": 2005,
         "certainty": "confirmed",
-        "source": "Wikipedia: Uzbekistan"
+        "source": "Wikipedia: Uzbekistan (checked 13 Nov 2026)"
       },
       "territoryChange": {
-        "value": "Borders unchanged since 1991, though some Fergana Valley borders with Kyrgyzstan and Tajikistan were disputed.",
-        "year": null,
+        "value": "Most of Central Asia was gradually absorbed by the Russian Empire during the 19th century (the page does not give 1865 for Tashkent); the Uzbek SSR was created on 27 October 1924.",
+        "year": 1924,
         "certainty": "confirmed",
-        "source": "Wikipedia: Uzbekistan"
+        "source": "Wikipedia: Uzbekistan (checked 13 Nov 2026)"
       },
       "alliancesRivals": {
         "value": "Balances Russia, China and the West; a member of the CIS and the Shanghai Cooperation Organisation.",
@@ -220,10 +220,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Mostly Sunni Muslim (Hanafi), with Russian Orthodox and other minorities; religion is closely controlled by the state.",
+        "value": "Sources differ on the Muslim share: 94.28% (infobox, 2025), 96% (text), 96.7% (Pew projection) and 88% (CIA, 2004). The Hanafi school is not covered in the part read.",
         "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Uzbekistan"
+        "certainty": "disputed",
+        "source": "Wikipedia: Uzbekistan (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Uzbek is the official language, switched to Latin script in the 1990s; Russian is widely used.",
@@ -296,10 +296,10 @@
         "source": "Wikipedia: Uzbekistan"
       },
       "outcome": {
-        "value": "Still in existence as an independent republic.",
-        "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Uzbekistan"
+        "value": "Declared independence on 31 August 1991 after the failed Moscow coup; the infobox gives 1 September 1991.",
+        "year": 1991,
+        "certainty": "disputed",
+        "source": "Wikipedia: Uzbekistan (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

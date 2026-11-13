@@ -40,10 +40,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "East of the Jordan River; about 89,000 km².",
+        "value": "Middle East; 89,342 km².",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Jordan"
+        "source": "Wikipedia: Jordan (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Mostly desert; Jordan valley; highlands.",
@@ -72,10 +72,10 @@
     },
     "population": {
       "population": {
-        "value": "About 11 million people (2024), including many refugees and foreign workers.",
-        "year": 2024,
+        "value": "11,484,805 (2023 estimate, infobox); the body gives 11.5 million with no year.",
+        "year": 2023,
         "certainty": "confirmed",
-        "source": "Wikipedia: Jordan"
+        "source": "Wikipedia: Jordan (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Over 90% urban; the Amman area holds about 4 million people, followed by Zarqa and Irbid.",
@@ -110,10 +110,10 @@
         "source": "Wikipedia: Jordan"
       },
       "wealth": {
-        "value": "A middle-income country with few natural resources, high unemployment and a reliance on foreign aid.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Jordan"
+        "value": "HDI 0.754, high (100th, 2023).",
+        "year": 2023,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan (checked 13 Nov 2026)"
       },
       "moneyAndTax": {
         "value": "The Jordanian dinar, introduced in 1950 and pegged to the US dollar since 1995.",
@@ -130,16 +130,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A constitutional monarchy under the 1952 constitution, in which the king holds wide powers alongside an elected parliament.",
-        "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Jordan"
-      },
-      "keyRulers": {
-        "value": "King Abdullah I (1946–51), the founder; King Hussein (1952–99), who ruled for nearly 47 years; his son became king in 1999.",
+        "value": "A semi-constitutional monarchy in which the king holds wide executive and legislative powers; the current constitution dates to 11 January 1952.",
         "year": 1952,
         "certainty": "confirmed",
-        "source": "Wikipedia: Jordan"
+        "source": "Wikipedia: Jordan (checked 13 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Abdullah I, first king (assassinated 1951); Hussein, who came to the throne in 1953 and ruled until his death in 1999.",
+        "year": 1953,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Jordan (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Hereditary in the Hashemite family; the king names the crown prince from among his sons or brothers.",
@@ -174,10 +174,10 @@
         "source": "Wikipedia: Jordan"
       },
       "majorWars": {
-        "value": "The Arab–Israeli wars of 1948 and 1967, when Jordan lost the West Bank, and the Black September conflict of 1970–71.",
+        "value": "Jordan joined the 1948 Palestine war on 15 May 1948 and annexed the West Bank on 24 April 1950; it lost the West Bank to Israel in the Six-Day War (1967). Jordanian forces fought Palestinian fedayeen in Black September (September 1970). A peace treaty with Israel was signed on 26 October 1994.",
         "year": 1948,
         "certainty": "confirmed",
-        "source": "Wikipedia: Jordan"
+        "source": "Wikipedia: Jordan (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Held the West Bank and East Jerusalem from 1948 (annexed 1950) until 1967; gave up its claim in 1988.",
@@ -220,10 +220,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Mostly Sunni Muslim; Christian minority.",
+        "value": "About 95% Muslim (mostly Sunni, the official religion) and about 3% Christian; the rest are Druze, Baháʼí or other.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Jordan"
+        "source": "Wikipedia: Jordan (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Arabic is the official language; English is widely used in business and education.",
@@ -278,10 +278,10 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Independence as the Hashemite Kingdom of Transjordan on 25 May 1946; renamed Jordan in 1949.",
-        "year": 1946,
+        "value": "The Emirate of Transjordan was established on 11 April 1921 under Emir Abdullah.",
+        "year": 1921,
         "certainty": "confirmed",
-        "source": "Wikipedia: Jordan"
+        "source": "Wikipedia: Jordan (checked 13 Nov 2026)"
       },
       "peakPeriod": {
         "value": "Too recent to judge; it has stayed stable while several neighbours faced wars.",
@@ -296,10 +296,10 @@
         "source": "Wikipedia: Jordan"
       },
       "outcome": {
-        "value": "Still in existence as a Hashemite kingdom with its capital at Amman.",
-        "year": null,
+        "value": "Independence in 1946 as the Hashemite Kingdom of Jordan; the peace treaty with Israel was signed on 26 October 1994.",
+        "year": 1946,
         "certainty": "confirmed",
-        "source": "Wikipedia: Jordan"
+        "source": "Wikipedia: Jordan (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

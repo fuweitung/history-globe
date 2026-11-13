@@ -42,10 +42,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "The Red Sea coast of western Arabia, including Mecca, Medina, Jeddah and Taif.",
+        "value": "The Hejaz region, the western part of the Arabian Peninsula.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Hejaz"
+        "source": "Wikipedia: Kingdom of Hejaz (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Coastal plain (Tihama) and the Hejaz mountains.",
@@ -74,10 +74,10 @@
     },
     "population": {
       "population": {
-        "value": "About 850,000.",
-        "year": null,
+        "value": "Not stated for the kingdom. The infobox gives 10.5 million (2011) for the wider Hejaz region.",
+        "year": 2011,
         "certainty": "estimated",
-        "source": "Wikipedia: Kingdom of Hejaz"
+        "source": "Wikipedia: Hejaz (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Mecca, Medina and Jeddah.",
@@ -132,16 +132,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Monarchy under the Hashemite family, guardians of Mecca.",
-        "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Hejaz"
-      },
-      "keyRulers": {
-        "value": "Hussein bin Ali (1916–24) and his son Ali (1924–25).",
+        "value": "An absolute monarchy under the Hashemite dynasty: Hussein bin Ali (1916–1924) and Ali bin Hussein (1924–1925). The page does not describe a formal guardianship of Mecca and Medina, and Medina stayed under Ottoman control.",
         "year": 1916,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Hejaz"
+        "source": "Wikipedia: Kingdom of Hejaz (checked 13 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Hussein bin Ali reigned from 10 June 1916 until he abdicated on 3 October 1924; Ali bin Hussein reigned until he was deposed on 19 December 1925. The infobox lists different rulers, so the page is inconsistent.",
+        "year": 1916,
+        "certainty": "disputed",
+        "source": "Wikipedia: Kingdom of Hejaz (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Hussein abdicated in favour of Ali (1924).",
@@ -176,10 +176,10 @@
         "source": "Wikipedia: Kingdom of Hejaz"
       },
       "majorWars": {
-        "value": "Arab Revolt (1916–18); Saudi conquest (1924–25).",
-        "year": 1916,
+        "value": "Hussein proclaimed the Great Arab Revolt against the Ottomans (Medina stayed Ottoman throughout; the page gives no end date); the British withdrew support in favour of Ibn Saud, the Nejd conquered the kingdom on 19 December 1925, and Abdulaziz was crowned King of Hejaz on 8 January 1926.",
+        "year": 1925,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Hejaz"
+        "source": "Wikipedia: Kingdom of Hejaz (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Conquered by Ibn Saud in 1924–25.",
@@ -222,10 +222,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Sunni Islam; guardians of the holy cities.",
+        "value": "Sunni Islam, with Arabic as the common language.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Hejaz"
+        "source": "Wikipedia: Kingdom of Hejaz (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Arabic.",
@@ -280,16 +280,16 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Arab Revolt (1916).",
+        "value": "An independent State of Hejaz under Sharif Hussein bin Ali was proclaimed in 1916, after Ottoman control ended.",
         "year": 1916,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Hejaz"
+        "source": "Wikipedia: Hejaz (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "After the Arab Revolt’s victory (1918).",
-        "year": 1918,
+        "value": "The page gives no peak. It was self-proclaimed as a kingdom in June 1916 and recognised on 10 August 1920; Britain then backed Ibn Saud, and Hussein surrendered on 23 December 1925 (the infobox says 19 December).",
+        "year": 1920,
         "certainty": "estimated",
-        "source": "Wikipedia: Kingdom of Hejaz"
+        "source": "Wikipedia: Kingdom of Hejaz (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "Hussein claimed the caliphate (1924), angering many.",
@@ -298,10 +298,10 @@
         "source": "Wikipedia: Kingdom of Hejaz"
       },
       "outcome": {
-        "value": "Conquered by Ibn Saud; part of Saudi Arabia (1932).",
+        "value": "Hussein surrendered to the Saudis on 23 December 1925. The article gives 1925 for incorporation and 23 September 1932 for the renaming to Saudi Arabia.",
         "year": 1925,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Hejaz"
+        "certainty": "disputed",
+        "source": "Wikipedia: Hejaz (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

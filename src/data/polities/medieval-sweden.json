@@ -72,10 +72,10 @@
     },
     "population": {
       "population": {
-        "value": "Perhaps around 750,000 people by about 1500, including Finland; numbers fell sharply after the Black Death.",
-        "year": null,
+        "value": "The Black Death killed a third of the population in 1349–1351 and numbers did not recover to pre-1348 levels until the early 19th century; the page gives no total for around 1500, so the earlier estimate of about 750,000 is not confirmed here.",
+        "year": 1349,
         "certainty": "estimated",
-        "source": "Wikipedia: History of Sweden (800–1521)"
+        "source": "Wikipedia: Kingdom of Sweden (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Mostly rural; a few walled towns and a royal or ducal capital.",
@@ -98,10 +98,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming and cattle raising, iron and copper mining, fishing, and the export of metals, furs and butter.",
-        "year": null,
+        "value": "Sweden remained poor and underdeveloped, with barter the main means of exchange, and Gustav Vasa broke the Hanseatic League’s trade monopoly; the page does not mention medieval iron, copper or butter exports.",
+        "year": 1523,
         "certainty": "confirmed",
-        "source": "Wikipedia: History of Sweden (800–1521)"
+        "source": "Wikipedia: Kingdom of Sweden (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Baltic trade dominated by the Hanseatic League; Visby on Gotland and Stockholm traded with Lübeck and Novgorod.",
@@ -130,16 +130,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Elective monarchy, hereditary from 1544.",
-        "year": null,
+        "value": "The monarchy became hereditary in 1544; the page does not describe the earlier elective system.",
+        "year": 1544,
         "certainty": "confirmed",
-        "source": "Wikipedia: History of Sweden (800–1521)"
+        "source": "Wikipedia: Kingdom of Sweden (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Birger Jarl. Magnus Ladulås. Gustav Vasa.",
-        "year": 1250,
+        "value": "Birger Jarl led the Second Swedish Crusade, bringing Finland gradually into the kingdom; Magnus Ladulås reigned 1275–1290; the nobles made Gustav Vasa king on 6 June 1523.",
+        "year": 1523,
         "certainty": "confirmed",
-        "source": "Wikipedia: History of Sweden (800–1521)"
+        "source": "Wikipedia: Kingdom of Sweden (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Kings were elected at the Stones of Mora; the Riksdag made the monarchy hereditary in the Vasa family in 1544.",
@@ -174,10 +174,10 @@
         "source": "Wikipedia: History of Sweden (800–1521)"
       },
       "majorWars": {
-        "value": "The Swedish War of Liberation (1521–23) ended the Kalmar Union; later wars with Denmark (1563–70) and Russia.",
-        "year": 1521,
+        "value": "Christian II’s massacre of Swedish nobles in 1520 renewed resistance, which ended with Gustav Vasa’s election as king in 1523; the Kalmar Union lasted from 17 June 1397 to 6 June 1523. The page does not name a “War of Liberation”.",
+        "year": 1523,
         "certainty": "confirmed",
-        "source": "Wikipedia: History of Sweden (800–1521)"
+        "source": "Wikipedia: Kingdom of Sweden (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Brought Finland under Swedish rule in the 1100s–1200s; the Treaty of Nöteborg (1323) set a border with Novgorod; took Estonia (1561).",
@@ -220,10 +220,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Catholic from about 1000, with Uppsala as an archbishopric (1164); Gustav Vasa broke with Rome in 1527, leading to Lutheranism.",
+        "value": "Gustav Vasa rejected Catholicism and led Sweden into the Reformation (a Riksdag met in 1527, though the page does not name Västerås); the Uppsala Synod of 1593 confirmed the Church of Sweden as Lutheran. The 1164 archbishopric is not mentioned.",
         "year": 1527,
         "certainty": "confirmed",
-        "source": "Wikipedia: History of Sweden (800–1521)"
+        "source": "Wikipedia: Kingdom of Sweden (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Old Swedish written in runes and later the Latin alphabet; Latin for the Church; the first Swedish Bible printed in 1541.",
@@ -278,10 +278,10 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Christian kings such as Olof Skötkonung (about 1000) began to unite the Svear and Götar into one kingdom.",
-        "year": 1000,
+        "value": "A unified Swedish state was established in the late 10th century; the Swedish Viking Age lasted roughly from the eighth to the 11th century.",
+        "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: History of Sweden (800–1521)"
+        "source": "Wikipedia: Kingdom of Sweden (checked 13 Nov 2026)"
       },
       "peakPeriod": {
         "value": "The early Vasa era: Gustav Vasa centralised the state, took Church lands and built an army and navy from the 1520s.",
@@ -296,10 +296,10 @@
         "source": "Wikipedia: History of Sweden (800–1521)"
       },
       "outcome": {
-        "value": "Became the Swedish Empire when Gustavus Adolphus became king in 1611.",
-        "year": 1611,
+        "value": "Sweden joined the Kalmar Union in 1397 and left it in 1523, when Gustav Vasa was made king on 6 June 1523.",
+        "year": 1523,
         "certainty": "confirmed",
-        "source": "Wikipedia: History of Sweden (800–1521)"
+        "source": "Wikipedia: Kingdom of Sweden (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

@@ -102,10 +102,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming grains and yams, herding cattle in the north, iron working.",
-        "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+        "value": "Pearl millet was domesticated near Dhar Tichitt by about 1900–1700 BCE (fully by at least 1100 BCE); pearl millet and cowpeas are the only crops known from the Nok.",
+        "year": -1900,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dhar Tichitt and Nok culture (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Exchange along the Niger River; later the trans-Saharan trade.",
@@ -198,10 +198,10 @@
     },
     "technology": {
       "inventions": {
-        "value": "Iron smelting (Nok, from about 900–500 BCE), domestication of pearl millet and African rice.",
-        "year": -500,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+        "value": "Nok iron metallurgy may have developed between 750 and 550 BCE and the earliest Nok terracotta sculptures around 900 BCE; their purpose is unknown.",
+        "year": -750,
+        "certainty": "estimated",
+        "source": "Wikipedia: Nok culture (checked 13 Nov 2026)"
       },
       "scienceEducation": {
         "value": "Knowledge passed on orally; griots (praise singers) kept histories.",
@@ -282,10 +282,10 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Domesticating local crops allowed farming in hot, seasonal climates.",
-        "year": -2500,
-        "certainty": "estimated",
-        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+        "value": "Dhar Tichitt in Mauritania was settled by pastoralists and farmers from about 2000 to 300 BCE; the Nok culture of Nigeria may have lasted from 1500 BCE to 1 BCE. The entry’s start of 2500 BCE is earlier than both.",
+        "year": -2000,
+        "certainty": "disputed",
+        "source": "Wikipedia: Dhar Tichitt and Nok culture (checked 13 Nov 2026)"
       },
       "peakPeriod": {
         "value": "No single peak; kingdoms rose from these farming societies.",
@@ -300,10 +300,10 @@
         "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
       },
       "outcome": {
-        "value": "Their descendants live across West Africa today.",
-        "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Nok culture; Wikipedia: History of West Africa"
+        "value": "Around 2,500 years ago the Sahara dried out near Dhar Tichitt and people are thought to have been forced out; the page gives no reason for the Nok decline.",
+        "year": -500,
+        "certainty": "estimated",
+        "source": "Wikipedia: Dhar Tichitt (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

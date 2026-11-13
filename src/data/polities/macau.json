@@ -35,10 +35,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "South China coast near Hong Kong; about 33 km².",
+        "value": "Southern China, on the Pearl River estuary; land area 32.9 km² (the text; the infobox gives a total of 119.3 km²).",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Macau"
+        "source": "Wikipedia: Macau (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "A small peninsula and the former islands of Taipa and Coloane, now joined by the reclaimed Cotai strip.",
@@ -67,10 +67,10 @@
     },
     "population": {
       "population": {
-        "value": "About 690,000; one of the densest places on Earth.",
+        "value": "712,651 (2024 estimate, infobox); the text gives 667,400 for the end of 2018.",
         "year": 2024,
         "certainty": "confirmed",
-        "source": "Wikipedia: Macau"
+        "source": "Wikipedia: Macau (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Entirely urban, with high-rise housing, casinos on the Cotai strip and the old city centre on the peninsula.",
@@ -93,10 +93,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Gambling and tourism; trade in the past.",
-        "year": null,
+        "value": "Casino gambling was legalised in 1962.",
+        "year": 1962,
         "certainty": "confirmed",
-        "source": "Wikipedia: Macau"
+        "source": "Wikipedia: Macau (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Portuguese trade between China, Japan and Europe (1500s–1600s).",
@@ -105,10 +105,10 @@
         "source": "Wikipedia: Macau"
       },
       "wealth": {
-        "value": "Casino income made Macau one of the world’s richest places per person in the 2010s, after gambling was opened to competition in 2002.",
-        "year": null,
+        "value": "GDP per person US$69,430 (2023); HDI 0.934 (2023, infobox).",
+        "year": 2023,
         "certainty": "confirmed",
-        "source": "Wikipedia: Macau"
+        "source": "Wikipedia: Macau (checked 13 Nov 2026)"
       },
       "moneyAndTax": {
         "value": "The Macanese pataca, issued by the Banco Nacional Ultramarino since 1906; most government income comes from casino taxes.",
@@ -125,16 +125,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Portuguese administration until 1999; Special Administrative Region of China since.",
+        "value": "Leased to Portugal by the Ming in 1557; handed over at midnight on 20 December 1999 after 442 years; now a special administrative region under “one country, two systems” with the Basic Law as its constitution.",
         "year": 1999,
         "certainty": "confirmed",
-        "source": "Wikipedia: Macau"
+        "source": "Wikipedia: Macau (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Portuguese governors; Chief Executives since 1999 (Edmund Ho).",
+        "value": "Edmund Ho was the first Chief Executive after 1999; the infobox lists Sam Hou Fai as Chief Executive. Portuguese governors are not covered in the part read.",
         "year": 1999,
         "certainty": "confirmed",
-        "source": "Wikipedia: Macau"
+        "source": "Wikipedia: Macau (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Chosen by a committee and approved by Beijing.",
@@ -169,10 +169,10 @@
         "source": "Wikipedia: Macau"
       },
       "majorWars": {
-        "value": "A Dutch attack on Macau was beaten off on 24 June 1622; Macau stayed neutral in the Second World War.",
+        "value": "The Dutch attacked in the 1622 Battle of Macau and were repelled by the Portuguese.",
         "year": 1622,
         "certainty": "confirmed",
-        "source": "Wikipedia: Macau"
+        "source": "Wikipedia: Macau (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Land reclamation more than doubled its area.",
@@ -215,10 +215,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Chinese folk religion and Buddhism; Catholic minority.",
+        "value": "About 80% of the population practises Buddhism and 6.7% follows Christianity; the Catholic share is not given.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Macau"
+        "source": "Wikipedia: Macau (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Chinese (mostly spoken as Cantonese) and Portuguese are both official; the Macanese creole, Patuá, is now nearly extinct.",
@@ -265,24 +265,24 @@
         "source": "Wikipedia: Macau"
       },
       "colonisation": {
-        "value": "Portuguese settlement from 1557; Portugal gained full sovereignty by treaty in 1887 and handed Macau back to China in 1999.",
-        "year": 1557,
+        "value": "Portugal gained perpetual colonial rights in the 1887 Sino-Portuguese Treaty of Peking.",
+        "year": 1887,
         "certainty": "confirmed",
-        "source": "Wikipedia: Macau"
+        "source": "Wikipedia: Macau (checked 13 Nov 2026)"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Portuguese merchants were allowed to settle in 1557 and used Macau to link China with Japan, India and Europe.",
+        "value": "Leased to Portugal by the Ming dynasty as a trading post in 1557.",
         "year": 1557,
         "certainty": "confirmed",
-        "source": "Wikipedia: Macau"
+        "source": "Wikipedia: Macau (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "The Japan trade golden age (about 1570–1639), when ships carried Chinese silk to Nagasaki in exchange for Japanese silver.",
+        "value": "In the late 16th century Macau was the key link for exporting Chinese silk to Japan; the page gives no dates for the “golden age”.",
         "year": 1600,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Macau"
+        "certainty": "estimated",
+        "source": "Wikipedia: Macau (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "Lost Japan trade (1639); overtaken by Hong Kong.",
@@ -291,10 +291,10 @@
         "source": "Wikipedia: Macau"
       },
       "outcome": {
-        "value": "Part of China since 1999 with its own system until 2049.",
+        "value": "Handed over to China at midnight on 20 December 1999; now a Special Administrative Region.",
         "year": 1999,
         "certainty": "confirmed",
-        "source": "Wikipedia: Macau"
+        "source": "Wikipedia: Macau (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

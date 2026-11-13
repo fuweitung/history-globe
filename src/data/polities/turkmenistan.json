@@ -40,10 +40,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Central Asia; about 491,000 km²; mostly Karakum Desert.",
+        "value": "Central Asia; the text gives 488,100 km² (52nd-largest) while the infobox gives 491,210 km²; capital and largest city Ashgabat.",
         "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Turkmenistan"
+        "certainty": "disputed",
+        "source": "Wikipedia: Turkmenistan (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "About four-fifths is the flat Karakum Desert; the Kopet Dag mountains run along the Iranian border, and the Amu Darya river flows in the east.",
@@ -72,10 +72,10 @@
     },
     "population": {
       "population": {
-        "value": "Official figures say about 7 million, but outside estimates are lower and reliable data are scarce.",
-        "year": 2024,
-        "certainty": "estimated",
-        "source": "Wikipedia: Turkmenistan"
+        "value": "7,057,841 in the official 2022 census, a figure the page says offshore media disputed.",
+        "year": 2022,
+        "certainty": "disputed",
+        "source": "Wikipedia: Turkmenistan (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "About half the people live in towns; the capital Ashgabat is the largest city, followed by Türkmenabat, Daşoguz and Mary.",
@@ -98,10 +98,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Natural gas exports, mainly to China, plus oil, state-controlled cotton and wheat farming, and construction.",
+        "value": "Holds the world’s fifth-largest natural gas reserves in the introduction and the fourth-largest in a later section, so the page is inconsistent.",
         "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Turkmenistan"
+        "certainty": "disputed",
+        "source": "Wikipedia: Turkmenistan (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "The Central Asia–China gas pipeline (opened 2009) carries gas east; gas also goes to Russia and Iran, and the Caspian port of Türkmenbaşy links west.",
@@ -110,10 +110,10 @@
         "source": "Wikipedia: Turkmenistan"
       },
       "wealth": {
-        "value": "Gas income pays for showcase building in Ashgabat, but official statistics are unreliable and many rural people remain poor.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Turkmenistan"
+        "value": "HDI 0.764, high (95th, 2023).",
+        "year": 2023,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Turkmenistan (checked 13 Nov 2026)"
       },
       "moneyAndTax": {
         "value": "The manat, introduced in 1993 and redenominated in 2009; most state income comes from gas sold by state companies.",
@@ -130,16 +130,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A presidential republic, highly authoritarian.",
-        "year": null,
+        "value": "A presidential republic, described in the infobox as a totalitarian hereditary dictatorship; Saparmurat Niyazov was declared president for life in December 1999, Gurbanguly Berdimuhamedow took over in 2007 and Serdar Berdimuhamedow won a 2022 snap election.",
+        "year": 2022,
         "certainty": "confirmed",
-        "source": "Wikipedia: Turkmenistan"
+        "source": "Wikipedia: Turkmenistan (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Saparmurat Niyazov. Gurbanguly Berdimuhamedow. Serdar Berdimuhamedow.",
-        "year": 1991,
+        "value": "Saparmurat Niyazov ruled from 1985 until his death in 2006; Gurbanguly Berdimuhamedow won a non-democratic special election in February 2007 and was succeeded by his son Serdar in 2022.",
+        "year": 1985,
         "certainty": "confirmed",
-        "source": "Wikipedia: Turkmenistan"
+        "source": "Wikipedia: Turkmenistan (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Presidents are chosen in elections that outside observers have not judged free; in 2022 the presidency passed from father to son.",
@@ -174,10 +174,10 @@
         "source": "Wikipedia: Turkmenistan"
       },
       "majorWars": {
-        "value": "No wars since independence; it stayed neutral during the wars in neighbouring Afghanistan.",
-        "year": null,
+        "value": "The last significant Turkmen resistance to Russia was crushed at the Battle of Geok Tepe in 1881.",
+        "year": 1881,
         "certainty": "confirmed",
-        "source": "Wikipedia: Turkmenistan"
+        "source": "Wikipedia: Turkmenistan (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "No changes: its borders are those of the former Turkmen Soviet Socialist Republic, set up in 1924.",
@@ -220,10 +220,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Mostly Sunni Muslim (about 90%), with a Russian Orthodox minority; religious groups must register with the state.",
-        "year": null,
+        "value": "Islam 94.7% (2025), including 93.69% Sunni; the CIA World Factbook figure cited is 93%.",
+        "year": 2025,
         "certainty": "confirmed",
-        "source": "Wikipedia: Turkmenistan"
+        "source": "Wikipedia: Turkmenistan (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Turkmen, a Turkic language, switched from Cyrillic to a Latin alphabet in 1993; Russian is still used.",
@@ -296,10 +296,10 @@
         "source": "Wikipedia: Turkmenistan"
       },
       "outcome": {
-        "value": "Still an independent country, with the same borders and capital (Ashgabat) as at independence in 1991.",
-        "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Turkmenistan"
+        "value": "Became a Soviet constituent republic in 1925 (the text elsewhere says 1924); sovereignty declared 22 August 1990 and independence on 27 October 1991.",
+        "year": 1991,
+        "certainty": "disputed",
+        "source": "Wikipedia: Turkmenistan (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

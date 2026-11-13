@@ -49,10 +49,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Southern Great Britain.",
+        "value": "England; Edward I effectively conquered Wales in 1282 and the Laws in Wales Acts of 1535–1542 fully united England and Wales; William II annexed Cumbria in 1092, Henry I ceded Lothian in 1124, and Calais was lost in 1558.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of England"
+        "source": "Wikipedia: Kingdom of England (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Lowlands, hills and moors.",
@@ -139,16 +139,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Monarchy with Parliament; a republic (1649–60).",
-        "year": null,
+        "value": "A monarchy with a Parliament; Magna Carta was sealed on 15 June 1215. The page does not mention the 1649–1660 republic.",
+        "year": 1215,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of England"
+        "source": "Wikipedia: Kingdom of England (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Alfred and Æthelstan. William I. Henry VIII. Elizabeth I.",
-        "year": 1066,
+        "value": "Æthelstan conquered York, the last Viking kingdom, in 927; William I was crowned on 25 December 1066; Henry II reigned 1154–1189 and Elizabeth I 1558–1603.",
+        "year": 927,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of England"
+        "source": "Wikipedia: Kingdom of England (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Hereditary; disputed in the Wars of the Roses.",
@@ -183,10 +183,10 @@
         "source": "Wikipedia: Kingdom of England"
       },
       "majorWars": {
-        "value": "Norman Conquest (1066); Hundred Years’ War; Spanish Armada (1588); English Civil War.",
-        "year": 1066,
+        "value": "The Hundred Years’ War (1337–1453), the Wars of the Roses (1455–1487) and the English Civil War (1641–1645 on the page, ending in the king’s defeat).",
+        "year": 1337,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of England"
+        "source": "Wikipedia: Kingdom of England (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Annexed Wales (1536); lost France (1453).",
@@ -229,10 +229,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Catholic, then Church of England (1534).",
+        "value": "Church of England 1534–1553 and 1558–1707 (infobox).",
         "year": 1534,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of England"
+        "source": "Wikipedia: Kingdom of England (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Old English, then Middle and modern English.",
@@ -279,24 +279,24 @@
         "source": "Wikipedia: Kingdom of England"
       },
       "colonisation": {
-        "value": "First colonies in America (Jamestown 1607).",
-        "year": 1607,
+        "value": "Annexed Wales under the Laws in Wales Acts of 1535–1542, creating full union of England and Wales.",
+        "year": 1535,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of England"
+        "source": "Wikipedia: Kingdom of England (checked 13 Nov 2026)"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Unification under Æthelstan (927).",
+        "value": "Unified when Æthelstan conquered York on 12 July 927.",
         "year": 927,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of England"
+        "source": "Wikipedia: Kingdom of England (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Elizabethan age (1558–1603).",
-        "year": 1580,
+        "value": "Elizabeth I reigned 1558–1603; the navy defeated the Spanish Armada in 1588 and her reign laid the foundations of the British Empire. The page dates the kingdom from 927 (Æthelstan) to 1 May 1707 (Acts of Union).",
+        "year": 1588,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of England"
+        "source": "Wikipedia: Kingdom of England (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "None; it merged into Great Britain.",
@@ -305,10 +305,10 @@
         "source": "Wikipedia: Kingdom of England"
       },
       "outcome": {
-        "value": "Joined Scotland as Great Britain (1707).",
+        "value": "The Norman Conquest (Battle of Hastings, 14 October 1066) moved the capital to Westminster. The kingdom ended on 1 May 1707 with the Acts of Union.",
         "year": 1707,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of England"
+        "source": "Wikipedia: Kingdom of England (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

@@ -35,10 +35,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Eastern Timor island plus Oecusse; about 15,000 km².",
+        "value": "Eastern half of Timor island, with Dili as capital; the page gives 15,007 km² in one place and 14,874 km² in another, so the figures conflict.",
         "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: East Timor"
+        "certainty": "disputed",
+        "source": "Wikipedia: East Timor (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "A rugged mountain spine runs along the island, rising to Mount Ramelau (about 2,960 m), with narrow coastal plains around Dili and the south coast.",
@@ -67,10 +67,10 @@
     },
     "population": {
       "population": {
-        "value": "About 1.3–1.4 million people, mostly young and rural; the 2022 census counted about 1.34 million.",
-        "year": 2024,
-        "certainty": "estimated",
-        "source": "Wikipedia: East Timor"
+        "value": "1,341,737 at the 2022 census; 1,434,991 in the 2026 estimate (infobox).",
+        "year": 2022,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Most people live in rural villages; Dili, the capital on the north coast, is by far the largest town, followed by Baucau.",
@@ -93,10 +93,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Government spending paid for by the Petroleum Fund (set up in 2005) from oil and gas income, alongside subsistence farming and coffee exports.",
-        "year": null,
+        "value": "The economy relies on oil and foreign aid. The Petroleum Fund (set up in 2005) took in $23 billion from 2005 to 2021, held $19 billion in 2021 and supplies 80% of government spending; coffee was 90% of non-fuel exports in 2013–2019.",
+        "year": 2021,
         "certainty": "confirmed",
-        "source": "Wikipedia: East Timor"
+        "source": "Wikipedia: East Timor (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Imports come through Dili and the new Tibar Bay port (opened 2022); gas from Bayu-Undan was piped to Darwin in Australia for export.",
@@ -105,10 +105,10 @@
         "source": "Wikipedia: East Timor"
       },
       "wealth": {
-        "value": "A lower-middle-income country; oil money built a large savings fund, but many rural families remain poor.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: East Timor"
+        "value": "HDI 0.634, medium (142nd, 2023).",
+        "year": 2023,
+        "certainty": "confirmed",
+        "source": "Wikipedia: East Timor (checked 13 Nov 2026)"
       },
       "moneyAndTax": {
         "value": "Uses the US dollar as its currency, with locally minted centavo coins; most public spending comes from the Petroleum Fund rather than taxes.",
@@ -125,16 +125,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A semi-presidential republic: an elected president as head of state and a prime minister who leads the government from parliament.",
+        "value": "A unitary semi-presidential republic with a one-chamber National Parliament.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: East Timor"
+        "source": "Wikipedia: East Timor (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Since 2002, leadership has passed between veterans of the independence struggle through presidential and parliamentary elections.",
+        "value": "Xanana Gusmão (first president in 2002, now prime minister), José Ramos-Horta (president again since 20 May 2022) and Taur Matan Ruak (prime minister from June 2018); Mari Alkatiri is a former prime minister.",
         "year": 2002,
         "certainty": "confirmed",
-        "source": "Wikipedia: East Timor"
+        "source": "Wikipedia: East Timor (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Presidents are elected by popular vote for five-year terms; the prime minister comes from the party or coalition holding a majority in parliament.",
@@ -169,10 +169,10 @@
         "source": "Wikipedia: East Timor"
       },
       "majorWars": {
-        "value": "Indonesian invasion and occupation (1975–99), followed by militia violence in 1999; the CAVR truth commission counted over 100,000 conflict deaths.",
+        "value": "Indonesia invaded on 7 December 1975. The page gives a minimum of 102,800 conflict-related deaths in 1974–1999 (about 18,600 killings and 84,200 excess deaths from hunger and illness); other estimates reach 200,000.",
         "year": 1975,
-        "certainty": "confirmed",
-        "source": "Wikipedia: East Timor"
+        "certainty": "disputed",
+        "source": "Wikipedia: East Timor (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "A 2018 treaty with Australia fixed the sea border in the Timor Sea; the land territory includes the Oecusse exclave inside West Timor.",
@@ -215,10 +215,10 @@
     },
     "culture": {
       "religion": {
-        "value": "About 97% Catholic, one of the most Catholic countries in the world; traditional beliefs linked to ancestors and sacred houses continue alongside.",
-        "year": null,
+        "value": "Catholic 97.6% (2022 census).",
+        "year": 2022,
         "certainty": "confirmed",
-        "source": "Wikipedia: East Timor"
+        "source": "Wikipedia: East Timor (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Tetum and Portuguese are the official languages, Indonesian and English are working languages, and over 15 local languages are spoken.",
@@ -273,10 +273,10 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "A UN-organised referendum on 30 August 1999, in which about 78.5% voted for independence.",
-        "year": 1999,
+        "value": "Came under Portuguese influence in the 16th century and stayed a Portuguese colony until 1975.",
+        "year": 1500,
         "certainty": "confirmed",
-        "source": "Wikipedia: East Timor"
+        "source": "Wikipedia: East Timor (checked 13 Nov 2026)"
       },
       "peakPeriod": {
         "value": "Too recent to judge; independence in 2002 and ASEAN membership in 2025 are its main milestones so far.",
@@ -291,10 +291,10 @@
         "source": "Wikipedia: East Timor"
       },
       "outcome": {
-        "value": "Still in existence as an independent republic and member of the United Nations since 2002.",
-        "year": null,
+        "value": "A UN-supervised referendum in August 1999; independence restored on 20 May 2002 (infobox).",
+        "year": 2002,
         "certainty": "confirmed",
-        "source": "Wikipedia: East Timor"
+        "source": "Wikipedia: East Timor (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

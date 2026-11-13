@@ -35,10 +35,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "South Pacific west of Fiji; about 12,200 km².",
+        "value": "South Pacific archipelago; the infobox gives 12,189 km² and the text about 12,274 km²; capital and largest city Port Vila on Efate.",
         "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Vanuatu"
+        "certainty": "disputed",
+        "source": "Wikipedia: Vanuatu (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Volcanic and coral islands with rugged mountains and active volcanoes such as Yasur on Tanna and Ambrym; Espiritu Santo is the largest island.",
@@ -59,18 +59,18 @@
         "source": "Wikipedia: Vanuatu"
       },
       "disasters": {
-        "value": "Cyclones, earthquakes and eruptions; Cyclone Pam (March 2015) devastated much of the country, and Ambae was evacuated after eruptions in 2017–18.",
+        "value": "Cyclone Pam struck in March 2015 as a Category 5 cyclone; the page gives 11 deaths early on and 16 deaths later.",
         "year": 2015,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Vanuatu"
+        "certainty": "disputed",
+        "source": "Wikipedia: Vanuatu (checked 13 Nov 2026)"
       }
     },
     "population": {
       "population": {
-        "value": "About 330,000 in the mid-2020s, almost all ni-Vanuatu (Melanesian), and growing fast.",
-        "year": 2024,
-        "certainty": "estimated",
-        "source": "Wikipedia: Vanuatu"
+        "value": "300,019 at the 2020 census; 335,908 in the 2023 estimate.",
+        "year": 2020,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Vanuatu (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Mostly rural; about a quarter live in towns, chiefly Port Vila on Efate and Luganville on Espiritu Santo.",
@@ -93,10 +93,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Village farming and fishing, plus tourism, kava and copra exports, offshore finance and the sale of citizenship to foreigners.",
-        "year": null,
+        "value": "Agriculture supports 65% of the population, with copra and kava the main earners; tourist arrivals were 196,134 in 2008; it is a tax haven with no income tax; citizenship sales (about $150,000) may exceed 30% of revenue.",
+        "year": 2008,
         "certainty": "confirmed",
-        "source": "Wikipedia: Vanuatu"
+        "source": "Wikipedia: Vanuatu (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Ports at Port Vila and Luganville and airports with links to Australia, New Zealand, Fiji and New Caledonia.",
@@ -105,10 +105,10 @@
         "source": "Wikipedia: Vanuatu"
       },
       "wealth": {
-        "value": "A lower- or upper-middle-income economy, depending on aid and fishing licences.",
-        "year": null,
+        "value": "HDI 0.621, medium (146th, 2023).",
+        "year": 2023,
         "certainty": "confirmed",
-        "source": "Wikipedia: Vanuatu"
+        "source": "Wikipedia: Vanuatu (checked 13 Nov 2026)"
       },
       "moneyAndTax": {
         "value": "The vatu, introduced in 1981; there is no income tax, so the state relies on import duties and a value-added tax.",
@@ -125,16 +125,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A parliamentary republic: Parliament elects the prime minister, and a largely ceremonial president is chosen by an electoral college.",
+        "value": "A parliamentary republic (infobox) with a 52-member one-chamber Parliament.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Vanuatu"
+        "source": "Wikipedia: Vanuatu (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Walter Lini, an Anglican priest, led the country to independence and was its first prime minister (1980–91).",
+        "value": "Walter Lini led Vanuatu to independence on 30 July 1980 as first prime minister and served until 1991.",
         "year": 1980,
         "certainty": "confirmed",
-        "source": "Wikipedia: Vanuatu"
+        "source": "Wikipedia: Vanuatu (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Prime ministers change through elections and through frequent votes of no confidence in Parliament.",
@@ -169,10 +169,10 @@
         "source": "Wikipedia: Vanuatu"
       },
       "majorWars": {
-        "value": "Coconut War (1980): a separatist revolt on Espiritu Santo was ended with help from Papua New Guinean troops.",
+        "value": "In 1980 Espiritu Santo seceded as the Republic of Vemarana, followed by a brief conflict the page calls the Coconut War.",
         "year": 1980,
         "certainty": "confirmed",
-        "source": "Wikipedia: Vanuatu"
+        "source": "Wikipedia: Vanuatu (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "No change since 1980; it claims the small Matthew and Hunter islands, which France holds as part of New Caledonia.",
@@ -215,10 +215,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Mostly Christian (Presbyterian, Anglican, Catholic and others); some kastom villages and the John Frum movement on Tanna.",
-        "year": null,
+        "value": "Christian 93.4% (2020): Protestant 75.1%, Catholic 13.5%.",
+        "year": 2020,
         "certainty": "confirmed",
-        "source": "Wikipedia: Vanuatu"
+        "source": "Wikipedia: Vanuatu (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Bislama, English, French; over 100 local languages.",
@@ -273,10 +273,10 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Independence on 30 July 1980, ending the British–French condominium of the New Hebrides.",
-        "year": 1980,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Vanuatu"
+        "value": "The islands were first settled about 3,000 years ago, roughly between 1100 BCE and 700 BCE; Europeans first arrived in April 1606 (Queirós) and Cook named them the New Hebrides in 1774.",
+        "year": -1100,
+        "certainty": "estimated",
+        "source": "Wikipedia: Vanuatu (checked 13 Nov 2026)"
       },
       "peakPeriod": {
         "value": "Too recent to judge; tourism and seasonal work abroad grew strongly from the 2000s.",
@@ -291,10 +291,10 @@
         "source": "Wikipedia: Vanuatu"
       },
       "outcome": {
-        "value": "Still in existence as an independent republic.",
-        "year": null,
+        "value": "France and the United Kingdom agreed in 1906 to rule the islands jointly; independence came on 30 July 1980.",
+        "year": 1980,
         "certainty": "confirmed",
-        "source": "Wikipedia: Vanuatu"
+        "source": "Wikipedia: Vanuatu (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

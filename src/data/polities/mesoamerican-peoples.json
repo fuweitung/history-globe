@@ -101,10 +101,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Western, central and southern Mexico and Central America.",
+        "value": "Central and southern Mexico, Belize, Guatemala and also El Salvador, western Honduras and Greater Nicoya, between about 10° and 22° N.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Mesoamerica"
+        "source": "Wikipedia: Mesoamerica (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Volcanic highlands and lake basins such as Pátzcuaro, the mountain valleys of Oaxaca, and hot coastal lowlands.",
@@ -287,10 +287,10 @@
         "source": "Wikipedia: Mesoamerica"
       },
       "languageWriting": {
-        "value": "Purépecha, Mixtec, Zapotec, Totonac and others.",
+        "value": "One of only five regions where writing developed independently, with mostly logosyllabic scripts; a 260-day ritual calendar and a 365-day solar calendar.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Mesoamerica"
+        "source": "Wikipedia: Mesoamerica (checked 13 Nov 2026)"
       },
       "artsArchitecture": {
         "value": "Yácatas pyramids at Tzintzuntzan, stone mosaics at Mitla and Mixtec gold jewellery and painted codices.",
@@ -339,10 +339,10 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "New Postclassic states rose after about 900, such as Mixtec kingdoms and the Purépecha state in the 1300s.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Mesoamerica"
+        "value": "The Olmec, the first complex civilisation in Mesoamerica, occupied their main sites from roughly 1200 to 400 BCE; the earliest maize at Guilá Naquitz, Oaxaca, dates to c. 4000 BCE. The Postclassic began 900–1000 CE depending on area (table: 900–1519).",
+        "year": -1200,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mesoamerica (checked 13 Nov 2026)"
       },
       "peakPeriod": {
         "value": "The 1400s, when the Purépecha Empire expanded and defeated an Aztec army around 1479.",
@@ -357,10 +357,10 @@
         "source": "Wikipedia: Mesoamerica"
       },
       "outcome": {
-        "value": "Peoples remain across Mexico and Central America.",
-        "year": null,
+        "value": "The Postclassic ended with the Spanish conquest of the Aztecs between 1519 and 1521; Eurasian diseases caused upwards of 90% of Indigenous deaths after contact.",
+        "year": 1521,
         "certainty": "confirmed",
-        "source": "Wikipedia: Mesoamerica"
+        "source": "Wikipedia: Mesoamerica (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

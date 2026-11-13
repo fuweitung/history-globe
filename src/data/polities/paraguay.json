@@ -41,10 +41,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Central South America, landlocked; about 407,000 km².",
+        "value": "South America, landlocked; 406,752 km² (infobox), 406,796 km² in the department table.",
         "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Paraguay"
+        "certainty": "disputed",
+        "source": "Wikipedia: Paraguay (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Fertile east; the dry Chaco in the west.",
@@ -73,10 +73,10 @@
     },
     "population": {
       "population": {
-        "value": "Roughly 6–7 million people in the 2020s, almost all living in the eastern region; the Chaco is very thinly settled.",
-        "year": 2024,
+        "value": "6,460,159 (2026 estimate, infobox); the 2022 census counted 6,109,903.",
+        "year": 2026,
         "certainty": "confirmed",
-        "source": "Wikipedia: Paraguay"
+        "source": "Wikipedia: Paraguay (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "About two-thirds urban; the capital Asunción and its metropolitan area, plus Ciudad del Este and Encarnación.",
@@ -99,10 +99,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Exports of soybeans, beef and electricity from shared dams, plus farming and re-export trade at Ciudad del Este.",
-        "year": null,
+        "value": "The sixth-largest soybean producer and ninth-largest beef exporter; the page calls it the world’s largest exporter of electric power (2016 data), with the Itaipú dam among the largest hydroelectric stations.",
+        "year": 2016,
         "certainty": "confirmed",
-        "source": "Wikipedia: Paraguay"
+        "source": "Wikipedia: Paraguay (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Barges down the Paraguay and Paraná rivers to the Río de la Plata and the Atlantic; roads and the Friendship Bridge to Brazil.",
@@ -111,10 +111,10 @@
         "source": "Wikipedia: Paraguay"
       },
       "wealth": {
-        "value": "An upper-middle-income country with steady growth since the 2000s, though many rural people remain poor.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Paraguay"
+        "value": "HDI 0.756, high (99th, 2023).",
+        "year": 2023,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay (checked 13 Nov 2026)"
       },
       "moneyAndTax": {
         "value": "The guaraní, the national currency since 1943, named after the Guaraní people.",
@@ -131,16 +131,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A presidential republic; dictatorships for long periods.",
-        "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Paraguay"
-      },
-      "keyRulers": {
-        "value": "José Gaspar Rodríguez de Francia. Francisco Solano López. Alfredo Stroessner (1954–89).",
+        "value": "A unitary presidential republic; Alfredo Stroessner ruled from a coup on 4 May 1954 until his overthrow on 3 February 1989 (a “35-year regime”).",
         "year": 1954,
         "certainty": "confirmed",
-        "source": "Wikipedia: Paraguay"
+        "source": "Wikipedia: Paraguay (checked 13 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Alfredo Stroessner’s dictatorship from 1954 until 1989.",
+        "year": 1954,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Paraguay (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Since the fall of Stroessner (1989), presidents have been chosen in elections; the 1992 constitution limits them to one five-year term.",
@@ -175,10 +175,10 @@
         "source": "Wikipedia: Paraguay"
       },
       "majorWars": {
-        "value": "War of the Triple Alliance (1864–70) and Chaco War (1932–35).",
+        "value": "Triple Alliance War (1864–1870): at least half of Paraguayans died and 25–33% of its territory was lost; Chaco War with Bolivia (1932–35).",
         "year": 1864,
         "certainty": "confirmed",
-        "source": "Wikipedia: Paraguay"
+        "source": "Wikipedia: Paraguay (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Lost land in 1870; gained the Chaco in 1935.",
@@ -221,10 +221,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Mostly Roman Catholic, with a growing Protestant minority and Mennonite communities in the Chaco.",
-        "year": null,
+        "value": "87.4% Catholic within 95.5% Christian (2020); 89.9% Catholic in 2002.",
+        "year": 2020,
         "certainty": "confirmed",
-        "source": "Wikipedia: Paraguay"
+        "source": "Wikipedia: Paraguay (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Spanish and Guaraní are both official (since 1992); most people speak Guaraní, many as their first language.",
@@ -279,10 +279,10 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Independence from Spain and Buenos Aires in May 1811, followed by Francia’s rule, which built a self-reliant state.",
-        "year": 1811,
+        "value": "Juan de Salazar de Espinosa founded Asunción on 15 August 1537.",
+        "year": 1537,
         "certainty": "confirmed",
-        "source": "Wikipedia: Paraguay"
+        "source": "Wikipedia: Paraguay (checked 13 Nov 2026)"
       },
       "peakPeriod": {
         "value": "The 2000s–2010s brought fast growth from soy, beef and hydropower; some see the 1850s under Carlos Antonio López as an earlier high point.",
@@ -297,10 +297,10 @@
         "source": "Wikipedia: Paraguay"
       },
       "outcome": {
-        "value": "Still in existence as an independent republic, with Asunción as its capital.",
-        "year": null,
+        "value": "Paraguay overthrew the Spanish administration on 14 May 1811.",
+        "year": 1811,
         "certainty": "confirmed",
-        "source": "Wikipedia: Paraguay"
+        "source": "Wikipedia: Paraguay (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

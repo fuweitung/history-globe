@@ -102,10 +102,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Cattle, farming, gold mining.",
-        "year": null,
+        "value": "Gold production in the Mutapa state peaked in the years before about 1500.",
+        "year": 1500,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Mutapa"
+        "source": "Wikipedia: Kingdom of Mutapa (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Gold and ivory to Sofala and the Swahili coast.",
@@ -134,16 +134,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Monarchy (Mwenemutapa; Changamire for the Rozvi).",
+        "value": "A monarchy: the ruler was the Mwene we Mutapa (Monomotapa to the Portuguese); after Changamire Dombo the Rozvi state was led by the Changamire.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Mutapa"
+        "source": "Wikipedia: Kingdom of Mutapa (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Nyatsimba Mutota. Changamire Dombo.",
-        "year": 1430,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Mutapa"
+        "value": "Mutota is named as founder and built the capital at Chitako-Changonya Hill; historians date the state’s formation to the 14th and 15th centuries and Beach suspected Mutota may have been a symbolic figure. Changamire Dombo defeated the Portuguese around 1683 and attacked their trading fairs in 1693. The page does not give “about 1430” or the name Nyatsimba.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Kingdom of Mutapa (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Royal lineage; disputes common.",
@@ -178,10 +178,10 @@
         "source": "Wikipedia: Kingdom of Mutapa"
       },
       "majorWars": {
-        "value": "Changamire Dombo drove out the Portuguese (1690s).",
-        "year": 1693,
+        "value": "Changamire Dombo, founder of the Rozvi Empire, attacked Portuguese forces at Maungwe around 1683 and died around 1696.",
+        "year": 1683,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Mutapa"
+        "source": "Wikipedia: Kingdom of Mutapa (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Portuguese gained influence in Mutapa (1629).",
@@ -274,24 +274,24 @@
         "source": "Wikipedia: Kingdom of Mutapa"
       },
       "colonisation": {
-        "value": "Portuguese influence (1600s); Ndebele raids (1838–).",
+        "value": "After the 1629 defeat of Kapararidze, Mavhura signed terms of vassalage with Portugal; Portugal attacked Mutapa in 1884; the British ultimatum of 1890 led to partition of its territories.",
         "year": 1629,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Mutapa"
+        "source": "Wikipedia: Kingdom of Mutapa (checked 13 Nov 2026)"
       }
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Mutapa founded (about 1430).",
-        "year": 1430,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Mutapa"
+        "value": "Mutota, a Shona elephant hunter, founded the Mutapa state with its capital at Chitako-Changonya Hill; historians date the formation to the 14th and 15th centuries.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kingdom of Mutapa (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Mutapa gold trade (1500s).",
+        "value": "Gold output in Mutapa peaked before about 1500 and then declined; the Rozvi took the remaining gold regions in the 1690s.",
         "year": 1500,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Mutapa"
+        "source": "Wikipedia: Kingdom of Mutapa (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "Nguni and Ndebele invasions (1830s).",
@@ -300,10 +300,10 @@
         "source": "Wikipedia: Kingdom of Mutapa"
       },
       "outcome": {
-        "value": "Broke up into chiefdoms; later part of Rhodesia.",
-        "year": 1866,
+        "value": "Chioko Dambamupute was killed in 1902 and the resistance he led collapsed.",
+        "year": 1902,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Mutapa"
+        "source": "Wikipedia: Kingdom of Mutapa (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

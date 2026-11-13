@@ -98,10 +98,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Caravan trade in ivory and slaves, porterage for long-distance caravans, and farming of grain.",
+        "value": "Mirambo owned trade caravans dealing mostly in ivory and slaves and obtained firearms through trade with Europeans.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Mirambo"
+        "source": "Wikipedia: Mirambo (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "The central caravan route from Bagamoyo on the coast through Tabora to Ujiji on Lake Tanganyika.",
@@ -130,16 +130,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Many separate chiefdoms ruled by ntemi chiefs, with Mirambo’s larger conquest state in the 1870s–80s.",
-        "year": null,
+        "value": "Mirambo (c. 1840–1884) was king from 1860 and created the largest state by area in 19th-century East Africa, in present-day Urambo district, with a capital at Iselemagazi; the ntemi office was religiously ceremonial.",
+        "year": 1860,
         "certainty": "confirmed",
-        "source": "Wikipedia: Mirambo"
+        "source": "Wikipedia: Mirambo (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Mirambo of Urambo (died 1884) and Isike, chief of Unyanyembe around Tabora (died 1893).",
-        "year": 1871,
+        "value": "Mirambo (c. 1840–1884) ruled from 1860 to 1884; a former trader, he toppled the monarchy of Urambo and built a capital at Iselemagazi.",
+        "year": 1860,
         "certainty": "confirmed",
-        "source": "Wikipedia: Mirambo"
+        "source": "Wikipedia: Mirambo (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Chiefships passed within chiefly families, but strong warriors like Mirambo seized power through war.",
@@ -174,10 +174,10 @@
         "source": "Wikipedia: Mirambo"
       },
       "majorWars": {
-        "value": "Mirambo’s war with Arab traders (1871–75).",
-        "year": 1871,
+        "value": "Opposed the Arab traders of Tabora and their allies, including Stanley’s; he never conquered Tabora.",
+        "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Mirambo"
+        "source": "Wikipedia: Mirambo (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Germany conquered the region in the early 1890s; Isike’s fortress at Tabora fell in 1893.",
@@ -284,10 +284,10 @@
         "source": "Wikipedia: Mirambo"
       },
       "peakPeriod": {
-        "value": "Mirambo’s state was at its strongest in the 1870s, controlling routes west of Tabora.",
-        "year": 1875,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Mirambo"
+        "value": "Mirambo (c. 1840–1884, king from 1860) created the largest state by area in 19th-century East Africa around Urambo and united most of northern Unyamwezi, but never conquered Tabora. The page does not date his peak to the 1870s.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Mirambo (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "Mirambo’s death in 1884 broke up his state, and German conquest followed in the 1890s.",
@@ -296,10 +296,10 @@
         "source": "Wikipedia: Mirambo"
       },
       "outcome": {
-        "value": "Became part of German East Africa in the 1890s; the region is now part of Tanzania.",
-        "year": 1895,
+        "value": "Mirambo died in 1884 at about 44; the article gives no account of a decline in his power.",
+        "year": 1884,
         "certainty": "confirmed",
-        "source": "Wikipedia: Mirambo"
+        "source": "Wikipedia: Mirambo (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

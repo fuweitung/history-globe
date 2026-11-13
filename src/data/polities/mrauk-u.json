@@ -44,10 +44,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "The Rakhine (Arakan) coast of western Myanmar on the Bay of Bengal, at times also ruling Chittagong in today’s Bangladesh.",
-        "year": null,
+        "value": "The Arakan (Rakhine) coastal plain, covering present-day Rakhine State and southern Chittagong Division, Bangladesh; the kingdom existed from 1429 to 1785. For a few years (1599–1603) it controlled the coast from the Sundarbans to the Gulf of Martaban.",
+        "year": 1429,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Mrauk U"
+        "source": "Wikipedia: Mrauk-U Kingdom (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "A narrow coastal plain cut by tidal rivers and creeks, cut off from inland Burma by the Arakan Yoma mountains.",
@@ -76,10 +76,10 @@
     },
     "population": {
       "population": {
-        "value": "Perhaps a few hundred thousand; European visitors in the 1600s described the capital as a crowded city of over 100,000.",
+        "value": "Friar Sebastien Manrique estimated the capital’s population at 160,000.",
         "year": null,
         "certainty": "estimated",
-        "source": "Wikipedia: Kingdom of Mrauk U"
+        "source": "Wikipedia: Mrauk-U Kingdom (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Mrauk U itself was a walled city of canals, palaces and stone temples; Chittagong and Sandoway were ports.",
@@ -102,10 +102,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Rice farming, sea trade, and slaves taken in raids on Bengal and sold to Dutch and other traders.",
-        "year": null,
+        "value": "Rice became the principal export crop and a main source of revenue; from 1531 to 1629 raiders based on the coast brought slaves from Bengal.",
+        "year": 1531,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Mrauk U"
+        "source": "Wikipedia: Mrauk-U Kingdom (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Bay of Bengal sea routes linking Bengal, Burma, the Malay world and India; the Dutch East India Company traded there from the 1620s.",
@@ -134,16 +134,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A Buddhist monarchy whose kings also used Muslim-style titles, reflecting ties with the Bengal Sultanate.",
-        "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Mrauk U"
-      },
-      "keyRulers": {
-        "value": "Min Saw Mon (Narameikhla), founder (1429–33); Min Bin (1531–54), who built the great temples; Thiri Thudhamma (1622–38).",
+        "value": "A Buddhist monarchy; it began as a protectorate of the Bengal Sultanate (1429–1531), and its Buddhist kings received Islamic titles.",
         "year": 1429,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Mrauk U"
+        "source": "Wikipedia: Mrauk-U Kingdom (checked 13 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Narameikhla (Min Saw Mon) founded the kingdom in 1429 as a Bengal protectorate and regained the throne in 1430 with Bengali help; Min Bin took the throne in 1531 and strengthened the fortifications.",
+        "year": 1429,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mrauk-U Kingdom (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Kings came from the royal family, but palace coups and murders were frequent.",
@@ -178,16 +178,16 @@
         "source": "Wikipedia: Kingdom of Mrauk U"
       },
       "majorWars": {
-        "value": "Wars with Toungoo Burma (1580s–1600s); fights with the Portuguese at Syriam; lost Chittagong to the Mughals (1666); Konbaung conquest (1784–85).",
-        "year": 1785,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Mrauk U"
+        "value": "The lead says it fended off Toungoo in 1546–47 and 1580–81, but the body dates the first invasion to 1544; it conquered Chittagong with Portuguese help, lost it to the Mughals in 1666, and fell to the Konbaung dynasty in 1785.",
+        "year": 1666,
+        "certainty": "disputed",
+        "source": "Wikipedia: Mrauk-U Kingdom (checked 13 Nov 2026)"
       },
       "territoryChange": {
-        "value": "Held Chittagong (1666 lost to the Mughals).",
+        "value": "Chittagong was under Arakanese control in the 16th and 17th centuries; lost to the Mughals in 1666.",
         "year": 1666,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Mrauk U"
+        "source": "Wikipedia: Mrauk-U Kingdom (checked 13 Nov 2026)"
       },
       "alliancesRivals": {
         "value": "Began as a vassal of the Bengal Sultanate; rivals were the Toungoo Burmese, the Mughals and Portuguese freebooters.",
@@ -224,10 +224,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Theravada Buddhism was the state religion; a large Muslim community lived at the court and in the north.",
+        "value": "A multi-ethnic kingdom with a Buddhist majority and a centre of Theravada Buddhism.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Mrauk U"
+        "source": "Wikipedia: Mrauk-U Kingdom (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Arakanese (Rakhine), written in Burmese-type script; Persian and Bengali were also used at court.",
@@ -282,16 +282,16 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Min Saw Mon returned from exile in Bengal with Bengal Sultanate help and founded Mrauk U (1429–30).",
+        "value": "The kingdom existed 1429–1785; Narameikhla (Min Saw Mon) regained the throne in 1430 and Mrauk U was declared capital in 1431; a protectorate of the Bengal Sultanate from 1429 to 1531.",
         "year": 1429,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Mrauk U"
+        "source": "Wikipedia: Mrauk-U Kingdom (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "About 1530–1630, when Arakan held Chittagong and dominated the Bay of Bengal coast.",
-        "year": 1630,
+        "value": "At its height it briefly controlled the Bay of Bengal coast from the Sundarbans to the Gulf of Martaban (1599–1603); territory nearly doubled under Min Razagyi (1593–1612).",
+        "year": 1599,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Mrauk U"
+        "source": "Wikipedia: Mrauk-U Kingdom (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "Mughal capture of Chittagong (1666) and long court instability after the killing of Shah Shuja (1661).",
@@ -300,10 +300,10 @@
         "source": "Wikipedia: Kingdom of Mrauk U"
       },
       "outcome": {
-        "value": "Conquered by King Bodawpaya of Burma (1784–85); the land became part of Burma, now Myanmar’s Rakhine State.",
+        "value": "Conquered by Burma’s Konbaung dynasty in 1785.",
         "year": 1785,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Mrauk U"
+        "source": "Wikipedia: Mrauk-U Kingdom (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

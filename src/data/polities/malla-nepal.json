@@ -41,10 +41,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "The Kathmandu valley in central Nepal, with nearby hill lands.",
+        "value": "The Kathmandu Valley and the surrounding region of modern Nepal.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Malla (Nepal)"
+        "source": "Wikipedia: Malla dynasty (Nepal) (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "A fertile lake-bed valley about 1,300 m high, ringed by the Himalayan foothills.",
@@ -73,10 +73,10 @@
     },
     "population": {
       "population": {
-        "value": "Perhaps a few hundred thousand, mostly Newar people.",
-        "year": null,
+        "value": "The page gives no population; a 1255 earthquake killed about one-third of Kathmandu’s people (30,000, including King Abhaya Malla).",
+        "year": 1255,
         "certainty": "estimated",
-        "source": "Wikipedia: Malla (Nepal)"
+        "source": "Wikipedia: Malla dynasty (Nepal) (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Dense brick cities: Kathmandu (Kantipur), Patan (Lalitpur) and Bhaktapur, each with a royal palace square.",
@@ -99,10 +99,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Rice farming, fine crafts in metal, wood and stone, and trade between India and Tibet.",
-        "year": null,
+        "value": "Wealth came from trade: the valley stood at the departure point for two routes into Tibet, and Nepal gained the right to mint Tibet’s coins in the mid-17th century.",
+        "year": 1650,
         "certainty": "confirmed",
-        "source": "Wikipedia: Malla (Nepal)"
+        "source": "Wikipedia: Malla dynasty (Nepal) (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Mountain passes linking the Indian plains with Lhasa; Newar traders handled much of this trade.",
@@ -131,16 +131,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Hindu monarchies: one kingdom until 1482, then three rival city-kingdoms.",
-        "year": null,
+        "value": "An absolute monarchy with no legislature; after 1482 the kingdom split into rival Kathmandu, Patan and Bhadgaon.",
+        "year": 1482,
         "certainty": "confirmed",
-        "source": "Wikipedia: Malla (Nepal)"
+        "source": "Wikipedia: Malla dynasty (Nepal) (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Jayasthiti Malla. Yaksha Malla. Pratap Malla.",
+        "value": "Jayasthiti Malla (r. 1382–1395); Yaksha Malla (c. 1428–82).",
         "year": 1382,
         "certainty": "confirmed",
-        "source": "Wikipedia: Malla (Nepal)"
+        "source": "Wikipedia: Malla dynasty (Nepal) (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Within branches of the Malla family; disputes led to the division of the kingdom.",
@@ -175,10 +175,10 @@
         "source": "Wikipedia: Malla (Nepal)"
       },
       "majorWars": {
-        "value": "Prithvi Narayan Shah of Gorkha conquered Kathmandu and Patan (1768) and Bhaktapur (1769).",
+        "value": "Prithvi Narayan Shah of Gorkha invaded in 1768–69, ending Malla rule in the valley.",
         "year": 1768,
         "certainty": "confirmed",
-        "source": "Wikipedia: Malla (Nepal)"
+        "source": "Wikipedia: Malla dynasty (Nepal) (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Divided into three kingdoms after Yaksha Malla’s death (1482).",
@@ -221,10 +221,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Hinduism and Newar Buddhism side by side; the worship of the living goddess Kumari.",
+        "value": "Hinduism and Buddhism, with Buddhism a vital force especially in Patan; the Mallas also worshipped Kumari, a living goddess believed to be the reincarnation of Taleju.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Malla (Nepal)"
+        "source": "Wikipedia: Malla dynasty (Nepal) (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Newar (Nepal Bhasa) and Sanskrit, written in Newar scripts; Maithili was used in court plays.",
@@ -279,16 +279,16 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Arimalla took the title Malla in 1201.",
+        "value": "The Malla dynasty was founded by Arideva Malla, dated c. 1201 in the infobox.",
         "year": 1201,
         "certainty": "confirmed",
-        "source": "Wikipedia: Malla (Nepal)"
+        "source": "Wikipedia: Malla dynasty (Nepal) (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "The 1600s, when the three kingdoms competed in building temples and palaces.",
-        "year": 1650,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Malla (Nepal)"
+        "value": "The page calls Yaksha Malla (c. 1428–82) the high point of the Mallas as rulers of a united Nepal and Pratap Malla (1641–74) the cultural high point of Kathmandu, so it differs from the entry’s 1600s.",
+        "year": 1450,
+        "certainty": "disputed",
+        "source": "Wikipedia: Malla dynasty (Nepal) (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "Division into three kingdoms (1482) left them unable to resist Gorkha.",
@@ -297,10 +297,10 @@
         "source": "Wikipedia: Malla (Nepal)"
       },
       "outcome": {
-        "value": "Conquered by Gorkha, forming Nepal (1768–69).",
+        "value": "After Yaksha Malla’s death the valley was divided into Bhaktapur, Kantipur and Lalitpur; Prithvi Narayan Shah invaded in 1768–69 and the dynasty ended on 25 November 1769.",
         "year": 1769,
         "certainty": "confirmed",
-        "source": "Wikipedia: Malla (Nepal)"
+        "source": "Wikipedia: Malla dynasty (Nepal) (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

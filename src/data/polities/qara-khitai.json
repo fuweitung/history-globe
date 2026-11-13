@@ -41,10 +41,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Central Asia: the Chu and Ili valleys (today’s Kyrgyzstan and Kazakhstan), with power over the Tarim Basin and Transoxiana.",
-        "year": null,
+        "value": "Capital at Balasagun; about 1,000,000 km² in 1130 and about 1,500,000 km² in 1210, covering parts of modern Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan and China.",
+        "year": 1210,
         "certainty": "confirmed",
-        "source": "Wikipedia: Qara Khitai"
+        "source": "Wikipedia: Qara Khitai (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Steppe and mountain valleys of the Tian Shan, with irrigated oases.",
@@ -73,10 +73,10 @@
     },
     "population": {
       "population": {
-        "value": "The Khitan ruling group was small (tens of thousands); the subject peoples numbered millions.",
+        "value": "Most of the population was settled and many were Muslims, with a significant minority of Buddhists and Nestorians; a census under Yelü Yilie counted 84,500 households.",
         "year": null,
         "certainty": "estimated",
-        "source": "Wikipedia: Qara Khitai"
+        "source": "Wikipedia: Qara Khitai (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "The capital Balasagun (Huzi Wo’erduo); rich vassal cities such as Samarkand, Bukhara and Kashgar.",
@@ -99,10 +99,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Tribute from vassal states, herding, and taxes on oasis farming and trade.",
-        "year": null,
+        "value": "Cash coins in the Chinese style; the Khitans paid soldiers a salary, which the page calls unique; Khwarazm agreed to pay 30,000 dinars a year after 1142.",
+        "year": 1142,
         "certainty": "confirmed",
-        "source": "Wikipedia: Qara Khitai"
+        "source": "Wikipedia: Qara Khitai (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Controlled the central Silk Road between China and the Islamic world.",
@@ -131,16 +131,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Khanate (gurkhan) with Chinese-style court.",
+        "value": "A monarchy ruled by the Khitan Yelü clan, using Khitan as the main language with Chinese important, and borrowing Confucian administration and Chinese imperial titles.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Qara Khitai"
+        "source": "Wikipedia: Qara Khitai (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Yelü Dashi (ruled 1124–43), the founder; Empress Xiao Tabuyan and Empress Yelü Pusuwan; Yelü Zhilugu, the last ruler (1178–1211).",
+        "value": "Yelü Dashi led Liao remnants west and set himself up as gurkhan around 1124; Yelü Zhilugu ruled 1178–1211; the Naiman prince Kuchlug captured him in 1211 and was executed in 1218.",
         "year": 1124,
         "certainty": "confirmed",
-        "source": "Wikipedia: Qara Khitai"
+        "source": "Wikipedia: Qara Khitai (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Within the Yelü family; two empresses ruled as regents or in their own right.",
@@ -175,10 +175,10 @@
         "source": "Wikipedia: Qara Khitai"
       },
       "majorWars": {
-        "value": "Defeated the Seljuk sultan Sanjar at the Battle of Qatwan (1141).",
+        "value": "The Battle of Qatwan, on 9 September 1141 north of Samarkand: the Khitans encircled and destroyed the Seljuk army and Sanjar barely escaped; casualty figures range from 11,000 to 100,000.",
         "year": 1141,
         "certainty": "confirmed",
-        "source": "Wikipedia: Qara Khitai"
+        "source": "Wikipedia: Qara Khitai (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Took control of the Kara-Khanids, Transoxiana, Khwarazm (as a tributary) and the Uyghur kingdom of Qocho.",
@@ -221,10 +221,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Buddhist rulers with Muslim, Christian, Manichaean and Buddhist subjects; Kuchlug later persecuted Muslims.",
+        "value": "Most subjects were Muslim, with Buddhists and Nestorian Christians; the Khitan elite followed a mix of Buddhism and traditional Khitan religion, including fire worship.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Qara Khitai"
+        "source": "Wikipedia: Qara Khitai (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Khitan and Chinese at court; Persian, Arabic and Turkic among the subjects.",
@@ -279,16 +279,16 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Yelü Dashi led Khitans west after the fall of Liao (1124–25).",
+        "value": "Founded by Yelü Dashi, who proclaimed himself king in 1124 and took the titles Emperor and Gurkhan in 1132; capital Balasagun.",
         "year": 1124,
         "certainty": "confirmed",
-        "source": "Wikipedia: Qara Khitai"
+        "source": "Wikipedia: Qara Khitai (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "After Qatwan (1141), when the Gurkhan was overlord of most of Central Asia.",
+        "value": "After the Battle of Qatwan (9 September 1141) the Seljuks lost Transoxiana and Khwarazm became a Khitan vassal. The infobox gives the largest area (about 1,500,000 km²) for 1210, so the extent kept growing after 1141.",
         "year": 1141,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Qara Khitai"
+        "certainty": "estimated",
+        "source": "Wikipedia: Qara Khitai (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "Khwarazm rebelled and the Naiman prince Kuchlug seized power (1211).",
@@ -297,10 +297,10 @@
         "source": "Wikipedia: Qara Khitai"
       },
       "outcome": {
-        "value": "Mongol forces under Jebe killed Kuchlug and took the lands (1218).",
+        "value": "The Naimans under Kuchlug usurped the empire in 1211; the Mongol conquest of 1218 ended it (the lead gives 1124–1218).",
         "year": 1218,
         "certainty": "confirmed",
-        "source": "Wikipedia: Qara Khitai"
+        "source": "Wikipedia: Qara Khitai (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

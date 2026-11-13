@@ -100,10 +100,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Precision manufacturing (Hilti tools, Ivoclar dental products), financial services and trusts.",
+        "value": "A financial sector centred on Vaduz (once a billionaire tax haven, now working to shed that image); electronics, precision instruments, pharmaceuticals and food; Hilti is the largest employer; the corporate profit tax is 12.5%. It has a customs and monetary union with Switzerland.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Liechtenstein"
+        "source": "Wikipedia: Liechtenstein (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "A customs union with Switzerland since 1923; part of the European Economic Area since 1995.",
@@ -132,16 +132,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A constitutional monarchy where the prince has strong powers.",
-        "year": null,
+        "value": "A constitutional monarchy (the text says semi-constitutional); a 2003 referendum expanded the prince’s powers and the BBC called it Europe’s only absolute monarchy.",
+        "year": 2003,
         "certainty": "confirmed",
-        "source": "Wikipedia: Liechtenstein"
+        "source": "Wikipedia: Liechtenstein (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Prince Franz Joseph II. Prince Hans-Adam II.",
-        "year": null,
+        "value": "Hans-Adam II has reigned since 1989 and handed day-to-day government to his son Alois in 2004. Franz Joseph II is not covered in the part read.",
+        "year": 1989,
         "certainty": "confirmed",
-        "source": "Wikipedia: Liechtenstein"
+        "source": "Wikipedia: Liechtenstein (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "The Prince is hereditary in the House of Liechtenstein; the people elect the 25-member Landtag.",
@@ -176,10 +176,10 @@
         "source": "Wikipedia: Liechtenstein"
       },
       "majorWars": {
-        "value": "Neutral in both World Wars; it has fought in no war since 1866.",
-        "year": null,
+        "value": "The army was abolished in February 1868; full independence followed the German Confederation’s dissolution in 1866. The page says nothing about the World Wars in the part read.",
+        "year": 1868,
         "certainty": "confirmed",
-        "source": "Wikipedia: Liechtenstein"
+        "source": "Wikipedia: Liechtenstein (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Its borders have not changed in modern times.",
@@ -222,10 +222,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Mostly Roman Catholic; Catholicism is the state religion.",
-        "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Liechtenstein"
+        "value": "Catholicism is the official state religion. Shares differ: 69.6% Catholic (2020, infobox) and 75.9% (2010 census, text).",
+        "year": 2020,
+        "certainty": "disputed",
+        "source": "Wikipedia: Liechtenstein (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "German is the official language; people speak an Alemannic dialect.",

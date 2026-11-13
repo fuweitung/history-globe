@@ -40,10 +40,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Volta basin, today’s Burkina Faso.",
+        "value": "Kingdoms in modern Burkina Faso along the upper Volta river.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Mossi Kingdoms"
+        "source": "Wikipedia: Mossi Kingdoms (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Savanna plateau.",
@@ -130,16 +130,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Several kingdoms, each ruled by a naba; Ouagadougou senior.",
+        "value": "Five kingdoms: Ouagadougou (the largest), Tenkodogo, Fada N’gourma, Zondoma (later replaced by Yatenga) and Boussouma; the king of Ouagadougou, the Mogho Naaba, served as emperor of all the Mossi.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Mossi Kingdoms"
+        "source": "Wikipedia: Mossi Kingdoms (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Founder Ouedraogo (legendary); Mogho Naba Wobgo (resisted the French, 1896).",
+        "value": "The Mogho Naaba, king of Ouagadougou, was emperor of all the Mossi; Naba Baongo II reigns today.",
         "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Mossi Kingdoms"
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mossi Kingdoms (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Royal lineage; chosen by electors.",
@@ -174,10 +174,10 @@
         "source": "Wikipedia: Mossi Kingdoms"
       },
       "majorWars": {
-        "value": "Raids on Mali and Songhai (1300s–1400s).",
-        "year": 1477,
+        "value": "In the 15th century the Mossi took Timbuktu and sacked Walata (no year given); the French took over in 1896 and created Upper Volta.",
+        "year": 1896,
         "certainty": "confirmed",
-        "source": "Wikipedia: Mossi Kingdoms"
+        "source": "Wikipedia: Mossi Kingdoms (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Little change.",
@@ -220,10 +220,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Traditional religion; Islam spread slowly.",
+        "value": "The Mossi largely kept their traditional religious and ritual practices; Islam is also listed in the infobox.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Mossi Kingdoms"
+        "source": "Wikipedia: Mossi Kingdoms (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Mooré (oral).",
@@ -278,10 +278,10 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Kingdoms founded about 1500.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: Mossi Kingdoms"
+        "value": "Oral history of the princess Yennenga and her son Ouedraogo, who built Tenkodogo, is dated anywhere from the 11th to the 15th century; Oubri is called founder of the Ouagadougou dynasty (c. 1050–1090 in the article).",
+        "year": 1050,
+        "certainty": "disputed",
+        "source": "Wikipedia: Mossi Kingdoms (checked 13 Nov 2026)"
       },
       "peakPeriod": {
         "value": "Uncertain.",
@@ -296,10 +296,10 @@
         "source": "Wikipedia: Mossi Kingdoms"
       },
       "outcome": {
-        "value": "Part of French Upper Volta; the Mogho Naba remains a traditional leader.",
+        "value": "The French entered in 1896, conquered the Mossi Kingdom and made it part of Upper Volta; the last king of Ouagadougou died in 1904.",
         "year": 1896,
         "certainty": "confirmed",
-        "source": "Wikipedia: Mossi Kingdoms"
+        "source": "Wikipedia: Mossi Kingdoms (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {

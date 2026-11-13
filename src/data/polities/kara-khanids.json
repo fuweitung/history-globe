@@ -46,10 +46,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Central Asia (Kyrgyzstan, Xinjiang, Uzbekistan).",
+        "value": "Central Asia; the capitals included Kashgar, Balasagun, Uzgen and Samarkand, and Transoxiana was independent from 999 to 1089.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kara-Khanid Khanate"
+        "source": "Wikipedia: Kara-Khanid Khanate (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "High mountains (Tian Shan and Pamirs) with fertile valleys such as the Chu and Fergana, and the oases of Transoxiana and Kashgar.",
@@ -136,16 +136,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A Turkic dynasty that split into an eastern and a western khanate, each with a senior and junior khan.",
-        "year": null,
+        "value": "A state organised in appanages with four main urban centres; the Eastern khagan held the title Arslan Qara Khaqan and the Western Bughra Qara Khaqan, and the khanate split into Eastern and Western Khanates in the 1040s.",
+        "year": 1040,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kara-Khanid Khanate"
+        "source": "Wikipedia: Kara-Khanid Khanate (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Satuq Bughra Khan (died 955), first Muslim khan; Nasr ibn Ali, who took Bukhara (999); Yusuf Qadir Khan, who took Khotan (about 1006).",
+        "value": "Satuq Bughra Khan converted to Islam in 934 (another passage says 932) and captured Kashgar; by 999 Ali’s son Nasr had taken Chach, Samarkand and Bukhara.",
         "year": 999,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Kara-Khanid Khanate"
+        "certainty": "disputed",
+        "source": "Wikipedia: Kara-Khanid Khanate (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Power was shared among branches of the family by seniority, which often led to rivalry.",
@@ -180,10 +180,10 @@
         "source": "Wikipedia: Kara-Khanid Khanate"
       },
       "majorWars": {
-        "value": "Took Bukhara and ended the Samanids (999); wars with the Ghaznavids; defeated with the Seljuks by the Qara Khitai at Qatwan (1141).",
-        "year": 999,
+        "value": "Qara Khitai defeated the Seljuks and Karakhanids at Qatwan in 1141.",
+        "year": 1141,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kara-Khanid Khanate"
+        "source": "Wikipedia: Kara-Khanid Khanate (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Lost independence to the Qara Khitai (1137–41); the western khanate ended under Khwarazm (1212).",
@@ -226,10 +226,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Sunni Islam, adopted by the dynasty in the 900s; one of the first Turkic dynasties to convert.",
-        "year": null,
+        "value": "The Kara-Khanids converted to Islam in the mid-10th century; a mass conversion of “200,000 tents of the Turks” in 960 is circumstantially linked to them.",
+        "year": 960,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kara-Khanid Khanate"
+        "source": "Wikipedia: Kara-Khanid Khanate (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Karakhanid Turkic written in Arabic script, alongside Persian and Arabic in the cities.",
@@ -284,16 +284,16 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Satuq Bughra Khan converted to Islam (about 934) and took Kashgar.",
-        "year": 934,
+        "value": "Established in 840 (infobox); the Eastern Khanate’s capital was Balasagun, later Kashgar. Satuq Bughra Khan converted to Islam in 934 and took Kashgar.",
+        "year": 840,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kara-Khanid Khanate"
+        "source": "Wikipedia: Kara-Khanid Khanate (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "About 1000–1040, after taking Bukhara and Khotan, before the split.",
-        "year": 1020,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Kara-Khanid Khanate"
+        "value": "The page gives no peak. Nasr had taken Chach, Samarkand and Bukhara by 999; Yusuf Qadir Khan conquered Khotan in 1006; the khanate split into Eastern and Western parts in the 1040s. The Eastern Khanate ended in 1211 and the Western in 1212.",
+        "year": 1006,
+        "certainty": "estimated",
+        "source": "Wikipedia: Kara-Khanid Khanate (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "Defeat by the Qara Khitai (1137, 1141) made the khans vassals.",
@@ -302,10 +302,10 @@
         "source": "Wikipedia: Kara-Khanid Khanate"
       },
       "outcome": {
-        "value": "The eastern khanate was ended by Kuchlug (1211) and the western by Muhammad II of Khwarazm (1212).",
+        "value": "Split into Eastern and Western Khanates in the 1040s; Seljuks took Samarkand in 1089. The Eastern Khanate ended in 1211 and the Western in 1212, under the Khwarazmian Empire.",
         "year": 1212,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kara-Khanid Khanate"
+        "source": "Wikipedia: Kara-Khanid Khanate (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {
