@@ -41,10 +41,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Prussia and Livonia on the Baltic coast.",
-        "year": null,
+        "value": "Prussia and Livonia on the Baltic coast; the headquarters moved to Marienburg in 1309 and to Königsberg in 1466.",
+        "year": 1309,
         "certainty": "confirmed",
-        "source": "Wikipedia: State of the Teutonic Order"
+        "source": "Wikipedia: Teutonic Order (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Low plains and forests along the Baltic, the Vistula delta, coastal lagoons, and the Masurian lake district.",
@@ -99,10 +99,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming of grain on the Order’s estates and villages, with grain and amber exported through Baltic ports.",
+        "value": "Control of port cities and trade, especially with the Hanseatic League, plus shipbuilding and a Baltic naval presence. Grain and amber are not mentioned in the part of the page read.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: State of the Teutonic Order"
+        "source": "Wikipedia: Teutonic Order (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Baltic and Hanseatic trade from Danzig, Elbing and Königsberg to Flanders and England; the Order itself was a Hanse member.",
@@ -131,16 +131,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Rule by a religious military order under a Grand Master.",
+        "value": "A religious military order under a Grand Master (Hochmeister), elected by the General Chapter until 1525 and in practice only “first among equals”.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: State of the Teutonic Order"
+        "source": "Wikipedia: Teutonic Order (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Hermann von Salza. Winrich von Kniprode. Albert of Brandenburg.",
-        "year": 1351,
+        "value": "Hermann von Salza was Grand Master 1209–1239; Winrich von Kniprode (1351–1382) brought it to its height of prestige; Albert of Brandenburg, after converting to Lutheranism, secularised the Prussian lands in 1525.",
+        "year": 1209,
         "certainty": "confirmed",
-        "source": "Wikipedia: State of the Teutonic Order"
+        "source": "Wikipedia: Teutonic Order (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Grand Masters were elected for life by the Order’s chapter; the knights were monks with no heirs.",
@@ -221,10 +221,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Catholic Christianity; the Order was devoted to the Virgin Mary; Albert of Brandenburg adopted Lutheranism in 1525.",
-        "year": null,
+        "value": "A Catholic religious order; many Prussians stayed pagan for a time; Albert of Brandenburg converted to Lutheranism before secularising the order’s Prussian lands in 1525.",
+        "year": 1525,
         "certainty": "confirmed",
-        "source": "Wikipedia: State of the Teutonic Order"
+        "source": "Wikipedia: Teutonic Order (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "German in daily use and government, Latin in the Church; Old Prussian declined but survived among peasants.",

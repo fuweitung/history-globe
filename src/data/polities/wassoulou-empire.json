@@ -48,10 +48,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Upper Niger (Guinea, Mali, Ivory Coast).",
+        "value": "Southwestern Mali and upper Guinea, with its capital at Bissandugu. Ivory Coast is not mentioned in the part of the page read.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Wassoulou Empire"
+        "source": "Wikipedia: Wassoulou Empire (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Savanna plains and wooded hills of the upper Niger basin, with the Fouta Djallon highlands to the west.",
@@ -106,10 +106,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming, gold mining, long-distance trade in horses and guns, and the capture and sale of slaves to pay for weapons.",
+        "value": "Trade with coastal cities in ivory, wax, hides, rubber and gold; firearms came through Freetown; the internal slave trade was fed by war captives. Horses are not mentioned in the part of the page read.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Wassoulou Empire"
+        "source": "Wikipedia: Wassoulou Empire (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Traded gold, ivory and captives for rifles and horses, mainly through Freetown in British Sierra Leone.",
@@ -138,16 +138,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A military Islamic state led by Samori Touré as faama and, from 1884, almami (religious leader).",
-        "year": null,
+        "value": "A military state: “the Samorian army was the preeminent government institution”, with an infantry wing of sofa and a cavalry wing; Islam was codified as the state religion in 1884.",
+        "year": 1884,
         "certainty": "confirmed",
-        "source": "Wikipedia: Wassoulou Empire"
+        "source": "Wikipedia: Wassoulou Empire (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Samori Touré, who took the title faama in 1878 and ruled until his capture by the French in 1898.",
+        "value": "By 1878 Samori Touré had declared himself Faama (Emperor). Gouraud surprised his forces at Guelemou on 29 September 1898 and captured him without a fight. The body of the page gives no death date (a reference title gives 1830–1900).",
         "year": 1878,
         "certainty": "confirmed",
-        "source": "Wikipedia: Wassoulou Empire"
+        "source": "Wikipedia: Wassoulou Empire (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Power rested on Samori alone; there was no settled succession, and the state ended with his capture in 1898.",
@@ -228,10 +228,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Islam was the state religion; Samori promoted Qur’anic schools and pressed conquered peoples to convert.",
-        "year": null,
+        "value": "Islam was codified as the state religion in 1884 and animist practices were suppressed.",
+        "year": 1884,
         "certainty": "confirmed",
-        "source": "Wikipedia: Wassoulou Empire"
+        "source": "Wikipedia: Wassoulou Empire (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Mandinka (Maninka) was the main language; Arabic was used for religion and some correspondence.",
@@ -292,10 +292,10 @@
         "source": "Wikipedia: Wassoulou Empire (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "The early 1880s, before the French offensives, when Samori controlled much of the upper Niger region.",
-        "year": 1883,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Wassoulou Empire"
+        "value": "The page calls the 15-month siege of Sikasso (begun in April; the year is not given in the part read) the empire’s high-water mark, after which it declined; this does not match the entry’s early 1880s.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Wassoulou Empire (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "Major French offensives from 1891 forced Samori to abandon his heartland and move east.",
