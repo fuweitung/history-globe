@@ -318,7 +318,7 @@
         "source": "Wikipedia: Indigenous peoples of California (checked 12 Nov 2026)"
       },
       "terrain": {
-        "value": "Coast, valleys, mountains and deserts.",
+        "value": "A varied land of coast, valleys, mountains and deserts.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Indigenous peoples of California"
@@ -330,7 +330,7 @@
         "source": "Wikipedia: Indigenous peoples of California"
       },
       "resources": {
-        "value": "Acorns, salmon, shellfish, deer, seeds.",
+        "value": "Acorns, salmon, shellfish, deer and seeds, which supported dense populations.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Indigenous peoples of California"
@@ -382,9 +382,9 @@
         "source": "Wikipedia: Indigenous peoples of California"
       },
       "wealth": {
-        "value": "Shell beads and obsidian as wealth.",
+        "value": "Shell beads and obsidian were valued as wealth.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Indigenous peoples of California"
       },
       "moneyAndTax": {
@@ -414,13 +414,13 @@
         "source": "Wikipedia: Indigenous peoples of California"
       },
       "succession": {
-        "value": "Often hereditary chiefs.",
+        "value": "Chiefs were often hereditary, though skill and generosity mattered.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Indigenous peoples of California"
       },
       "institutions": {
-        "value": "Village councils; dance societies.",
+        "value": "Village councils and dance societies.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Indigenous peoples of California"
@@ -432,7 +432,7 @@
         "source": "Wikipedia: Indigenous peoples of California"
       },
       "eliteConflict": {
-        "value": "Local disputes.",
+        "value": "Local disputes, usually settled within or between villages.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Indigenous peoples of California"
@@ -440,7 +440,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Bows and arrows.",
+        "value": "Bows and arrows, and fine basketry.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Indigenous peoples of California"
@@ -458,7 +458,7 @@
         "source": "Wikipedia: Indigenous peoples of California (checked 12 Nov 2026)"
       },
       "alliancesRivals": {
-        "value": "Neighbouring peoples.",
+        "value": "Neighbouring peoples traded and sometimes fought.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Indigenous peoples of California"
@@ -484,7 +484,7 @@
         "source": "Wikipedia: Indigenous peoples of California"
       },
       "communicationTransport": {
-        "value": "Trails and plank or tule-reed boats.",
+        "value": "Trails and plank or tule-reed boats, such as the Chumash tomol.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Indigenous peoples of California"
@@ -536,7 +536,7 @@
         "source": "Wikipedia: Indigenous peoples of California"
       },
       "ideasReligions": {
-        "value": "Land managed by fire.",
+        "value": "Land was carefully managed by fire and tended in a spiritual way.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Indigenous peoples of California"
@@ -550,14 +550,14 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Thousands of years of settlement.",
+        "value": "Thousands of years of settlement and resource management.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Indigenous peoples of California"
       },
       "peakPeriod": {
-        "value": "Before 1769.",
-        "year": null,
+        "value": "The period before Spanish missions began in 1769.",
+        "year": 1769,
         "certainty": "estimated",
         "source": "Wikipedia: Indigenous peoples of California"
       },
