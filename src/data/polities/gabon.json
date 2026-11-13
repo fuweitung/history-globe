@@ -46,25 +46,25 @@
         "source": "Wikipedia: Gabon (checked 12 Nov 2026)"
       },
       "terrain": {
-        "value": "Mostly rainforest.",
+        "value": "Mostly dense rainforest, with a coastal plain, highlands and the Ogooué River basin.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Gabon"
       },
       "climate": {
-        "value": "Equatorial.",
+        "value": "Equatorial, hot and humid with heavy rains.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Gabon"
       },
       "resources": {
-        "value": "Oil, manganese, timber.",
+        "value": "Oil, manganese, timber and uranium; vast rainforests and wildlife.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Gabon"
       },
       "disasters": {
-        "value": "Floods.",
+        "value": "Floods and landslides in the rainy season.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Gabon"
@@ -84,13 +84,13 @@
         "source": "Wikipedia: Gabon"
       },
       "disease": {
-        "value": "Malaria.",
+        "value": "Malaria and other tropical diseases are common; health care is better than in many neighbours.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Gabon"
       },
       "migration": {
-        "value": "Workers from neighbouring countries.",
+        "value": "Workers have come from neighbouring countries to the oil and timber sectors.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Gabon"
@@ -104,7 +104,7 @@
         "source": "Wikipedia: Gabon (checked 12 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "Ports.",
+        "value": "Oil and timber leave by sea through ports such as Port-Gentil and Owendo.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Gabon"
@@ -148,7 +148,7 @@
         "source": "Wikipedia: Gabon (checked 12 Nov 2026)"
       },
       "institutions": {
-        "value": "Parliament.",
+        "value": "A president, a two-chamber parliament and a constitutional court, though power has been concentrated in the presidency.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Gabon"
@@ -168,25 +168,25 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Armed forces.",
+        "value": "A small army and the Republican Guard, with French military support.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Gabon"
       },
       "majorWars": {
-        "value": "None.",
+        "value": "No wars with other states since independence in 1960.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Gabon"
       },
       "territoryChange": {
-        "value": "None.",
+        "value": "The borders have remained the same since independence; a dispute over Mbanié island with Equatorial Guinea was taken to the International Court of Justice.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Gabon"
       },
       "alliancesRivals": {
-        "value": "Close to France.",
+        "value": "Close to France, which long kept troops there, and a member of the Central African regional bloc.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Gabon"
@@ -200,7 +200,7 @@
         "source": "Wikipedia: Gabon"
       },
       "scienceEducation": {
-        "value": "Universities.",
+        "value": "Universities in Libreville and Franceville, with an educated urban class.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Gabon"
@@ -212,21 +212,21 @@
         "source": "Wikipedia: Gabon"
       },
       "communicationTransport": {
-        "value": "Trans-Gabon Railway.",
-        "year": null,
+        "value": "The Trans-Gabon Railway (completed 1987) links Libreville with the interior.",
+        "year": 1987,
         "certainty": "confirmed",
         "source": "Wikipedia: Gabon"
       }
     },
     "culture": {
       "religion": {
-        "value": "Mostly Christian.",
+        "value": "Mostly Christian (Catholic), with traditional beliefs and Bwiti, a local religion.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Gabon"
       },
       "languageWriting": {
-        "value": "French; Fang and others.",
+        "value": "French is official; Fang and about 40 other languages are spoken.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Gabon"
@@ -238,27 +238,27 @@
         "source": "Wikipedia: Gabon (checked 12 Nov 2026)"
       },
       "socialStructure": {
-        "value": "Fang and other peoples.",
+        "value": "The Fang are the largest of many ethnic groups, with an urban elite and rural villagers.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Gabon"
       },
       "sharedIdentity": {
-        "value": "National identity.",
+        "value": "A shared national identity built since independence, with ties to the rainforest and its heritage.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Gabon"
       },
       "dailyLife": {
-        "value": "Houses; cassava, fish.",
+        "value": "Many people live in cities and eat cassava, fish and bushmeat; village life depends on farming and hunting.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Gabon"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "Equatorial Guinea, Cameroon, Congo.",
+        "value": "Equatorial Guinea, Cameroon and the Republic of the Congo.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Gabon"
@@ -296,7 +296,7 @@
         "source": "Wikipedia: Gabon"
       },
       "outcome": {
-        "value": "Still in existence.",
+        "value": "Gabon continues as an independent republic.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Gabon"

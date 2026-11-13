@@ -47,19 +47,19 @@
         "source": "Wikipedia: Equatorial Guinea (checked 12 Nov 2026)"
       },
       "terrain": {
-        "value": "Volcanic island and rainforest.",
+        "value": "A mainland region (Río Muni) of rainforest, plus the volcanic island of Bioko and small islands.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Equatorial Guinea"
       },
       "climate": {
-        "value": "Equatorial.",
+        "value": "Equatorial, hot and humid all year with heavy rain.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Equatorial Guinea"
       },
       "resources": {
-        "value": "Oil and gas.",
+        "value": "Oil and natural gas, which provide most of the country’s income, plus timber, cocoa and fish.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Equatorial Guinea"
@@ -79,33 +79,33 @@
         "source": "Wikipedia: Equatorial Guinea (checked 12 Nov 2026)"
       },
       "urbanisation": {
-        "value": "Malabo and Bata.",
+        "value": "Malabo on Bioko and Bata on the mainland are the main cities.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Equatorial Guinea"
       },
       "disease": {
-        "value": "Malaria.",
+        "value": "Malaria is widespread, and health care is limited despite oil wealth.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Equatorial Guinea"
       },
       "migration": {
-        "value": "Exiles under Macías Nguema.",
-        "year": null,
+        "value": "Many fled abroad from the dictatorship of Francisco Macías Nguema (1968–79), and workers now come from neighbouring countries.",
+        "year": 1968,
         "certainty": "confirmed",
         "source": "Wikipedia: Equatorial Guinea"
       }
     },
     "economy": {
       "economicBase": {
-        "value": "Oil and gas.",
+        "value": "Oil and gas since the 1990s, with farming and fishing a small part.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Equatorial Guinea"
       },
       "tradeRoutes": {
-        "value": "Oil exports.",
+        "value": "Oil is shipped from offshore fields by tanker, mostly to Asia and Europe.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Equatorial Guinea"
@@ -131,7 +131,7 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A presidential republic.",
+        "value": "A presidential republic in which the presidency holds nearly all power.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Equatorial Guinea"
@@ -169,25 +169,25 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Armed forces.",
+        "value": "A small army, navy and police, largely loyal to the ruling party.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Equatorial Guinea"
       },
       "majorWars": {
-        "value": "None.",
+        "value": "No wars with other states since independence in 1968.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Equatorial Guinea"
       },
       "territoryChange": {
-        "value": "None.",
+        "value": "The borders have been stable since independence; a dispute with Gabon over Mbanié island was taken to the International Court of Justice.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Equatorial Guinea"
       },
       "alliancesRivals": {
-        "value": "Neighbours Cameroon and Gabon.",
+        "value": "Neighbours Cameroon and Gabon, and close ties to Spain, France and, for oil, the United States and China.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Equatorial Guinea"
@@ -201,7 +201,7 @@
         "source": "Wikipedia: Equatorial Guinea"
       },
       "scienceEducation": {
-        "value": "Low.",
+        "value": "Schooling is limited and literacy is lower than the oil wealth might suggest.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Equatorial Guinea"
@@ -213,7 +213,7 @@
         "source": "Wikipedia: Equatorial Guinea"
       },
       "communicationTransport": {
-        "value": "Roads.",
+        "value": "Roads link the main towns, and flights connect Bioko to the mainland; Malabo is a busy oil port.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Equatorial Guinea"
@@ -221,7 +221,7 @@
     },
     "culture": {
       "religion": {
-        "value": "Mostly Catholic.",
+        "value": "Mostly Catholic, with a minority of other Christians and traditional beliefs.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Equatorial Guinea"
@@ -233,7 +233,7 @@
         "source": "Wikipedia: Equatorial Guinea (checked 12 Nov 2026)"
       },
       "artsArchitecture": {
-        "value": "Fang art.",
+        "value": "Fang masks and reliquary figures, and Spanish colonial buildings in Malabo.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Equatorial Guinea"
@@ -245,27 +245,27 @@
         "source": "Wikipedia: Equatorial Guinea (checked 12 Nov 2026)"
       },
       "sharedIdentity": {
-        "value": "National identity.",
+        "value": "Fang, Bubi and other groups share a national identity, with Spanish as the official language.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Equatorial Guinea"
       },
       "dailyLife": {
-        "value": "Houses; fish, cassava.",
+        "value": "Many families live in simple houses and eat fish, cassava and plantain.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Equatorial Guinea"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "Cameroon, Gabon.",
+        "value": "Cameroon to the north and Gabon to the south and east.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Equatorial Guinea"
       },
       "ideasReligions": {
-        "value": "Catholicism.",
+        "value": "Catholicism, brought by Spanish missionaries, is the main faith.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Equatorial Guinea"
@@ -297,7 +297,7 @@
         "source": "Wikipedia: Equatorial Guinea"
       },
       "outcome": {
-        "value": "Still in existence.",
+        "value": "Equatorial Guinea continues as an independent republic.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Equatorial Guinea"
