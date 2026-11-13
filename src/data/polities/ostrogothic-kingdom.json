@@ -46,25 +46,25 @@
         "source": "Wikipedia: Ostrogothic Kingdom (checked 8 Nov 2026)"
       },
       "terrain": {
-        "value": "Peninsula, plains and mountains.",
+        "value": "The Italian peninsula, with the Po plain in the north, the Apennine mountains and long coasts.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ostrogothic Kingdom"
       },
       "climate": {
-        "value": "Mediterranean.",
+        "value": "Mediterranean in most of Italy, cooler and wetter in the north.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ostrogothic Kingdom"
       },
       "resources": {
-        "value": "Grain, wine, olive oil.",
+        "value": "Grain, wine, olive oil, timber and the rich farmland of the Po valley.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ostrogothic Kingdom"
       },
       "disasters": {
-        "value": "Plague of Justinian (541).",
+        "value": "The plague of Justinian reached the empire in 541, though its worst effects in Italy came after the kingdom had fallen.",
         "year": 541,
         "certainty": "confirmed",
         "source": "Wikipedia: Ostrogothic Kingdom"
@@ -84,7 +84,7 @@
         "source": "Wikipedia: Ostrogothic Kingdom"
       },
       "disease": {
-        "value": "Plague (541).",
+        "value": "The first great plague pandemic (from 541) spread across the Mediterranean, probably reaching Italy by 543.",
         "year": 541,
         "certainty": "confirmed",
         "source": "Wikipedia: Ostrogothic Kingdom"
@@ -98,25 +98,25 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Roman-style farming estates.",
+        "value": "Farming on Roman-style estates (villas), supported by Roman taxes and some trade.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ostrogothic Kingdom"
       },
       "tradeRoutes": {
-        "value": "Mediterranean trade.",
+        "value": "The Mediterranean trade network continued through Italian ports such as Ravenna and Ostia.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ostrogothic Kingdom"
       },
       "wealth": {
-        "value": "Rich Roman estates.",
+        "value": "Great Roman landowning families kept much of the wealth; the Gothic kings also gained from taxes.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Ostrogothic Kingdom"
       },
       "moneyAndTax": {
-        "value": "Roman coins and taxes.",
+        "value": "Roman gold and silver coins and the Roman tax system continued; Theodoric’s coins still carried the emperor’s name.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ostrogothic Kingdom"
@@ -142,8 +142,8 @@
         "source": "Wikipedia: Ostrogothic Kingdom (checked 8 Nov 2026)"
       },
       "succession": {
-        "value": "Royal Amal family, then elected kings.",
-        "year": null,
+        "value": "Kings came from the Amal family, but after Theodoric’s death in 526 the succession was often disputed.",
+        "year": 526,
         "certainty": "confirmed",
         "source": "Wikipedia: Ostrogothic Kingdom"
       },
@@ -160,7 +160,7 @@
         "source": "Wikipedia: Ostrogothic Kingdom (checked 8 Nov 2026)"
       },
       "eliteConflict": {
-        "value": "Pro- and anti-Byzantine Goths.",
+        "value": "Pro-Byzantine and anti-Byzantine factions among the Goths and Romans, which also divided the royal family.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ostrogothic Kingdom"
@@ -168,7 +168,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Gothic cavalry.",
+        "value": "Gothic cavalry formed the core of the army, while Romans ran government and the law.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ostrogothic Kingdom"
@@ -194,7 +194,7 @@
     },
     "technology": {
       "inventions": {
-        "value": "No major inventions.",
+        "value": "No major inventions are recorded; Cassiodorus helped preserve classical learning.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Ostrogothic Kingdom"
@@ -206,13 +206,13 @@
         "source": "Wikipedia: Ostrogothic Kingdom (checked 8 Nov 2026)"
       },
       "openness": {
-        "value": "Roman and Gothic cultures side by side.",
+        "value": "Goths and Romans lived side by side with separate laws and, often, different religions.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ostrogothic Kingdom"
       },
       "communicationTransport": {
-        "value": "Roman roads.",
+        "value": "The Roman road network, Ravenna’s harbour and the postal system continued to function.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ostrogothic Kingdom"
@@ -226,7 +226,7 @@
         "source": "Wikipedia: Ostrogothic Kingdom (checked 8 Nov 2026)"
       },
       "languageWriting": {
-        "value": "Latin and Gothic.",
+        "value": "Latin was used for government and the Church; the Goths spoke Gothic, which survives only in a few texts such as Wulfila’s Bible.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ostrogothic Kingdom"
@@ -244,15 +244,15 @@
         "source": "Wikipedia: Ostrogothic Kingdom (checked 8 Nov 2026)"
       },
       "sharedIdentity": {
-        "value": "Separate Gothic and Roman identities.",
+        "value": "Goths and Romans kept separate identities, though Theodoric tried to bring them together.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Ostrogothic Kingdom"
       },
       "dailyLife": {
-        "value": "Roman-style life continued.",
+        "value": "Roman-style town life and farming went on, with Goths mostly settled on lands as soldiers.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Ostrogothic Kingdom"
       }
     },
@@ -264,13 +264,13 @@
         "source": "Wikipedia: Ostrogothic Kingdom"
       },
       "ideasReligions": {
-        "value": "Classical learning.",
+        "value": "Classical learning survived under Theodoric’s officials, such as Boethius and Cassiodorus; the Goths were Arian Christians while most Romans were Catholic.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ostrogothic Kingdom"
       },
       "colonisation": {
-        "value": "Took over Roman Italy.",
+        "value": "The Goths took over Roman Italy in 493 with the agreement of the Eastern emperor.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Ostrogothic Kingdom"
@@ -284,13 +284,13 @@
         "source": "Wikipedia: Ostrogothic Kingdom (checked 8 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Theodoric’s reign (493–526).",
-        "year": 510,
+        "value": "Theodoric the Great’s reign (493–526), a time of peace and building in Ravenna.",
+        "year": 493,
         "certainty": "confirmed",
         "source": "Wikipedia: Ostrogothic Kingdom"
       },
       "declineSignals": {
-        "value": "Byzantine invasion (535).",
+        "value": "The Byzantine invasion of 535 began the long Gothic War, which ended Ostrogothic rule by 553.",
         "year": 535,
         "certainty": "confirmed",
         "source": "Wikipedia: Ostrogothic Kingdom"
