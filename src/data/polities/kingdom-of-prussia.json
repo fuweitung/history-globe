@@ -287,16 +287,16 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Kingdom proclaimed (1701).",
+        "value": "Frederick crowned himself “King in Prussia” on 18 January 1701; the location is not stated.",
         "year": 1701,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Prussia"
+        "source": "Wikipedia: Kingdom of Prussia (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Under Bismarck (1862–71).",
-        "year": 1866,
+        "value": "Frederick the Great reigned 1740–1786. The infobox population rose from 2.2 million (1740) to 5.8 million (1786).",
+        "year": 1740,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Prussia"
+        "source": "Wikipedia: Kingdom of Prussia (checked 13 Nov 2026)"
       },
       "declineSignals": {
         "value": "None; it merged into the German Empire.",
@@ -305,10 +305,10 @@
         "source": "Wikipedia: Kingdom of Prussia"
       },
       "outcome": {
-        "value": "Became the leading state of the German Empire (1871).",
+        "value": "Regained most of its pre-1806 territory at the Congress of Vienna. The German Empire was proclaimed on 18 January 1871 at Versailles.",
         "year": 1871,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Prussia"
+        "source": "Wikipedia: Kingdom of Prussia (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {
