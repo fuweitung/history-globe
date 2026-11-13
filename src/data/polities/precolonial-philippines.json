@@ -47,33 +47,33 @@
         "source": "Wikipedia: History of the Philippines (900–1565)"
       },
       "terrain": {
-        "value": "Islands, coasts, mountains.",
+        "value": "Over 7,000 islands with narrow coastal plains, river valleys such as the Pasig, and mountain ranges like the Cordillera of northern Luzon.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: History of the Philippines (900–1565)"
       },
       "climate": {
-        "value": "Tropical, with typhoons.",
+        "value": "Tropical and humid, with a wet monsoon from about June to October and frequent typhoons, especially in Luzon and the Visayas.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: History of the Philippines (900–1565)"
       },
       "resources": {
-        "value": "Rice, gold, forest goods.",
+        "value": "Rice, coconuts, gold from Butuan and Paracale, forest goods such as beeswax and hardwoods, pearls and sea products.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: History of the Philippines (900–1565)"
       },
       "disasters": {
-        "value": "Typhoons, volcanoes.",
+        "value": "Typhoons, floods and earthquakes, and eruptions of active volcanoes such as Taal and Mayon.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: History of the Philippines (900–1565)"
       }
     },
     "population": {
       "population": {
-        "value": "Perhaps 1 million.",
+        "value": "Perhaps around 1 million people in the 1500s, though estimates vary widely.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: History of the Philippines (900–1565)"
@@ -85,13 +85,13 @@
         "source": "Wikipedia: History of the Philippines (900–1565)"
       },
       "disease": {
-        "value": "Epidemics and famines.",
+        "value": "Tropical diseases such as malaria; Spanish contact after 1521 brought new epidemics, but early records are few.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: History of the Philippines (900–1565)"
       },
       "migration": {
-        "value": "Chinese and Malay traders.",
+        "value": "Chinese and Malay traders settled in ports; Muslim traders and teachers from Borneo and the Malay world came to Sulu, Mindanao and Manila.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: History of the Philippines (900–1565)"
@@ -99,7 +99,7 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Rice farming, fishing, trade.",
+        "value": "Rice farming, fishing, gold-working and weaving, and trade of local goods for Chinese porcelain and silk.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: History of the Philippines (900–1565)"
@@ -111,15 +111,15 @@
         "source": "Wikipedia: History of the Philippines (900–1521) (checked 13 Nov 2026)"
       },
       "wealth": {
-        "value": "Gold ornaments.",
+        "value": "Gold was plentiful: finds such as the Surigao treasure show fine jewellery, and Chinese porcelain was buried with the dead.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: History of the Philippines (900–1565)"
       },
       "moneyAndTax": {
-        "value": "Gold beads (piloncitos), barter.",
+        "value": "Small gold pieces called piloncitos, gold by weight, and barter; datus received rice and labour from their followers.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: History of the Philippines (900–1565)"
       },
       "inequality": {
@@ -143,51 +143,51 @@
         "source": "Wikipedia: History of the Philippines (900–1565)"
       },
       "succession": {
-        "value": "Datu families.",
+        "value": "Datu rank usually passed to a son, but a datu also needed wealth, courage and followers to keep power.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: History of the Philippines (900–1565)"
       },
       "institutions": {
-        "value": "Customary law.",
+        "value": "Customary law applied by datus and elders, with disputes settled by fines or ordeals; there was no single central state.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: History of the Philippines (900–1565)"
       },
       "stability": {
-        "value": "Many small rival states.",
+        "value": "Many small barangays and rajahnates competed; alliances by marriage and raids for captives were common.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: History of the Philippines (900–1565)"
       },
       "eliteConflict": {
-        "value": "Rival datus.",
+        "value": "Rival datus fought over followers and trade; Rajah Humabon of Cebu and Lapulapu of Mactan were rivals in 1521.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: History of the Philippines (900–1565)"
       }
     },
     "military": {
       "armyAndTech": {
-        "value": "Boats and bladed weapons (kampilan).",
+        "value": "Warriors used the kampilan sword, spears and shields, sailed karakoa warships, and by the 1500s had some lantaka bronze cannons.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: History of the Philippines (900–1565)"
       },
       "majorWars": {
-        "value": "Battle of Mactan (1521).",
+        "value": "At the Battle of Mactan (1521), Lapulapu’s warriors killed Ferdinand Magellan; Manila resisted Spanish forces in 1570–71.",
         "year": 1521,
         "certainty": "confirmed",
         "source": "Wikipedia: History of the Philippines (900–1565)"
       },
       "territoryChange": {
-        "value": "Conquered by Spain.",
-        "year": null,
+        "value": "Spain took Cebu (1565) and Manila (1571), then most of Luzon and the Visayas; Muslim Sulu and Maguindanao stayed independent.",
+        "year": 1571,
         "certainty": "confirmed",
         "source": "Wikipedia: History of the Philippines (900–1565)"
       },
       "alliancesRivals": {
-        "value": "Brunei, Sulu, Ming China.",
+        "value": "Close links with Brunei, whose royal family was tied to Maynila’s rulers; tribute missions to Ming China; rivalry with Sulu and among datus.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: History of the Philippines (900–1565)"
@@ -195,25 +195,25 @@
     },
     "technology": {
       "inventions": {
-        "value": "No major inventions are recorded.",
+        "value": "No major inventions are recorded; skilled boat-building and fine goldwork stand out.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: History of the Philippines (900–1565)"
       },
       "scienceEducation": {
-        "value": "Baybayin script.",
+        "value": "Baybayin script was widely used for short texts; the Laguna Copperplate Inscription (900) shows earlier writing in the Kawi script.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: History of the Philippines (900–1565)"
       },
       "openness": {
-        "value": "Open to trade.",
+        "value": "Very open to trade: Chinese junks visited ports such as Tondo, Maynila and Cebu, and Islam spread along trade links.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: History of the Philippines (900–1565)"
       },
       "communicationTransport": {
-        "value": "Rivers, coastal shipping and footpaths.",
+        "value": "Balangay and other plank boats along coasts and between islands, rivers such as the Pasig, and footpaths inland.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: History of the Philippines (900–1565)"
@@ -233,7 +233,7 @@
         "source": "Wikipedia: History of the Philippines (900–1565)"
       },
       "artsArchitecture": {
-        "value": "Gold jewellery; houses on stilts.",
+        "value": "Gold jewellery and burial masks, carved wood, and houses of wood and bamboo raised on stilts.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: History of the Philippines (900–1565)"
@@ -245,13 +245,13 @@
         "source": "Wikipedia: History of the Philippines (900–1565)"
       },
       "sharedIdentity": {
-        "value": "Loyalty to the ruler and faith.",
+        "value": "People identified with their barangay, datu and kin group rather than with the islands as a whole.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: History of the Philippines (900–1565)"
       },
       "dailyLife": {
-        "value": "Village farming households.",
+        "value": "Village families grew rice and root crops, fished, chewed betel nut and lived in raised houses near rivers and coasts.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: History of the Philippines (900–1565)"
@@ -259,13 +259,13 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Brunei, Sulu, China.",
+        "value": "The Sultanate of Brunei, the Sulu Sultanate, Ming China, the Malay ports and, from 1521, Spanish and Portuguese ships.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: History of the Philippines (900–1565)"
       },
       "ideasReligions": {
-        "value": "Islam spread from Borneo.",
+        "value": "Islam spread from Borneo and Sulu: the Sulu Sultanate formed in the 1400s, and Muslim rajahs ruled Maynila by the 1500s.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: History of the Philippines (900–1565)"
@@ -285,13 +285,13 @@
         "source": "Wikipedia: History of the Philippines (900–1521) (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Tondo and Maynila (1400s–1500s).",
+        "value": "The 1400s–1500s, when Tondo, Maynila, Cebu and Butuan traded widely with China and Brunei.",
         "year": 1500,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: History of the Philippines (900–1565)"
       },
       "declineSignals": {
-        "value": "Spanish arrival.",
+        "value": "Spanish arrival: Magellan in 1521 and Legazpi from 1565, followed by the conquest of Cebu, Panay and Manila.",
         "year": 1565,
         "certainty": "confirmed",
         "source": "Wikipedia: History of the Philippines (900–1565)"

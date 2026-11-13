@@ -52,21 +52,21 @@
         "source": "Wikipedia: Jordan"
       },
       "climate": {
-        "value": "Dry.",
+        "value": "Mostly hot, dry desert; the western highlands have a Mediterranean climate with winter rain and sometimes snow.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jordan"
       },
       "resources": {
-        "value": "Phosphate, potash.",
+        "value": "Phosphate, and potash from the Dead Sea, but very little water and no large oil reserves.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jordan"
       },
       "disasters": {
-        "value": "Droughts; water scarcity.",
+        "value": "Droughts and severe water shortage, flash floods such as those near the Dead Sea in 2018, and occasional earthquakes.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Jordan"
       }
     },
@@ -78,19 +78,19 @@
         "source": "Wikipedia: Jordan (checked 13 Nov 2026)"
       },
       "urbanisation": {
-        "value": "Amman.",
+        "value": "Over 90% urban; the Amman area holds about 4 million people, followed by Zarqa and Irbid.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jordan"
       },
       "disease": {
-        "value": "Good health care.",
+        "value": "Good health care by regional standards; water shortage and crowded refugee camps create health risks.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Jordan"
       },
       "migration": {
-        "value": "Palestinian, Iraqi and Syrian refugees.",
+        "value": "Palestinian refugees arrived in 1948 and 1967, Iraqis after 2003, and over 600,000 registered Syrian refugees after 2011.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jordan"
@@ -98,13 +98,13 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Services, phosphates, tourism, aid.",
+        "value": "Services, tourism (such as Petra), phosphate and potash mining, money sent home by workers abroad, and foreign aid.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jordan"
       },
       "tradeRoutes": {
-        "value": "Port of Aqaba.",
+        "value": "Aqaba on the Red Sea is the only port; highways link Jordan to Iraq, Saudi Arabia and Syria.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jordan"
@@ -116,8 +116,8 @@
         "source": "Wikipedia: Jordan (checked 13 Nov 2026)"
       },
       "moneyAndTax": {
-        "value": "The Jordanian dinar.",
-        "year": null,
+        "value": "The Jordanian dinar, introduced in 1950 and pegged to the US dollar since 1995.",
+        "year": 1950,
         "certainty": "confirmed",
         "source": "Wikipedia: Jordan"
       },
@@ -142,13 +142,13 @@
         "source": "Wikipedia: Jordan (checked 13 Nov 2026)"
       },
       "succession": {
-        "value": "Hashemite kings.",
+        "value": "Hereditary in the Hashemite family; the king names the crown prince from among his sons or brothers.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jordan"
       },
       "institutions": {
-        "value": "Parliament; strong king.",
+        "value": "A parliament with an elected House of Representatives and a Senate appointed by the king, and a prime minister chosen by the king.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jordan"
@@ -180,7 +180,7 @@
         "source": "Wikipedia: Jordan (checked 13 Nov 2026)"
       },
       "territoryChange": {
-        "value": "Ruled the West Bank 1948/50–67.",
+        "value": "Held the West Bank and East Jerusalem from 1948 (annexed 1950) until 1967; gave up its claim in 1988.",
         "year": 1967,
         "certainty": "confirmed",
         "source": "Wikipedia: Jordan"
@@ -200,7 +200,7 @@
         "source": "Wikipedia: Jordan"
       },
       "scienceEducation": {
-        "value": "High literacy.",
+        "value": "High literacy (over 95% of adults); the University of Jordan in Amman was founded in 1962.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jordan"
@@ -212,7 +212,7 @@
         "source": "Wikipedia: Jordan"
       },
       "communicationTransport": {
-        "value": "Desert Highway.",
+        "value": "The Desert Highway and King’s Highway run north–south, the old Hejaz Railway passes through Amman, and Queen Alia Airport serves the capital.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jordan"
@@ -226,13 +226,13 @@
         "source": "Wikipedia: Jordan (checked 13 Nov 2026)"
       },
       "languageWriting": {
-        "value": "Arabic.",
+        "value": "Arabic is the official language; English is widely used in business and education.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jordan"
       },
       "artsArchitecture": {
-        "value": "Roman Jerash.",
+        "value": "Ancient sites such as Nabataean Petra and Roman Jerash, and the white stone buildings of modern Amman.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jordan"
@@ -244,29 +244,29 @@
         "source": "Wikipedia: Jordan"
       },
       "sharedIdentity": {
-        "value": "Loyalty to the Hashemite monarchy.",
+        "value": "Loyalty to the Hashemite monarchy and Arab identity, with debates over East Bank and Palestinian-origin identities.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Jordan"
       },
       "dailyLife": {
-        "value": "Apartments; mansaf, falafel.",
+        "value": "Most people live in city apartments; mansaf (lamb with rice and yogurt) is the national dish, and coffee marks hospitality.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Jordan"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "Syria, Iraq, Saudi Arabia, Israel.",
+        "value": "Syria, Iraq, Saudi Arabia, Israel and the West Bank, with a short Red Sea coast at Aqaba.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Jordan"
       },
       "ideasReligions": {
-        "value": "Moderate Islam.",
+        "value": "Sunni Islam with a moderate official tone; the Hashemite kings claim descent from the Prophet Muhammad and act as custodians of Jerusalem’s holy sites.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Jordan"
       },
       "colonisation": {
@@ -284,7 +284,7 @@
         "source": "Wikipedia: Jordan (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Too recent to judge.",
+        "value": "Too recent to judge; it has stayed stable while several neighbours faced wars.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Jordan"

@@ -48,27 +48,27 @@
         "source": "Wikipedia: Kingdom of Ireland (checked 13 Nov 2026)"
       },
       "terrain": {
-        "value": "Central plain ringed by hills.",
+        "value": "A low central plain of bogs, lakes and pasture drained by the River Shannon, ringed by coastal hills and mountains such as the Wicklow Mountains.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Ireland"
       },
       "climate": {
-        "value": "Mild and very wet.",
+        "value": "Mild, wet oceanic climate warmed by the Atlantic, with cool summers, mild winters and frequent rain.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Ireland"
       },
       "resources": {
-        "value": "Farmland, linen.",
+        "value": "Rich grassland for cattle and sheep, flax for linen in Ulster, timber (heavily cut in the 1600s), fish, and peat (turf) for fuel.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Ireland"
       },
       "disasters": {
-        "value": "Famine (1740–41).",
+        "value": "The Great Frost and famine of 1740–41, which may have killed over a tenth of the people; also harvest failures in the 1720s.",
         "year": 1740,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Ireland"
       }
     },
@@ -86,9 +86,9 @@
         "source": "Wikipedia: Kingdom of Ireland"
       },
       "disease": {
-        "value": "Black Death (1348–49).",
-        "year": 1348,
-        "certainty": "confirmed",
+        "value": "Plague during the Cromwellian wars (1649–53), typhus (“famine fever”) and dysentery in the famine of 1740–41, and frequent smallpox.",
+        "year": 1649,
+        "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Ireland"
       },
       "migration": {
@@ -100,25 +100,25 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Not described on the page; farming, cattle and linen are not mentioned there and need another source.",
+        "value": "Farming: cattle, butter and beef for export, grain and potatoes; linen weaving grew in Ulster from about 1700.",
         "year": null,
         "certainty": "estimated",
-        "source": "Wikipedia: Kingdom of Ireland (checked 13 Nov 2026)"
+        "source": "Wikipedia: Kingdom of Ireland"
       },
       "tradeRoutes": {
-        "value": "Exports to Britain.",
+        "value": "Salted beef, butter and hides shipped from Cork to Britain, Europe and the West Indies; linen exported from Belfast and Dublin to England.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Ireland"
       },
       "wealth": {
-        "value": "Landlord wealth; poor tenants.",
+        "value": "Wealth was concentrated in a landlord class, many of them absentees living in England, while most tenants and labourers lived near subsistence.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Ireland"
       },
       "moneyAndTax": {
-        "value": "Irish pound.",
+        "value": "The Irish pound, worth less than the English pound (13 Irish to 12 English from 1701); revenue came from customs, excise and the hearth tax.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Ireland"
@@ -144,7 +144,7 @@
         "source": "Wikipedia: Kingdom of Ireland (checked 13 Nov 2026)"
       },
       "succession": {
-        "value": "English/British crown.",
+        "value": "The crown passed with the English (from 1707 British) crown, so the monarch of England was automatically King or Queen of Ireland.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Ireland"
@@ -156,7 +156,7 @@
         "source": "Wikipedia: Kingdom of Ireland"
       },
       "stability": {
-        "value": "Rebellions (1641, 1798).",
+        "value": "Major uprisings in 1641 and 1798, plus the Nine Years’ War (1594–1603) and Williamite War (1689–91); the 1700s were calmer until the 1790s.",
         "year": 1641,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Ireland"
@@ -170,7 +170,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "English garrisons.",
+        "value": "A separate Irish military establishment of British regular troops in barracks across the country, plus Protestant Volunteer militias formed from 1778.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Ireland"
@@ -182,13 +182,13 @@
         "source": "Wikipedia: Kingdom of Ireland (checked 13 Nov 2026)"
       },
       "territoryChange": {
-        "value": "None.",
+        "value": "No change in borders: the kingdom always covered the whole island, though English control reached all of it only after 1603.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Ireland"
       },
       "alliancesRivals": {
-        "value": "Under England.",
+        "value": "Bound to England; Catholic rebels sought help from Spain (Battle of Kinsale, 1601) and France (the French landing in Mayo, 1798).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Ireland"
@@ -196,25 +196,25 @@
     },
     "technology": {
       "inventions": {
-        "value": "No major inventions are recorded.",
+        "value": "Few inventions, but Irish-born Robert Boyle set out Boyle’s law (1662), and William Petty mapped Ireland in the Down Survey of the 1650s.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Ireland"
       },
       "scienceEducation": {
-        "value": "Trinity College Dublin.",
+        "value": "Trinity College Dublin (founded 1592) and the Dublin Society (1731); Catholics were barred from most schooling by the Penal Laws, so “hedge schools” grew up.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Ireland"
       },
       "openness": {
-        "value": "Open to trade with Europe.",
+        "value": "Open to trade, but English laws such as the Navigation Acts and the Woollen Act (1699) limited Irish exports until free trade was granted in 1779–80.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Ireland"
       },
       "communicationTransport": {
-        "value": "Roads and canals.",
+        "value": "Roads improved by turnpike trusts in the 1700s; the Grand Canal (begun 1756) and Royal Canal (begun 1790) ran west from Dublin; ships crossed to Holyhead and Chester.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Ireland"
@@ -228,51 +228,51 @@
         "source": "Wikipedia: Kingdom of Ireland (checked 13 Nov 2026)"
       },
       "languageWriting": {
-        "value": "Irish and English.",
+        "value": "Irish was spoken by most people, especially in the west; English was the language of law, government and towns and spread steadily through the 1700s.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Ireland"
       },
       "artsArchitecture": {
-        "value": "Georgian Dublin.",
+        "value": "Georgian Dublin, including the Parliament House (begun 1729) and James Gandon’s Custom House (1781–91); writer Jonathan Swift and harper Turlough O’Carolan.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Ireland"
       },
       "socialStructure": {
-        "value": "Ascendancy, tenants, labourers.",
+        "value": "A Protestant Ascendancy of landowners at the top, then middlemen and large farmers, with Catholic tenant farmers, cottiers and labourers at the bottom.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Ireland"
       },
       "sharedIdentity": {
-        "value": "Divided by religion.",
+        "value": "Divided: Catholics saw themselves as Irish and Catholic, many Protestants as English in Ireland, and Ulster Presbyterians stood apart; by the 1780s some Protestants called themselves Irish patriots.",
         "year": null,
-        "certainty": "disputed",
+        "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Ireland"
       },
       "dailyLife": {
-        "value": "Potatoes, cottages.",
+        "value": "Most rural families lived in one-room cabins of mud or stone with thatched roofs, ate potatoes and milk, and paid rent in labour or cash.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Kingdom of Ireland"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "England, Scotland.",
+        "value": "Great Britain across the Irish Sea (England, Wales and Scotland), with links to France and Spain through trade and Catholic exiles.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Ireland"
       },
       "ideasReligions": {
-        "value": "United Irishmen republicanism (1790s).",
-        "year": null,
+        "value": "The Society of United Irishmen (1791), inspired by the American and French revolutions, sought a republic uniting Catholics, Protestants and Dissenters.",
+        "year": 1791,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Ireland"
       },
       "colonisation": {
-        "value": "English conquest and plantations.",
+        "value": "English conquest and plantations of settlers from Britain: Laois–Offaly (1550s), Munster (1580s) and Ulster (from 1609), then Cromwellian land seizures.",
         "year": 1609,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Ireland"
@@ -292,7 +292,7 @@
         "source": "Wikipedia: Kingdom of Ireland (checked 13 Nov 2026)"
       },
       "declineSignals": {
-        "value": "1798 rebellion.",
+        "value": "The 1798 rebellion of the United Irishmen, crushed with heavy loss of life, convinced the British government to merge the two kingdoms.",
         "year": 1798,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of Ireland"

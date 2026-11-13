@@ -46,25 +46,25 @@
         "source": "Wikipedia: Mauritania (checked 13 Nov 2026)"
       },
       "terrain": {
-        "value": "Mostly Sahara.",
+        "value": "Mostly Sahara desert, sand dunes and rocky plateaus such as the Adrar; the Senegal River valley in the south is the main farmland.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Mauritania"
       },
       "climate": {
-        "value": "Hot desert.",
+        "value": "Hot desert over most of the country with very little rain; the south has a short rainy season, and the coast is cooled by sea breezes.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Mauritania"
       },
       "resources": {
-        "value": "Iron ore, fish, gold.",
+        "value": "Iron ore from Zouérat, rich fishing grounds off the coast, gold and copper, and offshore gas fields.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Mauritania"
       },
       "disasters": {
-        "value": "Droughts.",
+        "value": "Droughts and locust swarms; the Sahel droughts of the 1970s and 1980s killed herds and pushed nomads into towns.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Mauritania"
@@ -78,21 +78,21 @@
         "source": "Wikipedia: Mauritania (checked 13 Nov 2026)"
       },
       "urbanisation": {
-        "value": "Nouakchott.",
+        "value": "Now mostly urban: Nouakchott, built as the capital from 1958, has over a million people; Nouadhibou is the second city.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Mauritania"
       },
       "disease": {
-        "value": "Malaria in the south.",
+        "value": "Malaria in the south and child malnutrition in drought years; health services are concentrated in Nouakchott.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Mauritania"
       },
       "migration": {
-        "value": "Nomads settled in towns.",
+        "value": "Droughts drove many nomads into towns; in 1989 tens of thousands of Black Mauritanians were expelled to Senegal and Mali.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Mauritania"
       }
     },
@@ -104,7 +104,7 @@
         "source": "Wikipedia: Mauritania (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "Iron railway to Nouadhibou.",
+        "value": "A railway of about 700 km carries iron ore from Zouérat to the port of Nouadhibou; Nouakchott is the main port for imports.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Mauritania"
@@ -116,8 +116,8 @@
         "source": "Wikipedia: Mauritania (checked 13 Nov 2026)"
       },
       "moneyAndTax": {
-        "value": "The ouguiya.",
-        "year": null,
+        "value": "The ouguiya, introduced in 1973 when Mauritania left the CFA franc zone; a new ouguiya replaced it in 2018.",
+        "year": 1973,
         "certainty": "confirmed",
         "source": "Wikipedia: Mauritania"
       },
@@ -148,7 +148,7 @@
         "source": "Wikipedia: Mauritania"
       },
       "institutions": {
-        "value": "National Assembly.",
+        "value": "A president, a single-chamber National Assembly (the Senate was abolished in 2017) and courts using Islamic and civil law.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Mauritania"
@@ -168,7 +168,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Army.",
+        "value": "A small army with desert and camel units; it fought in Western Sahara (1975–79) and later against armed groups in the Sahel.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Mauritania"
@@ -186,7 +186,7 @@
         "source": "Wikipedia: Mauritania"
       },
       "alliancesRivals": {
-        "value": "Arab League and African Union.",
+        "value": "A member of the Arab League (from 1973) and the African Union; it left ECOWAS in 2000 and had tense relations with Senegal in 1989–91.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Mauritania"
@@ -200,7 +200,7 @@
         "source": "Wikipedia: Mauritania"
       },
       "scienceEducation": {
-        "value": "Koranic schools; manuscripts.",
+        "value": "Traditional mahadra (Koranic) schools and old manuscript libraries in Chinguetti and Ouadane; the University of Nouakchott opened in 1981.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Mauritania"
@@ -212,7 +212,7 @@
         "source": "Wikipedia: Mauritania"
       },
       "communicationTransport": {
-        "value": "Iron ore train.",
+        "value": "The iron ore train, one of the world’s longest, a coastal highway from Nouakchott to Nouadhibou, and the Rosso ferry to Senegal.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Mauritania"
@@ -226,13 +226,13 @@
         "source": "Wikipedia: Mauritania (checked 13 Nov 2026)"
       },
       "languageWriting": {
-        "value": "Arabic; Hassaniya, Pulaar, Wolof.",
+        "value": "Arabic is official and Hassaniya Arabic is widely spoken; Pulaar, Soninke and Wolof are national languages, and French is used in business.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Mauritania"
       },
       "artsArchitecture": {
-        "value": "Desert towns.",
+        "value": "Stone desert towns such as Chinguetti, Ouadane, Tichitt and Oualata (UNESCO sites), and the music of griots (iggawen).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Mauritania"
@@ -244,15 +244,15 @@
         "source": "Wikipedia: Mauritania"
       },
       "sharedIdentity": {
-        "value": "Arab and African identities.",
+        "value": "A shared Islamic identity, but tension between an Arab-Berber (Moorish) identity and the identities of Black African groups.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Mauritania"
       },
       "dailyLife": {
-        "value": "Tents and houses; camel milk, tea.",
+        "value": "Nomad tents and town houses; meals of rice, fish, meat, couscous and camel milk, with sweet green mint tea.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Mauritania"
       }
     },
@@ -264,7 +264,7 @@
         "source": "Wikipedia: Mauritania"
       },
       "ideasReligions": {
-        "value": "Islamic scholarship.",
+        "value": "Islamic scholarship and Sufi orders such as the Qadiriyya and Tijaniyya; slavery was abolished in 1981 and made a crime in 2007.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Mauritania"
@@ -284,7 +284,7 @@
         "source": "Wikipedia: Mauritania (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Too recent to judge.",
+        "value": "Too recent to judge; iron ore, fishing and gas have brought growth since the 2000s.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Mauritania"
@@ -296,7 +296,7 @@
         "source": "Wikipedia: Mauritania"
       },
       "outcome": {
-        "value": "Still in existence.",
+        "value": "Still in existence as an independent Islamic republic.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Mauritania"

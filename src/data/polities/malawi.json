@@ -46,26 +46,26 @@
         "source": "Wikipedia: Malawi (checked 13 Nov 2026)"
       },
       "terrain": {
-        "value": "Rift Valley highlands and Lake Malawi.",
+        "value": "The Great Rift Valley runs through it, holding Lake Malawi; around it are highlands such as the Shire Highlands, Zomba Plateau and Nyika Plateau.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malawi"
       },
       "climate": {
-        "value": "Subtropical.",
+        "value": "Subtropical, with a hot rainy season from November to April and a cooler dry season; cooler in the highlands.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malawi"
       },
       "resources": {
-        "value": "Tobacco, tea, fish.",
+        "value": "Fertile soils for tobacco, tea, sugar and maize, fish from Lake Malawi, and uranium (mined at Kayelekera in 2009–14).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malawi"
       },
       "disasters": {
-        "value": "Floods and cyclones.",
-        "year": null,
+        "value": "Droughts and floods; Cyclone Freddy (2023) killed more than 1,000 people in the south.",
+        "year": 2023,
         "certainty": "confirmed",
         "source": "Wikipedia: Malawi"
       }
@@ -78,21 +78,21 @@
         "source": "Wikipedia: Malawi (checked 13 Nov 2026)"
       },
       "urbanisation": {
-        "value": "Lilongwe, Blantyre.",
+        "value": "Mostly rural, with fewer than a fifth in towns; the main cities are Lilongwe (capital since 1975), Blantyre, Mzuzu and Zomba.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Malawi"
       },
       "disease": {
-        "value": "HIV; malaria.",
+        "value": "HIV/AIDS hit hard from the 1990s; malaria, tuberculosis and cholera outbreaks are also major problems.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Malawi"
       },
       "migration": {
-        "value": "Workers in South Africa.",
+        "value": "Many men worked in South African and Zimbabwean mines; in the 1980s–90s Malawi hosted about a million refugees from Mozambique.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Malawi"
       }
     },
@@ -104,7 +104,7 @@
         "source": "Wikipedia: Malawi (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "Through Mozambique.",
+        "value": "As a landlocked country, it sends goods by rail and road to the ports of Beira and Nacala in Mozambique and Dar es Salaam in Tanzania.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malawi"
@@ -116,8 +116,8 @@
         "source": "Wikipedia: Malawi (checked 13 Nov 2026)"
       },
       "moneyAndTax": {
-        "value": "The kwacha.",
-        "year": null,
+        "value": "The Malawian kwacha, introduced in 1971 to replace the Malawian pound.",
+        "year": 1971,
         "certainty": "confirmed",
         "source": "Wikipedia: Malawi"
       },
@@ -154,7 +154,7 @@
         "source": "Wikipedia: Malawi"
       },
       "stability": {
-        "value": "Peaceful.",
+        "value": "No civil war; Banda’s rule (1964–94) was repressive, but the change to multiparty democracy in 1993–94 was peaceful.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malawi"
@@ -168,25 +168,25 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Small army.",
+        "value": "The Malawi Defence Force, a small army that in 1993 disarmed the ruling party’s Young Pioneers and serves in UN peacekeeping.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malawi"
       },
       "majorWars": {
-        "value": "None.",
+        "value": "No wars of its own; Mozambique’s civil war (1977–92) spilled across its borders and sent refugees into Malawi.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malawi"
       },
       "territoryChange": {
-        "value": "None.",
+        "value": "No change since 1964; it disputes with Tanzania the border on Lake Malawi (Lake Nyasa).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malawi"
       },
       "alliancesRivals": {
-        "value": "SADC member.",
+        "value": "A member of SADC, the African Union and the Commonwealth; under Banda it unusually kept diplomatic ties with apartheid South Africa.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malawi"
@@ -200,7 +200,7 @@
         "source": "Wikipedia: Malawi"
       },
       "scienceEducation": {
-        "value": "Low literacy.",
+        "value": "Literacy is still limited; the University of Malawi was founded in 1964, and free primary schooling began in 1994.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malawi"
@@ -212,7 +212,7 @@
         "source": "Wikipedia: Malawi"
       },
       "communicationTransport": {
-        "value": "Roads.",
+        "value": "Roads such as the M1 north–south highway, a railway to Mozambique’s ports, and lake ships such as the Ilala on Lake Malawi.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malawi"
@@ -226,45 +226,45 @@
         "source": "Wikipedia: Malawi (checked 13 Nov 2026)"
       },
       "languageWriting": {
-        "value": "English, Chichewa.",
+        "value": "English is official; Chichewa is the national language, with Chitumbuka, Chiyao and others widely spoken.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malawi"
       },
       "artsArchitecture": {
-        "value": "Gule Wamkulu dance.",
+        "value": "Gule Wamkulu masked dances of the Chewa (recognised by UNESCO), wood carving, and music and dance at village ceremonies.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malawi"
       },
       "socialStructure": {
-        "value": "Chewa and others.",
+        "value": "Many ethnic groups: Chewa (the largest), Lomwe, Yao, Ngoni, Tumbuka and others; most are smallholder farmers.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Malawi"
       },
       "sharedIdentity": {
-        "value": "National identity.",
+        "value": "A shared national identity as “the warm heart of Africa”, alongside regional loyalties between north, centre and south.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Malawi"
       },
       "dailyLife": {
-        "value": "Houses; nsima.",
+        "value": "Most live in villages of brick houses; nsima (stiff maize porridge) is eaten with vegetables, beans or chambo fish.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Malawi"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "Tanzania, Mozambique, Zambia.",
+        "value": "Tanzania to the north, Zambia to the west, and Mozambique to the south and east.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malawi"
       },
       "ideasReligions": {
-        "value": "Christianity.",
+        "value": "Christianity, spread by Scottish missions such as Livingstonia and Blantyre from the 1870s, Islam, and Chewa traditions.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malawi"
@@ -284,7 +284,7 @@
         "source": "Wikipedia: Malawi (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Too recent to judge.",
+        "value": "Too recent to judge; growth was strong in the late 1960s–70s and again in the mid-2000s with farm subsidies.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Malawi"
@@ -296,7 +296,7 @@
         "source": "Wikipedia: Malawi"
       },
       "outcome": {
-        "value": "Still in existence.",
+        "value": "Still in existence as an independent republic.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Malawi"
