@@ -40,7 +40,7 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Southeast Asia, landlocked; 236,800 km².",
+        "value": "Mainland Southeast Asia; area 236,800 km².",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Laos (checked 13 Nov 2026)"
@@ -72,9 +72,9 @@
     },
     "population": {
       "population": {
-        "value": "7,545,800 (mid-2023 estimate, infobox); the body gives 7,769,819 for 2024.",
+        "value": "7,545,800 in a mid-2023 estimate (7,769,819 in a 2024 estimate in the text); 6,492,228 at the 2015 census.",
         "year": 2023,
-        "certainty": "disputed",
+        "certainty": "confirmed",
         "source": "Wikipedia: Laos (checked 13 Nov 2026)"
       },
       "urbanisation": {
@@ -98,10 +98,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Electricity exports to Thailand from dams, copper and gold mining, and rice farming, which employs most people.",
+        "value": "Subsistence agriculture is about half of GDP and 80% of jobs (rice on about 80% of arable land); more than 540 mineral deposits are known; about 8,000 MW of about 18,000 MW hydropower potential is committed for export to Thailand and Vietnam.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Laos"
+        "source": "Wikipedia: Laos (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "The Laos–China railway from Vientiane to Kunming (2021) and Mekong bridges to Thailand link the landlocked country.",
@@ -130,16 +130,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A one-party communist state, the Lao People’s Democratic Republic, led by the Lao People’s Revolutionary Party.",
+        "value": "A communist state in which the Lao People’s Revolutionary Party is the founding and ruling party with a legal monopoly on state power.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Laos"
+        "source": "Wikipedia: Laos (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Souphanouvong, first president (1975–91), and Kaysone Phomvihane, party leader and prime minister from 1975.",
+        "value": "Kaysone Phomvihane led the Pathet Lao government when the country was renamed in 1975; the page does not mention Souphanouvong. Thongloun Sisoulith is now General Secretary and President.",
         "year": 1975,
         "certainty": "confirmed",
-        "source": "Wikipedia: Laos"
+        "source": "Wikipedia: Laos (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Leaders are chosen within the ruling party at its congresses every five years, then confirmed by the National Assembly.",
@@ -174,8 +174,8 @@
         "source": "Wikipedia: Laos"
       },
       "majorWars": {
-        "value": "US bombing between 1964 and 1973 dropped more than 2 million tons of bombs, making Laos the most heavily bombed country relative to its population.",
-        "year": 1964,
+        "value": "Independence on 22 October 1953; Lao Civil War 1959–1975 (20,000 to 62,000 Laotians died); King Savang Vatthana abdicated on 2 December 1975; the US dropped more than 2 million tons of bombs on Laos from 1964 to 1973, leaving some 80 million unexploded.",
+        "year": 1975,
         "certainty": "confirmed",
         "source": "Wikipedia: Laos (checked 13 Nov 2026)"
       },
@@ -220,10 +220,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Theravada Buddhism, followed by most ethnic Lao, alongside spirit (phi) worship and a small Christian minority.",
-        "year": null,
+        "value": "66% Buddhist (Theravada), per the infobox and the 2010 figure in the text.",
+        "year": 2010,
         "certainty": "confirmed",
-        "source": "Wikipedia: Laos"
+        "source": "Wikipedia: Laos (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Lao, written in its own alphabet related to Thai; many minority languages such as Khmu and Hmong are also spoken.",

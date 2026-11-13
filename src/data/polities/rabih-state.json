@@ -41,10 +41,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "The Lake Chad region, centred on Bornu (north-east Nigeria) and Bagirmi (Chad), with its capital at Dikwa.",
-        "year": null,
+        "value": "Rabih moved his capital to Dikwa in Bornu, probably for better communications and water.",
+        "year": 1893,
         "certainty": "confirmed",
-        "source": "Wikipedia: Rabih az-Zubayr"
+        "source": "Wikipedia: Rabih az-Zubayr (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Flat Sahel and savanna plains around Lake Chad, with river floodplains along the Chari and Logone.",
@@ -99,7 +99,7 @@
     },
     "economy": {
       "economicBase": {
-        "value": "The ivory and slave trade of the Bahr el Ghazal region; he is remembered as a brutal slave-trader.",
+        "value": "Rabih sought his fortune in the ivory and slave trade.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Rabih az-Zubayr (checked 13 Nov 2026)"
@@ -137,8 +137,8 @@
         "source": "Wikipedia: Rabih az-Zubayr"
       },
       "keyRulers": {
-        "value": "Rabih az-Zubayr (born about 1840; killed on 22 April 1900 at Lakhta near Kousséri).",
-        "year": 1900,
+        "value": "Born c. 1840 near Khartoum and enslaved as a child, Rabih served under the trader al-Zubayr Rahma Mansur; the beginning of his rule over Bornu is dated to 2 October 1893; his son Fadlallah was killed by the French at Gujba on 23 August 1901.",
+        "year": 1893,
         "certainty": "confirmed",
         "source": "Wikipedia: Rabih az-Zubayr (checked 13 Nov 2026)"
       },
@@ -169,16 +169,16 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Rifle-armed slave soldiers (bazinger) trained in Sudanese style, plus cavalry and some cannon.",
+        "value": "Perhaps 35,000 soldiers at its height, with a core of 3,000 fusiliers kept at Dikwa under Rabih’s own command.",
         "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Rabih az-Zubayr"
+        "certainty": "estimated",
+        "source": "Wikipedia: Rabih az-Zubayr (checked 13 Nov 2026)"
       },
       "majorWars": {
-        "value": "Conquest of Bagirmi and Bornu; Kousséri (1900).",
-        "year": 1893,
+        "value": "In 1892 Rabih beat a joint Bagirmi–Wadai army and drove Gaourang from Massenya; in 1893 he won at Amja (May) and Lekarawa and sacked Kukawa (about 3,000 killed and 4,000 captured); he died at the Battle of Kousséri on 22 April 1900, when Lamy was mortally wounded and Rabih’s forces were defeated.",
+        "year": 1900,
         "certainty": "confirmed",
-        "source": "Wikipedia: Rabih az-Zubayr"
+        "source": "Wikipedia: Rabih az-Zubayr (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Conquered Bagirmi and Bornu in 1893, sacking Kukawa and moving the capital to Dikwa.",

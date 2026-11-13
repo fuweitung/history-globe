@@ -44,10 +44,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "North-west Russia, from the Baltic region to the White Sea and the Ural Mountains.",
+        "value": "From the Gulf of Finland in the west to the Ural Mountains in the east, with Novgorod as capital.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Novgorod Republic"
+        "source": "Wikipedia: Novgorod Republic (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Forests, marshes, lakes and rivers, with the city on the Volkhov River near Lake Ilmen.",
@@ -76,7 +76,7 @@
     },
     "population": {
       "population": {
-        "value": "The article gives the city about 30,000 people and no total for the republic.",
+        "value": "The city of Novgorod had about 30,000 people; the page gives no figure for the whole republic.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Novgorod Republic (checked 13 Nov 2026)"
@@ -102,10 +102,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Trade in furs and forest goods; grain was imported from the south.",
-        "year": null,
+        "value": "The real wealth came from the fur trade, supplying Hanseatic merchants through the Peterhof trading post, which Ivan III closed in 1494.",
+        "year": 1494,
         "certainty": "confirmed",
-        "source": "Wikipedia: Novgorod Republic"
+        "source": "Wikipedia: Novgorod Republic (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "The easternmost trading post of the Hanseatic League and the leading supplier of furs.",
@@ -134,10 +134,10 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Republic with a veche and elected mayor (posadnik).",
-        "year": null,
+        "value": "The veche (assembly of free men, dominated by boyars), an elected posadnik who chaired it, an archbishop elected by Novgorodians and a tysyatsky; the historian Valentin Yanin calls it a “boyar republic”. It gained formal independence after the prince was deposed in 1136.",
+        "year": 1136,
         "certainty": "confirmed",
-        "source": "Wikipedia: Novgorod Republic"
+        "source": "Wikipedia: Novgorod Republic (checked 13 Nov 2026)"
       },
       "keyRulers": {
         "value": "Alexander Nevsky, an invited prince who defeated the Swedes (1240) and the Teutonic knights (1242).",
@@ -178,10 +178,10 @@
         "source": "Wikipedia: Novgorod Republic"
       },
       "majorWars": {
-        "value": "Battle of the Neva (1240); Battle on the Ice (1242).",
-        "year": 1242,
+        "value": "Alexander Nevsky beat the Swedes at the Neva in July 1240 and the Teutonic Knights on the Ice in 1242; Novgorod fought the Livonian Order 11 times and Sweden 26 times; Moscow beat it at the Shelon River in 1471 and Ivan III took direct control in 1478, abolishing the veche.",
+        "year": 1478,
         "certainty": "confirmed",
-        "source": "Wikipedia: Novgorod Republic"
+        "source": "Wikipedia: Novgorod Republic (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Annexed by Ivan III of Moscow (1478), who took the veche bell to Moscow.",
@@ -224,10 +224,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Orthodox Christianity, centred on the Cathedral of St Sophia.",
+        "value": "Russian Orthodoxy, with the archbishop at its head; the strigolniki and Judaizers are mentioned as sects.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Novgorod Republic"
+        "source": "Wikipedia: Novgorod Republic (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Old Russian, with a distinct Old Novgorod dialect known from birch-bark letters.",

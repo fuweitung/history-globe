@@ -41,9 +41,9 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Baltic region; 64,573 km² (infobox 64,589 km²).",
+        "value": "Baltic state; area 64,589 km² in the infobox, 64,573 km² in the introduction and 64,559 km² in the geography section.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "disputed",
         "source": "Wikipedia: Latvia (checked 13 Nov 2026)"
       },
       "terrain": {
@@ -73,7 +73,7 @@
     },
     "population": {
       "population": {
-        "value": "1,842,226 (2022 estimate, infobox); the lead gives 1.83 million with no year.",
+        "value": "1,842,226 in a 2022 estimate (infobox); Latvians are 65.5% and Russians 24.1% (2025).",
         "year": 2022,
         "certainty": "confirmed",
         "source": "Wikipedia: Latvia (checked 13 Nov 2026)"
@@ -111,10 +111,10 @@
         "source": "Wikipedia: Latvia"
       },
       "wealth": {
-        "value": "A high-income economy.",
-        "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Latvia"
+        "value": "Joined NATO and the EU in 2004 and adopted the euro on 1 January 2014; HDI 0.889, very high (41st in the infobox, 39th in the introduction).",
+        "year": 2023,
+        "certainty": "disputed",
+        "source": "Wikipedia: Latvia (checked 13 Nov 2026)"
       },
       "moneyAndTax": {
         "value": "The lats (1993), then the euro (2014).",
@@ -131,10 +131,10 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A parliamentary republic.",
+        "value": "A unitary parliamentary republic.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Latvia"
+        "source": "Wikipedia: Latvia (checked 13 Nov 2026)"
       },
       "keyRulers": {
         "value": "Kārlis Ulmanis (interwar). Vaira Vīķe-Freiberga (president 1999–2007).",
@@ -181,10 +181,10 @@
         "source": "Wikipedia: Latvia (checked 13 Nov 2026)"
       },
       "territoryChange": {
-        "value": "Annexed by the USSR (1940); independence restored (1991).",
+        "value": "Independence declared on 18 November 1918 (recognised 26 January 1921); occupied by Soviet forces in June 1940 and incorporated on 5 August 1940; independence restoration declared on 4 May 1990 and fully restored on 21 August 1991.",
         "year": 1991,
         "certainty": "confirmed",
-        "source": "Wikipedia: Latvia"
+        "source": "Wikipedia: Latvia (checked 13 Nov 2026)"
       },
       "alliancesRivals": {
         "value": "NATO and EU.",
@@ -221,10 +221,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Lutheran, Catholic and Orthodox; many non-religious.",
-        "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Latvia"
+        "value": "In 2018 the infobox gives 64% Christian (Lutheran 36%, Catholic 17%, Orthodox 9%) and 35% no religion, while the body text says Christianity is 79%, so the figures conflict.",
+        "year": 2018,
+        "certainty": "disputed",
+        "source": "Wikipedia: Latvia (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Latvian, a Baltic language; Russian minority.",
