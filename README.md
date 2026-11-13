@@ -53,7 +53,7 @@ Open http://localhost:5173.
 
 ## Made by
 
-- **Tung Fu Wei**, Malaysian; studies mechanical engineering at Northumbria University, with experience in engineering, finance and real estate. [GitHub](https://github.com/fuweitung) · [X](https://x.com/TungFuWei)
+- **Tung Fu Wei**, a Malaysian mechanical engineering student at Northumbria University, with experience in engineering, finance and real estate. [GitHub](https://github.com/fuweitung) · [X](https://x.com/TungFuWei)
 - **MikeTKnn** ([GitHub](https://github.com/MikeTKnn))
 
 ## Licence

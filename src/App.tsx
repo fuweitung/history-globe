@@ -760,7 +760,7 @@ function About() {
           <div className="font-semibold text-parchment-50">Tung Fu Wei</div>
         </div>
         <p className="mt-1 text-parchment-200">
-          I’m Malaysian and study mechanical engineering at Northumbria University, with experience in engineering, finance and real estate. I made History Globe because we need to remember what happened in the past, to avoid repeating the same mistakes.
+          I’m a Malaysian mechanical engineering student at Northumbria University, with experience in engineering, finance and real estate. I built History Globe because we need to remember the past in order not to repeat its mistakes.
         </p>
         <blockquote className="mt-2 border-l-2 border-gold-400/60 pl-3 text-parchment-300 italic">
           “Those who cannot remember the past are condemned to repeat it.” <span className="not-italic">George Santayana</span>
