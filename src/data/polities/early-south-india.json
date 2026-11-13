@@ -102,16 +102,16 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Herding cattle and growing millets.",
-        "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+        "value": "Rice was probably introduced in wet areas and river deltas during the Iron Age, and cereal growing probably spread across South India then; the article does not mention millet.",
+        "year": -1300,
+        "certainty": "estimated",
+        "source": "e-PG Pathshala (INFLIBNET): Iron Age – Early Historic Transition in South India (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "Exchange along the coasts.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+        "value": "The Indian Ocean was linked by maritime trade routes in the Early Historic period (third century BCE to third century CE), pushed on by Rome’s conquest of Egypt in the first century BCE.",
+        "year": -300,
+        "certainty": "confirmed",
+        "source": "e-PG Pathshala (INFLIBNET): Iron Age – Early Historic Transition in South India (checked 13 Nov 2026)"
       },
       "wealth": {
         "value": "No estimate is possible; grave goods show some families were richer.",
@@ -236,10 +236,10 @@
         "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
       },
       "artsArchitecture": {
-        "value": "Stone circles, dolmens and urn burials; rock art; black-and-red ware pottery.",
-        "year": null,
+        "value": "Megalithic burials, large monuments built for the dead, mark the Iron Age; Neolithic burials were simple; black-and-red ware pottery was widely used in South India and Sri Lanka.",
+        "year": -1300,
         "certainty": "confirmed",
-        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+        "source": "e-PG Pathshala (INFLIBNET): Iron Age – Early Historic Transition in South India (checked 13 Nov 2026)"
       },
       "socialStructure": {
         "value": "Villages led by chiefs or leading families.",
@@ -282,10 +282,10 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Neolithic herders and ash-mound sites (from about 3000 BCE).",
-        "year": -3000,
-        "certainty": "confirmed",
-        "source": "Wikipedia: South Indian Neolithic; Wikipedia: Megalithic culture of South India"
+        "value": "Iron technology came in the Iron Age (Megalithic) phase, tentatively dated 1300 BCE to 500 BCE (another passage gives 300 BCE for its end), after the Late Neolithic; the article gives no Neolithic dates. The entry’s start year of 5000 BCE is not tested by this source.",
+        "year": -1300,
+        "certainty": "estimated",
+        "source": "e-PG Pathshala (INFLIBNET): Iron Age – Early Historic Transition in South India (checked 13 Nov 2026)"
       },
       "peakPeriod": {
         "value": "Iron Age megalithic culture (about 1200–300 BCE).",
