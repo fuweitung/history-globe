@@ -58,20 +58,20 @@
         "source": "Wikipedia: Visigothic Kingdom"
       },
       "climate": {
-        "value": "Mediterranean to continental.",
+        "value": "Mediterranean on the coast, with continental heat and cold on the central plateau.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Visigothic Kingdom"
       },
       "resources": {
-        "value": "Grain, olives, wine, metals.",
+        "value": "Grain, olives and wine, plus metals such as gold, silver, iron and copper.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Visigothic Kingdom"
       },
       "disasters": {
-        "value": "Plague (from 542) and famines.",
-        "year": null,
+        "value": "Plague from 542 and repeated famines weakened Hispania.",
+        "year": 542,
         "certainty": "estimated",
         "source": "Wikipedia: Visigothic Kingdom"
       }
@@ -104,21 +104,21 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming on Roman-style estates.",
+        "value": "Farming on Roman-style estates (latifundia) worked by dependent peasants and the enslaved.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Visigothic Kingdom"
       },
       "tradeRoutes": {
-        "value": "Mediterranean trade with Byzantium.",
+        "value": "Mediterranean trade, mostly with the Byzantine Empire and North Africa, through ports such as Cartagena.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Visigothic Kingdom"
       },
       "wealth": {
-        "value": "Wealth of a landed aristocracy.",
+        "value": "Wealth rested on the land owned by a Gothic and Roman aristocracy and on the king’s share of taxes.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Visigothic Kingdom"
       },
       "moneyAndTax": {
@@ -160,7 +160,7 @@
         "source": "Wikipedia: Visigothic Kingdom (checked 13 Nov 2026)"
       },
       "stability": {
-        "value": "Frequent coups.",
+        "value": "Frequent coups and civil wars; kings were often overthrown or murdered.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Visigothic Kingdom"
@@ -174,7 +174,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Noble war bands; cavalry.",
+        "value": "Noble war bands and cavalry formed the army, and the king could call up free men.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Visigothic Kingdom"
@@ -186,13 +186,13 @@
         "source": "Wikipedia: Visigothic Kingdom (checked 13 Nov 2026)"
       },
       "territoryChange": {
-        "value": "Lost Gaul to the Franks (507).",
+        "value": "Lost most of Gaul to the Franks after the Battle of Vouillé (507) and moved the capital to Toledo.",
         "year": 507,
         "certainty": "confirmed",
         "source": "Wikipedia: Visigothic Kingdom"
       },
       "alliancesRivals": {
-        "value": "Rivals of the Franks and Byzantines.",
+        "value": "The Franks and the Byzantines (who held southern Spain for a time) were rivals; the Suebi in the north-west were conquered in 585.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Visigothic Kingdom"
@@ -200,7 +200,7 @@
     },
     "technology": {
       "inventions": {
-        "value": "No major inventions are recorded.",
+        "value": "No major inventions are recorded, but the Visigoths made fine metalwork and issued a law code (Liber Iudiciorum).",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Visigothic Kingdom"
@@ -218,7 +218,7 @@
         "source": "Wikipedia: Visigothic Kingdom"
       },
       "communicationTransport": {
-        "value": "Roads, rivers and coastal shipping.",
+        "value": "Roman roads, rivers and coastal shipping continued to be used.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Visigothic Kingdom"
@@ -232,7 +232,7 @@
         "source": "Wikipedia: Visigothic Kingdom (checked 13 Nov 2026)"
       },
       "languageWriting": {
-        "value": "Latin; Gothic faded.",
+        "value": "Latin was used for law and the Church; the Goths’ own language faded and left few traces.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Visigothic Kingdom"
@@ -250,7 +250,7 @@
         "source": "Wikipedia: Visigothic Kingdom"
       },
       "sharedIdentity": {
-        "value": "Loyalty to the ruler, faith and region.",
+        "value": "Loyalty to the king, the Catholic Church and the land, as Goths and Hispano-Romans slowly merged.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Visigothic Kingdom"
@@ -264,19 +264,19 @@
     },
     "connections": {
       "neighbours": {
-        "value": "Franks, Suebi, Byzantines, Basques.",
+        "value": "The Franks, the Suebi, the Byzantines, the Basques and, by the end, the Muslim world across the Strait.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Visigothic Kingdom"
       },
       "ideasReligions": {
-        "value": "Conversion to Catholicism (589).",
-        "year": null,
+        "value": "King Reccared’s conversion from Arian to Catholic Christianity (589) united the Goths and Hispano-Romans.",
+        "year": 589,
         "certainty": "confirmed",
         "source": "Wikipedia: Visigothic Kingdom"
       },
       "colonisation": {
-        "value": "Took over Roman Hispania.",
+        "value": "The Goths took over Roman Hispania, with imperial permission at first.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Visigothic Kingdom"
@@ -296,7 +296,7 @@
         "source": "Wikipedia: Visigothic Kingdom (checked 13 Nov 2026)"
       },
       "declineSignals": {
-        "value": "Civil war in 710.",
+        "value": "Civil war in 710 and the Arab–Berber invasion of 711 ended the kingdom.",
         "year": 710,
         "certainty": "confirmed",
         "source": "Wikipedia: Visigothic Kingdom"

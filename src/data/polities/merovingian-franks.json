@@ -46,32 +46,32 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Gaul and western Germany.",
+        "value": "Gaul (modern France) and western Germany, with courts at Paris, Soissons, Reims and Orléans.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Merovingian dynasty"
       },
       "terrain": {
-        "value": "Plains, forests, river valleys.",
+        "value": "Plains, forests and river valleys, including the Seine, Loire, Rhine and Meuse.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Merovingian dynasty"
       },
       "climate": {
-        "value": "Temperate.",
+        "value": "Temperate, with mild, wet weather across most of Gaul.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Merovingian dynasty"
       },
       "resources": {
-        "value": "Farmland, forests, iron.",
+        "value": "Farmland, forests, iron, salt and river transport.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Merovingian dynasty"
       },
       "disasters": {
-        "value": "Plague (from 541).",
-        "year": null,
+        "value": "The plague that began in 541 and famines caused great loss of life.",
+        "year": 541,
         "certainty": "estimated",
         "source": "Wikipedia: Merovingian dynasty"
       }
@@ -96,7 +96,7 @@
         "source": "Wikipedia: Merovingian dynasty"
       },
       "migration": {
-        "value": "Franks settled among Gallo-Romans.",
+        "value": "Franks settled among the Gallo-Romans, mostly in the north, while Romans stayed on in the south.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Merovingian dynasty"
@@ -116,9 +116,9 @@
         "source": "Wikipedia: Merovingian dynasty"
       },
       "wealth": {
-        "value": "Land and plunder.",
+        "value": "Wealth came from land, tribute and plunder, and kings gave land to loyal warriors.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Merovingian dynasty"
       },
       "moneyAndTax": {
@@ -166,7 +166,7 @@
         "source": "Wikipedia: Merovingian dynasty (checked 13 Nov 2026)"
       },
       "eliteConflict": {
-        "value": "Austrasia against Neustria.",
+        "value": "Rivalry between the kingdoms of Austrasia and Neustria, and among the sons of each king, who divided the realm.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Merovingian dynasty"
@@ -186,13 +186,13 @@
         "source": "Wikipedia: Merovingian dynasty (checked 13 Nov 2026)"
       },
       "territoryChange": {
-        "value": "Took most of Gaul by 537.",
-        "year": null,
+        "value": "Clovis and his sons took most of Gaul by 537, including Burgundy and Provence.",
+        "year": 537,
         "certainty": "confirmed",
         "source": "Wikipedia: Merovingian dynasty"
       },
       "alliancesRivals": {
-        "value": "Alliance with the Pope.",
+        "value": "Clovis’s conversion to Catholic Christianity won the support of the Gallo-Roman bishops, and later the popes; the Visigoths and Byzantines were rivals.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Merovingian dynasty"
@@ -200,13 +200,13 @@
     },
     "technology": {
       "inventions": {
-        "value": "No major inventions are recorded.",
+        "value": "No major inventions are recorded, though Merovingian goldsmiths made fine jewellery.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Merovingian dynasty"
       },
       "scienceEducation": {
-        "value": "Monastery schools.",
+        "value": "Monastery schools preserved some learning and writing.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Merovingian dynasty"
@@ -218,7 +218,7 @@
         "source": "Wikipedia: Merovingian dynasty"
       },
       "communicationTransport": {
-        "value": "Roads, rivers and coastal shipping.",
+        "value": "Roman roads, rivers and coastal shipping continued to be used.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Merovingian dynasty"
@@ -232,13 +232,13 @@
         "source": "Wikipedia: Merovingian dynasty (checked 13 Nov 2026)"
       },
       "languageWriting": {
-        "value": "Latin; Frankish.",
+        "value": "Latin for government and the Church; Frankish was the language of the ruling warriors.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Merovingian dynasty"
       },
       "artsArchitecture": {
-        "value": "Jewellery with garnets; early churches.",
+        "value": "Garnet-inlaid jewellery, illuminated manuscripts and early churches such as the Baptistery in Poitiers.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Merovingian dynasty"
@@ -250,7 +250,7 @@
         "source": "Wikipedia: Merovingian dynasty"
       },
       "sharedIdentity": {
-        "value": "Loyalty to the ruler, faith and region.",
+        "value": "Loyalty to the king and Church mixed Frankish and Roman customs.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Merovingian dynasty"
@@ -270,13 +270,13 @@
         "source": "Wikipedia: Merovingian dynasty"
       },
       "ideasReligions": {
-        "value": "Spread of monasteries.",
+        "value": "The spread of monasteries, such as those founded by Columbanus, strengthened Christianity.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Merovingian dynasty"
       },
       "colonisation": {
-        "value": "Took over Roman Gaul.",
+        "value": "The Franks took over Roman Gaul after the empire’s collapse.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Merovingian dynasty"
@@ -290,13 +290,13 @@
         "source": "Wikipedia: Merovingian dynasty (checked 13 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Under Dagobert I (629–39).",
-        "year": 630,
+        "value": "Under Dagobert I (629–639), the last strong Merovingian king.",
+        "year": 629,
         "certainty": "confirmed",
         "source": "Wikipedia: Merovingian dynasty"
       },
       "declineSignals": {
-        "value": "“Do-nothing kings” after 639.",
+        "value": "“Do-nothing kings” (rois fainéants) after 639, with real power held by the palace mayors.",
         "year": 639,
         "certainty": "confirmed",
         "source": "Wikipedia: Merovingian dynasty"

@@ -54,19 +54,19 @@
         "source": "Wikipedia: Kenya (checked 8 Nov 2026)"
       },
       "climate": {
-        "value": "Tropical; cooler in the highlands.",
+        "value": "Hot and humid on the coast, dry in the north, and cooler and wetter in the central highlands, with two rainy seasons.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kenya"
       },
       "resources": {
-        "value": "Tea, coffee, flowers, tourism.",
+        "value": "Tea, coffee and cut flowers for export, plus wildlife tourism, geothermal power and farmland.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kenya"
       },
       "disasters": {
-        "value": "Droughts and floods.",
+        "value": "Droughts in the north and east, and floods during the rainy seasons, have repeatedly caused hunger and displacement.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kenya"
@@ -86,13 +86,13 @@
         "source": "Wikipedia: Kenya (checked 8 Nov 2026)"
       },
       "disease": {
-        "value": "Malaria; HIV.",
+        "value": "Malaria and HIV have been the main diseases; vaccination and treatment programmes have cut deaths since the 2000s.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kenya"
       },
       "migration": {
-        "value": "Hosts many refugees (Dadaab, Kakuma).",
+        "value": "Kenya hosts large refugee camps at Dadaab and Kakuma, mainly for people from Somalia and South Sudan.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kenya"
@@ -106,7 +106,7 @@
         "source": "Wikipedia: Kenya (checked 8 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "Port of Mombasa.",
+        "value": "The port of Mombasa is the main gateway for East Africa, linked inland by road and railway to Uganda and beyond.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kenya"
@@ -118,7 +118,7 @@
         "source": "Wikipedia: Kenya (checked 8 Nov 2026)"
       },
       "moneyAndTax": {
-        "value": "The Kenyan shilling.",
+        "value": "The Kenyan shilling, introduced in 1966 to replace the East African shilling; taxes include VAT and income tax.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kenya"
@@ -132,7 +132,7 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A presidential republic.",
+        "value": "A presidential republic with a two-chamber parliament and 47 county governments (since 2013).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kenya"
@@ -144,13 +144,13 @@
         "source": "Wikipedia: Kenya (checked 8 Nov 2026)"
       },
       "succession": {
-        "value": "Elections; violence after 2007.",
-        "year": null,
+        "value": "The president is elected; the disputed 2007 election led to violence in which more than 1,000 people died.",
+        "year": 2007,
         "certainty": "confirmed",
         "source": "Wikipedia: Kenya"
       },
       "institutions": {
-        "value": "The 2010 constitution.",
+        "value": "The 2010 constitution set up counties, a Bill of Rights and an independent judiciary.",
         "year": 2010,
         "certainty": "confirmed",
         "source": "Wikipedia: Kenya"
@@ -170,19 +170,19 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Armed forces.",
+        "value": "The Kenya Defence Forces (army, navy and air force), plus a large police service.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kenya"
       },
       "majorWars": {
-        "value": "Operations in Somalia.",
-        "year": null,
+        "value": "The Mau Mau uprising against British rule (1952–60), and operations against al-Shabaab in Somalia since 2011.",
+        "year": 1952,
         "certainty": "confirmed",
         "source": "Wikipedia: Kenya"
       },
       "territoryChange": {
-        "value": "None.",
+        "value": "Kenya’s borders have stayed the same since independence; the sea border with Somalia was settled by the International Court of Justice in 2021.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kenya"
@@ -202,7 +202,7 @@
         "source": "Wikipedia: Kenya (checked 8 Nov 2026)"
       },
       "scienceEducation": {
-        "value": "University of Nairobi.",
+        "value": "The University of Nairobi (1970 as a full university) and free primary schooling from 2003.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kenya"
@@ -214,7 +214,7 @@
         "source": "Wikipedia: Kenya"
       },
       "communicationTransport": {
-        "value": "Mombasa–Nairobi railway (2017).",
+        "value": "The Standard Gauge Railway links Mombasa with Nairobi (opened 2017); the M-Pesa mobile money system began here in 2007.",
         "year": 2017,
         "certainty": "confirmed",
         "source": "Wikipedia: Kenya"
@@ -228,13 +228,13 @@
         "source": "Wikipedia: Kenya (checked 8 Nov 2026)"
       },
       "languageWriting": {
-        "value": "Swahili and English.",
+        "value": "Swahili and English are the official languages, with over 40 other languages such as Kikuyu, Luo and Kalenjin.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kenya"
       },
       "artsArchitecture": {
-        "value": "Ngũgĩ wa Thiong’o, Maasai beadwork.",
+        "value": "Novels and plays in English, Swahili and Gikuyu, Maasai beadwork, and the Swahili coast buildings of Lamu and Mombasa.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kenya"
@@ -246,15 +246,15 @@
         "source": "Wikipedia: Kenya"
       },
       "sharedIdentity": {
-        "value": "Ethnic politics.",
+        "value": "Kenyans hold a national identity but many politics follow ethnic and regional lines.",
         "year": null,
-        "certainty": "disputed",
+        "certainty": "estimated",
         "source": "Wikipedia: Kenya"
       },
       "dailyLife": {
-        "value": "Houses and flats; ugali, sukuma wiki.",
+        "value": "Many families live in villages or city flats; ugali (maize meal) with sukuma wiki (greens) is a common meal.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Kenya"
       }
     },
@@ -266,7 +266,7 @@
         "source": "Wikipedia: Kenya (checked 8 Nov 2026)"
       },
       "ideasReligions": {
-        "value": "Swahili culture.",
+        "value": "Swahili coastal culture, Christianity (the majority), Islam on the coast, and traditional beliefs.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kenya"
@@ -298,7 +298,7 @@
         "source": "Wikipedia: Kenya"
       },
       "outcome": {
-        "value": "Still in existence.",
+        "value": "Kenya continues as an independent republic.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kenya"

@@ -55,25 +55,25 @@
         "source": "Wikipedia: Kingdom of England (checked 13 Nov 2026)"
       },
       "terrain": {
-        "value": "Lowlands, hills and moors.",
+        "value": "Mostly lowland plains and rolling hills, with moors in the north and south-west and long coasts.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of England"
       },
       "climate": {
-        "value": "Mild and wet.",
+        "value": "Mild and wet, shaped by the Atlantic, with no extreme heat or cold.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of England"
       },
       "resources": {
-        "value": "Wool, tin, coal, farmland.",
+        "value": "Wool, tin from Cornwall, lead, coal and good farmland; later iron and coal helped industry.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of England"
       },
       "disasters": {
-        "value": "Great Fire of London (1666).",
+        "value": "The Great Fire of London (1666) destroyed much of the old city; the Black Death and harvest failures also caused great loss.",
         "year": 1666,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of England"
@@ -87,19 +87,19 @@
         "source": "Wikipedia: Kingdom of England (checked 13 Nov 2026)"
       },
       "urbanisation": {
-        "value": "London grew to over 500,000 by 1700.",
+        "value": "London grew to over 500,000 people by 1700; Norwich, Bristol and York were other major towns.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of England"
       },
       "disease": {
-        "value": "Black Death (1348–49).",
+        "value": "The Black Death (1348–49) killed perhaps a third to a half of the people; plague returned many times, including London in 1665.",
         "year": 1348,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of England"
       },
       "migration": {
-        "value": "Normans, Flemish weavers, Huguenots.",
+        "value": "Normans came after 1066, Flemish weavers in the Middle Ages, and Huguenot refugees from France in the 1600s.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of England"
@@ -113,25 +113,25 @@
         "source": "Wikipedia: Kingdom of England (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
-        "value": "Wool to Flanders; later Atlantic trade.",
+        "value": "Wool and cloth went to Flanders and the Low Countries; from the 1500s English ships traded across the Atlantic and to India.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of England"
       },
       "wealth": {
-        "value": "Growing merchant wealth.",
+        "value": "Merchant wealth grew steadily from the wool trade, and later from overseas trade and colonies.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Kingdom of England"
       },
       "moneyAndTax": {
-        "value": "Pound sterling; parliamentary taxes.",
+        "value": "The silver penny and later the pound sterling; Parliament voted taxes, and kings struggled over how much to ask.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of England"
       },
       "inequality": {
-        "value": "Nobles, gentry, peasants.",
+        "value": "A society of great lords, gentry, townspeople and a large number of poor peasants and labourers.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of England"
@@ -169,15 +169,15 @@
         "source": "Wikipedia: Kingdom of England"
       },
       "eliteConflict": {
-        "value": "Crown against barons and Parliament.",
-        "year": null,
+        "value": "The crown clashed with barons (Magna Carta, 1215) and with Parliament, leading to the Civil War (1642–51).",
+        "year": 1642,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of England"
       }
     },
     "military": {
       "armyAndTech": {
-        "value": "Longbowmen; later a navy.",
+        "value": "Longbowmen won battles such as Crécy (1346) and Agincourt (1415); from the 1500s a powerful navy defended the island.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of England"
@@ -195,7 +195,7 @@
         "source": "Wikipedia: Kingdom of England"
       },
       "alliancesRivals": {
-        "value": "Rival of France and Spain.",
+        "value": "France was the long-running rival; in the 1500s–1600s Spain and the Dutch Republic also challenged England.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of England"
@@ -215,13 +215,13 @@
         "source": "Wikipedia: Kingdom of England"
       },
       "openness": {
-        "value": "Open to trade with Europe.",
+        "value": "Open to trade and ideas from Europe, though hostile to Catholics after the Reformation.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Kingdom of England"
       },
       "communicationTransport": {
-        "value": "Roads, rivers, sea.",
+        "value": "Roads, rivers and the sea carried goods and messages; canals and turnpike roads improved travel in the 1700s.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of England"
@@ -241,33 +241,33 @@
         "source": "Wikipedia: Kingdom of England"
       },
       "artsArchitecture": {
-        "value": "Gothic cathedrals; Elizabethan theatre.",
+        "value": "Gothic cathedrals such as Canterbury and Salisbury, Elizabethan theatre and Shakespeare, and Wren’s churches after the Great Fire.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of England"
       },
       "socialStructure": {
-        "value": "Feudal, then gentry and merchants.",
+        "value": "Feudal at first, with lords, knights and serfs; later a gentry, merchants and yeomen, with a growing middle class.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of England"
       },
       "sharedIdentity": {
-        "value": "English Protestant identity.",
+        "value": "An English identity tied to the crown, the common law, Parliament and, after 1534, Protestant faith.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Kingdom of England"
       },
       "dailyLife": {
-        "value": "Villages; bread, ale.",
+        "value": "Most people lived in farming villages, ate bread, pottage and ale, and followed the seasons and the church calendar.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Kingdom of England"
       }
     },
     "connections": {
       "neighbours": {
-        "value": "Scotland, Wales, Ireland, France.",
+        "value": "Scotland, Wales, Ireland and, across the Channel, France.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of England"
@@ -299,8 +299,8 @@
         "source": "Wikipedia: Kingdom of England (checked 13 Nov 2026)"
       },
       "declineSignals": {
-        "value": "None; it merged into Great Britain.",
-        "year": null,
+        "value": "No decline as such: it united with Scotland to form the Kingdom of Great Britain in 1707.",
+        "year": 1707,
         "certainty": "confirmed",
         "source": "Wikipedia: Kingdom of England"
       },

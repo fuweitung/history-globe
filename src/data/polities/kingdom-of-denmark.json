@@ -49,13 +49,13 @@
         "source": "Wikipedia: Denmark (checked 8 Nov 2026)"
       },
       "terrain": {
-        "value": "Flat farmland and coasts.",
+        "value": "Flat or gently rolling farmland, with a long coast and many islands; the Jutland peninsula and the islands of Zealand and Funen.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Denmark"
       },
       "climate": {
-        "value": "Mild and wet.",
+        "value": "Mild and wet, with cool summers and cold winters moderated by the sea.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Denmark"
@@ -67,7 +67,7 @@
         "source": "Wikipedia: Denmark"
       },
       "disasters": {
-        "value": "Storm floods.",
+        "value": "Storm floods, such as in 1872 on the Baltic coast and 1981 on the North Sea coast.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Denmark"
@@ -81,13 +81,13 @@
         "source": "Wikipedia: Denmark (checked 8 Nov 2026)"
       },
       "urbanisation": {
-        "value": "Copenhagen is the largest city.",
+        "value": "Copenhagen is the largest city, followed by Aarhus and Odense.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Denmark"
       },
       "disease": {
-        "value": "Good public health.",
+        "value": "Public health is excellent, with universal health care and high life expectancy.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Denmark"
@@ -107,25 +107,25 @@
         "source": "Wikipedia: Denmark"
       },
       "tradeRoutes": {
-        "value": "Shipping (Maersk) and EU trade.",
+        "value": "Danish shipping companies such as Maersk, and EU trade, link Denmark to world markets.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Denmark"
       },
       "wealth": {
-        "value": "One of the richest countries.",
+        "value": "One of the richest countries in the world per person.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Denmark"
       },
       "moneyAndTax": {
-        "value": "The krone (not the euro).",
+        "value": "The Danish krone; Denmark joined the EU in 1973 but stayed out of the euro after a 2000 vote.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Denmark"
       },
       "inequality": {
-        "value": "Low inequality.",
+        "value": "Among the lowest income inequality in the world, thanks to high taxes and welfare.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Denmark"
@@ -145,8 +145,8 @@
         "source": "Wikipedia: Denmark"
       },
       "succession": {
-        "value": "Parliamentary elections.",
-        "year": null,
+        "value": "Elections to the Folketing choose governments, and the monarchy is hereditary; the constitution dates from 1849.",
+        "year": 1849,
         "certainty": "confirmed",
         "source": "Wikipedia: Denmark"
       },
@@ -163,7 +163,7 @@
         "source": "Wikipedia: Denmark (checked 8 Nov 2026)"
       },
       "eliteConflict": {
-        "value": "Coalition politics.",
+        "value": "Coalition politics, with parties from left and right sharing power by compromise.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Denmark"
@@ -171,7 +171,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "A small army; NATO member.",
+        "value": "A small professional army; Denmark has been a NATO member since 1949.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Denmark"
@@ -203,13 +203,13 @@
         "source": "Wikipedia: Denmark"
       },
       "scienceEducation": {
-        "value": "Niels Bohr’s physics institute.",
+        "value": "Niels Bohr’s Institute for Theoretical Physics (Copenhagen, 1921) became a world centre of quantum physics.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Denmark"
       },
       "openness": {
-        "value": "Open.",
+        "value": "Open and trade-based, though debates over immigration have shaped modern politics.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Denmark"
@@ -241,13 +241,13 @@
         "source": "Wikipedia: Denmark (checked 8 Nov 2026)"
       },
       "socialStructure": {
-        "value": "Large middle class.",
+        "value": "A large middle class and a strong welfare state.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Denmark"
       },
       "sharedIdentity": {
-        "value": "“Hygge” cosiness.",
+        "value": "A shared “hygge” culture of cosiness and trust, and the Danish language.",
         "year": null,
         "certainty": "estimated",
         "source": "Wikipedia: Denmark"
@@ -267,8 +267,8 @@
         "source": "Wikipedia: Denmark (checked 8 Nov 2026)"
       },
       "ideasReligions": {
-        "value": "Folk high schools (Grundtvig).",
-        "year": null,
+        "value": "N. F. S. Grundtvig’s folk high schools and Lutheran Christianity shaped Danish culture.",
+        "year": 1844,
         "certainty": "confirmed",
         "source": "Wikipedia: Denmark"
       },
@@ -287,19 +287,19 @@
         "source": "Wikipedia: Denmark (checked 8 Nov 2026)"
       },
       "peakPeriod": {
-        "value": "Welfare state after 1945.",
-        "year": null,
+        "value": "The welfare state built up after 1945.",
+        "year": 1960,
         "certainty": "estimated",
         "source": "Wikipedia: Denmark"
       },
       "declineSignals": {
-        "value": "Loss of territory in the 19th century.",
+        "value": "Territorial losses in the 1800s, including Norway (1814) and Schleswig-Holstein (1864).",
         "year": 1864,
         "certainty": "confirmed",
         "source": "Wikipedia: Denmark"
       },
       "outcome": {
-        "value": "Still in existence.",
+        "value": "Denmark continues as a kingdom, including the Faroe Islands and Greenland.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Denmark"
