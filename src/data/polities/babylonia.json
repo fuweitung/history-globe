@@ -55,10 +55,10 @@
     },
     "population": {
       "population": {
-        "value": "No reliable estimate. Babylon may have been the largest city in the world at times.",
-        "year": null,
+        "value": "No reliable estimate for the whole country. World History Encyclopedia says the city of Babylon had over 200,000 people by 1755 BCE and was at its height the largest city in the world.",
+        "year": -1755,
         "certainty": "estimated",
-        "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
+        "source": "Van De Mieroop, A History of the Ancient Near East (2016); World History Encyclopedia: Babylon (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Babylon under Nebuchadnezzar II was a very large walled city.",
@@ -122,7 +122,7 @@
         "value": "Hammurabi (c. 1792–1750 BCE), Nebuchadnezzar I, Nabopolassar, Nebuchadnezzar II (605–562 BCE), Nabonidus.",
         "year": -1792,
         "certainty": "confirmed",
-        "source": "Wikipedia: Babylonia (checked 6 Nov 2026)"
+        "source": "Wikipedia: Babylonia (checked 6 Nov 2026); World History Encyclopedia: Babylon (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Hereditary dynasties, interrupted by foreign conquests (Hittites, Kassites, Assyria, Persia).",
@@ -157,10 +157,10 @@
         "source": "Van De Mieroop, A History of the Ancient Near East (2016)"
       },
       "majorWars": {
-        "value": "Hammurabi’s conquests; Nebuchadnezzar II destroyed Jerusalem (587 BCE) and fought Egypt.",
+        "value": "Hammurabi’s conquests. Nebuchadnezzar II took Jerusalem in 597 BCE and destroyed it in 587 BCE (World History Encyclopedia dates the capture to 597 and the Jewish exile to 587–539 BCE), and fought Egypt.",
         "year": -587,
         "certainty": "confirmed",
-        "source": "Wikipedia: Babylonia (checked 6 Nov 2026)"
+        "source": "Wikipedia: Babylonia (checked 6 Nov 2026); World History Encyclopedia: Babylon (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "The Neo-Babylonian Empire took over most of Assyria’s lands after 612 BCE.",
@@ -282,7 +282,7 @@
         "value": "Conquered by Cyrus the Great of Persia in 539 BCE. Successor: the Achaemenid Empire.",
         "year": -539,
         "certainty": "confirmed",
-        "source": "Wikipedia: Babylonia (checked 6 Nov 2026)"
+        "source": "Wikipedia: Babylonia (checked 6 Nov 2026); World History Encyclopedia: Babylon (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {
