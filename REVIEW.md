@@ -99,6 +99,7 @@ Rome, Han, Ottoman, Mughal, Inca, Aztec, Mongol, Abbasid, Byzantium, Tang, Song,
 Follow-up on 9 Nov 2026 (#77): the points the excerpts missed were checked in other second sources (see `reports/major-civs-spotcheck.md`). Changed: Carthage’s independence from Tyre is now *disputed* (7th vs mid-6th century BCE); Gupta capital now includes Ujjain; Melaka’s religion item adds Britannica’s 1414 date for Parameswara’s conversion. The Mughal peak was checked last (World History Encyclopedia map, Britannica); the second-source check of the 20 is complete.
 
 ## Priority 2 — sensitive topics (check wording is neutral and fair)
+A ready-made reading pack with the current wording and sources for all 12 topics is in `docs/sensitive-review.md`.
 - Israel and the Nakba (event israel-nakba)
 - Taiwan’s status (Republic of China, PRC)
 - Tibet and Xinjiang (PRC)
