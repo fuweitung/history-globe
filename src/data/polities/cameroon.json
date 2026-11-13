@@ -52,7 +52,7 @@
         "source": "Wikipedia: Cameroon (checked 11 Nov 2026)"
       },
       "climate": {
-        "value": "Tropical to semi-arid.",
+        "value": "Tropical along the coast and in the south, and semi-arid in the north near Lake Chad.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Cameroon"
@@ -98,7 +98,7 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Oil, farming, timber.",
+        "value": "Oil, farming (cocoa, coffee, bananas) and timber.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Cameroon"
@@ -110,9 +110,9 @@
         "source": "Wikipedia: Cameroon (checked 11 Nov 2026)"
       },
       "wealth": {
-        "value": "A lower-middle-income country.",
+        "value": "A lower-middle-income country, with large gaps between regions.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Cameroon"
       },
       "moneyAndTax": {
@@ -142,13 +142,13 @@
         "source": "Wikipedia: Cameroon (checked 11 Nov 2026)"
       },
       "succession": {
-        "value": "One president has ruled since 1982.",
+        "value": "The president has ruled since 1982, with elections that critics say were unfair.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Cameroon"
       },
       "institutions": {
-        "value": "National Assembly.",
+        "value": "A National Assembly and Senate, though power is concentrated in the presidency.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Cameroon"
@@ -168,14 +168,14 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Armed forces.",
+        "value": "A national army that fights Boko Haram in the north and separatists in the west.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Cameroon"
       },
       "majorWars": {
-        "value": "Anglophone crisis.",
-        "year": null,
+        "value": "The Anglophone crisis, a conflict between the army and separatists, began in 2016.",
+        "year": 2016,
         "certainty": "confirmed",
         "source": "Wikipedia: Cameroon"
       },
@@ -200,7 +200,7 @@
         "source": "Wikipedia: Cameroon"
       },
       "scienceEducation": {
-        "value": "Universities.",
+        "value": "Universities at Yaoundé and Buea, and a bilingual school system.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Cameroon"
@@ -250,9 +250,9 @@
         "source": "Wikipedia: Cameroon"
       },
       "dailyLife": {
-        "value": "Houses; ndolé, fufu.",
+        "value": "Many families eat ndolé (bitterleaf stew) and fufu (a starchy dough).",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Cameroon"
       }
     },
@@ -264,7 +264,7 @@
         "source": "Wikipedia: Cameroon"
       },
       "ideasReligions": {
-        "value": "Christianity and Islam.",
+        "value": "Christianity and Islam are the main faiths, alongside traditional beliefs.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Cameroon"
@@ -296,7 +296,7 @@
         "source": "Wikipedia: Cameroon"
       },
       "outcome": {
-        "value": "Still in existence.",
+        "value": "Cameroon continues as an independent state.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Cameroon"

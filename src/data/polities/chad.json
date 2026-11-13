@@ -98,7 +98,7 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Oil, cotton, herding.",
+        "value": "Oil, cotton and herding, with most people living by farming or livestock.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Chad"
@@ -168,7 +168,7 @@
     },
     "military": {
       "armyAndTech": {
-        "value": "Experienced army.",
+        "value": "An experienced army, which has fought rebels and jihadist groups in the Sahel.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Chad"
@@ -212,7 +212,7 @@
         "source": "Wikipedia: Chad"
       },
       "communicationTransport": {
-        "value": "Roads.",
+        "value": "Roads, with many seasonal tracks, and Lake Chad boats.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Chad"
@@ -232,27 +232,27 @@
         "source": "Wikipedia: Chad (checked 11 Nov 2026)"
       },
       "artsArchitecture": {
-        "value": "Rock art.",
+        "value": "Rock art in the Ennedi and Tibesti mountains, and the Ennedi Plateau World Heritage Site.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Chad"
       },
       "socialStructure": {
-        "value": "Over 200 groups.",
+        "value": "Over 200 ethnic groups, divided between a mainly Muslim north and a Christian and animist south.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Chad"
       },
       "sharedIdentity": {
-        "value": "North–south divides.",
+        "value": "A north–south divide, with French and Arabic as official languages.",
         "year": null,
-        "certainty": "disputed",
+        "certainty": "estimated",
         "source": "Wikipedia: Chad"
       },
       "dailyLife": {
-        "value": "Houses and tents; millet.",
+        "value": "Families live in mud houses or tents and eat millet porridge.",
         "year": null,
-        "certainty": "confirmed",
+        "certainty": "estimated",
         "source": "Wikipedia: Chad"
       }
     },
@@ -264,13 +264,13 @@
         "source": "Wikipedia: Chad"
       },
       "ideasReligions": {
-        "value": "Islam.",
+        "value": "Islam is the largest religion, followed by Christianity.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Chad"
       },
       "colonisation": {
-        "value": "A French colony until 1960.",
+        "value": "A French colony from the early 1900s to 1960.",
         "year": 1900,
         "certainty": "confirmed",
         "source": "Wikipedia: Chad"
@@ -278,7 +278,7 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Independence (1960).",
+        "value": "Independence from France on 11 August 1960.",
         "year": 1960,
         "certainty": "confirmed",
         "source": "Wikipedia: Chad"
@@ -296,7 +296,7 @@
         "source": "Wikipedia: Chad"
       },
       "outcome": {
-        "value": "Still in existence.",
+        "value": "Chad continues as an independent state.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Chad"
