@@ -40,7 +40,7 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "West Africa, largely Sahara desert; 1,030,000 km².",
+        "value": "West Africa; area 1,030,000 km² (28th).",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Mauritania (checked 13 Nov 2026)"
@@ -72,7 +72,7 @@
     },
     "population": {
       "population": {
-        "value": "5,461,319 (2026 estimate, infobox); the text gives about 4.6 million for 2021.",
+        "value": "5,461,319 in a 2026 estimate; about 4.6 million in 2021 and 0.7 million in 1950.",
         "year": 2026,
         "certainty": "confirmed",
         "source": "Wikipedia: Mauritania (checked 13 Nov 2026)"
@@ -98,10 +98,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Iron ore, fishing, herding.",
+        "value": "Mainly agriculture and fishing; iron ore is almost 50% of exports and oil was discovered in 2001.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Mauritania"
+        "source": "Wikipedia: Mauritania (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Iron railway to Nouadhibou.",
@@ -130,16 +130,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "An Islamic republic.",
-        "year": null,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Mauritania"
-      },
-      "keyRulers": {
-        "value": "Moktar Ould Daddah. Maaouya Ould Taya. Mohamed Ould Ghazouani.",
+        "value": "A unitary semi-presidential Islamic republic with a directly elected president; independence on 28 November 1960.",
         "year": 1960,
         "certainty": "confirmed",
-        "source": "Wikipedia: Mauritania"
+        "source": "Wikipedia: Mauritania (checked 13 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "Moktar Ould Daddah made it a one-party state in 1964 and was ousted in a coup on 10 July 1978; Maaouya Ould Sid’Ahmed Taya ruled 21 years until a coup on 3 August 2005; Mohamed Ould Abdel Aziz took power in a coup on 6 August 2008; Mohamed Ould Ghazouani succeeded him after 2019 and was re-elected in June 2024.",
+        "year": 1960,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mauritania (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Coups in 1978, 2005, 2008; peaceful transfer in 2019.",
@@ -174,10 +174,10 @@
         "source": "Wikipedia: Mauritania"
       },
       "majorWars": {
-        "value": "Western Sahara War (1975–79).",
-        "year": 1975,
+        "value": "Mauritania annexed part of Western Sahara in 1976 with Morocco and withdrew in 1979 after military losses to the Polisario; the page does not give “1975–79”.",
+        "year": 1976,
         "certainty": "confirmed",
-        "source": "Wikipedia: Mauritania"
+        "source": "Wikipedia: Mauritania (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Gave up its claim in Western Sahara (1979).",
@@ -220,10 +220,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Sunni Islam.",
-        "year": null,
+        "value": "Islam is the state religion and almost all inhabitants are Sunni Muslims. Slavery was officially abolished in 1905, 1981 and 2007, and the 2018 Global Slavery Index estimated about 90,000 enslaved people (2.1%).",
+        "year": 2007,
         "certainty": "confirmed",
-        "source": "Wikipedia: Mauritania"
+        "source": "Wikipedia: Mauritania (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Arabic; Hassaniya, Pulaar, Wolof.",

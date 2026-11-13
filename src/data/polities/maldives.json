@@ -35,7 +35,7 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Indian Ocean island chain; land area only 298 km².",
+        "value": "Indian Ocean; about 298 km² of land spread over roughly 90,000 km² of sea.",
         "year": null,
         "certainty": "confirmed",
         "source": "Wikipedia: Maldives (checked 13 Nov 2026)"
@@ -59,16 +59,16 @@
         "source": "Wikipedia: Maldives"
       },
       "disasters": {
-        "value": "Indian Ocean tsunami (2004); sea-level rise.",
+        "value": "The tsunami of 26 December 2004 caused damage of over US$400 million (about 62% of GDP); 102 Maldivians and 6 foreigners died and six islands were destroyed.",
         "year": 2004,
         "certainty": "confirmed",
-        "source": "Wikipedia: Maldives"
+        "source": "Wikipedia: Maldives (checked 13 Nov 2026)"
       }
     },
     "population": {
       "population": {
-        "value": "515,132 at the 2022 census; the infobox gives 601,269 for 2024.",
-        "year": 2022,
+        "value": "601,269 in a 2024 estimate; the 2022 census counted 515,132, including 132,493 foreigners.",
+        "year": 2024,
         "certainty": "confirmed",
         "source": "Wikipedia: Maldives (checked 13 Nov 2026)"
       },
@@ -93,10 +93,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Luxury island resorts and tourism, pole-and-line tuna fishing, and construction; most food and fuel are imported.",
+        "value": "Tourism is 28% of GDP and over 60% of foreign-exchange receipts; fishing is the second-largest sector.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Maldives"
+        "source": "Wikipedia: Maldives (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Velana International Airport near Malé and shipping through Malé port; it lies close to major Indian Ocean shipping lanes.",
@@ -125,16 +125,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "A presidential republic under the 2008 constitution, with an elected president, the People’s Majlis and an independent judiciary.",
-        "year": null,
+        "value": "A unitary presidential republic with a unicameral People’s Majlis; independence from the UK on 26 July 1965 and a republic from 11 November 1968.",
+        "year": 1965,
         "certainty": "confirmed",
-        "source": "Wikipedia: Maldives"
+        "source": "Wikipedia: Maldives (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Ibrahim Nasir. Maumoon Abdul Gayoom. Mohamed Nasheed.",
+        "value": "Maumoon Abdul Gayoom was president from 1978 and won six consecutive elections without opposition; Mohamed Nasheed won the first direct election in 2008 and resigned in February 2012; Mohamed Muizzu is the current president (sworn in on 17 October or 17 November 2023, the page gives both).",
         "year": 1978,
         "certainty": "confirmed",
-        "source": "Wikipedia: Maldives"
+        "source": "Wikipedia: Maldives (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "The sultanate ended in 1968; presidents were confirmed by referendum until the first multi-party presidential election in 2008.",
@@ -215,10 +215,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Sunni Islam is the state religion, and citizens must be Muslim; tradition dates the conversion to 1153.",
+        "value": "Sunni Islam is the official religion and citizens must follow it; the last Buddhist king, Dhovemi, converted in 1153 according to the page, which also cites 1193.",
         "year": 1153,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Maldives"
+        "certainty": "disputed",
+        "source": "Wikipedia: Maldives (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "Dhivehi, an Indo-Aryan language related to Sinhala, written right to left in the Thaana script; English is widely used.",
