@@ -42,10 +42,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "The south-western corner of Arabia: the Yemen highlands, the Red Sea coast (Tihama) and Hadramaut.",
-        "year": null,
+        "value": "The Mutawakkilite Kingdom held the north of present Yemen, roughly square, 450 km long and 490 km wide; the capital was Sanaa 1918–1948, then Taiz 1948–1962.",
+        "year": 1918,
         "certainty": "confirmed",
-        "source": "Wikipedia: History of Yemen"
+        "source": "Wikipedia: Mutawakkilite Kingdom of Yemen (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "High mountains with terraced fields, coastal plains and the deep Hadramaut valley.",
@@ -156,10 +156,10 @@
         "source": "Wikipedia: History of Yemen"
       },
       "stability": {
-        "value": "Often divided between rival imams, dynasties and tribes.",
-        "year": null,
-        "certainty": "estimated",
-        "source": "Wikipedia: History of Yemen"
+        "value": "Imam Yahya was ambushed near Sanaa on 17 February 1948 by the al-Wazir family; about 5,000 people died in the coup, and his son Ahmad took power with loyal Zaydi tribes.",
+        "year": 1948,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Mutawakkilite Kingdom of Yemen (checked 13 Nov 2026)"
       },
       "eliteConflict": {
         "value": "Rival claimants to the imamate and tribal confederations.",
@@ -280,10 +280,10 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Founding of the Zaydi imamate (897).",
-        "year": 897,
-        "certainty": "confirmed",
-        "source": "Wikipedia: History of Yemen"
+        "value": "The Zaydi imamate expanded into Sa’dah around 893 under al-Hadi ila’l-Haqq Yahya, founder of the Rassid dynasty; the entry’s start year of 897 differs from this page. Sa’dah was the capital for seven centuries.",
+        "year": 893,
+        "certainty": "disputed",
+        "source": "Wikipedia: Zaydism (checked 13 Nov 2026)"
       },
       "peakPeriod": {
         "value": "Rasulid period (1229–1454); coffee boom (1600s).",
@@ -298,10 +298,10 @@
         "source": "Wikipedia: History of Yemen"
       },
       "outcome": {
-        "value": "The imamate was overthrown in the 1962 revolution.",
+        "value": "Imam Ahmad died in September 1962; officers led by Abdullah al-Sallal deposed his son al-Badr on 26 September 1962 and founded the Yemen Arab Republic. One page dates the kingdom 1918–1962 and the other 1918–1970.",
         "year": 1962,
-        "certainty": "confirmed",
-        "source": "Wikipedia: History of Yemen"
+        "certainty": "disputed",
+        "source": "Wikipedia: Mutawakkilite Kingdom of Yemen (checked 13 Nov 2026)"
       }
     },
     "dataQuality": {
