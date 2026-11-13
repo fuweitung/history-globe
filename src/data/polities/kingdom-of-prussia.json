@@ -49,10 +49,10 @@
   "checklist": {
     "geography": {
       "location": {
-        "value": "Northern Germany and the Baltic; up to about 350,000 km².",
-        "year": null,
+        "value": "Northern Germany and the Baltic; 348,779 km² in 1756.",
+        "year": 1756,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Prussia"
+        "source": "Wikipedia: Kingdom of Prussia (checked 13 Nov 2026)"
       },
       "terrain": {
         "value": "Flat, sandy North European Plain.",
@@ -81,10 +81,10 @@
     },
     "population": {
       "population": {
-        "value": "About 10 million in 1815; 24 million in 1871.",
-        "year": 1815,
+        "value": "4,500,000 in 1756, 5,800,000 in 1786 and 8,700,000 in 1797; the page does not give the figures for 1815 and 1871.",
+        "year": 1786,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Prussia"
+        "source": "Wikipedia: Kingdom of Prussia (checked 13 Nov 2026)"
       },
       "urbanisation": {
         "value": "Berlin, Königsberg, Breslau.",
@@ -107,10 +107,10 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Farming on Junker estates; later industry.",
-        "year": null,
+        "value": "Prussia was poor in natural resources; the Zollverein customs union (1834) increased its influence over other German states. The page does not describe Junker estates.",
+        "year": 1834,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Prussia"
+        "source": "Wikipedia: Kingdom of Prussia (checked 13 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Zollverein customs union (1834).",
@@ -139,16 +139,16 @@
     },
     "politics": {
       "governmentType": {
-        "value": "Absolute, then constitutional monarchy (1850).",
-        "year": null,
+        "value": "An absolute monarchy until the 1848 revolutions, then semi-constitutional under the 1850 Constitution, which lasted to 1918; the lower house was elected by a three-class franchise and parliament had no control over the military.",
+        "year": 1850,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Prussia"
+        "source": "Wikipedia: Kingdom of Prussia (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Frederick William I. Frederick the Great. Wilhelm I. Otto von Bismarck.",
-        "year": 1740,
+        "value": "Frederick I crowned himself “King in Prussia” on 18 January 1701; Frederick William I (from 1713) introduced conscription in 1717; Frederick the Great invaded Silesia in 1740; Wilhelm I became king in 1861 and emperor in 1871; Bismarck took office on 23 September 1862.",
+        "year": 1701,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Prussia"
+        "source": "Wikipedia: Kingdom of Prussia (checked 13 Nov 2026)"
       },
       "succession": {
         "value": "Hohenzollern kings.",
@@ -183,10 +183,10 @@
         "source": "Wikipedia: Kingdom of Prussia"
       },
       "majorWars": {
-        "value": "Silesian Wars; Seven Years’ War; Napoleonic Wars; wars of 1864, 1866, 1870.",
+        "value": "Silesian invasion (1740) and the Seven Years’ War (1756–1763); defeat at Jena–Auerstedt in October 1806 and the Treaties of Tilsit (1807), which cost about half its territory; the Austro-Prussian War (1866); and the Franco-Prussian War (1870–1871).",
         "year": 1756,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Prussia"
+        "source": "Wikipedia: Kingdom of Prussia (checked 13 Nov 2026)"
       },
       "territoryChange": {
         "value": "Took Silesia (1742), parts of Poland (1772–95), Rhineland (1815).",
@@ -229,10 +229,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Protestant (Lutheran and Reformed); Catholics in the west.",
-        "year": null,
+        "value": "Protestantism (Lutheran and Calvinist) was the majority, united in the Prussian Union church of 1817, and Catholics were a major minority (about 5.3 million of 14.1 million people in the 1830s).",
+        "year": 1817,
         "certainty": "confirmed",
-        "source": "Wikipedia: Kingdom of Prussia"
+        "source": "Wikipedia: Kingdom of Prussia (checked 13 Nov 2026)"
       },
       "languageWriting": {
         "value": "German.",
