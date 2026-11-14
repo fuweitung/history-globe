@@ -518,9 +518,17 @@
   },
   {
     "fromPolityId": "fatimid-caliphate",
+    "toPolityId": "ayyubid-sultanate",
+    "relation": "succeeded",
+    "year": 1171,
+    "note": "Saladin ended the Fatimid Caliphate."
+  },
+  {
+    "fromPolityId": "ayyubid-sultanate",
     "toPolityId": "mamluk-sultanate",
     "relation": "succeeded",
-    "year": 1250
+    "year": 1250,
+    "note": "Mamluk coup in Egypt; Syria fell to the Mongols in 1260."
   },
   {
     "fromPolityId": "ottoman-empire",

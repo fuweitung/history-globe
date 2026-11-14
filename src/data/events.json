@@ -2188,7 +2188,8 @@
     "description": "Saladin abolishes the Fatimid Caliphate and founds the Ayyubid dynasty.",
     "relatedPolityIds": [
       "fatimid-caliphate",
-      "abbasid-caliphate"
+      "abbasid-caliphate",
+      "ayyubid-sultanate"
     ],
     "source": "Wikipedia: Saladin (year from general references; not stated in the summary checked 6 Nov 2026)"
   },
@@ -2229,7 +2230,9 @@
     "type": "war",
     "title": "Battle of Hattin",
     "description": "Saladin defeats the Crusaders and retakes Jerusalem.",
-    "relatedPolityIds": [],
+    "relatedPolityIds": [
+      "ayyubid-sultanate"
+    ],
     "source": "Wikipedia: Battle of Hattin (checked 6 Nov 2026)"
   },
   {
@@ -2337,7 +2340,8 @@
     "title": "Mamluks take power in Egypt",
     "description": "Slave-soldiers overthrow the Ayyubids and found the Mamluk Sultanate.",
     "relatedPolityIds": [
-      "mamluk-sultanate"
+      "mamluk-sultanate",
+      "ayyubid-sultanate"
     ],
     "source": "Wikipedia: Mamluk Sultanate (checked 6 Nov 2026)"
   },
@@ -13165,5 +13169,33 @@
       "east-java-kingdoms"
     ],
     "source": "Wikipedia: Airlangga"
+  },
+  {
+    "id": "frederick-ii-jerusalem-treaty",
+    "year": 1229,
+    "lat": 31.78,
+    "lng": 35.22,
+    "type": "war",
+    "title": "Jerusalem handed to Frederick II",
+    "description": "Sultan al-Kamil agrees a truce giving the Crusaders an unfortified Jerusalem for about ten years, with Muslim control of the holy places kept.",
+    "relatedPolityIds": [
+      "ayyubid-sultanate"
+    ],
+    "source": "Wikipedia: Ayyubid dynasty (checked 14 Nov 2026)"
+  },
+  {
+    "id": "ain-jalut",
+    "year": 1260,
+    "lat": 32.55,
+    "lng": 35.35,
+    "type": "war",
+    "title": "Battle of Ain Jalut",
+    "description": "The Mamluks defeat the Mongols and take Damascus, ending the last Ayyubid rule in Syria.",
+    "relatedPolityIds": [
+      "mamluk-sultanate",
+      "mongol-empire",
+      "ayyubid-sultanate"
+    ],
+    "source": "Wikipedia: Ayyubid dynasty (checked 14 Nov 2026)"
   }
 ]
