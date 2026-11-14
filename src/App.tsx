@@ -771,6 +771,19 @@ function About() {
           <a className="text-gold-300 underline" href="https://x.com/TungFuWei" target="_blank" rel="noopener noreferrer">X</a>
         </p>
       </div>
+      <div className="rounded-xl bg-ink-800/60 px-3 py-3 ring-1 ring-white/10">
+        <div className="font-semibold text-parchment-50">MikeTKnn</div>
+        <p className="mt-1 text-parchment-200">
+          I fact-check civilisations against second sources, fix gaps in the historical map and review pull requests.
+        </p>
+        <p className="mt-2">
+          <a className="text-gold-300 underline" href="https://github.com/MikeTKnn" target="_blank" rel="noopener noreferrer">GitHub</a>
+          {' · '}
+          <a className="text-gold-300 underline" href="https://x.com/hongquanteoh1" target="_blank" rel="noopener noreferrer">X</a>
+          {' · '}
+          <a className="text-gold-300 underline" href="https://www.threads.com/@hquan_0124" target="_blank" rel="noopener noreferrer">Threads</a>
+        </p>
+      </div>
       <h3 className="pt-2 text-[11px] font-semibold tracking-wider text-parchment-300 uppercase">Beta, mistakes and licence</h3>
       <p>
         This is an early version and some facts are still being checked. Spotted something wrong?{' '}
