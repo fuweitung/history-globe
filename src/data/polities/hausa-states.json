@@ -142,7 +142,7 @@
         "value": "Kano: Yaji I (reigned 1349–85), thought to be the first Kano ruler to convert to Islam; Muhammad Rumfa (1463–99). Katsina: Ibrahim Maje (1549–66).",
         "year": 1349,
         "certainty": "confirmed",
-        "source": "Wikipedia: Hausa states (checked 13 Nov 2026)"
+        "source": "Wikipedia: Hausa states (checked 13 Nov 2026); Britannica: Kano (checked 14 Nov 2026) (Yaji 1349–85 and Muhammad Rumfa 1463–99 match)"
       },
       "succession": {
         "value": "Royal families, with the ruler (sarki) chosen from a limited group.",
@@ -223,10 +223,10 @@
     },
     "culture": {
       "religion": {
-        "value": "Islam was widespread in the Hausa states by the 14th century through commerce, and was present as early as the 11th.",
-        "year": 1300,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Hausa people (checked 13 Nov 2026)"
+        "value": "Sources differ on timing: Britannica says Malinke scholars from Mali brought Islam to Kano in the 1340s, with Yaji (1349–85) probably its first Muslim Hausa king, and that Kano lost ground to Zaria around 1400 when a king gave up Islam; BlackPast says all the city-states had Muslim rulers by about 1200; Wikipedia says Islam was widespread by the 14th century and present as early as the 11th.",
+        "year": 1340,
+        "certainty": "disputed",
+        "source": "Wikipedia: Hausa people (checked 13 Nov 2026); Britannica: Kano; BlackPast: Hausa city-states (checked 14 Nov 2026)"
       },
       "languageWriting": {
         "value": "Hausa, written in Arabic script (Ajami).",
@@ -281,16 +281,16 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Seven original Hausa states (the Hausa Bakwai), traditionally founded by the sons and grandsons of Bayajidda.",
-        "year": null,
+        "value": "Seven original Hausa states (the Hausa Bakwai), traditionally founded by the sons and grandsons of Bayajidda. Britannica dates Kano’s founding to 999 (by Bagauda, per the Kano Chronicle); BlackPast says the first city-states, Gobir and Rano, emerged about 1000.",
+        "year": 999,
         "certainty": "confirmed",
-        "source": "Wikipedia: Hausa states (checked 13 Nov 2026)"
+        "source": "Wikipedia: Hausa states (checked 13 Nov 2026); Britannica: Kano; BlackPast: Hausa city-states (checked 14 Nov 2026) (legend and chronicle, not independently dated)"
       },
       "peakPeriod": {
         "value": "The page says the states emerged mainly in the 16th century as powerful trading states; Muhammad Rumfa ruled Kano 1463–1499.",
         "year": 1500,
         "certainty": "estimated",
-        "source": "Wikipedia: Hausa people (checked 13 Nov 2026)"
+        "source": "Wikipedia: Hausa people (checked 13 Nov 2026); BlackPast: Hausa city-states (checked 14 Nov 2026) (BlackPast: Kano was the largest and richest state in the 1500s; Britannica says Kano was West Africa’s leading commercial centre by the 1820s, after the jihad)"
       },
       "declineSignals": {
         "value": "Constant wars and heavy taxes weakened the cities before the Fulani jihad of 1804.",
@@ -299,10 +299,10 @@
         "source": "Wikipedia: Hausa Kingdoms"
       },
       "outcome": {
-        "value": "Usuman dan Fodio’s jihad conquered the Hausa states by 1808; the Sokoto Caliphate was proclaimed in 1809. The British conquest date is not stated in the article.",
-        "year": 1808,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Hausa states (checked 13 Nov 2026)"
+        "value": "The Sokoto jihad began in 1804 under Usman dan Fodio. Dates for the end differ: Kano city fell in 1807 (Britannica), most states were conquered by 1808 (Wikipedia), and BlackPast says conquest took until about 1815. The Sokoto Caliphate was proclaimed in 1809, and the area came under British rule around 1903.",
+        "year": 1807,
+        "certainty": "disputed",
+        "source": "Wikipedia: Hausa states (checked 13 Nov 2026); Britannica: Kano; BlackPast: Hausa city-states (checked 14 Nov 2026)"
       }
     },
     "dataQuality": {

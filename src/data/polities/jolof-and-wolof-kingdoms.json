@@ -177,7 +177,7 @@
         "value": "Kayor broke away by beating Jolof at the Battle of Danki (1549), after which Waalo and Baol also left; Futa Toro was lost in 1513 and Sine and Saloum broke away in 1520.",
         "year": 1549,
         "certainty": "confirmed",
-        "source": "Wikipedia: Jolof Empire (checked 13 Nov 2026)"
+        "source": "Wikipedia: Jolof Empire (checked 13 Nov 2026); Seshat: Jolof Empire (checked 14 Nov 2026) (Danki 1549, ruler of Kayor leading the rebellion; the other earlier losses are not in this entry)"
       },
       "territoryChange": {
         "value": "Split into Jolof, Kayor, Baol and Waalo after 1549; conquered by France in the 1800s.",
@@ -223,7 +223,7 @@
         "value": "Traditional religion (Serer religion); the nobility were nominally animist and some combined this with Islam, which did not dominate Wolof society until about the 19th century.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Jolof Empire (checked 13 Nov 2026)"
+        "source": "Wikipedia: Jolof Empire (checked 13 Nov 2026); Seshat: Jolof Empire (checked 14 Nov 2026) (traditional Wolof religion; Gellar says the empire resisted Islam while Fage says the nobility was at least nominally Muslim)"
       },
       "languageWriting": {
         "value": "Wolof, an Atlantic language of the Niger–Congo family; Arabic script (Wolofal) was used by Muslims.",
@@ -278,16 +278,16 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Established around 1360 (infobox) by Ndiadiane Ndiaye, a possibly mythical founder; capital Ouarkhokh.",
+        "value": "Established around 1360 (Wikipedia infobox) under Ndiadiane Ndiaye, a possibly mythical founder. Seshat cites Fage for about 1360, but Barry and Amin for the late 13th or early 14th century, and Wikipedia notes some dates up to the 12th–13th centuries, so the start is uncertain.",
         "year": 1360,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Jolof Empire (checked 13 Nov 2026)"
+        "certainty": "disputed",
+        "source": "Wikipedia: Jolof Empire (checked 13 Nov 2026); Seshat: Jolof Empire (checked 14 Nov 2026)"
       },
       "peakPeriod": {
         "value": "After the 1440s Jolof was at the height of its power; in the early 16th century it could field 100,000 infantry and 10,000 cavalry.",
         "year": 1500,
         "certainty": "confirmed",
-        "source": "Wikipedia: Jolof Empire (checked 13 Nov 2026)"
+        "source": "Wikipedia: Jolof Empire (checked 13 Nov 2026); Seshat: Jolof Empire (checked 14 Nov 2026) (Seshat (citing Gellar) gives about 1400–1499 as the peak; the army figures (100,000 infantry, 10,000 cavalry) are not in the Seshat entry)"
       },
       "declineSignals": {
         "value": "Defeat by Kayor at the Battle of Danki (1549).",
@@ -299,7 +299,7 @@
         "value": "Battle of Danki (1549) reduced the empire to a rump kingdom; by 1600 it was effectively over.",
         "year": 1549,
         "certainty": "confirmed",
-        "source": "Wikipedia: Jolof Empire (checked 13 Nov 2026)"
+        "source": "Wikipedia: Jolof Empire (checked 13 Nov 2026); Seshat: Jolof Empire (checked 14 Nov 2026) (Seshat confirms the break-up at Danki in 1549; it counts five successor kingdoms (Aderinto) or six (Searing), and says the capital is not stated for the Jolof Empire)"
       }
     },
     "dataQuality": {
