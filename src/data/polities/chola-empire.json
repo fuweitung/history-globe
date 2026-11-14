@@ -27,7 +27,7 @@
         "value": "South India; at its height, all of the south, Sri Lanka and the Maldives, with raids to Southeast Asia.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Chola dynasty (checked 6 Nov 2026); Sastri, The Cholas (1955)"
+        "source": "Wikipedia: Chola dynasty (checked 6 Nov 2026); Sastri, The Cholas (1955); Britannica: Chola dynasty (checked 14 Nov 2026) (Kaveri valley core; Sri Lanka, Lakshadweep, Maldives and Southeast Asian conquests)"
       },
       "terrain": {
         "value": "The Kaveri river delta and the Coromandel coast.",
@@ -117,13 +117,13 @@
         "value": "An imperial monarchy with strong village self-government.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Chola dynasty (checked 6 Nov 2026); Sastri, The Cholas (1955)"
+        "source": "Wikipedia: Chola dynasty (checked 6 Nov 2026); Sastri, The Cholas (1955); Britannica: Chola dynasty (checked 14 Nov 2026) (organised revenue, village self-government and irrigation)"
       },
       "keyRulers": {
-        "value": "Rajaraja I (985–1014), Rajendra I (1012–1044; one World History Encyclopedia caption says 1014–1044), Kulothunga I. Aditya Chola (r. 871–907) is credited with effectively founding the empire.",
+        "value": "Vijayalaya (c. 850–870), Rajaraja I (985–1014), Rajendra I (1014–1044 in Britannica; one source gives 1012) and Kulottunga I (1070–1122). Aditya Chola (r. 871–907) is credited with effectively founding the empire.",
         "year": 985,
         "certainty": "confirmed",
-        "source": "Wikipedia: Chola dynasty (checked 6 Nov 2026); World History Encyclopedia: Chola Art and Architecture and Thanjavur (excerpt read 13 Nov 2026)"
+        "source": "Wikipedia: Chola dynasty (checked 6 Nov 2026); World History Encyclopedia: Chola Art and Architecture and Thanjavur (excerpt read 13 Nov 2026); Britannica: Chola dynasty (checked 14 Nov 2026) (Rajendra I start year differs by source)"
       },
       "succession": {
         "value": "Hereditary, sometimes passing through marriage alliances (the Later Cholas).",
@@ -161,7 +161,7 @@
         "value": "Wars with the Chalukyas and the Rashtrakutas (the World History Encyclopedia says the Cholas lost several land battles to both). Naval conquest of Sri Lanka, Lakshadweep and the Maldives. Naval attack on Srivijaya: Britannica says the Cholas seized Palembang and captured the king in 1025.",
         "year": 1025,
         "certainty": "confirmed",
-        "source": "Sastri, The Cholas (1955); World History Encyclopedia: Naval Warfare in Ancient India (excerpt read 13 Nov 2026); Britannica: Srivijaya empire (excerpt read 13 Nov 2026)"
+        "source": "Sastri, The Cholas (1955); World History Encyclopedia: Naval Warfare in Ancient India (excerpt read 13 Nov 2026); Britannica: Srivijaya empire (excerpt read 13 Nov 2026); Britannica: Chola dynasty (checked 14 Nov 2026) (Britannica does not mention the 1025 Srivijaya raid; it notes Rajendra I’s conquests in the Malay region; Chalukya wars in 1046 and 1054)"
       },
       "territoryChange": {
         "value": "Conquered Sri Lanka (c. 1017) and raided as far as the Ganges and Srivijaya.",
@@ -262,10 +262,10 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Vijayalaya took Thanjavur (c. 850), founding the imperial line.",
+        "value": "Vijayalaya (c. 850–870) began taking over Pallava territory; Wikipedia says he took Thanjavur about 850.",
         "year": 850,
         "certainty": "confirmed",
-        "source": "Wikipedia: Chola dynasty (checked 6 Nov 2026); Sastri, The Cholas (1955)"
+        "source": "Wikipedia: Chola dynasty (checked 6 Nov 2026); Sastri, The Cholas (1955); Britannica: Chola dynasty (checked 14 Nov 2026)"
       },
       "peakPeriod": {
         "value": "Under Rajaraja I and Rajendra I, a military, economic and cultural powerhouse of South and Southeast Asia.",
@@ -274,16 +274,16 @@
         "source": "Wikipedia: Chola dynasty (checked 6 Nov 2026)"
       },
       "declineSignals": {
-        "value": "Revolts and the rise of the Pandyas and Hoysalas in the 13th century.",
+        "value": "Intrigue over the Pandya throne drew the Cholas in from about 1166; the Hoysalas took Chola lands from 1216, former feudatories broke away, and the Pandyas conquered the Chola country in 1257.",
         "year": 1200,
         "certainty": "estimated",
-        "source": "Sastri, The Cholas (1955)"
+        "source": "Sastri, The Cholas (1955); Britannica: Chola dynasty (checked 14 Nov 2026)"
       },
       "outcome": {
         "value": "The main line ended in 1279; the Pandyas took over the Tamil country.",
         "year": 1279,
         "certainty": "confirmed",
-        "source": "Wikipedia: Chola dynasty (checked 6 Nov 2026)"
+        "source": "Wikipedia: Chola dynasty (checked 6 Nov 2026); Britannica: Chola dynasty (checked 14 Nov 2026) (Pandyas conquered 1257; dynasty ended 1279)"
       }
     },
     "dataQuality": {
