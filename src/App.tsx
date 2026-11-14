@@ -772,7 +772,10 @@ function About() {
         </p>
       </div>
       <div className="rounded-xl bg-ink-800/60 px-3 py-3 ring-1 ring-white/10">
-        <div className="font-semibold text-parchment-50">MikeTKnn</div>
+        <div className="flex items-center gap-3">
+          <img src={`${import.meta.env.BASE_URL}mike.jpg`} alt="MikeTKnn" width={48} height={48} className="size-12 rounded-full ring-1 ring-white/15" />
+          <div className="font-semibold text-parchment-50">MikeTKnn</div>
+        </div>
         <p className="mt-1 text-parchment-200">
           I’m a Malaysian mechanical engineering student at Northumbria University, and I have worked as a mechanical designer for a machine maker since 2019. I helped make History Globe because the past shapes who we are now. I fact-check civilisations against second sources, fix gaps in the historical map and review pull requests.
         </p>
