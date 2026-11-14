@@ -63,20 +63,20 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | · Medieval | `███████████████████░` 93% |  |
 | · Early modern | `███████████████████░` 93% |  |
 | · Modern | `████████████████████` 99% |  |
-| Civilisations shown on the map | `███████████████████░` 93% | 466 of 499; the rest fly to their capital |
-| Checklist filled in | `████████████████████` 100% | 21457 of 21457 items (499 × 43) |
+| Civilisations shown on the map | `███████████████████░` 93% | 467 of 500; the rest fly to their capital |
+| Checklist filled in | `████████████████████` 100% | 21500 of 21500 items (500 × 43) |
 | Answers with real detail | `███████████████████░` 97% | 620 answers are still empty or placeholders such as “Unknown.” |
-| Fact-checked against a source | `█████████░░░░░░░░░░░` 43% | 9124 items say “(checked …)”; the rest still need a second look |
-| Civilisations with events | `████████████████████` 100% | 499 of 499 |
-| Civilisations with famous people | `██████████████░░░░░░` 72% | 357 of 499; many prehistoric cultures have no known names |
-| Civilisations linked to others | `████████████████████` 100% | 499 of 499 (succeeded, conquered, traded with…) |
-| Civilisation pictures | `████████████████████` 100% | 498 of 499 |
-| “Known for” pictures | `█████████████░░░░░░░` 63% | 980 of 1551 items |
+| Fact-checked against a source | `█████████░░░░░░░░░░░` 43% | 9160 items say “(checked …)”; the rest still need a second look |
+| Civilisations with events | `████████████████████` 100% | 500 of 500 |
+| Civilisations with famous people | `██████████████░░░░░░` 72% | 358 of 500; many prehistoric cultures have no known names |
+| Civilisations linked to others | `████████████████████` 100% | 500 of 500 (succeeded, conquered, traded with…) |
+| Civilisation pictures | `████████████████████` 100% | 498 of 500 |
+| “Known for” pictures | `█████████████░░░░░░░` 63% | 980 of 1555 items |
 | People pictures | `██████████████████░░` 91% | 412 of 451 |
-| Event pictures | `████████████████░░░░` 78% | 753 of 962 |
+| Event pictures | `████████████████░░░░` 78% | 753 of 964 |
 
-Certainty of all items: 14154 confirmed · 6728 estimated · 575 disputed.
-Also in the app: 962 events · 451 people · 18 routes · 11 stories written (hidden in the app for now).
+Certainty of all items: 14180 confirmed · 6744 estimated · 576 disputed.
+Also in the app: 964 events · 451 people · 18 routes · 11 stories written (hidden in the app for now).
 
 ## Map coverage by year
 
@@ -109,7 +109,7 @@ Also in the app: 962 events · 451 people · 18 routes · 11 stories written (hi
 | 900 | `██████████████████░░` 89% |
 | 1000 | `███████████████████░` 96% |
 | 1100 | `███████████████████░` 95% |
-| 1200 | `██████████████████░░` 88% |
+| 1200 | `██████████████████░░` 90% |
 | 1279 | `███████████████████░` 97% |
 | 1300 | `███████████████████░` 97% |
 | 1400 | `███████████████████░` 96% |
