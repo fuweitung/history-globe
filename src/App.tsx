@@ -777,7 +777,7 @@ function About() {
           <div className="font-semibold text-parchment-50">MikeTKnn</div>
         </div>
         <p className="mt-1 text-parchment-200">
-          I’m a Malaysian mechanical engineering student at Northumbria University, and I have worked as a mechanical designer for a machine maker since 2019. I helped make History Globe because the past shapes who we are now. I fact-check civilisations against second sources, fix gaps in the historical map and review pull requests.
+          I’m a Malaysian mechanical engineering student at Northumbria University, and I have worked as a mechanical designer for a machine maker since 2019. I helped make History Globe because the past shapes who we are now.
         </p>
         <p className="mt-2">
           <a className="text-gold-300 underline" href="https://github.com/MikeTKnn" target="_blank" rel="noopener noreferrer">GitHub</a>
