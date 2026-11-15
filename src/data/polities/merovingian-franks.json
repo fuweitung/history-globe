@@ -145,7 +145,7 @@
         "value": "Childeric I died in 481; Clovis won at Tolbiac against the Alemanni in 496 and adopted Nicene Christianity, beat the Visigoths at Vouillé in 507 and died in 511; mayors of the palace held real power, Charles Martel ruled from 737 to 741, and Pepin the Short deposed Childeric III in 751 with Pope Zachary’s blessing.",
         "year": 511,
         "certainty": "confirmed",
-        "source": "Wikipedia: Merovingian dynasty (checked 13 Nov 2026)"
+        "source": "Wikipedia: Merovingian dynasty (checked 13 Nov 2026); World History Encyclopedia: Merovingian Dynasty (checked 15 Nov 2026) (481 accession, Clovis’s death in 511 and the division among his four sons match; the page gives Childeric I’s death as 481/82 and does not cover Charles Martel’s 737–741 rule or Pope Zachary)"
       },
       "succession": {
         "value": "After Clovis’s death in 511 the kingdom was partitioned among his four sons; it stayed divided until 679 except for four short periods.",
@@ -183,7 +183,7 @@
         "value": "Battle of Tours in 732, where Charles Martel’s Franks defeated the Moors.",
         "year": 732,
         "certainty": "confirmed",
-        "source": "Wikipedia: Merovingian dynasty (checked 13 Nov 2026)"
+        "source": "Wikipedia: Merovingian dynasty (checked 13 Nov 2026); World History Encyclopedia: Merovingian Dynasty (checked 15 Nov 2026) (Tours 732 under Charles Martel against the Umayyad Caliphate matches)"
       },
       "territoryChange": {
         "value": "Clovis and his sons took most of Gaul by 537, including Burgundy and Provence.",
@@ -229,7 +229,7 @@
         "value": "Christianity came to the Franks through contact with Gallo-Roman culture and spread further through monks, the most famous missionary being Columbanus.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Merovingian dynasty (checked 13 Nov 2026)"
+        "source": "Wikipedia: Merovingian dynasty (checked 13 Nov 2026); World History Encyclopedia: Merovingian Dynasty (checked 15 Nov 2026) (Clovis chose Catholicism over Arianism; the page gives political reasons for it and does not cover the monks’ missions)"
       },
       "languageWriting": {
         "value": "Latin for government and the Church; Frankish was the language of the ruling warriors.",
@@ -284,28 +284,28 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "Named for Merovech, father of Childeric I (died 481); Clovis I (died 511) converted to Nicene Christianity, dated 496 by Gregory of Tours.",
+        "value": "Named for Merovech, father of Childeric I (died 481); Clovis I (died 511) converted to Nicene Christianity, dated 496 by Gregory of Tours. World History Encyclopedia calls 496 only the traditional date of the conversion, not a firmly established one, and some modern historians (as Wikipedia’s Francia article notes) place the baptism later, about 508.",
         "year": 496,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Merovingian dynasty (checked 13 Nov 2026)"
+        "certainty": "disputed",
+        "source": "Wikipedia: Merovingian dynasty (checked 13 Nov 2026); World History Encyclopedia: Merovingian Dynasty (checked 15 Nov 2026) (481 start, Soissons 486 and Vouillé 507 match)"
       },
       "peakPeriod": {
         "value": "Under Dagobert I (629–639), the last strong Merovingian king.",
         "year": 629,
         "certainty": "confirmed",
-        "source": "Wikipedia: Merovingian dynasty"
+        "source": "Wikipedia: Merovingian dynasty; World History Encyclopedia: Merovingian Dynasty (checked 15 Nov 2026) (Dagobert I ruled Austrasia from 623 and all the Franks from 629, so the 629 date matches his sole kingship)"
       },
       "declineSignals": {
         "value": "“Do-nothing kings” (rois fainéants) after 639, with real power held by the palace mayors.",
         "year": 639,
         "certainty": "confirmed",
-        "source": "Wikipedia: Merovingian dynasty"
+        "source": "Wikipedia: Merovingian dynasty; World History Encyclopedia: Merovingian Dynasty (checked 15 Nov 2026) (639 matches: Sigebert III and Clovis II began as underage kings and the mayors of the palace held real power)"
       },
       "outcome": {
         "value": "In 751 Pepin the Short deposed the last king, Childeric III, and began the Carolingian dynasty.",
         "year": 751,
         "certainty": "confirmed",
-        "source": "Wikipedia: Merovingian dynasty (checked 13 Nov 2026)"
+        "source": "Wikipedia: Merovingian dynasty (checked 13 Nov 2026); World History Encyclopedia: Merovingian Dynasty (checked 15 Nov 2026) (751 Pepin the Short deposed Childeric III and became the first Carolingian king)"
       }
     },
     "dataQuality": {
