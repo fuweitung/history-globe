@@ -137,10 +137,10 @@
         "source": "Wikipedia: Taíno (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "Hatuey fled to Cuba to unite its people and was burned at the stake on 2 February 1512. Enriquillo led more than 3,000 Taíno in a successful rebellion on Hispaniola in the 1520s. Anacaona and Guarionex are not covered in the part of the page read.",
+        "value": "Hatuey fled to Cuba to unite its people and was burned at the stake on 2 February 1512. Enriquillo led more than 3,000 Taíno in a successful rebellion on Hispaniola in the 1520s. Anacaona and Guarionex are not covered in the part of the page read. New World Encyclopedia dates Enriquillo’s successful rebellion to the 1530s, not the 1520s.",
         "year": 1512,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Taíno (checked 13 Nov 2026)"
+        "certainty": "disputed",
+        "source": "Wikipedia: Taíno (checked 13 Nov 2026); New World Encyclopedia: Taíno (checked 15 Nov 2026) (Hatuey’s burning on 2 February 1512 matches; he fled Hispaniola for Cuba with about 400 people)"
       },
       "succession": {
         "value": "Chiefs (caciques) often inherited through the mother’s line.",
@@ -175,10 +175,10 @@
         "source": "Wikipedia: Taíno"
       },
       "majorWars": {
-        "value": "Hatuey was burned at the stake on 2 February 1512; Enriquillo led a successful rebellion on Hispaniola in the 1520s.",
+        "value": "Hatuey was burned at the stake on 2 February 1512; Enriquillo led a successful rebellion on Hispaniola in the 1520s. New World Encyclopedia says Enriquillo’s rebellion was in the 1530s.",
         "year": 1512,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Taíno (checked 13 Nov 2026)"
+        "certainty": "disputed",
+        "source": "Wikipedia: Taíno (checked 13 Nov 2026); New World Encyclopedia: Taíno (checked 15 Nov 2026) (Hatuey 1512 matches)"
       },
       "territoryChange": {
         "value": "They lost their islands to Spain after 1492.",
@@ -224,7 +224,7 @@
         "value": "Worship centred on zemis (spirits or ancestors); the major zemis were Atabey and her son Yúcahu.",
         "year": null,
         "certainty": "confirmed",
-        "source": "Wikipedia: Taíno (checked 13 Nov 2026)"
+        "source": "Wikipedia: Taíno (checked 13 Nov 2026); New World Encyclopedia: Taíno (checked 15 Nov 2026) (zemís (gods, spirits or ancestors) with Yúcahu and Atabey as the two supreme gods match)"
       },
       "languageWriting": {
         "value": "Taíno (Arawakan); words like hurricane, canoe, barbecue.",
@@ -282,7 +282,7 @@
         "value": "DNA studies link the Taíno to pottery-making farmers who entered the Caribbean from north-eastern South America about 2,500 years ago.",
         "year": -500,
         "certainty": "estimated",
-        "source": "Wikipedia: Taíno (checked 13 Nov 2026)"
+        "source": "Wikipedia: Taíno (checked 13 Nov 2026); New World Encyclopedia: Taíno (checked 15 Nov 2026) (the page gives two origin theories (Amazon/Orinoco and the Colombian Andes) but no arrival date, so the -500 estimate is not confirmed)"
       },
       "peakPeriod": {
         "value": "About 1200–1500, when large chiefdoms existed on Hispaniola.",
@@ -294,13 +294,13 @@
         "value": "Columbus landed in the Bahamas on 12 October 1492; forced labour under the encomienda and infectious disease followed; famine in 1495–96 reportedly killed about 50,000.",
         "year": 1492,
         "certainty": "confirmed",
-        "source": "Wikipedia: Taíno (checked 13 Nov 2026)"
+        "source": "Wikipedia: Taíno (checked 13 Nov 2026); New World Encyclopedia: Taíno (checked 15 Nov 2026) (Columbus landed in the Bahamas on 12 October 1492; the page blames forced labour, violence, suicide and disease, mainly smallpox)"
       },
       "outcome": {
         "value": "80–90% of the Taíno died within 30 years of contact, mostly from disease; Spanish documents declared them extinct as early as 1550.",
         "year": 1550,
         "certainty": "confirmed",
-        "source": "Wikipedia: Taíno (checked 13 Nov 2026)"
+        "source": "Wikipedia: Taíno (checked 13 Nov 2026); New World Encyclopedia: Taíno (checked 15 Nov 2026) (80–90% died within thirty years matches; the page gives 3,000 for Hispaniola in 1531 but does not mention the 1550 extinction claim)"
       }
     },
     "dataQuality": {
