@@ -136,10 +136,10 @@
         "source": "Wikipedia: Montenegro (checked 13 Nov 2026)"
       },
       "keyRulers": {
-        "value": "The Petrović-Njegoš dynasty gained semi-autonomy in 1696, first as a theocracy and later as a secular principality. The page does not mention Petar II Njegoš or Nikola I. Later and present leaders are not named here.",
+        "value": "The Petrović-Njegoš dynasty gained semi-autonomy in 1696, first as a theocracy and later as a secular principality. The page does not mention Petar II Njegoš or Nikola I. Later and present leaders are not named here. History Files starts the Petrović-Njegoš rule with Danilo I in 1697, not 1696.",
         "year": 1696,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Montenegro (checked 13 Nov 2026)"
+        "certainty": "disputed",
+        "source": "Wikipedia: Montenegro (checked 13 Nov 2026); History Files: Montenegro (checked 15 Nov 2026) (it lists Danilo II as prince from 1852 and Nicholas I as prince from 1860 and king from 1910)"
       },
       "succession": {
         "value": "Elections; the long-ruling party lost power in 2020.",
@@ -177,7 +177,7 @@
         "value": "Wars against the Ottomans; Balkan Wars and First World War (as a kingdom).",
         "year": 1912,
         "certainty": "confirmed",
-        "source": "Wikipedia: Montenegro"
+        "source": "Wikipedia: Montenegro; History Files: Montenegro (checked 15 Nov 2026) (this page does not describe the Balkan Wars or the First World War, and mentions the Ottoman wars only in general terms)"
       },
       "territoryChange": {
         "value": "Independent kingdom until 1918; in Yugoslavia, then with Serbia until 2006.",
@@ -299,7 +299,7 @@
         "value": "Joined the Kingdom of Yugoslavia on 1 December 1918; the 21 May 2006 referendum chose independence with 55.5%, and parliament declared it on 3 June 2006.",
         "year": 2006,
         "certainty": "confirmed",
-        "source": "Wikipedia: Montenegro (checked 13 Nov 2026)"
+        "source": "Wikipedia: Montenegro (checked 13 Nov 2026); History Files: Montenegro (checked 15 Nov 2026) (it says Montenegro was united with Serbia on 28 November 1918 and joined the Kingdom of Serbs, Croats and Slovenes on 1 December 1918; a 2006 referendum passed with just over 55 per cent)"
       }
     },
     "dataQuality": {
