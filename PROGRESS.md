@@ -66,7 +66,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | Civilisations shown on the map | `███████████████████░` 93% | 467 of 500; the rest fly to their capital |
 | Checklist filled in | `████████████████████` 100% | 21500 of 21500 items (500 × 43) |
 | Answers with real detail | `███████████████████░` 97% | 620 answers are still empty or placeholders such as “Unknown.” |
-| Fact-checked against a source | `█████████░░░░░░░░░░░` 43% | 9226 items say “(checked …)”; the rest still need a second look |
+| Fact-checked against a source | `█████████░░░░░░░░░░░` 43% | 9229 items say “(checked …)”; the rest still need a second look |
 | Civilisations with events | `████████████████████` 100% | 500 of 500 |
 | Civilisations with famous people | `██████████████░░░░░░` 72% | 358 of 500; many prehistoric cultures have no known names |
 | Civilisations linked to others | `████████████████████` 100% | 500 of 500 (succeeded, conquered, traded with…) |
