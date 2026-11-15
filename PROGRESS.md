@@ -75,7 +75,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | People pictures | `██████████████████░░` 91% | 412 of 451 |
 | Event pictures | `████████████████░░░░` 78% | 753 of 964 |
 
-Certainty of all items: 14152 confirmed · 6743 estimated · 605 disputed.
+Certainty of all items: 14148 confirmed · 6743 estimated · 609 disputed.
 Also in the app: 964 events · 451 people · 18 routes · 11 stories written (hidden in the app for now).
 
 ## Map coverage by year

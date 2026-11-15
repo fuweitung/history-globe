@@ -177,7 +177,7 @@
         "value": "Independence on 22 October 1953; Lao Civil War 1959–1975 (20,000 to 62,000 Laotians died); King Savang Vatthana abdicated on 2 December 1975; the US dropped more than 2 million tons of bombs on Laos from 1964 to 1973, leaving some 80 million unexploded.",
         "year": 1975,
         "certainty": "confirmed",
-        "source": "Wikipedia: Laos (checked 13 Nov 2026)"
+        "source": "Wikipedia: Laos (checked 13 Nov 2026); CountryReports: Laos history (checked 15 Nov 2026) (the page describes the Cold War conflict and the bombing but gives no casualty or tonnage figures, and neither it nor Britannica covers the king's abdication, so those parts are not confirmed here)"
       },
       "territoryChange": {
         "value": "Borders inherited from French Indochina; a brief border war with Thailand (1987–88) did not change them.",
@@ -278,10 +278,10 @@
     },
     "riseFall": {
       "riseSignals": {
-        "value": "French rule from 1893, when the kingdoms were unified under French control; full independence on 22 October 1953 (infobox).",
+        "value": "French rule from 1893, when the kingdoms were unified under French control; full independence on 22 October 1953 (infobox). Britannica's summary says the Geneva Conference of 1954 granted independence; CountryReports says full independence came in 1953.",
         "year": 1893,
-        "certainty": "confirmed",
-        "source": "Wikipedia: Laos (checked 13 Nov 2026)"
+        "certainty": "disputed",
+        "source": "Wikipedia: Laos (checked 13 Nov 2026); Britannica: Laos summary; CountryReports: Laos history (checked 15 Nov 2026) (both give 1893 for French control; the independence year differs)"
       },
       "peakPeriod": {
         "value": "Too recent to judge. The page does not mention the 1986 reforms or growth rates; it reports a 2025 GDP of about $16.3 billion (nominal), subsistence farming at half of GDP, and over 5 million tourists in 2024.",
@@ -299,7 +299,7 @@
         "value": "On 2 December 1975 the Pathet Lao government renamed the country the Lao People’s Democratic Republic.",
         "year": 1975,
         "certainty": "confirmed",
-        "source": "Wikipedia: Laos (checked 13 Nov 2026)"
+        "source": "Wikipedia: Laos (checked 13 Nov 2026); Britannica: Laos summary; CountryReports: Laos history (checked 15 Nov 2026) (both give 1975 for the Pathet Lao takeover and the Lao People's Democratic Republic; CountryReports says December 1975, and neither gives the 2 December date)"
       }
     },
     "dataQuality": {
