@@ -1,0 +1,317 @@
+{
+  "id": "denianke-kingdom",
+  "name": "Denianke Kingdom of Futa Toro",
+  "era": "early_modern",
+  "region": "West Africa (Senegal River valley)",
+  "startYear": 1512,
+  "endYear": 1776,
+  "capital": "Tumbere-Jiinde (Futa Toro)",
+  "capitalCoords": [
+    -14.0,
+    16.4
+  ],
+  "summary": "A Fula kingdom on the middle Senegal River, founded by Koli Tenguella and ruled by the Denianke dynasty. It took tribute from many neighbours, then fell to a Muslim revolution in 1776.",
+  "wikiTitle": "Denanke Kingdom",
+  "borderNames": [],
+  "borderNameYears": {
+    "Tekrur": [
+      1500,
+      1776
+    ]
+  },
+  "color": "#7a9a3e",
+  "knownFor": [
+    {
+      "label": "Satigi",
+      "kind": "idea",
+      "year": 1600,
+      "note": "Title of the Denianke ruler."
+    },
+    {
+      "label": "Koli Tenguella",
+      "kind": "person",
+      "year": 1512,
+      "note": "Founder of the dynasty."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "Futa Toro, the middle valley of the Senegal River, immediately south of the Sahara; the north bank is in Mauritania and the south bank in Senegal.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Shillington (ed.), Encyclopedia of African History: Futa Toro"
+      },
+      "terrain": {
+        "value": "A narrow river-flood valley, stretching about 250 miles along the Senegal River and never more than about ten miles on either bank.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Shillington (ed.), Encyclopedia of African History: Futa Toro"
+      },
+      "climate": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "resources": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "disasters": {
+        "value": "The summer rains raised the river, which spilled over the banks of the middle valley; this gave a double harvest.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Shillington (ed.), Encyclopedia of African History: Futa Toro"
+      }
+    },
+    "population": {
+      "population": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "urbanisation": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "disease": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "migration": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Mixed farming and cattle herding; the flooded valley made Futa Toro a food-exporting region.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Shillington (ed.), Encyclopedia of African History: Futa Toro"
+      },
+      "tradeRoutes": {
+        "value": "At its peak the kingdom controlled the mouth of the Senegal and many trans-Saharan trade routes; from the 17th century French, English and Dutch traders came to buy gold, ivory and slaves.",
+        "year": 1600,
+        "certainty": "estimated",
+        "source": "Wikipedia: Empire of Great Fulo (Denanke Kingdom)"
+      },
+      "wealth": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "moneyAndTax": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "inequality": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Monarchy under a ruler called the satigi; the Denianke dynasty ruled animist monarchs over an increasingly Muslim population.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Empire of Great Fulo (Denanke Kingdom)"
+      },
+      "keyRulers": {
+        "value": "Koli Tenguella (died 1537), who founded the dynasty; his brother Labba Tenguella; Satigi Samba Lamu in the early 17th century.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Empire of Great Fulo (Denanke Kingdom)"
+      },
+      "succession": {
+        "value": "Futa Toro had no clear rules on succession to the satigi, which led to regular power struggles and civil wars.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Empire of Great Fulo (Denanke Kingdom)"
+      },
+      "institutions": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "stability": {
+        "value": "Unstable in the 18th century: the Trarza Moors, backed by the sultan of Morocco, and the French at Saint-Louis both tried to control the Senegal river trade, causing foreign intervention.",
+        "year": 1700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Empire of Great Fulo (Denanke Kingdom)"
+      },
+      "eliteConflict": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "majorWars": {
+        "value": "Wars against the Mali and Songhai empires; after the Jolof Empire collapsed at the Battle of Danki in 1549, the kingdom took tribute from over a dozen vassal states.",
+        "year": 1549,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Empire of Great Fulo (Denanke Kingdom)"
+      },
+      "territoryChange": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "alliancesRivals": {
+        "value": "Rivals and tributaries included Jolof, Waalo, Cayor, Gajaaga, Diarra and Wagadu; the Trarza Moors and the French at Saint-Louis became rivals in the 1700s.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Empire of Great Fulo (Denanke Kingdom)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "scienceEducation": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "openness": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "communicationTransport": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "The kings kept traditional (animist) beliefs while the population became increasingly Muslim; by the 16th century many people and rulers were Muslim, and clerics spread Islam across West Africa.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Shillington (ed.), Encyclopedia of African History: Futa Toro; Wikipedia: Empire of Great Fulo (Denanke Kingdom)"
+      },
+      "languageWriting": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "artsArchitecture": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "socialStructure": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "sharedIdentity": {
+        "value": "The Fulbe of Futa Toro call themselves Haalpulaar'en (Pulaar speakers); French and Wolof usage calls them Toucouleur, from the old state of Takrur.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Shillington (ed.), Encyclopedia of African History: Futa Toro"
+      },
+      "dailyLife": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Mali and Songhai empires, Jolof and its successor states, the Moorish emirates to the north, and French trading posts on the river.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Empire of Great Fulo (Denanke Kingdom)"
+      },
+      "ideasReligions": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "colonisation": {
+        "value": "Futa Toro had limited contact with Portuguese traders in the early 16th century (some slaves supplied); later the French became the main trading partner.",
+        "year": 1500,
+        "certainty": "confirmed",
+        "source": "Shillington (ed.), Encyclopedia of African History: Futa Toro"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Koli Tenguella's Fula state broke away from Mali's orbit and defeated Jolof-era powers; the Denianke dynasty followed him.",
+        "year": 1512,
+        "certainty": "disputed",
+        "source": "Wikipedia: Empire of Great Fulo (Denanke Kingdom) (start dates differ: 1464, 1512, 1521 and about 1490 in different sources)"
+      },
+      "peakPeriod": {
+        "value": "The early 17th century under Satigi Samba Lamu, when the kingdom controlled the Senegal river mouth and trans-Saharan routes.",
+        "year": 1600,
+        "certainty": "estimated",
+        "source": "Wikipedia: Empire of Great Fulo (Denanke Kingdom)"
+      },
+      "declineSignals": {
+        "value": "Succession struggles, civil wars and foreign intervention in the 18th century.",
+        "year": 1700,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Empire of Great Fulo (Denanke Kingdom)"
+      },
+      "outcome": {
+        "value": "Overthrown in 1776 by a Muslim revolution led by Sulayman Bal, which created the Imamate of Futa Toro.",
+        "year": 1776,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Empire of Great Fulo (Denanke Kingdom); Shillington (ed.), Encyclopedia of African History: Futa Toro"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Empire of Great Fulo; Shillington (ed.), Encyclopedia of African History, 'Futa Toro'. Both read as search excerpts only, 16 Nov 2026.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "search excerpts"
+      },
+      "overallCertainty": {
+        "value": "Much of the early history rests on oral tradition, and sources disagree on the founding date (1464 to 1521) and the kingdom's start.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Empire of Great Fulo (Denanke Kingdom)"
+      }
+    }
+  }
+}

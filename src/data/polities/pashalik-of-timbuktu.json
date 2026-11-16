@@ -1,0 +1,317 @@
+{
+  "id": "pashalik-of-timbuktu",
+  "name": "Pashalik of Timbuktu (Arma)",
+  "era": "early_modern",
+  "region": "West Africa (Middle Niger)",
+  "startYear": 1591,
+  "endYear": 1833,
+  "capital": "Timbuktu",
+  "capitalCoords": [
+    -3.0,
+    16.77
+  ],
+  "summary": "A West African state founded after Morocco's 1591 conquest of Songhai, ruled by the Arma, descendants of the Moroccan soldiers, until it became a Tuareg tributary and was replaced in 1833.",
+  "wikiTitle": "Pashalik of Timbuktu",
+  "borderNames": [],
+  "borderNameYears": {
+    "Arma": [
+      1591,
+      1833
+    ]
+  },
+  "color": "#b0603a",
+  "knownFor": [
+    {
+      "label": "Arma casbahs",
+      "kind": "troops",
+      "year": 1600,
+      "note": "Garrisons of Moroccan-descended soldiers across the Middle Niger."
+    },
+    {
+      "label": "Judar Pasha",
+      "kind": "person",
+      "year": 1591,
+      "note": "Led the Moroccan expedition that destroyed Songhai."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The middle Niger valley, roughly from Gao to Djenné, centred on Timbuktu in today's Mali.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pashalik of Timbuktu"
+      },
+      "terrain": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "climate": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "resources": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "disasters": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      }
+    },
+    "population": {
+      "population": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "urbanisation": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "disease": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "migration": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "tradeRoutes": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "wealth": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "moneyAndTax": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "inequality": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A Moroccan-founded pashalik: a pasha, chosen by the army soldiers, ruled as military governor; the Arma (descendants of the Moroccan soldiers) held power.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "EBSCO Research Starters: Songhai Empire Dissolves"
+      },
+      "keyRulers": {
+        "value": "Judar Pasha led the 1591 expedition; later pashas include Mahmud ibn Zarqun (1591-95), Mahmud Longo (1604-12) and Ali ben Abdallah al-Tilimsani (1612-17).",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pashalik of Timbuktu"
+      },
+      "succession": {
+        "value": "From 1591 to 1833 Timbuktu had 167 pashas, and only a few lasted more than a year.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia mirror: Pashalik of Timbuktu"
+      },
+      "institutions": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "stability": {
+        "value": "Constant feuds and internal strife; the position rotated among three main Arma factions.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pashalik of Timbuktu"
+      },
+      "eliteConflict": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "A Moroccan army with firearms defeated the Songhai at Tondibi in 1591; the Arma lived in garrisons (casbahs) scattered across the Middle Niger.",
+        "year": 1591,
+        "certainty": "confirmed",
+        "source": "EBSCO Research Starters: Songhai Empire Dissolves"
+      },
+      "majorWars": {
+        "value": "War against the Songhai remnant in Dendi; a treaty in 1630 ended the aim of conquering all Songhai, and in 1639 an Arma army sacked the Dendi capital Loulami.",
+        "year": 1630,
+        "certainty": "confirmed",
+        "source": "EBSCO Research Starters: Songhai Empire Dissolves"
+      },
+      "territoryChange": {
+        "value": "Founded 1591 after the Moroccan conquest of Gao, Timbuktu and Djenné; from about 1770 the Tuareg took Gao and in 1787 entered Timbuktu and made the pashalik their tributary.",
+        "year": 1591,
+        "certainty": "confirmed",
+        "source": "Wikipedia mirror: Pashalik of Timbuktu"
+      },
+      "alliancesRivals": {
+        "value": "Nominally tied to Morocco (Sultan Moulay al-Rashid sent a force in 1671; Moulay Ismail in 1689); rivals were the Songhai of Dendi and the Tuareg.",
+        "year": 1671,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pashalik of Timbuktu"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "scienceEducation": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "openness": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "communicationTransport": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Islam.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pashalik of Timbuktu"
+      },
+      "languageWriting": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "artsArchitecture": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "socialStructure": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "sharedIdentity": {
+        "value": "The Moroccan soldiers intermarried with Songhai women, creating the Arma, a distinct soldier-ruler group.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "EBSCO Research Starters: Songhai Empire Dissolves"
+      },
+      "dailyLife": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "The Songhai of Dendi, the Tuareg, Bambara states and Morocco across the Sahara.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pashalik of Timbuktu"
+      },
+      "ideasReligions": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "colonisation": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "The Moroccan invasion of the Songhai Empire in 1590-91 and the capture of Gao, Timbuktu and Djenné.",
+        "year": 1591,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pashalik of Timbuktu"
+      },
+      "peakPeriod": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "declineSignals": {
+        "value": "By the mid-18th century the pashalik was in total eclipse; the Tuareg made it a tributary in 1787.",
+        "year": 1750,
+        "certainty": "confirmed",
+        "source": "Wikipedia mirror: Pashalik of Timbuktu"
+      },
+      "outcome": {
+        "value": "Disestablished in 1833 and succeeded by the Caliphate of Hamdullahi.",
+        "year": 1833,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pashalik of Timbuktu"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Wikipedia: Pashalik of Timbuktu and Arma people; EBSCO Research Starters: Songhai Empire Dissolves. Read as search excerpts only, 16 Nov 2026.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "search excerpts"
+      },
+      "overallCertainty": {
+        "value": "The status of Morocco's control is given differently by sources (governorate until 1612, 1621 or 1603), so the political status dates are disputed; the end of Arma rule is given as 1737 in one source.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Pashalik of Timbuktu"
+      }
+    }
+  }
+}
