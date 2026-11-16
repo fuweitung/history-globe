@@ -3006,12 +3006,13 @@
     "lng": 102.25,
     "type": "war",
     "title": "Portuguese capture Melaka",
-    "description": "A Portuguese fleet under Afonso de Albuquerque captures Melaka after a siege. The sultan’s court withdraws south, eventually founding the Johor Sultanate.",
+    "description": "A Portuguese fleet under Afonso de Albuquerque captures Melaka from Sultan Mahmud Shah.",
     "relatedPolityIds": [
       "melaka-sultanate",
       "portuguese-empire",
       "johor-sultanate"
-    ]
+    ],
+    "source": "Wikipedia: Capture of Malacca (1511) (checked 16 Nov 2026)"
   },
   {
     "id": "ottoman-conquest-egypt",
@@ -3020,10 +3021,11 @@
     "lng": 31.24,
     "type": "war",
     "title": "Ottomans conquer Mamluk Egypt",
-    "description": "Selim I defeats the Mamluk Sultanate and takes Cairo, bringing Egypt, Syria and the holy cities of Mecca and Medina under Ottoman rule.",
+    "description": "Selim I defeats the Mamluk Sultanate; the Levant, Egypt and the Hejaz, with Mecca, become provinces of the Ottoman Empire.",
     "relatedPolityIds": [
       "ottoman-empire"
-    ]
+    ],
+    "source": "Wikipedia: Ottoman–Mamluk War (1516–1517) (checked 16 Nov 2026)"
   },
   {
     "id": "luther-95-theses",
@@ -3032,10 +3034,11 @@
     "lng": 12.65,
     "type": "culture",
     "title": "Luther’s Ninety-five Theses",
-    "description": "Martin Luther’s criticism of the sale of indulgences in Wittenberg helps launch the Protestant Reformation, which divides Western Christianity.",
+    "description": "Martin Luther writes theses against the practice of indulgences. They are later seen as the start of the Protestant Reformation.",
     "relatedPolityIds": [
       "habsburg-monarchy"
-    ]
+    ],
+    "source": "Wikipedia: Ninety-five Theses (checked 16 Nov 2026)"
   },
   {
     "id": "fall-of-tenochtitlan",
@@ -3044,10 +3047,11 @@
     "lng": -99.13,
     "type": "war",
     "title": "Fall of Tenochtitlan",
-    "description": "Spanish forces under Hernán Cortés, with many Indigenous allies, capture the Mexica (Aztec) capital after a siege worsened by a smallpox epidemic.",
+    "description": "Spanish forces under Hernán Cortés and thousands of Indigenous allies, especially Tlaxcalans, take the Mexica (Aztec) capital after a siege; a smallpox epidemic had devastated its people.",
     "relatedPolityIds": [
       "spanish-empire"
-    ]
+    ],
+    "source": "Wikipedia: Fall of Tenochtitlan (checked 16 Nov 2026)"
   },
   {
     "id": "battle-of-panipat-1526",
@@ -3056,10 +3060,11 @@
     "lng": 76.97,
     "type": "war",
     "title": "First Battle of Panipat",
-    "description": "Babur defeats Ibrahim Lodi of the Delhi Sultanate, using field artillery, and founds the Mughal Empire.",
+    "description": "Babur’s army, using firearms and cannons, defeats Ibrahim Lodi, Sultan of Delhi, beginning Mughal rule in India.",
     "relatedPolityIds": [
       "mughal-empire"
-    ]
+    ],
+    "source": "Wikipedia: First Battle of Panipat (checked 16 Nov 2026)"
   },
   {
     "id": "battle-of-mohacs",
@@ -3068,12 +3073,13 @@
     "lng": 18.68,
     "type": "war",
     "title": "Battle of Mohács",
-    "description": "The Ottoman army under Suleiman I defeats the Kingdom of Hungary; King Louis II dies. Most of Hungary is later divided between the Ottomans and the Habsburgs.",
+    "description": "The Ottoman army under Suleiman I defeats the Kingdom of Hungary; King Louis II and much of the nobility are killed. By 1541 Hungary is divided between the Ottomans, the Habsburgs and the Eastern Hungarian Kingdom.",
     "relatedPolityIds": [
       "ottoman-empire",
       "habsburg-monarchy",
       "kingdom-of-hungary-medieval"
-    ]
+    ],
+    "source": "Wikipedia: Battle of Mohács (checked 16 Nov 2026)"
   },
   {
     "id": "first-siege-vienna",
@@ -3082,11 +3088,12 @@
     "lng": 16.37,
     "type": "war",
     "title": "First Siege of Vienna",
-    "description": "Suleiman I besieges Vienna but withdraws as winter approaches. This marks the northwestern limit of Ottoman expansion for a century and a half.",
+    "description": "Suleiman I besieges Vienna with over 100,000 men but fails to take it, beginning 150 years of conflict between the Habsburgs and the Ottomans.",
     "relatedPolityIds": [
       "ottoman-empire",
       "habsburg-monarchy"
-    ]
+    ],
+    "source": "Wikipedia: Siege of Vienna (1529) (checked 16 Nov 2026)"
   },
   {
     "id": "inca-conquest",
@@ -3096,11 +3103,12 @@
     "lng": -78.51,
     "type": "war",
     "title": "Spanish conquest of the Inca",
-    "description": "Francisco Pizarro captures the Inca ruler Atahualpa at Cajamarca, bringing down the empire.",
+    "description": "Francisco Pizarro captures the Inca ruler Atahualpa at Cajamarca. Inca resistance continues from Vilcabamba until 1572.",
     "relatedPolityIds": [
       "inca-empire",
       "spanish-empire"
-    ]
+    ],
+    "source": "Wikipedia: Spanish conquest of the Inca Empire (checked 16 Nov 2026)"
   },
   {
     "id": "copernicus-heliocentric",
@@ -3120,11 +3128,12 @@
     "lng": -65.75,
     "type": "trade",
     "title": "Silver found at Potosí",
-    "description": "Huge silver deposits are found at Potosí (in today’s Bolivia). Mined largely with coerced Indigenous labour, this silver flows to Europe and China and changes world trade.",
+    "description": "Huge silver deposits are found at Potosí (in today’s Bolivia). Indigenous men are conscripted to the mines under the mita forced-labour system, alongside other workers; the silver flows to Spain and, via the Manila galleons, to Asia.",
     "relatedPolityIds": [
       "spanish-empire",
       "ming-china"
-    ]
+    ],
+    "source": "Wikipedia: Potosí (checked 16 Nov 2026)"
   },
   {
     "id": "suleymaniye-mosque",
@@ -3132,11 +3141,12 @@
     "lat": 41.016,
     "lng": 28.964,
     "type": "culture",
-    "title": "Süleymaniye Mosque completed",
-    "description": "The architect Mimar Sinan completes the Süleymaniye complex in Istanbul, a landmark of classical Ottoman architecture.",
+    "title": "Süleymaniye Mosque inaugurated",
+    "description": "The Süleymaniye Mosque in Istanbul, designed by the imperial architect Mimar Sinan, is inaugurated; it is considered a masterpiece of Ottoman architecture.",
     "relatedPolityIds": [
       "ottoman-empire"
-    ]
+    ],
+    "source": "Wikipedia: Süleymaniye Mosque (checked 16 Nov 2026)"
   },
   {
     "id": "manila-galleon",
@@ -3151,7 +3161,8 @@
       "spanish-empire",
       "ming-china",
       "qing-china"
-    ]
+    ],
+    "source": "Wikipedia: Manila galleon (checked 16 Nov 2026)"
   },
   {
     "id": "battle-of-talikota",
@@ -3189,10 +3200,11 @@
     "lng": 116.57,
     "type": "culture",
     "title": "Ming rebuild the Great Wall",
-    "description": "The Ming rebuild the wall in brick and stone. These sections are most of today’s visible Great Wall.",
+    "description": "From the 1550s the Ming rebuild sections of the wall in stone, mortar and brick. Ming walls form the most visible parts of the Great Wall today.",
     "relatedPolityIds": [
       "ming-china"
-    ]
+    ],
+    "source": "Wikipedia: Ming Great Wall (checked 16 Nov 2026)"
   },
   {
     "id": "battle-of-lepanto",
@@ -3201,11 +3213,12 @@
     "lng": 21.1,
     "type": "war",
     "title": "Battle of Lepanto",
-    "description": "A Holy League fleet led by Spain and Venice defeats the Ottoman navy. The Ottomans rebuild their fleet within a year and take Cyprus.",
+    "description": "A Holy League fleet led by Spain and Venice defeats the Ottoman navy, though Venetian Cyprus had already fallen and the Ottomans rapidly rebuild their fleet.",
     "relatedPolityIds": [
       "ottoman-empire",
       "spanish-empire"
-    ]
+    ],
+    "source": "Wikipedia: Battle of Lepanto (checked 16 Nov 2026)"
   },
   {
     "id": "warsaw-confederation",
@@ -3227,11 +3240,12 @@
     "lng": 0.13,
     "type": "war",
     "title": "Battle of Tondibi",
-    "description": "A Moroccan army equipped with firearms defeats the Songhai army. The Songhai Empire fragments soon afterwards.",
+    "description": "A Moroccan army armed with arquebuses defeats the Songhai army, ending the Songhai Empire as an effective power; the region later splinters into smaller kingdoms.",
     "relatedPolityIds": [
       "songhai-empire",
       "dendi-kingdom"
-    ]
+    ],
+    "source": "Wikipedia: Battle of Tondibi (checked 16 Nov 2026)"
   },
   {
     "id": "imjin-war",
@@ -3245,7 +3259,8 @@
     "relatedPolityIds": [
       "joseon-korea",
       "ming-china"
-    ]
+    ],
+    "source": "Wikipedia: Imjin War (checked 16 Nov 2026)"
   },
   {
     "id": "voc-founded",
@@ -3254,10 +3269,11 @@
     "lng": 4.9,
     "type": "trade",
     "title": "Dutch East India Company (VOC) founded",
-    "description": "The Dutch Republic charters the VOC, an early joint-stock company with powers to wage war and make treaties in Asia.",
+    "description": "The Dutch Republic charters the VOC, one of the first joint-stock companies, with a monopoly on Dutch trade in Asia and powers to wage war and negotiate treaties.",
     "relatedPolityIds": [
       "dutch-republic"
-    ]
+    ],
+    "source": "Wikipedia: Dutch East India Company (checked 16 Nov 2026)"
   },
   {
     "id": "tokugawa-shogunate-established",
@@ -3269,7 +3285,8 @@
     "description": "After victory at Sekigahara (1600), Tokugawa Ieyasu is appointed shogun, beginning over 250 years of Tokugawa rule from Edo.",
     "relatedPolityIds": [
       "tokugawa-japan"
-    ]
+    ],
+    "source": "Wikipedia: Tokugawa shogunate (checked 16 Nov 2026)"
   },
   {
     "id": "aceh-iskandar-muda",
@@ -3280,11 +3297,12 @@
     "lng": 95.32,
     "type": "person",
     "title": "Reign of Iskandar Muda of Aceh",
-    "description": "Sultan Iskandar Muda expands Aceh to control much of the Sumatran pepper trade and parts of the Malay Peninsula, Aceh’s high point.",
+    "description": "Sultan Iskandar Muda brings Aceh to its greatest extent, taking Pahang, Kedah and Perak on the Malay Peninsula; its wealth rests on pepper.",
     "relatedPolityIds": [
       "aceh-sultanate",
       "johor-sultanate"
-    ]
+    ],
+    "source": "Wikipedia: Iskandar Muda (checked 16 Nov 2026)"
   },
   {
     "id": "galileo-telescope",
@@ -3293,10 +3311,12 @@
     "lng": 11.88,
     "type": "invention",
     "title": "Galileo’s telescope observations",
-    "description": "In Padua, Galileo Galilei improves the telescope and observes the moons of Jupiter, supporting the Sun-centred model of the solar system.",
+    "description": "Galileo builds improved telescopes and in 1610 observes the moons of Jupiter, evidence for the Sun-centred model of the solar system.",
     "relatedPolityIds": [
       "italian-states"
-    ]
+    ],
+    "endYear": 1610,
+    "source": "Wikipedia: Galileo Galilei (checked 16 Nov 2026)"
   },
   {
     "id": "sultan-agung-mataram",
@@ -3310,7 +3330,8 @@
     "relatedPolityIds": [
       "mataram-sultanate",
       "dutch-republic"
-    ]
+    ],
+    "source": "Wikipedia: Sultan Agung of Mataram (checked 16 Nov 2026)"
   },
   {
     "id": "thirty-years-war",
@@ -3320,13 +3341,14 @@
     "lng": 14.42,
     "type": "war",
     "title": "Thirty Years’ War",
-    "description": "A series of wars, mainly fought in the Holy Roman Empire, kills a large share of the population of central Europe. It ends with the Peace of Westphalia (1648).",
+    "description": "A major war fought mainly in Central Europe, rooted in religious conflict within the Holy Roman Empire. An estimated 4.5 to 8 million people die. It ends with the Peace of Westphalia.",
     "relatedPolityIds": [
       "habsburg-monarchy",
       "kingdom-of-france",
       "spanish-empire",
       "dutch-republic"
-    ]
+    ],
+    "source": "Wikipedia: Thirty Years' War (checked 16 Nov 2026)"
   },
   {
     "id": "vasa-ship",
@@ -3367,7 +3389,8 @@
     "description": "Mughal emperor Shah Jahan commissions the Taj Mahal in Agra as a mausoleum for his wife Mumtaz Mahal.",
     "relatedPolityIds": [
       "mughal-empire"
-    ]
+    ],
+    "source": "Wikipedia: Taj Mahal (checked 16 Nov 2026)"
   },
   {
     "id": "dutch-take-melaka",
@@ -3376,12 +3399,13 @@
     "lng": 102.25,
     "type": "war",
     "title": "Dutch take Melaka from Portugal",
-    "description": "The VOC, allied with Johor, captures Portuguese Melaka after a long siege.",
+    "description": "The VOC and its ally Johor besiege Portuguese Melaka for over five months until the Portuguese surrender.",
     "relatedPolityIds": [
       "dutch-republic",
       "portuguese-empire",
       "johor-sultanate"
-    ]
+    ],
+    "source": "Wikipedia: Siege of Malacca (1640–1641) (checked 16 Nov 2026)"
   },
   {
     "id": "qing-enter-beijing",
@@ -3390,11 +3414,12 @@
     "lng": 116.39,
     "type": "war",
     "title": "Qing enter Beijing",
-    "description": "After rebels under Li Zicheng take Beijing and the last Ming emperor dies, Manchu forces enter the city, and the Qing dynasty begins its rule over China.",
+    "description": "After rebels under Li Zicheng take Beijing and the last Ming emperor dies, Manchu forces and the Ming general Wu Sangui enter the city. Full Qing control of China takes nearly forty more years.",
     "relatedPolityIds": [
       "qing-china",
       "ming-china"
-    ]
+    ],
+    "source": "Wikipedia: Transition from Ming to Qing (checked 16 Nov 2026)"
   },
   {
     "id": "treaty-of-roskilde",
@@ -3417,8 +3442,9 @@
     "lng": -0.13,
     "type": "disaster",
     "title": "Great Plague of London",
-    "description": "An outbreak of bubonic plague kills an estimated 75,000–100,000 people in London.",
-    "relatedPolityIds": []
+    "description": "An epidemic of bubonic plague kills an estimated 100,000 people in London.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Great Plague of London (checked 16 Nov 2026)"
   },
   {
     "id": "shivaji-crowned",
@@ -3441,11 +3467,12 @@
     "lng": 16.37,
     "type": "war",
     "title": "Second Siege of Vienna",
-    "description": "A relief army led by Polish king Jan III Sobieski defeats the Ottoman army besieging Vienna. The Habsburgs go on to regain Hungary.",
+    "description": "A Christian relief army, including Polish king John III Sobieski’s forces, defeats the Ottoman army besieging Vienna.",
     "relatedPolityIds": [
       "ottoman-empire",
       "habsburg-monarchy"
-    ]
+    ],
+    "source": "Wikipedia: Battle of Vienna (checked 16 Nov 2026)"
   },
   {
     "id": "newton-principia",
@@ -3467,11 +3494,12 @@
     "lng": 116.58,
     "type": "trade",
     "title": "Treaty of Nerchinsk",
-    "description": "Qing China and Russia agree their first border treaty, negotiated with the help of Jesuit interpreters.",
+    "description": "Qing China and Russia sign the first formal treaty between China and a Western power, with Jesuits as interpreters.",
     "relatedPolityIds": [
       "qing-china",
       "russian-empire"
-    ]
+    ],
+    "source": "Wikipedia: Treaty of Nerchinsk (checked 16 Nov 2026)"
   },
   {
     "id": "treaty-of-karlowitz",
@@ -3480,11 +3508,12 @@
     "lng": 19.93,
     "type": "war",
     "title": "Treaty of Karlowitz",
-    "description": "The Ottoman Empire cedes most of Hungary and other lands. It is the first major permanent Ottoman territorial loss in Europe.",
+    "description": "The Ottoman Empire cedes much of Hungary, Croatia and Slavonia to the Habsburgs and most of Dalmatia to Venice: its first major territorial losses in Europe.",
     "relatedPolityIds": [
       "ottoman-empire",
       "habsburg-monarchy"
-    ]
+    ],
+    "source": "Wikipedia: Treaty of Karlowitz (checked 16 Nov 2026)"
   },
   {
     "id": "golden-stool-asante",
@@ -3512,7 +3541,8 @@
       "great-britain",
       "kingdom-of-england",
       "kingdom-of-scotland"
-    ]
+    ],
+    "source": "Wikipedia: Acts of Union 1707 (checked 16 Nov 2026)"
   },
   {
     "id": "battle-of-poltava",
@@ -3536,10 +3566,11 @@
     "lng": 30.31,
     "type": "person",
     "title": "Peter the Great moves the capital",
-    "description": "Peter I makes St Petersburg Russia’s capital as part of his westernising reforms. He takes the title of Emperor in 1721.",
+    "description": "Peter I moves Russia’s capital from Moscow to St Petersburg, where it stays until 1918. He becomes Russia’s first emperor in 1721.",
     "relatedPolityIds": [
       "russian-empire"
-    ]
+    ],
+    "source": "Wikipedia: Peter the Great; Saint Petersburg (checked 16 Nov 2026)"
   },
   {
     "id": "fall-of-safavids",
@@ -3548,10 +3579,11 @@
     "lng": 51.67,
     "type": "war",
     "title": "Siege of Isfahan",
-    "description": "Afghan forces capture the Safavid capital Isfahan after a long siege. Safavid rule collapses; Nader Shah formally ends the dynasty in 1736.",
+    "description": "After a siege of seven months the Safavid shah surrenders Isfahan to Afghan forces, the beginning of the end of the Safavid dynasty.",
     "relatedPolityIds": [
       "safavid-persia"
-    ]
+    ],
+    "source": "Wikipedia: Siege of Isfahan (checked 16 Nov 2026)"
   },
   {
     "id": "ottoman-printing-press",
@@ -3559,11 +3591,12 @@
     "lat": 41.01,
     "lng": 28.98,
     "type": "invention",
-    "title": "First Ottoman Turkish printed book",
-    "description": "İbrahim Müteferrika’s press, approved after his 1726 petition, publishes the first book printed in Ottoman Turkish.",
+    "title": "Müteferrika’s press prints its first book",
+    "description": "İbrahim Müteferrika’s press, approved by Sultan Ahmed III, prints its first book, an Arabic–Turkish dictionary. Earlier presses in the empire had printed in Hebrew and Arabic.",
     "relatedPolityIds": [
       "ottoman-empire"
-    ]
+    ],
+    "source": "Wikipedia: Ibrahim Muteferrika (checked 16 Nov 2026)"
   },
   {
     "id": "battle-of-plassey",
@@ -3572,11 +3605,12 @@
     "lng": 88.25,
     "type": "war",
     "title": "Battle of Plassey",
-    "description": "The British East India Company defeats the Nawab of Bengal, starting its rise to territorial power in India.",
+    "description": "The British East India Company defeats the Nawab of Bengal, the de facto beginning of Company rule in India.",
     "relatedPolityIds": [
       "great-britain",
       "mughal-empire"
-    ]
+    ],
+    "source": "Wikipedia: Battle of Plassey (checked 16 Nov 2026)"
   },
   {
     "id": "canton-system",
@@ -3586,10 +3620,11 @@
     "lng": 113.26,
     "type": "trade",
     "title": "Canton System begins",
-    "description": "The Qing court limits Western maritime trade to Guangzhou (Canton), under licensed merchant houses.",
+    "description": "The Qing court restricts most Western maritime trade, chiefly British, to Canton (Guangzhou), handled by licensed Chinese merchants, the Cohong.",
     "relatedPolityIds": [
       "qing-china"
-    ]
+    ],
+    "source": "Wikipedia: Canton System (checked 16 Nov 2026)"
   },
   {
     "id": "third-panipat",
@@ -3611,11 +3646,12 @@
     "lng": 100.57,
     "type": "war",
     "title": "Fall of Ayutthaya",
-    "description": "Burmese forces sack Ayutthaya, ending the kingdom. Taksin reunifies Siam; the Chakri dynasty founds Bangkok in 1782.",
+    "description": "A Burmese invasion ends the 417-year-old Ayutthaya Kingdom.",
     "relatedPolityIds": [
       "ayutthaya-kingdom",
       "rattanakosin-siam"
-    ]
+    ],
+    "source": "Wikipedia: Burmese–Siamese War (1765–1767) (checked 16 Nov 2026)"
   },
   {
     "id": "watt-steam-engine",
@@ -3624,10 +3660,11 @@
     "lng": -1.89,
     "type": "invention",
     "title": "Watt’s steam engine",
-    "description": "James Watt’s improved steam engine, built with Matthew Boulton in Birmingham, becomes a driver of the Industrial Revolution.",
+    "description": "James Watt’s improved steam engine, made by the firm of Boulton & Watt and sold from 1776, becomes a driving force of the Industrial Revolution.",
     "relatedPolityIds": [
       "great-britain"
-    ]
+    ],
+    "source": "Wikipedia: Watt steam engine (checked 16 Nov 2026)"
   },
   {
     "id": "us-declaration",
@@ -3636,11 +3673,12 @@
     "lng": -75.15,
     "type": "person",
     "title": "US Declaration of Independence",
-    "description": "Thirteen British colonies in North America declare independence in Philadelphia, founding the United States.",
+    "description": "The Second Continental Congress in Philadelphia adopts the Declaration of Independence, explaining why the Thirteen Colonies regard themselves as independent states. It is the founding document of the United States.",
     "relatedPolityIds": [
       "united-states",
       "great-britain"
-    ]
+    ],
+    "source": "Wikipedia: United States Declaration of Independence (checked 16 Nov 2026)"
   },
   {
     "id": "french-revolution",
@@ -3649,10 +3687,11 @@
     "lng": 2.37,
     "type": "person",
     "title": "French Revolution",
-    "description": "The storming of the Bastille in Paris begins a revolution that abolishes the monarchy (1792) and spreads ideas of popular sovereignty and rights.",
+    "description": "Beginning with the Estates General of 1789, the revolution proclaims the Declaration of the Rights of Man and of the Citizen and replaces the monarchy with a republic in 1792.",
     "relatedPolityIds": [
       "kingdom-of-france"
-    ]
+    ],
+    "source": "Wikipedia: French Revolution (checked 16 Nov 2026)"
   },
   {
     "id": "haitian-revolution",
@@ -3662,10 +3701,11 @@
     "lng": -72.34,
     "type": "war",
     "title": "Haitian Revolution",
-    "description": "Enslaved people in the French colony of Saint-Domingue rise up, leading to the independence of Haiti in 1804, the first state founded after a successful revolt by enslaved people.",
+    "description": "Enslaved Black Africans in the French colony of Saint-Domingue rise up against colonial rule. The revolution ends with Haiti’s independence in 1804, one of the only known slave rebellions to found a state.",
     "relatedPolityIds": [
       "kingdom-of-france"
-    ]
+    ],
+    "source": "Wikipedia: Haitian Revolution (checked 16 Nov 2026)"
   },
   {
     "id": "may-constitution",
@@ -3687,11 +3727,12 @@
     "lng": 117.94,
     "type": "trade",
     "title": "Macartney embassy",
-    "description": "A British embassy reaches the Qianlong emperor at Chengde and asks for wider trade rights. The requests are refused.",
+    "description": "A British embassy meets the Qianlong Emperor and asks for easier trade and other rights. He rejects all the requests.",
     "relatedPolityIds": [
       "qing-china",
       "great-britain"
-    ]
+    ],
+    "source": "Wikipedia: Macartney Embassy (checked 16 Nov 2026)"
   },
   {
     "id": "third-partition-poland",
@@ -3715,10 +3756,11 @@
     "lng": -2.46,
     "type": "invention",
     "title": "First smallpox vaccine",
-    "description": "Edward Jenner tests cowpox inoculation against smallpox, the basis of vaccination.",
+    "description": "Edward Jenner inoculates a boy with cowpox to protect him from smallpox, creating the world’s first vaccine.",
     "relatedPolityIds": [
       "great-britain"
-    ]
+    ],
+    "source": "Wikipedia: Edward Jenner (checked 16 Nov 2026)"
   },
   {
     "id": "ranjit-singh-lahore",
