@@ -198,30 +198,32 @@
   },
   {
     "id": "cuneiform-writing",
-    "year": -3200,
+    "year": -3300,
     "yearApproximate": true,
     "lat": 31.32,
     "lng": 45.64,
     "type": "invention",
     "title": "Cuneiform writing appears",
-    "description": "In Uruk, Sumerian scribes develop cuneiform, one of the earliest known writing systems, first used for accounts and records.",
+    "description": "In Uruk, the first cuneiform tablets appear: one of the earliest known writing systems, used mostly for accounts and records.",
     "relatedPolityIds": [
       "sumer"
-    ]
+    ],
+    "source": "Wikipedia: Cuneiform (checked 16 Nov 2026)"
   },
   {
     "id": "egypt-unification",
-    "year": -3100,
+    "year": -3000,
     "yearApproximate": true,
     "lat": 26.18,
     "lng": 32.73,
     "type": "person",
     "title": "Unification of Egypt",
-    "description": "Upper and Lower Egypt are united under one king, traditionally Narmer (Menes), beginning about 3,000 years of pharaonic rule.",
+    "description": "Upper and Lower Egypt are united under one king, traditionally Menes, now usually identified with Narmer.",
     "relatedPolityIds": [
       "ancient-egypt",
       "naqada"
-    ]
+    ],
+    "source": "Wikipedia: Upper and Lower Egypt (checked 16 Nov 2026)"
   },
   {
     "id": "caral-pyramids",
@@ -239,16 +241,17 @@
   },
   {
     "id": "great-pyramid",
-    "year": -2560,
+    "year": -2600,
     "yearApproximate": true,
     "lat": 29.98,
     "lng": 31.13,
     "type": "culture",
     "title": "Great Pyramid of Giza",
-    "description": "The pyramid of Khufu is completed, the tallest human-made structure in the world for nearly 4,000 years.",
+    "description": "The pyramid of Khufu is built over about 26 years; it remains the tallest human-made structure in the world for more than 3,700 years.",
     "relatedPolityIds": [
       "ancient-egypt"
-    ]
+    ],
+    "source": "Wikipedia: Great Pyramid of Giza (checked 16 Nov 2026)"
   },
   {
     "id": "mohenjo-daro",
@@ -257,11 +260,12 @@
     "lat": 27.33,
     "lng": 68.14,
     "type": "culture",
-    "title": "Mohenjo-daro at its height",
-    "description": "The Indus city of Mohenjo-daro flourishes, with a grid plan, brick houses and advanced drainage.",
+    "title": "Mohenjo-daro is built",
+    "description": "The Indus city of Mohenjo-daro is laid out on a grid plan, with fired-brick buildings and covered street drains, and prospers for several centuries.",
     "relatedPolityIds": [
       "indus-valley"
-    ]
+    ],
+    "source": "Wikipedia: Mohenjo-daro (checked 16 Nov 2026)"
   },
   {
     "id": "stonehenge",
@@ -329,10 +333,11 @@
     "lng": 25.16,
     "type": "culture",
     "title": "Palace of Knossos",
-    "description": "The Minoan palace complex at Knossos on Crete becomes a major centre of trade and art.",
+    "description": "The first palace at Knossos on Crete is built; Knossos becomes a leading centre of the Minoan civilisation.",
     "relatedPolityIds": [
       "minoan"
-    ]
+    ],
+    "source": "Wikipedia: Knossos (checked 16 Nov 2026)"
   },
   {
     "id": "indus-decline",
@@ -350,16 +355,17 @@
   },
   {
     "id": "hammurabi-code",
-    "year": -1754,
+    "year": -1753,
     "yearApproximate": true,
     "lat": 32.54,
     "lng": 44.42,
     "type": "culture",
     "title": "Code of Hammurabi",
-    "description": "King Hammurabi of Babylon issues one of the earliest surviving written law codes, carved on a stone stele.",
+    "description": "King Hammurabi of Babylon issues a law code carved on a basalt stele. Earlier law codes exist, but it becomes one of the best-known legal texts of the ancient world.",
     "relatedPolityIds": [
       "babylonia"
-    ]
+    ],
+    "source": "Wikipedia: Code of Hammurabi (checked 16 Nov 2026)"
   },
   {
     "id": "thera-eruption",
@@ -372,7 +378,8 @@
     "description": "A massive volcanic eruption buries the town of Akrotiri. Its effect on the Minoans is debated.",
     "relatedPolityIds": [
       "minoan"
-    ]
+    ],
+    "source": "Wikipedia: Minoan eruption (checked 16 Nov 2026)"
   },
   {
     "id": "hittite-sack-babylon",
@@ -444,7 +451,8 @@
     "description": "Oracle-bone inscriptions from the Shang capital near Anyang are the earliest surviving Chinese writing.",
     "relatedPolityIds": [
       "shang"
-    ]
+    ],
+    "source": "Wikipedia: Oracle bone script (checked 16 Nov 2026)"
   },
   {
     "id": "olmec-heads",
@@ -455,10 +463,11 @@
     "lng": -94.76,
     "type": "culture",
     "title": "Olmec colossal heads",
-    "description": "The Olmec of San Lorenzo carve giant basalt heads, probably portraits of rulers.",
+    "description": "The Olmec carve giant heads from basalt boulders, probably portraits of rulers; ten are known from San Lorenzo, and others from La Venta and other sites.",
     "relatedPolityIds": [
       "olmec"
-    ]
+    ],
+    "source": "Wikipedia: Olmec colossal heads (checked 16 Nov 2026)"
   },
   {
     "id": "bronze-age-collapse",
@@ -468,10 +477,11 @@
     "lng": 34.5,
     "type": "disaster",
     "title": "Late Bronze Age collapse",
-    "description": "Many eastern Mediterranean states, including the Hittites and Mycenaean Greece, collapse within a few decades amid drought, migration and war.",
+    "description": "In the late 13th and early 12th centuries BCE the Hittite Empire and the Mycenaean palace states collapse. Drought, invasions and other pressures are proposed, and the causes are still debated.",
     "relatedPolityIds": [
       "ancient-egypt"
-    ]
+    ],
+    "source": "Wikipedia: Late Bronze Age collapse (checked 16 Nov 2026)"
   },
   {
     "id": "phoenician-alphabet",
@@ -495,11 +505,13 @@
     "lng": 108.8,
     "type": "war",
     "title": "Zhou conquer the Shang",
-    "description": "The Zhou defeat the Shang at the Battle of Muye and justify it with the Mandate of Heaven.",
+    "description": "The Zhou defeat the Shang at the Battle of Muye. Later Chinese historians made it a classic example of the Mandate of Heaven justifying a change of dynasty.",
     "relatedPolityIds": [
       "zhou",
       "shang"
-    ]
+    ],
+    "yearApproximate": true,
+    "source": "Wikipedia: Battle of Muye (checked 16 Nov 2026)"
   },
   {
     "id": "founding-of-carthage",
@@ -523,10 +535,11 @@
     "lng": 21.63,
     "type": "culture",
     "title": "First recorded Olympic Games",
-    "description": "The traditional date for the first Olympic Games at Olympia.",
+    "description": "The traditional date for the first Olympic Games at Olympia; archaeology suggests major games there began around 700 BCE.",
     "relatedPolityIds": [
       "ancient-greece"
-    ]
+    ],
+    "source": "Wikipedia: Ancient Olympic Games (checked 16 Nov 2026)"
   },
   {
     "id": "founding-of-rome",
@@ -539,7 +552,8 @@
     "description": "The traditional date for Romulus founding Rome. Archaeology shows earlier settlement.",
     "relatedPolityIds": [
       "roman-republic"
-    ]
+    ],
+    "source": "Wikipedia: Founding of Rome (checked 16 Nov 2026)"
   },
   {
     "id": "kush-rules-egypt",
@@ -648,10 +662,11 @@
     "lng": 116.99,
     "type": "person",
     "title": "Confucius",
-    "description": "The philosopher Confucius teaches in the state of Lu. His ideas about ethics, family and government become central to Chinese civilisation.",
+    "description": "The philosopher Confucius, from the state of Lu, teaches ideas about personal and government morality and family duty that shape much of East Asian culture.",
     "relatedPolityIds": [
       "zhou"
-    ]
+    ],
+    "source": "Wikipedia: Confucius (checked 16 Nov 2026)"
   },
   {
     "id": "cyrus-babylon",
@@ -660,10 +675,11 @@
     "lng": 44.42,
     "type": "war",
     "title": "Cyrus the Great takes Babylon",
-    "description": "Cyrus conquers Babylon and allows exiled peoples, including the Judeans, to return home.",
+    "description": "Cyrus conquers the Neo-Babylonian Empire. Jewish tradition honours him for letting the Judean exiles return home, though historians debate the details.",
     "relatedPolityIds": [
       "achaemenid-persia"
-    ]
+    ],
+    "source": "Wikipedia: Cyrus the Great (checked 16 Nov 2026)"
   },
   {
     "id": "roman-republic-founded",
@@ -673,10 +689,11 @@
     "lng": 12.49,
     "type": "person",
     "title": "Roman Republic founded",
-    "description": "Rome expels its last king and establishes a republic governed by elected magistrates and the Senate.",
+    "description": "According to tradition, Rome overthrows its last king and becomes a republic governed by elected magistrates and the Senate.",
     "relatedPolityIds": [
       "roman-republic"
-    ]
+    ],
+    "source": "Wikipedia: Roman Republic (checked 16 Nov 2026)"
   },
   {
     "id": "athenian-democracy",
@@ -686,10 +703,11 @@
     "lng": 23.72,
     "type": "culture",
     "title": "Athenian democracy",
-    "description": "Cleisthenes’ reforms create a democracy for Athens’ male citizens.",
+    "description": "Cleisthenes’ reforms break the power of the noble families and lay the foundations of Athenian democracy, open to free adult male citizens.",
     "relatedPolityIds": [
       "ancient-greece"
-    ]
+    ],
+    "source": "Wikipedia: Athenian democracy (checked 16 Nov 2026)"
   },
   {
     "id": "battle-of-marathon",
@@ -702,7 +720,8 @@
     "relatedPolityIds": [
       "ancient-greece",
       "achaemenid-persia"
-    ]
+    ],
+    "source": "Wikipedia: Battle of Marathon (checked 16 Nov 2026)"
   },
   {
     "id": "the-buddha",
@@ -743,7 +762,8 @@
     "relatedPolityIds": [
       "zhou",
       "qin"
-    ]
+    ],
+    "source": "Wikipedia: Warring States period (checked 16 Nov 2026)"
   },
   {
     "id": "peloponnesian-war",
@@ -761,17 +781,18 @@
   },
   {
     "id": "alexander-conquests",
-    "year": -334,
+    "year": -336,
     "endYear": -323,
     "lat": 32.54,
     "lng": 44.42,
     "type": "war",
     "title": "Conquests of Alexander the Great",
-    "description": "Alexander of Macedon defeats the Achaemenid Empire and reaches India. He dies in Babylon in 323 BCE.",
+    "description": "Alexander of Macedon conquers the Achaemenid Empire and campaigns as far as the Indus Valley, until his early death in 323 BCE.",
     "relatedPolityIds": [
       "macedonian-empire",
       "achaemenid-persia"
-    ]
+    ],
+    "source": "Wikipedia: Wars of Alexander the Great (checked 16 Nov 2026)"
   },
   {
     "id": "battle-of-ipsus",
@@ -821,11 +842,12 @@
     "lat": 20.3,
     "lng": 85.83,
     "type": "war",
-    "title": "Kalinga War and Ashoka’s conversion",
-    "description": "Horrified by the bloodshed of the Kalinga war, Emperor Ashoka embraces Buddhism and spreads its ideas in edicts across India.",
+    "title": "Kalinga War changes Ashoka",
+    "description": "Shocked by the bloodshed of the Kalinga War, Emperor Ashoka, already a Buddhist, turns to non-violence and “conquest by dharma”, recorded in his edicts.",
     "relatedPolityIds": [
       "maurya"
-    ]
+    ],
+    "source": "Wikipedia: Kalinga War (checked 16 Nov 2026)"
   },
   {
     "id": "parthian-empire-founded",
@@ -848,11 +870,12 @@
     "lng": 108.71,
     "type": "person",
     "title": "Qin unifies China",
-    "description": "Qin Shi Huang becomes China’s first emperor, standardising writing, money and measures.",
+    "description": "Qin Shi Huang becomes China’s first emperor; the Qin standardise writing, currency, weights and measures.",
     "relatedPolityIds": [
       "qin",
       "zhou"
-    ]
+    ],
+    "source": "Wikipedia: Qin dynasty (checked 16 Nov 2026)"
   },
   {
     "id": "hannibal-crosses-alps",
@@ -876,10 +899,11 @@
     "lng": 109.27,
     "type": "culture",
     "title": "Terracotta Army",
-    "description": "Qin Shi Huang is buried with an army of thousands of life-sized terracotta soldiers near Xi’an.",
+    "description": "Qin Shi Huang is buried with more than 8,000 life-sized terracotta soldiers near Xi’an.",
     "relatedPolityIds": [
       "qin"
-    ]
+    ],
+    "source": "Wikipedia: Terracotta Army (checked 16 Nov 2026)"
   },
   {
     "id": "modu-chanyu",
@@ -901,11 +925,12 @@
     "lng": 108.94,
     "type": "person",
     "title": "Han dynasty founded",
-    "description": "Liu Bang (Emperor Gaozu) wins the civil war after the Qin collapse and founds the Han dynasty.",
+    "description": "Liu Bang (Emperor Gaozu) wins the war that follows the fall of the Qin and founds the Han dynasty.",
     "relatedPolityIds": [
       "han-china",
       "qin"
-    ]
+    ],
+    "source": "Wikipedia: Han dynasty (checked 16 Nov 2026)"
   },
   {
     "id": "battle-of-baideng",
@@ -941,11 +966,12 @@
     "lng": 10.32,
     "type": "war",
     "title": "Destruction of Carthage and Corinth",
-    "description": "Rome destroys Carthage and Corinth, becoming the dominant Mediterranean power.",
+    "description": "Rome destroys Carthage at the end of the Third Punic War and destroys Corinth, beginning Roman domination of Greece.",
     "relatedPolityIds": [
       "roman-republic",
       "ancient-greece"
-    ]
+    ],
+    "source": "Wikipedia: Third Punic War; Battle of Corinth (146 BC) (checked 16 Nov 2026)"
   },
   {
     "id": "zhang-qian",
@@ -955,10 +981,11 @@
     "lng": 75.98,
     "type": "trade",
     "title": "Zhang Qian opens the Silk Road",
-    "description": "Han envoy Zhang Qian travels to Central Asia. His missions open the trade routes later called the Silk Road.",
+    "description": "Han envoy Zhang Qian travels to Central Asia. His journeys help create the Silk Road trade routes.",
     "relatedPolityIds": [
       "han-china"
-    ]
+    ],
+    "source": "Wikipedia: Zhang Qian (checked 16 Nov 2026)"
   },
   {
     "id": "battle-of-carrhae",
@@ -981,10 +1008,11 @@
     "lng": 12.48,
     "type": "person",
     "title": "Assassination of Julius Caesar",
-    "description": "Caesar is killed by senators. The civil wars that follow end the Republic.",
+    "description": "Caesar is killed by a group of senators. The civil wars that follow are a stage in the collapse of the Republic and the rise of Augustus.",
     "relatedPolityIds": [
       "roman-republic"
-    ]
+    ],
+    "source": "Wikipedia: Assassination of Julius Caesar (checked 16 Nov 2026)"
   },
   {
     "id": "battle-of-actium",
@@ -1007,11 +1035,12 @@
     "lng": 12.49,
     "type": "person",
     "title": "Augustus becomes first emperor",
-    "description": "Octavian takes the title Augustus, beginning the Roman Empire and two centuries of Pax Romana.",
+    "description": "The Senate grants Octavian the title Augustus. He becomes the first Roman emperor, beginning an era of imperial peace, the Pax Romana.",
     "relatedPolityIds": [
       "roman-empire",
       "roman-republic"
-    ]
+    ],
+    "source": "Wikipedia: Augustus (checked 16 Nov 2026)"
   },
   {
     "id": "jesus-of-nazareth",
@@ -1048,10 +1077,11 @@
     "lng": 112.45,
     "type": "invention",
     "title": "Papermaking refined by Cai Lun",
-    "description": "The Han court official Cai Lun presents an improved method of making paper.",
+    "description": "Han court official Cai Lun greatly improves papermaking with tree bark and hemp. Paper itself was already centuries old.",
     "relatedPolityIds": [
       "han-china"
-    ]
+    ],
+    "source": "Wikipedia: Cai Lun (checked 16 Nov 2026)"
   },
   {
     "id": "trajan-extent",
@@ -1060,10 +1090,11 @@
     "lng": 26.1,
     "type": "war",
     "title": "Roman Empire at its greatest extent",
-    "description": "Under Trajan, the empire reaches its largest size, from Britain to Mesopotamia.",
+    "description": "Under Trajan, who adds Armenia, Mesopotamia and Assyria as provinces, the Roman Empire reaches its greatest extent.",
     "relatedPolityIds": [
       "roman-empire"
-    ]
+    ],
+    "source": "Wikipedia: Trajan (checked 16 Nov 2026)"
   },
   {
     "id": "kanishka",
@@ -1090,7 +1121,8 @@
     "description": "An epidemic, possibly smallpox, sweeps the Roman Empire, killing millions.",
     "relatedPolityIds": [
       "roman-empire"
-    ]
+    ],
+    "source": "Wikipedia: Antonine Plague (checked 16 Nov 2026)"
   },
   {
     "id": "yellow-turbans",
@@ -1099,10 +1131,11 @@
     "lng": 115.0,
     "type": "war",
     "title": "Yellow Turban Rebellion",
-    "description": "A massive peasant uprising shakes the Han dynasty. Generals who suppress it become warlords.",
+    "description": "A huge peasant revolt weakens the Han court. The regional military governors who help suppress it grow powerful and later dominate as warlords.",
     "relatedPolityIds": [
       "han-china"
-    ]
+    ],
+    "source": "Wikipedia: Yellow Turban Rebellion (checked 16 Nov 2026)"
   },
   {
     "id": "battle-of-red-cliffs",
@@ -1125,10 +1158,11 @@
     "lng": 112.45,
     "type": "war",
     "title": "End of the Han",
-    "description": "The last Han emperor abdicates, and China splits into the Three Kingdoms and nearly four centuries of division.",
+    "description": "Emperor Xian, the last Han ruler, is pressured to abdicate, and the Three Kingdoms era begins.",
     "relatedPolityIds": [
       "han-china"
-    ]
+    ],
+    "source": "Wikipedia: End of the Han dynasty (checked 16 Nov 2026)"
   },
   {
     "id": "battle-of-hormozdgan",
@@ -1152,10 +1186,11 @@
     "lng": -89.62,
     "type": "culture",
     "title": "Classic Maya period begins",
-    "description": "Maya city-states such as Tikal flourish, with monumental temples, writing and astronomy.",
+    "description": "The Classic period begins, marked by sculpted monuments with Long Count dates; city-states such as Tikal and Calakmul grow powerful.",
     "relatedPolityIds": [
       "maya"
-    ]
+    ],
+    "source": "Wikipedia: Maya civilization (checked 16 Nov 2026)"
   },
   {
     "id": "lord-of-sipan",
@@ -1205,10 +1240,11 @@
     "lng": 9.19,
     "type": "culture",
     "title": "Edict of Milan",
-    "description": "Emperor Constantine legalises Christianity in the Roman Empire.",
+    "description": "Constantine and Licinius agree at Milan to tolerate Christians and give Christianity legal status.",
     "relatedPolityIds": [
       "roman-empire"
-    ]
+    ],
+    "source": "Wikipedia: Edict of Milan (checked 16 Nov 2026)"
   },
   {
     "id": "constantinople-founded",
@@ -1217,11 +1253,12 @@
     "lng": 28.98,
     "type": "person",
     "title": "Constantinople founded",
-    "description": "Constantine makes Byzantium his new capital, Constantinople.",
+    "description": "Constantine makes Byzantium the new eastern capital of the Roman Empire, first called New Rome, then Constantinople.",
     "relatedPolityIds": [
       "roman-empire",
       "byzantine-empire"
-    ]
+    ],
+    "source": "Wikipedia: Constantinople (checked 16 Nov 2026)"
   },
   {
     "id": "aksum-christianity",
@@ -1328,10 +1365,11 @@
     "lng": 12.2,
     "type": "war",
     "title": "Fall of the Western Roman Empire",
-    "description": "Odoacer deposes the last western emperor, Romulus Augustulus, at Ravenna.",
+    "description": "Odoacer deposes Romulus Augustulus, the last Western Roman emperor in Italy.",
     "relatedPolityIds": [
       "roman-empire"
-    ]
+    ],
+    "source": "Wikipedia: Fall of the Western Roman Empire (checked 16 Nov 2026)"
   },
   {
     "id": "gupta-mathematics",
@@ -1341,10 +1379,11 @@
     "lng": 85.14,
     "type": "invention",
     "title": "Aryabhata’s mathematics",
-    "description": "Aryabhata writes the Aryabhatiya, a landmark work using place-value numbers.",
+    "description": "Aryabhata writes the Aryabhatiya, influential for centuries; its numbers already use a place-value system, though without a symbol for zero.",
     "relatedPolityIds": [
       "gupta"
-    ]
+    ],
+    "source": "Wikipedia: Aryabhata (checked 16 Nov 2026)"
   },
   {
     "id": "extreme-weather-536",
