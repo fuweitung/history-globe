@@ -1409,7 +1409,8 @@
     "description": "Justinian’s great domed church in Constantinople is completed.",
     "relatedPolityIds": [
       "byzantine-empire"
-    ]
+    ],
+    "source": "Wikipedia: Hagia Sophia (checked 16 Nov 2026)"
   },
   {
     "id": "plague-of-justinian",
@@ -1419,11 +1420,12 @@
     "lng": 28.98,
     "type": "disaster",
     "title": "Plague of Justinian",
-    "description": "The first recorded bubonic plague pandemic strikes the Byzantine Empire and the Mediterranean world.",
+    "description": "The first wave of the First Plague Pandemic, bubonic plague, strikes the Byzantine and Sasanian empires and the Mediterranean world.",
     "relatedPolityIds": [
       "byzantine-empire",
       "sasanian"
-    ]
+    ],
+    "source": "Wikipedia: Plague of Justinian (checked 16 Nov 2026)"
   },
   {
     "id": "teotihuacan-burned",
@@ -1459,10 +1461,11 @@
     "lng": 108.94,
     "type": "war",
     "title": "Sui reunify China",
-    "description": "The Sui dynasty ends nearly four centuries of division.",
+    "description": "Sui troops conquer the Chen and reunify China, ending the era of the Northern and Southern dynasties.",
     "relatedPolityIds": [
       "sui"
-    ]
+    ],
+    "source": "Wikipedia: Sui dynasty (checked 16 Nov 2026)"
   },
   {
     "id": "wari-expansion",
@@ -1485,11 +1488,12 @@
     "lat": 32.39,
     "lng": 119.41,
     "type": "trade",
-    "title": "Grand Canal built",
-    "description": "The Sui build the Grand Canal linking the Yellow River and the Yangtze.",
+    "title": "Grand Canal completed",
+    "description": "Emperor Yang of Sui expands and completes the Grand Canal, joining older canal sections. The forced labour it needs helps bring down the Sui.",
     "relatedPolityIds": [
       "sui"
-    ]
+    ],
+    "source": "Wikipedia: Grand Canal (China) (checked 16 Nov 2026)"
   },
   {
     "id": "tang-founded",
@@ -1498,11 +1502,12 @@
     "lng": 108.94,
     "type": "person",
     "title": "Tang dynasty founded",
-    "description": "Li Yuan founds the Tang, which makes Chang’an one of the greatest cities in the world.",
+    "description": "Li Yuan ends the Sui and founds the Tang dynasty, with its capital at Chang’an.",
     "relatedPolityIds": [
       "tang",
       "sui"
-    ]
+    ],
+    "source": "Wikipedia: Tang dynasty; Sui dynasty (checked 16 Nov 2026)"
   },
   {
     "id": "songtsen-gampo",
@@ -1525,10 +1530,11 @@
     "lng": 39.61,
     "type": "culture",
     "title": "The Hijra",
-    "description": "The Prophet Muhammad migrates from Mecca to Medina, the start of the Islamic calendar.",
+    "description": "The Prophet Muhammad migrates from Mecca to Medina. The year later becomes the first year of the Islamic calendar.",
     "relatedPolityIds": [
       "umayyad-caliphate"
-    ]
+    ],
+    "source": "Wikipedia: Hijrah (checked 16 Nov 2026)"
   },
   {
     "id": "rashidun-begins",
@@ -1565,10 +1571,11 @@
     "lng": 59.6,
     "type": "war",
     "title": "Fall of the Sasanian Empire",
-    "description": "Arab Muslim armies complete the conquest of Persia.",
+    "description": "The armies of the Rashidun Caliphate complete the conquest of Persia, ending the Sasanian Empire.",
     "relatedPolityIds": [
       "sasanian"
-    ]
+    ],
+    "source": "Wikipedia: Muslim conquest of Persia (checked 16 Nov 2026)"
   },
   {
     "id": "umayyad-founded",
@@ -1585,15 +1592,16 @@
   },
   {
     "id": "srivijaya-inscription",
-    "year": 682,
+    "year": 683,
     "lat": -2.99,
     "lng": 104.75,
     "type": "culture",
     "title": "Kedukan Bukit inscription",
-    "description": "The Kedukan Bukit inscription (dated 682/683) is the earliest dated inscription of Srivijaya and one of the oldest surviving Malay texts.",
+    "description": "The Kedukan Bukit inscription, dated 1 May 683, is the oldest surviving example of the Malay language.",
     "relatedPolityIds": [
       "srivijaya"
-    ]
+    ],
+    "source": "Wikipedia: Kedukan Bukit inscription (checked 16 Nov 2026)"
   },
   {
     "id": "conquest-of-hispania",
@@ -1673,11 +1681,12 @@
     "lng": 72.24,
     "type": "war",
     "title": "Battle of Talas",
-    "description": "Abbasid forces defeat a Tang army in Central Asia, limiting Tang expansion westward.",
+    "description": "An Abbasid army, with Tibetan allies and Karluk fighters, defeats a Tang army near the Talas River, halting Tang expansion westward.",
     "relatedPolityIds": [
       "abbasid-caliphate",
       "tang"
-    ]
+    ],
+    "source": "Wikipedia: Battle of Talas (checked 16 Nov 2026)"
   },
   {
     "id": "an-lushan",
@@ -1687,10 +1696,11 @@
     "lng": 108.94,
     "type": "war",
     "title": "An Lushan Rebellion",
-    "description": "A devastating rebellion weakens the Tang dynasty.",
+    "description": "A rebellion against the Tang causes great loss of life and destruction and is a direct cause of the dynasty’s decline.",
     "relatedPolityIds": [
       "tang"
-    ]
+    ],
+    "source": "Wikipedia: An Lushan rebellion (checked 16 Nov 2026)"
   },
   {
     "id": "tibet-takes-changan",
@@ -1729,7 +1739,8 @@
     "description": "Pope Leo III crowns Charlemagne Emperor of the Romans in Rome.",
     "relatedPolityIds": [
       "carolingian-empire"
-    ]
+    ],
+    "source": "Wikipedia: Charlemagne (checked 16 Nov 2026)"
   },
   {
     "id": "borobudur",
@@ -1741,7 +1752,8 @@
     "type": "culture",
     "title": "Borobudur built",
     "description": "The great Buddhist monument of Borobudur is built in central Java under the Sailendra dynasty.",
-    "relatedPolityIds": []
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Borobudur (checked 16 Nov 2026)"
   },
   {
     "id": "khmer-founded",
@@ -1750,10 +1762,11 @@
     "lng": 103.87,
     "type": "person",
     "title": "Khmer Empire founded",
-    "description": "Jayavarman II declares himself universal monarch, founding the Khmer Empire.",
+    "description": "In a consecration ritual on Mount Mahendraparvata, Jayavarman II is proclaimed universal monarch and founds the Khmer Empire.",
     "relatedPolityIds": [
       "khmer-empire"
-    ]
+    ],
+    "source": "Wikipedia: Jayavarman II (checked 16 Nov 2026)"
   },
   {
     "id": "house-of-wisdom",
@@ -1763,10 +1776,11 @@
     "lng": 44.36,
     "type": "invention",
     "title": "House of Wisdom in Baghdad",
-    "description": "Scholars in Abbasid Baghdad translate and extend Greek, Persian and Indian science, including al-Khwarizmi’s algebra.",
+    "description": "Under Caliph al-Ma’mun the House of Wisdom in Baghdad becomes a public academy and library, where Greek, Persian and Indian works are translated into Arabic.",
     "relatedPolityIds": [
       "abbasid-caliphate"
-    ]
+    ],
+    "source": "Wikipedia: House of Wisdom (checked 16 Nov 2026)"
   },
   {
     "id": "fall-of-uyghur-khaganate",
@@ -1925,11 +1939,12 @@
     "lat": 41.9,
     "lng": 12.45,
     "type": "person",
-    "title": "Holy Roman Empire founded",
-    "description": "Otto I is crowned emperor in Rome.",
+    "title": "Otto I crowned emperor",
+    "description": "Pope John XII crowns Otto I emperor in Rome; he is counted as Holy Roman Emperor from 962.",
     "relatedPolityIds": [
       "holy-roman-empire"
-    ]
+    ],
+    "source": "Wikipedia: Otto the Great (checked 16 Nov 2026)"
   },
   {
     "id": "cairo-founded",
@@ -2023,11 +2038,12 @@
     "lat": 30.66,
     "lng": 104.07,
     "type": "invention",
-    "title": "First government paper money",
-    "description": "The Song government begins issuing jiaozi paper money in Sichuan.",
+    "title": "Song government paper money",
+    "description": "Merchants in Sichuan first issued jiaozi notes; in 1024 the Song government issues its first standard paper notes.",
     "relatedPolityIds": [
       "song"
-    ]
+    ],
+    "source": "Wikipedia: Jiaozi (currency) (checked 16 Nov 2026)"
   },
   {
     "id": "chola-raid",
@@ -2036,10 +2052,11 @@
     "lng": 104.75,
     "type": "war",
     "title": "Chola raid on Srivijaya",
-    "description": "The Chola Empire of South India raids Srivijaya’s ports, weakening its control of the straits.",
+    "description": "Chola Emperor Rajendra I launches naval raids on Srivijaya, sacking its capital Palembang and greatly weakening it.",
     "relatedPolityIds": [
       "srivijaya"
-    ]
+    ],
+    "source": "Wikipedia: Chola invasion of Srivijaya (checked 16 Nov 2026)"
   },
   {
     "id": "somnath-raid",
@@ -2065,7 +2082,8 @@
     "description": "Bi Sheng invents movable type made of fired clay.",
     "relatedPolityIds": [
       "song"
-    ]
+    ],
+    "source": "Wikipedia: Movable type (checked 16 Nov 2026)"
   },
   {
     "id": "battle-of-dandanaqan",
@@ -2105,7 +2123,8 @@
     "description": "The Christian churches of Rome and Constantinople formally split.",
     "relatedPolityIds": [
       "byzantine-empire"
-    ]
+    ],
+    "source": "Wikipedia: East–West Schism (checked 16 Nov 2026)"
   },
   {
     "id": "norman-conquest",
@@ -2172,7 +2191,8 @@
     "description": "Western European crusaders capture Jerusalem.",
     "relatedPolityIds": [
       "byzantine-empire"
-    ]
+    ],
+    "source": "Wikipedia: First Crusade (checked 16 Nov 2026)"
   },
   {
     "id": "crusaders-take-jerusalem",
@@ -2197,10 +2217,11 @@
     "lng": 103.87,
     "type": "culture",
     "title": "Angkor Wat built",
-    "description": "Suryavarman II builds Angkor Wat, the largest religious monument in the world.",
+    "description": "Khmer king Suryavarman II has Angkor Wat built, the largest religious complex in the world.",
     "relatedPolityIds": [
       "khmer-empire"
-    ]
+    ],
+    "source": "Wikipedia: Angkor Wat (checked 16 Nov 2026)"
   },
   {
     "id": "jingkang-incident",
@@ -2281,11 +2302,12 @@
     "lng": 106.92,
     "type": "person",
     "title": "Genghis Khan unites the Mongols",
-    "description": "Temujin is proclaimed Genghis Khan, founding the Mongol Empire.",
+    "description": "At an assembly, Temujin formally takes the title Genghis Khan and becomes the first khan of the Mongol Empire.",
     "relatedPolityIds": [
       "mongol-empire",
       "mongol-tribes"
-    ]
+    ],
+    "source": "Wikipedia: Genghis Khan (checked 16 Nov 2026)"
   },
   {
     "id": "delhi-sultanate-founded",
@@ -2322,10 +2344,11 @@
     "lng": -0.56,
     "type": "culture",
     "title": "Magna Carta",
-    "description": "English barons force King John to accept limits on royal power.",
+    "description": "King John and rebel barons agree Magna Carta, an English charter of freedoms first made as a peace treaty.",
     "relatedPolityIds": [
       "kingdom-of-england"
-    ]
+    ],
+    "source": "Wikipedia: Magna Carta (checked 16 Nov 2026)"
   },
   {
     "id": "fall-of-caizhou",
@@ -2404,11 +2427,12 @@
     "lng": 44.36,
     "type": "war",
     "title": "Mongols sack Baghdad",
-    "description": "A Mongol army destroys Baghdad, ending the Abbasid Caliphate there.",
+    "description": "Hulegu’s Mongol army captures and sacks Baghdad, ending the Abbasid Caliphate there.",
     "relatedPolityIds": [
       "mongol-empire",
       "abbasid-caliphate"
-    ]
+    ],
+    "source": "Wikipedia: Siege of Baghdad (checked 16 Nov 2026)"
   },
   {
     "id": "maragheh-observatory",
@@ -2445,12 +2469,13 @@
     "lng": 116.39,
     "type": "person",
     "title": "Kublai Khan founds the Yuan",
-    "description": "Kublai Khan proclaims the Yuan dynasty, which conquers the Song by 1279.",
+    "description": "Kublai Khan proclaims the dynastic name Great Yuan; the Yuan complete the conquest of the Southern Song in 1279.",
     "relatedPolityIds": [
       "yuan",
       "mongol-empire",
       "song"
-    ]
+    ],
+    "source": "Wikipedia: Yuan dynasty (checked 16 Nov 2026)"
   },
   {
     "id": "marco-polo",
@@ -2530,12 +2555,13 @@
     "lng": 112.38,
     "type": "person",
     "title": "Majapahit founded",
-    "description": "Raden Wijaya founds Majapahit in East Java after a failed Mongol invasion.",
+    "description": "After the Mongol invasion of Java, Raden Wijaya founds Majapahit and is crowned its first king in 1293.",
     "relatedPolityIds": [
       "majapahit",
       "yuan",
       "east-java-kingdoms"
-    ]
+    ],
+    "source": "Wikipedia: Majapahit (checked 16 Nov 2026)"
   },
   {
     "id": "ghazan-converts",
@@ -2585,10 +2611,11 @@
     "lng": -3.01,
     "type": "trade",
     "title": "Mansa Musa’s pilgrimage",
-    "description": "The ruler of Mali travels to Mecca with so much gold that he affects prices in Cairo.",
+    "description": "The ruler of Mali makes the pilgrimage to Mecca. His lavish gifts on the way are said to have lowered the value of gold in Egypt.",
     "relatedPolityIds": [
       "mali-empire"
-    ]
+    ],
+    "source": "Wikipedia: Mansa Musa (checked 16 Nov 2026)"
   },
   {
     "id": "tenochtitlan-founded",
@@ -2598,10 +2625,11 @@
     "lng": -99.13,
     "type": "person",
     "title": "Tenochtitlan founded",
-    "description": "The Mexica found their island city in Lake Texcoco.",
+    "description": "The Mexica city of Tenochtitlan is founded on an island in Lake Texcoco. The exact date is unclear; 1325 is the traditional one.",
     "relatedPolityIds": [
       "aztec-empire"
-    ]
+    ],
+    "source": "Wikipedia: Tenochtitlan (checked 16 Nov 2026)"
   },
   {
     "id": "gajah-mada",
@@ -2612,10 +2640,11 @@
     "lng": 112.38,
     "type": "person",
     "title": "Gajah Mada’s Palapa Oath",
-    "description": "Majapahit’s chief minister vows to unite the archipelago.",
+    "description": "According to legend, Majapahit’s chief minister Gajah Mada swears the Palapa Oath: not to rest until he has achieved unification.",
     "relatedPolityIds": [
       "majapahit"
-    ]
+    ],
+    "source": "Wikipedia: Gajah Mada; Majapahit (checked 16 Nov 2026)"
   },
   {
     "id": "vijayanagara-founded",
@@ -2660,18 +2689,19 @@
   },
   {
     "id": "black-death",
-    "year": 1347,
-    "endYear": 1351,
+    "year": 1346,
+    "endYear": 1353,
     "lat": 43.3,
     "lng": 5.37,
     "type": "disaster",
     "title": "Black Death",
-    "description": "Plague kills perhaps a third to half of Europe’s population, and many people in the Middle East and North Africa.",
+    "description": "A plague pandemic kills around 30% to 60% of Europe’s population and about a third of the Middle East’s.",
     "relatedPolityIds": [
       "byzantine-empire",
       "holy-roman-empire",
       "kingdom-of-england"
-    ]
+    ],
+    "source": "Wikipedia: Black Death (checked 16 Nov 2026)"
   },
   {
     "id": "ayutthaya-founded",
@@ -2778,11 +2808,12 @@
     "lng": 39.3,
     "type": "trade",
     "title": "Zheng He’s voyages",
-    "description": "Ming admiral Zheng He leads great treasure fleets to Southeast Asia, India, Arabia and the Swahili coast of East Africa. He visited Melaka six times from 1407.",
+    "description": "Ming admiral Zheng He commands seven treasure voyages across the Indian Ocean, reaching as far as the Swahili coast of Africa.",
     "relatedPolityIds": [
       "ming-china",
       "melaka-sultanate"
-    ]
+    ],
+    "source": "Wikipedia: Zheng He (checked 16 Nov 2026)"
   },
   {
     "id": "forbidden-city",
@@ -2794,7 +2825,8 @@
     "description": "The Ming imperial palace in Beijing is completed (built 1406–1420).",
     "relatedPolityIds": [
       "ming-china"
-    ]
+    ],
+    "source": "Wikipedia: Forbidden City (checked 16 Nov 2026)"
   },
   {
     "id": "ulugh-beg-observatory",
@@ -2832,12 +2864,13 @@
     "lng": 103.87,
     "type": "war",
     "title": "Fall of Angkor",
-    "description": "Ayutthaya sacks Angkor, and the Khmer court moves south.",
+    "description": "Ayutthaya sacks Angkor, and its population moves south towards Longvek.",
     "relatedPolityIds": [
       "khmer-empire",
       "ayutthaya-kingdom",
       "post-angkor-cambodia"
-    ]
+    ],
+    "source": "Wikipedia: Angkor (checked 16 Nov 2026)"
   },
   {
     "id": "hangul",
@@ -2861,23 +2894,25 @@
     "lng": -72.55,
     "type": "culture",
     "title": "Machu Picchu built",
-    "description": "The Inca build the estate of Machu Picchu high in the Andes.",
+    "description": "The Inca build Machu Picchu high in the Andes, probably as an estate for the emperor Pachacuti.",
     "relatedPolityIds": [
       "inca-empire"
-    ]
+    ],
+    "source": "Wikipedia: Machu Picchu (checked 16 Nov 2026)"
   },
   {
     "id": "gutenberg",
-    "year": 1450,
+    "year": 1440,
     "yearApproximate": true,
     "lat": 49.99,
     "lng": 8.27,
     "type": "invention",
     "title": "Gutenberg’s printing press",
-    "description": "Johannes Gutenberg develops movable-type printing in Mainz.",
+    "description": "Johannes Gutenberg, a German goldsmith, invents his printing press by combining existing technologies; movable type itself was first made in China.",
     "relatedPolityIds": [
       "holy-roman-empire"
-    ]
+    ],
+    "source": "Wikipedia: Printing press (checked 16 Nov 2026)"
   },
   {
     "id": "fall-of-constantinople",
@@ -2890,7 +2925,8 @@
     "relatedPolityIds": [
       "byzantine-empire",
       "ottoman-empire"
-    ]
+    ],
+    "source": "Wikipedia: Fall of Constantinople (checked 16 Nov 2026)"
   },
   {
     "id": "inca-conquer-chimu",
@@ -2941,12 +2977,13 @@
     "lng": -74.5,
     "type": "trade",
     "title": "Columbus reaches the Americas",
-    "description": "Columbus’s voyage begins sustained contact between Europe and the Americas.",
+    "description": "Columbus’s voyages lead Europeans to learn about the Americas and begin transatlantic trade. Norse settlers had reached North America centuries earlier.",
     "relatedPolityIds": [
       "spanish-empire",
       "taino-caribbean",
       "kingdom-of-castile"
-    ]
+    ],
+    "source": "Wikipedia: Voyages of Christopher Columbus (checked 16 Nov 2026)"
   },
   {
     "id": "da-gama-india",
