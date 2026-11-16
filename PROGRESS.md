@@ -2,7 +2,7 @@
 
 How complete History Globe is. **The numbers are calculated by `npm run progress`**; run it after a change and commit the new file. Only the Roadmap section below is edited by hand.
 
-_Last updated: 2026-11-15_
+_Last updated: 2026-11-16_
 
 <!-- roadmap:start -->
 ## Roadmap
