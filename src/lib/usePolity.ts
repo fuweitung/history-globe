@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import type { FullPolity } from '../types';
-import { getLoadedPolity, imagesLoaded, loadImages, loadPolity } from './data';
+import { eventDetailsLoaded, getLoadedPolity, imagesLoaded, loadEventDetails, loadImages, loadPeopleDetails, loadPolity, peopleDetailsLoaded } from './data';
 
 /** The full civilisation for `id`, loading it if needed. `polity` is null while loading. */
 export function usePolity(id: string | null): { polity: FullPolity | null; error: Error | null; retry: () => void } {
@@ -45,3 +45,24 @@ export function useImages(): boolean {
   }, [ready]);
   return ready;
 }
+
+/** True once `isLoaded()`; calls `load()` on first use and re-renders when it finishes. */
+function useLoaded(isLoaded: () => boolean, load: () => Promise<unknown>): boolean {
+  const [ready, setReady] = useState(isLoaded);
+  useEffect(() => {
+    if (ready) return;
+    let cancelled = false;
+    load()
+      .then(() => !cancelled && setReady(true))
+      .catch(() => {}); // the panel shows "couldn't load" text instead
+    return () => {
+      cancelled = true;
+    };
+  }, [ready, load]);
+  return ready;
+}
+
+/** Event descriptions and sources (one shared file, loaded on first use). */
+export const useEventDetails = () => useLoaded(eventDetailsLoaded, loadEventDetails);
+/** People's descriptions, Wikipedia titles, sources and pictures (loaded on first use). */
+export const usePeopleDetails = () => useLoaded(peopleDetailsLoaded, loadPeopleDetails);

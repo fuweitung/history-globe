@@ -1,4 +1,4 @@
-import { EVENTS, PEOPLE, PERSON_ROLES, POLITIES, POLITY_BY_ID, ROUTES, ROUTE_KINDS, formatSpan, formatYear, loadAllPolities } from './data';
+import { EVENTS, PEOPLE, PERSON_ROLES, POLITIES, POLITY_BY_ID, ROUTES, ROUTE_KINDS, eventDetails, formatSpan, formatYear, getLoadedPolity, loadAllPolities, loadEventDetails, loadPeopleDetails, personDetails } from './data';
 import type { KnownForKind } from '../types';
 import { CHECKLIST_SCHEMA } from './checklistSchema';
 
@@ -34,13 +34,14 @@ function buildIndex(): Doc[] {
     docs.push({
       hit: { kind: 'polity', id: p.id, title: p.name, sub: `${formatSpan(p)} · ${p.region}` },
       title: norm(p.name),
-      body: norm([p.region, p.capital, p.summary ?? '', ...(p.knownFor ?? []).map((k) => k.label)].join(' ')),
+      // Long texts (summary, known-for notes, descriptions) are included once loaded; see loadFactIndex.
+      body: norm([p.region, p.capital, getLoadedPolity(p.id)?.summary ?? '', ...(p.knownFor ?? []).map((k) => k.label)].join(' ')),
     });
     for (const k of p.knownFor ?? []) {
       docs.push({
         hit: { kind: 'known', polityId: p.id, kfKind: k.kind, title: k.label, sub: p.name, year: k.year },
         title: norm(k.label),
-        body: norm(`${k.note ?? ''} ${p.name}`),
+        body: norm(`${getLoadedPolity(p.id)?.knownFor?.find((x) => x.label === k.label)?.note ?? ''} ${p.name}`),
       });
     }
   }
@@ -49,14 +50,14 @@ function buildIndex(): Doc[] {
     docs.push({
       hit: { kind: 'event', id: e.id, title: e.title, sub: formatYear(e.year, e.yearApproximate), year: e.year },
       title: norm(e.title),
-      body: norm(`${e.description} ${names}`),
+      body: norm(`${eventDetails(e.id)?.description ?? ''} ${names}`),
     });
   }
   for (const p of PEOPLE) {
     docs.push({
       hit: { kind: 'person', id: p.id, title: p.name, sub: `${PERSON_ROLES[p.role].label} · ${formatYear(p.born)} – ${formatYear(p.died)}`, year: p.born },
       title: norm(p.name),
-      body: norm(`${p.description} ${PERSON_ROLES[p.role].label} ${p.polityIds.map((id) => POLITY_BY_ID.get(id)?.name ?? '').join(' ')}`),
+      body: norm(`${personDetails(p.id)?.description ?? ''} ${PERSON_ROLES[p.role].label} ${p.polityIds.map((id) => POLITY_BY_ID.get(id)?.name ?? '').join(' ')}`),
     });
   }
   for (const r of ROUTES) {
@@ -74,9 +75,10 @@ function buildIndex(): Doc[] {
 let FACTS: Doc[] | null = null;
 let factsPromise: Promise<void> | null = null;
 
-/** Loads all checklists and indexes their answers (once). */
+/** Loads all checklists and long texts, indexes checklist answers and refreshes the main index (once). */
 export function loadFactIndex(): Promise<void> {
-  factsPromise ??= loadAllPolities().then((all) => {
+  factsPromise ??= Promise.all([loadAllPolities(), loadEventDetails(), loadPeopleDetails()]).then(([all]) => {
+    INDEX = null; // rebuild the main index with the long texts that have now loaded
     const docs: Doc[] = [];
     for (const p of all) {
       for (const cat of CHECKLIST_SCHEMA) {

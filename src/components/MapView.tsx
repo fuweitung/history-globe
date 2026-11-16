@@ -7,7 +7,7 @@ import workerUrl from 'maplibre-gl/dist/maplibre-gl-worker.mjs?url';
 import type { FeatureCollection } from 'geojson';
 import type { BorderProps, Snapshot } from '../lib/borders';
 import { EVENT_TYPES, PERSON_ROLES, ROUTE_KINDS, formatYear } from '../lib/data';
-import type { HistoryEvent, HistoryRoute, Person, PolitySummary, RouteKind } from '../types';
+import type { EventSummary, HistoryRoute, PersonSummary, PolitySummary, RouteKind } from '../types';
 import { facesViewer, placeMarkers, type PlaceItem, type Placement } from '../lib/declutter';
 
 maplibregl.setWorkerUrl(new URL(workerUrl, window.location.href).href);
@@ -20,7 +20,7 @@ export type CameraRequest =
   | { kind: 'point'; center: [number, number]; zoom: number; nonce: number };
 
 export interface VisibleEvent {
-  event: HistoryEvent;
+  event: EventSummary;
   /** 1 = happening in the selected year, fading towards 0 at the edge of the window. */
   weight: number;
 }
@@ -36,7 +36,7 @@ interface Props {
   onSelectBorder: (props: BorderProps | null) => void;
   onSelectEvent: (id: string) => void;
   onSelectRoute: (id: string) => void;
-  people: Person[];
+  people: PersonSummary[];
   selectedPersonId: string | null;
   onSelectPerson: (id: string) => void;
   /** Called after each declutter pass with how many on-screen event markers had no room. */
@@ -269,7 +269,7 @@ function declutter(
   eventMarkers: Map<string, MarkerEntry>,
   events: VisibleEvent[],
   personMarkers: Map<string, MarkerEntry>,
-  people: Person[],
+  people: PersonSummary[],
   sel: { selectedPersonId: string | null; selectedPolityId: string | null; selectedEventId: string | null },
 ) {
   const c = map.getCenter();

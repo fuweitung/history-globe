@@ -33,10 +33,12 @@ export const KIND_META: Record<KnownForKind, { icon: string; label: string }> = 
   person: { icon: '👤', label: 'People' },
 };
 
-function KnownFor({ polity, onJumpToYear }: { polity: PolitySummary; onJumpToYear: (y: number) => void }) {
+function KnownFor({ polity, full, onJumpToYear }: { polity: PolitySummary; full: FullPolity | null; onJumpToYear: (y: number) => void }) {
   const [open, setOpen] = useState<number | null>(null);
   const items = polity.knownFor ?? [];
+  // Notes arrive with the full civilisation file; the startup index has labels only.
   const sel = open !== null ? items[open] : undefined;
+  const note = sel && full?.knownFor?.find((k) => k.label === sel.label)?.note;
   return (
     <section className="mx-5 mb-4" aria-labelledby="knownfor-h">
       <h3 id="knownfor-h" className="text-[11px] font-semibold tracking-wider text-parchment-300 uppercase">
@@ -68,7 +70,7 @@ function KnownFor({ polity, onJumpToYear }: { polity: PolitySummary; onJumpToYea
         <div className="mt-2 rounded-xl bg-white/[0.04] px-3 py-2 text-xs text-parchment-200 ring-1 ring-white/10">
           {knownImage(polity.id, sel.label) && <WikiPicture image={knownImage(polity.id, sel.label)!} alt={sel.label} height="h-32" className="mb-2" />}
           <span className="font-semibold text-parchment-50">{KIND_META[sel.kind].label}</span>
-          {sel.note && <> · {sel.note}</>}
+          {note && <> · {note}</>}
           {sel.year !== undefined && (
             <button type="button" onClick={() => onJumpToYear(sel.year as number)} className="ml-1.5 font-semibold text-gold-300 underline-offset-2 hover:underline">
               Go to {formatYear(sel.year, true)} →
@@ -215,7 +217,7 @@ export default function PolityDetail({ polity, year, onJumpToYear, onFlyTo, onOp
 
         {polityImage(polity.id) ? <WikiPicture image={polityImage(polity.id)!} alt={polity.name} className="relative mt-3" /> : <NoPicture className="relative mt-3" />}
 
-        {polity.summary && <p className="relative mt-3 text-[13px] leading-relaxed text-parchment-100">{polity.summary}</p>}
+        {full?.summary && <p className="relative mt-3 text-[13px] leading-relaxed text-parchment-100">{full.summary}</p>}
         {polity.wikiTitle && (
           <a href={wikiUrl(polity.wikiTitle)} target="_blank" rel="noopener" className="relative mt-1.5 inline-block text-xs font-semibold text-gold-300 hover:underline">
             Read more on Wikipedia ↗
@@ -235,7 +237,7 @@ export default function PolityDetail({ polity, year, onJumpToYear, onFlyTo, onOp
       </header>
 
       {/* ── Known for ── */}
-      {polity.knownFor && polity.knownFor.length > 0 && <KnownFor polity={polity} onJumpToYear={onJumpToYear} />}
+      {polity.knownFor && polity.knownFor.length > 0 && <KnownFor polity={polity} full={full} onJumpToYear={onJumpToYear} />}
 
       {/* ── Rise & fall at a glance ── */}
       {rf && (isFilled(rf.riseSignals) || isFilled(rf.declineSignals)) && (
