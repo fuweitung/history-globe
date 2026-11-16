@@ -348,10 +348,11 @@
     "lng": 72.86,
     "type": "disaster",
     "title": "Decline of the Indus cities",
-    "description": "The great Indus cities are gradually abandoned. Climate change and shifting rivers are leading explanations, but the causes are debated.",
+    "description": "From about 1900 BCE the Indus cities gradually decline, and by about 1700 BCE most are abandoned; people move east and south into smaller villages. A drier climate, a weaker monsoon and shifting rivers are suggested causes.",
     "relatedPolityIds": [
       "indus-valley"
-    ]
+    ],
+    "source": "Wikipedia: Indus Valley Civilisation (checked 16 Nov 2026)"
   },
   {
     "id": "hammurabi-code",
@@ -1262,16 +1263,17 @@
   },
   {
     "id": "aksum-christianity",
-    "year": 340,
+    "year": 325,
     "yearApproximate": true,
     "lat": 14.12,
     "lng": 38.72,
     "type": "culture",
     "title": "Aksum adopts Christianity",
-    "description": "King Ezana of Aksum converts to Christianity, one of the first rulers in the world to do so.",
+    "description": "King Ezana, taught by Frumentius, becomes the first Christian ruler of Aksum (in 325 or 328). By the mid-4th century Christianity is the state religion, and from about 340 his coins carry Christian symbols.",
     "relatedPolityIds": [
       "aksum"
-    ]
+    ],
+    "source": "Wikipedia: Ezana of Axum; Kingdom of Aksum (checked 16 Nov 2026)"
   },
   {
     "id": "fall-of-kush",
@@ -2724,11 +2726,12 @@
     "lng": 118.8,
     "type": "person",
     "title": "Ming dynasty founded",
-    "description": "Zhu Yuanzhang drives out the Mongol Yuan and founds the Ming.",
+    "description": "Zhu Yuanzhang proclaims the Ming dynasty in Nanjing and rules as the Hongwu Emperor. His army takes the Yuan capital Dadu (Beijing), the last Yuan emperor flees north, and Yuan-loyal Mongol forces are driven out over the next four years.",
     "relatedPolityIds": [
       "ming-china",
       "yuan"
-    ]
+    ],
+    "source": "Wikipedia: Ming dynasty; Hongwu Emperor (checked 16 Nov 2026)"
   },
   {
     "id": "timur-rises",
