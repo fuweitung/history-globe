@@ -1,0 +1,379 @@
+{
+  "id": "highland-ecuador-peoples",
+  "name": "Chiefdoms of the Ecuadorian Highlands (Cara, Panzaleo, Puruhá, Cañari, Palta)",
+  "era": "medieval",
+  "region": "South America (Northern Andes, Ecuador)",
+  "startYear": 1000,
+  "endYear": null,
+  "datesApproximate": true,
+  "capital": "None (many chiefdoms)",
+  "capitalCoords": [
+    -78.6,
+    -1.7
+  ],
+  "summary": "The peoples of Ecuador's Andean basins before and under Inca rule: the Pasto, Cara (Caranqui), Panzaleo, Puruhá, Cañari and Palta. They lived in competing chiefdoms, resisted the Inca for decades, and survive today as the Kichwa Sierra nationalities.",
+  "wikiTitle": "Pre-Columbian Ecuador",
+  "borderNames": [],
+  "borderNameYears": {
+    "Natabuela": [
+      1400,
+      1600
+    ],
+    "Kañari": [
+      1400,
+      1600
+    ],
+    "Waranka": [
+      1400,
+      1600
+    ],
+    "Kayambi": [
+      1400,
+      1600
+    ],
+    "Otavalo": [
+      1400,
+      1600
+    ],
+    "Karanki": [
+      1400,
+      1600
+    ],
+    "Saraguro": [
+      1400,
+      1600
+    ],
+    "Chibuleo": [
+      1400,
+      1600
+    ],
+    "Panzaleo": [
+      1400,
+      1600
+    ],
+    "Kitu Kara": [
+      1400,
+      1600
+    ],
+    "Kisapincha": [
+      1400,
+      1600
+    ],
+    "Salasaka": [
+      1400,
+      1600
+    ],
+    "Puruwá": [
+      1400,
+      1600
+    ],
+    "Paltas": [
+      1400,
+      1600
+    ],
+    "Pasto": [
+      1400,
+      1600
+    ]
+  },
+  "color": "#8a6d3b",
+  "knownFor": [
+    {
+      "label": "Cañari gold work",
+      "kind": "art",
+      "note": "The Cañari were noted for fine gold working."
+    },
+    {
+      "label": "Caranqui tolas",
+      "kind": "monument",
+      "year": 1400,
+      "note": "Large earth mounds built by the Caranqui of the northern highlands."
+    },
+    {
+      "label": "Pambamarca fortresses",
+      "kind": "monument",
+      "year": 1480,
+      "note": "Inca forts built against the Cayambe chiefdom."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "The Sierra, the Andean highlands of Ecuador, populated from north to south by the Pasto, Cara, Panzaleo, Puruhá, Cañari and Palta.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Country Studies (US Library of Congress), Ecuador: Pre-Hispanic Era"
+      },
+      "terrain": {
+        "value": "Intermontane basins: the Caranqui, Puruhá and Cañari lived in the north, centre and south of the Ecuadorian Andes.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Bray, \"Late Pre-Hispanic Chiefdoms of Highland Ecuador\" (2008), abstract"
+      },
+      "climate": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "resources": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "disasters": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      }
+    },
+    "population": {
+      "population": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "urbanisation": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "disease": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "migration": {
+        "value": "The Inca forcibly relocated many Cañari to other parts of the empire; the ancestors of the Saraguro are thought to be mitimaes (forced migrants) from Bolivia who married into local Cañari or Palta families.",
+        "year": 1470,
+        "certainty": "estimated",
+        "source": "Encyclopedia.com: Cañari; eHRAF World Cultures: Saraguro Quichua"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "The Sierra peoples were a sedentary, agricultural population; at Hacienda Zuleta in Imbabura, excavation found intensive raised-field agriculture (camellones) able to support dense populations.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Country Studies (US Library of Congress), Ecuador: Pre-Hispanic Era; Currie, Internet Archaeology 10"
+      },
+      "tradeRoutes": {
+        "value": "Lowland coastal peoples traded with the Sierra, exchanging fish for salt; Bray's chapter also covers long-distance exchange in all three regions.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Country Studies (US Library of Congress), Ecuador: Pre-Hispanic Era; Bray, \"Late Pre-Hispanic Chiefdoms of Highland Ecuador\" (2008), abstract"
+      },
+      "wealth": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "moneyAndTax": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "inequality": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "Independent chiefdoms (cacicazgos) in each basin, not one state; north of Quito they were competitive and often at war with each other. The older story of a Kingdom of Quito, supposedly ruled by the Cara, comes from a later chronicler and is not supported by ethnohistorical sources.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Wikipedia: Pambamarca Fortress Complex; Revista Española de Antropología Americana: Caranqui political organization (abstract); Wikipedia: Cara people"
+      },
+      "keyRulers": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "succession": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "institutions": {
+        "value": "Pre-Inca people lived in clans that formed larger tribes, and some allied in confederations; Caranqui mound sites (tolas) may have been religious rather than political centres.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pre-Columbian Ecuador; Revista Española de Antropología Americana: Caranqui political organization (abstract)"
+      },
+      "stability": {
+        "value": "The region was populated by distinct tribes that spoke mutually unintelligible languages and were often at war with one another.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Country Studies (US Library of Congress), Ecuador: Pre-Hispanic Era"
+      },
+      "eliteConflict": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "majorWars": {
+        "value": "Inca conquest of Ecuador: one source dates its start to 1463 under the ninth Inca; another says Topa Inca Yupanqui may have begun it in the 1460s. The Cañari resisted strongly and were beaten by the 1470s; Huayna Capac then spent most of his reign on the north, where the Caranqui were finally beaten at Yawarkucha (Blood Lake), possibly as late as 1520.",
+        "year": 1463,
+        "certainty": "disputed",
+        "source": "Country Studies (US Library of Congress), Ecuador: Pre-Hispanic Era (1463); Encyclopedia.com: Cañari (Cañari beaten by the 1470s); Wikipedia: Pambamarca Fortress Complex (north completed possibly 1520; another popular source says 1500)"
+      },
+      "territoryChange": {
+        "value": "The Inca made the Cañari homeland a new imperial centre at Tomebamba and built a fortress complex at Pambamarca against the Cayambe chiefdom; Quechua replaced Cañari and Puruhá speech.",
+        "year": 1470,
+        "certainty": "confirmed",
+        "source": "Encyclopedia.com: Cañari; Wikipedia: Pambamarca Fortress Complex"
+      },
+      "alliancesRivals": {
+        "value": "The Cañari backed Huascar against Atahualpa in the Inca civil war and were punished by Atahualpa's victory; they later assisted the Spanish conquerors.",
+        "year": 1530,
+        "certainty": "confirmed",
+        "source": "Encyclopedia.com: Cañari"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": "The Cañari were noted for fine gold working.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Encyclopedia.com: Cañari"
+      },
+      "scienceEducation": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "openness": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "communicationTransport": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "Caranqui mound complexes (c. 1250-1525) may have been religious centres, and Puruhá veneration of the volcano Chimborazo is the subject of a research paper; detail on beliefs is thin.",
+        "year": 1400,
+        "certainty": "estimated",
+        "source": "Revista Española de Antropología Americana: Caranqui political organization (abstract); Cuadernos de Antropología (PUCE) contents"
+      },
+      "languageWriting": {
+        "value": "Several mutually unintelligible local languages; there is no recorded history from the Inca or pre-Inca cultures. After the Inca conquest Quechua replaced Cañari and Puruhá.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Country Studies (US Library of Congress), Ecuador: Pre-Hispanic Era; Encyclopedia.com: Cañari"
+      },
+      "artsArchitecture": {
+        "value": "Gold working among the Cañari and monumental earth mounds (tolas) among the Caranqui, dated about 1250 to 1525.",
+        "year": 1400,
+        "certainty": "confirmed",
+        "source": "Encyclopedia.com: Cañari; Revista Española de Antropología Americana: Caranqui political organization (abstract)"
+      },
+      "socialStructure": {
+        "value": "Clans grouped into tribes, with some confederations; the Puruhá are described in a student summary as a federation of lords with hereditary male succession.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pre-Columbian Ecuador; Universidad Nacional de Chimborazo course notes"
+      },
+      "sharedIdentity": {
+        "value": "Today these peoples are the Kichwa Sierra nationalities: Natabuela, Otavalo, Cayambi, Quitu, Panzaleo, Chibuleo, Salasaca, Waranka, Puruhá, Cañari and Saraguro.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Kichwa nationality document (CODEMPE list)"
+      },
+      "dailyLife": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Pasto to the north in southern Colombia, coastal peoples to the west, and Amazon peoples to the east; the Inca Empire arrived from the south.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Country Studies (US Library of Congress), Ecuador: Pre-Hispanic Era"
+      },
+      "ideasReligions": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "colonisation": {
+        "value": "Absorbed into the Inca Empire between the 1460s and about 1520, then conquered by the Spanish in the 1530s.",
+        "year": 1530,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Pambamarca Fortress Complex"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "Chiefdoms formed in the basins: the Cara culture is dated from about 1000, the Puruhá culture 700-1450, and the Caranqui mound complex 1250-1525; these dates differ by source.",
+        "year": 1000,
+        "certainty": "estimated",
+        "source": "Wikipedia: Cara people; Cuadernos de Antropología (PUCE) caption; Revista Española de Antropología Americana: Caranqui political organization (abstract)"
+      },
+      "peakPeriod": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "declineSignals": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "outcome": {
+        "value": "Brought into the Inca Empire (Cañari in the 1470s, Caranqui possibly as late as 1520); the peoples survive today as the Kichwa Sierra nationalities.",
+        "year": 1470,
+        "certainty": "confirmed",
+        "source": "Encyclopedia.com: Cañari; Wikipedia: Pambamarca Fortress Complex; Kichwa nationality document (CODEMPE list)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Excerpts of Country Studies, Encyclopedia.com, Wikipedia (Pambamarca, Pre-Columbian Ecuador, Cara), Bray 2008 abstract, and a Caranqui abstract; read as search excerpts only, 17 Nov 2026. Spanish-language student notes (Universidad Nacional de Chimborazo) are weak and used only for the Puruhá succession note.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "search excerpts"
+      },
+      "overallCertainty": {
+        "value": "No written record before the Inca; knowledge rests on archaeology and colonial chroniclers. Conquest dates differ by source (1463, 1460s, 1470s, 1500, 1520), and the Kingdom of Quito story is contested.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Country Studies (US Library of Congress), Ecuador: Pre-Hispanic Era"
+      }
+    }
+  }
+}
