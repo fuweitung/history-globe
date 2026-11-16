@@ -55,13 +55,64 @@ const INDEXES: Record<string, { files: () => string[]; build: () => unknown }> =
   },
 };
 
+/**
+ * On-demand files (each becomes its own small chunk):
+ * - `virtual:polity-loaders`: { id: () => import('virtual:polity-file/<id>') } for every civilisation
+ * - `virtual:polity-file/<id>`: that civilisation's full file plus its picture credits
+ * - `virtual:event-details` / `virtual:person-details`: long texts plus picture credits
+ * Picture credits come from images.json (kept as the source file for `npm run fetch-images`),
+ * so a panel never downloads the whole picture list.
+ */
+const IMAGES_FILE = join(DATA_DIR, 'images.json');
+const polityIds = () => readdirSync(POLITY_DIR).filter((f) => f.endsWith('.json')).map((f) => f.slice(0, -5)).sort();
+type Images = { polities: Record<string, unknown>; known: Record<string, unknown>; people?: Record<string, unknown>; events?: Record<string, unknown> };
+const images = (): Images => readJson(IMAGES_FILE);
+const POLITY_FILE = 'virtual:polity-file/';
+
+const ON_DEMAND: Record<string, { files: () => string[]; build: () => unknown }> = {
+  'virtual:event-details': {
+    files: () => [join(DATA_DIR, 'events.json'), IMAGES_FILE],
+    build: () => ({
+      details: Object.fromEntries(readJson(join(DATA_DIR, 'events.json')).map((e: Record<string, unknown>) => [e.id, pick(e, ['description', 'source'])])),
+      images: images().events ?? {},
+    }),
+  },
+  'virtual:person-details': {
+    files: () => [join(DATA_DIR, 'people.json'), IMAGES_FILE],
+    build: () => ({
+      details: Object.fromEntries(readJson(join(DATA_DIR, 'people.json')).map((p: Record<string, unknown>) => [p.id, pick(p, ['description', 'wikiTitle', 'source', 'image'])])),
+      images: images().people ?? {},
+    }),
+  },
+};
+
+function polityFile(id: string) {
+  const img = images();
+  const known: Record<string, unknown> = {};
+  for (const [k, v] of Object.entries(img.known)) if (v && k.startsWith(id + '|')) known[k.slice(id.length + 1)] = v;
+  return { data: readJson(join(POLITY_DIR, `${id}.json`)), image: img.polities[id] ?? null, known };
+}
+
 function dataIndexes(): Plugin {
-  const watched = (file: string) => file.startsWith(POLITY_DIR) || file.endsWith('/events.json') || file.endsWith('/people.json');
+  const watched = (file: string) => file.startsWith(POLITY_DIR) || /\/(events|people|images)\.json$/.test(file);
   return {
     name: 'data-indexes',
-    resolveId: (id) => (id in INDEXES ? '\0' + id : null),
+    resolveId: (id) => (id in INDEXES || id in ON_DEMAND || id === 'virtual:polity-loaders' || id.startsWith(POLITY_FILE) ? '\0' + id : null),
     load(id) {
-      const index = id.startsWith('\0') ? INDEXES[id.slice(1)] : undefined;
+      if (!id.startsWith('\0virtual:')) return null;
+      const name = id.slice(1);
+      if (name === 'virtual:polity-loaders') {
+        for (const f of readdirSync(POLITY_DIR)) if (f.endsWith('.json')) this.addWatchFile(join(POLITY_DIR, f));
+        const lines = polityIds().map((pid) => `  ${JSON.stringify(pid)}: () => import(${JSON.stringify(POLITY_FILE + pid)}),`);
+        return `export default {\n${lines.join('\n')}\n};`;
+      }
+      if (name.startsWith(POLITY_FILE)) {
+        const pid = name.slice(POLITY_FILE.length);
+        this.addWatchFile(join(POLITY_DIR, `${pid}.json`));
+        this.addWatchFile(IMAGES_FILE);
+        return `export default ${JSON.stringify(polityFile(pid))};`;
+      }
+      const index = INDEXES[name] ?? ON_DEMAND[name];
       if (!index) return null;
       // Watch each file (not a folder: in dev, Vite treats watched paths as imports
       // and a folder cannot be resolved). New files are picked up by handleHotUpdate below.
@@ -71,10 +122,7 @@ function dataIndexes(): Plugin {
     // In dev, editing (or adding) a data file rebuilds the indexes.
     handleHotUpdate({ file, server }) {
       if (!watched(file)) return;
-      for (const id of Object.keys(INDEXES)) {
-        const mod = server.moduleGraph.getModuleById('\0' + id);
-        if (mod) server.moduleGraph.invalidateModule(mod);
-      }
+      for (const [id, mod] of server.moduleGraph.idToModuleMap) if (id.startsWith('\0virtual:')) server.moduleGraph.invalidateModule(mod);
       server.ws.send({ type: 'full-reload' });
       return [];
     },

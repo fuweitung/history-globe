@@ -1,6 +1,7 @@
 import type { EventSummary, EventType, FullPolity, HistoryEvent, HistoryRoute, Person, PersonRole, PersonSummary, Polity, PolityLink, PolitySummary, RouteKind, Story, WikiImage } from '../types';
 import { normaliseChecklist } from './checklistSchema';
 import polityIndex from 'virtual:polity-index';
+import polityLoaders from 'virtual:polity-loaders';
 import eventIndex from 'virtual:event-index';
 import routesJson from '../data/routes.json';
 import linksJson from '../data/links.json';
@@ -19,7 +20,9 @@ export const POLITIES: PolitySummary[] = (polityIndex as PolitySummary[])
 
 export const POLITY_BY_ID = new Map(POLITIES.map((p) => [p.id, p]));
 
-const polityLoaders = import.meta.glob<Polity>('../data/polities/*.json', { import: 'default' });
+// Each civilisation's file arrives with its own picture credits (see vite.config.ts).
+type PolityFile = { data: Polity; image: WikiImage | null; known: Record<string, WikiImage> };
+const POLITY_PICTURES = new Map<string, Omit<PolityFile, 'data'>>();
 const fullPolities = new Map<string, FullPolity>();
 const pendingPolities = new Map<string, Promise<FullPolity>>();
 
@@ -33,9 +36,10 @@ export function loadPolity(id: string): Promise<FullPolity> {
   let p = pendingPolities.get(id);
   if (!p) {
     const summary = POLITY_BY_ID.get(id);
-    const loader = polityLoaders[`../data/polities/${id}.json`];
+    const loader = (polityLoaders as Record<string, () => Promise<{ default: PolityFile }>>)[id];
     if (!summary || !loader) return Promise.reject(new Error(`Unknown civilisation "${id}"`));
-    p = loader().then((raw) => {
+    p = loader().then(({ default: { data: raw, image, known } }) => {
+      POLITY_PICTURES.set(id, { image, known });
       // The file's own fields win (the index drops long texts such as known-for notes).
       const full: FullPolity = { ...summary, ...raw, checklist: normaliseChecklist(raw.checklist), series: raw.series };
       fullPolities.set(id, full);
@@ -63,18 +67,25 @@ let PERSON_DETAILS: Map<string, PersonDetails> | null = null;
 let eventDetailsPromise: Promise<void> | null = null;
 let personDetailsPromise: Promise<void> | null = null;
 
-/** Loads every event's description and source (one file, cached). */
+let EVENT_PICTURES: Record<string, WikiImage> = {};
+let PERSON_PICTURES: Record<string, WikiImage> = {};
+
+/** Loads every event's description, source and picture credit (one file, cached). */
 export function loadEventDetails(): Promise<void> {
-  eventDetailsPromise ??= import('../data/events.json').then((m) => {
-    EVENT_DETAILS = new Map((m.default as HistoryEvent[]).map((e) => [e.id, { description: e.description, source: e.source }]));
+  eventDetailsPromise ??= import('virtual:event-details').then((m) => {
+    const { details, images } = m.default as { details: Record<string, EventDetails>; images: Record<string, WikiImage> };
+    EVENT_DETAILS = new Map(Object.entries(details));
+    EVENT_PICTURES = images;
   });
   eventDetailsPromise.catch(() => (eventDetailsPromise = null));
   return eventDetailsPromise;
 }
 /** Loads every person's description, Wikipedia title, source and picture (one file, cached). */
 export function loadPeopleDetails(): Promise<void> {
-  personDetailsPromise ??= import('../data/people.json').then((m) => {
-    PERSON_DETAILS = new Map((m.default as unknown as Person[]).map((p) => [p.id, { description: p.description, wikiTitle: p.wikiTitle, source: p.source, image: p.image }]));
+  personDetailsPromise ??= import('virtual:person-details').then((m) => {
+    const { details, images } = m.default as { details: Record<string, PersonDetails>; images: Record<string, WikiImage> };
+    PERSON_DETAILS = new Map(Object.entries(details));
+    PERSON_PICTURES = images;
   });
   personDetailsPromise.catch(() => (personDetailsPromise = null));
   return personDetailsPromise;
@@ -84,20 +95,12 @@ export const peopleDetailsLoaded = () => PERSON_DETAILS !== null;
 export const eventDetails = (id: string): EventDetails | undefined => EVENT_DETAILS?.get(id);
 export const personDetails = (id: string): PersonDetails | undefined => PERSON_DETAILS?.get(id);
 
-// ── Pictures (loaded on demand: images.json is large) ────────
-type ImageIndex = { polities: Record<string, WikiImage>; known: Record<string, WikiImage | null>; people?: Record<string, WikiImage>; events?: Record<string, WikiImage> };
-let IMAGES: ImageIndex | null = null;
-let imagesPromise: Promise<ImageIndex> | null = null;
-export function loadImages(): Promise<ImageIndex> {
-  imagesPromise ??= import('../data/images.json').then((m) => (IMAGES = m.default as unknown as ImageIndex));
-  imagesPromise.catch(() => (imagesPromise = null));
-  return imagesPromise;
-}
-export const imagesLoaded = () => IMAGES !== null;
-export const polityImage = (id: string): WikiImage | undefined => IMAGES?.polities[id];
-export const personImage = (id: string): WikiImage | undefined => IMAGES?.people?.[id];
-export const eventImage = (id: string): WikiImage | undefined => IMAGES?.events?.[id];
-export const knownImage = (polityId: string, label: string): WikiImage | undefined => IMAGES?.known[`${polityId}|${label}`] ?? undefined;
+// ── Pictures (credits arrive with each on-demand file above) ───
+/** undefined until that civilisation has loaded; null when it has no picture. */
+export const polityImage = (id: string): WikiImage | null | undefined => (POLITY_PICTURES.has(id) ? POLITY_PICTURES.get(id)!.image : undefined);
+export const knownImage = (polityId: string, label: string): WikiImage | undefined => POLITY_PICTURES.get(polityId)?.known[label];
+export const personImage = (id: string): WikiImage | undefined => PERSON_PICTURES[id];
+export const eventImage = (id: string): WikiImage | undefined => EVENT_PICTURES[id];
 export const wikiUrl = (title: string) => `https://en.wikipedia.org/wiki/${encodeURIComponent(title.replace(/ /g, '_'))}`;
 
 export const PEOPLE: PersonSummary[] = (personIndex as PersonSummary[]).slice().sort((a, b) => a.born - b.born);

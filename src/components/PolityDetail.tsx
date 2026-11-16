@@ -3,7 +3,7 @@ import { CHECKLIST_SCHEMA, isFilled } from '../lib/checklistSchema';
 import { ERA_LABEL, EVENT_TYPES, PERSON_ROLES, POLITY_BY_ID, eventsForPolity, formatSpan, formatYear, isActive, knownImage, linksForPolity, peopleForPolity, polityImage, wikiUrl } from '../lib/data';
 import WikiPicture, { NoPicture } from './WikiPicture';
 import type { FullPolity, KnownForKind, LinkRelation, PolitySummary } from '../types';
-import { useImages, usePolity } from '../lib/usePolity';
+import { usePolity } from '../lib/usePolity';
 import ChecklistCategory, { CertaintyBadge } from './ChecklistCategory';
 import TerritoryChart, { SERIES_COLORS, TERRITORY, axisPeople, domainFor, formatArea, formatPeople, populationOf } from './TerritoryChart';
 
@@ -177,7 +177,6 @@ export default function PolityDetail({ polity, year, onJumpToYear, onFlyTo, onOp
   // The header, known-for and territory come from the startup index; the checklist
   // and population figures arrive with the full civilisation file.
   const { polity: full, error, retry } = usePolity(polity.id);
-  useImages();
   const overall = polity.completion;
   const active = isActive(polity, year);
   const events = eventsForPolity(polity.id);
@@ -215,7 +214,8 @@ export default function PolityDetail({ polity, year, onJumpToYear, onFlyTo, onOp
           )}
         </div>
 
-        {polityImage(polity.id) ? <WikiPicture image={polityImage(polity.id)!} alt={polity.name} className="relative mt-3" /> : <NoPicture className="relative mt-3" />}
+        {/* The picture credit arrives with the civilisation's file: nothing until then, a placeholder if it has none. */}
+        {full && (polityImage(polity.id) ? <WikiPicture image={polityImage(polity.id)!} alt={polity.name} className="relative mt-3" /> : <NoPicture className="relative mt-3" />)}
 
         {full?.summary && <p className="relative mt-3 text-[13px] leading-relaxed text-parchment-100">{full.summary}</p>}
         {polity.wikiTitle && (

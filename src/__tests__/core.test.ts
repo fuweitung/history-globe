@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import { ERAS, MAX_YEAR, MIN_YEAR, eraOf, fracToYear, normaliseYear, stepYear, yearToFrac } from '../lib/timeScale';
-import { EVENT_BY_ID, POLITY_BY_ID, eventDetails, formatYear, isActive, loadEventDetails, loadPolity } from '../lib/data';
+import { EVENT_BY_ID, POLITY_BY_ID, eventDetails, formatYear, isActive, knownImage, loadEventDetails, loadPolity, polityImage } from '../lib/data';
 import { loadFactIndex, norm, search, snippet } from '../lib/search';
 import { candidatesFor, nearestSnapshot, resolvePolity } from '../lib/borders';
 import { TERRITORY, niceTicks } from '../components/TerritoryChart';
@@ -104,6 +104,12 @@ describe('data loading', () => {
     expect('description' in before).toBe(false);
     await loadEventDetails();
     expect(eventDetails('maize-domesticated')?.description).toBeTruthy();
+  });
+
+  it('brings picture credits with each civilisation file', async () => {
+    await loadPolity('mughal-empire');
+    expect(polityImage('mughal-empire')?.src).toMatch(/^https:\/\/(upload|thumb)\.wikimedia\.org\//);
+    expect(knownImage('mughal-empire', 'Taj Mahal')?.page).toMatch(/^https:\/\/commons\.wikimedia\.org\//);
   });
 
   it('loads a full civilisation on demand, keeping the startup index fields', async () => {
