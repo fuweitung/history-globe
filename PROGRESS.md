@@ -60,7 +60,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | Map coverage (all years) | `███████████████████░` 94% | Named land on the border maps that is linked to a civilisation |
 | · Prehistory | `██████████████████░░` 92% |  |
 | · Ancient | `██████████████████░░` 91% |  |
-| · Medieval | `███████████████████░` 93% |  |
+| · Medieval | `███████████████████░` 94% |  |
 | · Early modern | `███████████████████░` 93% |  |
 | · Modern | `████████████████████` 99% |  |
 | Civilisations shown on the map | `███████████████████░` 93% | 469 of 502; the rest fly to their capital |
@@ -113,7 +113,7 @@ Also in the app: 964 events · 451 people · 18 routes · 11 stories written (hi
 | 1279 | `███████████████████░` 97% |
 | 1300 | `███████████████████░` 97% |
 | 1400 | `███████████████████░` 96% |
-| 1492 | `█████████████████░░░` 84% |
+| 1492 | `█████████████████░░░` 85% |
 | 1500 | `███████████████████░` 95% |
 | 1530 | `██████████████████░░` 89% |
 | 1600 | `██████████████████░░` 90% |
