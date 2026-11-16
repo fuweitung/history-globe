@@ -219,7 +219,7 @@ export default function PolityDetail({ polity, year, onJumpToYear, onFlyTo, onOp
 
         {full?.summary && <p className="relative mt-3 text-[13px] leading-relaxed text-parchment-100">{full.summary}</p>}
         {polity.wikiTitle && (
-          <a href={wikiUrl(polity.wikiTitle)} target="_blank" rel="noopener" className="relative mt-1.5 inline-block text-xs font-semibold text-gold-300 hover:underline">
+          <a href={wikiUrl(polity.wikiTitle)} target="_blank" rel="noopener" className="relative mt-1.5 inline-flex min-h-6 items-center text-xs font-semibold text-gold-300 hover:underline">
             Read more on Wikipedia ↗
           </a>
         )}

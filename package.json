@@ -41,11 +41,16 @@
     "eslint": "^9.39.5",
     "eslint-plugin-react-hooks": "^5.2.0",
     "globals": "^15.15.0",
-    "mapshaper": "^0.6.121",
+    "mapshaper": "^0.8.1",
     "tailwindcss": "^4.3.4",
     "typescript": "~5.8",
     "typescript-eslint": "^8.72.1",
     "vite": "^6.4.5",
-    "vitest": "^3.2.7"
+    "vitest": "^4.1.12"
+  },
+  "overrides": {
+    "@typescript-eslint/typescript-estree": {
+      "minimatch": "^11.0.1"
+    }
   }
 }
