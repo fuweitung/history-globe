@@ -90,8 +90,6 @@ body,
   .event-marker.is-now .event-dot { animation: none; }
 }
 
-/* Declutter (MapView.declutter): a person with no room is hidden until the map is zoomed in. */
-.person-marker.no-room { visibility: hidden; pointer-events: none; }
 
 /* ── MapLibre control theming ──────────────────────────────── */
 .maplibregl-ctrl-group {

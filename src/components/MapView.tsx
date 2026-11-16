@@ -8,6 +8,7 @@ import type { FeatureCollection } from 'geojson';
 import type { BorderProps, Snapshot } from '../lib/borders';
 import { EVENT_TYPES, PERSON_ROLES, ROUTE_KINDS, formatYear } from '../lib/data';
 import type { HistoryEvent, HistoryRoute, Person, PolitySummary, RouteKind } from '../types';
+import { facesViewer, placeMarkers, type PlaceItem, type Placement } from '../lib/declutter';
 
 maplibregl.setWorkerUrl(new URL(workerUrl, window.location.href).href);
 
@@ -38,6 +39,8 @@ interface Props {
   people: Person[];
   selectedPersonId: string | null;
   onSelectPerson: (id: string) => void;
+  /** Called after each declutter pass with how many on-screen event markers had no room. */
+  onCrowdedEvents?: (n: number) => void;
   /** Small countries drawn as dots (see Polity.mapDot). */
   dots: PolitySummary[];
 }
@@ -252,47 +255,85 @@ const STYLE: StyleSpecification = {
   ],
 };
 
-// ── Declutter helpers ─────────────────────────────────────
-type Rect = { x: number; y: number; w: number; h: number };
-const overlaps = (a: Rect, b: Rect) => a.x < b.x + b.w && b.x < a.x + a.w && a.y < b.y + b.h && b.y < a.y + a.h;
+// ── Declutter (see src/lib/declutter.ts) ──────────────────
+type MarkerEntry = { marker: maplibregl.Marker; el: HTMLButtonElement; onMap: boolean; fullW?: number; narrow?: boolean };
 
-type MarkerEntry = { marker: maplibregl.Marker; el: HTMLButtonElement };
-
+/**
+ * Shows only the markers that fit: the selected one, then events happening now,
+ * people of the open civilisation, other people, then nearby-in-time events.
+ * Markers that don't fit are taken off the map (so they cost nothing while panning)
+ * and come back as you zoom in.
+ */
 function declutter(
   map: maplibregl.Map,
-  personMarkers: Map<string, MarkerEntry & { fullW?: number; narrow?: boolean }>,
+  eventMarkers: Map<string, MarkerEntry>,
+  events: VisibleEvent[],
+  personMarkers: Map<string, MarkerEntry>,
   people: Person[],
-  sel: { selectedPersonId: string | null; selectedPolityId: string | null },
+  sel: { selectedPersonId: string | null; selectedPolityId: string | null; selectedEventId: string | null },
 ) {
-  const covered = (el: HTMLElement) => el.classList.contains('maplibregl-marker-covered');
-  const placed: Rect[] = []; // people already shown
-  const narrow = window.matchMedia('(max-width: 640px)').matches; // phones show icons only (index.css)
+  const c = map.getCenter();
+  const center: [number, number] = [c.lng, c.lat];
+  const globe = map.getZoom() < 5; // the style morphs to a flat map from zoom 3.5 to 5
+  const narrow = window.matchMedia('(max-width: 640px)').matches; // phones show person icons only (index.css)
+  const canvas = map.getCanvas();
+  const view = { w: canvas.clientWidth, h: canvas.clientHeight };
+  const items: PlaceItem[] = [];
 
-  // People: selected first, then those linked to the selected civilisation; a name shows only where it fits.
-  const rank = (p: Person) => (p.id === sel.selectedPersonId ? 2 : sel.selectedPolityId && p.polityIds.includes(sel.selectedPolityId) ? 1 : 0);
-  for (const p of [...people].sort((a, b) => rank(b) - rank(a))) {
+  for (const { event, weight } of events) {
+    if (!eventMarkers.has(event.id)) continue;
+    const { x, y } = map.project([event.lng, event.lat]);
+    const must = event.id === sel.selectedEventId;
+    items.push({
+      id: `e:${event.id}`,
+      box: { x: x - 13, y: y - 13, w: 26, h: 26 },
+      // Events are the main layer: they go before people, those happening now first.
+      priority: weight > 0.95 ? 35 + weight : 20 + 10 * weight,
+      must,
+      visible: must || !globe || facesViewer([event.lng, event.lat], center),
+    });
+  }
+  for (const p of people) {
     const entry = personMarkers.get(p.id);
-    if (!entry || covered(entry.el)) continue;
+    if (!entry) continue;
     if (entry.fullW === undefined || entry.narrow !== narrow) {
-      entry.el.classList.remove('name-hidden', 'no-room');
+      // Measure the full width (icon + name) once, with the marker on the map.
+      if (!entry.onMap) {
+        entry.marker.addTo(map);
+        entry.onMap = true;
+      }
+      entry.el.classList.remove('name-hidden');
       entry.fullW = entry.el.offsetWidth || 24;
       entry.narrow = narrow;
     }
     const { x, y } = map.project(p.place as [number, number]);
-    const full: Rect = { x: x + 6, y: y - 12, w: entry.fullW, h: 24 };
-    const icon: Rect = { x: x + 6, y: y - 12, w: 24, h: 24 };
-    const must = rank(p) === 2;
-    if (must || !placed.some((r) => overlaps(r, full))) {
-      entry.el.classList.remove('name-hidden', 'no-room');
-      placed.push(full);
-    } else if (!placed.some((r) => overlaps(r, icon))) {
-      entry.el.classList.add('name-hidden');
-      entry.el.classList.remove('no-room');
-      placed.push(icon);
-    } else {
-      entry.el.classList.add('no-room');
-    }
+    const must = p.id === sel.selectedPersonId;
+    items.push({
+      id: `p:${p.id}`,
+      box: { x: x + 6, y: y - 12, w: entry.fullW, h: 24 },
+      small: { x: x + 6, y: y - 12, w: 24, h: 24 },
+      priority: sel.selectedPolityId && p.polityIds.includes(sel.selectedPolityId) ? 40 : 15,
+      must,
+      visible: must || !globe || facesViewer(p.place as [number, number], center),
+    });
   }
+
+  const result = placeMarkers(items, view);
+  const apply = (entry: MarkerEntry, placement: Placement | undefined) => {
+    if (placement === undefined || placement === 'hidden' || placement === 'crowded') {
+      if (entry.onMap) entry.marker.remove();
+      entry.onMap = false;
+      return;
+    }
+    if (!entry.onMap) entry.marker.addTo(map);
+    entry.onMap = true;
+    entry.el.classList.toggle('name-hidden', placement === 'small');
+  };
+  for (const [id, entry] of eventMarkers) apply(entry, result.get(`e:${id}`));
+  for (const [id, entry] of personMarkers) apply(entry, result.get(`p:${id}`));
+  let crowded = 0;
+  for (const id of eventMarkers.keys()) if (result.get(`e:${id}`) === 'crowded') crowded++;
+  return crowded;
 }
 
 export default function MapView({
@@ -310,24 +351,27 @@ export default function MapView({
   selectedPersonId,
   onSelectPerson,
   dots,
+  onCrowdedEvents,
 }: Props) {
   const containerRef = useRef<HTMLDivElement>(null);
   const mapRef = useRef<maplibregl.Map | null>(null);
   const [ready, setReady] = useState(false);
   const [tooltip, setTooltip] = useState<{ x: number; y: number; text: string; sub?: string } | null>(null);
-  const markersRef = useRef(new Map<string, { marker: maplibregl.Marker; el: HTMLButtonElement }>());
+  const markersRef = useRef(new Map<string, MarkerEntry>());
   const snapshotRef = useRef(snapshot);
   snapshotRef.current = snapshot;
-  const handlersRef = useRef({ onSelectBorder, onSelectEvent, onSelectRoute, onSelectPerson });
-  handlersRef.current = { onSelectBorder, onSelectEvent, onSelectRoute, onSelectPerson };
-  const peopleMarkersRef = useRef(new Map<string, { marker: maplibregl.Marker; el: HTMLButtonElement }>());
+  const handlersRef = useRef({ onSelectBorder, onSelectEvent, onSelectRoute, onSelectPerson, onCrowdedEvents });
+  handlersRef.current = { onSelectBorder, onSelectEvent, onSelectRoute, onSelectPerson, onCrowdedEvents };
+  const peopleMarkersRef = useRef(new Map<string, MarkerEntry>());
   const routesRef = useRef(routes);
   routesRef.current = routes;
   // Declutter state: what is on the map and what to prioritise.
   const peopleRef = useRef(people);
   peopleRef.current = people;
-  const selectionRef = useRef({ selectedPersonId, selectedPolityId });
-  selectionRef.current = { selectedPersonId, selectedPolityId };
+  const eventsRef = useRef(events);
+  eventsRef.current = events;
+  const selectionRef = useRef({ selectedPersonId, selectedPolityId, selectedEventId });
+  selectionRef.current = { selectedPersonId, selectedPolityId, selectedEventId };
   const declutterRef = useRef<() => void>(() => {});
 
   // ── Create the map once ──────────────────────────────────
@@ -529,10 +573,9 @@ export default function MapView({
           ev.stopPropagation();
           handlersRef.current.onSelectEvent(event.id);
         });
-        const marker = new maplibregl.Marker({ element: el, opacityWhenCovered: '0' })
-          .setLngLat([event.lng, event.lat])
-          .addTo(map);
-        entry = { marker, el };
+        // Not added to the map yet: declutter() decides whether it fits.
+        const marker = new maplibregl.Marker({ element: el, opacityWhenCovered: '0' }).setLngLat([event.lng, event.lat]);
+        entry = { marker, el, onMap: false };
         current.set(event.id, entry);
       }
       entry.el.style.setProperty('--w', String(0.35 + 0.65 * weight));
@@ -540,7 +583,7 @@ export default function MapView({
       entry.el.classList.toggle('is-now', weight > 0.95);
     }
     declutterRef.current();
-  }, [events, selectedEventId, ready]);
+  }, [events, selectedEventId, selectedPolityId, ready]);
 
   // ── People markers ───────────────────────────────────────
   useEffect(() => {
@@ -572,8 +615,8 @@ export default function MapView({
           ev.stopPropagation();
           handlersRef.current.onSelectPerson(person.id);
         });
-        const marker = new maplibregl.Marker({ element: el, anchor: 'left', opacityWhenCovered: '0', offset: [6, 0] }).setLngLat(person.place).addTo(map);
-        entry = { marker, el };
+        const marker = new maplibregl.Marker({ element: el, anchor: 'left', opacityWhenCovered: '0', offset: [6, 0] }).setLngLat(person.place);
+        entry = { marker, el, onMap: false };
         current.set(person.id, entry);
       }
       entry.el.classList.toggle('is-selected', person.id === selectedPersonId);
@@ -581,7 +624,7 @@ export default function MapView({
     declutterRef.current();
   }, [people, selectedPersonId, selectedPolityId, ready]);
 
-  // ── Declutter: give people names only where they fit ──
+  // ── Declutter: show only the markers that fit ──
   useEffect(() => {
     const map = mapRef.current;
     if (!map || !ready) return;
@@ -589,7 +632,9 @@ export default function MapView({
     const run = () => {
       cancelAnimationFrame(frame);
       frame = requestAnimationFrame(() =>
-        declutter(map, peopleMarkersRef.current, peopleRef.current, selectionRef.current),
+        handlersRef.current.onCrowdedEvents?.(
+          declutter(map, markersRef.current, eventsRef.current, peopleMarkersRef.current, peopleRef.current, selectionRef.current),
+        ),
       );
     };
     declutterRef.current = run;

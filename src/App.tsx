@@ -85,6 +85,7 @@ export default function App() {
   const [hiddenTypes, setHiddenTypes] = useState<Set<EventType>>(new Set());
   const [showRoutes, setShowRoutes] = useState(true);
   const [showPeople, setShowPeople] = useState(true);
+  const [crowdedEvents, setCrowdedEvents] = useState(0);
   const [camera, setCamera] = useState<CameraRequest | null>(null);
   const pendingFly = useRef<string | null>(initial.polity);
   const nonce = useRef(0);
@@ -481,6 +482,7 @@ export default function App() {
         onSelectRoute={openRoute}
         people={visiblePeople}
         dots={visibleDots}
+        onCrowdedEvents={setCrowdedEvents}
         selectedPersonId={view.kind === 'person' ? view.id : (storyStep?.person ?? null)}
         onSelectPerson={openPerson}
       />
@@ -536,6 +538,7 @@ export default function App() {
       <EventLegend
         hidden={hiddenTypes}
         count={visibleEvents.length}
+        crowded={crowdedEvents}
         showRoutes={showRoutes}
         routeCount={visibleRoutes.length}
         onToggleRoutes={() => setShowRoutes((v) => !v)}
@@ -597,6 +600,7 @@ export default function App() {
 function EventLegend({
   hidden,
   count,
+  crowded,
   onToggle,
   showRoutes,
   routeCount,
@@ -607,6 +611,8 @@ function EventLegend({
 }: {
   hidden: Set<EventType>;
   count: number;
+  /** On-screen events hidden for lack of room (they show when zooming in). */
+  crowded: number;
   onToggle: (t: EventType) => void;
   showRoutes: boolean;
   routeCount: number;
@@ -630,7 +636,10 @@ function EventLegend({
               <span key={t} className="size-2.5 rounded-full ring-1 ring-ink-900" style={{ background: EVENT_TYPES[t].color }} />
             ))}
           </span>
-          Events <span className="text-parchment-400 tabular-nums">({count})</span>
+          Events{' '}
+          <span className="text-parchment-400 tabular-nums">
+            ({count}){crowded > 0 && <span className="font-normal"> · {crowded} more if you zoom in</span>}
+          </span>
           <svg viewBox="0 0 24 24" className={`size-3 transition-transform ${open ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" strokeWidth="3" aria-hidden="true">
             <path d="M6 9l6 6 6-6" />
           </svg>

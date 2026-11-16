@@ -4,6 +4,7 @@ import { POLITY_BY_ID, formatYear, isActive, loadPolity } from '../lib/data';
 import { loadFactIndex, norm, search, snippet } from '../lib/search';
 import { candidatesFor, nearestSnapshot, resolvePolity } from '../lib/borders';
 import { TERRITORY, niceTicks } from '../components/TerritoryChart';
+import { facesViewer, placeMarkers, type PlaceItem } from '../lib/declutter';
 
 describe('time scale', () => {
   it('era shares fill the whole slider', () => {
@@ -162,5 +163,46 @@ describe('charts', () => {
     expect(peak('roman-empire')).toBeGreaterThan(4e6);
     expect(peak('roman-empire')).toBeLessThan(6e6);
     for (const pts of Object.values(TERRITORY)) for (const [, km2] of pts) expect(km2).toBeLessThan(36e6);
+  });
+});
+
+describe('map declutter', () => {
+  const view = { w: 800, h: 600 };
+  const at = (id: string, x: number, y: number, priority: number, extra: Partial<PlaceItem> = {}): PlaceItem => ({
+    id,
+    box: { x, y, w: 26, h: 26 },
+    priority,
+    visible: true,
+    ...extra,
+  });
+
+  it('keeps the higher-priority marker when two overlap', () => {
+    const r = placeMarkers([at('low', 100, 100, 1), at('high', 110, 105, 5), at('apart', 400, 300, 1)], view);
+    expect(r.get('high')).toBe('full');
+    expect(r.get('low')).toBe('crowded');
+    expect(r.get('apart')).toBe('full');
+  });
+
+  it('always shows the selected marker', () => {
+    const r = placeMarkers([at('big', 100, 100, 99), at('sel', 105, 100, 0, { must: true })], view);
+    expect(r.get('sel')).toBe('full');
+    expect(r.get('big')).toBe('crowded');
+  });
+
+  it('falls back to the small box (icon without name) when the full one does not fit', () => {
+    const person = at('p', 200, 200, 1, { box: { x: 200, y: 200, w: 120, h: 24 }, small: { x: 200, y: 200, w: 24, h: 24 } });
+    const r = placeMarkers([at('e', 260, 200, 5), person], view);
+    expect(r.get('p')).toBe('small');
+  });
+
+  it('hides markers off screen or behind the globe', () => {
+    const r = placeMarkers([at('off', -100, 100, 5), at('back', 100, 100, 5, { visible: false })], view);
+    expect(r.get('off')).toBe('hidden');
+    expect(r.get('back')).toBe('hidden');
+  });
+
+  it('knows which side of the globe faces the viewer', () => {
+    expect(facesViewer([10, 45], [0, 40])).toBe(true);
+    expect(facesViewer([180, -40], [0, 40])).toBe(false);
   });
 });
