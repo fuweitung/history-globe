@@ -74,6 +74,13 @@ for (const e of events) {
   if (Math.abs(e.lat) > 90 || Math.abs(e.lng) > 180) errors.push(`${where}: bad coordinates`);
   for (const pid of e.relatedPolityIds) if (!ids.has(pid)) errors.push(`${where}: unknown polity "${pid}"`);
 }
+// Every fact needs a source (CLAUDE.md). Listed for now; an error with --strict once the backlog is done.
+const unsourced = events.filter((e) => !String(e.source ?? '').trim());
+if (unsourced.length) {
+  console.log(`\n${unsourced.length} event(s) without a source (add "Wikipedia: <Title> (checked <date>)" after reading the page):`);
+  console.log('  ' + unsourced.map((e) => `${e.id} (${e.year})`).join(', '));
+  if (process.argv.includes('--strict')) errors.push(...unsourced.map((e) => `events.json#${e.id}: missing source`));
+}
 const links = JSON.parse(await readFile(join(dataDir, 'links.json'), 'utf8'));
 links.forEach((l, i) => {
   const where = `links.json[${i}]`;
