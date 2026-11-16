@@ -3782,10 +3782,11 @@
     "lng": 107.58,
     "type": "person",
     "title": "Nguyen dynasty founded",
-    "description": "Gia Long unifies Vietnam and founds the Nguyen dynasty with its capital at Huế.",
+    "description": "Gia Long unifies Vietnam and founds the Nguyễn dynasty, with its capital at Phú Xuân (today part of Huế).",
     "relatedPolityIds": [
       "nguyen-vietnam"
-    ]
+    ],
+    "source": "Wikipedia: Nguyễn dynasty (checked 16 Nov 2026)"
   },
   {
     "id": "latin-american-independence",
@@ -3821,8 +3822,9 @@
     "lng": 118.0,
     "type": "disaster",
     "title": "Mount Tambora erupts",
-    "description": "The largest volcanic eruption in recorded history, on Sumbawa, kills tens of thousands locally and causes the “Year Without a Summer” (1816) worldwide.",
-    "relatedPolityIds": []
+    "description": "The most powerful volcanic eruption in recorded history, on Sumbawa, kills about 10,000 people directly and tens of thousands more through famine and disease. It helps cause the “Year Without a Summer” of 1816.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: 1815 eruption of Mount Tambora (checked 16 Nov 2026)"
   },
   {
     "id": "waterloo-congress-vienna",
@@ -3889,11 +3891,12 @@
     "lng": -43.17,
     "type": "person",
     "title": "Brazil declares independence",
-    "description": "Prince Pedro declares Brazil’s independence from Portugal and becomes Emperor Pedro I.",
+    "description": "Prince Pedro declares Brazil’s independence from Portugal and a month later is acclaimed Emperor Pedro I.",
     "relatedPolityIds": [
       "empire-of-brazil",
       "portuguese-empire"
-    ]
+    ],
+    "source": "Wikipedia: Independence of Brazil (checked 16 Nov 2026)"
   },
   {
     "id": "anglo-dutch-treaty-1824",
@@ -3902,11 +3905,12 @@
     "lng": 103.85,
     "type": "trade",
     "title": "Anglo-Dutch Treaty",
-    "description": "Britain and the Netherlands divide their spheres in the Malay world along the Strait of Melaka, splitting the Johor-Riau realm.",
+    "description": "Britain and the Netherlands divide their claims in the Malay world along the Strait of Malacca, splitting the old Johor realm; the line later becomes the Malaysia–Indonesia border.",
     "relatedPolityIds": [
       "johor-sultanate",
       "british-empire"
-    ]
+    ],
+    "source": "Wikipedia: Anglo-Dutch Treaty of 1824 (checked 16 Nov 2026)"
   },
   {
     "id": "first-public-railway",
@@ -3956,11 +3960,12 @@
     "lng": 3.06,
     "type": "war",
     "title": "French invasion of Algiers",
-    "description": "France captures Algiers. This begins the second French colonial empire and a long, violent conquest of Algeria.",
+    "description": "France captures and annexes Algiers, beginning the colonial period of French Algeria. The conquest of the country lasts more than 45 years.",
     "relatedPolityIds": [
       "french-colonial-empire",
       "ottoman-empire"
-    ]
+    ],
+    "source": "Wikipedia: Invasion of Algiers (1830) (checked 16 Nov 2026)"
   },
   {
     "id": "slavery-abolition-act",
@@ -3998,10 +4003,11 @@
     "lng": 28.98,
     "type": "person",
     "title": "Tanzimat reforms begin",
-    "description": "The Edict of Gülhane launches Ottoman reforms aimed at legal equality, centralisation and modern administration.",
+    "description": "The Edict of Gülhane begins the Tanzimat reforms, promising security of life and property, fair taxes and conscription, and public trials, and modernising Ottoman administration.",
     "relatedPolityIds": [
       "ottoman-empire"
-    ]
+    ],
+    "source": "Wikipedia: Tanzimat (checked 16 Nov 2026)"
   },
   {
     "id": "irish-famine",
@@ -4011,10 +4017,11 @@
     "lng": -6.26,
     "type": "disaster",
     "title": "Great Famine in Ireland",
-    "description": "Potato blight and government policy combine to cause about one million deaths and mass emigration from Ireland.",
+    "description": "Potato blight, together with government policy failures, causes an estimated 775,000 to 1.5 million deaths, and more than two million people emigrate from Ireland.",
     "relatedPolityIds": [
       "british-empire"
-    ]
+    ],
+    "source": "Wikipedia: Great Famine (Ireland) (checked 16 Nov 2026)"
   },
   {
     "id": "revolutions-1848",
@@ -4054,10 +4061,11 @@
     "lng": 118.8,
     "type": "war",
     "title": "Taiping Rebellion",
-    "description": "A religious-political movement captures Nanjing and much of southern China. It is one of the deadliest conflicts of the 19th century, with tens of millions of deaths (estimates vary).",
+    "description": "A religious-political movement captures Nanjing and much of southern China. It is the largest conflict of the 19th century; estimates of the dead start at 20 to 30 million and go much higher.",
     "relatedPolityIds": [
       "qing-china"
-    ]
+    ],
+    "source": "Wikipedia: Taiping Rebellion (checked 16 Nov 2026)"
   },
   {
     "id": "perry-japan",
@@ -4066,11 +4074,12 @@
     "lng": 139.67,
     "type": "trade",
     "title": "Perry’s ships arrive in Japan",
-    "description": "US Commodore Matthew Perry’s squadron forces Tokugawa Japan to open ports to trade (Treaty of Kanagawa, 1854).",
+    "description": "US Commodore Matthew Perry’s squadron arrives to press Japan to open its ports to trade. In 1854 the Convention of Kanagawa opens Shimoda and Hakodate.",
     "relatedPolityIds": [
       "tokugawa-japan",
       "united-states"
-    ]
+    ],
+    "source": "Wikipedia: Perry Expedition (checked 16 Nov 2026)"
   },
   {
     "id": "indian-rebellion-1857",
@@ -4080,11 +4089,12 @@
     "lng": 77.23,
     "type": "war",
     "title": "Indian Rebellion of 1857",
-    "description": "A widespread uprising against East India Company rule. Afterwards the last Mughal emperor is exiled and the British Crown takes direct control of India.",
+    "description": "A major uprising against East India Company rule. Afterwards the last Mughal emperor is exiled to Burma, and India is governed directly by the British government.",
     "relatedPolityIds": [
       "mughal-empire",
       "british-empire"
-    ]
+    ],
+    "source": "Wikipedia: Indian Rebellion of 1857 (checked 16 Nov 2026)"
   },
   {
     "id": "cochinchina-campaign",
@@ -4111,7 +4121,8 @@
     "description": "Charles Darwin publishes his theory of evolution by natural selection.",
     "relatedPolityIds": [
       "british-empire"
-    ]
+    ],
+    "source": "Wikipedia: On the Origin of Species (checked 16 Nov 2026)"
   },
   {
     "id": "russia-emancipation",
@@ -4207,7 +4218,8 @@
     "relatedPolityIds": [
       "tokugawa-japan",
       "empire-of-japan"
-    ]
+    ],
+    "source": "Wikipedia: Meiji Restoration (checked 16 Nov 2026)"
   },
   {
     "id": "suez-canal",
@@ -4222,7 +4234,8 @@
       "british-empire",
       "french-colonial-empire",
       "modern-egypt"
-    ]
+    ],
+    "source": "Wikipedia: Suez Canal (checked 16 Nov 2026)"
   },
   {
     "id": "german-unification",
@@ -4231,27 +4244,28 @@
     "lng": 2.12,
     "type": "person",
     "title": "German Empire proclaimed",
-    "description": "After the Franco-Prussian War, the German Empire is proclaimed at Versailles with the Prussian king as emperor.",
+    "description": "During the Franco-Prussian War, the German Empire is proclaimed in the Hall of Mirrors at Versailles, with the Prussian king as German Emperor.",
     "relatedPolityIds": [
       "german-empire",
       "french-colonial-empire",
       "kingdom-of-prussia",
       "german-states"
-    ]
+    ],
+    "source": "Wikipedia: Unification of Germany (checked 16 Nov 2026)"
   },
   {
     "id": "aceh-war",
     "year": 1873,
     "endYear": 1904,
-    "yearApproximate": true,
     "lat": 5.55,
     "lng": 95.32,
     "type": "war",
     "title": "Aceh War",
-    "description": "The Netherlands wages a long war to conquer the Aceh Sultanate, which resists for decades.",
+    "description": "The Netherlands wages a long war to conquer the Aceh Sultanate, which surrenders in 1904; guerrilla resistance continues afterwards.",
     "relatedPolityIds": [
       "aceh-sultanate"
-    ]
+    ],
+    "source": "Wikipedia: Aceh War (checked 16 Nov 2026)"
   },
   {
     "id": "pangkor-treaty",
@@ -4327,14 +4341,15 @@
     "lng": 13.4,
     "type": "trade",
     "title": "Berlin Conference",
-    "description": "European powers set rules for claiming African territory, speeding up the colonial “Scramble for Africa”.",
+    "description": "European powers agree rules for recognising claims to African coastal territory, formalising the ongoing colonial “Scramble for Africa”.",
     "relatedPolityIds": [
       "german-empire",
       "british-empire",
       "french-colonial-empire",
       "portuguese-empire",
       "kingdom-of-kongo"
-    ]
+    ],
+    "source": "Wikipedia: Berlin Conference (checked 16 Nov 2026)"
   },
   {
     "id": "brazil-abolition",
@@ -4346,7 +4361,8 @@
     "description": "The Golden Law ends slavery in Brazil, the last country in the Americas to do so. The monarchy falls the next year.",
     "relatedPolityIds": [
       "empire-of-brazil"
-    ]
+    ],
+    "source": "Wikipedia: Lei Áurea (checked 16 Nov 2026)"
   },
   {
     "id": "brunei-protectorate",
@@ -4398,12 +4414,13 @@
     "lng": 121.4,
     "type": "war",
     "title": "First Sino-Japanese War",
-    "description": "Japan defeats Qing China. China recognises Korean independence and cedes Taiwan to Japan.",
+    "description": "Japan defeats Qing China. China recognises Korea’s independence and cedes Taiwan and the Penghu Islands to Japan.",
     "relatedPolityIds": [
       "qing-china",
       "empire-of-japan",
       "joseon-korea"
-    ]
+    ],
+    "source": "Wikipedia: First Sino-Japanese War (checked 16 Nov 2026)"
   },
   {
     "id": "federated-malay-states",
@@ -4438,10 +4455,11 @@
     "lng": 38.9,
     "type": "war",
     "title": "Battle of Adwa",
-    "description": "Ethiopian forces under Emperor Menelik II defeat an Italian army, preserving Ethiopian independence.",
+    "description": "Ethiopian forces under Emperor Menelik II defeat an Italian army, forcing Italy to recognise Ethiopia’s sovereignty.",
     "relatedPolityIds": [
       "ethiopian-empire"
-    ]
+    ],
+    "source": "Wikipedia: Battle of Adwa (checked 16 Nov 2026)"
   },
   {
     "id": "benin-expedition",
@@ -4594,11 +4612,12 @@
     "lng": 114.3,
     "type": "war",
     "title": "Xinhai Revolution",
-    "description": "An uprising in Wuchang spreads across China. The last Qing emperor abdicates in 1912, and the Republic of China is founded.",
+    "description": "The Wuchang Uprising sparks revolts across China. The Republic of China is declared on 1 January 1912, and the last Qing emperor abdicates in February.",
     "relatedPolityIds": [
       "qing-china",
       "republic-of-china"
-    ]
+    ],
+    "source": "Wikipedia: 1911 Revolution (checked 16 Nov 2026)"
   },
   {
     "id": "wwi",
@@ -4608,7 +4627,7 @@
     "lng": 4.0,
     "type": "war",
     "title": "First World War",
-    "description": "A global war centred in Europe. The German, Austro-Hungarian, Russian and Ottoman empires collapse during or after it.",
+    "description": "A global conflict between two coalitions. The Russian, German, Austro-Hungarian and Ottoman empires collapse, redrawing national borders.",
     "relatedPolityIds": [
       "german-empire",
       "austria-hungary",
@@ -4618,7 +4637,8 @@
       "french-colonial-empire",
       "united-states",
       "empire-of-japan"
-    ]
+    ],
+    "source": "Wikipedia: World War I (checked 16 Nov 2026)"
   },
   {
     "id": "sarajevo-assassination",
@@ -4655,11 +4675,12 @@
     "lng": 30.31,
     "type": "war",
     "title": "Russian Revolutions",
-    "description": "The tsar abdicates in February. The Bolsheviks take power in October, leading to civil war and the founding of the Soviet Union (1922).",
+    "description": "The tsar abdicates in March 1917 (February in the old calendar). The Bolsheviks seize power in November (October in the old calendar), leading to civil war and the creation of the Soviet Union.",
     "relatedPolityIds": [
       "russian-empire",
       "soviet-union"
-    ]
+    ],
+    "source": "Wikipedia: Russian Revolution (checked 16 Nov 2026)"
   },
   {
     "id": "spanish-flu",
@@ -4670,7 +4691,8 @@
     "type": "disaster",
     "title": "1918 influenza pandemic",
     "description": "A global influenza pandemic kills an estimated 17–50 million people or more.",
-    "relatedPolityIds": []
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Spanish flu (checked 16 Nov 2026)"
   },
   {
     "id": "treaty-of-versailles",
@@ -4708,11 +4730,12 @@
     "lng": 32.85,
     "type": "person",
     "title": "Republic of Turkey founded",
-    "description": "After the Turkish War of Independence, the Republic of Turkey is proclaimed in Ankara under Mustafa Kemal (Atatürk).",
+    "description": "After the Turkish War of Independence, the Grand National Assembly in Ankara declares the Republic of Turkey, with Mustafa Kemal (Atatürk) as its president.",
     "relatedPolityIds": [
       "republic-of-turkey",
       "ottoman-empire"
-    ]
+    ],
+    "source": "Wikipedia: Turkish War of Independence (checked 16 Nov 2026)"
   },
   {
     "id": "treaty-of-lausanne",
@@ -4736,7 +4759,8 @@
     "type": "invention",
     "title": "Penicillin discovered",
     "description": "Alexander Fleming notices the antibacterial effect of the Penicillium mould in London. Mass production follows in the 1940s.",
-    "relatedPolityIds": []
+    "relatedPolityIds": [],
+    "source": "Wikipedia: Penicillin (checked 16 Nov 2026)"
   },
   {
     "id": "turkish-alphabet-reform",
@@ -4760,13 +4784,14 @@
     "lng": -74.01,
     "type": "trade",
     "title": "Great Depression",
-    "description": "The Wall Street Crash begins a worldwide economic slump that hits trade, commodity prices and employment.",
+    "description": "The Wall Street Crash is often seen as the start of a worldwide slump: international trade falls by more than half, and unemployment reaches up to 33% in some countries.",
     "relatedPolityIds": [
       "united-states",
       "germany-1918-1945",
       "british-empire",
       "french-colonial-empire"
-    ]
+    ],
+    "source": "Wikipedia: Great Depression (checked 16 Nov 2026)"
   },
   {
     "id": "salt-march",
@@ -4803,10 +4828,11 @@
     "lng": 100.5,
     "type": "person",
     "title": "Siamese revolution of 1932",
-    "description": "A bloodless coup ends absolute monarchy in Siam and creates a constitutional monarchy. The country is renamed Thailand in 1939.",
+    "description": "A bloodless coup by the Khana Ratsadon ends centuries of absolute monarchy and makes Siam a constitutional monarchy.",
     "relatedPolityIds": [
       "rattanakosin-siam"
-    ]
+    ],
+    "source": "Wikipedia: Siamese revolution of 1932 (checked 16 Nov 2026)"
   },
   {
     "id": "holodomor",
@@ -4872,7 +4898,7 @@
     "lng": 20.0,
     "type": "war",
     "title": "Second World War",
-    "description": "The deadliest conflict in history, fought in Europe, Asia, Africa and the Pacific, with an estimated 70–85 million deaths.",
+    "description": "The deadliest conflict in history, fought in Europe, Asia, the Pacific and Africa, with an estimated 60 to 75 million deaths, most of them civilians.",
     "relatedPolityIds": [
       "soviet-union",
       "united-states",
@@ -4880,7 +4906,8 @@
       "empire-of-japan",
       "republic-of-china",
       "germany-1918-1945"
-    ]
+    ],
+    "source": "Wikipedia: World War II (checked 16 Nov 2026)"
   },
   {
     "id": "holocaust",
@@ -4962,11 +4989,12 @@
     "lng": 132.45,
     "type": "war",
     "title": "Atomic bombings of Hiroshima and Nagasaki",
-    "description": "The United States drops atomic bombs on two Japanese cities. Japan surrenders shortly afterwards.",
+    "description": "The United States drops atomic bombs on Hiroshima and Nagasaki, killing 150,000 to 246,000 people. Japan announces its surrender days later, after the Soviet Union also declares war.",
     "relatedPolityIds": [
       "empire-of-japan",
       "united-states"
-    ]
+    ],
+    "source": "Wikipedia: Atomic bombings of Hiroshima and Nagasaki (checked 16 Nov 2026)"
   },
   {
     "id": "indonesia-independence",
@@ -4976,11 +5004,12 @@
     "lng": 106.85,
     "type": "person",
     "title": "Indonesian independence",
-    "description": "Sukarno and Hatta proclaim independence in Jakarta. The Netherlands recognises Indonesian sovereignty in 1949 after armed and diplomatic struggle.",
+    "description": "Sukarno and Mohammad Hatta proclaim Indonesia’s independence. After an armed and diplomatic struggle, the Netherlands transfers sovereignty in 1949.",
     "relatedPolityIds": [
       "indonesia",
       "dutch-colonial-empire"
-    ]
+    ],
+    "source": "Wikipedia: Indonesian National Revolution (checked 16 Nov 2026)"
   },
   {
     "id": "un-founded",
@@ -5048,11 +5077,12 @@
     "lng": 77.21,
     "type": "person",
     "title": "Independence and Partition of India",
-    "description": "British India becomes independent as India and Pakistan. Partition causes mass migration and violence.",
+    "description": "British India is divided into two independent dominions, India and Pakistan. Partition displaces 12 to 20 million people; estimates of deaths in the violence range from 200,000 to 2 million.",
     "relatedPolityIds": [
       "india",
       "british-empire"
-    ]
+    ],
+    "source": "Wikipedia: Partition of India (checked 16 Nov 2026)"
   },
   {
     "id": "partition-violence",
@@ -5131,11 +5161,12 @@
     "lng": 116.39,
     "type": "person",
     "title": "People’s Republic of China proclaimed",
-    "description": "After the civil war, Mao Zedong proclaims the PRC in Beijing. The ROC government relocates to Taiwan.",
+    "description": "After the civil war, Mao Zedong proclaims the People’s Republic of China in Beijing. The Republic of China government retreats to Taiwan.",
     "relatedPolityIds": [
       "peoples-republic-of-china",
       "republic-of-china"
-    ]
+    ],
+    "source": "Wikipedia: Proclamation of the People's Republic of China (checked 16 Nov 2026)"
   },
   {
     "id": "korean-war",
@@ -5253,7 +5284,8 @@
     "relatedPolityIds": [
       "malaysia",
       "british-empire"
-    ]
+    ],
+    "source": "Wikipedia: Federation of Malaya (checked 16 Nov 2026)"
   },
   {
     "id": "sputnik",
@@ -5262,10 +5294,11 @@
     "lng": 63.34,
     "type": "invention",
     "title": "Sputnik 1",
-    "description": "The Soviet Union launches the first artificial satellite from Baikonur, opening the Space Age.",
+    "description": "The Soviet Union launches the first artificial satellite from the site now called the Baikonur Cosmodrome, starting the Space Race.",
     "relatedPolityIds": [
       "soviet-union"
-    ]
+    ],
+    "source": "Wikipedia: Sputnik 1 (checked 16 Nov 2026)"
   },
   {
     "id": "ghana-independence",
@@ -5289,10 +5322,11 @@
     "lng": 113.0,
     "type": "disaster",
     "title": "Great Chinese Famine",
-    "description": "Policies of the Great Leap Forward and natural factors lead to a famine with tens of millions of deaths (estimates vary widely).",
+    "description": "The policies of the Great Leap Forward and people’s communes, together with droughts and floods, cause a famine with an estimated 15 to 46 million deaths.",
     "relatedPolityIds": [
       "peoples-republic-of-china"
-    ]
+    ],
+    "source": "Wikipedia: Great Chinese Famine (checked 16 Nov 2026)"
   },
   {
     "id": "year-of-africa",
@@ -5357,11 +5391,12 @@
     "lng": 3.06,
     "type": "war",
     "title": "Algerian independence",
-    "description": "After an eight-year war, Algeria becomes independent from France.",
+    "description": "After a war of more than seven years, Algeria wins its independence from France.",
     "relatedPolityIds": [
       "french-colonial-empire",
       "algeria"
-    ]
+    ],
+    "source": "Wikipedia: Algerian War (checked 16 Nov 2026)"
   },
   {
     "id": "cuban-missile-crisis",
@@ -5487,10 +5522,11 @@
     "lng": -80.65,
     "type": "invention",
     "title": "Apollo 11 Moon landing",
-    "description": "US astronauts land on the Moon, launched from Cape Canaveral.",
+    "description": "US astronauts become the first humans to land on the Moon, launched from Kennedy Space Center in Florida.",
     "relatedPolityIds": [
       "united-states"
-    ]
+    ],
+    "source": "Wikipedia: Apollo 11 (checked 16 Nov 2026)"
   },
   {
     "id": "may-13-1969",
@@ -5571,7 +5607,8 @@
     "description": "Under Deng Xiaoping, China begins market reforms, including special economic zones such as Shenzhen.",
     "relatedPolityIds": [
       "peoples-republic-of-china"
-    ]
+    ],
+    "source": "Wikipedia: Reform and opening up (checked 16 Nov 2026)"
   },
   {
     "id": "iranian-revolution",
@@ -5580,11 +5617,12 @@
     "lng": 51.39,
     "type": "person",
     "title": "Iranian Revolution",
-    "description": "Mass protests end the Pahlavi monarchy, and an Islamic Republic is established.",
+    "description": "A revolution ends the Pahlavi monarchy, and Iran becomes an Islamic Republic.",
     "relatedPolityIds": [
       "qajar-pahlavi-iran",
       "islamic-republic-of-iran"
-    ]
+    ],
+    "source": "Wikipedia: Iranian Revolution (checked 16 Nov 2026)"
   },
   {
     "id": "soviet-afghan-war",
@@ -5619,11 +5657,12 @@
     "lng": 30.1,
     "type": "disaster",
     "title": "Chernobyl nuclear disaster",
-    "description": "A reactor explosion in Soviet Ukraine releases radioactive material across Europe.",
+    "description": "A reactor explodes near Pripyat in Soviet Ukraine, spreading radioactive material across the Soviet Union and Europe.",
     "relatedPolityIds": [
       "soviet-union",
       "ukraine"
-    ]
+    ],
+    "source": "Wikipedia: Chernobyl disaster (checked 16 Nov 2026)"
   },
   {
     "id": "www-invented",
@@ -5632,10 +5671,11 @@
     "lng": 6.05,
     "type": "invention",
     "title": "World Wide Web proposed",
-    "description": "Tim Berners-Lee proposes the World Wide Web at CERN near Geneva.",
+    "description": "A proposal for the World Wide Web is submitted at CERN, the European physics laboratory in Switzerland.",
     "relatedPolityIds": [
       "switzerland"
-    ]
+    ],
+    "source": "Wikipedia: History of the World Wide Web (checked 16 Nov 2026)"
   },
   {
     "id": "tiananmen-1989",
@@ -5681,7 +5721,8 @@
       "tajikistan",
       "kyrgyzstan",
       "turkmenistan"
-    ]
+    ],
+    "source": "Wikipedia: Dissolution of the Soviet Union (checked 16 Nov 2026)"
   },
   {
     "id": "european-union",
@@ -5746,7 +5787,8 @@
       "rattanakosin-siam",
       "indonesia",
       "malaysia"
-    ]
+    ],
+    "source": "Wikipedia: 1997 Asian financial crisis (checked 16 Nov 2026)"
   },
   {
     "id": "hong-kong-handover",
@@ -5755,13 +5797,14 @@
     "lng": 114.16,
     "type": "person",
     "title": "Hong Kong handover",
-    "description": "Britain transfers Hong Kong to the People’s Republic of China, often seen as the symbolic end of the British Empire.",
+    "description": "Britain transfers Hong Kong to the People’s Republic of China, often seen as the definitive end of the British Empire.",
     "relatedPolityIds": [
       "british-empire",
       "peoples-republic-of-china",
       "united-kingdom",
       "hong-kong"
-    ]
+    ],
+    "source": "Wikipedia: Handover of Hong Kong (checked 16 Nov 2026)"
   },
   {
     "id": "reformasi",
@@ -5821,14 +5864,15 @@
     "lng": 95.85,
     "type": "disaster",
     "title": "Indian Ocean tsunami",
-    "description": "A magnitude 9.1 earthquake off Sumatra triggers a tsunami that kills about 230,000 people in 14 countries, with Aceh worst hit.",
+    "description": "A magnitude 9.2–9.3 earthquake off Aceh in northern Sumatra triggers a tsunami that kills an estimated 228,000 people in 14 countries, especially in Aceh.",
     "relatedPolityIds": [
       "indonesia",
       "india",
       "rattanakosin-siam",
       "sri-lanka",
       "myanmar"
-    ]
+    ],
+    "source": "Wikipedia: 2004 Indian Ocean earthquake and tsunami (checked 16 Nov 2026)"
   },
   {
     "id": "smartphone-era",
@@ -5932,8 +5976,9 @@
     "lng": 114.3,
     "type": "disaster",
     "title": "COVID-19 pandemic",
-    "description": "A coronavirus pandemic, first identified in Wuhan in late 2019, spreads worldwide, causing millions of deaths and major economic disruption.",
-    "relatedPolityIds": []
+    "description": "A coronavirus pandemic, first identified in Wuhan in December 2019, spreads worldwide, causing an estimated 18.5 to 35.2 million deaths and severe economic disruption.",
+    "relatedPolityIds": [],
+    "source": "Wikipedia: COVID-19 pandemic (checked 16 Nov 2026)"
   },
   {
     "id": "brexit",
