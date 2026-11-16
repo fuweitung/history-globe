@@ -60,7 +60,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | Map coverage (all years) | `███████████████████░` 94% | Named land on the border maps that is linked to a civilisation |
 | · Prehistory | `██████████████████░░` 92% |  |
 | · Ancient | `██████████████████░░` 91% |  |
-| · Medieval | `███████████████████░` 94% |  |
+| · Medieval | `███████████████████░` 95% |  |
 | · Early modern | `███████████████████░` 93% |  |
 | · Modern | `████████████████████` 99% |  |
 | Civilisations shown on the map | `███████████████████░` 94% | 474 of 506; the rest fly to their capital |
