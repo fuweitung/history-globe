@@ -1,9 +1,9 @@
 import { useMemo, useState } from 'react';
-import { ERAS, EVENT_TYPES, PERSON_ROLES, POLITIES, POLITY_BY_ID, ROUTE_KINDS, eventImage, formatSpan, formatYear, isActive, personImage, wikiUrl } from '../lib/data';
-import { useImages } from '../lib/usePolity';
+import { ERAS, EVENT_TYPES, PERSON_ROLES, POLITIES, POLITY_BY_ID, ROUTE_KINDS, eventDetails, eventImage, formatSpan, formatYear, isActive, personDetails, personImage, wikiUrl } from '../lib/data';
+import { useEventDetails, useImages, usePeopleDetails } from '../lib/usePolity';
 import WikiPicture, { NoPicture } from './WikiPicture';
 import type { BorderProps } from '../lib/borders';
-import type { HistoryEvent, HistoryRoute, Person } from '../types';
+import type { EventSummary, HistoryRoute, PersonSummary } from '../types';
 import { ProgressBar } from './ChecklistCategory';
 import { norm } from '../lib/search';
 
@@ -15,14 +15,16 @@ export function PersonDetail({
   onOpenPolity,
   onJumpToYear,
 }: {
-  person: Person;
+  person: PersonSummary;
   year: number;
   onOpenPolity: (id: string) => void;
   onJumpToYear: (y: number) => void;
 }) {
   const r = PERSON_ROLES[person.role];
   useImages(); // re-render once the picture index has loaded
-  const picture = person.image ?? personImage(person.id);
+  usePeopleDetails(); // description, Wikipedia link and source arrive separately
+  const d = personDetails(person.id);
+  const picture = d?.image ?? personImage(person.id);
   const alive = year >= person.born && year <= person.died;
   const age = person.died - person.born - (person.born < 0 && person.died > 0 ? 1 : 0);
   return (
@@ -39,7 +41,7 @@ export function PersonDetail({
         {alive && <span className="ml-2 rounded-full bg-ok/15 px-2 py-0.5 text-[10px] font-semibold text-ok">Alive in {formatYear(year)}</span>}
       </p>
       {picture ? <WikiPicture image={picture} alt={person.name} height="h-56" className="mt-3" /> : <NoPicture className="mt-3" />}
-      <p className="mt-3 text-[13px] leading-relaxed text-parchment-100 first-letter:uppercase">{person.description}</p>
+      {d ? <p className="mt-3 text-[13px] leading-relaxed text-parchment-100 first-letter:uppercase">{d.description}</p> : <p className="mt-3 h-10 animate-pulse rounded-lg bg-white/[0.04]" aria-busy="true" aria-label="Loading the description" />}
       <div className="mt-3 flex flex-wrap gap-2">
         <button type="button" onClick={() => onJumpToYear(person.born)} className="rounded-full bg-white/[0.06] px-3 py-1.5 text-xs font-semibold text-parchment-100 ring-1 ring-white/10 hover:bg-white/10">
           Born · {formatYear(person.born)}
@@ -47,9 +49,11 @@ export function PersonDetail({
         <button type="button" onClick={() => onJumpToYear(person.died)} className="rounded-full bg-white/[0.06] px-3 py-1.5 text-xs font-semibold text-parchment-100 ring-1 ring-white/10 hover:bg-white/10">
           Died · {formatYear(person.died)}
         </button>
-        <a href={wikiUrl(person.wikiTitle)} target="_blank" rel="noopener" className="rounded-full px-3 py-1.5 text-xs font-semibold text-gold-300 hover:underline">
-          Wikipedia ↗
-        </a>
+        {d?.wikiTitle && (
+          <a href={wikiUrl(d.wikiTitle)} target="_blank" rel="noopener" className="rounded-full px-3 py-1.5 text-xs font-semibold text-gold-300 hover:underline">
+            Wikipedia ↗
+          </a>
+        )}
       </div>
       {person.polityIds.length > 0 && (
         <>
@@ -67,7 +71,7 @@ export function PersonDetail({
           </div>
         </>
       )}
-      <p className="mt-5 text-[11px] text-parchment-400">Source: {person.source}</p>
+      {d?.source && <p className="mt-5 text-[11px] text-parchment-400">Source: {d.source}</p>}
     </div>
   );
 }
@@ -144,12 +148,14 @@ export function EventDetail({
   onOpenPolity,
   onJumpToYear,
 }: {
-  event: HistoryEvent;
+  event: EventSummary;
   onOpenPolity: (id: string) => void;
   onJumpToYear: (y: number) => void;
 }) {
   const t = EVENT_TYPES[event.type];
   useImages(); // re-render once the picture index has loaded
+  useEventDetails(); // description and source arrive separately
+  const d = eventDetails(event.id);
   const picture = eventImage(event.id);
   return (
     <div className="px-5 pt-4 pb-8 md:pt-5">
@@ -173,11 +179,11 @@ export function EventDetail({
       </button>
       {event.yearApproximate && <p className="mt-1 text-[11px] text-warn">≈ Date is approximate.</p>}
       {picture ? <WikiPicture image={picture} alt={event.title} height="h-44" className="mt-3" /> : <NoPicture className="mt-3" />}
-      <p className="mt-4 text-[14px] leading-relaxed text-parchment-100">{event.description}</p>
+      {d ? <p className="mt-4 text-[14px] leading-relaxed text-parchment-100">{d.description}</p> : <p className="mt-3 h-10 animate-pulse rounded-lg bg-white/[0.04]" aria-busy="true" aria-label="Loading the description" />}
       <p className="mt-3 text-[11px] text-parchment-400 tabular-nums">
         Location: {event.lat.toFixed(2)}°, {event.lng.toFixed(2)}°
       </p>
-      {event.source && <p className="mt-1 text-[11px] leading-snug text-parchment-400">Source: {event.source}</p>}
+      {d?.source && <p className="mt-1 text-[11px] leading-snug text-parchment-400">Source: {d.source}</p>}
 
       {event.relatedPolityIds.length > 0 && (
         <div className="mt-5">

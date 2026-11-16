@@ -1,5 +1,13 @@
-/** Built by the polity-index plugin in vite.config.ts; typed as PolitySummary[] in src/lib/data.ts. */
+/** Built by the data-indexes plugin in vite.config.ts; typed in src/lib/data.ts. */
 declare module 'virtual:polity-index' {
+  const index: unknown[];
+  export default index;
+}
+declare module 'virtual:event-index' {
+  const index: unknown[];
+  export default index;
+}
+declare module 'virtual:person-index' {
   const index: unknown[];
   export default index;
 }

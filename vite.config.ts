@@ -5,41 +5,76 @@ import react from '@vitejs/plugin-react';
 import tailwindcss from '@tailwindcss/vite';
 import { normaliseChecklist, overallCompletion } from './src/lib/checklistSchema';
 
-const POLITY_DIR = resolve(__dirname, 'src/data/polities');
-const INDEX_ID = 'virtual:polity-index';
-const RESOLVED_INDEX_ID = '\0' + INDEX_ID;
+const DATA_DIR = resolve(__dirname, 'src/data');
+const POLITY_DIR = join(DATA_DIR, 'polities');
+const readJson = (path: string) => JSON.parse(readFileSync(path, 'utf8'));
+const pick = (o: Record<string, unknown>, keys: string[]) => Object.fromEntries(keys.filter((k) => o[k] !== undefined).map((k) => [k, o[k]]));
 
 /**
- * `virtual:polity-index`: the small part of every civilisation file that the map,
- * timeline, lists and search need at startup. The full checklist of a civilisation
- * is only downloaded when its panel opens (see loadPolity in src/lib/data.ts).
+ * Small startup indexes, so the map, timeline, lists and search titles work
+ * before the long texts arrive. The full files are loaded on demand
+ * (loadPolity, loadEventDetails, loadPeopleDetails in src/lib/data.ts).
+ *
+ * - `virtual:polity-index`: every civilisation without its checklist, series,
+ *   summary or known-for notes; plus peakYear and completion
+ * - `virtual:event-index`: events without description and source
+ * - `virtual:person-index`: people without description, wikiTitle, source, image
  */
-function polityIndex(): Plugin {
-  const build = () =>
-    readdirSync(POLITY_DIR)
-      .filter((f) => f.endsWith('.json'))
-      .sort()
-      .map((f) => {
-        const { checklist, series, ...rest } = JSON.parse(readFileSync(join(POLITY_DIR, f), 'utf8'));
-        const full = normaliseChecklist(checklist);
-        const peak = full.riseFall.peakPeriod.year;
-        return { ...rest, peakYear: typeof peak === 'number' ? peak : null, completion: overallCompletion(full) };
-      });
+const INDEXES: Record<string, { files: () => string[]; build: () => unknown }> = {
+  'virtual:polity-index': {
+    files: () => readdirSync(POLITY_DIR).filter((f) => f.endsWith('.json')).map((f) => join(POLITY_DIR, f)),
+    build: () =>
+      readdirSync(POLITY_DIR)
+        .filter((f) => f.endsWith('.json'))
+        .sort()
+        .map((f) => {
+          const { checklist, series, summary, knownFor, ...rest } = readJson(join(POLITY_DIR, f));
+          const full = normaliseChecklist(checklist);
+          const peak = full.riseFall.peakPeriod.year;
+          return {
+            ...rest,
+            ...(knownFor ? { knownFor: knownFor.map((k: Record<string, unknown>) => pick(k, ['label', 'kind', 'year'])) } : {}),
+            peakYear: typeof peak === 'number' ? peak : null,
+            completion: overallCompletion(full),
+          };
+        }),
+  },
+  'virtual:event-index': {
+    files: () => [join(DATA_DIR, 'events.json')],
+    build: () =>
+      readJson(join(DATA_DIR, 'events.json')).map((e: Record<string, unknown>) =>
+        pick(e, ['id', 'year', 'endYear', 'yearApproximate', 'lat', 'lng', 'type', 'title', 'relatedPolityIds']),
+      ),
+  },
+  'virtual:person-index': {
+    files: () => [join(DATA_DIR, 'people.json')],
+    build: () =>
+      readJson(join(DATA_DIR, 'people.json')).map((p: Record<string, unknown>) =>
+        pick(p, ['id', 'name', 'born', 'died', 'datesApproximate', 'role', 'polityIds', 'place']),
+      ),
+  },
+};
+
+function dataIndexes(): Plugin {
+  const watched = (file: string) => file.startsWith(POLITY_DIR) || file.endsWith('/events.json') || file.endsWith('/people.json');
   return {
-    name: 'polity-index',
-    resolveId: (id) => (id === INDEX_ID ? RESOLVED_INDEX_ID : null),
+    name: 'data-indexes',
+    resolveId: (id) => (id in INDEXES ? '\0' + id : null),
     load(id) {
-      if (id !== RESOLVED_INDEX_ID) return null;
-      // Watch each file (not the folder itself: in dev, Vite treats watched paths as imports
+      const index = id.startsWith('\0') ? INDEXES[id.slice(1)] : undefined;
+      if (!index) return null;
+      // Watch each file (not a folder: in dev, Vite treats watched paths as imports
       // and a folder cannot be resolved). New files are picked up by handleHotUpdate below.
-      for (const f of readdirSync(POLITY_DIR)) if (f.endsWith('.json')) this.addWatchFile(join(POLITY_DIR, f));
-      return `export default ${JSON.stringify(build())};`;
+      for (const f of index.files()) this.addWatchFile(f);
+      return `export default ${JSON.stringify(index.build())};`;
     },
-    // In dev, editing (or adding) a civilisation file rebuilds the index.
+    // In dev, editing (or adding) a data file rebuilds the indexes.
     handleHotUpdate({ file, server }) {
-      if (!file.startsWith(POLITY_DIR)) return;
-      const mod = server.moduleGraph.getModuleById(RESOLVED_INDEX_ID);
-      if (mod) server.moduleGraph.invalidateModule(mod);
+      if (!watched(file)) return;
+      for (const id of Object.keys(INDEXES)) {
+        const mod = server.moduleGraph.getModuleById('\0' + id);
+        if (mod) server.moduleGraph.invalidateModule(mod);
+      }
       server.ws.send({ type: 'full-reload' });
       return [];
     },
@@ -49,7 +84,7 @@ function polityIndex(): Plugin {
 export default defineConfig({
   // Relative base so the built site works from any sub-folder (e.g. GitHub Pages).
   base: './',
-  plugins: [polityIndex(), react(), tailwindcss()],
+  plugins: [dataIndexes(), react(), tailwindcss()],
   build: {
     rollupOptions: {
       output: {

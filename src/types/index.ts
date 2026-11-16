@@ -213,7 +213,7 @@ export interface ChecklistCompletion {
  * `virtual:polity-index` plugin in vite.config.ts): everything except the
  * checklist and the time series, plus a few values computed from them.
  */
-export type PolitySummary = Omit<Polity, 'checklist' | 'series'> & {
+export type PolitySummary = Omit<Polity, 'checklist' | 'series' | 'summary'> & {
   /** Year of the checklist's peak period, if it is a single number. */
   peakYear: number | null;
   completion: ChecklistCompletion;
@@ -241,6 +241,9 @@ export interface HistoryEvent {
   /** Where the facts come from (e.g. "Wikipedia: Korean War (checked 6 Nov 2026)"). */
   source?: string;
 }
+
+/** What the app knows about every event at startup (description and source load on demand). */
+export type EventSummary = Omit<HistoryEvent, 'description' | 'source'>;
 
 export type LinkRelation = 'succeeded' | 'conquered' | 'colonised' | 'traded_with' | 'allied_with';
 
@@ -306,6 +309,9 @@ export interface Person {
   source: string;
   image?: WikiImage;
 }
+
+/** What the app knows about every person at startup (long texts load on demand). */
+export type PersonSummary = Omit<Person, 'description' | 'wikiTitle' | 'source' | 'image'>;
 
 // ── Stories (guided tours) ───────────────────────────────────
 

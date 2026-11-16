@@ -1,10 +1,10 @@
-import type { EventType, FullPolity, HistoryEvent, HistoryRoute, Person, PersonRole, Polity, PolityLink, PolitySummary, RouteKind, Story, WikiImage } from '../types';
+import type { EventSummary, EventType, FullPolity, HistoryEvent, HistoryRoute, Person, PersonRole, PersonSummary, Polity, PolityLink, PolitySummary, RouteKind, Story, WikiImage } from '../types';
 import { normaliseChecklist } from './checklistSchema';
 import polityIndex from 'virtual:polity-index';
-import eventsJson from '../data/events.json';
+import eventIndex from 'virtual:event-index';
 import routesJson from '../data/routes.json';
 import linksJson from '../data/links.json';
-import peopleJson from '../data/people.json';
+import personIndex from 'virtual:person-index';
 import storiesJson from '../data/stories.json';
 
 // ── Civilisations ────────────────────────────────────────────
@@ -36,7 +36,8 @@ export function loadPolity(id: string): Promise<FullPolity> {
     const loader = polityLoaders[`../data/polities/${id}.json`];
     if (!summary || !loader) return Promise.reject(new Error(`Unknown civilisation "${id}"`));
     p = loader().then((raw) => {
-      const full: FullPolity = { ...raw, ...summary, checklist: normaliseChecklist(raw.checklist), series: raw.series };
+      // The file's own fields win (the index drops long texts such as known-for notes).
+      const full: FullPolity = { ...summary, ...raw, checklist: normaliseChecklist(raw.checklist), series: raw.series };
       fullPolities.set(id, full);
       return full;
     });
@@ -49,10 +50,39 @@ export function loadPolity(id: string): Promise<FullPolity> {
 /** Loads every civilisation (used by checklist search). */
 export const loadAllPolities = (): Promise<FullPolity[]> => Promise.all(POLITIES.map((p) => loadPolity(p.id)));
 
-export const EVENTS: HistoryEvent[] = (eventsJson as HistoryEvent[]).slice().sort((a, b) => a.year - b.year);
+export const EVENTS: EventSummary[] = (eventIndex as EventSummary[]).slice().sort((a, b) => a.year - b.year);
 export const EVENT_BY_ID = new Map(EVENTS.map((e) => [e.id, e]));
 
 export const LINKS: PolityLink[] = linksJson as PolityLink[];
+
+// ── Long texts of events and people (loaded on demand) ───────
+type EventDetails = Pick<HistoryEvent, 'description' | 'source'>;
+type PersonDetails = Pick<Person, 'description' | 'wikiTitle' | 'source' | 'image'>;
+let EVENT_DETAILS: Map<string, EventDetails> | null = null;
+let PERSON_DETAILS: Map<string, PersonDetails> | null = null;
+let eventDetailsPromise: Promise<void> | null = null;
+let personDetailsPromise: Promise<void> | null = null;
+
+/** Loads every event's description and source (one file, cached). */
+export function loadEventDetails(): Promise<void> {
+  eventDetailsPromise ??= import('../data/events.json').then((m) => {
+    EVENT_DETAILS = new Map((m.default as HistoryEvent[]).map((e) => [e.id, { description: e.description, source: e.source }]));
+  });
+  eventDetailsPromise.catch(() => (eventDetailsPromise = null));
+  return eventDetailsPromise;
+}
+/** Loads every person's description, Wikipedia title, source and picture (one file, cached). */
+export function loadPeopleDetails(): Promise<void> {
+  personDetailsPromise ??= import('../data/people.json').then((m) => {
+    PERSON_DETAILS = new Map((m.default as unknown as Person[]).map((p) => [p.id, { description: p.description, wikiTitle: p.wikiTitle, source: p.source, image: p.image }]));
+  });
+  personDetailsPromise.catch(() => (personDetailsPromise = null));
+  return personDetailsPromise;
+}
+export const eventDetailsLoaded = () => EVENT_DETAILS !== null;
+export const peopleDetailsLoaded = () => PERSON_DETAILS !== null;
+export const eventDetails = (id: string): EventDetails | undefined => EVENT_DETAILS?.get(id);
+export const personDetails = (id: string): PersonDetails | undefined => PERSON_DETAILS?.get(id);
 
 // ── Pictures (loaded on demand: images.json is large) ────────
 type ImageIndex = { polities: Record<string, WikiImage>; known: Record<string, WikiImage | null>; people?: Record<string, WikiImage>; events?: Record<string, WikiImage> };
@@ -70,7 +100,7 @@ export const eventImage = (id: string): WikiImage | undefined => IMAGES?.events?
 export const knownImage = (polityId: string, label: string): WikiImage | undefined => IMAGES?.known[`${polityId}|${label}`] ?? undefined;
 export const wikiUrl = (title: string) => `https://en.wikipedia.org/wiki/${encodeURIComponent(title.replace(/ /g, '_'))}`;
 
-export const PEOPLE: Person[] = (peopleJson as unknown as Person[]).slice().sort((a, b) => a.born - b.born);
+export const PEOPLE: PersonSummary[] = (personIndex as PersonSummary[]).slice().sort((a, b) => a.born - b.born);
 export const PERSON_BY_ID = new Map(PEOPLE.map((p) => [p.id, p]));
 export const peopleForPolity = (id: string) => PEOPLE.filter((p) => p.polityIds.includes(id));
 export const PERSON_ROLES: Record<PersonRole, { label: string; icon: string }> = {
@@ -118,7 +148,7 @@ export function yearsOutside(p: Pick<Polity, 'startYear' | 'endYear'>, year: num
   return 0;
 }
 
-export function eventsForPolity(id: string): HistoryEvent[] {
+export function eventsForPolity(id: string): EventSummary[] {
   return EVENTS.filter((e) => e.relatedPolityIds.includes(id));
 }
 

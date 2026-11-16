@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import { ERAS, MAX_YEAR, MIN_YEAR, eraOf, fracToYear, normaliseYear, stepYear, yearToFrac } from '../lib/timeScale';
-import { POLITY_BY_ID, formatYear, isActive, loadPolity } from '../lib/data';
+import { EVENT_BY_ID, POLITY_BY_ID, eventDetails, formatYear, isActive, loadEventDetails, loadPolity } from '../lib/data';
 import { loadFactIndex, norm, search, snippet } from '../lib/search';
 import { candidatesFor, nearestSnapshot, resolvePolity } from '../lib/borders';
 import { TERRITORY, niceTicks } from '../components/TerritoryChart';
@@ -88,12 +88,24 @@ describe('search', () => {
     expect(snippet(text, 'kava', 20)).toContain('kava');
   });
 
+  it('searches event descriptions once the long texts have loaded', async () => {
+    await loadFactIndex();
+    expect(search('maize indigenous').events.some((h) => h.kind === 'event' && h.id === 'maize-domesticated')).toBe(true);
+  });
+
   it('requires every word to match', () => {
     expect(search('rome xyzzyq').polities).toHaveLength(0);
   });
 });
 
 describe('data loading', () => {
+  it('keeps long texts out of the startup index and loads them on demand', async () => {
+    const before = EVENT_BY_ID.get('maize-domesticated')!;
+    expect('description' in before).toBe(false);
+    await loadEventDetails();
+    expect(eventDetails('maize-domesticated')?.description).toBeTruthy();
+  });
+
   it('loads a full civilisation on demand, keeping the startup index fields', async () => {
     const summary = POLITY_BY_ID.get('roman-empire')!;
     const full = await loadPolity('roman-empire');
