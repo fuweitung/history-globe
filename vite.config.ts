@@ -1,3 +1,4 @@
+/// <reference types="vitest/config" />
 import { readdirSync, readFileSync } from 'node:fs';
 import { join, resolve } from 'node:path';
 import { defineConfig, type Plugin } from 'vite';
@@ -130,6 +131,10 @@ function dataIndexes(): Plugin {
 }
 
 export default defineConfig({
+  test: {
+    // Some search tests load all ~500 civilisation files; CI machines need more than the 5 s default.
+    testTimeout: 60_000,
+  },
   // Relative base so the built site works from any sub-folder (e.g. GitHub Pages).
   base: './',
   plugins: [dataIndexes(), react(), tailwindcss()],

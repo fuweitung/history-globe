@@ -745,6 +745,7 @@ function About() {
         ten categories, from geography to rise-and-fall markers, that help explain <em>why</em> civilisations rise, peak and decline.
       </p>
       <ul className="list-disc space-y-1 pl-5">
+        <li><strong className="text-parchment-50">Keyboard:</strong> map shapes need a mouse or touch, but every civilisation is in the <strong className="text-parchment-50">Civilisations</strong> list and in <strong className="text-parchment-50">Search</strong> (press <strong className="text-parchment-50">/</strong>); <strong className="text-parchment-50">Esc</strong> closes a panel.</li>
         <li><strong className="text-parchment-50">← / →</strong> step (10 years in the Ancient era, 5 in the Medieval, 1 after 1500) · <strong className="text-parchment-50">Shift</strong> + arrow steps ten times · <strong className="text-parchment-50">Space</strong> plays</li>
         <li>Each era gets its own share of the timeline, so 5,500 years fit without squeezing recent centuries. BCE years count down towards 1 CE (there is no year 0).</li>
         <li>Chinese dynasties follow the <em>dynastic cycle</em>: rise, peak, decline, loss of the Mandate of Heaven, and replacement. Compare their Rise &amp; fall markers.</li>
