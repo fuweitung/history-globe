@@ -130,6 +130,33 @@ function dataIndexes(): Plugin {
   };
 }
 
+/**
+ * Build-only page head for hosts that cannot send HTTP headers (GitHub Pages).
+ * - Content-Security-Policy as a <meta> tag (same rules as public/_headers; frame-ancestors
+ *   cannot be set this way).
+ * - Search engines are told NOT to index the site unless VITE_INDEXABLE=true is set at build time.
+ *   Safe by default: launching is one setting in .github/workflows/pages.yml.
+ * - Absolute share-image URLs (link cards need them); the site address comes from SITE_URL.
+ */
+function launchHead(): Plugin {
+  const siteUrl = (process.env.SITE_URL ?? 'https://fuweitung.github.io/history-globe/').replace(/\/?$/, '/');
+  const indexable = process.env.VITE_INDEXABLE === 'true';
+  const csp =
+    "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data: blob: https://upload.wikimedia.org https://thumb.wikimedia.org; connect-src 'self'; worker-src 'self' blob:; child-src blob:; object-src 'none'; base-uri 'self'; form-action 'self'";
+  return {
+    name: 'launch-head',
+    apply: 'build',
+    transformIndexHtml: () => [
+      { tag: 'meta', attrs: { 'http-equiv': 'Content-Security-Policy', content: csp }, injectTo: 'head-prepend' },
+      ...(indexable ? [] : [{ tag: 'meta', attrs: { name: 'robots', content: 'noindex, nofollow' }, injectTo: 'head' as const }]),
+      { tag: 'link', attrs: { rel: 'canonical', href: siteUrl }, injectTo: 'head' },
+      { tag: 'meta', attrs: { property: 'og:url', content: siteUrl }, injectTo: 'head' },
+      { tag: 'meta', attrs: { property: 'og:image', content: siteUrl + 'og-image.png' }, injectTo: 'head' },
+      { tag: 'meta', attrs: { name: 'twitter:image', content: siteUrl + 'og-image.png' }, injectTo: 'head' },
+    ],
+  };
+}
+
 export default defineConfig({
   test: {
     // Some search tests load all ~500 civilisation files; CI machines need more than the 5 s default.
@@ -137,7 +164,7 @@ export default defineConfig({
   },
   // Relative base so the built site works from any sub-folder (e.g. GitHub Pages).
   base: './',
-  plugins: [dataIndexes(), react(), tailwindcss()],
+  plugins: [dataIndexes(), launchHead(), react(), tailwindcss()],
   build: {
     rollupOptions: {
       output: {
