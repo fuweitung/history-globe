@@ -1,0 +1,28 @@
+name: Factual mistake
+description: Something in a civilisation, event, person or map is wrong
+labels: [content, fact-check]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping. You can also use the **Report a mistake** link inside the app.
+  - type: input
+    id: where
+    attributes:
+      label: Where is it?
+      description: The civilisation, event or person, and the item (for example "Roman Empire, population").
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What is wrong?
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source for the correction
+      description: A link or book. Say whether you read it yourself.
+    validations:
+      required: false
