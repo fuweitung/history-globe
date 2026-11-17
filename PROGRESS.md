@@ -26,6 +26,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 - [x] “Known for” pictures: 985 of 1,557 items after three search rounds, each match reviewed by hand (#2, #33)
 
 ### Next
+- [ ] **Top priority (Fuwei):** human read of the six disputed topics (Hong Kong 2019–20, Crimea, Cyprus, Western Sahara, Nagorno-Karabakh, Rohingya), then agree who reads the Report-a-mistake form (launch plan items 5 and 6; see docs/sensitive-review.md)
 - [x] Events for every civilisation (+132), famous people (+141) and links (+67, every civilisation now linked)
 - [ ] Fact-check the content added on 6 Nov 2026 (REVIEW.md, Priority 0) (#4)
 - [x] Map blanks round 3: prehistory 57% → 92% (archaic Americas, early Mesoamerican farmers, Austronesians, Southeast Asian rice farmers, Bronze Age steppe, Neolithic and Bronze Age Europe, pre-Islamic Arabia, Central African forest peoples) (#12)
