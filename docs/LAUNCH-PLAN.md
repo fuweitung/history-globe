@@ -54,13 +54,50 @@ Each post is under 280 characters.
 
 **Thread**
 
-1. > I’ve spent months building History Globe: an interactive globe of world history from 10,000 BCE to today. 🌍
-   > It’s a beta, and I’d love your eyes on it. 🧵 [LINK]
+1. > I built an interactive globe of world history in 12 days with Claude Code. 🌍
+   > 10,000 BCE to today. It’s a beta, and I’d love your eyes on it. 🧵 [LINK]
 2. > Drag the timeline and borders redraw. Open any civilisation for a 43-point profile: geography, economy, politics, daily life, and *why* it rose and fell.
 3. > Over 500 civilisations, 960+ events, 450+ people, 18 trade routes. Every fact has a source and a label: confirmed, estimated or disputed.
 4. > Where historians disagree, the app shows each side. No living people are named. It’s a beta, so some facts are still waiting for a second check.
 5. > Found something wrong? Use the “Report a mistake” link in the app. It’s open source (GPL-3.0): [GitHub link]
    > Built with @hongquanteoh1, who checks the facts and builds the maps.
+
+### Claude angle (more attention-grabbing versions)
+
+Many people tag the AI tools they build with, and it does draw clicks. It is also true here: the git history shows the project was built with Claude Code (commits co-authored by Claude Opus 5.5, Sonnet 5.5 and Haiku 5.5), first commit 5 Nov 2026. Use the hook, but keep the honesty rules: say a human made the decisions, say it is a beta, and never imply the facts were verified by AI.
+
+**X, hooks (pick one; all under 280 characters)**
+
+1. > I built a globe of ALL of world history in 12 days with Claude Code. 🌍
+   > 500+ civilisations. 10,000 BCE to today. Drag the timeline, watch empires rise and collapse.
+   > Free, open source, beta. [LINK]
+2. > Rome → the Mongols in 15 seconds. 🌍
+   > Built with @claudeai (Claude Code) in 12 days: 500+ civilisations, 960+ events, every fact sourced. Free and open source. [LINK]
+3. > Why did empires fall? I built a globe to find out. 🌍
+   > Two engineering students + Claude Code, 12 days, 500+ civilisations from 10,000 BCE to today. Beta, open source. Tell us what we got wrong. [LINK]
+4. > Two mechanical engineering students and Claude Code made a world-history globe in 12 days. 🌍
+   > It's a beta and it has mistakes. Help us find them. [LINK]
+
+**X thread opener (replaces post 1)**
+
+> I built an interactive globe of world history in 12 days with Claude Code (Opus 5.5 + Sonnet 5.5). 🌍
+> 10,000 BCE to today. Every empire. Every fact sourced. Here's how it works 🧵 [LINK]
+
+_Tag `@claudeai` and/or `@AnthropicAI`. Say “Claude Code” plus the model names; the commits show Opus 5.5, Sonnet 5.5 and Haiku 5.5 were all used._
+
+**LinkedIn, first line options** (the first line decides whether people click “see more”)
+
+- “Two engineering students and an AI built a world-history globe in 12 days. Here is what worked and what didn’t.”
+- “I let Claude Code build a 500-civilisation history globe. The hard part was not the code.” _(then explain: sources, certainty labels, the no-living-people rule, sensitive topics)_
+
+**Threads**
+
+> Rome to the Mongols in 15 seconds 🌍 I built a whole world-history globe in 12 days with Claude Code. 500+ civilisations, free, open source. It's a beta, so tell me what's wrong. [LINK]
+
+**Honesty guard-rails (keep these even when going for clicks)**
+- Do say: “built with Claude Code”, “12 days”, “beta”, “every fact has a source”.
+- Do not say: “AI fact-checked”, “100% accurate”, “verified”, or “no mistakes”. About 42% of items are checked against a source page, and the sensitive-topic review was only done by an AI.
+- Add one line on the human role (“we chose the sources, the rules and what to leave out”). It is true, and it answers the common “AI slop” reply.
 
 ### LinkedIn
 
