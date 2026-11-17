@@ -1,0 +1,17 @@
+name: Feature idea
+description: Suggest something new for History Globe
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to see?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why would it help?
+      description: For example, who would use it (students, teachers, general readers).
+    validations:
+      required: false

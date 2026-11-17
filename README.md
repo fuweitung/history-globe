@@ -60,6 +60,7 @@ Then open http://localhost:5173.
 - [docs/DATA.md](docs/DATA.md): every feature, the project’s files, and how to add or edit data
 - [docs/LAUNCH-PLAN.md](docs/LAUNCH-PLAN.md): our plan for going public
 - [CONTRIBUTING.md](CONTRIBUTING.md): how we work together
+- [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) and [SECURITY.md](SECURITY.md): how we treat each other, and how to report a security problem
 - [REVIEW.md](REVIEW.md): what a teacher or expert should check first
 
 ## Made by
