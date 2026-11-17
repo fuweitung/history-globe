@@ -1,7 +1,7 @@
 # History Globe: launch plan
 
 **Status:** draft for the owner’s approval. Nothing here changes the app. The repository stays **private** and hosting stays **paused** until the owner decides to go ahead.
-**Written:** 17 November 2026.
+**Written:** 17 November 2026. **Progress update, same day:** hosting is decided (GitHub Pages) and the preparation work is in pull requests #286, #287 and this one; see the ✅ marks below.
 
 Contents: [1. Bios](#1-profile-bios) · [2. Launch posts](#2-launch-posts) · [3. What is still missing](#3-forecast-what-is-still-missing-before-release) · [4. Suggested order](#4-suggested-order)
 
@@ -172,8 +172,8 @@ Grouped by how much they matter. “Owner” means a decision or action only the
 
 | # | Task | Why it matters | Who |
 | --- | --- | --- | --- |
-| 1 | **Decide how to host** (for example Cloudflare or GitHub Pages) and set it up | There is no live site yet; Cloudflare setup was paused on 6 Nov. | Owner |
-| 2 | **Remove the “do not index” header** in `public/_headers` (`X-Robots-Tag: noindex, nofollow`) at the moment of launch | Left in, search engines will never list the site. | Claude |
+| 1 | ✅ **Hosting decided: GitHub Pages.** Deploy workflow is ready (`.github/workflows/pages.yml`, PR #286). Still to do on the day: make the repo public and switch Pages on (Settings → Pages → Source: GitHub Actions) | There is no live site yet; Cloudflare setup was paused on 6 Nov. | Owner |
+| 2 | ✅ **Indexing switch** (PR #286). The built site says “do not index” by default. At launch change `VITE_INDEXABLE` to `'true'` in `pages.yml` (the `public/_headers` file does nothing on GitHub Pages) | Left in, search engines will never list the site. | Claude |
 | 3 | **Scan the repository history** for anything private (personal paths, keys, unused reports) before making the repository public. **Known finding:** about 224 commits carry two personal Gmail addresses (the owner’s and Mike’s) as the commit author. Making the repository public publishes them. Fix: each person switches to their GitHub “noreply” address for future commits (GitHub → Settings → Emails → keep my email private); rewriting old history is possible but risky and needs both people’s agreement | Public history cannot be fully taken back. | Owner and Mike decide; Claude scans |
 | 4 | **Decide the licence of the written content.** Much of the text is summarised from Wikipedia, which is CC BY-SA. Confirm that the About and README wording (“content stays under the licences of its sources”) is enough, or choose to release the data under CC BY-SA 4.0 | Avoids a licensing mistake that is hard to fix after launch. | Owner, with advice |
 | 5 | **Human read of the sensitive topics** (12 reviewed by an AI; six disputed topics not reviewed at all: Hong Kong 2019–20, Crimea, Cyprus, Western Sahara, Nagorno-Karabakh, Rohingya). Either get an expert or teacher to read them, or launch with those entries clearly marked and the beta bar visible | The biggest reputational risk for a history project. | Owner and Mike |
@@ -184,14 +184,14 @@ Grouped by how much they matter. “Owner” means a decision or action only the
 
 | # | Task | Why it matters | Who |
 | --- | --- | --- | --- |
-| 8 | **Preview image for sharing** (a 1200×630 picture) and switch `twitter:card` to `summary_large_image` | Today a shared link shows no picture, which gets far fewer clicks. | Claude + owner chooses image |
-| 9 | **Screenshots and a 30–60 second screen recording** of the timeline moving | Needed for every post in section 2. | Owner records, Claude helps |
+| 8 | ✅ (PR #286) **Preview image for sharing** (a 1200×630 picture) and switch `twitter:card` to `summary_large_image` | Today a shared link shows no picture, which gets far fewer clicks. | Claude + owner chooses image |
+| 9 | ✅ **15-second clip with and without music made** (kept on the owner’s computer, `launch-assets/`, not in git). **Screenshots and a 30–60 second screen recording** of the timeline moving | Needed for every post in section 2. | Owner records, Claude helps |
 | 10 | **Test on real phones and other browsers** (iPhone Safari, Android Chrome, Firefox) and check load time. The built site is about 40 MB, mostly map data | Many first visitors will arrive on a phone. | Owner, Claude |
-| 11 | **Accessibility pass** (keyboard use, contrast, screen-reader labels) | Teachers and schools will expect it. | Claude |
-| 12 | **Add `SECURITY.md`, `CODE_OF_CONDUCT.md` and issue templates** (one for “factual mistake”, one for “feature idea”) | A public repository without them looks unfinished; templates also raise the quality of reports. | Claude |
+| 11 | ✅ (partly, this PR) **Accessibility pass.** Checked: every button, link and picture has a name, the page language is set, keyboard focus is visible; added the missing main landmark. Not yet checked: colour contrast and a real screen reader. **Accessibility pass** (keyboard use, contrast, screen-reader labels) | Teachers and schools will expect it. | Claude |
+| 12 | ✅ (PR #287) **Add `SECURITY.md`, `CODE_OF_CONDUCT.md` and issue templates** (one for “factual mistake”, one for “feature idea”) | A public repository without them looks unfinished; templates also raise the quality of reports. | Claude |
 | 13 | **Protect `main` on GitHub** (require a pull request and passing CI) | Stops accidents once strangers can see the repository. | Owner (settings) |
 | 14 | **Choose a domain name and reserve the same handle** on X, Threads and LinkedIn | Keeps the name consistent across places. | Owner |
-| 15 | **Privacy note.** The app has no analytics, but the Google Form collects whatever people type. Say so in one sentence on the About page, and decide whether to add privacy-friendly analytics | Honest and short; analytics help judge the launch. | Owner decides, Claude writes |
+| 15 | ✅ (this PR) **Privacy note** added to the About page (analytics: none for now). Original item: **Privacy note.** The app has no analytics, but the Google Form collects whatever people type. Say so in one sentence on the About page, and decide whether to add privacy-friendly analytics | Honest and short; analytics help judge the launch. | Owner decides, Claude writes |
 | 16 | **Update the wording at launch:** the README “status” note, the About beta text, `docs/IMPROVEMENT-PLAN.md` Phase 6, and PROGRESS.md “Later” list | Stops the docs saying “not yet public” after it is. | Claude |
 | 17 | **Hotlinked pictures:** the app loads images straight from Wikimedia. Fine at small scale; if traffic grows, consider hosting resized copies | Be a good neighbour to Wikimedia’s servers. | Later |
 

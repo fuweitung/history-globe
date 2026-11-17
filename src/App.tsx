@@ -468,7 +468,7 @@ export default function App() {
   }, [panelTitle]);
 
   return (
-    <div className="relative h-full w-full overflow-clip">
+    <div role="main" className="relative h-full w-full overflow-clip">
       <MapView
         snapshot={snapshot}
         selectedPolityId={selectedPolity?.id ?? null}
@@ -804,6 +804,10 @@ function About() {
       </p>
       <p>
         The code is open source under the GPL-3.0 licence. Written content and pictures stay under the licences of their sources, shown beside each item and picture.
+      </p>
+      <h3 className="pt-2 text-[11px] font-semibold tracking-wider text-parchment-300 uppercase">Privacy</h3>
+      <p>
+        History Globe has no accounts and no analytics or tracking. Pictures load directly from Wikimedia Commons, which, like any website you visit, can see your internet address. The “Report a mistake” form is a Google Form, so Google’s own privacy policy applies to it; we use only what you type there to fix mistakes.
       </p>
     </div>
   );
