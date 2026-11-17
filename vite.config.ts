@@ -146,6 +146,21 @@ function launchHead(): Plugin {
   return {
     name: 'launch-head',
     apply: 'build',
+    // robots.txt and sitemap.xml follow SITE_URL and the indexing switch, so a new domain needs no file edits.
+    generateBundle() {
+      this.emitFile({
+        type: 'asset',
+        fileName: 'robots.txt',
+        source: indexable ? `User-agent: *\nAllow: /\n\nSitemap: ${siteUrl}sitemap.xml\n` : 'User-agent: *\nDisallow: /\n',
+      });
+      if (indexable) {
+        this.emitFile({
+          type: 'asset',
+          fileName: 'sitemap.xml',
+          source: `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n  <url><loc>${siteUrl}</loc></url>\n</urlset>\n`,
+        });
+      }
+    },
     transformIndexHtml: () => [
       { tag: 'meta', attrs: { 'http-equiv': 'Content-Security-Policy', content: csp }, injectTo: 'head-prepend' },
       ...(indexable ? [] : [{ tag: 'meta', attrs: { name: 'robots', content: 'noindex, nofollow' }, injectTo: 'head' as const }]),

@@ -2,9 +2,11 @@
 
 **An interactive globe of world history, from 10,000 BCE to today.**
 
+**[Open History Globe →](https://fuweitung.github.io/history-globe/)**
+
 Drag the timeline and watch borders change. Open any civilisation to see not only what happened, but **why** it rose, reached its peak and declined.
 
-> **A note on status.** History Globe is in beta. It is a work in progress, many facts are still waiting for a second check, and the project has not been released publicly yet. We would rather tell you that plainly than pretend it is finished.
+> **A note on status.** History Globe is in beta, released publicly in November 2026. It is a work in progress and many facts are still waiting for a second check. We would rather tell you that plainly than pretend it is finished.
 
 ## Why we built it
 

@@ -2,7 +2,7 @@
 
 How complete History Globe is. **The numbers are calculated by `npm run progress`**; run it after a change and commit the new file. Only the Roadmap section below is edited by hand.
 
-_Last updated: 2026-11-16_
+_Last updated: 2026-11-17_
 
 <!-- roadmap:start -->
 ## Roadmap
@@ -50,7 +50,8 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 ### Later
 - [ ] Quiz mode for students
 - [ ] Private online preview for the team
-- [ ] Open licence (GPL-3.0) and public release
+- [x] Open licence (GPL-3.0) and public release (beta, 17 Nov 2026)
+- [ ] Per-civilisation web pages for search engines (SEO)
 <!-- roadmap:end -->
 
 ## At a glance
