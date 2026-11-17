@@ -1,7 +1,7 @@
 # History Globe: launch plan
 
 **Status:** draft for the owner’s approval. Nothing here changes the app. The repository stays **private** and hosting stays **paused** until the owner decides to go ahead.
-**Written:** 17 November 2026. **Progress update, same day:** hosting is decided (GitHub Pages) and the preparation work is in pull requests #286, #287 and this one; see the ✅ marks below.
+**Written:** 17 November 2026. **Launched 17 Nov 2026** (repository public, site live on GitHub Pages, posts published). **Progress update, same day:** hosting is decided (GitHub Pages) and the preparation work is in pull requests #286, #287 and this one; see the ✅ marks below.
 
 Contents: [1. Bios](#1-profile-bios) · [2. Launch posts](#2-launch-posts) · [3. What is still missing](#3-forecast-what-is-still-missing-before-release) · [4. Suggested order](#4-suggested-order)
 

@@ -1,12 +1,10 @@
 name: Deploy to GitHub Pages
 
-# Manual for now. Once the repository is public and Pages is switched on
-# (Settings -> Pages -> Source: GitHub Actions), also deploy on every push to main:
-# uncomment the `push` lines below.
+# Deploys on every push to main, and can be run by hand.
 on:
   workflow_dispatch:
-  # push:
-  #   branches: [main]
+  push:
+    branches: [main]
 
 permissions:
   contents: read
@@ -22,9 +20,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     env:
-      # Soft launch: the site is online but search engines are told not to list it.
-      # LAUNCH DAY: change to 'true' (this is the only switch).
-      VITE_INDEXABLE: 'false'
+      # 'true' = search engines may list the site (launched 17 Nov 2026).
+      # Set to 'false' to hide it from search engines again.
+      VITE_INDEXABLE: 'true'
       # Address of the site (used for share-card image links). Change if a custom domain is added.
       SITE_URL: https://fuweitung.github.io/history-globe/
     steps:

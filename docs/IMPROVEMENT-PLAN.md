@@ -22,7 +22,7 @@
 - [ ] **Phase 1: Visual assets** (people and event pictures, remaining Known-for pictures). Flags are no longer part of it.
 - [ ] **Story format** (Phases 3–5): on hold while the owner and Mike decide the format. A “Chapters” sample (Road to Space) was shown and not adopted. Update 14 Nov: the list of stories (first wave of 12) is agreed as a plan; presentation is still brainstorming. See [STORIES-PLAN.md](STORIES-PLAN.md).
 - [ ] **Fact-check** (#4, Mike): on hold.
-- [ ] **Phase 6: Public launch** (SEO pages, licence, hosting): on hold.
+- [x] **Phase 6: Public launch**: beta released 17 Nov 2026 (GPL-3.0, GitHub Pages, repository public). Still to do: per-civilisation static pages for SEO.
 
 ### On hold (you asked to pause these)
 - [ ] Story timeline improvements
