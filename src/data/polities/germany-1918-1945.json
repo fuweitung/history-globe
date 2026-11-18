@@ -31,6 +31,23 @@
       1945
     ]
   },
+  "mapLabels": [
+    {
+      "name": "East Prussia",
+      "label": "East Prussia"
+    },
+    {
+      "name": "Danzig",
+      "label": "Danzig"
+    },
+    {
+      "label": "Weimar Germany",
+      "to": 1932
+    },
+    {
+      "label": "Nazi Germany"
+    }
+  ],
   "color": "#5a5a5a",
   "knownFor": [
     {

@@ -54,7 +54,8 @@
     1960,
     1994,
     2000,
-    2010
+    2010,
+    2025
   ],
   "simplified": {
     "tool": "mapshaper",
@@ -115,5 +116,9 @@
       2000,
       2010
     ]
+  },
+  "current": {
+    "year": 2025,
+    "source": "Natural Earth 1:50m admin-0 countries (public domain), names from the 2010 map"
   }
 }

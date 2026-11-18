@@ -1,5 +1,6 @@
 // Names land shapes that the source maps leave unnamed, corrects a few overlords and misleading
-// names (`was`), and splits a few shapes that the source draws as one (`cutAlong`), see
+// names (`was`), splits a few shapes that the source draws as one (`cutAlong`), and copies a few
+// shapes from a neighbouring map where the source repeats an older one (`overlay`), see
 // scripts/border-fixes.json.
 // Safe to run more than once. Run: npm run apply-border-fixes (also run by fetch-borders).
 import { readFile, writeFile } from 'node:fs/promises';
@@ -70,6 +71,21 @@ function detach(feature, fix) {
   return keep.length && rest.length ? { keep: geom(keep), rest: geom(rest) } : null;
 }
 
+// Copies whole shapes from another map (`overlay.from`, by `overlay.names`) onto this one and drops
+// the shapes named in `remove`. For regions where the source repeats an older map (South America in
+// 1600 is the 1530 map). The copies go last, so they draw on top of whatever they overlap.
+async function overlay(fc, fix) {
+  if (fc.features.some((f) => f.properties?.OVERLAY_FROM === fix.overlay.from)) return false;
+  const src = JSON.parse(await readFile(join(dir, fileFor(fix.overlay.from)), 'utf8'));
+  const copies = src.features.filter((f) => fix.overlay.names.includes(f.properties?.NAME));
+  const missing = fix.overlay.names.filter((n) => !copies.some((f) => f.properties.NAME === n));
+  if (missing.length) console.warn(`  ! ${fix.years}: ${missing.join(', ')} not found on the ${fix.overlay.from} map`);
+  if (!copies.length) return false;
+  fc.features = fc.features.filter((f) => !(fix.remove ?? []).includes(f.properties?.NAME));
+  for (const f of copies) fc.features.push({ ...f, properties: { ...f.properties, FIXED_BY: 'border-fixes.json', OVERLAY_FROM: fix.overlay.from } });
+  return true;
+}
+
 export async function applyBorderFixes() {
   const { fixes } = JSON.parse(await readFile(join(root, 'scripts', 'border-fixes.json'), 'utf8'));
   const byYear = new Map();
@@ -80,6 +96,10 @@ export async function applyBorderFixes() {
     const fc = JSON.parse(await readFile(path, 'utf8'));
     let changed = false;
     for (const fix of list) {
+      if (fix.overlay) {
+        if (await overlay(fc, fix)) { changed = true; named++; }
+        continue;
+      }
       const hit = fc.features.find((f) => contains(f.geometry, fix.point) && (!f.properties?.NAME || f.properties.NAME === fix.name || (fix.was && f.properties.NAME === fix.was)));
       if (!hit) { console.warn(`  ! ${y}: no unnamed shape at [${fix.point}] for ${fix.name}`); continue; }
       if (fix.cutAlong || fix.restBox) {

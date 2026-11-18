@@ -29,7 +29,11 @@ export async function simplifyBorders({ force = false } = {}) {
   for (const y of manifest.years) {
     if (done.has(y)) continue;
     const path = join(dir, fileFor(y));
-    const input = await readFile(path, 'utf8');
+    const input = await readFile(path, 'utf8').catch(() => null);
+    if (input === null) {
+      console.warn(`  ✗ ${y}  ${fileFor(y)} not found (the current map is built after the download)`);
+      continue;
+    }
     const out = await mapshaper.applyCommands(
       `-i in.json -simplify interval=${SETTINGS.interval} keep-shapes -o out.json precision=${SETTINGS.precision} format=geojson`,
       { 'in.json': input },

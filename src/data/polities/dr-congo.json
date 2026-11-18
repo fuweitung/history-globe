@@ -22,6 +22,25 @@
     1885,
     null
   ],
+  "mapLabels": [
+    {
+      "label": "Congo Free State",
+      "to": 1907
+    },
+    {
+      "label": "Belgian Congo",
+      "from": 1908,
+      "to": 1959
+    },
+    {
+      "label": "Zaire",
+      "from": 1971,
+      "to": 1996
+    },
+    {
+      "label": "DR Congo"
+    }
+  ],
   "color": "#3f78a8",
   "knownFor": [
     {
