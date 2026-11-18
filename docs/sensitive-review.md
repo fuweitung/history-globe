@@ -509,3 +509,7 @@ Still open (needs a person):
 ### Kosovo, fourth round (Claude, 18 Nov 2026)
 Added events: Battle of Kosovo 1389, Ottoman conquest 1455, 1690 migration, League of Prizren 1878, 1912 Serbian takeover, interwar settlement, 1981 protests, 1989 autonomy cut; and a colonisation field.
 Open: the 1448 battle (not covered by the page read); the wartime period 1941–45 (the page failed to load; only the History of Kosovo timeline was read); the Dečani/Peć founding dates; the 1913 commission report; the 1690 numbers (30,000–40,000) are a range from one snippet; casualty counts for 1981 and 1989 vary. The events use only polities that exist on the map at that date, so most pre-2008 events do not show on the Kosovo page itself.
+
+### Kosovo, fifth round (Claude, 18 Nov 2026)
+Added events: Kosovo in WWII 1941, Bujan Conference 1943, province status 1963 and 1974, parallel institutions and 1991 referendum; filled the disease field (Roma camps, lead) and added Trepča to resources.
+Open: the WWII page loaded only as search snippets (figures are contested: 70,000–100,000 Serbs and Montenegrins, 72,000 Albanians settled); the Bujan resolution text was not read; the Roma lead-poisoning report was seen only as a title and contents list; no source yet for 1944–45 (Drenica uprising, military rule), 1948–66 detail, 1997–98 events, Račak, Rambouillet, NATO campaign detail, UNMIK years, 2004 (19 killed per the Kosovo Serbs page), the Specialist Chambers cases, and Brussels/Ohrid talks beyond what the first draft holds.
