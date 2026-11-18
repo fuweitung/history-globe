@@ -547,3 +547,10 @@ Added events: Roma, Ashkali and Egyptian communities in 1999; Kosovo Security Fo
 - KSF: one Wikipedia page read in full plus snippets. Launch date 1 vs 21 January 2009; 2018 vote 98 (Oct first draft) vs 106 + 1 abstention (Periskopi); personnel and reserve numbers differ in the infobox and the text. Check NATO and the ministry.
 - 2026 politics: PACE page failed to load, so party results, turnout and reserved-seat results were not read. President's term end 4 vs 5 April. The Wikipedia page on the presidency was still changing. A person should check the Constitutional Court rulings.
 - Still empty: elite conflict, inventions, peak period, decline signals.
+
+### Kosovo, fifteenth round (Claude, 18 Nov 2026)
+Added events: Ahtisaari proposal 2007, Constitution 2008 (reserved seats, vote 97). Extended the missing-persons event with ICRC/ICMP/UN counts (6,057 / 6,049 / 6,027 reported; list 3,200 in 2004, 1,655 in 2014, 1,665 in 2016). Settled the RAE reserved-seat question: four seats (Article 64, text seen in an election-law database), so the round-fourteen note on it is closed.
+- Ahtisaari: snippets only. Article count 14 vs 15, submission date March vs April 2007. The envoy is not named in the entry. That the Security Council did not adopt it is from general knowledge; confirm.
+- Constitution: Article 64 and 148 text seen in snippets only; annexes unread. Case KO18/14 outcome not read.
+- Missing persons: counts differ because of method; the ICRC list itself was not opened.
+- Still not done: Rambouillet and Ohrid texts, Military-Technical Agreement, UN original of 1244.
