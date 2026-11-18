@@ -558,5 +558,5 @@ Added events: Ahtisaari proposal 2007, Constitution 2008 (reserved seats, vote 9
 ### Kosovo, sixteenth round (Claude, 18 Nov 2026)
 Added the Kumanovo Military Technical Agreement event and extended the Rambouillet event. No signatories are named (some may be alive).
 - Kumanovo: zone timings (6/9/11 days) are from snippets of the UNMIK copy; whole text not read. Date effective 10 June, per Wikipedia and PAX.
-- Rambouillet: the Appendix B dispute rests on critics' pages (WSWS, Jan Oberg, Jungle World) and a Wikipedia mirror. A person should read Appendix B itself and add a neutral account of the supporters' view (my 'standard status-of-forces wording' is a summary of the argument, not sourced here). The three-year clause wording comes from the Wikipedia mirror.
+- Rambouillet: the Appendix B dispute rests on critics' pages (WSWS, Jan Oberg, Jungle World) and a Wikipedia mirror. A person should read Appendix B itself and add a neutral account of the supporters' view (I removed an unsourced line about supporters' view from the event). The three-year clause wording comes from the Wikipedia mirror.
 - Still not done: Ohrid text, UN original of 1244, Constitution annexes.
