@@ -37,6 +37,32 @@ Requested by Mike (launch plan item 5). Same standard and same limits as the sig
 - Gaps rather than wrong wording: there is no event for the 2014 annexation of Crimea, the 1975 Green March, or the 2023 Karabakh offensive (folded into the 2020 event). Consider adding them.
 - `hong-kong` `declineSignals` treats the 2020–21 changes as signs of decline; that framing is a judgement a reviewer should look at.
 
+## Kosovo (Claude, 18 Nov 2026)
+
+Issue #299. A new entry, `kosovo`, with its two events (`kosovo-war-1999`, `kosovo-independence-2008`), and the 2025 map now names Kosovo instead of Serbia. Written by Claude (an AI) from the sources below; **needs a human read** like the six topics above.
+
+**Rule followed:** the map follows the majority view of states (Kosovo is named separately), and the text says plainly that recognition is split. Certainty is `disputed` wherever status or war responsibility is involved.
+
+| Source (read through the research tool on 18 Nov 2026) | Used for |
+|---|---|
+| UN press release SC/6686 on Resolution 1244 (not the resolution text) | Vote 14–0, China abstaining; UN administration and NATO-led force; reaffirms Yugoslavia's sovereignty |
+| ICJ press release 2010/25 and press summary | Advisory opinion of 22 July 2010: 10 to 4; no general ban on declarations; the Court did not decide statehood or a right to secede |
+| Kosovo declaration, 17 Feb 2008 (openDemocracy reprint) | What it promised: Ahtisaari plan, constitution, minorities, international presence |
+| Constitution of Kosovo (Constitute Project, partial) | Articles 1, 3, 5, 6, 8, 64, 86–87 |
+| ICTY materials on Milutinović et al. (2009) | Deportation and forcible transfer findings; convictions |
+| Humanitarian Law Center (Kosovo Memory Book) | About 13,500 killed or missing, 1998–2000; 189 Serb and other non-Albanian civilians killed 24 Mar–10 Jun 1999 |
+| NATO, KFOR pages (2026) | KFOR still operates under Resolution 1244 and is being reduced |
+| World Bank; Kosovo Agency of Statistics 2024 census (via news reports) | Economy and population; Serb boycott of the census in the north |
+| Serbian National Assembly and government pages (search snippets only) | Serbia's position: 2006 constitution preamble, 2008 annulment, 2010 resolution (192–26) |
+
+**Open (needs a person):**
+- The full text of Resolution 1244 and the full ICJ opinion were not read; the UN summary says the resolution reaffirms the sovereignty of the Federal Republic of Yugoslavia, while Serbia's 2008 decision says the resolution itself names Kosovo as part of Serbia. Check the exact preamble wording.
+- Recognition counts differ (about 84, 105 and at least 110 of 193). The entry gives the range. Use the foreign ministries' lists or a dated reference before quoting one number.
+- Census Serb share differs between the first-results page (3.31%) and the final report (2.31%), and Serbs boycotted in the north.
+- Several war-related lines come from search snippets (NATO bombing legality, the Kosovo War dates). Read the pages in full.
+- Empty on purpose (not researched): terrain, climate, resources, disasters, disease, trade, inequality, technology, religion, arts, daily life, elite conflict, peak and decline. No picture yet (`npm run fetch-images` needs the network).
+- Kosovo appears with no Serbia link in `links.json`, because "succeeded" would itself take a side. Decide how to link them.
+
 ## First-pass review by Claude (13 Nov 2026)
 
 The owner asked Claude to do a first pass. Claude read the Wikipedia pages named below on 13 Nov 2026 and changed wording only where a page supported it. **This is not a sign-off:** Claude is not a regional or subject expert, and the reader should still check the items marked “open”. The topic sections below show the wording **before** these changes; the data files have the new wording.

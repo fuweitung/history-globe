@@ -13365,5 +13365,34 @@
       "ayyubid-sultanate"
     ],
     "source": "Wikipedia: Ayyubid dynasty (checked 14 Nov 2026)"
+  },
+  {
+    "id": "kosovo-war-1999",
+    "year": 1999,
+    "lat": 42.67,
+    "lng": 21.17,
+    "type": "war",
+    "title": "Kosovo War and NATO bombing",
+    "description": "From 1998 the Kosovo Liberation Army fought Yugoslav and Serbian forces. Hundreds of thousands of Kosovo Albanians were driven from their homes in 1999, and a UN tribunal later convicted five senior Yugoslav and Serbian officials of deportation and forcible transfer. NATO bombed Yugoslavia from 24 March to 10 June 1999 without a Security Council vote; NATO called it a humanitarian intervention, while Serbia and some other states call it illegal. On 10 June the Security Council adopted Resolution 1244 (14–0, China abstaining), which put Kosovo under UN administration and a NATO-led force. A Humanitarian Law Center database lists about 13,500 people killed or missing in 1998–2000, Albanians, Serbs and others.",
+    "relatedPolityIds": [
+      "kosovo",
+      "serbia",
+      "yugoslavia"
+    ],
+    "source": "UN press release SC/6686 on Resolution 1244; ICTY judgment summary, Milutinović et al., 2009; Humanitarian Law Center, Kosovo Memory Book (via Balkan Witness); Wikipedia: NATO bombing of Yugoslavia (search snippet) (checked 18 Nov 2026)"
+  },
+  {
+    "id": "kosovo-independence-2008",
+    "year": 2008,
+    "lat": 42.67,
+    "lng": 21.17,
+    "type": "person",
+    "title": "Kosovo declares independence",
+    "description": "On 17 February 2008 the Assembly of Kosovo declared the country independent, promising to follow the UN envoy's 2007 plan for supervised independence and to protect minorities. Serbia calls the act illegal and says Kosovo remains part of Serbia. In 2010 the International Court of Justice found, by 10 votes to 4, that the declaration did not break international law; it did not decide whether Kosovo is a state. Roughly 105–115 of the 193 UN members recognise Kosovo (counts differ by source); Serbia, Russia, China and five EU states do not. Kosovo is not a UN member.",
+    "relatedPolityIds": [
+      "kosovo",
+      "serbia"
+    ],
+    "source": "Kosovo Declaration of Independence (openDemocracy reprint); ICJ press release 2010/25; Serbian National Assembly decision of 18 Feb 2008 (search snippet); Wikipedia: International recognition of Kosovo (search snippets) (checked 18 Nov 2026)"
   }
 ]
