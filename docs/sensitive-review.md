@@ -540,3 +540,10 @@ Added events: Resolution 1244, Batajnica and the missing persons, emigration to 
 
 ### Kosovo, thirteenth round (Claude, 18 Nov 2026)
 Read Resolution 1244 (as a paragraph-by-paragraph summary from the phdn.org mirror; a person should still check it against the UN original), the ICRC statement of 30 Aug 2024 (over 1,600 still missing; no figure for resolved cases), the KFOR and EULEX pages. Added events for KFOR and EULEX; rewrote the Resolution 1244 event. Open: the ICRC consolidated list figures; the Kosovo Security Force and the Ahtisaari proposal; the 2012 end of supervised independence is in the Constitution notes only.
+
+### Kosovo, fourteenth round (Claude, 18 Nov 2026)
+Added events: Roma, Ashkali and Egyptian communities in 1999; Kosovo Security Force launched 2009; army law 2018; presidency crisis 2026; new government and president Sept-Oct 2026. No living people are named (offices only).
+- RAE: snippets only (ERRC, HRW, Refworld, K2.0). Pre-war numbers disputed (120,000 ERRC vs 98,000 community count). HRW's 51,000 forced returns is from a report whose date was not confirmed. Reserved-seat count (four) is from Wikipedia; K2.0 words it differently; check the Constitution, Article 64.
+- KSF: one Wikipedia page read in full plus snippets. Launch date 1 vs 21 January 2009; 2018 vote 98 (Oct first draft) vs 106 + 1 abstention (Periskopi); personnel and reserve numbers differ in the infobox and the text. Check NATO and the ministry.
+- 2026 politics: PACE page failed to load, so party results, turnout and reserved-seat results were not read. President's term end 4 vs 5 April. The Wikipedia page on the presidency was still changing. A person should check the Constitutional Court rulings.
+- Still empty: elite conflict, inventions, peak period, decline signals.
