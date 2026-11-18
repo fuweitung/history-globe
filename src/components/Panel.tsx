@@ -186,7 +186,7 @@ function CloseButton({ onClose }: { onClose: () => void }) {
       type="button"
       onClick={onClose}
       aria-label="Close panel"
-      className="absolute top-3 right-3 z-10 grid size-8 place-items-center rounded-full bg-ink-700/80 text-parchment-200 ring-1 ring-white/10 transition hover:bg-ink-600 hover:text-parchment-50 focus-visible:outline-2 focus-visible:outline-gold-400"
+      className="absolute top-3 right-3 z-10 grid size-11 place-items-center rounded-full sm:size-8 bg-ink-700/80 text-parchment-200 ring-1 ring-white/10 transition hover:bg-ink-600 hover:text-parchment-50 focus-visible:outline-2 focus-visible:outline-gold-400"
     >
       <svg viewBox="0 0 24 24" className="size-4" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round">
         <path d="M6 6l12 12M18 6L6 18" />

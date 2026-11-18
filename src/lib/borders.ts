@@ -24,6 +24,8 @@ export interface BorderProps {
   /** 1 if this polygon is linked to a polity in our dataset. */
   _linked: number;
   _fid: number;
+  /** The name shown on the map and in the tooltip (see mapLabelFor). */
+  _label?: string | null;
 }
 
 export interface Snapshot {
@@ -123,6 +125,18 @@ function nearMatches(name: string, snapYear: number): Polity[] {
     .sort((a, b) => matchDistance(a, snapYear, name) - matchDistance(b, snapYear, name));
 }
 
+/**
+ * The map label for `p` on the snapshot of `snapYear`: its first fitting `mapLabels` entry,
+ * else its name without a trailing note in brackets ("Kingdom of Sweden (medieval)" → "Kingdom of Sweden").
+ */
+export function mapLabelFor(p: Pick<Polity, 'name' | 'mapLabels'>, snapYear: number, borderName?: string | null): string {
+  for (const m of p.mapLabels ?? []) {
+    if (m.name && (!borderName || norm(m.name) !== norm(borderName))) continue;
+    if (snapYear >= (m.from ?? -Infinity) && snapYear <= (m.to ?? Infinity)) return m.label;
+  }
+  return p.name.replace(/\s*\([^)]*\)$/, '');
+}
+
 /** Pick the best polity for a clicked polygon at the slider's year. */
 export function resolvePolity(pids: string, year: number): Polity | null {
   const ids = pids.split('|').filter(Boolean);
@@ -187,7 +201,7 @@ function prepare(year: number, fc: FeatureCollection<Geometry, Partial<BorderPro
     const linked = cands.length ? 1 : 0;
     // Label linked territories with our civilisation's name (fixes dataset spellings
     // like "Zhoa" and shows e.g. "Yuan Dynasty" instead of "Great Khanate").
-    const labelName = viaName && cands[0] ? cands[0].name : NAME;
+    const labelName = viaName && cands[0] ? mapLabelFor(cands[0], year, NAME) : NAME;
     const props: BorderProps = {
       NAME,
       SUBJECTO,
@@ -197,6 +211,7 @@ function prepare(year: number, fc: FeatureCollection<Geometry, Partial<BorderPro
       _color: colorFor(cands[0]?.color, SUBJECTO || NAME || `#${i}`),
       _linked: linked,
       _fid: i,
+      _label: labelName,
     };
     features.push({ type: 'Feature', id: i, geometry: f.geometry, properties: props });
     byFid.set(i, props);

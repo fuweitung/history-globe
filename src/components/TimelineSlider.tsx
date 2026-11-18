@@ -5,7 +5,8 @@ import type { PolitySummary } from '../types';
 
 interface Props {
   year: number;
-  onChange: (year: number) => void;
+  /** `jump` is true for big jumps (an era chip), which get their own browser-history entry. */
+  onChange: (year: number, jump?: boolean) => void;
   snapshotYears: number[];
   snapshotYear: number | null;
   loading: boolean;
@@ -81,7 +82,7 @@ export default function TimelineSlider({
         <button
           type="button"
           onClick={onTogglePlay}
-          className="grid size-10 shrink-0 place-items-center rounded-full bg-gold-400 text-ink-900 shadow-md transition hover:bg-gold-300 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gold-400"
+          className="grid size-11 shrink-0 place-items-center rounded-full bg-gold-400 text-ink-900 shadow-md transition hover:bg-gold-300 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gold-400"
           aria-label={playing ? 'Pause timeline' : 'Play timeline'}
           title={playing ? 'Pause (Space)' : 'Play (Space)'}
         >
@@ -150,9 +151,9 @@ export default function TimelineSlider({
             <button
               key={e.id}
               type="button"
-              onClick={() => onChange(e.from)}
+              onClick={() => onChange(e.from, true)}
               aria-pressed={active}
-              className={`min-h-6 min-w-0 truncate rounded-md px-1.5 py-0.5 text-[10px] font-semibold tracking-wide uppercase transition ${
+              className={`min-h-9 min-w-0 truncate rounded-md sm:min-h-6 px-1.5 py-0.5 text-[10px] font-semibold tracking-wide uppercase transition ${
                 active ? 'text-ink-900' : 'text-parchment-300 hover:bg-white/5'
               }`}
               style={{ width: `${e.share * 100}%`, background: active ? e.text : undefined }}
@@ -240,7 +241,7 @@ function StepButton({ label, onClick, children }: { label: string; onClick: () =
       onClick={onClick}
       aria-label={label}
       title={label}
-      className="grid size-8 place-items-center rounded-full text-lg text-parchment-200 transition hover:bg-white/10 hover:text-parchment-50 focus-visible:outline-2 focus-visible:outline-gold-400"
+      className="grid size-11 place-items-center rounded-full text-lg text-parchment-200 sm:size-8 transition hover:bg-white/10 hover:text-parchment-50 focus-visible:outline-2 focus-visible:outline-gold-400"
     >
       {children}
     </button>

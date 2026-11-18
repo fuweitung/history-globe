@@ -2,7 +2,7 @@ import { describe, expect, it } from 'vitest';
 import { ERAS, MAX_YEAR, MIN_YEAR, eraOf, fracToYear, normaliseYear, stepYear, yearToFrac } from '../lib/timeScale';
 import { EVENT_BY_ID, POLITY_BY_ID, eventDetails, formatYear, isActive, knownImage, loadEventDetails, loadPolity, polityImage } from '../lib/data';
 import { loadFactIndex, norm, search, snippet } from '../lib/search';
-import { candidatesFor, nearestSnapshot, resolvePolity } from '../lib/borders';
+import { candidatesFor, mapLabelFor, nearestSnapshot, resolvePolity } from '../lib/borders';
 import { TERRITORY, niceTicks } from '../components/TerritoryChart';
 import { facesViewer, placeMarkers, type PlaceItem } from '../lib/declutter';
 
@@ -45,6 +45,7 @@ describe('time scale', () => {
     expect(eraOf(499).id).toBe('ancient');
     expect(eraOf(500).id).toBe('medieval');
     expect(eraOf(2025).id).toBe('modern');
+    expect(MAX_YEAR).toBe(2026);
   });
 });
 
@@ -95,6 +96,37 @@ describe('search', () => {
 
   it('requires every word to match', () => {
     expect(search('rome xyzzyq').polities).toHaveLength(0);
+  });
+
+  it('matches whole words in long texts, not parts of words', async () => {
+    await loadFactIndex();
+    const ids = search('ming').polities.map((h) => h.kind === 'polity' && h.id);
+    expect(ids[0]).toBe('ming-china');
+    expect(ids).not.toContain('dominican-republic'); // "Santo Domingo"
+  });
+
+  it('ranks things that exist in the selected year first', () => {
+    const hits = search('japan', 1700).polities;
+    expect(hits[0]).toMatchObject({ id: 'tokugawa-japan' });
+  });
+});
+
+describe('map labels', () => {
+  it('drops a trailing note in brackets', () => {
+    expect(mapLabelFor(POLITY_BY_ID.get('medieval-sweden')!, 1600, 'Sweden')).toBe('Kingdom of Sweden');
+  });
+
+  it('uses the name of the time', () => {
+    const congo = POLITY_BY_ID.get('dr-congo')!;
+    expect(mapLabelFor(congo, 1914, 'Belgian Congo')).toBe('Belgian Congo');
+    expect(mapLabelFor(congo, 1994, 'Zaire')).toBe('Zaire');
+    expect(mapLabelFor(congo, 2025, 'Zaire')).toBe('DR Congo');
+  });
+
+  it('labels each khanate by its own name', () => {
+    const k = POLITY_BY_ID.get('central-asian-khanates')!;
+    expect(mapLabelFor(k, 1600, 'Khiva Khanate')).toBe('Khanate of Khiva');
+    expect(mapLabelFor(k, 1600, 'central Asian khanates')).not.toMatch(/Kokand/);
   });
 });
 

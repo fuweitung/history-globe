@@ -1,4 +1,4 @@
-import { EVENTS, PEOPLE, PERSON_ROLES, POLITIES, POLITY_BY_ID, ROUTES, ROUTE_KINDS, eventDetails, formatSpan, formatYear, getLoadedPolity, loadAllPolities, loadEventDetails, loadPeopleDetails, personDetails } from './data';
+import { EVENTS, PEOPLE, PERSON_ROLES, POLITIES, POLITY_BY_ID, ROUTES, ROUTE_KINDS, eventDetails, formatSpan, formatYear, getLoadedPolity, isActive, loadAllPolities, loadEventDetails, loadPeopleDetails, personDetails } from './data';
 import type { KnownForKind } from '../types';
 import { CHECKLIST_SCHEMA } from './checklistSchema';
 
@@ -26,6 +26,8 @@ interface Doc {
   hit: DistributiveOmit<SearchHit, 'score'>;
   title: string; // normalised
   body: string; // normalised
+  /** Years in which the thing existed or happened, for ranking hits from the selected year first. */
+  span?: [number, number];
 }
 
 function buildIndex(): Doc[] {
@@ -34,6 +36,7 @@ function buildIndex(): Doc[] {
     docs.push({
       hit: { kind: 'polity', id: p.id, title: p.name, sub: `${formatSpan(p)} · ${p.region}` },
       title: norm(p.name),
+      span: [p.startYear, p.endYear ?? Infinity],
       // Long texts (summary, known-for notes, descriptions) are included once loaded; see loadFactIndex.
       body: norm([p.region, p.capital, getLoadedPolity(p.id)?.summary ?? '', ...(p.knownFor ?? []).map((k) => k.label)].join(' ')),
     });
@@ -50,6 +53,7 @@ function buildIndex(): Doc[] {
     docs.push({
       hit: { kind: 'event', id: e.id, title: e.title, sub: formatYear(e.year, e.yearApproximate), year: e.year },
       title: norm(e.title),
+      span: [e.year, e.endYear ?? e.year],
       body: norm(`${eventDetails(e.id)?.description ?? ''} ${names}`),
     });
   }
@@ -57,6 +61,7 @@ function buildIndex(): Doc[] {
     docs.push({
       hit: { kind: 'person', id: p.id, title: p.name, sub: `${PERSON_ROLES[p.role].label} · ${formatYear(p.born)} – ${formatYear(p.died)}`, year: p.born },
       title: norm(p.name),
+      span: [p.born, p.died],
       body: norm(`${personDetails(p.id)?.description ?? ''} ${PERSON_ROLES[p.role].label} ${p.polityIds.map((id) => POLITY_BY_ID.get(id)?.name ?? '').join(' ')}`),
     });
   }
@@ -64,6 +69,7 @@ function buildIndex(): Doc[] {
     docs.push({
       hit: { kind: 'route', id: r.id, title: r.name, sub: `${ROUTE_KINDS[r.kind].label} · ${formatYear(r.from)} – ${formatYear(r.to)}`, year: r.from },
       title: norm(r.name),
+      span: [r.from, r.to],
       body: norm(`${r.description} ${r.goods ?? ''} ${ROUTE_KINDS[r.kind].label}`),
     });
   }
@@ -105,14 +111,23 @@ export const factIndexReady = () => FACTS !== null;
 
 let INDEX: Doc[] | null = null;
 
-/** Every word of the query must appear somewhere; title matches rank higher. */
-export function search(query: string): { polities: SearchHit[]; known: SearchHit[]; events: SearchHit[]; routes: SearchHit[]; people: SearchHit[]; facts: SearchHit[] } {
+const escape = (w: string) => w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+
+/**
+ * Every word of the query must appear somewhere; title matches rank higher, and so do things
+ * that exist in `year`. Titles match at the start of a word (so "byzan" finds the Byzantine Empire
+ * while typing); longer texts only match whole words, with a plural "s"/"es" allowed, so "Ming"
+ * no longer finds "coming" or "Domingo". Words of five letters or more also match the start of a
+ * word in longer texts ("indigen" finds "indigenous").
+ */
+export function search(query: string, year?: number): { polities: SearchHit[]; known: SearchHit[]; events: SearchHit[]; routes: SearchHit[]; people: SearchHit[]; facts: SearchHit[] } {
   const words = norm(query).split(/\s+/).filter(Boolean);
   const out = { polities: [] as SearchHit[], known: [] as SearchHit[], events: [] as SearchHit[], routes: [] as SearchHit[], people: [] as SearchHit[], facts: [] as SearchHit[] };
   if (!words.length) return out;
   INDEX ??= buildIndex();
   // One word-start pattern per query word (not per document).
-  const starts = words.map((w) => new RegExp(`(^|[^a-z0-9])${w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}`));
+  const starts = words.map((w) => new RegExp(`(^|[^a-z0-9])${escape(w)}`));
+  const wholeWords = words.map((w) => new RegExp(`(^|[^a-z0-9])${escape(w)}(s|es)?($|[^a-z0-9])`));
   const phrase = words.join(' ');
   for (const d of FACTS ? [INDEX, FACTS] : [INDEX]) for (const doc of d) scoreDoc(doc);
   function scoreDoc(d: Doc) {
@@ -121,9 +136,9 @@ export function search(query: string): { polities: SearchHit[]; known: SearchHit
     for (let i = 0; i < words.length; i++) {
       const w = words[i];
       if (d.title.startsWith(w)) score += 6;
+      else if (wholeWords[i].test(d.title)) score += 5;
       else if (starts[i].test(d.title)) score += 4;
-      else if (d.title.includes(w)) score += 2;
-      else if (d.body.includes(w)) score += 1;
+      else if (wholeWords[i].test(d.body) || (w.length >= 5 && starts[i].test(d.body))) score += 1;
       else {
         all = false;
         break;
@@ -132,6 +147,9 @@ export function search(query: string): { polities: SearchHit[]; known: SearchHit
     if (!all) return;
     // Whole phrase found together ranks higher (“el nino” beats “el … nino”).
     if (words.length > 1 && d.body.includes(phrase)) score += 2;
+    // Things that exist in the selected year come first.
+    if (year !== undefined && d.span && year >= d.span[0] && year <= d.span[1]) score += 3;
+    else if (year !== undefined && d.hit.kind === 'known' && isActive(POLITY_BY_ID.get(d.hit.polityId)!, year)) score += 3;
     const hit = { ...d.hit, score } as SearchHit;
     if (hit.kind === 'polity') out.polities.push(hit);
     else if (hit.kind === 'known') out.known.push(hit);

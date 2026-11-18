@@ -150,6 +150,14 @@ export interface KnownForItem {
   note?: string;
 }
 
+export interface MapLabel {
+  label: string;
+  /** Only for shapes with this border name (case-insensitive). */
+  name?: string;
+  from?: number;
+  to?: number | null;
+}
+
 export interface Polity {
   id: string;
   name: string;
@@ -181,6 +189,13 @@ export interface Polity {
    * be repeated in borderNames.
    */
   borderNameYears?: Record<string, [number, number | null]>;
+  /**
+   * Optional map labels for names that change over time or for entries that group several
+   * states, e.g. [{ "label": "Belgian Congo", "from": 1908, "to": 1959 }, { "label": "DR Congo" }].
+   * The first entry whose snapshot-year window (and border `name`, if given) fits is used.
+   * Without one, the map shows `name` without a trailing note in brackets.
+   */
+  mapLabels?: MapLabel[];
   /**
    * Shapes that name this polity as their overlord (SUBJECTO) count as part of it
    * even when they have their own entry, e.g. the Mongol Empire and its khanates.

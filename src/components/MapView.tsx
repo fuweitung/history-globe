@@ -41,6 +41,8 @@ interface Props {
   onSelectPerson: (id: string) => void;
   /** Called after each declutter pass with how many on-screen event markers had no room. */
   onCrowdedEvents?: (n: number) => void;
+  /** Called with the snapshot's year once its borders are drawn on screen. */
+  onBordersShown?: (year: number) => void;
   /** Small countries drawn as dots (see Polity.mapDot). */
   dots: PolitySummary[];
 }
@@ -352,6 +354,7 @@ export default function MapView({
   onSelectPerson,
   dots,
   onCrowdedEvents,
+  onBordersShown,
 }: Props) {
   const containerRef = useRef<HTMLDivElement>(null);
   const mapRef = useRef<maplibregl.Map | null>(null);
@@ -360,8 +363,8 @@ export default function MapView({
   const markersRef = useRef(new Map<string, MarkerEntry>());
   const snapshotRef = useRef(snapshot);
   snapshotRef.current = snapshot;
-  const handlersRef = useRef({ onSelectBorder, onSelectEvent, onSelectRoute, onSelectPerson, onCrowdedEvents });
-  handlersRef.current = { onSelectBorder, onSelectEvent, onSelectRoute, onSelectPerson, onCrowdedEvents };
+  const handlersRef = useRef({ onSelectBorder, onSelectEvent, onSelectRoute, onSelectPerson, onCrowdedEvents, onBordersShown });
+  handlersRef.current = { onSelectBorder, onSelectEvent, onSelectRoute, onSelectPerson, onCrowdedEvents, onBordersShown };
   const peopleMarkersRef = useRef(new Map<string, MarkerEntry>());
   const routesRef = useRef(routes);
   routesRef.current = routes;
@@ -393,7 +396,7 @@ export default function MapView({
       new maplibregl.AttributionControl({
         compact: true,
         customAttribution:
-          'Borders: <a href="https://github.com/aourednik/historical-basemaps" target="_blank" rel="noopener">historical-basemaps</a> (GPL-3.0) · Land: <a href="https://www.naturalearthdata.com/" target="_blank" rel="noopener">Natural Earth</a>',
+          'Borders: <a href="https://github.com/aourednik/historical-basemaps" target="_blank" rel="noopener">historical-basemaps</a> (GPL-3.0) · Land and today’s borders: <a href="https://www.naturalearthdata.com/" target="_blank" rel="noopener">Natural Earth</a>',
       }),
       'bottom-right',
     );
@@ -452,7 +455,7 @@ export default function MapView({
         (p.BORDERPRECISION ?? 1) < 2 ? 'approximate border' : '',
         p._linked ? 'click for checklist' : '',
       ].filter(Boolean);
-      setTooltip({ x: e.point.x, y: e.point.y, text: p.NAME ?? 'Unnamed', sub: parts.join(' · ') || undefined });
+      setTooltip({ x: e.point.x, y: e.point.y, text: p._label ?? p.NAME ?? 'Unnamed', sub: parts.join(' · ') || undefined });
     });
     map.on('mouseleave', 'borders-fill', () => {
       map.getCanvas().style.cursor = '';
@@ -492,6 +495,15 @@ export default function MapView({
     if (!map || !ready || !snapshot) return;
     (map.getSource('borders') as GeoJSONSource | undefined)?.setData(snapshot.borders);
     (map.getSource('labels') as GeoJSONSource | undefined)?.setData(snapshot.labels);
+    // setData parses the shapes in a worker; 'idle' fires once they are on screen.
+    const year = snapshot.year;
+    const shown = () => {
+      if (snapshotRef.current?.year === year) handlersRef.current.onBordersShown?.(year);
+    };
+    map.once('idle', shown);
+    return () => {
+      map.off('idle', shown);
+    };
   }, [snapshot, ready]);
 
   // ── Routes ───────────────────────────────────────────────
