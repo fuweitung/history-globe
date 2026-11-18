@@ -12,7 +12,7 @@ const polities = fs.readdirSync(polDir).filter((f) => f.endsWith('.json')).map((
 const { years } = read('public/data/borders/manifest.json');
 
 // ── Same matching rules as the map (src/lib/borders.ts) ──
-const MAX_YEAR = 2025;
+const MAX_YEAR = 2026;
 const norm = (s) => s.trim().toLowerCase();
 const yearsOutside = (p, y) => (y < p.startYear ? p.startYear - y : y > (p.endYear ?? MAX_YEAR) ? y - (p.endYear ?? MAX_YEAR) : 0);
 const tolerance = (y) => (y < 500 ? 50 : y < 1500 ? 25 : 10);

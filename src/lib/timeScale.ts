@@ -25,7 +25,7 @@ export const ERAS: EraDef[] = [
   { id: 'ancient', label: 'Ancient', short: 'BC–500', from: -3500, to: 500, share: 0.28, step: 10, color: '#7a5c8f', text: '#c3a6d6' },
   { id: 'medieval', label: 'Medieval', short: '500–1500', from: 500, to: 1500, share: 0.2, step: 5, color: '#4f7f6a', text: '#8fc9ad' },
   { id: 'early_modern', label: 'Early Modern', short: '1500–1800', from: 1500, to: 1800, share: 0.2, step: 1, color: '#8a6a3d', text: '#c9a56f' },
-  { id: 'modern', label: 'Modern', short: '1800+', from: 1800, to: 2025, share: 0.22, step: 1, color: '#4c6a9a', text: '#8fa9d4' },
+  { id: 'modern', label: 'Modern', short: '1800+', from: 1800, to: 2026, share: 0.22, step: 1, color: '#4c6a9a', text: '#8fa9d4' },
 ];
 
 export const MIN_YEAR = ERAS[0].from;

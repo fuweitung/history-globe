@@ -10,6 +10,7 @@
 import { mkdir, writeFile, access, readFile } from 'node:fs/promises';
 import { simplifyBorders } from './simplify-borders.mjs';
 import { applyBorderFixes } from './apply-border-fixes.mjs';
+import { buildCurrentBorders, COUNTRIES_CACHE, COUNTRIES_URL, CURRENT_YEAR } from './build-current-borders.mjs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -66,6 +67,19 @@ try {
   console.warn(`  ✗ land outlines  ${e.message}`);
 }
 
+// historical-basemaps stops at 2010; today's borders are built from Natural Earth's countries
+// after the 2010 map is in place (see build-current-borders.mjs).
+let current = false;
+try {
+  await mkdir(dirname(COUNTRIES_CACHE), { recursive: true });
+  const status = await download(COUNTRIES_URL, COUNTRIES_CACHE);
+  current = ok.includes(2010);
+  console.log(`  ✓ ${CURRENT_YEAR} (Natural Earth countries)  ${status}`);
+} catch (e) {
+  console.warn(`  ✗ ${CURRENT_YEAR} (Natural Earth countries)  ${e.message}`);
+}
+if (current) ok.push(CURRENT_YEAR);
+
 // Keep the record of already-simplified files that were not downloaded again.
 const old = await readFile(join(outDir, 'manifest.json'), 'utf8').then(JSON.parse, () => ({}));
 const simplifiedYears = (old.simplified?.years ?? []).filter((y) => ok.includes(y) && !fresh.has(join(outDir, fileFor(y))));
@@ -80,3 +94,7 @@ await writeFile(
 console.log(`\nWrote manifest with ${ok.length} snapshots. Simplifying new files…`);
 await simplifyBorders();
 await applyBorderFixes();
+if (current) {
+  await buildCurrentBorders();
+  await simplifyBorders(); // only the newly built current map
+}

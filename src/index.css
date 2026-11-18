@@ -107,8 +107,10 @@ body,
    catch clicks and hovers through the sphere; make them non-interactive too. */
 .maplibregl-marker-covered { pointer-events: none !important; visibility: hidden; }
 .maplibregl-ctrl-top-right { top: var(--banner-h, 0px); }
+/* Keep the map credits above the timeline instead of under its year ticks. */
+.maplibregl-ctrl-bottom-right { bottom: var(--tl-h, 0px); }
 @media (max-width: 767px) {
-  .maplibregl-ctrl-top-right { top: calc(64px + var(--banner-h, 0px)); }
+  .maplibregl-ctrl-top-right { top: calc(76px + var(--banner-h, 0px)); }
 }
 
 /* ── Timeline range input ─────────────────────────────────── */

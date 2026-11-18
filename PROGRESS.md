@@ -2,7 +2,7 @@
 
 How complete History Globe is. **The numbers are calculated by `npm run progress`**; run it after a change and commit the new file. Only the Roadmap section below is edited by hand.
 
-_Last updated: 2026-11-17_
+_Last updated: 2026-11-18_
 
 <!-- roadmap:start -->
 ## Roadmap
@@ -118,7 +118,7 @@ Also in the app: 964 events · 451 people · 18 routes · 11 stories written (hi
 | 1492 | `███████████████████░` 97% |
 | 1500 | `███████████████████░` 95% |
 | 1530 | `██████████████████░░` 90% |
-| 1600 | `██████████████████░░` 90% |
+| 1600 | `██████████████████░░` 92% |
 | 1650 | `██████████████████░░` 92% |
 | 1700 | `██████████████████░░` 91% |
 | 1715 | `███████████████████░` 94% |
@@ -137,6 +137,7 @@ Also in the app: 964 events · 451 people · 18 routes · 11 stories written (hi
 | 1994 | `████████████████████` 100% |
 | 2000 | `████████████████████` 100% |
 | 2010 | `████████████████████` 100% |
+| 2025 | `████████████████████` 100% |
 
 ## Biggest map blanks still to fill
 
@@ -168,7 +169,7 @@ Areas on the border maps that no civilisation covers yet, largest first (area ad
 | Bedouins | 900 – 900 (1 maps) | 2M |
 | Chorrera | 1500 BCE – 100 BCE (9 maps) | 2M |
 | Malays | 200 BCE – 1200 (2 maps) | 2M |
-| Obiwa | 1530 – 1700 (4 maps) | 2M |
+| Ojibwe | 1530 – 1700 (4 maps) | 2M |
 | Ethiopian highland farmers | 1500 BCE – 323 BCE (6 maps) | 2M |
 | Turcik tribes | 200 BCE – 200 BCE (1 maps) | 2M |
 | Maya chiefdoms and states | 323 BCE – 100 (6 maps) | 2M |

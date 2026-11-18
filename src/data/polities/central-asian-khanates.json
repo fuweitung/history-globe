@@ -327,5 +327,22 @@
       1800,
       1830
     ]
-  }
+  },
+  "mapLabels": [
+    {
+      "name": "Khiva Khanate",
+      "label": "Khanate of Khiva"
+    },
+    {
+      "name": "Bukara Khanate",
+      "label": "Khanate of Bukhara"
+    },
+    {
+      "name": "Bokhara Khanate",
+      "label": "Emirate of Bukhara"
+    },
+    {
+      "label": "Central Asian khanates"
+    }
+  ]
 }

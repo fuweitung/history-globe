@@ -6,6 +6,8 @@ import { CHECKLIST_SCHEMA } from '../lib/checklistSchema';
 
 interface Props {
   initialQuery?: string;
+  /** The timeline's year: results that exist then are listed first. */
+  year?: number;
   onOpenPolity: (id: string) => void;
   onOpenEvent: (id: string) => void;
   onOpenKnown: (polityId: string, year?: number) => void;
@@ -18,7 +20,7 @@ interface Props {
 const SUGGESTIONS = ['silk', 'samurai', 'elephants', 'printing', 'Vikings', 'gold', 'plague', 'cavalry', 'alphabet', 'canoes', 'spices', 'migration'];
 const LIMITS = { polities: 8, known: 10, events: 10 };
 
-export default function SearchView({ initialQuery = '', onOpenPolity, onOpenEvent, onOpenKnown, onOpenRoute, onOpenPerson, onOpenFact, onQueryChange }: Props) {
+export default function SearchView({ initialQuery = '', year, onOpenPolity, onOpenEvent, onOpenKnown, onOpenRoute, onOpenPerson, onOpenFact, onQueryChange }: Props) {
   const [q, setQ] = useState(initialQuery);
   const [showAll, setShowAll] = useState<Record<string, boolean>>({});
   const inputRef = useRef<HTMLInputElement>(null);
@@ -36,7 +38,7 @@ export default function SearchView({ initialQuery = '', onOpenPolity, onOpenEven
   }, [factsReady]);
   // Typing stays responsive: results for the latest query render when the browser has time.
   const deferredQ = useDeferredValue(q);
-  const results = useMemo(() => search(deferredQ), [deferredQ, factsReady]); // eslint-disable-line react-hooks/exhaustive-deps
+  const results = useMemo(() => search(deferredQ, year), [deferredQ, factsReady, year]); // eslint-disable-line react-hooks/exhaustive-deps
   const total = results.polities.length + results.known.length + results.events.length + results.routes.length + results.people.length + results.facts.length;
 
   useEffect(() => {

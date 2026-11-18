@@ -42,11 +42,14 @@ function routeBounds(r: HistoryRoute): [number, number, number, number] {
 
 function readUrl(): { year: number; polity: string | null; event: string | null; route: string | null; person: string | null; story: string | null; step: number; compare: [string | null, string | null] | null } {
   const sp = new URLSearchParams(window.location.search);
-  const y = Number(sp.get('year'));
+  // Year 0 does not exist: normaliseYear turns it into 1 CE. A missing or non-numeric year
+  // falls back to 1600 (Number('') and Number(null) are 0, so they are checked first).
+  const rawYear = sp.get('year');
+  const y = rawYear !== null && rawYear.trim() !== '' ? Number(rawYear) : NaN;
   const c = sp.get('compare');
   const valid = (id: string | undefined) => (id && POLITY_BY_ID.has(id) ? id : null);
   return {
-    year: Number.isFinite(y) && y ? clampYear(y) : 1600,
+    year: Number.isFinite(y) ? clampYear(y) : 1600,
     polity: sp.get('polity'),
     event: sp.get('event'),
     route: sp.get('route'),
@@ -57,6 +60,31 @@ function readUrl(): { year: number; polity: string | null; event: string | null;
   };
 }
 
+type UrlState = ReturnType<typeof readUrl>;
+
+/** The panel a URL asks for (used on load and when the browser's Back or Forward button is pressed). */
+function viewFromUrl(u: UrlState): View {
+  return STORIES_ENABLED && u.story && STORY_BY_ID.has(u.story)
+    ? { kind: 'story', id: u.story, step: Math.min(u.step, STORY_BY_ID.get(u.story)!.steps.length - 1) }
+    : u.compare
+      ? { kind: 'compare', a: u.compare[0], b: u.compare[1] }
+      : u.polity && POLITY_BY_ID.has(u.polity)
+        ? { kind: 'polity', id: u.polity }
+        : u.event && EVENT_BY_ID.has(u.event)
+          ? { kind: 'event', id: u.event }
+          : u.route && ROUTE_BY_ID.has(u.route)
+            ? { kind: 'route', id: u.route }
+            : u.person && PERSON_BY_ID.has(u.person)
+              ? { kind: 'person', id: u.person }
+              : { kind: 'none' };
+}
+
+/** What counts as "a different page" for the browser history: the open panel, not its details. */
+function viewKey(v: View): string {
+  if (v.kind === 'story') return `story:${v.id}:${v.step}`;
+  return 'id' in v ? `${v.kind}:${v.id}` : v.kind;
+}
+
 export default function App() {
   const initial = useMemo(readUrl, []);
   const [year, setYear] = useState(initial.year);
@@ -65,21 +93,9 @@ export default function App() {
   const [loading, setLoading] = useState(true);
   const [loadError, setLoadError] = useState<string | null>(null);
   const [retryKey, setRetryKey] = useState(0);
-  const [view, setView] = useState<View>(() =>
-    STORIES_ENABLED && initial.story && STORY_BY_ID.has(initial.story)
-      ? { kind: 'story', id: initial.story, step: Math.min(initial.step, STORY_BY_ID.get(initial.story)!.steps.length - 1) }
-      : initial.compare
-      ? { kind: 'compare', a: initial.compare[0], b: initial.compare[1] }
-      : initial.polity && POLITY_BY_ID.has(initial.polity)
-      ? { kind: 'polity', id: initial.polity }
-      : initial.event && EVENT_BY_ID.has(initial.event)
-        ? { kind: 'event', id: initial.event }
-        : initial.route && ROUTE_BY_ID.has(initial.route)
-          ? { kind: 'route', id: initial.route }
-          : initial.person && PERSON_BY_ID.has(initial.person)
-            ? { kind: 'person', id: initial.person }
-            : { kind: 'none' },
-  );
+  const [view, setView] = useState<View>(() => viewFromUrl(initial));
+  // Year of the snapshot the map has actually drawn (the timeline says "Loading borders…" until then).
+  const [drawnYear, setDrawnYear] = useState<number | null>(null);
   const [playing, setPlaying] = useState(false);
   const [eventWindow, setEventWindow] = useState(25);
   const [hiddenTypes, setHiddenTypes] = useState<Set<EventType>>(new Set());
@@ -115,9 +131,6 @@ export default function App() {
         if (cancelled) return;
         setSnapshot(s);
         setLoadError(null);
-        // Warm the cache for the neighbouring snapshots so scrubbing feels instant.
-        const i = snapshotYears.indexOf(snapYear);
-        [snapshotYears[i - 1], snapshotYears[i + 1]].forEach((y) => y !== undefined && loadSnapshot(y).catch(() => {}));
       })
       .catch((e: Error) => {
         console.error(e);
@@ -128,6 +141,14 @@ export default function App() {
       cancelled = true;
     };
   }, [snapYear, snapshotYears, retryKey]);
+
+  // Once the borders are on screen, warm the cache for the neighbouring snapshots so scrubbing
+  // feels instant (not before, so they do not slow down the first map).
+  useEffect(() => {
+    if (drawnYear === null) return;
+    const i = snapshotYears.indexOf(drawnYear);
+    [snapshotYears[i - 1], snapshotYears[i + 1]].forEach((y) => y !== undefined && loadSnapshot(y).catch(() => {}));
+  }, [drawnYear, snapshotYears]);
 
   // ── Camera: fly to a polity once the right snapshot is on screen ──
   const flyToPolity = useCallback((p: Polity, snap: Snapshot | null) => {
@@ -168,8 +189,13 @@ export default function App() {
     });
   }, [year]);
 
-  const changeYear = useCallback((y: number) => {
+  // Big jumps (an era chip, "jump to year", an event's year) get their own browser-history
+  // entry, so Back returns to where you were; scrubbing and stepping only update the address.
+  const pushNext = useRef(false);
+  const lastViewKey = useRef(viewKey(view));
+  const changeYear = useCallback((y: number, jump = false) => {
     setPlaying(false);
+    if (jump) pushNext.current = true;
     setYear(clampYear(y));
   }, []);
 
@@ -187,10 +213,33 @@ export default function App() {
         sp.set('step', String(view.step + 1));
       }
       if (view.kind === 'compare') sp.set('compare', `${view.a ?? ''},${view.b ?? ''}`);
-      window.history.replaceState(null, '', `${window.location.pathname}?${sp}`);
+      const url = `${window.location.pathname}?${sp}`;
+      const key = viewKey(view);
+      const push = pushNext.current || key !== lastViewKey.current;
+      pushNext.current = false;
+      lastViewKey.current = key;
+      if (url === `${window.location.pathname}${window.location.search}`) return;
+      if (push) window.history.pushState(null, '', url);
+      else window.history.replaceState(null, '', url);
     }, 250);
     return () => window.clearTimeout(t);
   }, [year, view]);
+
+  // Back / Forward: show the year and panel of the address the browser moved to.
+  useEffect(() => {
+    const onPop = () => {
+      const u = readUrl();
+      const v = viewFromUrl(u);
+      lastViewKey.current = viewKey(v);
+      pushNext.current = false;
+      setPlaying(false);
+      setYear(u.year);
+      setView(v);
+      if (v.kind === 'polity') pendingFly.current = v.id;
+    };
+    window.addEventListener('popstate', onPop);
+    return () => window.removeEventListener('popstate', onPop);
+  }, []);
 
   // ── Events visible around the selected year ─────────────
   const visibleEvents: VisibleEvent[] = useMemo(() => {
@@ -256,7 +305,7 @@ export default function App() {
     [],
   );
 
-  const jumpToYear = useCallback((y: number) => changeYear(y), [changeYear]);
+  const jumpToYear = useCallback((y: number) => changeYear(y, true), [changeYear]);
   const openPerson = useCallback((id: string) => {
     const p = PERSON_BY_ID.get(id);
     if (!p) return;
@@ -276,7 +325,7 @@ export default function App() {
   const openEventAt = useCallback(
     (id: string) => {
       const e = EVENT_BY_ID.get(id);
-      if (e) changeYear(e.year);
+      if (e) changeYear(e.year, true);
       openEvent(id);
     },
     [changeYear, openEvent],
@@ -426,6 +475,7 @@ export default function App() {
     panelTitle = 'Search';
     panelBody = (
       <SearchView
+        year={year}
         onOpenPolity={openPolity}
         onOpenFact={(id, category) => {
           openPolity(id);
@@ -485,6 +535,7 @@ export default function App() {
         onCrowdedEvents={setCrowdedEvents}
         selectedPersonId={view.kind === 'person' ? view.id : (storyStep?.person ?? null)}
         onSelectPerson={openPerson}
+        onBordersShown={setDrawnYear}
       />
 
       {/* ── Top bar ── */}
@@ -508,7 +559,7 @@ export default function App() {
             aria-label="Stories (guided tours)"
             aria-pressed={view.kind === 'stories' || view.kind === 'story'}
             title="Stories"
-            className="grid size-8 place-items-center rounded-xl text-parchment-200 transition hover:bg-white/10 aria-pressed:bg-white/10"
+            className="grid size-11 place-items-center rounded-xl text-parchment-200 sm:size-8 transition hover:bg-white/10 aria-pressed:bg-white/10"
           >
             <svg viewBox="0 0 24 24" className="size-4" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinejoin="round" aria-hidden="true"><path d="M4 5a2 2 0 0 1 2-2h5v17H6a2 2 0 0 0-2 2zM20 5a2 2 0 0 0-2-2h-5v17h5a2 2 0 0 1 2 2z" /></svg>
           </button>
@@ -519,7 +570,7 @@ export default function App() {
             aria-label="Search (press /)"
             aria-pressed={view.kind === 'search'}
             title="Search (/)"
-            className="grid size-8 place-items-center rounded-xl text-parchment-200 transition hover:bg-white/10 aria-pressed:bg-white/10"
+            className="grid size-11 place-items-center rounded-xl text-parchment-200 sm:size-8 transition hover:bg-white/10 aria-pressed:bg-white/10"
           >
             <svg viewBox="0 0 24 24" className="size-4" fill="none" stroke="currentColor" strokeWidth="2.4" strokeLinecap="round" aria-hidden="true"><circle cx="11" cy="11" r="6.5" /><path d="M16 16l4.5 4.5" /></svg>
           </button>
@@ -527,7 +578,7 @@ export default function App() {
             type="button"
             onClick={() => setView((v) => (v.kind === 'about' ? { kind: 'none' } : { kind: 'about' }))}
             aria-label="About History Globe"
-            className="grid size-8 place-items-center rounded-xl text-parchment-200 transition hover:bg-white/10"
+            className="grid size-11 place-items-center rounded-xl text-parchment-200 sm:size-8 transition hover:bg-white/10"
           >
             <svg viewBox="0 0 24 24" className="size-4" fill="none" stroke="currentColor" strokeWidth="2.2" aria-hidden="true"><circle cx="12" cy="12" r="9" /><path d="M12 11v5M12 8h.01" strokeLinecap="round" /></svg>
           </button>
@@ -585,7 +636,7 @@ export default function App() {
           onChange={changeYear}
           snapshotYears={snapshotYears}
           snapshotYear={snapshot?.year ?? null}
-          loading={loading}
+          loading={loading || (snapshot !== null && drawnYear !== snapshot.year)}
           playing={playing}
           onTogglePlay={togglePlay}
           highlight={selectedPolity}
@@ -623,7 +674,7 @@ function EventLegend({
 }) {
   const [open, setOpen] = useState(false);
   return (
-    <div className="pointer-events-none absolute top-[calc(64px+var(--banner-h,0px))] left-3 z-10 md:top-[calc(68px+var(--banner-h,0px))]">
+    <div className="pointer-events-none absolute top-[calc(76px+var(--banner-h,0px))] left-3 z-10 md:top-[calc(68px+var(--banner-h,0px))]">
       <div className="pointer-events-auto w-max rounded-2xl bg-ink-900/85 text-xs shadow-xl ring-1 ring-white/10 backdrop-blur-md">
         <button
           type="button"
