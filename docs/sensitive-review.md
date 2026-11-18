@@ -560,3 +560,9 @@ Added the Kumanovo Military Technical Agreement event and extended the Rambouill
 - Kumanovo: zone timings (6/9/11 days) are from snippets of the UNMIK copy; whole text not read. Date effective 10 June, per Wikipedia and PAX.
 - Rambouillet: the Appendix B dispute rests on critics' pages (WSWS, Jan Oberg, Jungle World) and a Wikipedia mirror. A person should read Appendix B itself and add a neutral account of the supporters' view (I removed an unsourced line about supporters' view from the event). The three-year clause wording comes from the Wikipedia mirror.
 - Still not done: Ohrid text, UN original of 1244, Constitution annexes.
+
+### Kosovo, seventeenth round (Claude, 18 Nov 2026)
+Added earthquake events (Ferizaj-Viti 1921, Gjilan 2002), filled earthquakes in the disasters field, extended the Ohrid event with annex details.
+- Earthquakes: magnitudes of pre-1950 events are catalogue estimates; no casualty figure found for 1921. The 2002 death/injury numbers are from news reports via Wikipedia. Floods still not searched.
+- Ohrid: the annex page (UN peacemaker copy) was only seen as a snippet, so the article-by-article text is unread. 'Implicit recognition' is one legal commentator's view (Opinio Juris); Serbia's position is stated as a denial in general terms, not from a source read here. The Ohrid fields on the leaders are not named (alive).
+- Still empty: elite conflict, inventions, peak period, decline signals. Still unread: UN original of 1244, Constitution annexes, ICRC list.

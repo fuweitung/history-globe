@@ -75,10 +75,10 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | Civilisation pictures | `████████████████████` 98% | 498 of 507 |
 | “Known for” pictures | `█████████████░░░░░░░` 63% | 980 of 1566 items |
 | People pictures | `██████████████████░░` 91% | 412 of 451 |
-| Event pictures | `███████████████░░░░░` 75% | 753 of 1009 |
+| Event pictures | `███████████████░░░░░` 74% | 753 of 1011 |
 
 Certainty of all items: 14218 confirmed · 6793 estimated · 631 disputed.
-Also in the app: 1009 events · 451 people · 18 routes · 11 stories written (hidden in the app for now).
+Also in the app: 1011 events · 451 people · 18 routes · 11 stories written (hidden in the app for now).
 
 ## Map coverage by year
 

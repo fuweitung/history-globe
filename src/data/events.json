@@ -13702,12 +13702,12 @@
     "lng": 20.8,
     "type": "person",
     "title": "Ohrid Agreement on normalising Kosovo–Serbia relations",
-    "description": "An EU-mediated 'Agreement on the path to normalisation' was accepted verbally by both leaders in Brussels on 27 February 2023, and its implementation annex at Ohrid on 18 March 2023. Neither document was formally signed. Serbia does not recognise Kosovo. By June 2026 an analysis by the Carnegie Europe think tank said not a single article had been fully implemented by either side. Both sides blame each other and the EU's deliberate vagueness for the stall.",
+    "description": "An EU-mediated 'Agreement on the path to normalisation' was accepted verbally by both leaders in Brussels on 27 February 2023, and its implementation annex at Ohrid on 18 March 2023. Neither document was formally signed. Serbia does not recognise Kosovo. By June 2026 an analysis by the Carnegie Europe think tank said not a single article had been fully implemented by either side. Both sides blame each other and the EU's deliberate vagueness for the stall. More detail (snippets): the implementation annex says it is an integral part of the agreement and the EU later made it part of Serbia's EU negotiating framework. Both sides had already been bound, on paper, to form an Association of Serb-majority municipalities under the 2013 and 2015 agreements; Kosovo's Constitutional Court found most of the 2015 agreement on it unconstitutional. The annex says Kosovo should start work on it 'immediately', but without dates. An EU draft statute was presented on 26 October 2023; as of April 2025 it had not been established. Each side reads the text differently, and one legal commentator sees 'implicit recognition' in it, which Serbia denies.",
     "relatedPolityIds": [
       "serbia",
       "kosovo"
     ],
-    "source": "Wikipedia: 2023 Ohrid Agreement (search snippet); Carnegie Europe, 11 Jun 2026; Intellinews, 19 Mar 2023 (read 18 Nov 2026)"
+    "source": "Wikipedia: 2023 Ohrid Agreement (search snippet); Carnegie Europe, 11 Jun 2026; Intellinews, 19 Mar 2023 (read 18 Nov 2026) ; https://peacemaker.un.org/sites/default/files/document/files/2024/05/belgrade.pdf ; https://opiniojuris.org/2023/03/28/kosovo-serbia-agreement-on-the-normalisation-of-relations-not-signed-but-binding-not-formally-on-recognition-but-with-clear-elements-of-implicit-recognition/ ; https://periskopi.com/en/2023/3/existing-obstacles-kosovo-deal-serbia ; https://en.wikipedia.org/wiki/2023_Ohrid_Agreement"
   },
   {
     "id": "kosovo-specialist-chambers-2016",
@@ -14017,5 +14017,31 @@
       "serbia"
     ],
     "source": "https://unmik.unmissions.org/sites/default/files/old_dnn/Kumanovo%20Military%20Technical%20Agreement%20(NATO)%20June%201999.pdf ; https://pax.peaceagreements.org/agreements/457 ; https://en.wikipedia.org/wiki/Kumanovo_Agreement ; https://www.dvidshub.net/news/529116/serb-withdrawal-begins-nato-suspends-bombing ; https://phdn.org/archives/www.ess.uwe.ac.uk/Kosovo/Kosovo-Current_News224.htm"
+  },
+  {
+    "id": "ferizaj-viti-earthquake-1921",
+    "year": 1921,
+    "yearApproximate": false,
+    "lat": 42.3,
+    "lng": 21.3,
+    "type": "disaster",
+    "title": "Ferizaj-Viti earthquakes",
+    "description": "A series of earthquakes struck south-eastern Kosovo in 1921. The strongest, on 10 August 1921 near Ferizaj and Viti, is listed at magnitude about 6.1 and intensity IX, with major damage; further shocks followed on 15 August (about 5.4), 2 September (about 5.0, Gjilan) and 3 October (about 5.6, Kačanik-Viti). Other large historic events in lists include Ferizaj 1755 (about 6.1), Peć 1622 (about 6.0) and Prizren 1456 (about 6.0). Casualty figures were not found. Magnitudes of old events are estimates and vary between catalogues. Wikipedia list and a Kosovo seismology paper (snippets).",
+    "relatedPolityIds": [
+      "serbia"
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_earthquakes_in_Kosovo ; https://reference-global.com/download/article/10.2478/sgem-2024-0015.pdf ; https://telegrafi.com/disa-nga-termetet-te-fuqishme-qe-goditen-kosoven/"
+  },
+  {
+    "id": "gjilan-earthquake-2002",
+    "year": 2002,
+    "yearApproximate": false,
+    "lat": 42.44,
+    "lng": 21.47,
+    "type": "disaster",
+    "title": "Gjilan earthquake",
+    "description": "On 24 April 2002 a magnitude 5.7 earthquake struck about 2 km south of Gjilan, at 10 km depth (USGS). It lasted about 15 seconds, destroyed many houses, caused power cuts and broken gas lines, killed one person and injured about 100 according to news reports and Wikipedia. Intensity is given as VII (Mercalli), or 8 in a Kosovo report. Kosovo was then under UN administration.",
+    "relatedPolityIds": [],
+    "source": "https://en.wikipedia.org/wiki/2002_Kosovo_earthquake ; https://earthquake.usgs.gov/product/shakemap/usp000b324/atlas/1600455059295/download/intensity.pdf ; https://wiki.riteme.site/wiki/List_of_earthquakes_in_Kosovo"
   }
 ]
