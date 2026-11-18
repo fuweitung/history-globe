@@ -505,3 +505,7 @@ Still open (needs a person):
 - 2024 census final results (KAS, via Prishtina Insight snippet): 1,602,515 residents; Albanians 91.76%, Serbs 2.31%. This replaces the earlier 3.31% worry. Serb-majority north took part unevenly, so treat as estimated.
 - Roma, Ashkali, Egyptians: about 100,000 displaced in 1999 by one NGO estimate (Serbian academic paper gives the same figure), pre-1999 Roma about 120,000 (ERRC via MRG). Figures differ; not yet in the entry.
 - Resolution 1244 full text still unread (two hosts refused).
+
+### Kosovo, fourth round (Claude, 18 Nov 2026)
+Added events: Battle of Kosovo 1389, Ottoman conquest 1455, 1690 migration, League of Prizren 1878, 1912 Serbian takeover, interwar settlement, 1981 protests, 1989 autonomy cut; and a colonisation field.
+Open: the 1448 battle (not covered by the page read); the wartime period 1941–45 (the page failed to load; only the History of Kosovo timeline was read); the Dečani/Peć founding dates; the 1913 commission report; the 1690 numbers (30,000–40,000) are a range from one snippet; casualty counts for 1981 and 1989 vary. The events use only polities that exist on the map at that date, so most pre-2008 events do not show on the Kosovo page itself.

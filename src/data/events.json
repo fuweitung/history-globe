@@ -13405,7 +13405,6 @@
     "title": "Gazimestan speech, 600th anniversary of the Battle of Kosovo",
     "description": "On 28 June 1989 the Serbian president of the time spoke at Gazimestan to a crowd usually estimated at about a million, on the 600th anniversary of the 1389 battle. It came months after Serbia's new constitution cut Kosovo's autonomy and after deadly protests in March 1989. Many commentators saw it as a sign of the coming Yugoslav wars; the speaker later said he had been misrepresented. Serbs often remember the day as a commemoration of a national memory; Albanians remember it as a show of force.",
     "relatedPolityIds": [
-      
       "serbia",
       "yugoslavia"
     ],
@@ -13439,5 +13438,122 @@
       "kosovo"
     ],
     "source": "Eunews, 4 Jan 2024; RFE/RL via GlobalSecurity, 4 Jan 2024; Kosovo Ministry for European Integration (search results read 18 Nov 2026)"
+  },
+  {
+    "id": "battle-of-kosovo-1389",
+    "year": 1389,
+    "yearApproximate": false,
+    "lat": 42.68,
+    "lng": 21.12,
+    "type": "war",
+    "title": "Battle of Kosovo (Kosovo Polje)",
+    "description": "Fought on 15 June 1389 (Julian calendar; the date is 28 June, Vidovdan, today). Prince Lazar of Moravian Serbia and Sultan Murad I both died. Most historians call the result inconclusive, because both armies were largely destroyed; army sizes are uncertain (roughly 27,000–40,000 Ottoman, 12,000–25,000 Christian). No eyewitness account survives. The later Serbian 'Kosovo myth' of sacrifice and betrayal grew from oral epic poetry and became central to Serb national memory in the 19th century. Albanian sources stress that Albanian nobles fought too, though the claim that Albanians were a quarter of the army is thought overstated by many scholars.",
+    "relatedPolityIds": [
+      "ottoman-empire"
+    ],
+    "source": "Wikipedia: Battle of Kosovo (checked 18 Nov 2026)"
+  },
+  {
+    "id": "ottoman-conquest-kosovo-1455",
+    "year": 1455,
+    "yearApproximate": false,
+    "lat": 42.63,
+    "lng": 21.43,
+    "type": "war",
+    "title": "Ottoman conquest of Kosovo completed",
+    "description": "Ottoman control grew in stages after 1389: a garrison at Zvečan in 1399, a court at Pristina in 1423, and the mining town of Novo Brdo surrendered after a 40-day siege in 1455. Kosovo then stayed Ottoman until 1912–13. Many Albanians and others converted to Islam over the following centuries, probably for social and economic reasons; Christian religious life continued under Ottoman rule.",
+    "relatedPolityIds": [
+      "ottoman-empire"
+    ],
+    "source": "Wikipedia: Ottoman Kosovo (search snippets, 18 Nov 2026)"
+  },
+  {
+    "id": "great-serb-migration-1690",
+    "year": 1690,
+    "yearApproximate": false,
+    "lat": 42.66,
+    "lng": 20.29,
+    "type": "culture",
+    "title": "Patriarch Arsenije III leads a migration out of Kosovo",
+    "description": "During the Austro-Ottoman war, Habsburg forces held Kosovo for about a year (1689–1691). When they withdrew and Ottoman reprisals and looting followed, the Serbian Orthodox Patriarch of Peć, Arsenije III, led an estimated 30,000–40,000 people, mostly Serbs, into Habsburg lands. Historians still disagree on the numbers and on how much this changed the population of Kosovo; Serbian and Albanian writers tell the story differently. The Ottomans abolished the Patriarchate of Peć in 1766.",
+    "relatedPolityIds": [
+      "ottoman-empire"
+    ],
+    "source": "Wikipedia: Ottoman Kosovo (search snippets); Agron Islami article abstract, CEEOL (18 Nov 2026)"
+  },
+  {
+    "id": "league-of-prizren-1878",
+    "year": 1878,
+    "yearApproximate": false,
+    "lat": 42.21,
+    "lng": 20.74,
+    "type": "person",
+    "title": "League of Prizren founded",
+    "description": "Albanian leaders founded the League on 10 June 1878 in Prizren, alarmed that the Treaty of San Stefano and the Congress of Berlin would give Albanian-populated land to Serbia, Montenegro, Bulgaria and Greece. At first it backed the Ottoman state; later it demanded autonomy, then an Albanian state. It fought Montenegrin forces and held several towns, but Ottoman troops crushed it in April 1881. It is generally seen as the start of the modern Albanian national movement.",
+    "relatedPolityIds": [
+      "ottoman-empire"
+    ],
+    "source": "Wikipedia: League of Prizren (checked 18 Nov 2026)"
+  },
+  {
+    "id": "serbia-takes-kosovo-1912",
+    "year": 1912,
+    "yearApproximate": false,
+    "lat": 42.67,
+    "lng": 21.17,
+    "type": "war",
+    "title": "Serbia and Montenegro take Kosovo in the First Balkan War",
+    "description": "During the First Balkan War (1912) a Serbian army took Kosovo from the Ottoman Empire and linked up with Montenegrin forces. The Treaty of London (30 May 1913) ended the war and led to an independent Albania. Sources agree that all sides committed serious atrocities against civilians in the Balkan Wars; what was done to Albanians in Kosovo specifically, and by how many, still needs a dedicated source.",
+    "relatedPolityIds": [
+      "serbia",
+      "ottoman-empire",
+      "albania"
+    ],
+    "source": "Wikipedia: Balkan Wars (checked 18 Nov 2026); Kosovo's later position inside Serbia/Yugoslavia is from Wikipedia: History of Kosovo"
+  },
+  {
+    "id": "colonisation-kosovo-interwar",
+    "year": 1920,
+    "yearApproximate": true,
+    "lat": 42.4,
+    "lng": 21.0,
+    "type": "culture",
+    "title": "Interwar land reform and settlement in Kosovo",
+    "description": "After 1918 Yugoslav land decrees (1919–20, 1931) moved land to settlers, mostly Serbs, estimated at about 60,000–65,000, who got roughly 5–10 hectares each. Estimates of Albanian land taken range from about 154,000 to 228,000 hectares. Albanians were still about 61–65% of Kosovo in 1921–31. Emigration of Albanians to Turkey is disputed: estimates for 1918–41 run from 90,000–150,000 to 200,000–300,000. A 1937 memorandum urged expelling Albanians but was never adopted; a 1938 Yugoslav–Turkish convention was not ratified by Turkey.",
+    "relatedPolityIds": [
+      "yugoslavia",
+      "serbia"
+    ],
+    "source": "Wikipedia: Yugoslav colonization of Kosovo (checked 18 Nov 2026, first 100,000 of 144,855 characters)"
+  },
+  {
+    "id": "kosovo-protests-1981",
+    "year": 1981,
+    "yearApproximate": false,
+    "lat": 42.67,
+    "lng": 21.17,
+    "type": "person",
+    "title": "Student protests in Kosovo",
+    "description": "A protest over food and dormitories at the University of Pristina on 11 March 1981 grew into province-wide demonstrations in April, with demands for Kosovo to become a republic within Yugoslavia. Authorities declared a state of emergency and deployed troops (up to 30,000 reported). Casualty figures differ: reports range from a handful to several dozen deaths, and over 250 injured. Hundreds were sentenced, Albanian-language textbooks from Albania were banned and the provincial party was purged. Many see it as an early step toward Yugoslavia's breakup.",
+    "relatedPolityIds": [
+      "yugoslavia",
+      "serbia"
+    ],
+    "source": "Wikipedia: 1981 protests in Kosovo (checked 18 Nov 2026)"
+  },
+  {
+    "id": "kosovo-autonomy-cut-1989",
+    "year": 1989,
+    "yearApproximate": false,
+    "lat": 42.67,
+    "lng": 21.17,
+    "type": "person",
+    "title": "Serbia cuts Kosovo's autonomy",
+    "description": "In 1989 constitutional changes reduced the autonomy Kosovo had been given in 1974. Albanian delegates boycotted, police detained about 240 Albanians, and the assembly vote was declared passed although it missed the two-thirds threshold, according to one account. Protests in March were put down by force, with many Albanians killed. In the 1990s Albanians ran a parallel education system after Albanian-language higher education was shut down.",
+    "relatedPolityIds": [
+      "yugoslavia",
+      "serbia"
+    ],
+    "source": "Wikipedia: History of Kosovo (first 100,000 characters, 18 Nov 2026); Gazimestan speech (search snippets)"
   }
 ]
