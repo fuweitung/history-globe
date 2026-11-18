@@ -3,7 +3,8 @@
 //
 // Each Natural Earth country takes the names (NAME, SUBJECTO, PARTOF) of the 2010 shape under its
 // label point, so it links to the same civilisations as on the 2010 map. Countries that are new
-// since 2010 (NEW_SINCE_2010) keep their own name. Coordinates are rounded to 0.01° (about 1 km);
+// since 2010 (NEW_SINCE_2010) keep their own name. Kosovo (declared 2008, still inside Serbia on the 2010 map) is
+// named separately because most UN members recognise it; Serbia and others do not, and the app text says so. Coordinates are rounded to 0.01° (about 1 km);
 // neighbours share their border points in Natural Earth, so rounding keeps the borders identical.
 //
 //   npm run build-current-borders   (also run by fetch-borders)
@@ -21,7 +22,7 @@ export const COUNTRIES_URL = 'https://raw.githubusercontent.com/nvkelso/natural-
 export const COUNTRIES_CACHE = join(root, 'scripts', '.cache', 'ne_50m_admin_0_countries.geojson');
 
 /** Natural Earth ADMIN name → the name to use, for countries that the 2010 map does not have. */
-const NEW_SINCE_2010 = { 'South Sudan': 'South Sudan' };
+const NEW_SINCE_2010 = { 'South Sudan': 'South Sudan', Kosovo: 'Kosovo' };
 /** Left out, as on the 2010 map. */
 const SKIP = new Set(['Antarctica']);
 

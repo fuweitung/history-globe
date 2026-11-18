@@ -1,0 +1,320 @@
+{
+  "id": "kosovo",
+  "name": "Kosovo",
+  "era": "modern",
+  "region": "South-eastern Europe (Balkans)",
+  "startYear": 2008,
+  "endYear": null,
+  "capital": "Pristina",
+  "capitalCoords": [
+    21.17,
+    42.67
+  ],
+  "summary": "A small landlocked Balkan country that declared independence from Serbia in 2008. Over 100 UN members recognise it, but Serbia, Russia and China do not, and it is not in the UN. Its status is disputed.",
+  "wikiTitle": "Kosovo",
+  "borderNames": [
+    "Kosovo"
+  ],
+  "borderYears": [
+    2008,
+    null
+  ],
+  "color": "#4a6fa5",
+  "knownFor": [
+    {
+      "label": "Visoki Dečani Monastery",
+      "kind": "monument",
+      "note": "Medieval Serbian Orthodox monastery in western Kosovo."
+    },
+    {
+      "label": "Ibrahim Rugova",
+      "kind": "person",
+      "note": "Led the non-violent Albanian movement of the 1990s."
+    },
+    {
+      "label": "Six-star flag",
+      "kind": "idea",
+      "note": "The stars stand for the six main ethnic groups."
+    }
+  ],
+  "checklist": {
+    "geography": {
+      "location": {
+        "value": "A landlocked country in the central Balkans, about the size of Jamaica or Lebanon and the smallest in the Balkans; its capital and largest city is Pristina. It borders Albania, Montenegro, North Macedonia and Serbia. Serbia, and the states that do not recognise Kosovo, treat it as Serbian territory.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Britannica: Kosovo (checked 18 Nov 2026); neighbours from the Albania, Montenegro and North Macedonia entries"
+      },
+      "terrain": {
+        "value": "Mostly mountains and hills. The Albanian Alps (Bjeshkët e Nemuna) lie in the west, the Šar Mountains in the south-east and the Kopaonik range in the north. Two plains, Dukagjin in the west and the Kosovo plain in the east, hold much of the farmland and towns. The highest point is given as about 2,656 m (Gjeravica) or 2,660 m (Velika Rudoka), depending on the source; the lowest, about 297 m, is in the White Drin valley.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Geography of Kosovo (checked 18 Nov 2026); the two peak heights differ inside the page"
+      },
+      "climate": {
+        "value": "A mix of continental and Mediterranean influences with four seasons. Summer highs reach about 30 °C and winter lows about −10 °C, colder in the dry Ibar valley. Rain or snow is about 600 mm a year in the Ibar valley, about 700 mm in Dukagjin and 900–1,300 mm in the mountains.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Geography of Kosovo (checked 18 Nov 2026)"
+      },
+      "resources": {
+        "value": "The mountains hold lead and zinc, especially in the Kopaonik range. Rivers drain three ways: about half to the Black Sea (Ibar, Sitnica), about 43% to the Adriatic (White Drin, about 122 km, the longest river) and the rest to the Aegean (Lepenac). The largest reservoir is Gazivoda (about 9.2 km²). Two national parks, the Albanian Alps (about 630 km²) and the Šar Mountains, protect nature. Kosovo's Trepča mining complex near Mitrovica was once one of Yugoslavia's largest companies, with up to 23,000 employees; since 1999 most of its facilities have stayed closed, in part because of the division of Mitrovica.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Wikipedia: Geography of Kosovo (checked 18 Nov 2026) (the page does not cover lignite or air pollution); Wikipedia: Trepča Mines (search snippet, 18 Nov 2026)"
+      },
+      "disasters": {
+        "value": "The most documented ongoing hazard is air pollution from lignite: the two old Kosovo A and B power plants near Obilić, home heating and traffic. Estimates of deaths differ widely: about 760 a year in a 2019 World Bank report and about 3,700 in a European Environment Agency report using 2015 data. Pristina's PM2.5 exceeded the WHO limit on 86 days in 2019. Kosovo A was built in the early 1960s and the World Bank has called it the worst single source of pollution in Europe; plans for a new plant ended when the World Bank said in October 2018 it would not support it. Earthquakes: the strongest on record is the Ferizaj-Viti shock of 10 August 1921 (about magnitude 6.1, intensity IX); the 2002 Gjilan earthquake (magnitude 5.7) killed one person and injured about 100 (news reports); Kosovo's seismic network has logged about 1,100 quakes of magnitude 1.5-5.2 since 2008. Floods were not looked up.",
+        "year": 2019,
+        "certainty": "disputed",
+        "source": "World Bank brief, Oct 2018; Prishtina Insight (EEA 2018 report); AP via WHBL (World Bank 2019) (search snippets, 18 Nov 2026); Dartmouth Rockefeller report (snippet); Wikipedia list of earthquakes in Kosovo; SGEM 2024 seismology paper (snippets, 18 Nov 2026)"
+      }
+    },
+    "population": {
+      "population": {
+        "value": "1,602,515 residents at the April–May 2024 census, down from 1,739,825 in 2011. Reported shares differ: about 91% Albanian and 2–3% Serb, with Bosniaks, Turks, Ashkali, Egyptians, Gorani and Roma making up the rest. Serbs boycotted the census in the north, so the official figure for Serbs rests partly on estimates.",
+        "year": 2024,
+        "certainty": "estimated",
+        "source": "Kosovo Agency of Statistics 2024 census via Prishtina Insight and bne IntelliNews (checked 18 Nov 2026); the first-results page of the Prime Minister's office gives 90.79% Albanian and 3.31% Serb, the final-results report 91.76% and 2.31%"
+      },
+      "urbanisation": {
+        "value": "Pristina is the largest city. The 2024 census found a shift toward urban living and an ageing population.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Prishtina Insight on the 2024 census (checked 18 Nov 2026)"
+      },
+      "disease": {
+        "value": "After the 1999 war many Roma displaced from Mitrovica were housed in camps next to the Trepča smelter waste; a 2009 Human Rights Watch report is titled 'Poisoned by Lead' and describes a health and human-rights crisis in those camps. Details such as numbers affected were not read.",
+        "year": 2009,
+        "certainty": "estimated",
+        "source": "Human Rights Watch, Kosovo: Poisoned by Lead (2009) (report title and contents list seen in a search result, 18 Nov 2026)"
+      },
+      "migration": {
+        "value": "In 1999 hundreds of thousands of Kosovo Albanians were driven out or fled (the Yugoslav tribunal's indictment spoke of about 800,000; its 2009 judgment found forced expulsions in a campaign that killed and displaced many). Today many people leave to work abroad, and the population fell by about 12% between the 2011 and 2024 censuses.",
+        "year": 1999,
+        "certainty": "confirmed",
+        "source": "ICTY press advisory and judgment summaries on Milutinović et al., 2009 (checked 18 Nov 2026); bne IntelliNews on the 2024 census (checked 18 Nov 2026)"
+      }
+    },
+    "economy": {
+      "economicBase": {
+        "value": "Services dominate; manufacturing is still small, and information technology and business services are growing. Money sent home by workers abroad (remittances) is a major source of household income.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "World Bank: Kosovo overview (checked 18 Nov 2026)"
+      },
+      "tradeRoutes": {
+        "value": "Kosovo exports little and imports a lot. In 2024 exports were about $1.08 billion (metals, minerals, food and drink) and imports about $7.32 billion; the trade deficit was about €5.4 billion. Albania, North Macedonia and Germany were the largest export destinations; Turkey, Germany and China were the largest suppliers in 2025. Roads to Albania and North Macedonia carry most freight. Money sent home by emigrants, mainly from Germany and Switzerland, covers part of the gap.",
+        "year": 2024,
+        "certainty": "estimated",
+        "source": "Wikipedia: Economy of Kosovo (checked 18 Nov 2026)"
+      },
+      "wealth": {
+        "value": "Income per person rose from about $3,500 in 2015 to over $6,000, still about 15% of the EU average. The World Bank classes Kosovo as upper-middle income since 2018. Growth averaged over 4% a year before the pandemic and about 3.6% in 2025.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "World Bank: Kosovo overview (checked 18 Nov 2026)"
+      },
+      "moneyAndTax": {
+        "value": "Kosovo uses the euro.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "World Bank: Kosovo overview (checked 18 Nov 2026)"
+      },
+      "inequality": {
+        "value": "About 17.6% of people were below the national poverty line in 2015, and about 34% lived on less than $6.85 a day in 2017. Unemployment is high and informal work is common; for the Roma minority it may be as high as 90%. Around 700,000 people are estimated to have emigrated between 1990 and 2023. Figures are from different years and are not directly comparable.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Economy of Kosovo (checked 18 Nov 2026)"
+      }
+    },
+    "politics": {
+      "governmentType": {
+        "value": "A parliamentary republic. Its constitution calls it an independent, sovereign, democratic and indivisible state with no territorial claims on others. Serbia rejects its independence; see territory change and alliances.",
+        "year": 2008,
+        "certainty": "disputed",
+        "source": "Constitution of Kosovo, Constitute Project (checked 18 Nov 2026); Kosovo Declaration of Independence, 17 Feb 2008 (openDemocracy reprint) (checked 18 Nov 2026)"
+      },
+      "keyRulers": {
+        "value": "The president is chosen by the Assembly for five years, and the head of government is the prime minister; current office-holders are not named here. Ibrahim Rugova (died 2006) led the non-violent Albanian movement of the 1990s, and Martti Ahtisaari (died 2023) wrote the 2007 UN plan for supervised independence.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Constitution of Kosovo, Constitute Project (checked 18 Nov 2026); Swarthmore Global Nonviolent Action Database on Kosovo 1990–1998 (checked 18 Nov 2026); UN document S/2007/168 (checked 18 Nov 2026)"
+      },
+      "succession": {
+        "value": "The Assembly elects the president by secret ballot: two-thirds of all members are needed in the first two rounds, a majority in a third round, and if that fails the Assembly is dissolved and new elections follow within 45 days. A president may serve two terms.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Constitution of Kosovo, Constitute Project (checked 18 Nov 2026) (Articles 86–87)"
+      },
+      "institutions": {
+        "value": "A 120-seat Assembly, of which 20 seats are reserved for non-majority communities (at least 10 for Serbs). Albanian and Serbian are the official languages, and Turkish, Bosnian and Romani have official status in some places. Kosovo is a secular state. The United Nations mission (UNMIK), set up under Resolution 1244, and the EU rule-of-law mission (EULEX) are still present.",
+        "year": 2008,
+        "certainty": "confirmed",
+        "source": "Constitution of Kosovo, Constitute Project (checked 18 Nov 2026) (Articles 5, 8, 64); UNMIK website (checked 18 Nov 2026); NATO: NATO's role in Kosovo (checked 18 Nov 2026)"
+      },
+      "stability": {
+        "value": "Tension has centred on the Serb-majority north. In 2023 attacks on NATO peacekeepers at Zvečan led NATO to add nearly 1,000 troops; in 2026 NATO announced a gradual reduction because security had improved. The 2024 census was boycotted in the north.",
+        "year": 2023,
+        "certainty": "confirmed",
+        "source": "Brussels Times on KFOR, 2026 (checked 18 Nov 2026); bne IntelliNews on the 2024 census (checked 18 Nov 2026)"
+      },
+      "eliteConflict": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      }
+    },
+    "military": {
+      "armyAndTech": {
+        "value": "The Kosovo Security Force is a lightly armed volunteer force with a civil-protection mandate, trained under NATO supervision. NATO's peacekeeping force KFOR, in Kosovo since June 1999 under Resolution 1244, had about 5,200 troops from 33 countries in early 2026 and is being scaled back; one report puts it at about 4,600 by mid-2026.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "NATO: NATO's role in Kosovo (checked 18 Nov 2026); Periskopi on KFOR numbers, June 2026 (snippet only)"
+      },
+      "majorWars": {
+        "value": "Kosovo War (Feb 1998 – June 1999): the Kosovo Liberation Army fought Yugoslav and Serbian forces. NATO bombed Yugoslavia from 24 March to 10 June 1999; it acted without a Security Council vote, and whether that was lawful is still argued (Serbia and some other states call it illegal; NATO called it a humanitarian intervention). The Humanitarian Law Center's Kosovo Memory Book lists about 13,500 people killed or missing between 1998 and 2000, among them Albanians, Serbs and others. For 24 March – 10 June 1999 the same centre counts 9,401 people killed, dead or disappeared, among them 189 Serb and other non-Albanian civilians killed in Kosovo. A UN tribunal convicted five senior Yugoslav and Serbian officials in 2009 of deportation and forcible transfer of Kosovo Albanians.",
+        "year": 1999,
+        "certainty": "disputed",
+        "source": "HLC Kosovo Memory Book via Balkan Witness and HLC press releases (checked 18 Nov 2026); ICTY judgment summary 26 Feb 2009 (checked 18 Nov 2026); Wikipedia: NATO bombing of Yugoslavia and Kosovo War (search snippets only); UN press release SC/6686, 10 June 1999 (checked 18 Nov 2026)"
+      },
+      "territoryChange": {
+        "value": "Disputed. The area was an Ottoman province until the First Balkan War, and Serbia and Montenegro divided it, confirmed at the Treaty of London on 30 May 1913. The province's wide autonomy was ended in March 1989. Since June 1999 the UN has administered it under Resolution 1244, which Serbia says leaves Kosovo part of Serbia. Kosovo declared independence on 17 February 2008. The International Court of Justice found in 2010, by 10 votes to 4, that the declaration did not violate international law, but it did not decide whether Kosovo is a state. Serbia's constitution calls Kosovo an integral part of Serbia and its parliament voted 192–26 in 2010 never to recognise it.",
+        "year": 2008,
+        "certainty": "disputed",
+        "source": "Wikipedia: Kosovo vilayet (search snippet only); Swarthmore database (checked 18 Nov 2026); UN press release SC/6686, 10 June 1999 (checked 18 Nov 2026); ICJ press release 2010/25 and press summary 16012, 22 July 2010 (checked 18 Nov 2026); JURIST on the Serbian parliament vote, 2010; Serbian government pages on the 2008 and 2007 resolutions (search snippets only)"
+      },
+      "alliancesRivals": {
+        "value": "Recognition is split. Kosovo's government and the states that recognise it, including the United States, 22 of 27 EU members and 28 of 32 NATO members, treat it as independent. Serbia, Russia and China do not recognise it, nor do five EU members (Spain, Slovakia, Cyprus, Romania and Greece). It is not a UN member. Serbia and Kosovo hold EU-mediated talks (Brussels Agreement 2013; Ohrid normalisation deal 2023), which Serbia says do not amount to recognition. Counts of recognising UN member states differ by source: about 84 (Kosovo Online, Mar 2025), 105 of 193 (Wikipedia, 26 Mar 2025) and at least 110 (Wikipedia mirror, 19 Dec 2025).",
+        "year": 2025,
+        "certainty": "disputed",
+        "source": "Wikipedia: International recognition of Kosovo (search snippets); Kosovo Online (Mar 2025); EPRS briefing on the Belgrade–Pristina dialogue, Nov 2025 (snippet); Calendar-UK (snippet)"
+      }
+    },
+    "technology": {
+      "inventions": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "scienceEducation": {
+        "value": "The University of Pristina opened in 1969–70 with Albanian and Serbo-Croat teaching, after protests in 1968. Students rose from about 7,700 (1969/70) to about 43,000 (1980/81). In the 1990s, after Serbian authorities shut Albanian-language higher education, Albanians ran a 'parallel system' of teaching. Today the Albanian-language University of Pristina is the main public university, and a Serbian-language university works in North Mitrovica.",
+        "year": 1970,
+        "certainty": "estimated",
+        "source": "Wikipedia: University of Pristina (1969–99) and Education in Kosovo (search snippets only); Britannica: Government and society; Medical Teacher abstract (informahealthcare.com). Numbers are from snippets, not a full read."
+      },
+      "openness": {
+        "value": "Since 1 January 2024 holders of biometric Kosovo passports can travel to the Schengen area for up to 90 days without a visa, after a 12-year process. Kosovo applied to join the EU on 15 December 2022 and is still only a 'potential candidate'. Spain, which does not recognise Kosovo, does not accept its passports.",
+        "year": 2024,
+        "certainty": "confirmed",
+        "source": "Eunews 4 Jan 2024; RFE/RL via GlobalSecurity 4 Jan 2024; Kosovo Ministry for European Integration (visa liberalisation page) (search results read, 18 Nov 2026)"
+      },
+      "communicationTransport": {
+        "value": "Pristina International Airport is the only international airport and handled about 2.99 million passengers in the year the page covers. Two main roads link the capital to neighbours: a 60 km road to the North Macedonian border and a 129.8 km road to the Albanian border, both mostly finished. The first railway reached Mitrovica in 1873; Yugoslav Railways ran the network until 1992, and operations stopped after the 1999 intervention. Today a company runs about 430 km of track, with passenger trains only on the Pristina–Peja line and the Kosovo Polje–North Macedonia line. About 181 cars per 1,000 people in 2021, against 567 in the EU. Kosovo has the +383 phone code since December 2016 after the Brussels Agreement.",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Transport in Kosovo (checked 18 Nov 2026); Wikipedia: Brussels Agreement (2013) for +383"
+      }
+    },
+    "culture": {
+      "religion": {
+        "value": "In the 2024 census (final results), about 93.5% of residents said they were Muslim (95.6% in 2011), about 2.3% Orthodox, about 1.75% Catholic, and about 0.5% had no religion. Albanians are mostly Muslim, with a Catholic minority; Serbs are Eastern Orthodox. The Serbian Orthodox Church is central to Serb identity and has deep roots in Kosovo, including the Patriarchate of Peć. Gračanica, Peć, Visoki Dečani and Our Lady of Ljeviš form a UNESCO World Heritage site. The constitution makes the state neutral on religion. Serbs in the north boycotted counts, so the Orthodox share is probably an undercount.",
+        "year": 2024,
+        "certainty": "estimated",
+        "source": "Prishtina Insight on the Kosovo Agency of Statistics 2024 census (search snippet, 18 Nov 2026); Minority Rights Group, Kosovo; Wikipedia: Kosovo Serbs and Constitution of Kosovo (checked 18 Nov 2026)"
+      },
+      "languageWriting": {
+        "value": "Albanian and Serbian are official nationally; Turkish, Bosnian and Romani have official status in municipalities and where the law provides.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Constitution of Kosovo, Constitute Project (checked 18 Nov 2026) (Article 5)"
+      },
+      "artsArchitecture": {
+        "value": "Medieval Serbian Orthodox monasteries are the best-known buildings: Visoki Dečani (built 1327–c.1335, with a large collection of Byzantine-style frescoes), Gračanica, the Patriarchate of Peć and Our Lady of Ljeviš, all on the UNESCO list since 2004 and listed as endangered since 2006. Ottoman-era buildings such as Pristina's Stone Mosque and Prizren's old town are also important. Albanian folk culture includes the Kanun customary law, the idea of besa (a pledge of honour) and decoration with snake symbols. Albanian-language writing in Kosovo was small until the 20th century and then developed separately from Albania's. Since 1999 Pristina has had a lively arts scene, and Prizren hosts the Dokufest documentary and short film festival (since 2002).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Wikipedia: Visoki Dečani (checked 18 Nov 2026); Britannica: Cultural life (search snippet); Wikipedia: Cultural heritage of Kosovo, Culture in Prizren, Ottoman Kosovo (search snippets, 18 Nov 2026)"
+      },
+      "socialStructure": {
+        "value": "The constitution describes a multi-ethnic society of Albanians and other communities. The 2024 census counts Albanians (about 1.45 million), Serbs, Bosniaks, Turks, Ashkali, Balkan Egyptians, Gorani and Roma.",
+        "year": 2024,
+        "certainty": "estimated",
+        "source": "Constitution of Kosovo, Constitute Project (checked 18 Nov 2026) (Article 3); citypopulation.de table of the 2024 census (checked 18 Nov 2026)"
+      },
+      "sharedIdentity": {
+        "value": "The state symbols are meant to reflect a multi-ethnic character; the stars on the flag stand for the six main ethnic groups. For Serbia and many Serbs, Kosovo holds great historical and religious meaning, including the memory of the Battle of Kosovo in 1389.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "Constitution of Kosovo, Constitute Project (checked 18 Nov 2026) (Article 6); Koha on the six stars (snippet); Serbia entry in this app"
+      },
+      "dailyLife": {
+        "value": "Pristina, the capital, had 227,466 residents in the 2024 census, 98% of them Albanian. It has many cafés, restaurants and bars, coffee bars are common, and it hosts the Sunny Hill Festival (over 100,000 visitors). Hospitality and coffee culture are central to everyday life. Public health care is subsidised but many clinics are poorly equipped, and men's life expectancy is about 70 years. Many families rely on money sent by relatives abroad.",
+        "year": 2024,
+        "certainty": "estimated",
+        "source": "Wikipedia: Pristina (checked 18 Nov 2026); Britannica: Government and society (search snippet); Wikipedia: Economy of Kosovo (checked 18 Nov 2026)"
+      }
+    },
+    "connections": {
+      "neighbours": {
+        "value": "Serbia, North Macedonia, Albania and Montenegro.",
+        "year": null,
+        "certainty": "confirmed",
+        "source": "Albania, Montenegro and North Macedonia entries in this app"
+      },
+      "ideasReligions": {
+        "value": "The 2007 UN plan by Martti Ahtisaari proposed independence supervised by the international community, with strong rights for minorities. Serbia and Russia rejected it, and the 2008 declaration promised to follow it in full.",
+        "year": 2007,
+        "certainty": "confirmed",
+        "source": "UN document S/2007/168 (checked 18 Nov 2026); Kosovo Declaration of Independence, 17 Feb 2008 (openDemocracy reprint) (checked 18 Nov 2026)"
+      },
+      "colonisation": {
+        "value": "Between the wars Yugoslavia gave land in Kosovo to settlers, mostly Serbs (about 60,000–65,000 by one estimate), under land decrees of 1919–20 and 1931. Estimates of Albanian land taken range from about 154,000 to 228,000 hectares. The settlers' return was banned in 1945 and only a small part of the land was given back. Albanians and others emigrated to Turkey in several waves; the totals are disputed and Turkish archives are mostly closed. Serbian and Albanian historians interpret the intent and scale of these policies differently.",
+        "year": 1920,
+        "certainty": "disputed",
+        "source": "Wikipedia: Yugoslav colonization of Kosovo (checked 18 Nov 2026, first 100,000 of 144,855 characters); Wikipedia: History of Kosovo (first 100,000 of 128,567 characters)"
+      }
+    },
+    "riseFall": {
+      "riseSignals": {
+        "value": "1974 gave the province wide autonomy; in March 1989 that autonomy was removed. Albanians then built parallel schools, clinics and a shadow government under Ibrahim Rugova's non-violent leadership, and a 1991 referendum was held (Serbia treated it as illegal). After the 1998–99 war the UN ran Kosovo from June 1999 to 2008, and Kosovo declared independence in February 2008.",
+        "year": 1989,
+        "certainty": "confirmed",
+        "source": "Swarthmore Global Nonviolent Action Database (checked 18 Nov 2026); Purdue Kosovo bullet points (snippet); Britannica: Kosovo (checked 18 Nov 2026)"
+      },
+      "peakPeriod": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "declineSignals": {
+        "value": null,
+        "year": null,
+        "certainty": null,
+        "source": null
+      },
+      "outcome": {
+        "value": "Still developing. In practice Kosovo has run itself since 2008 and uses the euro, but it is outside the UN and its status is disputed. The Resolution 1244 mission and NATO's force are still in place.",
+        "year": 2008,
+        "certainty": "disputed",
+        "source": "NATO: NATO's role in Kosovo (checked 18 Nov 2026); World Bank: Kosovo overview (checked 18 Nov 2026)"
+      }
+    },
+    "dataQuality": {
+      "sources": {
+        "value": "Britannica; World Bank; the Constitution of Kosovo (Constitute Project); the UN press release on Resolution 1244; the ICJ press release on the 2010 advisory opinion; the text of the 2008 declaration; ICTY materials; Humanitarian Law Center; Kosovo Agency of Statistics (via news reports); NATO; Serbian government pages (snippets).",
+        "year": null,
+        "certainty": "estimated",
+        "source": "Read via the research tool on 18 Nov 2026; several were summaries, not the full original text"
+      },
+      "overallCertainty": {
+        "value": "Mixed. Status and recognition counts are disputed; war casualty figures, recognition counts and the census Serb share depend on who counts. Not yet read in full: the text of Resolution 1244 and the full ICJ opinion. Fields left empty were not researched.",
+        "year": null,
+        "certainty": "disputed",
+        "source": "See sources; docs/sensitive-review.md"
+      }
+    }
+  }
+}

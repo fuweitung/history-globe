@@ -37,6 +37,32 @@ Requested by Mike (launch plan item 5). Same standard and same limits as the sig
 - Gaps rather than wrong wording: there is no event for the 2014 annexation of Crimea, the 1975 Green March, or the 2023 Karabakh offensive (folded into the 2020 event). Consider adding them.
 - `hong-kong` `declineSignals` treats the 2020–21 changes as signs of decline; that framing is a judgement a reviewer should look at.
 
+## Kosovo (Claude, 18 Nov 2026)
+
+Issue #299. A new entry, `kosovo`, with its two events (`kosovo-war-1999`, `kosovo-independence-2008`), and the 2025 map now names Kosovo instead of Serbia. Written by Claude (an AI) from the sources below; **needs a human read** like the six topics above.
+
+**Rule followed:** the map follows the majority view of states (Kosovo is named separately), and the text says plainly that recognition is split. Certainty is `disputed` wherever status or war responsibility is involved.
+
+| Source (read through the research tool on 18 Nov 2026) | Used for |
+|---|---|
+| UN press release SC/6686 on Resolution 1244 (not the resolution text) | Vote 14–0, China abstaining; UN administration and NATO-led force; reaffirms Yugoslavia's sovereignty |
+| ICJ press release 2010/25 and press summary | Advisory opinion of 22 July 2010: 10 to 4; no general ban on declarations; the Court did not decide statehood or a right to secede |
+| Kosovo declaration, 17 Feb 2008 (openDemocracy reprint) | What it promised: Ahtisaari plan, constitution, minorities, international presence |
+| Constitution of Kosovo (Constitute Project, partial) | Articles 1, 3, 5, 6, 8, 64, 86–87 |
+| ICTY materials on Milutinović et al. (2009) | Deportation and forcible transfer findings; convictions |
+| Humanitarian Law Center (Kosovo Memory Book) | About 13,500 killed or missing, 1998–2000; 189 Serb and other non-Albanian civilians killed 24 Mar–10 Jun 1999 |
+| NATO, KFOR pages (2026) | KFOR still operates under Resolution 1244 and is being reduced |
+| World Bank; Kosovo Agency of Statistics 2024 census (via news reports) | Economy and population; Serb boycott of the census in the north |
+| Serbian National Assembly and government pages (search snippets only) | Serbia's position: 2006 constitution preamble, 2008 annulment, 2010 resolution (192–26) |
+
+**Open (needs a person):**
+- The full text of Resolution 1244 and the full ICJ opinion were not read; the UN summary says the resolution reaffirms the sovereignty of the Federal Republic of Yugoslavia, while Serbia's 2008 decision says the resolution itself names Kosovo as part of Serbia. Check the exact preamble wording.
+- Recognition counts differ (about 84, 105 and at least 110 of 193). The entry gives the range. Use the foreign ministries' lists or a dated reference before quoting one number.
+- Census Serb share differs between the first-results page (3.31%) and the final report (2.31%), and Serbs boycotted in the north.
+- Several war-related lines come from search snippets (NATO bombing legality, the Kosovo War dates). Read the pages in full.
+- Empty on purpose (not researched): terrain, climate, resources, disasters, disease, trade, inequality, technology, religion, arts, daily life, elite conflict, peak and decline. No picture yet (`npm run fetch-images` needs the network).
+- Kosovo appears with no Serbia link in `links.json`, because "succeeded" would itself take a side. Decide how to link them.
+
 ## First-pass review by Claude (13 Nov 2026)
 
 The owner asked Claude to do a first pass. Claude read the Wikipedia pages named below on 13 Nov 2026 and changed wording only where a page supported it. **This is not a sign-off:** Claude is not a regional or subject expert, and the reader should still check the items marked “open”. The topic sections below show the wording **before** these changes; the data files have the new wording.
@@ -460,3 +486,83 @@ _Source: Wikipedia: Herero and Nama genocide_
 - [x] Reviewed by: Claude (AI), on the owner’s instruction   Date: 13 Nov 2026   Result: OK after correcting figures and adding Germany’s acknowledgement (Wikipedia: Herero and Nama genocide)
   Notes:
 
+
+### Kosovo, second research round (Claude, 18 Nov 2026)
+
+Added: terrain, climate, resources, education, religion, and travel openness fields; events for the 1989 Gazimestan speech, the 2023 Banjska attack and 2024 visa-free travel.
+
+Still open (needs a person):
+- Resolution 1244 full text, the full ICJ opinion (only paragraphs 1–82 were read; the vote and the authors-of-the-declaration paragraphs were not), the Military-Technical Agreement, Rambouillet text and Ahtisaari proposal were not read. Several official sites refused or were not allowed.
+- Missing persons: about 1,600 are still missing (ICRC, ICMP; mostly Albanians, roughly 400–500 Serbs, Roma and others). Counts differ by source. Not yet written into the entry.
+- Emigration to Turkey after 1953: figures vary widely between sources (about 50,000 in 1953–54 in one study; much higher in others). Not written in until a careful source is read.
+- Banjska: Kosovo and Serbia blame each other; no trial in Serbia as of Sept 2026. Event text only states what is agreed.
+- Still empty: disasters, disease, trade routes, inequality, elite conflict, inventions, communication and transport, arts and architecture, daily life, colonisation, peak period, decline signals.
+- Roma, Ashkali and Egyptian communities: the page could not be fetched.
+- Gazimestan speech: crowd size and meaning are contested; the speech text itself was not read.
+
+### Kosovo, third round (Claude, 18 Nov 2026)
+- Read ICJ advisory opinion paragraphs 102–123: the authors acted as representatives of the people of Kosovo outside the interim institutions; Resolution 1244 did not bar the declaration; the vote to comply was 9–5 and on substance 10–4 (matches the entry).
+- 2024 census final results (KAS, via Prishtina Insight snippet): 1,602,515 residents; Albanians 91.76%, Serbs 2.31%. This replaces the earlier 3.31% worry. Serb-majority north took part unevenly, so treat as estimated.
+- Roma, Ashkali, Egyptians: about 100,000 displaced in 1999 by one NGO estimate (Serbian academic paper gives the same figure), pre-1999 Roma about 120,000 (ERRC via MRG). Figures differ; not yet in the entry.
+- Resolution 1244 full text still unread (two hosts refused).
+
+### Kosovo, fourth round (Claude, 18 Nov 2026)
+Added events: Battle of Kosovo 1389, Ottoman conquest 1455, 1690 migration, League of Prizren 1878, 1912 Serbian takeover, interwar settlement, 1981 protests, 1989 autonomy cut; and a colonisation field.
+Open: the 1448 battle (not covered by the page read); the wartime period 1941–45 (the page failed to load; only the History of Kosovo timeline was read); the Dečani/Peć founding dates; the 1913 commission report; the 1690 numbers (30,000–40,000) are a range from one snippet; casualty counts for 1981 and 1989 vary. The events use only polities that exist on the map at that date, so most pre-2008 events do not show on the Kosovo page itself.
+
+### Kosovo, fifth round (Claude, 18 Nov 2026)
+Added events: Kosovo in WWII 1941, Bujan Conference 1943, province status 1963 and 1974, parallel institutions and 1991 referendum; filled the disease field (Roma camps, lead) and added Trepča to resources.
+Open: the WWII page loaded only as search snippets (figures are contested: 70,000–100,000 Serbs and Montenegrins, 72,000 Albanians settled); the Bujan resolution text was not read; the Roma lead-poisoning report was seen only as a title and contents list; no source yet for 1944–45 (Drenica uprising, military rule), 1948–66 detail, 1997–98 events, Račak, Rambouillet, NATO campaign detail, UNMIK years, 2004 (19 killed per the Kosovo Serbs page), the Specialist Chambers cases, and Brussels/Ohrid talks beyond what the first draft holds.
+
+### Kosovo, sixth round (Claude, 18 Nov 2026)
+Added events: NATO air campaign 1999, March 2004 unrest, Brussels Agreement 2013. The Račak page did not load, so Račak (January 1999) is still missing; the Ohrid (2023) and Washington (2020) agreements were not covered by the page read.
+
+### Kosovo, seventh round (Claude, 18 Nov 2026)
+Added events: Račak 1999, Rambouillet 1999, Ohrid 2023. Račak is read from search snippets only (the page did not load); the cause and label of the killings remain disputed, so the event states both accounts. The Ohrid wording comes from a think-tank analysis and news snippets; the agreement text was not read. Washington 2020 agreements still missing.
+
+### Kosovo, eighth round (Claude, 18 Nov 2026)
+Added events: Specialist Chambers 2016, Washington agreements 2020, political deadlock 2025–26. No living people are named in these (the defendants, officials and leaders are alive). Needs a person: confirm the Sept 2026 Specialist Chambers verdict against the court's own press release (only one page's references say so); check what happened after the June 2026 vote and whether a president was elected; date of the Jerusalem embassy opening (Mar 2021 per one source).
+
+### Kosovo, ninth round (Claude, 18 Nov 2026)
+Added events: Dardanian War 75 BCE, Visoki Dečani 1327, Drenica uprising 1945; filled the arts and architecture field. The Peć Patriarchate page did not load, so its dates (elevation, 1766 abolition, 1920 restoration) are not yet in the entry; the Dečani event has no related polity because no medieval Serbian state exists in the data. Open: Drenica casualty numbers (snippets only); Ottoman-era mosque details; Albanian oral/music traditions (only snippets); a person should check the besa/Kanun wording.
+
+### Kosovo, tenth round (Claude, 18 Nov 2026)
+Added: Peć Patriarchate event (1346; dates 1459–63 and 1555–57 vary between pages), and fields for transport, daily life, trade, inequality. The economy figures come from a Wikipedia page whose numbers are from different years (poverty 2015/2017, unemployment 2013, remittances ~2011); replace them with World Bank / Kosovo Agency of Statistics current data. The Roma 90% unemployment figure needs a better source. Now empty: disasters, elite conflict, inventions, peak period, decline signals.
+
+### Kosovo, eleventh round (Claude, 18 Nov 2026)
+Added: death of Stefan Dušan 1355 and the 1448 battle; a disasters field (air pollution only). Open: earthquakes and floods were not searched; the pollution death estimates (760 vs 3,700 a year) use different methods and years and need one chosen source; the 1448 troop numbers are ranges. Now empty: elite conflict, inventions, peak period, decline signals.
+
+### Kosovo, twelfth round (Claude, 18 Nov 2026)
+Added events: Resolution 1244, Batajnica and the missing persons, emigration to Turkey after 1953.
+- Resolution 1244: several mirrors (UNMIK, Security Council Report, OFAC, others) showed paragraphs 10 and 11(a) and the preamble in search snippets; the whole text was not fetched in one piece. A person should read the original at the UN and check paragraphs 10, 11 and 19.
+- Missing persons: the ICRC page fetch was not approved, so the ICRC consolidated list figures were not read directly. Counts of Albanians vs Serbs vs Roma differ by source (about 1,200/400/dozens vs about 1,100/500 combined). The war death toll differs too: about 13,000 (AP) vs 13,500 killed or missing (Humanitarian Law Center, in the 1999 war event).
+- Emigration to Turkey: totals range from about 50,000 (1953–54) to 195,000 (1954–57) to 'nearly 400,000' (1953–66). No archive source was read; Turkish archives are mostly closed. Whether it was voluntary is argued.
+
+### Kosovo, thirteenth round (Claude, 18 Nov 2026)
+Read Resolution 1244 (as a paragraph-by-paragraph summary from the phdn.org mirror; a person should still check it against the UN original), the ICRC statement of 30 Aug 2024 (over 1,600 still missing; no figure for resolved cases), the KFOR and EULEX pages. Added events for KFOR and EULEX; rewrote the Resolution 1244 event. Open: the ICRC consolidated list figures; the Kosovo Security Force and the Ahtisaari proposal; the 2012 end of supervised independence is in the Constitution notes only.
+
+### Kosovo, fourteenth round (Claude, 18 Nov 2026)
+Added events: Roma, Ashkali and Egyptian communities in 1999; Kosovo Security Force launched 2009; army law 2018; presidency crisis 2026; new government and president Sept-Oct 2026. No living people are named (offices only).
+- RAE: snippets only (ERRC, HRW, Refworld, K2.0). Pre-war numbers disputed (120,000 ERRC vs 98,000 community count). HRW's 51,000 forced returns is from a report whose date was not confirmed. Reserved-seat count (four) is from Wikipedia; K2.0 words it differently; check the Constitution, Article 64.
+- KSF: one Wikipedia page read in full plus snippets. Launch date 1 vs 21 January 2009; 2018 vote 98 (Oct first draft) vs 106 + 1 abstention (Periskopi); personnel and reserve numbers differ in the infobox and the text. Check NATO and the ministry.
+- 2026 politics: PACE page failed to load, so party results, turnout and reserved-seat results were not read. President's term end 4 vs 5 April. The Wikipedia page on the presidency was still changing. A person should check the Constitutional Court rulings.
+- Still empty: elite conflict, inventions, peak period, decline signals.
+
+### Kosovo, fifteenth round (Claude, 18 Nov 2026)
+Added events: Ahtisaari proposal 2007, Constitution 2008 (reserved seats, vote 97). Extended the missing-persons event with ICRC/ICMP/UN counts (6,057 / 6,049 / 6,027 reported; list 3,200 in 2004, 1,655 in 2014, 1,665 in 2016). Settled the RAE reserved-seat question: four seats (Article 64, text seen in an election-law database), so the round-fourteen note on it is closed.
+- Ahtisaari: snippets only. Article count 14 vs 15, submission date March vs April 2007. The envoy is not named in the entry. That the Security Council did not adopt it is from general knowledge; confirm.
+- Constitution: Article 64 and 148 text seen in snippets only; annexes unread. Case KO18/14 outcome not read.
+- Missing persons: ICRC and ICMP counts differ; the sources give the basis of each (tracing requests vs unmatched genetic data) but not why they differ. The ICRC list itself was not opened.
+- Still not done: Rambouillet and Ohrid texts, Military-Technical Agreement, UN original of 1244.
+
+### Kosovo, sixteenth round (Claude, 18 Nov 2026)
+Added the Kumanovo Military Technical Agreement event and extended the Rambouillet event. No signatories are named (some may be alive).
+- Kumanovo: zone timings (6/9/11 days) are from snippets of the UNMIK copy; whole text not read. Date effective 10 June, per Wikipedia and PAX.
+- Rambouillet: the Appendix B dispute rests on critics' pages (WSWS, Jan Oberg, Jungle World) and a Wikipedia mirror. A person should read Appendix B itself and add a neutral account of the supporters' view (I removed an unsourced line about supporters' view from the event). The three-year clause wording comes from the Wikipedia mirror.
+- Still not done: Ohrid text, UN original of 1244, Constitution annexes.
+
+### Kosovo, seventeenth round (Claude, 18 Nov 2026)
+Added earthquake events (Ferizaj-Viti 1921, Gjilan 2002), filled earthquakes in the disasters field, extended the Ohrid event with annex details.
+- Earthquakes: magnitudes of pre-1950 events are catalogue estimates; no casualty figure found for 1921. The 2002 death/injury numbers are from news reports via Wikipedia. Floods still not searched.
+- Ohrid: the annex page (UN peacemaker copy) was only seen as a snippet, so the article-by-article text is unread. 'Implicit recognition' is one legal commentator's view (Opinio Juris); Serbia's position is stated as a denial in general terms, not from a source read here. The Ohrid fields on the leaders are not named (alive).
+- Still empty: elite conflict, inventions, peak period, decline signals. Still unread: UN original of 1244, Constitution annexes, ICRC list.
