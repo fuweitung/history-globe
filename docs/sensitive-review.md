@@ -528,3 +528,6 @@ Added events: Dardanian War 75 BCE, Visoki Dečani 1327, Drenica uprising 1945; 
 
 ### Kosovo, tenth round (Claude, 18 Nov 2026)
 Added: Peć Patriarchate event (1346; dates 1459–63 and 1555–57 vary between pages), and fields for transport, daily life, trade, inequality. The economy figures come from a Wikipedia page whose numbers are from different years (poverty 2015/2017, unemployment 2013, remittances ~2011); replace them with World Bank / Kosovo Agency of Statistics current data. The Roma 90% unemployment figure needs a better source. Now empty: disasters, elite conflict, inventions, peak period, decline signals.
+
+### Kosovo, eleventh round (Claude, 18 Nov 2026)
+Added: death of Stefan Dušan 1355 and the 1448 battle; a disasters field (air pollution only). Open: earthquakes and floods were not searched; the pollution death estimates (760 vs 3,700 a year) use different methods and years and need one chosen source; the 1448 troop numbers are ranges. Now empty: elite conflict, inventions, peak period, decline signals.

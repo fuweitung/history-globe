@@ -13803,5 +13803,33 @@
     "description": "After being proclaimed emperor, Stefan Dušan raised the Serbian archbishopric, whose seat at the Monastery of Peć dated from the 13th century, to a patriarchate in 1346 (the Easter assembly of 16 April 1346 at Skopje is the date given by one source). The Ottomans let it lapse after 1463 and it was restored in 1557; it was abolished again in 1766, with jurisdiction passing to Constantinople, and renewed in 1920 with its seat at Peć. Serbs treat the monastery as a spiritual centre of their nation; it is on UNESCO's list with other medieval monuments in Kosovo. The 1459–63 and 1555–57 dates differ slightly between pages.",
     "relatedPolityIds": [],
     "source": "Wikipedia: Serbian Patriarchate of Peć, Patriarchal Monastery of Peć, List of heads of the Serbian Orthodox Church (search snippets, 18 Nov 2026)"
+  },
+  {
+    "id": "dusan-dies-prizren-1355",
+    "year": 1355,
+    "yearApproximate": false,
+    "lat": 42.21,
+    "lng": 20.74,
+    "type": "person",
+    "title": "Death of Stefan Dušan at Prizren",
+    "description": "Dušan became king of Serbia in 1331 and was crowned emperor of the Serbs and Greeks at Skopje in 1346. He took much of Byzantine Macedonia, Epirus, Thessaly and Albania, and issued a law code in 1349. Prizren was his court and he died there suddenly in December 1355 while planning a campaign against the Ottomans. His son could not keep the empire together and regional noble families gained power, which left the Serbian lands divided before the Battle of Kosovo in 1389. Later laws harshened toward Albanians and Catholics, according to one account; historians debate how far such rules were enforced.",
+    "relatedPolityIds": [
+      "byzantine-empire"
+    ],
+    "source": "Wikipedia: Stefan Dušan; Prizren (checked 18 Nov 2026)"
+  },
+  {
+    "id": "second-battle-of-kosovo-1448",
+    "year": 1448,
+    "yearApproximate": false,
+    "lat": 42.68,
+    "lng": 21.12,
+    "type": "war",
+    "title": "Second Battle of Kosovo",
+    "description": "On 17–20 October 1448 a Hungarian-led crusade met the Ottoman army under Murad II on the Kosovo plain. The crusaders lost; estimates of the armies and the dead differ widely (crusaders 22,000–47,000 depending on the section; Ottomans 40,000–60,000). The Albanian leader Skanderbeg's forces were meant to join but were blocked, and the role of the Serbian despot, who held the passes, is debated. The defeat left the Balkan Christian states to fall to the Ottomans one by one, and Constantinople fell in 1453.",
+    "relatedPolityIds": [
+      "ottoman-empire"
+    ],
+    "source": "Wikipedia: Battle of Kosovo (1448) (checked 18 Nov 2026)"
   }
 ]
