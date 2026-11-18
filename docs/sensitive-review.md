@@ -516,3 +516,6 @@ Open: the WWII page loaded only as search snippets (figures are contested: 70,00
 
 ### Kosovo, sixth round (Claude, 18 Nov 2026)
 Added events: NATO air campaign 1999, March 2004 unrest, Brussels Agreement 2013. The Račak page did not load, so Račak (January 1999) is still missing; the Ohrid (2023) and Washington (2020) agreements were not covered by the page read.
+
+### Kosovo, seventh round (Claude, 18 Nov 2026)
+Added events: Račak 1999, Rambouillet 1999, Ohrid 2023. Račak is read from search snippets only (the page did not load); the cause and label of the killings remain disputed, so the event states both accounts. The Ohrid wording comes from a think-tank analysis and news snippets; the agreement text was not read. Washington 2020 agreements still missing.
