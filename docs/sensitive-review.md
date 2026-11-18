@@ -552,7 +552,7 @@ Added events: Roma, Ashkali and Egyptian communities in 1999; Kosovo Security Fo
 Added events: Ahtisaari proposal 2007, Constitution 2008 (reserved seats, vote 97). Extended the missing-persons event with ICRC/ICMP/UN counts (6,057 / 6,049 / 6,027 reported; list 3,200 in 2004, 1,655 in 2014, 1,665 in 2016). Settled the RAE reserved-seat question: four seats (Article 64, text seen in an election-law database), so the round-fourteen note on it is closed.
 - Ahtisaari: snippets only. Article count 14 vs 15, submission date March vs April 2007. The envoy is not named in the entry. That the Security Council did not adopt it is from general knowledge; confirm.
 - Constitution: Article 64 and 148 text seen in snippets only; annexes unread. Case KO18/14 outcome not read.
-- Missing persons: counts differ because of method; the ICRC list itself was not opened.
+- Missing persons: ICRC and ICMP counts differ; the sources give the basis of each (tracing requests vs unmatched genetic data) but not why they differ. The ICRC list itself was not opened.
 - Still not done: Rambouillet and Ohrid texts, Military-Technical Agreement, UN original of 1244.
 
 ### Kosovo, sixteenth round (Claude, 18 Nov 2026)
