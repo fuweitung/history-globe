@@ -8596,12 +8596,12 @@
     "lng": 33.36,
     "type": "war",
     "title": "Division of Cyprus",
-    "description": "After a coup backed by Greece’s junta, Turkey invades; the island has been divided since.",
+    "description": "A coup ordered by Greece’s military junta overthrows the Cypriot president, aiming at union with Greece. Turkey lands troops, saying it is protecting Turkish Cypriots under the 1960 Treaty of Guarantee; Turkey calls it a peace operation, while Cyprus and Greece call it an invasion. Turkey ends up holding about 36–37% of the island, the UN Security Council calls for foreign troops to withdraw, and the island has been divided since.",
     "relatedPolityIds": [
       "cyprus",
       "republic-of-turkey"
     ],
-    "source": "Wikipedia: Turkish invasion of Cyprus"
+    "source": "Wikipedia: Turkish invasion of Cyprus (checked 18 Nov 2026)"
   },
   {
     "id": "siege-of-malta-1940",
@@ -9985,12 +9985,13 @@
     "lng": 46.75,
     "type": "war",
     "title": "First Nagorno-Karabakh War",
-    "description": "Armenians and Azerbaijanis fight over Karabakh (1988–94); hundreds of thousands are displaced.",
+    "description": "Nagorno-Karabakh’s Armenian-majority assembly votes to join Armenia (1988), and war follows until a 1994 ceasefire. Armenian forces end up holding the region and seven surrounding districts of Azerbaijan. About 724,000 Azerbaijanis and 300,000–500,000 Armenians are displaced.",
     "relatedPolityIds": [
       "armenia",
       "azerbaijan"
     ],
-    "source": "Wikipedia: First Nagorno-Karabakh War"
+    "source": "Wikipedia: First Nagorno-Karabakh War; Wikipedia: Nagorno-Karabakh conflict (checked 18 Nov 2026)",
+    "endYear": 1994
   },
   {
     "id": "karabakh-war-2020",
@@ -9999,12 +10000,12 @@
     "lng": 46.75,
     "type": "war",
     "title": "Second Nagorno-Karabakh War",
-    "description": "Azerbaijan retakes much of the region; in 2023 the remaining Armenian population leaves.",
+    "description": "Azerbaijan wins a six-week war and regains the districts around Nagorno-Karabakh and about a third of the region itself. After a blockade, a one-day Azerbaijani offensive in September 2023 takes the rest; more than 100,000 Armenians leave, and the breakaway Republic of Artsakh is dissolved. Azerbaijan says the region is internationally recognised as its territory; rights groups had warned of grave risks to the Armenian population.",
     "relatedPolityIds": [
       "armenia",
       "azerbaijan"
     ],
-    "source": "Wikipedia: Second Nagorno-Karabakh War"
+    "source": "Wikipedia: Second Nagorno-Karabakh War; Wikipedia: Nagorno-Karabakh conflict (checked 18 Nov 2026)"
   },
   {
     "id": "aral-sea-shrinks",
@@ -10307,12 +10308,12 @@
     "lng": 92.5,
     "type": "war",
     "title": "Rohingya crisis",
-    "description": "An army crackdown drives over 700,000 Rohingya into Bangladesh.",
+    "description": "After an armed Rohingya group attacks police posts, the army’s “clearance operations” drive more than 700,000 Rohingya into Bangladesh; studies estimate about 24,000 deaths. A UN fact-finding mission (2018) accused the military of genocide, crimes against humanity and ethnic cleansing. Myanmar says it was fighting terrorism and calls the findings exaggerated. In 2019 The Gambia took a genocide case to the International Court of Justice.",
     "relatedPolityIds": [
       "myanmar",
       "bangladesh"
     ],
-    "source": "Wikipedia: Rohingya genocide"
+    "source": "Wikipedia: Rohingya genocide (checked 18 Nov 2026)"
   },
   {
     "id": "myanmar-coup-2021",
@@ -10872,12 +10873,13 @@
     "lng": 114.16,
     "type": "culture",
     "title": "Hong Kong protests",
-    "description": "Mass protests against an extradition bill; a National Security Law follows in 2020.",
+    "description": "Mass protests begin against a bill that would allow suspects to be sent to mainland China for trial. The bill is withdrawn, but the protests widen into demands for an independent inquiry into police conduct and for universal suffrage; more than 10,000 people are arrested. In 2020 China’s national legislature passes a National Security Law for Hong Kong. The Hong Kong government says it restored stability; critics say it curbed freedoms, and several Western countries suspended their extradition treaties with Hong Kong.",
     "relatedPolityIds": [
       "hong-kong",
       "peoples-republic-of-china"
     ],
-    "source": "Wikipedia: 2019–2020 Hong Kong protests"
+    "source": "Wikipedia: 2019–2020 Hong Kong protests (checked 18 Nov 2026)",
+    "endYear": 2020
   },
   {
     "id": "puerto-rico-commonwealth",

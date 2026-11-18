@@ -176,7 +176,7 @@ Grouped by how much they matter. “Owner” means a decision or action only the
 | 2 | ✅ **Indexing switch** (PR #286). The built site says “do not index” by default. At launch change `VITE_INDEXABLE` to `'true'` in `pages.yml` (the `public/_headers` file does nothing on GitHub Pages) | Left in, search engines will never list the site. | Claude |
 | 3 | **Scan the repository history** for anything private (personal paths, keys, unused reports) before making the repository public. **Known finding:** about 224 commits carry two personal Gmail addresses (the owner’s and Mike’s) as the commit author. Making the repository public publishes them. Fix: each person switches to their GitHub “noreply” address for future commits (GitHub → Settings → Emails → keep my email private); rewriting old history is possible but risky and needs both people’s agreement | Public history cannot be fully taken back. | Owner and Mike decide; Claude scans |
 | 4 | **Decide the licence of the written content.** Much of the text is summarised from Wikipedia, which is CC BY-SA. Confirm that the About and README wording (“content stays under the licences of its sources”) is enough, or choose to release the data under CC BY-SA 4.0 | Avoids a licensing mistake that is hard to fix after launch. | Owner, with advice |
-| 5 | **Human read of the sensitive topics** (12 reviewed by an AI; six disputed topics not reviewed at all: Hong Kong 2019–20, Crimea, Cyprus, Western Sahara, Nagorno-Karabakh, Rohingya). Either get an expert or teacher to read them, or launch with those entries clearly marked and the beta bar visible | The biggest reputational risk for a history project. | Owner and Mike |
+| 5 | **Human read of the sensitive topics** (12 reviewed by an AI on 13 Nov; the six further disputed topics, Hong Kong 2019–20, Crimea, Cyprus, Western Sahara, Nagorno-Karabakh and Rohingya, reviewed by an AI on 18 Nov, see `docs/sensitive-review.md`; none read by a person yet). **Top priority for the owner since launch.** Either get an expert or teacher to read them, or launch with those entries clearly marked and the beta bar visible | The biggest reputational risk for a history project. | Owner and Mike |
 | 6 | **Plan who reads the Report-a-mistake form**, how often, and how to reply. Turn on email notifications for the form | Reports are the safety net; unread reports would break the promise on the About page. | Owner, Mike |
 | 7 | ✅ Beta bar, About page, Made-by cards (both filled in), licence file, no-living-people rule | Already live in the code. | Done |
 
@@ -217,6 +217,8 @@ Grouped by how much they matter. “Owner” means a decision or action only the
 ---
 
 ## 4. Suggested order
+
+> **Top priority now (Fuwei, set 18 Nov 2026):** the site is live and open to search engines, but item 5 is not done. Read the six disputed topics (Hong Kong 2019–20, Crimea, Cyprus, Western Sahara, Nagorno-Karabakh, Rohingya) against the new wording and the “Open (needs a person)” list in `docs/sensitive-review.md`, then agree item 6 (who reads the Report-a-mistake form) with Mike. Do this before anything else on this plan.
 
 1. **Now (while Mike finishes #78):** approve this plan; decide items 1, 4 and 14; choose the hosting route.
 2. **Preparation (about a week):** Claude does items 2, 3, 8, 11, 12 and 16 in small pull requests; owner records the video (item 9) and tests phones (item 10).

@@ -16,7 +16,26 @@ Mark the result at the end of each topic: **OK**, **Reword** (say how) or **Remo
 
 On the owner’s instruction, Claude (an AI, not a human or regional expert) checked each topic against pages it actually read on 13 Nov 2026 and signed off the 12 topics below. **What this sign-off means:** every statement in these entries now matches the page cited, uses neutral wording, gives both sides where scholars or governments disagree, and cites what was read. **What it does not mean:** it is not a review by a historian or by someone from the affected regions. The sources are mostly Wikipedia, so the most sensitive claims (genocide wording, death tolls) should still be checked against a second source when one is available. The topic sections below show the wording **before** the changes; the data files have the current wording.
 
-Not on the original list but also disputed, and not reviewed: Hong Kong 2019–20, Crimea, Cyprus, Western Sahara, Nagorno-Karabakh, Rohingya.
+The six further disputed topics (Hong Kong 2019–20, Crimea, Cyprus, Western Sahara, Nagorno-Karabakh, Rohingya) were reviewed the same way on 18 Nov 2026; see the next section.
+
+## Six further disputed topics (Claude, 18 Nov 2026)
+
+Requested by Mike (launch plan item 5). Same standard and same limits as the sign-off above: Claude (an AI) read the Wikipedia pages named in each entry’s source on 18 Nov 2026 and changed wording only where a page supported it. **This still needs a human read** before item 5 can be closed.
+
+| Topic | Entries changed | What changed |
+|---|---|---|
+| Hong Kong 2019–20 | event `hong-kong-protests-2019` | Was one line. Now says what the bill did, that it was withdrawn, the wider demands, arrests (10,000+), and both views of the 2020 National Security Law (government: restored stability; critics: curbed freedoms; Western extradition treaties suspended). The `hong-kong` checklist was already neutral; no change. |
+| Crimea | `russian-federation`, `ukraine` `territoryChange` | Russia’s item now marked disputed and gives both views: referendum under Russian military control; Russia’s self-determination claim; UN General Assembly 100–11 vote; most countries regard the annexations as illegal. Ukraine’s item adds Russia’s view. |
+| Cyprus | event `cyprus-1974`; `cyprus` summary, `migration`, `institutions`, `territoryChange`; `republic-of-turkey` `majorWars` | Names both terms (invasion / peace operation) and Turkey’s stated reason (1960 Treaty of Guarantee). Displacement now the page’s ranges (140,000–200,000 Greek Cypriots; 50,000–60,000 Turkish Cypriots) and adds 1963–64 Turkish Cypriot displacement. 36–37% of the island; UN Security Council called the 1983 declaration invalid. Turkey’s entry no longer uses only its own term (“intervention”). |
+| Western Sahara | `morocco` `territoryChange`; `mauritania` `majorWars`, `armyAndTech`, `neighbours` | Morocco’s item said it “annexed” the territory in 1975; it now gives the Madrid Accords, the shared then full takeover (1979), UN non-self-governing status, the Polisario/Sahrawi Republic claim (AU member), about 70% / 30% control, and the autonomy plan and who backs it; marked disputed. Mauritania’s `majorWars` contained a leftover reviewer note (“the page does not give 1975–79”), now removed; neighbours no longer list Western Sahara as part of Morocco. |
+| Nagorno-Karabakh | events `karabakh-war-1988`, `karabakh-war-2020`; `azerbaijan` summary and `migration` | The 2020 event said the Armenian population “leaves”; it now gives the blockade, the September 2023 offensive, 100,000+ Armenians leaving, Artsakh dissolved, Azerbaijan’s position and rights groups’ warnings. Displacement figures corrected to the page (about 724,000 Azerbaijanis and 300,000–500,000 Armenians; the old text said over 800,000 and 300,000). |
+| Rohingya | event `rohingya-crisis`; `myanmar`, `bangladesh` `migration` | Adds the ARSA attacks that preceded the operations, about 24,000 estimated deaths, the 2018 UN fact-finding mission’s genocide finding, Myanmar’s denial, The Gambia’s ICJ case, and the 1982 citizenship law; Myanmar’s item marked disputed. |
+
+**Open (needs a person):**
+- A second source for the most sensitive claims: Rohingya death toll and genocide finding, Karabakh displacement figures (the Wikipedia article’s lead and body disagree), Cyprus displacement ranges.
+- Later developments not added because the pages read were unclear or out of date: the ICJ ruling on the Rohingya case; the 2025 Armenia–Azerbaijan agreement (the page says both signed and only initialled); the UN Security Council’s October 2025 Western Sahara resolution (read, but left out to keep the entry short).
+- Gaps rather than wrong wording: there is no event for the 2014 annexation of Crimea, the 1975 Green March, or the 2023 Karabakh offensive (folded into the 2020 event). Consider adding them.
+- `hong-kong` `declineSignals` treats the 2020–21 changes as signs of decline; that framing is a judgement a reviewer should look at.
 
 ## First-pass review by Claude (13 Nov 2026)
 
@@ -35,7 +54,7 @@ The owner asked Claude to do a first pass. Claude read the Wikipedia pages named
 **Open (needs a person):**
 - Later on 13 Nov: Israel identity line, ROC/Taiwan wording, Holodomor, slave-trade figures, Native American removal and the British Empire climate source were read and fixed (see the sign-off above).
 - Wikipedia is the only source for most of these. A historian or a second source should confirm the most sensitive claims (genocide wording, death tolls).
-- Not on the list but disputed: Hong Kong 2019–20, Crimea, Cyprus, Western Sahara, Nagorno-Karabakh, Rohingya.
+- Not on the list but disputed: Hong Kong 2019–20, Crimea, Cyprus, Western Sahara, Nagorno-Karabakh, Rohingya (first pass done 18 Nov 2026; see below).
 
 ## Points I noticed first (from reading the pack once; not a review)
 
