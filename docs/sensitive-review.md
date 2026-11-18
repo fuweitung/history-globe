@@ -522,3 +522,6 @@ Added events: Račak 1999, Rambouillet 1999, Ohrid 2023. Račak is read from sea
 
 ### Kosovo, eighth round (Claude, 18 Nov 2026)
 Added events: Specialist Chambers 2016, Washington agreements 2020, political deadlock 2025–26. No living people are named in these (the defendants, officials and leaders are alive). Needs a person: confirm the Sept 2026 Specialist Chambers verdict against the court's own press release (only one page's references say so); check what happened after the June 2026 vote and whether a president was elected; date of the Jerusalem embassy opening (Mar 2021 per one source).
+
+### Kosovo, ninth round (Claude, 18 Nov 2026)
+Added events: Dardanian War 75 BCE, Visoki Dečani 1327, Drenica uprising 1945; filled the arts and architecture field. The Peć Patriarchate page did not load, so its dates (elevation, 1766 abolition, 1920 restoration) are not yet in the entry; the Dečani event has no related polity because no medieval Serbian state exists in the data. Open: Drenica casualty numbers (snippets only); Ottoman-era mosque details; Albanian oral/music traditions (only snippets); a person should check the besa/Kanun wording.
