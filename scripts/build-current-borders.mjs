@@ -87,6 +87,28 @@ function insidePoint(f) {
   return big[0][0];
 }
 
+/**
+ * Natural Earth draws Crimea inside Russia (its "on the ground" rule). Most governments and the UN
+ * General Assembly treat it as part of Ukraine, so the map follows that majority view: the Crimea
+ * piece moves from Russia to Ukraine. The disputed status is explained in the app text, not drawn.
+ */
+export function moveCrimeaToUkraine(features) {
+  const russia = features.find((f) => f.properties.NE_ADMIN === 'Russia');
+  const ukraine = features.find((f) => f.properties.NE_ADMIN === 'Ukraine');
+  if (!russia || !ukraine) return false;
+  const inCrimea = (poly) => {
+    const xs = poly[0].map((c) => c[0]), ys = poly[0].map((c) => c[1]);
+    return Math.min(...xs) > 32 && Math.max(...xs) < 37 && Math.min(...ys) > 44 && Math.max(...ys) < 46.5;
+  };
+  const parts = polys(russia.geometry);
+  const crimea = parts.filter(inCrimea);
+  if (!crimea.length) return false;
+  const rest = parts.filter((p) => !inCrimea(p));
+  russia.geometry = { type: 'MultiPolygon', coordinates: rest };
+  ukraine.geometry = { type: 'MultiPolygon', coordinates: [...polys(ukraine.geometry), ...crimea] };
+  return true;
+}
+
 export async function buildCurrentBorders() {
   const countries = JSON.parse(await readFile(COUNTRIES_CACHE, 'utf8'));
   const old = JSON.parse(await readFile(join(dir, 'world_2010.geojson'), 'utf8'));
@@ -115,6 +137,7 @@ export async function buildCurrentBorders() {
     }
     features.push({ type: 'Feature', properties: { ...props, SOURCE: 'Natural Earth 1:50m', NE_ADMIN: admin }, geometry });
   }
+  moveCrimeaToUkraine(features);
   const path = join(dir, `world_${CURRENT_YEAR}.geojson`);
   await writeFile(path, `{"type":"FeatureCollection", "features": [\n${features.map((f) => JSON.stringify(f)).join(',\n')}\n]}\n`);
   // The new file is not simplified yet: `npm run simplify-borders` does that (fetch-borders runs it).
