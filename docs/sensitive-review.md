@@ -513,3 +513,6 @@ Open: the 1448 battle (not covered by the page read); the wartime period 1941–
 ### Kosovo, fifth round (Claude, 18 Nov 2026)
 Added events: Kosovo in WWII 1941, Bujan Conference 1943, province status 1963 and 1974, parallel institutions and 1991 referendum; filled the disease field (Roma camps, lead) and added Trepča to resources.
 Open: the WWII page loaded only as search snippets (figures are contested: 70,000–100,000 Serbs and Montenegrins, 72,000 Albanians settled); the Bujan resolution text was not read; the Roma lead-poisoning report was seen only as a title and contents list; no source yet for 1944–45 (Drenica uprising, military rule), 1948–66 detail, 1997–98 events, Račak, Rambouillet, NATO campaign detail, UNMIK years, 2004 (19 killed per the Kosovo Serbs page), the Specialist Chambers cases, and Brussels/Ohrid talks beyond what the first draft holds.
+
+### Kosovo, sixth round (Claude, 18 Nov 2026)
+Added events: NATO air campaign 1999, March 2004 unrest, Brussels Agreement 2013. The Račak page did not load, so Račak (January 1999) is still missing; the Ohrid (2023) and Washington (2020) agreements were not covered by the page read.
