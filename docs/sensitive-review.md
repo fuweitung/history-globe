@@ -519,3 +519,6 @@ Added events: NATO air campaign 1999, March 2004 unrest, Brussels Agreement 2013
 
 ### Kosovo, seventh round (Claude, 18 Nov 2026)
 Added events: Račak 1999, Rambouillet 1999, Ohrid 2023. Račak is read from search snippets only (the page did not load); the cause and label of the killings remain disputed, so the event states both accounts. The Ohrid wording comes from a think-tank analysis and news snippets; the agreement text was not read. Washington 2020 agreements still missing.
+
+### Kosovo, eighth round (Claude, 18 Nov 2026)
+Added events: Specialist Chambers 2016, Washington agreements 2020, political deadlock 2025–26. No living people are named in these (the defendants, officials and leaders are alive). Needs a person: confirm the Sept 2026 Specialist Chambers verdict against the court's own press release (only one page's references say so); check what happened after the June 2026 vote and whether a president was elected; date of the Jerusalem embassy opening (Mar 2021 per one source).
