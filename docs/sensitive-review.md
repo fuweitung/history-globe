@@ -525,3 +525,6 @@ Added events: Specialist Chambers 2016, Washington agreements 2020, political de
 
 ### Kosovo, ninth round (Claude, 18 Nov 2026)
 Added events: Dardanian War 75 BCE, Visoki Dečani 1327, Drenica uprising 1945; filled the arts and architecture field. The Peć Patriarchate page did not load, so its dates (elevation, 1766 abolition, 1920 restoration) are not yet in the entry; the Dečani event has no related polity because no medieval Serbian state exists in the data. Open: Drenica casualty numbers (snippets only); Ottoman-era mosque details; Albanian oral/music traditions (only snippets); a person should check the besa/Kanun wording.
+
+### Kosovo, tenth round (Claude, 18 Nov 2026)
+Added: Peć Patriarchate event (1346; dates 1459–63 and 1555–57 vary between pages), and fields for transport, daily life, trade, inequality. The economy figures come from a Wikipedia page whose numbers are from different years (poverty 2015/2017, unemployment 2013, remittances ~2011); replace them with World Bank / Kosovo Agency of Statistics current data. The Roma 90% unemployment figure needs a better source. Now empty: disasters, elite conflict, inventions, peak period, decline signals.
