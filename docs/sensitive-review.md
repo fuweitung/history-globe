@@ -531,3 +531,9 @@ Added: Peć Patriarchate event (1346; dates 1459–63 and 1555–57 vary between
 
 ### Kosovo, eleventh round (Claude, 18 Nov 2026)
 Added: death of Stefan Dušan 1355 and the 1448 battle; a disasters field (air pollution only). Open: earthquakes and floods were not searched; the pollution death estimates (760 vs 3,700 a year) use different methods and years and need one chosen source; the 1448 troop numbers are ranges. Now empty: elite conflict, inventions, peak period, decline signals.
+
+### Kosovo, twelfth round (Claude, 18 Nov 2026)
+Added events: Resolution 1244, Batajnica and the missing persons, emigration to Turkey after 1953.
+- Resolution 1244: several mirrors (UNMIK, Security Council Report, OFAC, others) showed paragraphs 10 and 11(a) and the preamble in search snippets; the whole text was not fetched in one piece. A person should read the original at the UN and check paragraphs 10, 11 and 19.
+- Missing persons: the ICRC page fetch was not approved, so the ICRC consolidated list figures were not read directly. Counts of Albanians vs Serbs vs Roma differ by source (about 1,200/400/dozens vs about 1,100/500 combined). The war death toll differs too: about 13,000 (AP) vs 13,500 killed or missing (Humanitarian Law Center, in the 1999 war event).
+- Emigration to Turkey: totals range from about 50,000 (1953–54) to 195,000 (1954–57) to 'nearly 400,000' (1953–66). No archive source was read; Turkish archives are mostly closed. Whether it was voluntary is argued.
