@@ -499,3 +499,9 @@ Still open (needs a person):
 - Still empty: disasters, disease, trade routes, inequality, elite conflict, inventions, communication and transport, arts and architecture, daily life, colonisation, peak period, decline signals.
 - Roma, Ashkali and Egyptian communities: the page could not be fetched.
 - Gazimestan speech: crowd size and meaning are contested; the speech text itself was not read.
+
+### Kosovo, third round (Claude, 18 Nov 2026)
+- Read ICJ advisory opinion paragraphs 102–123: the authors acted as representatives of the people of Kosovo outside the interim institutions; Resolution 1244 did not bar the declaration; the vote to comply was 9–5 and on substance 10–4 (matches the entry).
+- 2024 census final results (KAS, via Prishtina Insight snippet): 1,602,515 residents; Albanians 91.76%, Serbs 2.31%. This replaces the earlier 3.31% worry. Serb-majority north took part unevenly, so treat as estimated.
+- Roma, Ashkali, Egyptians: about 100,000 displaced in 1999 by one NGO estimate (Serbian academic paper gives the same figure), pre-1999 Roma about 120,000 (ERRC via MRG). Figures differ; not yet in the entry.
+- Resolution 1244 full text still unread (two hosts refused).
