@@ -486,3 +486,16 @@ _Source: Wikipedia: Herero and Nama genocide_
 - [x] Reviewed by: Claude (AI), on the owner’s instruction   Date: 13 Nov 2026   Result: OK after correcting figures and adding Germany’s acknowledgement (Wikipedia: Herero and Nama genocide)
   Notes:
 
+
+### Kosovo, second research round (Claude, 18 Nov 2026)
+
+Added: terrain, climate, resources, education, religion, and travel openness fields; events for the 1989 Gazimestan speech, the 2023 Banjska attack and 2024 visa-free travel.
+
+Still open (needs a person):
+- Resolution 1244 full text, the full ICJ opinion (only paragraphs 1–82 were read; the vote and the authors-of-the-declaration paragraphs were not), the Military-Technical Agreement, Rambouillet text and Ahtisaari proposal were not read. Several official sites refused or were not allowed.
+- Missing persons: about 1,600 are still missing (ICRC, ICMP; mostly Albanians, roughly 400–500 Serbs, Roma and others). Counts differ by source. Not yet written into the entry.
+- Emigration to Turkey after 1953: figures vary widely between sources (about 50,000 in 1953–54 in one study; much higher in others). Not written in until a careful source is read.
+- Banjska: Kosovo and Serbia blame each other; no trial in Serbia as of Sept 2026. Event text only states what is agreed.
+- Still empty: disasters, disease, trade routes, inequality, elite conflict, inventions, communication and transport, arts and architecture, daily life, colonisation, peak period, decline signals.
+- Roma, Ashkali and Egyptian communities: the page could not be fetched.
+- Gazimestan speech: crowd size and meaning are contested; the speech text itself was not read.
