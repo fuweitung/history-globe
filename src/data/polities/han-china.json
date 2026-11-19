@@ -102,9 +102,9 @@
     },
     "economy": {
       "economicBase": {
-        "value": "Agriculture worked by smallholder families, plus crafts, iron and salt production, and long-distance trade.",
-        "certainty": "confirmed",
-        "source": "Loewe (2006)"
+        "value": "Agriculture worked by smallholder families, plus crafts, iron and salt production, and long-distance trade. A family of five needed roughly 127–140 hu of unhusked grain a year, and average yields were about 1.0–1.5 shi per mu (scholars' estimates).",
+        "certainty": "estimated",
+        "source": "Loewe (2006); Wikipedia: Economy of the Han dynasty (checked 20 Nov 2026)"
       },
       "tradeRoutes": {
         "value": "Zhang Qian's missions to Central Asia (139–125 BCE) opened the overland routes later called the Silk Road. Silk went west, and horses, glass and other goods came east. Sea trade reached Southeast Asia and India.",
@@ -119,10 +119,10 @@
         "source": "Maddison, Contours of the World Economy (2007)"
       },
       "moneyAndTax": {
-        "value": "Bronze wuzhu coins, minted by the central government from 119 BCE, became the standard currency for centuries. Revenue came from land tax, poll taxes and labour service, plus the salt and iron monopolies (nationalised in 117 BCE).",
+        "value": "Bronze wuzhu coins, minted by the central government from 119 BCE, became the standard currency for centuries. Revenue came from land tax, poll taxes and labour service, plus the salt and iron monopolies (nationalised in 117 BCE). In the Eastern Han the land tax fell from a tenth of the harvest to a thirtieth (30 CE) and later toward a hundredth, while poll and property taxes were raised. Dong Zhuo melted bells and bronze statues into uneven coins in the 190s, which devalued all copper cash.",
         "year": -119,
         "certainty": "confirmed",
-        "source": "Wikipedia: Han dynasty (checked 5 Nov 2026)"
+        "source": "Wikipedia: Han dynasty (checked 5 Nov 2026); Wikipedia: Economy of the Han dynasty (checked 20 Nov 2026); Wikipedia: Dong Zhuo (checked 20 Nov 2026)"
       },
       "inequality": {
         "value": "Large landowning families built up estates over time while many smallholders fell into tenancy. Reformers, including Wang Mang, tried and failed to limit large estates.",

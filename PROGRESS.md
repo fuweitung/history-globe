@@ -2,7 +2,7 @@
 
 How complete History Globe is. **The numbers are calculated by `npm run progress`**; run it after a change and commit the new file. Only the Roadmap section below is edited by hand.
 
-_Last updated: 2026-11-18_
+_Last updated: 2026-11-19_
 
 <!-- roadmap:start -->
 ## Roadmap
@@ -68,7 +68,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | Civilisations shown on the map | `███████████████████░` 97% | 490 of 507; the rest fly to their capital |
 | Checklist filled in | `████████████████████` 99% | 21642 of 21801 items (507 × 43) |
 | Answers with real detail | `███████████████████░` 96% | 779 answers are still empty or placeholders such as “Unknown.” |
-| Fact-checked against a source | `████████░░░░░░░░░░░░` 42% | 9265 items say “(checked …)”; the rest still need a second look |
+| Fact-checked against a source | `█████████░░░░░░░░░░░` 43% | 9267 items say “(checked …)”; the rest still need a second look |
 | Civilisations with events | `████████████████████` 99% | 501 of 507 |
 | Civilisations with famous people | `██████████████░░░░░░` 71% | 358 of 507; many prehistoric cultures have no known names |
 | Civilisations linked to others | `████████████████████` 99% | 500 of 507 (succeeded, conquered, traded with…) |
@@ -77,7 +77,7 @@ Tick a box (`- [x]`) when something is merged into `main`. Put the GitHub issue 
 | People pictures | `██████████████████░░` 91% | 412 of 451 |
 | Event pictures | `███████████████░░░░░` 74% | 753 of 1011 |
 
-Certainty of all items: 14218 confirmed · 6793 estimated · 631 disputed.
+Certainty of all items: 14217 confirmed · 6794 estimated · 631 disputed.
 Also in the app: 1011 events · 451 people · 18 routes · 11 stories written (hidden in the app for now).
 
 ## Map coverage by year
